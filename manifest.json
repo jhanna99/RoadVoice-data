@@ -2,6 +2,7 @@
   "version": 1,
   "generated": "2026-01-08T03:11:08.293Z",
   "atpBuildDate": "2026-01-05",
+  "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
     "tjmaxx": {
       "displayName": "TJ Maxx",

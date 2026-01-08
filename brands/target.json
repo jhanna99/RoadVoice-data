@@ -1,0 +1,14 @@
+{"key":"target","displayName":"Target","category":"shopping","useLocationName":false,"locations":[
+  {"lat":45.052732,"lon":-93.365555,"city":"Crystal","state":"MN","address":"5537 W Broadway Ave","name":""},
+  {"lat":38.754066,"lon":-90.426423,"city":"Bridgeton","state":"MO","address":"12275 St Charles Rock Rd","name":""},
+  {"lat":44.860029,"lon":-93.311579,"city":"Bloomington","state":"MN","address":"2555 W 79th St","name":""},
+  {"lat":44.949601,"lon":-93.028418,"city":"St. Paul","state":"MN","address":"1744 Suburban Ave","name":""},
+  {"lat":46.860628,"lon":-96.852985,"city":"Fargo","state":"ND","address":"4202 13th Ave SW","name":""},
+  {"lat":32.856408,"lon":-96.752703,"city":"Dallas","state":"TX","address":"6464 E NORTHWEST HWY STE 212","name":""},
+  {"lat":41.318745,"lon":-96.026913,"city":"Omaha","state":"NE","address":"6636 N 73rd Plz","name":""},
+  {"lat":41.877739,"lon":-87.654667,"city":"Chicago","state":"IL","address":"1101 W Jackson Blvd","name":""},
+  {"lat":45.13425,"lon":-93.372423,"city":"Brooklyn Park","state":"MN","address":"7000 Target Pkwy N","name":""},
+  {"lat":38.953999,"lon":-119.942755,"city":"South Lake Tahoe","state":"CA","address":"4000 Lake Tahoe Blvd, Unit 6","name":""},
+  {"lat":33.8874,"lon":-117.828151,"city":"Yorba Linda","state":"CA","address":"17506 Yorba Linda Blvd","name":""},
+  {"lat":30.39073,"lon":-90.08618,"city":"Mandeville","state":"LA","address":"3450 U.S. Hwy 190 Ste 2","name":""}
+]}

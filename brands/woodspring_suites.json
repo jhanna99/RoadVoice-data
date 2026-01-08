@@ -1,0 +1,17 @@
+{"key":"woodspring_suites","displayName":"WoodSpring Suites","category":"hotels","useLocationName":false,"locations":[
+  {"lat":42.376007,"lon":-87.94348,"city":"Gurnee","state":"IL","address":"5742 Northridge Drive","name":""},
+  {"lat":39.319038,"lon":-84.493438,"city":"Fairfield","state":"OH","address":"6725 Fairfield Business Ctr.","name":""},
+  {"lat":39.396572,"lon":-77.431308,"city":"Frederick","state":"MD","address":"341 Ballenger Center Drive","name":""},
+  {"lat":30.374587,"lon":-97.676813,"city":"Austin","state":"TX","address":"11105 N Interstate 35 Frontage","name":""},
+  {"lat":30.485023,"lon":-97.646566,"city":"Round Rock","state":"TX","address":"1201 Louis Henna Blvd","name":""},
+  {"lat":30.613935,"lon":-97.689873,"city":"Georgetown","state":"TX","address":"904 Rockmoor Drive","name":""},
+  {"lat":30.328667,"lon":-97.66597,"city":"Austin","state":"TX","address":"8110 US 290E","name":""},
+  {"lat":30.538399,"lon":-97.8151,"city":"Cedar Park","state":"TX","address":"5210 183A Toll Road","name":""},
+  {"lat":30.206559,"lon":-97.756356,"city":"Austin","state":"TX","address":"4911 S IH 35","name":""},
+  {"lat":35.37191,"lon":-80.708138,"city":"Concord","state":"NC","address":"7845 Commons Park Circle","name":""},
+  {"lat":35.285764,"lon":-80.767914,"city":"Charlotte","state":"NC","address":"7007 MacFarlane Blvd","name":""},
+  {"lat":35.14095,"lon":-80.91562,"city":"Charlotte","state":"NC","address":"1625 Deboer Avenue","name":""},
+  {"lat":35.19211,"lon":-80.92176,"city":"Charlotte","state":"NC","address":"4125 Meadow Oak Dr.","name":""},
+  {"lat":35.354234,"lon":-80.840758,"city":"Charlotte","state":"NC","address":"9715 Statesville Rd.","name":""},
+  {"lat":40.874205,"lon":-96.69325,"city":"Lincoln","state":"NE","address":"2050 Fletcher","name":""}
+]}

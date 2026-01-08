@@ -1,0 +1,17 @@
+{"key":"food_lion","displayName":"Food Lion","category":"grocery","useLocationName":false,"locations":[
+  {"lat":37.803393,"lon":-80.284072,"city":"","state":"WV","address":"1 Alvon Rd","name":""},
+  {"lat":38.306949,"lon":-80.830273,"city":"","state":"WV","address":"1005 Industrial Drive","name":""},
+  {"lat":37.726166,"lon":-81.242537,"city":"","state":"WV","address":"834 Robert C Byrd Dr","name":""},
+  {"lat":39.435969,"lon":-77.820894,"city":"","state":"WV","address":"85 Maddex Square Drive","name":""},
+  {"lat":39.330486,"lon":-78.703048,"city":"","state":"WV","address":"22240 Northwestern Pk","name":""},
+  {"lat":39.261849,"lon":-80.326973,"city":"","state":"WV","address":"600 Buckhannon Pike","name":""},
+  {"lat":39.051804,"lon":-78.976931,"city":"","state":"WV","address":"542 South Main Street","name":""},
+  {"lat":39.361547,"lon":-78.03398,"city":"","state":"WV","address":"130 Duella Dr","name":""},
+  {"lat":39.576971,"lon":-77.875669,"city":"","state":"WV","address":"78 Worchester Drive","name":""},
+  {"lat":39.577009,"lon":-77.875616,"city":"","state":"WV","address":"78 Worchester Dr","name":""},
+  {"lat":39.474887,"lon":-80.176919,"city":"","state":"WV","address":"308 Marion Square","name":""},
+  {"lat":39.269042,"lon":-80.371288,"city":"","state":"WV","address":"1713 Milford St","name":""},
+  {"lat":39.296231,"lon":-77.828935,"city":"","state":"WV","address":"96 Somerset Boulevard","name":""},
+  {"lat":39.606967,"lon":-78.239973,"city":"","state":"WV","address":"70 Morgan Square Ste. 1","name":""},
+  {"lat":37.799485,"lon":-81.175296,"city":"","state":"WV","address":"1018 N Eisenhower Drive","name":""}
+]}

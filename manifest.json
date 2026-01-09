@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T18:21:52.502Z",
+  "generated": "2026-01-09T18:49:28.943Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1219,6 +1219,22 @@
       "locationCount": 2048,
       "fileSize": 166271,
       "checksum": "2f78c838b7e4df5105e7ad0109d6bcc0"
+    },
+    "culvers": {
+      "displayName": "Culver's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1065,
+      "fileSize": 87247,
+      "checksum": "3df179cee92243e00038caef1b438bd7"
+    },
+    "in_n_out": {
+      "displayName": "In-N-Out",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 431,
+      "fileSize": 34863,
+      "checksum": "60dc2fe3ebf8727cfa9d9172263105c8"
     }
   }
 }

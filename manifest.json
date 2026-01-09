@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T20:22:37.958Z",
+  "generated": "2026-01-09T20:49:48.273Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -840,9 +840,9 @@
       "displayName": "Food Lion",
       "category": "grocery",
       "useLocationName": false,
-      "locationCount": 15,
-      "fileSize": 1645,
-      "checksum": "97bdd94459dd37f7991f319c617a22a1"
+      "locationCount": 1174,
+      "fileSize": 120822,
+      "checksum": "ba8a5e9e7ee9213791dd1d7dfcba77fc"
     },
     "snap_fitness": {
       "displayName": "Snap Fitness",

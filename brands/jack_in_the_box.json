@@ -1,5 +1,4 @@
 {"key":"jack_in_the_box","displayName":"Jack in the Box","category":"restaurant","useLocationName":false,"locations":[
-  {"lat":42.5998,"lon":-71.3673,"city":"Chelmsford","state":"MA","address":"123 Chelmsford St","name":""},
   {"lat":47.071909,"lon":-122.418623,"city":"Spanaway","state":"WA","address":"20505 Mountain Hwy E","name":""},
   {"lat":47.416184,"lon":-122.196972,"city":"Kent","state":"WA","address":"20746 108th Ave SE","name":""},
   {"lat":47.382657,"lon":-122.231169,"city":"Kent","state":"WA","address":"221 Central Ave N","name":""},

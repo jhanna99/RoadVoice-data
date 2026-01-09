@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T20:07:21.309Z",
+  "generated": "2026-01-09T20:21:29.479Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1169,72 +1169,72 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1271,
-      "fileSize": 104658,
-      "checksum": "06f4fb51a4d42e4dc42825cd23a0b864"
+      "fileSize": 141580,
+      "checksum": "282cca9ad5638392ff9a36cee10daaa3"
     },
     "taco_bell": {
       "displayName": "Taco Bell",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 8214,
-      "fileSize": 672877,
-      "checksum": "3371a8dfadc6a31844dfb1821a7eefa0"
+      "fileSize": 912397,
+      "checksum": "bec3451789ccdb2d6a413b95cb4a3b56"
     },
     "five_guys": {
       "displayName": "Five Guys",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1526,
-      "fileSize": 125205,
-      "checksum": "6abc442f9e3a517296a20c94222e9d8d"
+      "fileSize": 176188,
+      "checksum": "a453a526a57e8b73bc2f827d6c989b62"
     },
     "panera": {
       "displayName": "Panera Bread",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 2217,
-      "fileSize": 181752,
-      "checksum": "8a463c8b754b54b55f2b3c7947355281"
+      "fileSize": 249622,
+      "checksum": "b7a1a60e54530ae109decbcce975b4a9"
     },
     "dominos": {
       "displayName": "Domino's",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 7230,
-      "fileSize": 592627,
-      "checksum": "7ffb452703d07d6457f02ba40d4f0242"
+      "fileSize": 808435,
+      "checksum": "f75a372a6528763c1d7bc699b96c6824"
     },
     "sonic": {
       "displayName": "Sonic",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 4061,
-      "fileSize": 325736,
-      "checksum": "021872304a86159110bbb0936c143549"
+      "fileSize": 448333,
+      "checksum": "f98f0f4aa887fc665a7ab7ee13f9bd83"
     },
     "waffle_house": {
       "displayName": "Waffle House",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 2048,
-      "fileSize": 166271,
-      "checksum": "2f78c838b7e4df5105e7ad0109d6bcc0"
+      "fileSize": 225100,
+      "checksum": "bcf23b3a47e734714e99e5ba55cc5edd"
     },
     "culvers": {
       "displayName": "Culver's",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1065,
-      "fileSize": 87247,
-      "checksum": "3df179cee92243e00038caef1b438bd7"
+      "fileSize": 118436,
+      "checksum": "dd4ee0814033ca3b43673a886926e56a"
     },
     "in_n_out": {
       "displayName": "In-N-Out",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 431,
-      "fileSize": 34863,
-      "checksum": "60dc2fe3ebf8727cfa9d9172263105c8"
+      "fileSize": 47685,
+      "checksum": "6d7d4cfc78f1339ab50f74f3c17dbd62"
     },
     "7_eleven": {
       "displayName": "7-Eleven",

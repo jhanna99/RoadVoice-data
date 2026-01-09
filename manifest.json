@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T20:21:29.479Z",
+  "generated": "2026-01-09T20:22:37.958Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -464,9 +464,9 @@
       "displayName": "Wendy's",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 6311,
-      "fileSize": 703281,
-      "checksum": "ff836b5ad47d94017ce8ee0e075db1e6"
+      "locationCount": 5862,
+      "fileSize": 653026,
+      "checksum": "2b86d2f3c2fdb935ef69d0c30e899b68"
     },
     "kfc": {
       "displayName": "KFC",

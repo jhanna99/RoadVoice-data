@@ -1,5 +1,4 @@
 {"key":"mcdonalds","displayName":"McDonald's","category":"restaurant","useLocationName":false,"locations":[
-  {"lat":43.3985,"lon":-72.6996,"city":"Ludlow","state":"VT","address":"123 Main Street (TEST)","name":""},
   {"lat":49.05649,"lon":-122.27255,"city":"Abbotsford","state":"BC","address":"3011 Immel Street","name":""},
   {"lat":49.03602,"lon":-122.26688,"city":"Abbotsford","state":"BC","address":"34618 Delair Road","name":""},
   {"lat":49.03602,"lon":-122.26688,"city":"Abbotsford","state":"BC","address":"34618 Delair Road","name":""},

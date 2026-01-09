@@ -1,0 +1,11 @@
+{"key":"national_seashore","displayName":"National Seashores","category":"entertainment","useLocationName":true,"locations":[
+  {"lat":38.05593172,"lon":-75.24524611,"city":"Berlin","state":"MD","address":"","name":"Assateague Island National Seashore"},
+  {"lat":28.78637529,"lon":-80.75419576,"city":"New Smyrna Beach","state":"FL","address":"","name":"Canaveral National Seashore"},
+  {"lat":41.92381465,"lon":-70.04319832,"city":"Eastham","state":"MA","address":"","name":"Cape Cod National Seashore"},
+  {"lat":35.41370839,"lon":-75.65061112,"city":"Buxton","state":"NC","address":"","name":"Cape Hatteras National Seashore"},
+  {"lat":34.8267961,"lon":-76.34319082,"city":"Harkers Island","state":"NC","address":"","name":"Cape Lookout National Seashore"},
+  {"lat":30.85857484,"lon":-81.45253575,"city":"St. Marys","state":"GA","address":"","name":"Cumberland Island National Seashore"},
+  {"lat":40.69668638,"lon":-73.00013462,"city":"Patchogue","state":"NY","address":"","name":"Fire Island National Seashore"},
+  {"lat":30.3211,"lon":-87.2304,"city":"Gulf Breeze","state":"FL","address":"","name":"Gulf Islands National Seashore"},
+  {"lat":27.05381186,"lon":-97.35901135,"city":"Corpus Christi","state":"TX","address":"","name":"Padre Island National Seashore"},
+  {"lat":38.05511241,"lon":-122.8797804,"city":"Point Reyes Station","state":"CA","address":"","name":"Point Reyes National Seashore"}]}

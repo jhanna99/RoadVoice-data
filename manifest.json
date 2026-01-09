@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T20:57:42.663Z",
+  "generated": "2026-01-09T21:12:04.647Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -52,6 +52,14 @@
       "fileSize": 166857,
       "checksum": "227a6fdf11cc9f09b790879aee887ec0"
     },
+    "aquarium": {
+      "displayName": "Aquariums",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 42,
+      "fileSize": 4709,
+      "checksum": "2e32ed035cb3788f461c5f9b65e201a5"
+    },
     "arbys": {
       "displayName": "Arby's",
       "category": "restaurant",
@@ -83,6 +91,14 @@
       "locationCount": 2144,
       "fileSize": 237509,
       "checksum": "05322668076af554d2eeaf7088b6ea02"
+    },
+    "battlefield": {
+      "displayName": "Battlefields",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 25,
+      "fileSize": 3397,
+      "checksum": "5c3d086a2e7068d7da9e45563b6ddfd8"
     },
     "ben_jerrys": {
       "displayName": "Ben & Jerry's",
@@ -187,6 +203,14 @@
       "locationCount": 433,
       "fileSize": 48930,
       "checksum": "4a6e9769282e6018a3d154af5b902c03"
+    },
+    "cannabis_dispensary": {
+      "displayName": "Cannabis Dispensaries",
+      "category": "shopping",
+      "useLocationName": true,
+      "locationCount": 2728,
+      "fileSize": 365070,
+      "checksum": "46ce21741aa2c181abba5bba948d092c"
     },
     "chevron": {
       "displayName": "Chevron",
@@ -580,6 +604,14 @@
       "fileSize": 8567,
       "checksum": "98009a55f8050d7687e24bb7797174c4"
     },
+    "hyatt": {
+      "displayName": "Hyatt",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 480,
+      "fileSize": 59723,
+      "checksum": "f915d5699846a19ed2269bf687ca44a4"
+    },
     "ihop": {
       "displayName": "IHOP",
       "category": "restaurant",
@@ -771,6 +803,70 @@
       "locationCount": 5482,
       "fileSize": 603646,
       "checksum": "7acdfbb0e38e4eeef81179f363fe0f49"
+    },
+    "national_historic_site": {
+      "displayName": "National Historic Sites",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 76,
+      "fileSize": 10493,
+      "checksum": "528809af96cefa3377f4ac2dde9b9551"
+    },
+    "national_historical_park": {
+      "displayName": "National Historical Parks",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 63,
+      "fileSize": 8825,
+      "checksum": "d3d346e14784554e69d859722918529f"
+    },
+    "national_lakeshore": {
+      "displayName": "National Lakeshores",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 3,
+      "fileSize": 519,
+      "checksum": "e14079325ae4ac42e76d0ba7214c617b"
+    },
+    "national_memorial": {
+      "displayName": "National Memorials",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 19,
+      "fileSize": 2585,
+      "checksum": "44135446eff4ee3f8361a8e1ce331d5d"
+    },
+    "national_monument": {
+      "displayName": "National Monuments",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 85,
+      "fileSize": 11256,
+      "checksum": "d06190f884d311677b9470da52d4cb36"
+    },
+    "national_park": {
+      "displayName": "National Parks",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 48,
+      "fileSize": 6021,
+      "checksum": "5570a3da05dac5aa9eb9433c7cca3adf"
+    },
+    "national_recreation_area": {
+      "displayName": "National Recreation Areas",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 17,
+      "fileSize": 2442,
+      "checksum": "5d5fc65ddeba754c5ab32ebe7b32a847"
+    },
+    "national_seashore": {
+      "displayName": "National Seashores",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 10,
+      "fileSize": 1410,
+      "checksum": "dbed5a6528390a1af1f5404adab0d439"
     },
     "nike": {
       "displayName": "Nike",
@@ -980,6 +1076,14 @@
       "fileSize": 39506,
       "checksum": "f842fe60a866f5d9dea7a932734c3ee2"
     },
+    "roller_skating_rink": {
+      "displayName": "Roller Skating Rinks",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 3,
+      "fileSize": 504,
+      "checksum": "69fc254604a4052f86ff4da0ed5dada0"
+    },
     "royal_farms": {
       "displayName": "Royal Farms",
       "category": "gas_station",
@@ -1099,6 +1203,14 @@
       "locationCount": 15760,
       "fileSize": 1766395,
       "checksum": "18ae3bdaa031a512a3d23bbf3e4c8ac7"
+    },
+    "state_liquor_store": {
+      "displayName": "State Liquor Stores",
+      "category": "shopping",
+      "useLocationName": true,
+      "locationCount": 2125,
+      "fileSize": 290627,
+      "checksum": "0aab0f927d851c974fe4bb89afd44cd2"
     },
     "staybridge_suites": {
       "displayName": "Staybridge Suites",
@@ -1283,6 +1395,14 @@
       "locationCount": 210,
       "fileSize": 23863,
       "checksum": "11d804647d97a14e0cc6457ed2aa0050"
+    },
+    "zoo": {
+      "displayName": "Zoos",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 132,
+      "fileSize": 13859,
+      "checksum": "371c778525390d47a0d892c253bd55ce"
     }
   }
 }

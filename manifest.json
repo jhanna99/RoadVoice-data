@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-08T03:11:08.293Z",
+  "generated": "2026-01-09T18:21:52.502Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1163,6 +1163,62 @@
       "locationCount": 1054,
       "fileSize": 116871,
       "checksum": "4592f5ccf8e0a1c5adf173848a7a579d"
+    },
+    "dennys": {
+      "displayName": "Denny's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1271,
+      "fileSize": 104658,
+      "checksum": "06f4fb51a4d42e4dc42825cd23a0b864"
+    },
+    "taco_bell": {
+      "displayName": "Taco Bell",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 8214,
+      "fileSize": 672877,
+      "checksum": "3371a8dfadc6a31844dfb1821a7eefa0"
+    },
+    "five_guys": {
+      "displayName": "Five Guys",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1526,
+      "fileSize": 125205,
+      "checksum": "6abc442f9e3a517296a20c94222e9d8d"
+    },
+    "panera": {
+      "displayName": "Panera Bread",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 2217,
+      "fileSize": 181752,
+      "checksum": "8a463c8b754b54b55f2b3c7947355281"
+    },
+    "dominos": {
+      "displayName": "Domino's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 7230,
+      "fileSize": 592627,
+      "checksum": "7ffb452703d07d6457f02ba40d4f0242"
+    },
+    "sonic": {
+      "displayName": "Sonic",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 4061,
+      "fileSize": 325736,
+      "checksum": "021872304a86159110bbb0936c143549"
+    },
+    "waffle_house": {
+      "displayName": "Waffle House",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 2048,
+      "fileSize": 166271,
+      "checksum": "2f78c838b7e4df5105e7ad0109d6bcc0"
     }
   }
 }

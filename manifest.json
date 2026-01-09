@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T18:49:28.943Z",
+  "generated": "2026-01-09T18:55:58.048Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1235,6 +1235,62 @@
       "locationCount": 431,
       "fileSize": 34863,
       "checksum": "60dc2fe3ebf8727cfa9d9172263105c8"
+    },
+    "7_eleven": {
+      "displayName": "7-Eleven",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 10094,
+      "fileSize": 825912,
+      "checksum": "9c1238cd805180ebc031aed9729337bb"
+    },
+    "cumberland_farms": {
+      "displayName": "Cumberland Farms",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 580,
+      "fileSize": 47546,
+      "checksum": "6f2ef80c2ee1d0ee3106c29082762101"
+    },
+    "irving": {
+      "displayName": "Irving",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 839,
+      "fileSize": 68319,
+      "checksum": "ce0aafdbb8e9693acc88133e0cdc9626"
+    },
+    "loves": {
+      "displayName": "Love's",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 721,
+      "fileSize": 59171,
+      "checksum": "90f552dd8b9a7c9c4ead42689740cf4b"
+    },
+    "quiktrip": {
+      "displayName": "QuikTrip",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 1196,
+      "fileSize": 98106,
+      "checksum": "a94db808361fc0d2827e05863e1a3b1a"
+    },
+    "sunoco": {
+      "displayName": "Sunoco",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 5466,
+      "fileSize": 442232,
+      "checksum": "45ffd468277db81cb613201e26febbb1"
+    },
+    "ta": {
+      "displayName": "TA Travel Center",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 344,
+      "fileSize": 27199,
+      "checksum": "6e5e8f40adce35441124b7beed1dc7f8"
     }
   }
 }

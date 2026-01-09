@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T21:12:04.647Z",
+  "generated": "2026-01-09T23:41:57.642Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1403,6 +1403,62 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "371c778525390d47a0d892c253bd55ce"
+    },
+    "zaxbys": {
+      "displayName": "Zaxby's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1013,
+      "fileSize": 112198,
+      "checksum": "d3406f4438a0c0d0113693ec0fc856e2"
+    },
+    "ruby_tuesday": {
+      "displayName": "Ruby Tuesday",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 200,
+      "fileSize": 21933,
+      "checksum": "cff85931a2af3be8898c5efa42902120"
+    },
+    "usps_collection_box": {
+      "displayName": "USPS Collection Box",
+      "category": "other",
+      "useLocationName": false,
+      "locationCount": 182044,
+      "fileSize": 19704224,
+      "checksum": "c369f0a9fb483678a39da5b545e06ec8"
+    },
+    "amazon_locker": {
+      "displayName": "Amazon Locker",
+      "category": "shopping",
+      "useLocationName": false,
+      "locationCount": 15762,
+      "fileSize": 1926791,
+      "checksum": "b35b34590ef70b3abdb6bf7da84398dd"
+    },
+    "patel_brothers": {
+      "displayName": "Patel Brothers",
+      "category": "grocery",
+      "useLocationName": false,
+      "locationCount": 53,
+      "fileSize": 7670,
+      "checksum": "613c4a21e00f13eea11955cb5b8e7c45"
+    },
+    "charleys": {
+      "displayName": "Charley's Philly Steaks",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 843,
+      "fileSize": 97451,
+      "checksum": "74e6401f75d3583fa4d109fb6466e8d2"
+    },
+    "dollar_tree": {
+      "displayName": "Dollar Tree",
+      "category": "shopping",
+      "useLocationName": false,
+      "locationCount": 9019,
+      "fileSize": 1019868,
+      "checksum": "2f5c5b6145baa4bbd27930f5fea7413c"
     }
   }
 }

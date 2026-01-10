@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T00:35:05.904Z",
+  "generated": "2026-01-10T00:37:19.353Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1169,8 +1169,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 669,
-      "fileSize": 76430,
-      "checksum": "5d58c7a25ba87351b27b39b876289d76"
+      "fileSize": 76432,
+      "checksum": "5cf04528fbe1b3711555922270da81af"
     },
     "panda_express": {
       "displayName": "Panda Express",
@@ -1819,6 +1819,22 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "371c778525390d47a0d892c253bd55ce"
+    },
+    "godfathers_pizza": {
+      "displayName": "Godfather's Pizza",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 648,
+      "fileSize": 72257,
+      "checksum": "07c0ce15eae49b6df2a949c72cc8e7c1"
+    },
+    "bob_evans": {
+      "displayName": "Bob Evans",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 417,
+      "fileSize": 45436,
+      "checksum": "4307211a34c041f605d7dc97f95e9c0c"
     }
   }
 }

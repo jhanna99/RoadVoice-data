@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T00:32:32.640Z",
+  "generated": "2026-01-10T00:35:05.904Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -168,9 +168,17 @@
       "displayName": "Best Western",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 2278,
-      "fileSize": 256479,
-      "checksum": "b78d8ba71887b1d450b380508b19e42a"
+      "locationCount": 980,
+      "fileSize": 110356,
+      "checksum": "fc6d1a094f5286da0b4ec00c72f24f5e"
+    },
+    "best_western_plus": {
+      "displayName": "Best Western Plus",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 706,
+      "fileSize": 79676,
+      "checksum": "c57b1b9d89cd4882c77d5f2872ec0c4b"
     },
     "bjs": {
       "displayName": "BJ's Wholesale",
@@ -235,6 +243,14 @@
       "locationCount": 6641,
       "fileSize": 745108,
       "checksum": "ce38d1ff4cc2a45da4812bc003c1c115"
+    },
+    "bw_signature": {
+      "displayName": "BW Signature Collection",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 45,
+      "fileSize": 5240,
+      "checksum": "94aa864e66c01990f074abbd8ca04d9f"
     },
     "caesars_casino": {
       "displayName": "Caesars Casinos",

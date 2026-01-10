@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T00:18:04.727Z",
+  "generated": "2026-01-10T00:27:55.777Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -412,6 +412,14 @@
       "fileSize": 62989,
       "checksum": "fea105a858c75f2ed828ef0361bf5586"
     },
+    "curio_collection": {
+      "displayName": "Curio Collection",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 96,
+      "fileSize": 10851,
+      "checksum": "a3f8d5621a7b10eda888cc23cb12200c"
+    },
     "cvs": {
       "displayName": "CVS",
       "category": "pharmacy",
@@ -484,6 +492,14 @@
       "fileSize": 808435,
       "checksum": "f75a372a6528763c1d7bc699b96c6824"
     },
+    "doubletree": {
+      "displayName": "DoubleTree",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 401,
+      "fileSize": 45097,
+      "checksum": "d2787573096efb4fc326ced502e0715e"
+    },
     "dunkin": {
       "displayName": "Dunkin'",
       "category": "coffee",
@@ -507,6 +523,14 @@
       "locationCount": 535,
       "fileSize": 59688,
       "checksum": "1fcf70c6804b0358bc0885baa1705c85"
+    },
+    "embassy_suites": {
+      "displayName": "Embassy Suites",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 260,
+      "fileSize": 29755,
+      "checksum": "7217ad50265d1792b514b36b1ca98768"
     },
     "even_hotels": {
       "displayName": "EVEN Hotels",
@@ -604,6 +628,14 @@
       "fileSize": 59736,
       "checksum": "1db08b96911540621d644df7ccb667bd"
     },
+    "hampton": {
+      "displayName": "Hampton Inn",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 2405,
+      "fileSize": 269331,
+      "checksum": "2d0ce1afad2af32652346380cd818222"
+    },
     "handels": {
       "displayName": "Handel's",
       "category": "ice_cream",
@@ -624,9 +656,17 @@
       "displayName": "Hilton",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 6644,
-      "fileSize": 745329,
-      "checksum": "3196831dfe2edd6d30761d68b5e62fdf"
+      "locationCount": 245,
+      "fileSize": 27765,
+      "checksum": "c735740b857aca72ff8ac2d166fe7271"
+    },
+    "hilton_garden_inn": {
+      "displayName": "Hilton Garden Inn",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 763,
+      "fileSize": 85773,
+      "checksum": "35828d2b8b284ba9e9de23c34c6dfe77"
     },
     "hobby_lobby": {
       "displayName": "Hobby Lobby",
@@ -652,6 +692,14 @@
       "fileSize": 275007,
       "checksum": "2b448bc09b6b8284547e6250ebd7595e"
     },
+    "home2_suites": {
+      "displayName": "Home2 Suites",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 763,
+      "fileSize": 86025,
+      "checksum": "f04e2598245d72ea96917b6205ceb5c7"
+    },
     "homegoods": {
       "displayName": "HomeGoods",
       "category": "shopping",
@@ -659,6 +707,14 @@
       "locationCount": 4344,
       "fileSize": 569579,
       "checksum": "050fa5af30c933491b3520a849d3f486"
+    },
+    "homewood_suites": {
+      "displayName": "Homewood Suites",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 535,
+      "fileSize": 60217,
+      "checksum": "c058677976f35cdaa37e4ac6356a32e8"
     },
     "hotel_indigo": {
       "displayName": "Hotel Indigo",
@@ -1276,6 +1332,14 @@
       "fileSize": 41216,
       "checksum": "3a3a0fd6f8b3f2d941d03632c182e00c"
     },
+    "small_luxury_hotels": {
+      "displayName": "Small Luxury Hotels",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 33,
+      "fileSize": 3829,
+      "checksum": "9b54ebe8cfc16825671793848fcc31ba"
+    },
     "snap_fitness": {
       "displayName": "Snap Fitness",
       "category": "fitness",
@@ -1299,6 +1363,14 @@
       "locationCount": 4061,
       "fileSize": 448333,
       "checksum": "f98f0f4aa887fc665a7ab7ee13f9bd83"
+    },
+    "spark_by_hilton": {
+      "displayName": "Spark by Hilton",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 236,
+      "fileSize": 26240,
+      "checksum": "e1405572e3ebc71828a6124d4efcb948"
     },
     "staples": {
       "displayName": "Staples",
@@ -1372,6 +1444,14 @@
       "fileSize": 912397,
       "checksum": "bec3451789ccdb2d6a413b95cb4a3b56"
     },
+    "tapestry_collection": {
+      "displayName": "Tapestry Collection",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 154,
+      "fileSize": 17257,
+      "checksum": "44a6ff32e714817fa2602c2c1363152d"
+    },
     "target": {
       "displayName": "Target",
       "category": "shopping",
@@ -1419,6 +1499,14 @@
       "locationCount": 326,
       "fileSize": 36544,
       "checksum": "59fc68b42170082569dc4c81f4f9a77c"
+    },
+    "tru_by_hilton": {
+      "displayName": "Tru by Hilton",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 323,
+      "fileSize": 36456,
+      "checksum": "200c3a2cdb96bf40fb6b62e12926f05f"
     },
     "ulta": {
       "displayName": "Ulta Beauty",

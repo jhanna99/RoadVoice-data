@@ -1,0 +1,7 @@
+{"key":"andaz","displayName":"Andaz","category":"hotels","useLocationName":false,"locations":[
+  {"lat":45.4287053,"lon":-75.6906887,"city":"Ottawa","state":"ON","address":"","name":"Andaz Ottawa ByWard Market"},
+  {"lat":38.297629,"lon":-122.2892335,"city":"Napa","state":"CA","address":"","name":"Andaz Napa"},
+  {"lat":32.713885,"lon":-117.1588057,"city":"San Diego","state":"CA","address":"","name":"Andaz San Diego"},
+  {"lat":34.0954028,"lon":-118.3731859,"city":"West Hollywood","state":"CA","address":"","name":"Andaz West Hollywood"},
+  {"lat":25.8127314,"lon":-80.1223702,"city":"Miami Beach","state":"FL","address":"","name":"Andaz Miami Beach"},
+  {"lat":32.0808406,"lon":-81.0932075,"city":"Savannah","state":"GA","address":"","name":"Andaz Savannah"}]}

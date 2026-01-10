@@ -1,0 +1,5 @@
+{"key":"park_hyatt","displayName":"Park Hyatt","category":"hotels","useLocationName":false,"locations":[
+  {"lat":43.6691956,"lon":-79.3946177,"city":"Toronto","state":"ON","address":"","name":"Park Hyatt Toronto"},
+  {"lat":38.9057969,"lon":-77.0510924,"city":"Park Hyatt Washington","state":"DC","address":"","name":"Park Hyatt Washington D.C."},
+  {"lat":41.8972351,"lon":-87.6252667,"city":"Chicago","state":"IL","address":"","name":"Park Hyatt Chicago"},
+  {"lat":40.7654216,"lon":-73.9793143,"city":"New York","state":"NY","address":"","name":"Park Hyatt New York"}]}

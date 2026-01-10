@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T00:27:55.777Z",
+  "generated": "2026-01-10T00:30:21.806Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -51,6 +51,14 @@
       "locationCount": 227,
       "fileSize": 25056,
       "checksum": "d9d205ee4f3803171e27a77316edd0ee"
+    },
+    "andaz": {
+      "displayName": "Andaz",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 6,
+      "fileSize": 766,
+      "checksum": "b835f89619c558394314385ef388545e"
     },
     "anytime_fitness": {
       "displayName": "Anytime Fitness",
@@ -620,6 +628,14 @@
       "fileSize": 209910,
       "checksum": "9cccd0c7782212ac8e4f169489924561"
     },
+    "grand_hyatt": {
+      "displayName": "Grand Hyatt",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 8,
+      "fileSize": 1023,
+      "checksum": "cd6a112c81423f576aa0f6d692b6ee0c"
+    },
     "grocery_outlet": {
       "displayName": "Grocery Outlet",
       "category": "grocery",
@@ -732,13 +748,37 @@
       "fileSize": 15267,
       "checksum": "eb354b043afeb9a778485fa7345795a6"
     },
-    "hyatt": {
-      "displayName": "Hyatt",
+    "hyatt_centric": {
+      "displayName": "Hyatt Centric",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 480,
-      "fileSize": 59723,
-      "checksum": "f915d5699846a19ed2269bf687ca44a4"
+      "locationCount": 22,
+      "fileSize": 2941,
+      "checksum": "34ca177a294660e35641b87826426e6d"
+    },
+    "hyatt_house": {
+      "displayName": "Hyatt House",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 78,
+      "fileSize": 9944,
+      "checksum": "c910e9c729179f5772bfc46c01f89016"
+    },
+    "hyatt_place": {
+      "displayName": "Hyatt Place",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 226,
+      "fileSize": 28523,
+      "checksum": "f714f3b72e515bb5deb218209bb36ce3"
+    },
+    "hyatt_regency": {
+      "displayName": "Hyatt Regency",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 69,
+      "fileSize": 8752,
+      "checksum": "8ca002f5e07b11cecb19c537ee609d97"
     },
     "ihop": {
       "displayName": "IHOP",
@@ -1083,6 +1123,14 @@
       "locationCount": 3445,
       "fileSize": 384727,
       "checksum": "27f3fb300057e7768ff63e86376e07e0"
+    },
+    "park_hyatt": {
+      "displayName": "Park Hyatt",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 4,
+      "fileSize": 573,
+      "checksum": "a1ebe663cfd9428795854518e4a04e69"
     },
     "patel_brothers": {
       "displayName": "Patel Brothers",
@@ -1459,6 +1507,14 @@
       "locationCount": 12,
       "fileSize": 1456,
       "checksum": "3ccf0dcd9d940c6408d7283b9a76a237"
+    },
+    "thompson": {
+      "displayName": "Thompson Hotels",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 11,
+      "fileSize": 1354,
+      "checksum": "b7d190722f0ad005954f6d27fa0eb7df"
     },
     "tim_hortons": {
       "displayName": "Tim Hortons",

@@ -1,0 +1,9 @@
+{"key":"grand_hyatt","displayName":"Grand Hyatt","category":"hotels","useLocationName":false,"locations":[
+  {"lat":37.789114,"lon":-122.4072383,"city":"San Francisco","state":"CA","address":"","name":"Grand Hyatt San Francisco"},
+  {"lat":39.7457646,"lon":-104.988829,"city":"Denver","state":"CO","address":"","name":"Grand Hyatt Denver"},
+  {"lat":38.899398,"lon":-77.0264877,"city":"Washington","state":"DC","address":"","name":"Grand Hyatt Washington"},
+  {"lat":27.965209,"lon":-82.5501194,"city":"Tampa","state":"FL","address":"","name":"Grand Hyatt Tampa Bay"},
+  {"lat":36.1583158,"lon":-86.7849488,"city":"Nashville","state":"TN","address":"","name":"Grand Hyatt Nashville"},
+  {"lat":32.8974353,"lon":-97.044455,"city":"Dallas","state":"TX","address":"","name":"Grand Hyatt DFW"},
+  {"lat":40.6207326,"lon":-111.4415221,"city":"Park City","state":"UT","address":"","name":"Grand Hyatt Deer Valley"},
+  {"lat":47.6125018,"lon":-122.3334479,"city":"Seattle","state":"WA","address":"","name":"Grand Hyatt Seattle"}]}

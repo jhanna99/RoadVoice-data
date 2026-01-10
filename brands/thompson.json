@@ -1,0 +1,12 @@
+{"key":"thompson","displayName":"Thompson Hotels","category":"hotels","useLocationName":false,"locations":[
+  {"lat":33.829702,"lon":-116.546229,"city":"Palm Springs","state":"CA","address":"","name":"Thompson Palm Springs"},
+  {"lat":39.7498729,"lon":-104.9977884,"city":"Denver","state":"CO","address":"","name":"Thompson Denver"},
+  {"lat":38.8746602,"lon":-77.0025011,"city":"Thompson Washington D.c.","state":"DC","address":"","name":"Thompson Washington D.C."},
+  {"lat":32.0590972,"lon":-81.1142787,"city":"Savannah","state":"GA","address":"","name":"Thompson Savannah"},
+  {"lat":41.9013573,"lon":-87.6274661,"city":"Chicago","state":"IL","address":"","name":"Thompson Chicago"},
+  {"lat":40.7643285,"lon":-73.978572,"city":"New York","state":"NY","address":"","name":"Thompson Central Park New York"},
+  {"lat":36.1524451,"lon":-86.7840838,"city":"Nashville","state":"TN","address":"","name":"Thompson Nashville"},
+  {"lat":30.2668822,"lon":-97.7412,"city":"Austin","state":"TX","address":"","name":"Thompson Austin"},
+  {"lat":32.7815928,"lon":-96.8003565,"city":"Dallas","state":"TX","address":"","name":"Thompson Dallas"},
+  {"lat":29.7736922,"lon":-95.4041591,"city":"Houston","state":"TX","address":"","name":"Thompson Houston"},
+  {"lat":47.6105512,"lon":-122.3413319,"city":"Seattle","state":"WA","address":"","name":"Thompson Seattle"}]}

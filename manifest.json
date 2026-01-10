@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T00:30:21.806Z",
+  "generated": "2026-01-10T00:32:32.640Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -11,6 +11,14 @@
       "locationCount": 10094,
       "fileSize": 1113055,
       "checksum": "3363e6cf63f000569ffbd0af859138ee"
+    },
+    "ac_hotel": {
+      "displayName": "AC Hotel",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 143,
+      "fileSize": 16332,
+      "checksum": "922b28667eaf84031396c2dc8e015ab0"
     },
     "adidas": {
       "displayName": "Adidas",
@@ -27,6 +35,14 @@
       "locationCount": 2625,
       "fileSize": 293801,
       "checksum": "00505703a1946e14f0c6a3f3dec76ca1"
+    },
+    "aloft": {
+      "displayName": "Aloft",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 166,
+      "fileSize": 18940,
+      "checksum": "212922395ec38fd7386d9ce327035350"
     },
     "amazon_locker": {
       "displayName": "Amazon Locker",
@@ -380,6 +396,14 @@
       "fileSize": 40830,
       "checksum": "6102e245d31aa83d19b414caaacf74d3"
     },
+    "courtyard": {
+      "displayName": "Courtyard by Marriott",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 1051,
+      "fileSize": 119867,
+      "checksum": "5a4bf16765e9b0dbf332506ef7a5a0d2"
+    },
     "cracker_barrel": {
       "displayName": "Cracker Barrel",
       "category": "restaurant",
@@ -467,6 +491,14 @@
       "locationCount": 1271,
       "fileSize": 141580,
       "checksum": "282cca9ad5638392ff9a36cee10daaa3"
+    },
+    "design_hotels": {
+      "displayName": "Design Hotels",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 24,
+      "fileSize": 2866,
+      "checksum": "23aa5b14236e521728058d2a572d20b0"
     },
     "dicks_sporting": {
       "displayName": "Dick's Sporting Goods",
@@ -556,6 +588,14 @@
       "fileSize": 678905,
       "checksum": "c68cf64fa94940af9491861f6753b2de"
     },
+    "fairfield": {
+      "displayName": "Fairfield Inn",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 1179,
+      "fileSize": 133945,
+      "checksum": "4ef4f33124c7d99e8a8abafebf7674df"
+    },
     "firehouse_subs": {
       "displayName": "Firehouse Subs",
       "category": "restaurant",
@@ -587,6 +627,14 @@
       "locationCount": 1174,
       "fileSize": 120822,
       "checksum": "ba8a5e9e7ee9213791dd1d7dfcba77fc"
+    },
+    "four_points": {
+      "displayName": "Four Points",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 119,
+      "fileSize": 13774,
+      "checksum": "9f31afd5228e4f05045bbc664df1129e"
     },
     "gap": {
       "displayName": "Gap",
@@ -948,6 +996,14 @@
       "fileSize": 8839,
       "checksum": "a490941d1953ab386c681e125f4a69e2"
     },
+    "marriott": {
+      "displayName": "Marriott",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 322,
+      "fileSize": 37146,
+      "checksum": "143f2f75eef36d45a5b515994b5b8b83"
+    },
     "marshalls": {
       "displayName": "Marshalls",
       "category": "shopping",
@@ -1268,6 +1324,14 @@
       "fileSize": 79604,
       "checksum": "ff4e04606bd724d13c9469aa879f9b48"
     },
+    "residence_inn": {
+      "displayName": "Residence Inn",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 882,
+      "fileSize": 100631,
+      "checksum": "b5652f5ada361f8385b02dca43dd7b81"
+    },
     "ritas": {
       "displayName": "Rita's Italian Ice",
       "category": "ice_cream",
@@ -1364,6 +1428,14 @@
       "fileSize": 1685588,
       "checksum": "030fae39291c14e7d9249763ca717b98"
     },
+    "sheraton": {
+      "displayName": "Sheraton",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 148,
+      "fileSize": 17092,
+      "checksum": "7ce45b2c3f02607595259353a2b98f56"
+    },
     "shoprite": {
       "displayName": "ShopRite",
       "category": "grocery",
@@ -1419,6 +1491,14 @@
       "locationCount": 236,
       "fileSize": 26240,
       "checksum": "e1405572e3ebc71828a6124d4efcb948"
+    },
+    "springhill_suites": {
+      "displayName": "SpringHill Suites",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 594,
+      "fileSize": 67852,
+      "checksum": "ce865699c38a4ab88869a7d00e2ab576"
     },
     "staples": {
       "displayName": "Staples",
@@ -1531,6 +1611,14 @@
       "locationCount": 4344,
       "fileSize": 569574,
       "checksum": "e8e7216cc5c41a721379ed3e81d1b194"
+    },
+    "towneplace_suites": {
+      "displayName": "TownePlace Suites",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 575,
+      "fileSize": 65351,
+      "checksum": "31a6d8b070bb381964951d77f5b055b3"
     },
     "trademark_collection": {
       "displayName": "Trademark Collection",

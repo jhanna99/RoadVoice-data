@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T02:13:22.355Z",
+  "generated": "2026-01-10T09:12:19.072104",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -195,6 +195,14 @@
       "locationCount": 77,
       "fileSize": 9016,
       "checksum": "e4d06f0045a2387a6ed8cb7dd9db6ecd"
+    },
+    "bob_evans": {
+      "displayName": "Bob Evans",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 417,
+      "fileSize": 45436,
+      "checksum": "4307211a34c041f605d7dc97f95e9c0c"
     },
     "bojangles": {
       "displayName": "Bojangles",
@@ -676,6 +684,14 @@
       "fileSize": 18647,
       "checksum": "70ef9a006718de9b3bac370eba31c5ff"
     },
+    "godfathers_pizza": {
+      "displayName": "Godfather's Pizza",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 648,
+      "fileSize": 72257,
+      "checksum": "07c0ce15eae49b6df2a949c72cc8e7c1"
+    },
     "golden_corral": {
       "displayName": "Golden Corral",
       "category": "restaurant",
@@ -707,6 +723,14 @@
       "locationCount": 543,
       "fileSize": 59736,
       "checksum": "1db08b96911540621d644df7ccb667bd"
+    },
+    "guitar_center": {
+      "displayName": "Guitar Center",
+      "category": "shopping",
+      "useLocationName": false,
+      "locationCount": 301,
+      "fileSize": 34781,
+      "checksum": "0acca732cf9cbcf10f3aa5241bc3bbd4"
     },
     "hampton": {
       "displayName": "Hampton Inn",
@@ -1600,9 +1624,9 @@
       "displayName": "Target",
       "category": "shopping",
       "useLocationName": false,
-      "locationCount": 12,
-      "fileSize": 1456,
-      "checksum": "3ccf0dcd9d940c6408d7283b9a76a237"
+      "locationCount": 1819,
+      "fileSize": 216631,
+      "checksum": "3379fe6521cf4bea6e5a3b2be6f76f4d"
     },
     "thompson": {
       "displayName": "Thompson Hotels",
@@ -1819,30 +1843,6 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "371c778525390d47a0d892c253bd55ce"
-    },
-    "godfathers_pizza": {
-      "displayName": "Godfather's Pizza",
-      "category": "restaurant",
-      "useLocationName": false,
-      "locationCount": 648,
-      "fileSize": 72257,
-      "checksum": "07c0ce15eae49b6df2a949c72cc8e7c1"
-    },
-    "bob_evans": {
-      "displayName": "Bob Evans",
-      "category": "restaurant",
-      "useLocationName": false,
-      "locationCount": 417,
-      "fileSize": 45436,
-      "checksum": "4307211a34c041f605d7dc97f95e9c0c"
-    },
-    "guitar_center": {
-      "displayName": "Guitar Center",
-      "category": "shopping",
-      "useLocationName": false,
-      "locationCount": 301,
-      "fileSize": 34781,
-      "checksum": "0acca732cf9cbcf10f3aa5241bc3bbd4"
     }
   }
 }

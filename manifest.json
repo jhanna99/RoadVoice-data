@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-09T23:41:57.642Z",
+  "generated": "2026-01-10T00:04:39.679Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1459,6 +1459,22 @@
       "locationCount": 9019,
       "fileSize": 1019868,
       "checksum": "2f5c5b6145baa4bbd27930f5fea7413c"
+    },
+    "bojangles": {
+      "displayName": "Bojangles",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 865,
+      "fileSize": 96878,
+      "checksum": "50b58cb2775dd2bb97aa64f442833c7c"
+    },
+    "crossfit": {
+      "displayName": "CrossFit",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 3537,
+      "fileSize": 400103,
+      "checksum": "edb1105153f5d935f5060ea39c4daacc"
     }
   }
 }

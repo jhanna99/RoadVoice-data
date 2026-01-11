@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 4,
   "generated": "2026-01-11T17:00:50.136Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
@@ -341,7 +341,7 @@
       "checksum": "1b05013b0a8690f88f4d0918fc2340eb"
     },
     "caffe_nero": {
-      "displayName": "Caff\u00e8 Nero",
+      "displayName": "Caffè Nero",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 42,
@@ -921,8 +921,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 1073,
-      "fileSize": 122327,
-      "checksum": "accd4f838c51419b7d32c8b51e364c5b"
+      "fileSize": 119107,
+      "checksum": "5aab8cdd"
     },
     "holiday_inn": {
       "displayName": "Holiday Inn",
@@ -1987,6 +1987,87 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "371c778525390d47a0d892c253bd55ce"
+    },
+    "einstein_bros": {
+      "displayName": "Einstein Bros",
+      "category": "coffee",
+      "useLocationName": false,
+      "locationCount": 581,
+      "fileSize": 63320,
+      "checksum": "61ffe27b"
+    },
+    "fazolis": {
+      "displayName": "Fazoli's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 193,
+      "fileSize": 21241,
+      "checksum": "2b9382c8"
+    },
+    "fogo_de_chao": {
+      "displayName": "Fogo de Chão",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 43,
+      "fileSize": 4484,
+      "checksum": "0d06d0be"
+    },
+    "freddys": {
+      "displayName": "Freddy's",
+      "category": "fast_food",
+      "useLocationName": false,
+      "locationCount": 566,
+      "fileSize": 61484,
+      "checksum": "595b9192"
+    },
+    "golds_gym": {
+      "displayName": "Gold's Gym",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 194,
+      "fileSize": 24153,
+      "checksum": "b8465c09"
+    },
+    "hannaford": {
+      "displayName": "Hannaford",
+      "category": "grocery",
+      "useLocationName": false,
+      "locationCount": 188,
+      "fileSize": 18436,
+      "checksum": "8c1dc0d2"
+    },
+    "honey_baked_ham": {
+      "displayName": "Honey Baked Ham",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 452,
+      "fileSize": 51207,
+      "checksum": "b1e294c1"
+    },
+    "hooters": {
+      "displayName": "Hooters",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 212,
+      "fileSize": 21520,
+      "checksum": "e219736a"
+    },
+    "huddle_house": {
+      "displayName": "Huddle House",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 255,
+      "fileSize": 27399,
+      "checksum": "22d8eba7"
+    },
+    "hy_vee": {
+      "displayName": "Hy-Vee",
+      "category": "grocery",
+      "useLocationName": false,
+      "locationCount": 175,
+      "fileSize": 18539,
+      "checksum": "c24cbe30"
     }
-  }
+  },
+  "lastUpdated": "2026-01-11"
 }

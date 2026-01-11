@@ -2014,7 +2014,7 @@
     },
     "freddys": {
       "displayName": "Freddy's",
-      "category": "fast_food",
+      "category": "restaurant",
       "useLocationName": false,
       "locationCount": 566,
       "fileSize": 61484,

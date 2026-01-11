@@ -1844,14 +1844,6 @@
       "fileSize": 179112,
       "checksum": "4407168787b2a50f7fe1695cc82bac3f"
     },
-    "usps_collection_box": {
-      "displayName": "USPS Collection Box",
-      "category": "other",
-      "useLocationName": false,
-      "locationCount": 182044,
-      "fileSize": 19704224,
-      "checksum": "c369f0a9fb483678a39da5b545e06ec8"
-    },
     "waffle_house": {
       "displayName": "Waffle House",
       "category": "restaurant",

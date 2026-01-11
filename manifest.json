@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "generated": "2026-01-11T17:00:50.136Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
@@ -142,7 +142,7 @@
     },
     "baskin_robbins": {
       "displayName": "Baskin-Robbins",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 2144,
       "fileSize": 237509,
@@ -166,7 +166,7 @@
     },
     "ben_jerrys": {
       "displayName": "Ben & Jerry's",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 203,
       "fileSize": 24131,
@@ -462,7 +462,7 @@
     },
     "cinnabon": {
       "displayName": "Cinnabon",
-      "category": "restaurant",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 1164,
       "fileSize": 132978,
@@ -494,7 +494,7 @@
     },
     "coldstone": {
       "displayName": "Cold Stone Creamery",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 1100,
       "fileSize": 127998,
@@ -614,7 +614,7 @@
     },
     "dairy_queen": {
       "displayName": "Dairy Queen",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 4869,
       "fileSize": 532474,
@@ -886,7 +886,7 @@
     },
     "handels": {
       "displayName": "Handel's",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 79,
       "fileSize": 6807,
@@ -1518,7 +1518,7 @@
     },
     "ritas": {
       "displayName": "Rita's Italian Ice",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 25,
       "fileSize": 2223,
@@ -1966,7 +1966,7 @@
     },
     "yogurtland": {
       "displayName": "Yogurtland",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 210,
       "fileSize": 23863,
@@ -2067,6 +2067,14 @@
       "locationCount": 175,
       "fileSize": 18539,
       "checksum": "c24cbe30"
+    },
+    "auntie_annes": {
+      "displayName": "Auntie Anne's",
+      "category": "sweets",
+      "useLocationName": false,
+      "locationCount": 1378,
+      "fileSize": 156897,
+      "checksum": "1a176bab"
     }
   },
   "lastUpdated": "2026-01-11"

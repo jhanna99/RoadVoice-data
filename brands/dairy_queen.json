@@ -1,4 +1,4 @@
-{"key":"dairy_queen","displayName":"Dairy Queen","category":"ice_cream","useLocationName":false,"locations":[
+{"key":"dairy_queen","displayName":"Dairy Queen","category":"sweets","useLocationName":false,"locations":[
   {"lat":42.089445,"lon":-71.47571,"city":"Bellingham","state":"MA","address":"21 N Main St","name":""},
   {"lat":36.516178,"lon":-91.541934,"city":"Thayer","state":"MO","address":"101 S State Route 19","name":""},
   {"lat":35.275454,"lon":-79.068184,"city":"Cameron","state":"NC","address":"2531 NC Highway 87 S","name":""},

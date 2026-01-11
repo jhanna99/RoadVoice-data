@@ -1,4 +1,4 @@
-{"key":"coldstone","displayName":"Cold Stone Creamery","category":"ice_cream","useLocationName":false,"locations":[
+{"key":"coldstone","displayName":"Cold Stone Creamery","category":"sweets","useLocationName":false,"locations":[
   {"lat":45.039313,"lon":-93.218359,"city":"St. Anthony","state":"MN","address":"2700 39th Ave NE, Ste A116","name":""},
   {"lat":44.884458,"lon":-93.121662,"city":"Mendota Heights","state":"MN","address":"720 Main St Hwy, Ste 103","name":""},
   {"lat":44.859953,"lon":-93.252925,"city":"Bloomington","state":"MN","address":"382 S Avenue","name":""},

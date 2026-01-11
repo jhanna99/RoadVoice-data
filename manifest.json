@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-01-10T09:12:19.072104",
+  "generated": "2026-01-11T17:00:50.136Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -108,6 +108,14 @@
       "fileSize": 370849,
       "checksum": "adfdba63d7bc07c89b2edd7ff1212c80"
     },
+    "au_bon_pain": {
+      "displayName": "Au Bon Pain",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 28,
+      "fileSize": 3182,
+      "checksum": "30d02f84f13f3131654c8fe99b707f6a"
+    },
     "avid_hotel": {
       "displayName": "avid hotel",
       "category": "hotels",
@@ -115,6 +123,14 @@
       "locationCount": 80,
       "fileSize": 9063,
       "checksum": "09ef984bbf4b13169ce39cf85c3fe773"
+    },
+    "baja_fresh": {
+      "displayName": "Baja Fresh",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 74,
+      "fileSize": 8609,
+      "checksum": "1d0b1cdf4204129664dda7b3a45f649c"
     },
     "banana_republic": {
       "displayName": "Banana Republic",
@@ -156,6 +172,22 @@
       "fileSize": 24131,
       "checksum": "de7a31ae6631d22f109cda47518d9ca7"
     },
+    "benihana": {
+      "displayName": "Benihana",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 80,
+      "fileSize": 6836,
+      "checksum": "b36c83129abe313ae55e459dcca88a07"
+    },
+    "bertuccis": {
+      "displayName": "Bertucci's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 12,
+      "fileSize": 1431,
+      "checksum": "0b670b597bf36ae4e5e33f32fd61ae42"
+    },
     "best_buy": {
       "displayName": "Best Buy",
       "category": "shopping",
@@ -179,6 +211,14 @@
       "locationCount": 706,
       "fileSize": 79676,
       "checksum": "c57b1b9d89cd4882c77d5f2872ec0c4b"
+    },
+    "big_boy": {
+      "displayName": "Big Boy",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 52,
+      "fileSize": 4468,
+      "checksum": "325bfb84942da8a8fb2d564c4dac4561"
     },
     "bjs": {
       "displayName": "BJ's Wholesale",
@@ -212,6 +252,30 @@
       "fileSize": 96878,
       "checksum": "50b58cb2775dd2bb97aa64f442833c7c"
     },
+    "bonefish_grill": {
+      "displayName": "Bonefish Grill",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 158,
+      "fileSize": 18233,
+      "checksum": "6ca5ec8ebb06ae0757269f4bce8afd66"
+    },
+    "boston_market": {
+      "displayName": "Boston Market",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 54,
+      "fileSize": 5149,
+      "checksum": "a9e1b0122b6e75b15543e62d039ebf0d"
+    },
+    "boston_pizza": {
+      "displayName": "Boston Pizza",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 374,
+      "fileSize": 42365,
+      "checksum": "4a752cab26f4e7902f3e6b49e20d0d6c"
+    },
     "bowling": {
       "displayName": "Bowling",
       "category": "entertainment",
@@ -227,6 +291,14 @@
       "locationCount": 8313,
       "fileSize": 906720,
       "checksum": "f1bd25432c197ba2750952b3daa58413"
+    },
+    "brueggers": {
+      "displayName": "Bruegger's Bagels",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 171,
+      "fileSize": 19184,
+      "checksum": "66c150f9b1674a1c6a69277c63b2470b"
     },
     "buc_ees": {
       "displayName": "Buc-ee's",
@@ -268,6 +340,22 @@
       "fileSize": 8102,
       "checksum": "1b05013b0a8690f88f4d0918fc2340eb"
     },
+    "caffe_nero": {
+      "displayName": "Caff\u00e8 Nero",
+      "category": "coffee",
+      "useLocationName": false,
+      "locationCount": 42,
+      "fileSize": 3557,
+      "checksum": "9a12bef38d0fd9415c789b1674ed1778"
+    },
+    "california_pizza_kitchen": {
+      "displayName": "California Pizza Kitchen",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 111,
+      "fileSize": 13336,
+      "checksum": "339e6c57895a9edafa075aba8836973c"
+    },
     "cambria_hotel": {
       "displayName": "Cambria Hotel",
       "category": "hotels",
@@ -292,6 +380,22 @@
       "fileSize": 365070,
       "checksum": "46ce21741aa2c181abba5bba948d092c"
     },
+    "carrabbas": {
+      "displayName": "Carrabba's Italian Grill",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 204,
+      "fileSize": 23316,
+      "checksum": "3e9f5c24b3e243ee2436716ca84ee65a"
+    },
+    "cava": {
+      "displayName": "CAVA",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 447,
+      "fileSize": 50220,
+      "checksum": "defa087ac6633e0ee03c5ba84561d4ec"
+    },
     "charleys": {
       "displayName": "Charley's Philly Steaks",
       "category": "restaurant",
@@ -299,6 +403,14 @@
       "locationCount": 843,
       "fileSize": 97451,
       "checksum": "74e6401f75d3583fa4d109fb6466e8d2"
+    },
+    "checkers_rallys": {
+      "displayName": "Checkers/Rally's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 734,
+      "fileSize": 82654,
+      "checksum": "42f9280c83d3af2b42d58ab0db5e9c04"
     },
     "chevron": {
       "displayName": "Chevron",
@@ -315,6 +427,14 @@
       "locationCount": 3358,
       "fileSize": 380647,
       "checksum": "b435bdb5d6ac9017f1abf4c296d849ec"
+    },
+    "chilis": {
+      "displayName": "Chili's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1208,
+      "fileSize": 135721,
+      "checksum": "bbff372693433a0a255470d170c06b79"
     },
     "chuck_e_cheese": {
       "displayName": "Chuck E. Cheese",
@@ -339,6 +459,14 @@
       "locationCount": 311,
       "fileSize": 34584,
       "checksum": "82287a8f4d39195e3855e1c1e1da4fb9"
+    },
+    "cinnabon": {
+      "displayName": "Cinnabon",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1164,
+      "fileSize": 132978,
+      "checksum": "e6545e53ba4bc46ab85d7eee300f572d"
     },
     "circle_k": {
       "displayName": "Circle K",
@@ -500,6 +628,14 @@
       "fileSize": 20891,
       "checksum": "67c312133c69abffd344f9791c4cac3d"
     },
+    "daves_hot_chicken": {
+      "displayName": "Dave's Hot Chicken",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 356,
+      "fileSize": 40031,
+      "checksum": "6f05da9e63fc0f9fd54157e6d4bb6cbc"
+    },
     "days_inn": {
       "displayName": "Days Inn",
       "category": "hotels",
@@ -507,6 +643,14 @@
       "locationCount": 1203,
       "fileSize": 135496,
       "checksum": "23bf30b520dedbda373dbfc3fa9ccb8a"
+    },
+    "del_taco": {
+      "displayName": "Del Taco",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 573,
+      "fileSize": 64458,
+      "checksum": "4c051a0b1c1f79b561dc7deebc93425f"
     },
     "dennys": {
       "displayName": "Denny's",

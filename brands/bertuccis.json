@@ -1,0 +1,13 @@
+{"key":"bertuccis","displayName":"Bertucci's","category":"restaurant","useLocationName":false,"locations":[
+  {"lat":42.596284,"lon":-71.354933,"city":"Chelmsford","state":"MA","address":"14 Littleton Road","name":""},
+  {"lat":39.669025,"lon":-75.664133,"city":"Newark","state":"DE","address":"201 West Main Street","name":""},
+  {"lat":42.298127,"lon":-71.400688,"city":"Framingham","state":"MA","address":"150 Worcester Road","name":""},
+  {"lat":42.179774,"lon":-70.906928,"city":"Hingham","state":"MA","address":"90 Derby Street","name":""},
+  {"lat":42.404956,"lon":-71.086294,"city":"Medford","state":"MA","address":"4054 Mystic Valley Parkway","name":""},
+  {"lat":42.358639,"lon":-71.185141,"city":"Newton","state":"MA","address":"275 Centre Street","name":""},
+  {"lat":42.35876,"lon":-71.059759,"city":"Boston","state":"MA","address":"22 Tremont Street","name":""},
+  {"lat":38.775071,"lon":-77.171078,"city":"Springfield","state":"VA","address":"6525 Frontier Drive","name":""},
+  {"lat":39.914279,"lon":-75.339818,"city":"Springfield","state":"PA","address":"965 Baltimore Pike","name":""},
+  {"lat":42.39833,"lon":-71.261922,"city":"Waltham","state":"MA","address":"475 Winter Street","name":""},
+  {"lat":42.29642,"lon":-71.157486,"city":"Chestnut Hill","state":"MA","address":"683 VFW Pkwy","name":""},
+  {"lat":42.284361,"lon":-71.613615,"city":"Westborough","state":"MA","address":"160 Turnpike Road","name":""}]}

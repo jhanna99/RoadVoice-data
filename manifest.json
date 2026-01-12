@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:17:08.477Z",
+  "generated": "2026-01-12T06:21:49.657Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -489,8 +489,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 182,
-      "fileSize": 21502,
-      "checksum": "9ddf1991e779e077abaa9587ac99d481"
+      "fileSize": 21512,
+      "checksum": "73ea7a0540d3b8420e69522131ede14d"
     },
     "coldstone": {
       "displayName": "Cold Stone Creamery",
@@ -729,8 +729,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 529,
-      "fileSize": 59008,
-      "checksum": "e6495a346f8f9ef6ded3d7db09e46b42"
+      "fileSize": 59015,
+      "checksum": "35cd5d8cf1b8f15c742872714e82bde4"
     },
     "embassy_suites": {
       "displayName": "Embassy Suites",
@@ -1097,8 +1097,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 351,
-      "fileSize": 39493,
-      "checksum": "e0c7203f5dcf5228fdfcd2c123e9b6f2"
+      "fileSize": 39522,
+      "checksum": "f7d4e4793e245dffa83eb61fb93fd8d9"
     },
     "kroger": {
       "displayName": "Kroger",
@@ -1297,8 +1297,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 292,
-      "fileSize": 34272,
-      "checksum": "436f1c7174e89972bf5ea28f2df7f76a"
+      "fileSize": 34306,
+      "checksum": "57f25cc9a18ea03412dab2667579752e"
     },
     "nordstrom": {
       "displayName": "Nordstrom",
@@ -1585,8 +1585,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 542,
-      "fileSize": 62416,
-      "checksum": "7de9c174cbb2e818c942fb0ceabe061b"
+      "fileSize": 62434,
+      "checksum": "b34b5e14ec52587bbcf3d54c626329a7"
     },
     "shake_shack": {
       "displayName": "Shake Shack",
@@ -2009,8 +2009,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 566,
-      "fileSize": 61484,
-      "checksum": "595b9192"
+      "fileSize": 63185,
+      "checksum": "4ffbf58361e84ac46d1157776165296c"
     },
     "golds_gym": {
       "displayName": "Gold's Gym",

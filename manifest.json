@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:15:10.447Z",
+  "generated": "2026-01-12T06:17:08.477Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1010,7 +1010,7 @@
       "useLocationName": false,
       "locationCount": 69,
       "fileSize": 8752,
-      "checksum": "8ca002f5e07b11cecb19c537ee609d97"
+      "checksum": "5c7787df5210d291a3606058770890d6"
     },
     "ihop": {
       "displayName": "IHOP",
@@ -1337,8 +1337,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 669,
-      "fileSize": 76397,
-      "checksum": "686268bf868213137f40baa2d9158899"
+      "fileSize": 76433,
+      "checksum": "642960446bb2165609f59b56050ff008"
     },
     "panda_express": {
       "displayName": "Panda Express",
@@ -1401,8 +1401,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 83,
-      "fileSize": 11552,
-      "checksum": "43c3cfa6ee948ebfdcad68652126a58a"
+      "fileSize": 11566,
+      "checksum": "4d0a8f3766057e5d3570a735d1c2ee6b"
     },
     "piggly_wiggly": {
       "displayName": "Piggly Wiggly",

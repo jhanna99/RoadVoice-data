@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T04:58:40.561Z",
+  "generated": "2026-01-12T05:06:54.039Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1169,8 +1169,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 7873,
-      "fileSize": 871954,
-      "checksum": "87374d40843160b7e7f52c470b04e7be"
+      "fileSize": 871966,
+      "checksum": "ea156bd34786b82a8268368e47281c34"
     },
     "market_basket": {
       "displayName": "Market Basket",

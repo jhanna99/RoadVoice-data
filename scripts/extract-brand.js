@@ -311,10 +311,42 @@ function normalizeCity(city, state) {
   // Fix "Mc" capitalization (Mckinney -> McKinney, Mcallen -> McAllen)
   city = city.replace(/\bMc([a-z])/g, (match, letter) => 'Mc' + letter.toUpperCase());
 
+  // Saint -> St. normalization (cities DB uses "St.")
+  city = city.replace(/\bSaint\s+/gi, 'St. ');
+
+  // "St " -> "St. " (add missing period)
+  city = city.replace(/\bSt\s+(?=[A-Z])/g, 'St. ');
+
+  // Fond du Lac, King of Prussia, etc. (proper casing)
+  city = city.replace(/\bDu\b/gi, 'du');
+  city = city.replace(/\bDe\b/gi, 'de');
+  city = city.replace(/\bOf\b/gi, 'of');
+
   // NY-specific normalizations
   if (state === 'NY') {
     if (city === 'New York') return 'New York City';
     if (city === 'Bronx') return 'The Bronx';
+  }
+
+  // CA-specific normalizations
+  if (state === 'CA') {
+    if (city === 'Big Bear') return 'Big Bear Lake';
+  }
+
+  // MI-specific normalizations
+  if (state === 'MI') {
+    if (city === 'Manitou Beach-Devils') return 'Manitou Beach';
+  }
+
+  // ND-specific normalizations (DB has "St Michael" without period)
+  if (state === 'ND') {
+    if (city === 'St. Michael') return 'St Michael';
+  }
+
+  // OH-specific normalizations
+  if (state === 'OH') {
+    if (city === 'St. Mary') return 'St. Marys';
+    if (city === 'Canal') return 'Canal Fulton';
   }
 
   // Ontario-specific normalizations (Toronto neighborhoods)
@@ -327,17 +359,6 @@ function normalizeCity(city, state) {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';
     if (city === 'Québec' || city === 'Quebec') return 'Québec';
   }
-
-  // Saint -> St. normalization (cities DB uses "St.")
-  city = city.replace(/\bSaint\s+/gi, 'St. ');
-
-  // "St " -> "St. " (add missing period)
-  city = city.replace(/\bSt\s+(?=[A-Z])/g, 'St. ');
-
-  // Fond du Lac, King of Prussia, etc. (proper casing)
-  city = city.replace(/\bDu\b/gi, 'du');
-  city = city.replace(/\bDe\b/gi, 'de');
-  city = city.replace(/\bOf\b/gi, 'of');
 
   return city;
 }

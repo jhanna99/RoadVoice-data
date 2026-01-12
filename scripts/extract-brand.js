@@ -44,15 +44,43 @@ function getProperty(props, ...keys) {
 
 /**
  * Extract city from addr:full if separate city field is missing
- * Format: "123 Main St, City, ST 12345"
+ * Handles multiple formats:
+ * - "123 Main St, City, ST 12345"
+ * - "123 Main St, City, State, ST 12345"
  */
 function extractCityFromFull(addrFull) {
   if (!addrFull) return '';
   const parts = addrFull.split(',').map(p => p.trim());
   if (parts.length >= 2) {
+    // Try second part first (most common: "street, city, state zip")
+    // Skip if it looks like a state name or has digits
+    const secondPart = parts[1];
+    if (secondPart && !secondPart.match(/^\d/) &&
+        !secondPart.match(/^(Massachusetts|Connecticut|Maine|New Hampshire|Vermont|Rhode Island|New York|Pennsylvania|New Jersey|Maryland|Virginia|North Carolina|South Carolina|Georgia|Florida|Alabama|Mississippi|Louisiana|Texas|Oklahoma|Arkansas|Missouri|Tennessee|Kentucky|Ohio|Indiana|Illinois|Michigan|Wisconsin|Minnesota|Iowa|Kansas|Nebraska|South Dakota|North Dakota|Montana|Wyoming|Colorado|New Mexico|Arizona|Utah|Nevada|Idaho|Washington|Oregon|California|Alaska|Hawaii|District of Columbia)$/i)) {
+      return secondPart;
+    }
+    // Fallback to second-to-last part
     const cityPart = parts[parts.length - 2];
     if (cityPart && !cityPart.match(/^\d/)) {
       return cityPart;
+    }
+  }
+  return '';
+}
+
+/**
+ * Extract city from Hannaford-style name field
+ * Format: "Brand - Location Address - City"
+ */
+function extractCityFromName(name) {
+  if (!name) return '';
+  const parts = name.split(' - ');
+  if (parts.length >= 2) {
+    // City is the last part
+    const city = parts[parts.length - 1].trim();
+    // Make sure it's not an address (shouldn't start with number)
+    if (city && !city.match(/^\d/)) {
+      return city;
     }
   }
   return '';
@@ -99,9 +127,14 @@ try {
       let city = getProperty(props, 'addr:city', 'city');
       const address = getProperty(props, 'addr:street_address', 'addr:street', 'street_address', 'addr:full');
 
-      // Fallback: extract city from addr:full if missing
+      // Fallback 1: extract city from addr:full if missing
       if (!city) {
         city = extractCityFromFull(props['addr:full']);
+      }
+
+      // Fallback 2: extract city from name field (Hannaford style: "Brand - Location - City")
+      if (!city) {
+        city = extractCityFromName(props['name']);
       }
 
       return {

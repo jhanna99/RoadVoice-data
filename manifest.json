@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-11T17:00:50.136Z",
+  "generated": "2026-01-12T02:57:49.078Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -345,8 +345,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 42,
-      "fileSize": 3557,
-      "checksum": "9a12bef38d0fd9415c789b1674ed1778"
+      "fileSize": 6328,
+      "checksum": "e30505782f545fea9cd2d6368f5c8176"
     },
     "california_pizza_kitchen": {
       "displayName": "California Pizza Kitchen",
@@ -2025,8 +2025,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 188,
-      "fileSize": 18436,
-      "checksum": "8c1dc0d2"
+      "fileSize": 20636,
+      "checksum": "a455b0b2bfaecee24d0b6357d2f30fb6"
     },
     "honey_baked_ham": {
       "displayName": "Honey Baked Ham",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T03:07:48.687Z",
+  "generated": "2026-01-12T03:16:35.323Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1729,8 +1729,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 5466,
-      "fileSize": 593272,
-      "checksum": "4611611530a3f337e08b6c249e3d7679"
+      "fileSize": 593293,
+      "checksum": "de2ae33072e55ab826efeeb6fca80473"
     },
     "super_8": {
       "displayName": "Super 8",
@@ -1849,8 +1849,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 2048,
-      "fileSize": 225100,
-      "checksum": "bcf23b3a47e734714e99e5ba55cc5edd"
+      "fileSize": 225080,
+      "checksum": "9f507d2d7263ce72612a1cc8fc254411"
     },
     "walgreens": {
       "displayName": "Walgreens",

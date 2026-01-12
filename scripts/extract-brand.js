@@ -119,6 +119,48 @@ function cleanCity(city) {
 }
 
 /**
+ * Normalize city name to match cities database format
+ */
+function normalizeCity(city, state) {
+  if (!city) return '';
+
+  // Convert ALL CAPS to proper case
+  if (city === city.toUpperCase() && city.length > 2) {
+    city = city.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  // Fix "Mc" capitalization (Mckinney -> McKinney, Mcallen -> McAllen)
+  city = city.replace(/\bMc([a-z])/g, (match, letter) => 'Mc' + letter.toUpperCase());
+
+  // NY-specific normalizations
+  if (state === 'NY') {
+    if (city === 'New York') return 'New York City';
+    if (city === 'Bronx') return 'The Bronx';
+  }
+
+  // Ontario-specific normalizations (Toronto neighborhoods)
+  if (state === 'ON') {
+    if (city === 'Scarborough' || city === 'North York') return 'Toronto';
+  }
+
+  // Quebec - Montreal variations
+  if (state === 'QC') {
+    if (city === 'Montréal' || city === 'Montreal') return 'Montréal';
+    if (city === 'Québec' || city === 'Quebec') return 'Québec';
+  }
+
+  // Saint -> St. normalization (cities DB uses "St.")
+  city = city.replace(/\bSaint\s+/gi, 'St. ');
+
+  // Fond du Lac, King of Prussia, etc. (proper casing)
+  city = city.replace(/\bDu\b/gi, 'du');
+  city = city.replace(/\bDe\b/gi, 'de');
+  city = city.replace(/\bOf\b/gi, 'of');
+
+  return city;
+}
+
+/**
  * Extract city from Hannaford-style name field
  * Format: "Brand - Location Address - City"
  */
@@ -206,10 +248,14 @@ try {
         }
       }
 
+      // Clean and normalize the city name
+      const cleanedCity = cleanCity(city);
+      const normalizedCity = normalizeCity(cleanedCity, state);
+
       return {
         lat: Math.round(f.geometry.coordinates[1] * 1000000) / 1000000,
         lon: Math.round(f.geometry.coordinates[0] * 1000000) / 1000000,
-        city: cleanCity(city),
+        city: normalizedCity,
         state: state,
         address: address,
         name: ''

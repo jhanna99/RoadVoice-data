@@ -370,12 +370,8 @@ hooters	SE	GA	34.195969	-84.790014	887 Joe Frank Harris Pkwy, SE
 hooters	SE	GA	33.654408	-84.011083	1099 Iris Drive, SE
 hooters	W. Bradenton	FL	27.454485	-82.575685	4908 14th Street West
 hooters	W.	GA	32.006723	-81.284788	4 Gateway Blvd, W.
-huddle_house	Saint Paul	VA	36.906897	-82.3174	16414 Wise St
-huddle_house	St Pauls	NC	34.810079	-78.985265	940 W Broad St
 hyatt_house	San Jose Airport	CA	37.3739307	-121.9194707	
 ihop	Big Bear	CA	34.247	-116.882	42137 Big Bear Boulevard
-ingles	West	NC	36.382449	-81.487664	60 Ashemont Dr.
-ingles	West	SC	34.75373	-83.045693	180 Scenic Plaza Dr
 irving	Exit 133	ME	44.594591	-69.618292	204 CENTER ROAD, EXIT 133, FAIRFIELD, Maine 04937
 irving	Hwy 2	ME	46.122652	-67.605679	198 Beardsley Rd, Hwy 2, Exit 191, Beardsley, New Brunswick E7M 3Z7
 irving	Hwy 2	ME	46.122188	-67.606161	198 BEARDSLEY RD, HWY 2, EXIT 191, BEARDSLEY, New Brunswick E2M3Z7
@@ -453,7 +449,6 @@ pizza_hut	Smith Center	KS	39.785447	-98.78708	120 W Hwy 36
 pizza_hut	St. Mary's	OH	40.544905	-84.408281	1594 Celina Rd
 pizza_hut	Yates Center	KS	37.876599	-95.739239	509 S Fry St
 pjs_coffee	Stennis Space Center	MS	30.371838	-89.61728	1100 Stennis Space Center
-pjs_coffee	West	LA	32.517884	-92.159433	3414 Cypress Street
 popeyes	City of South	GA	33.6994	-84.5797	5831 Campbellton Road, Camp Creek Pkwy
 popeyes	Houston, Tx 77064	TX	29.930107	-95.545766	8120 North Sam Houston Pkwy W
 quality_inn	St. Mary's	OH	40.555298	-84.409597	1410 Commerce Drive
@@ -465,8 +460,6 @@ quiktrip	St. Louis Downtown	MO	38.602269	-90.230153	2851 Gravois Ave
 quiktrip	St. Louis Downtown	MO	38.621908	-90.219342	2600 Chouteau Ave
 quiktrip	St. Louis Downtown	MO	38.615498	-90.286711	2166 Hampton Ave
 quiktrip	St. Louis Downtown	MO	38.620237	-90.266978	1615 S Kingshighway Blvd
-quiznos	Camp	WI	43.99144	-90.36889	200 US Highway 12/16
-quiznos	North	UT	40.84927	-111.92978	420 N Redwood Rd Unit A
 schnucks	Lake	MO	38.78448	-90.7968	101 Civic Center Drive
 sephora	Woodcliff	NJ	41.0428	-74.0715	500 CHESTNUT RIDGE RD STE 103
 shake_shack	(empty)	MD	39.278245	-76.621678	M&T Bank Stadium
@@ -484,7 +477,7 @@ shell	Conneaut	PA	41.615137	-80.288628	12211 LAKESIDE DR
 shell	Crowley	CA	37.567178	-118.741853	474 S LANDING RD
 shell	Gages	IL	42.356658	-88.002718	33978 N US HIGHWAY 45
 shell	Lily	IL	41.939869	-88.47882	44W322 IL ROUTE 64
-sleep_inn	Devil's	ND	48.100705	-98.841795	1413 Highway 2
+sleep_inn	Devil's Lake	ND	48.100705	-98.841795	1413 Highway 2
 sleep_inn	DeWitt	MI	42.826412	-84.541403	1101 Commerce Park Dr.
 snap_fitness	Medical	WA	47.573943	-117.682742	207 Hwy 902
 sonic	Cool Valley	MO	38.726144	-90.304083	1465 SOUTH FLORISSANT RD

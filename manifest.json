@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:29:48.587Z",
+  "generated": "2026-01-12T06:31:27.904Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1057,8 +1057,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 2143,
-      "fileSize": 236164,
-      "checksum": "b1a557e293b8b7d3dd1956fe793050db"
+      "fileSize": 236243,
+      "checksum": "96c0c32fa756a1e137f5f0336d07f636"
     },
     "jcpenney": {
       "displayName": "JCPenney",

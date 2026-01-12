@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:06:21.485Z",
+  "generated": "2026-01-12T06:10:11.393Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1649,8 +1649,8 @@
       "category": "fitness",
       "useLocationName": false,
       "locationCount": 474,
-      "fileSize": 53076,
-      "checksum": "e5ac158496f60878e4433a018d8fce1b"
+      "fileSize": 53139,
+      "checksum": "f0a394b3c86d23e12ed6e4e620fbb775"
     },
     "sonesta": {
       "displayName": "Sonesta",
@@ -1792,9 +1792,9 @@
       "displayName": "TJ Maxx",
       "category": "shopping",
       "useLocationName": false,
-      "locationCount": 3757,
-      "fileSize": 494572,
-      "checksum": "926da3b4d7b306f2251303f2c493d576"
+      "locationCount": 1340,
+      "fileSize": 175356,
+      "checksum": "9e47d2c76f3d8c0ca12cb7353f1995f3"
     },
     "towneplace_suites": {
       "displayName": "TownePlace Suites",
@@ -1905,8 +1905,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 527,
-      "fileSize": 58040,
-      "checksum": "5ed076aa5c34449a449bf1b6b529957a"
+      "fileSize": 58104,
+      "checksum": "6354bd2407e185b89c37fb89575ab06f"
     },
     "wingate": {
       "displayName": "Wingate",

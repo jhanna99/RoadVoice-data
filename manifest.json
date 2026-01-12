@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T03:18:46.336Z",
+  "generated": "2026-01-12T04:17:00.586Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -834,7 +834,7 @@
       "useLocationName": false,
       "locationCount": 648,
       "fileSize": 72257,
-      "checksum": "07c0ce15eae49b6df2a949c72cc8e7c1"
+      "checksum": "3a3735397176aa94d2c8fb7e82970762"
     },
     "golden_corral": {
       "displayName": "Golden Corral",
@@ -1721,8 +1721,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 12157,
-      "fileSize": 1488306,
-      "checksum": "be08bf8c47f36500e6db40e226818bc2"
+      "fileSize": 1435227,
+      "checksum": "711c2328ef0c4fad0d7d43d3baa2dbca"
     },
     "sunoco": {
       "displayName": "Sunoco",
@@ -1874,7 +1874,7 @@
       "useLocationName": false,
       "locationCount": 879,
       "fileSize": 96431,
-      "checksum": "0b4800f184eac895caf6b5d2ba1703f0"
+      "checksum": "3a1d587e17522924b9cdacac6b08e56d"
     },
     "wegmans": {
       "displayName": "Wegmans",

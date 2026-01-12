@@ -97,11 +97,48 @@ function extractCityFromFull(addrFull) {
   return '';
 }
 
+// Common US county names that appear in "City County" format
+const COUNTY_NAMES = [
+  'Miami-Dade', 'Broward', 'Palm Beach', 'Harris', 'Bexar', 'Dallas', 'Tarrant',
+  'Travis', 'El Paso', 'Maricopa', 'Pima', 'Clark', 'Washoe', 'King', 'Pierce',
+  'Snohomish', 'Multnomah', 'Clackamas', 'Sacramento', 'San Diego', 'Orange',
+  'Los Angeles', 'Riverside', 'San Bernardino', 'Alameda', 'Santa Clara',
+  'Contra Costa', 'San Francisco', 'San Mateo', 'Fresno', 'Kern', 'Ventura',
+  'Cook', 'DuPage', 'Lake', 'Will', 'Kane', 'Wayne', 'Oakland', 'Macomb',
+  'Cuyahoga', 'Franklin', 'Hamilton', 'Montgomery', 'Summit', 'Lucas',
+  'Allegheny', 'Philadelphia', 'Delaware', 'Bucks', 'Chester', 'Lancaster',
+  'Suffolk', 'Nassau', 'Westchester', 'Erie', 'Monroe', 'Onondaga',
+  'Middlesex', 'Essex', 'Bergen', 'Hudson', 'Union', 'Passaic', 'Morris',
+  'Monmouth', 'Ocean', 'Camden', 'Burlington', 'Gloucester', 'Mercer',
+  'Fairfax', 'Prince William', 'Loudoun', 'Arlington', 'Henrico', 'Chesterfield',
+  'Hillsborough', 'Pinellas', 'Duval', 'Orange', 'Seminole', 'Volusia', 'Lee',
+  'Polk', 'Brevard', 'Pasco', 'Sarasota', 'Manatee', 'Collier', 'Marion',
+  'Fulton', 'DeKalb', 'Gwinnett', 'Cobb', 'Clayton', 'Cherokee', 'Forsyth',
+  'Henry', 'Douglas', 'Rockdale', 'Newton', 'Paulding', 'Fayette', 'Carroll',
+  'Mecklenburg', 'Wake', 'Guilford', 'Forsyth', 'Cumberland', 'Durham', 'Buncombe',
+  'Gaston', 'Cabarrus', 'Union', 'Iredell', 'Catawba', 'Rowan', 'Davidson',
+  'Greenville', 'Richland', 'Charleston', 'Horry', 'Spartanburg', 'Lexington',
+  'York', 'Berkeley', 'Dorchester', 'Anderson', 'Aiken', 'Beaufort',
+  'Shelby', 'Davidson', 'Knox', 'Hamilton', 'Rutherford', 'Williamson', 'Sumner',
+  'Wilson', 'Montgomery', 'Blount', 'Sullivan', 'Washington', 'Sevier',
+  'Jefferson', 'Madison', 'Mobile', 'Baldwin', 'Tuscaloosa', 'Montgomery', 'Lee',
+  'Shelby', 'Morgan', 'Etowah', 'Calhoun', 'Houston', 'St. Clair', 'Limestone'
+];
+
 /**
- * Clean up city name - remove state suffixes, abbreviations, etc.
+ * Clean up city name - remove state suffixes, abbreviations, county names, etc.
  */
 function cleanCity(city) {
   if (!city) return '';
+
+  // Remove trailing county names (e.g., "Sunrise Broward" -> "Sunrise")
+  for (const county of COUNTY_NAMES) {
+    const regex = new RegExp(`\\s+${county}$`, 'i');
+    if (regex.test(city)) {
+      city = city.replace(regex, '');
+      break;
+    }
+  }
 
   // Remove trailing state abbreviations and zip codes (e.g., "Cambridge MA 02141" -> "Cambridge")
   city = city.replace(/\s+[A-Z]{2}\s*\d{5}(-\d{4})?$/, '');
@@ -124,8 +161,8 @@ function cleanCity(city) {
 function normalizeCity(city, state) {
   if (!city) return '';
 
-  // Convert ALL CAPS to proper case
-  if (city === city.toUpperCase() && city.length > 2) {
+  // Convert ALL CAPS or all lowercase to proper case
+  if ((city === city.toUpperCase() || city === city.toLowerCase()) && city.length > 2) {
     city = city.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
   }
 

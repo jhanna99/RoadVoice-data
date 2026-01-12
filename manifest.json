@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T05:06:54.039Z",
+  "generated": "2026-01-12T05:15:17.380Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -177,8 +177,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 80,
-      "fileSize": 6836,
-      "checksum": "b36c83129abe313ae55e459dcca88a07"
+      "fileSize": 11074,
+      "checksum": "e3c7556c385b08ed5a323c13522ab258"
     },
     "bertuccis": {
       "displayName": "Bertucci's",
@@ -217,8 +217,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 52,
-      "fileSize": 4468,
-      "checksum": "325bfb84942da8a8fb2d564c4dac4561"
+      "fileSize": 7117,
+      "checksum": "9048f0d773c1698f52358e6564a6cca5"
     },
     "bjs": {
       "displayName": "BJ's Wholesale",
@@ -1518,11 +1518,11 @@
     },
     "ritas": {
       "displayName": "Rita's Italian Ice",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 585,
-      "fileSize": 48880,
-      "checksum": "cbd119440cdfbba4478984af7a5f963f"
+      "fileSize": 48877,
+      "checksum": "a147861d80acf6fee7ddb0f20da50663"
     },
     "rodeway_inn": {
       "displayName": "Rodeway Inn",
@@ -2001,8 +2001,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 43,
-      "fileSize": 4484,
-      "checksum": "0d06d0be"
+      "fileSize": 4992,
+      "checksum": "51d58864ba012fd1fe6648e3b61453b0"
     },
     "freddys": {
       "displayName": "Freddy's",
@@ -2016,9 +2016,9 @@
       "displayName": "Gold's Gym",
       "category": "fitness",
       "useLocationName": false,
-      "locationCount": 194,
-      "fileSize": 24153,
-      "checksum": "b8465c09"
+      "locationCount": 181,
+      "fileSize": 24519,
+      "checksum": "78530330d6b46b432291458158688d91"
     },
     "hannaford": {
       "displayName": "Hannaford",
@@ -2040,9 +2040,9 @@
       "displayName": "Hooters",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 212,
-      "fileSize": 21520,
-      "checksum": "e219736a"
+      "locationCount": 208,
+      "fileSize": 23603,
+      "checksum": "02574190038c91ceefc760a844da511f"
     },
     "huddle_house": {
       "displayName": "Huddle House",

@@ -47,6 +47,64 @@ if (fs.existsSync(OFFICIAL_CITIES_DIR)) {
   }
 }
 console.log(`Loaded ${officialCount} cities from official Census data`);
+
+// Add common valid city name variations not in Census/ZIP data
+const EXTRA_VALID_CITIES = {
+  'NY': ['New York City', 'The Bronx', 'Queens', 'Brooklyn', 'Staten Island', 'Long Island City', 'Elmhurst', 'Flushing', 'Jamaica', 'Astoria', 'Woodside', 'Jackson Heights', 'Corona', 'Rego Park', 'Forest Hills', 'Bayside', 'Fresh Meadows', 'Whitestone', 'College Point', 'Ridgewood', 'Maspeth', 'Middle Village', 'Glendale', 'Woodhaven', 'Ozone Park', 'Howard Beach', 'Richmond Hill', 'Kew Gardens', 'Sunnyside', 'Far Rockaway', 'Arverne', 'Rockaway Park', 'Belle Harbor', 'Breezy Point', 'Glenville', 'Manhattan', 'Malta', 'Farmington', 'Dewitt', 'Halfmoon', 'East Amherst', 'South Richmond Hill'],
+  'CA': ['Hollywood', 'Pacoima', 'Ventura', 'City of Industry', 'Van Nuys', 'North Hollywood', 'Sherman Oaks', 'Encino', 'Tarzana', 'Woodland Hills', 'Canoga Park', 'Northridge', 'Granada Hills', 'Sylmar', 'Sun Valley', 'Panorama City', 'Reseda', 'Winnetka', 'Chatsworth', 'Porter Ranch', 'Lake Balboa', 'Valley Village', 'Studio City', 'Sunland', 'Camp Pendleton', 'Saugus', 'La Canada Flintridge', 'La Canada', 'West Los Angeles', 'Pacific Palisades', 'Westchester', 'Highland Park', 'Greenbrae', 'Anaheim Hills', 'North Palm Springs', 'Agoura'],
+  'TX': ['Kingwood', 'Ft. Worth', 'Ft Worth', 'Lacy Lakeview'],
+  'MA': ['Hyannis', 'Centerville', 'Osterville', 'Cotuit', 'Marstons Mills', 'West Barnstable', 'Chelmsford', 'Dartmouth', 'Westford', 'Chestnut Hill', 'South Attleboro'],
+  'VA': ['Henrico', 'North Chesterfield', 'Gloucester', 'Bristow', 'Spotsylvania', 'Zion Crossroads'],
+  'CT': ['Stratford', 'Vernon', 'Lisbon', 'Willington', 'Milldale'],
+  'FL': ['St. Johns', 'Ft. Lauderdale', 'Ft Lauderdale', 'Ft. Myers', 'Ft Myers', 'Viera', 'Ponte Vedra Beach', 'Ponte Vedra', 'Clearwater Beach', 'University Park', 'Pensacola Beach'],
+  'MO': ["O'Fallon", 'O Fallon', 'St. Louis Downtown'],
+  'IL': ['O Fallon', "O'Fallon", 'Lake In The Hills', 'Mt Vernon', 'Mt. Vernon', 'Mt Prospect', 'Mt. Prospect'],
+  'NJ': ['Pennsauken', 'Egg Harbor Township', 'East Windsor', 'Neptune', 'Middletown', 'Ewing', 'Delran', 'Medford', 'Mount Holly', 'Galloway', 'Westampton', 'Little Falls', 'West Deptford', 'Branchburg', 'Robbinsville', 'Rochelle Park', 'Mt. Laurel', 'Mt Laurel', 'Lawrence Township', 'Cape May Court House'],
+  'SC': ['Indian Land', 'Mt Pleasant', 'Mt. Pleasant', 'Mount Pleasant', 'Hilton Head', 'Hilton Head Island'],
+  'MI': ['Clarkston', 'Commerce Township', 'Sault Sainte Marie', 'Sault Ste. Marie', 'Sault Ste Marie', 'Brownstown', 'Mt. Pleasant', 'Shelby Twp', 'Shelby Township'],
+  'RI': ['Johnston', 'North Providence', 'Wakefield', 'South Kingstown'],
+  'OH': ['Liberty Township'],
+  'MN': ['White Bear', 'White Bear Lake', 'St. Anthony'],
+  'PR': ['San Juan', 'Bayamon', 'Carolina', 'Ponce', 'Caguas', 'Guaynabo', 'Mayaguez', 'Arecibo', 'Fajardo', 'Humacao'],
+  'GA': ['Ellenwood', 'St. Simons Island', 'St Simons Island'],
+  'MS': ['Diberville', "D'Iberville"],
+  'PA': ['Moon Township', 'Hazle Township', 'Huntingdon Valley', 'Feasterville Trevose', 'Feasterville-Trevose', 'Abington', 'East Norriton', 'Southampton'],
+  'TN': ['Mt. Juliet', 'Mt Juliet', 'Mount Juliet', 'Mc Minnville', 'McMinnville'],
+  'MD': ['Hunt Valley', 'Lavale', 'LaVale', 'Windsor Mill'],
+  'CO': ['Falcon'],
+  'UT': ['West Valley', 'West Valley City'],
+  'WI': ['Grand Chute'],
+  'HI': ['Kailua-Kona', 'Kailua Kona'],
+  'WV': ['Mineral Wells'],
+  'WA': ['Tulalip'],
+  'NC': ['Supply'],
+  'VT': ['Berlin'],
+  'ME': ['Lebanon'],
+  'GA': ['Ellenwood', 'St. Simons Island', 'St Simons Island', 'Fort Benning'],
+  'AL': ['Columbus'],
+  'ID': ["Coeur D' Alene", 'Coeur D Alene', "Coeur d'Alene"],
+  'MO': ["O'Fallon", 'O Fallon', 'St. Louis Downtown', 'Sainte Genevieve', 'Ste. Genevieve'],
+  'VA': ['Henrico', 'North Chesterfield', 'Gloucester', 'Bristow', 'Spotsylvania', 'Zion Crossroads', 'North Tazewell'],
+  'KY': ['Mt Sterling', 'Mt. Sterling', 'LaGrange'],
+  'IN': ['LaPorte'],
+  'LA': ['Greenwell Springs', 'St. Amant'],
+  'PA': ['Moon Township', 'Hazle Township', 'Huntingdon Valley', 'Feasterville Trevose', 'Feasterville-Trevose', 'Abington', 'East Norriton', 'Southampton', 'Essington', 'Coal Township'],
+  'WV': ['Mineral Wells', 'Berkeley Springs'],
+  'DE': ['Rehoboth', 'Rehoboth Beach'],
+  'NV': ['Primm', 'N Las Vegas', 'North Las Vegas', 'Jean'],
+  'UT': ['West Valley', 'West Valley City', 'Lake Point', 'Spanish Fork'],
+  'OH': ['Liberty Township', 'Mt. Vernon', 'Mt Vernon', 'Mount Vernon'],
+  'CO': ['Falcon', 'Ft. Collins', 'Ft Collins', 'Fort Collins'],
+  'OK': ['Fort Smith'],
+  'MD': ['Hunt Valley', 'Lavale', 'LaVale', 'Windsor Mill', 'Finksburg'],
+};
+
+for (const [state, cities] of Object.entries(EXTRA_VALID_CITIES)) {
+  for (const city of cities) {
+    validCities.add(`${city.toLowerCase()}|${state}`);
+  }
+}
+console.log(`Added ${Object.values(EXTRA_VALID_CITIES).flat().length} extra valid city names`);
 console.log(`Total valid cities: ${validCities.size}`);
 
 // Patterns that indicate bad city names
@@ -74,25 +132,28 @@ function isSuspicious(city, state) {
   // Skip Canadian provinces - we don't have reference data for them
   if (CANADIAN_PROVINCES.has(state)) return false;
 
-  // Check against bad patterns
+  // Check if city is in valid cities list FIRST (before pattern checks)
+  const key = `${city.toLowerCase()}|${state}`;
+  if (validCities.has(key)) {
+    return false; // City is in our valid list
+  }
+
+  // Try without common suffixes
+  const simplified = city
+    .replace(/\s+(Township|Twp|Heights|Hgts|Center|Ctr|Village|Vlg)$/i, '')
+    .trim();
+  const simplifiedKey = `${simplified.toLowerCase()}|${state}`;
+  if (validCities.has(simplifiedKey)) {
+    return false; // Simplified city is in our valid list
+  }
+
+  // Check against bad patterns (only for cities not in our valid list)
   for (const pattern of BAD_PATTERNS) {
     if (pattern.test(city)) return true;
   }
 
-  // Check if city is in valid cities list
-  const key = `${city.toLowerCase()}|${state}`;
-  if (!validCities.has(key)) {
-    // Try without common suffixes
-    const simplified = city
-      .replace(/\s+(Township|Twp|Heights|Hgts|Center|Ctr|Village|Vlg)$/i, '')
-      .trim();
-    const simplifiedKey = `${simplified.toLowerCase()}|${state}`;
-    if (!validCities.has(simplifiedKey)) {
-      return true;
-    }
-  }
-
-  return false;
+  // Not in valid list, flag as suspicious
+  return true;
 }
 
 // Process all brand files

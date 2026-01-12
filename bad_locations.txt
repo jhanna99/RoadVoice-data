@@ -5,15 +5,8 @@ brand	city	state	lat	lon	address
 7_eleven	Newton Center	MA	42.31944	-71.18153	325 Boylston Street
 7_eleven	South Coventry Twp	PA	40.17472	-75.66266	2200 Pottstown Pike
 7_eleven	St. Petersburg Bea	FL	27.73406	-82.745622	6205 GULF BLVD
-ac_hotel	New York	NY	40.755433	-73.990181	260 West 40th Street
-ac_hotel	New York	NY	40.705939	-74.005017	151 Maiden Lane
-ac_hotel	St Augustine	FL	29.890053	-81.319207	90 Riberia Street
-ac_hotel	St Louis Park	MN	44.969871	-93.34415	5075 Wayzata Blvd.
 adidas	West	FL	26.724568	-80.085837	1731 Palm Beach Lakes Boulevard
 aldi	Pocono	PA	41.116674	-75.382378	2995 Sr 940
-aloft	New York	NY	40.746583	-73.99202	132 West 28th Street
-aloft	New York	NY	40.710269	-74.006911	49-53 Ann Street
-aloft	New York	NY	40.80907	-73.95154	2296 Frederick Douglass Boulevard
 amazon_locker	Centerline	MI	42.477973	-83.019442	Family Dollar - 28398, 8535 E 10 MILE RD
 amazon_locker	Chicago Hgts	IL	41.478237	-87.638128	3316A CHICAGO RD
 amazon_locker	China	CA	35.65456	-117.656391	BLANDY ST BLDG 19, Blandy St Bldg 19
@@ -39,8 +32,6 @@ applebees	Ft. Wayne	IN	41.139168	-85.162854	6525 Lima Road
 applebees	Ft. Wayne	IN	41.031889	-85.257969	5788 Coventry Lane
 arbys	Medical	WA	47.642934	-117.669286	14202 W. State Rd. 2
 arbys	Whitmore	MI	42.442885	-83.758571	9747 E M 36
-au_bon_pain	Bronx	NY	40.831751	-73.90233	1276 Fulton Ave
-au_bon_pain	Bronx	NY	40.844029	-73.91147	1650 Grand Concourse
 banana_republic	Corte	CA	37.928617	-122.514594	1516 REDWOOD HIGHWAY, #C033
 banana_republic	West	FL	26.725705	-80.087103	1755 PALM BEACH LAKES BLVD, #W117
 banana_republic	Woodcliff	NJ	41.040778	-74.075587	407 Chestnut Ridge Rd, Ste 7
@@ -59,7 +50,6 @@ best_western	Big Bear	CA	34.243478	-116.881328	42200 Moonridge Road
 best_western	Clarks	PA	41.482015	-75.688811	820 Northern Boulevard
 best_western	Corte	CA	37.930115	-122.516955	56 Madera Boulevard
 best_western	Liberty	WA	47.673547	-117.11209	1816 N Pepper Ln
-best_western_plus	New York	NY	40.71817	-74.001287	88 Walker Street
 big_boy	(empty)	MI	42.296911	-85.235655	Big Boy, 2183 W Columbia Ave, Battle Creek, MI 49015, USA
 big_boy	(empty)	MI	42.875122	-85.796198	4950 Wilson Ave SW, Wyoming, MI 49418, USA
 big_boy	Oakland charter Township	MI	42.742264	-83.13949	3756 Rochester Rd, Oakland charter Township, MI 48306, USA
@@ -74,8 +64,7 @@ bjs	West	CT	41.73949	-72.71932	507 New Park Ave.
 bjs	West	FL	26.71022	-80.07579	777 Executive Center Drive
 bob_evans	Saint Louis	MO	38.511326	-90.33736	6528 S Lindbergh Blvd
 bojangles	St Augustine	FL	29.914243	-81.399317	2095 State Route 16
-boston_market	Bronx	NY	40.833975	-73.828516	
-boston_market	EASTAMPTON TOWNSHIP	NJ	40.005733	-74.796203	
+boston_market	Eastampton Township	NJ	40.005733	-74.796203	514 High Street, EASTAMPTON TOWNSHIP, NJ 8060, USA
 boston_pizza	Athabasca	AB	54.71905	-113.241996	2201 48th Ave
 boston_pizza	Barrhaven	ON	45.273707	-75.74828	1681 Greenbank Road
 boston_pizza	Beauport	QC	46.863379	-71.215862	3485 rue Clemenceau
@@ -139,93 +128,9 @@ burger_king	Fort Sam	TX	29.462466	-98.434661	1387 Hardee Road
 burger_king	Fort Sam	TX	29.458248	-98.415547	3600 George C Beach Ave
 burger_king	Hasting	NY	40.984929	-73.853002	Jackson Avenue, Mile Post 6n
 caesars_casino	(empty)	NV	39.530895	-119.814972	
-cannabis_dispensary	Bronx	NY	40.862339	-73.8575	2460 Williamsbridge Road
-cannabis_dispensary	Bronx	NY	40.839928	-73.867529	1798 E Tremont Ave
-cannabis_dispensary	Bronx	NY	40.853333	-73.907447	2034 Jerome Ave
-cannabis_dispensary	Bronx	NY	40.896237	-73.863443	4219 Webster Avenue
-cannabis_dispensary	Bronx	NY	40.851821	-73.828775	3220 Westchester Ave
-cannabis_dispensary	Bronx	NY	40.857903	-73.885317	2500 Arthur Ave
-cannabis_dispensary	Bronx	NY	40.861637	-73.892467	372 East Fordham Rd.
-cannabis_dispensary	Bronx	NY	40.81773	-73.915635	2935 3rd Ave 3rd Ave
-cannabis_dispensary	Bronx	NY	40.90343	-73.850767	696 East 241 Street
-cannabis_dispensary	Bronx	NY	40.865341	-73.864121	784 Allerton Ave, Bronx NY 10467
-cannabis_dispensary	Bronx	NY	40.878323	-73.844735	3551 Boston Rd.
-cannabis_dispensary	Bronx	NY	40.820306	-73.891327	925 Hunts Point Ave
-cannabis_dispensary	Bronx	NY	40.808341	-73.93039	2412 Third Avenue
-cannabis_dispensary	Bronx	NY	40.81585	-73.88696	27 W Fordham Rd.
-cannabis_dispensary	Bronx	NY	40.884846	-73.90191	3633 Kingsbridge Ave
 cannabis_dispensary	Greenfield Center	NY	43.15102	-73.8556	2532 State Hwy 9N
 cannabis_dispensary	Hollis Center	ME	43.60079	-70.58425	321 Hollis Rd
 cannabis_dispensary	Kings County	NY	40.689644	-73.96975	237 DeKalb Ave
-cannabis_dispensary	New York	NY	40.755189	-73.991133	584 8th Avenue
-cannabis_dispensary	New York	NY	40.714912	-74.008293	110 Chambers Street
-cannabis_dispensary	New York	NY	40.730338	-73.992442	750 Broadway
-cannabis_dispensary	New York	NY	40.753649	-73.986607	1412 Broadway
-cannabis_dispensary	New York	NY	40.81954	-73.952046	1536 Amsterdam Ave
-cannabis_dispensary	New York	NY	40.741352	-73.990068	182 Fifth Avenue
-cannabis_dispensary	New York	NY	40.756029	-73.967956	977 2nd Ave
-cannabis_dispensary	New York	NY	40.709763	-74.006567	111 FULTON ST
-cannabis_dispensary	New York	NY	40.734179	-73.991422	835 Broadway
-cannabis_dispensary	New York	NY	40.8364168960938	-73.942953521547	3858 Broadway
-cannabis_dispensary	New York	NY	40.796118	-73.970389	2610 Broadway
-cannabis_dispensary	New York	NY	40.847482	-73.938476	704 W 177th St
-cannabis_dispensary	New York	NY	40.777199	-73.948761	1662 1st Ave
-cannabis_dispensary	New York	NY	40.78653	-73.971698	57 West 86th Street
-cannabis_dispensary	New York	NY	40.736825	-73.99085	33 Union Square West
-cannabis_dispensary	New York	NY	40.826772	-73.950537	3547 Broadway
-cannabis_dispensary	New York	NY	40.758597	-73.985079	719 7th Ave
-cannabis_dispensary	New York	NY	40.77646	-73.958036	1190 Lexington Ave
-cannabis_dispensary	New York	NY	40.729174	-73.978028	229 Avenue B
-cannabis_dispensary	New York	NY	40.783209	-73.948168	1819 2nd Ave.
-cannabis_dispensary	New York	NY	40.756798326643	-73.9944029729614	405 W 39th St
-cannabis_dispensary	New York	NY	40.753372	-73.974358	459 Lexington Avenue
-cannabis_dispensary	New York	NY	40.743579	-73.99505	158 West 23rd St
-cannabis_dispensary	New York	NY	40.721878	-73.983398	15 Avenue B
-cannabis_dispensary	New York	NY	40.740879	-73.984385	122 E 25th St
-cannabis_dispensary	New York	NY	40.756878	-73.977996	587 5th Ave
-cannabis_dispensary	New York	NY	40.743599	-73.99932	206 8th Ave
-cannabis_dispensary	New York	NY	40.767052	-73.98606	862 9th Ave
-cannabis_dispensary	New York	NY	40.7071	-74.00207	108 South St
-cannabis_dispensary	New York	NY	40.72068	-73.995537	52A Kenmare Street
-cannabis_dispensary	New York	NY	40.76388	-73.966722	799 Lexington Ave
-cannabis_dispensary	New York	NY	40.78375	-73.952661	1412 Lexington Avenue
-cannabis_dispensary	New York	NY	40.725082	-74.001912	412 W Broadway
-cannabis_dispensary	New York	NY	40.763757	-73.989077	743 9th Ave
-cannabis_dispensary	New York	NY	40.761359	-73.987076	797 8th Ave
-cannabis_dispensary	New York	NY	40.723226	-73.992583	259 Bowery
-cannabis_dispensary	New York	NY	40.750195	-73.987115	958 Sixth Ave
-cannabis_dispensary	New York	NY	40.746634	-73.997173	302 8th Ave
-cannabis_dispensary	New York	NY	40.791905	-73.974199	2465 Broadway
-cannabis_dispensary	New York	NY	40.749349	-73.983561	381 5Th ave
-cannabis_dispensary	New York	NY	40.736194	-73.98535	214 3rd Ave
-cannabis_dispensary	New York	NY	40.744231	-73.987287	241 5th Ave
-cannabis_dispensary	New York	NY	40.758802	-73.988998	701 Eight Ave.
-cannabis_dispensary	New York	NY	40.76097	-73.96112	1115 1 ST AVE
-cannabis_dispensary	New York	NY	40.72634	-73.991275	3 East 3rd Street
-cannabis_dispensary	New York	NY	40.747022	-73.973953	698 2nd Ave
-cannabis_dispensary	New York	NY	40.740179	-73.998588	104 7th Avenue
-cannabis_dispensary	New York	NY	40.745227	-74.005646	146 10th Ave
-cannabis_dispensary	New York	NY	40.718208	-74.003149	381 Broadway
-cannabis_dispensary	New York	NY	40.759896	-73.973845	519 Madison Ave
-cannabis_dispensary	New York	NY	40.803559	-73.956309	2119 Fredrick Douglass Blvd
-cannabis_dispensary	New York	NY	40.75686	-73.993248	356 W 40th St
-cannabis_dispensary	New York	NY	40.730663	-73.988601	101 East 10th Street
-cannabis_dispensary	New York	NY	40.724921	-73.97851	129 Avenue C
-cannabis_dispensary	New York	NY	40.725011	-73.996736	598 Broadway
-cannabis_dispensary	New York	NY	40.747027	-73.989467	846 6th Ave
-cannabis_dispensary	New York	NY	40.715035	-73.992847	70 Canal St
-cannabis_dispensary	New York	NY	40.778436	-73.980613	157 West 72nd St
-cannabis_dispensary	New York	NY	40.745623	-73.985957	2 E. 30th Street
-cannabis_dispensary	New York	NY	40.768635	-73.95627	334 East 73rd Street
-cannabis_dispensary	New York	NY	40.80946	-73.94991	248 W 125th Street
-cannabis_dispensary	New York	NY	40.71872	-73.98966	85 Delancey Street
-cannabis_dispensary	New York	NY	40.732798	-73.986722	212 East 14th St
-cannabis_dispensary	New York	NY	40.72823	-73.99937	144 BLEECKER ST
-cannabis_dispensary	New York	NY	40.739576	-74.001453	245 W 14th St
-cannabis_dispensary	New York	NY	40.86341	-73.925597	151 Dyckman St.
-cannabis_dispensary	New York	NY	40.672522	-73.957148	769 Franklin Ave Brooklyn
-cannabis_dispensary	New York	NY	40.721961	-73.988085	186 Orchard St
-cannabis_dispensary	New York	NY	40.779419	-73.955995	128 E 86th Street
 caribou	Lee's	MO	38.918021	-94.357962	920 NE Langsford Road
 caribou	Long	MN	44.988124	-93.578673	2073 West Wayzata Boulevard
 caribou	Moose	MN	46.449958	-92.767549	70 Arrowhead Lane
@@ -235,13 +140,6 @@ caribou	Prior	MN	44.730589	-93.474351	2400 Mystic Lake Boulevard
 caribou	Rice	WI	45.495538	-91.735124	330 S Main St
 charleys	Fort Sam	TX	29.450624	-98.446497	2500 Funston Rd
 charleys	Poratage	IN	41.547815	-87.179013	6087 US Highway 6
-checkers_rallys	Bronx	NY	40.836062	-73.922888	1203 Jerome Ave.
-checkers_rallys	Bronx	NY	40.825542	-73.919014	260 East 161st Street
-checkers_rallys	Bronx	NY	40.862115	-73.891996	379 East Fordham Rd
-checkers_rallys	Bronx	NY	40.876719	-73.863173	771 E. Gunn Hill Rd.
-checkers_rallys	New York	NY	40.815659	-73.91776	530 Willis Ave
-checkers_rallys	New York	NY	40.823939	-73.945129	695 Saint Nicholas Ave
-checkers_rallys	New York	NY	40.807765	-73.944965	79 W. 125th St.
 chevron	Centerfield	UT	39.137147	-111.818607	540 N MAIN ST
 chevron	Centerfield	UT	39.137147	-111.818607	540 N MAIN ST
 chevron	Centerville	AL	32.941799	-87.136971	241 MONTGOMERY HWY
@@ -330,28 +228,8 @@ conoco	Tijuana	(empty)	32.50193	-116.964554	CARRETERA LIBRE TIJUANA ENSE #10290
 conoco	Tijuana	(empty)	32.50193	-116.964554	CARR LIBRE TIJUANA TECATE COL #4862
 conoco	Yates Center	KS	37.879172	-95.738917	301 S FRY
 costco	Caguas Bairoa Ward	PR	18.247385	-66.023693	200 AVE RAFAEL CORDERO, PR#30
-courtyard	New York	NY	40.708308	-74.013681	100 Greenwich Street
-courtyard	New York	NY	40.727557	-74.005489	181 Varick Street
-courtyard	New York	NY	40.753891	-73.985825	114 West 40th Street
-courtyard	New York	NY	40.748102	-73.99136	135 West 30th Street
-courtyard	New York	NY	40.757433	-73.969637	866 Third Avenue
-courtyard	New York	NY	40.764218	-73.982869	1717 Broadway
-courtyard	New York	NY	40.707092	-74.006261	215 Pearl Street
-courtyard	New York	NY	40.780573	-73.946422	410 East 92nd Street
-courtyard	New York	NY	40.754719	-73.998867	461 West 34th Street, At the corner of 34th and 10th– across from Hudson Yards
-courtyard	New York	NY	40.752132	-73.981665	3 East 40th Street
-courtyard	New York	NY	40.754079	-73.992047	307 West 37th Street (West 37th Street & 8th Avenue)
-courtyard	St Paul	MN	44.945658	-93.103149	150 Smith Ave North
-crossfit	Bronx	NY	40.811071	-73.928897	242 East 137th Street
 crossfit	JUSTIN	TX	33.108607	-97.293284	11180 FM 156 STE 1003
-crossfit	New York	NY	40.74575	-73.99006	50 West 28th Street
-crossfit	New York	NY	40.725538	-73.978314	647 E 9th Street
-crossfit	New York	NY	40.735566	-73.991903	1 Union Square West, Basement
-crossfit	New York	NY	40.775706	-73.947546	1623 York Avenue
-crossfit	New York	NY	40.71767	-73.992446	285 Grand Street
-crossfit	New York	NY	40.774315	-73.980797	157 Columbus Ave
-crossfit	New York	NY	40.705458	-74.012312	60 New Street
-crossfit	New York	NY	40.709792	-74.006323	151 William Street
+crossfit	New York City	NJ	40.754586	-73.994701	361 West 36th Street
 crossfit	Saint Johns	FL	30.072532	-81.611542	1344 Roberts Road
 crossfit	St Joseph	MI	42.04726	-86.434572	3905 Michigan 139, Unit# 101
 culvers	Paddock	WI	42.567181	-88.116661	7600 Antioch Rd
@@ -376,7 +254,6 @@ cvs	Pocono	PA	41.11745	-75.38106	3016 Route 940
 dairy_queen	Battle	MN	46.280018	-95.713729	301 Lake Ave S
 dairy_queen	Canal	OH	40.882252	-81.572897	2504 Locust St S
 dairy_queen	Winona	IN	41.23309	-85.827345	2304 E Winona Ave
-design_hotels	New York	NY	40.719261	-73.999994	11 Howard Street
 dicks_sporting	South County	MO	38.50452	-90.33481	590 South County Center Way
 dollar_general	Beach	PA	41.5999	-75.14934	1062 Beach Lake Hwy
 dollar_general	Belle Center	OH	40.5031	-83.6948	10556 Us Highway 68 N
@@ -437,13 +314,6 @@ dominos	Fort Sam	TX	29.462411	-98.434832	3390 William Hardee Rd Building 1387
 dominos	Fort Sam	TX	29.456806	-98.44821	2766 Harney Bldg 2735
 dominos	Ft Wayne	IN	41.016743	-85.121543	1020 East Tillman Road
 dominos	St. Petesburg	FL	27.827954	-82.728133	6191 66th St N
-doubletree	New York	NY	40.7471	-73.9913	128 West 29th Street
-doubletree	New York	NY	40.756802	-73.99307	350 W. 40th Street
-doubletree	New York	NY	40.704	-74.0126	8 Stone Street
-doubletree	New York	NY	40.760168	-73.978191	25 West 51st Street
-doubletree	New York	NY	40.753808	-73.992716	525 8th Avenue
-doubletree	Saint Louis	MO	38.693821	-90.449272	1973 Craigshire Road
-doubletree	St Augustine	FL	29.9043	-81.3181	116 San Marco Avenue
 dunkin	Ballston	NY	42.93625	-73.806409	9 Round Lake Rd
 dunkin	Castleton on	NY	42.579766	-73.6815	95 Miller Rd
 dunkin	Center Conway	NH	44.000434	-70.998135	3274 Main St
@@ -483,16 +353,6 @@ exxon	Pocono	PA	41.107651	-75.401466	RT 940 (I-380 EXIT 3)
 exxon	Point of Rocks	MD	39.275517	-77.528755	1595 BOWIS DRIVE, UNIT E
 exxon	St. Stephens Church	VA	37.807697	-77.04071	12348 RICHMOND TAPPAHANNOCK HWY
 exxon	Township	NJ	40.99712	-74.059433	700 W WASHINGTON AVENUE
-fairfield	CLINTON	MD	38.780338	-76.889674	7979 MALCOLM RD
-fairfield	New York	NY	40.752262	-73.995117	325 West 33rd Street
-fairfield	New York	NY	40.746177	-73.990907	116 West 28th Street
-fairfield	New York	NY	40.70592	-74.005	161 Front Street
-fairfield	New York	NY	40.750585	-73.983851	21 West 37th Street
-fairfield	New York	NY	40.754011	-73.993972	338 West 36th Street
-fairfield	New York	NY	40.770447	-73.989686	538 West 58th Street
-fairfield	New York	NY	40.756309	-73.991624	330 West 40th Street
-fairfield	New York	NY	40.713227	-73.992893	95 Henry Street
-fairfield	St Joseph	MO	39.809317	-94.804628	4779 Tuscany Drive
 firehouse_subs	Ft. Wayne	IN	41.119412	-85.136156	4423 Coldwater Rd.
 firehouse_subs	Narsarmijit	(empty)	-82.862752	135	283P+JVV
 flying_j	Clear	IA	43.145	-93.3585	2411 US-18
@@ -504,10 +364,6 @@ flying_j	West	LA	32.5079	-92.1929	300 Well Rd
 fogo_de_chao	(empty)	DC	38.895508	-77.027562	1101 Pennsylvania Ave NW
 fogo_de_chao	(empty)	NY	40.761077	-73.977771	40 W 53rd St.
 fogo_de_chao	Irvine	AL	33.652213	-117.743696	623 Spectrum Center Drive
-four_points	New York	NY	40.707407	-74.00621	6 Platt Street
-four_points	New York	NY	40.754993	-73.998357	444 10th Avenue, Entrance on corner of 35th St 10th Ave
-four_points	New York	NY	40.72725	-74.0064	66 Charlton Street
-four_points	New York	NY	40.756446	-73.991871	326 West 40th Street
 freddys	St Joseph	MO	39.768274	-94.80422	228 N Belt Highway
 freddys	St Peters	MO	38.754944	-90.586788	1365 Jungermann Rd
 freddys	St Robert	MO	37.822009	-92.146367	180 Old Rte 66
@@ -566,25 +422,12 @@ golds_gym	Building #1	TX	30.170115	-97.789537	8900 S Congress Ave, Building #1, 
 golds_gym	Ste 310	TX	29.495366	-98.480842	255 E. Basse Rd, Ste 310, San Antonio, TX, 78209
 golds_gym	Ste 900	TX	29.697686	-98.1026	651 N. Business I-35, Ste 900, New Braunfels, TX, 78130
 golds_gym	Ste C129	MD	39.138726	-76.60614	7900 Ritchie Hwy, Ste C129, Glen Burnie, MD, 21061
-good_neighbor	East	CT	41.77358	-72.6412	
-good_neighbor	Elbow	MN	45.992061	-95.976595	
-good_neighbor	Fork	VA	37.75746	-78.26686	
 good_neighbor	Hale Center	TX	34.06356	-101.8468	
-good_neighbor	Holts	MO	38.657962	-92.111367	
-good_neighbor	Lees	MO	38.972446	-94.359535	
-good_neighbor	Moses	WA	47.11206	-119.26082	
-good_neighbor	Mount	PA	40.38166	-77.8771	
-good_neighbor	North	FL	26.80827	-80.06998	
-good_neighbor	North	NJ	40.78425	-74.13611	
-good_neighbor	North	NJ	40.7823	-74.01197	
-good_neighbor	North	NJ	40.80153	-74.00699	
-good_neighbor	North	NY	40.663374	-73.607431	
-good_neighbor	South	CA	37.661511	-122.439015	
-good_neighbor	South	WV	37.67153	-82.28431	
-good_neighbor	South	WV	38.35604	-81.72475	
+good_neighbor	New York City	NJ	40.813621	-73.956279	
+good_neighbor	New York City	NJ	40.81413	-73.94786	
+good_neighbor	New York City	NJ	40.8131	-73.93887	
 good_neighbor	St. Marys	KS	39.19357	-96.07064	
 good_neighbor	St. Simons Is	GA	31.16281	-81.38809	
-good_neighbor	West	FL	26.70766	-80.12087	
 grocery_outlet	Big Bear	CA	34.2478	-116.88471	42126 Big Bear Boulevard, Unit #2
 grocery_outlet	Bonney	WA	47.16842	-122.13132	18318 State Route 410 E
 grocery_outlet	Moses	WA	47.14005	-119.27836	1177 N Stratford Rd
@@ -599,23 +442,10 @@ hilton	Big Bear	CA	34.244056	-116.889789	41820 Big Bear Boulevard
 hilton	Clarks	PA	41.4826	-75.6898	890 Northern Boulevard
 hilton	Clarks	PA	41.480714	-75.68867	811 Northern Blvd
 hilton	Coal Center	PA	40.055138	-79.911987	200 Technology Drive
-hilton_garden_inn	New York	NY	40.75658	-73.98065	30 W 46th St.
-hilton_garden_inn	New York	NY	40.7644	-73.9828	237 West 54th Street
-hilton_garden_inn	New York	NY	40.746708	-73.992	121 West 28th Street
-hilton_garden_inn	New York	NY	40.756742	-73.969398	206 East 52nd Street
-hilton_garden_inn	New York	NY	40.746802	-73.982348	45 East 33rd Street
-hilton_garden_inn	New York	NY	40.75516	-73.985727	136 West 42nd Street
-hilton_garden_inn	New York	NY	40.721	-74.0053	39 6th Ave
-hilton_garden_inn	New York	NY	40.750404	-73.986572	63 West 35th Street
-hilton_garden_inn	New York	NY	40.702938	-74.012227	6 Water Street
-hilton_garden_inn	Saint Charles	IL	41.922	-88.2541	4070 East Main Street
-hilton_garden_inn	Saint Louis	MO	38.7222	-90.3173	4450 Evans Place
 holiday_inn	Budd	NJ	40.90882	-74.725539	1000 International Drive North
 holiday_inn_express	Fort Montgomery	NY	41.3313	-73.9872	1106 Route 9w
 holiday_inn_express	St. Mary's	PA	41.4031	-78.56133	195 Comfort Lane
-home2_suites	New York	NY	40.759535	-73.98317	150 W 48th Street
 homegoods	Rockville Center	NY	40.66148	-73.648277	150 N Village Ave, Rockville Center Shopping Centre
-homewood_suites	New York	NY	40.7543	-73.9931	312 West 37th Street
 honey_baked_ham	Ft Wayne	IN	41.057319	-85.2261	6410 W Jefferson Blvd
 honey_baked_ham	St Augustine	FL	29.868284	-81.319249	272 State Road 312
 honey_baked_ham	St Clairsville	OH	40.074761	-80.876825	50609 Valley Plaza Drive
@@ -631,15 +461,9 @@ hooters	W. Bradenton	FL	27.454485	-82.575685	4908 14th Street West
 hooters	W.	GA	32.006723	-81.284788	4 Gateway Blvd, W.
 huddle_house	Saint Paul	VA	36.906897	-82.3174	16414 Wise St
 huddle_house	St Pauls	NC	34.810079	-78.985265	940 W Broad St
-hyatt_centric	New York	NY	40.757572	-73.9840223	
-hyatt_centric	New York	NY	40.7050392	-74.0078925	
-hyatt_house	New York	NY	40.746287	-73.9906998	
 hyatt_house	San Jose Airport	CA	37.3739307	-121.9194707	
 hyatt_place	Manati	PR	18.4333448	-66.4765395	
 hyatt_place	Montreal	QC	45.5156845	-73.5591132	
-hyatt_place	New York	NY	40.7441508	-73.9943165	
-hyatt_place	New York	NY	40.7503971	-73.9858178	
-hyatt_place	New York	NY	40.9055429	-73.8626409	
 hyatt_place	San Jose Airport	CA	37.3735229	-121.9212502	
 hyatt_regency	Grand Reserve Puerto Rico	PR	18.4177536	-65.7941501	
 hyatt_regency	Los Angeles International Airport	CA	33.9459969	-118.3951358	
@@ -691,8 +515,6 @@ loves	West	OH	39.956789	-83.335457	540 Timmons Way
 lowes	W. Jefferson	NC	36.384395	-81.481219	158 LOWE'S Drive
 lululemon	Corte	CA	37.928683	-122.5146	1620 Redwood Highway
 main_event	West	OH	39.317724	-84.424277	9477 Oxford Way
-marriott	New York	NY	40.709734	-74.014737	85 West Street at Albany Street
-marriott	New York	NY	40.758855	-73.985869	1535 Broadway
 marshalls	Big Bear	CA	34.247734	-116.88472	42126 Big Bear Blvd, Big Bear Lake SC
 mcdonalds	Mansfield Center	CT	41.736077	-72.198295	118 Storrs Rd
 mcdonalds	South	VA	37.309217	-77.40049	15700 Woods Edge Rd
@@ -709,20 +531,11 @@ mobil	Pomfret Center	CT	41.897961	-71.960014	19 PUTNAM RD
 mobil	Pumpkin Center	CA	35.267078	-119.026505	2106 TAFT HWY
 mobil	Rancho Santa	CA	32.991356	-117.197182	16095 SAN DIEGUITO RD
 national_historic_site	Christiansted	VI	17.7468	-64.7022	
-national_historic_site	New York	NY	40.7187683	-73.99001245	
-national_historic_site	New York	NY	40.7386469	-73.98903703	
 national_historic_site	Point Marion	PA	39.77543423	-79.92504169	
 national_historic_site	Saint Louis	MO	38.55182374	-90.35169255	
 national_historical_park	Hagatna	GU	13.43795691	144.6922461	
-national_memorial	New York	NY	40.70731192	-74.01025636	
-national_memorial	New York	NY	40.81332817	-73.96331542	
-national_memorial	New York	NY	40.81871605	-73.94878487	
 national_monument	Christiansted, St. Croix	VI	17.81026717	-64.6222179	
-national_monument	New York	NY	40.71452681	-74.00447358	
-national_monument	New York	NY	40.70347795	-74.01680558	
-national_monument	New York	NY	40.69164233	-74.01670765	
-national_monument	New York	NY	40.6898	-74.0451	
-national_monument	New York	NY	40.7337799072	-74.0006866455	
+national_monument	New York City	NJ	40.69946	-74.0401	
 national_monument	St. John	VI	18.28996918	-64.70683395	
 national_park	Saint Louis	MO	38.6258069	-90.1892508	
 national_park	St. John	VI	18.34279656	-64.74194451	
@@ -744,7 +557,6 @@ panda_express	Tamuning	GU	13.48977	144.780868	199 Chalan San Antonio
 panera	Ft Wayne	IN	41.071457	-85.195358	4110 West Jefferson Boulevard
 panera	Woodcliff	NJ	41.042167	-74.074887	445 Chestnut Ridge Rd
 papa_johns	St. Marys	KS	39.188488	-96.056438	603 US-24
-park_hyatt	New York	NY	40.7654216	-73.9793143	
 peets	Corte	CA	37.925026	-122.51731	77 Casa Buena Dr
 peets	Corte	CA	37.928289	-122.514129	1512 Redwood Hwy, Space C037
 petco	Ft Wayne	IN	41.11982	-85.136793	315 E Coliseum Blvd
@@ -768,17 +580,6 @@ pizza_hut	St. Mary's	OH	40.544905	-84.408281	1594 Celina Rd
 pizza_hut	Yates Center	KS	37.876599	-95.739239	509 S Fry St
 pjs_coffee	Stennis Space Center	MS	30.371838	-89.61728	1100 Stennis Space Center
 pjs_coffee	West	LA	32.517884	-92.159433	3414 Cypress Street
-planet_fitness	Bronx	NY	40.83965	-73.918029	1370 Jerome Ave
-planet_fitness	Bronx	NY	40.863327	-73.835714	1780 E Gun Hill Rd
-planet_fitness	Bronx	NY	40.862591	-73.894509	309 E Fordham Rd
-planet_fitness	Bronx	NY	40.834669	-73.850435	2241 Westchester Ave
-planet_fitness	Bronx	NY	40.817208	-73.915774	2914 3rd Ave
-planet_fitness	Bronx	NY	40.874079	-73.909388	82 W 225th St
-planet_fitness	New York	NY	40.75189	-73.991166	215 W 35th St
-planet_fitness	New York	NY	40.808937	-73.949188	208 W 125th St
-planet_fitness	New York	NY	40.795231	-73.931329	520 E 117th St
-planet_fitness	New York	NY	40.720692	-74.004363	370 Canal St
-planet_fitness	New York	NY	40.847306	-73.937912	4168 Broadway
 popeyes	City of South	GA	33.6994	-84.5797	5831 Campbellton Road, Camp Creek Pkwy
 popeyes	Houston, Tx 77064	TX	29.930107	-95.545766	8120 North Sam Houston Pkwy W
 quality_inn	St. Mary's	OH	40.555298	-84.409597	1410 Commerce Drive
@@ -792,17 +593,6 @@ quiktrip	St. Louis Downtown	MO	38.615498	-90.286711	2166 Hampton Ave
 quiktrip	St. Louis Downtown	MO	38.620237	-90.266978	1615 S Kingshighway Blvd
 quiznos	Camp	WI	43.99144	-90.36889	200 US Highway 12/16
 quiznos	North	UT	40.84927	-111.92978	420 N Redwood Rd Unit A
-ramada	Bronx	NY	40.821907	-73.928104	646 Gerard Avenue
-ramada	Bronx	NY	40.879829	-73.831284	1000 Baychester Avenue
-ramada	New York	NY	40.759368	-73.990817	343 W 44th Street
-residence_inn	Bronx	NY	40.850038	-73.842583	1776 Eastchester Road
-residence_inn	New York	NY	40.752689	-73.985654	1033 Avenue of the Americas
-residence_inn	New York	NY	40.764323	-73.982703	1717 Broadway
-residence_inn	New York	NY	40.755017	-73.972862	148 East 48th Street
-residence_inn	New York	NY	40.709607	-74.009695	170 Broadway
-residence_inn	New York	NY	40.707206	-74.006331	215 Pearl Street
-residence_inn	St Paul	MN	44.941086	-93.108161	200 Grand Avenue
-residence_inn	WAXAHACHIE	TX	32.42315	-96.860512	275 RAE BLVD
 schnucks	Lake	MO	38.78448	-90.7968	101 Civic Center Drive
 sephora	Corte	CA	37.92716	-122.51659	347 CORTE MADERA TOWN CTR
 sephora	East	NJ	40.80873	-74.06831	1 AMERICAN DREAM WAY SPC C246
@@ -825,8 +615,6 @@ shell	Conneaut	PA	41.615137	-80.288628	12211 LAKESIDE DR
 shell	Crowley	CA	37.567178	-118.741853	474 S LANDING RD
 shell	Gages	IL	42.356658	-88.002718	33978 N US HIGHWAY 45
 shell	Lily	IL	41.939869	-88.47882	44W322 IL ROUTE 64
-sheraton	New York	NY	40.762634	-73.982014	811 7th Avenue 53rd Street
-sheraton	New York	NY	40.72115	-74.00425	370 Canal Street
 shoprite	East	CT	41.728643	-72.618775	31 Main Street
 shoprite	East	NJ	40.766396	-74.218697	533 Martin Luther King Boulevard
 shoprite	Mohegan	NY	41.313165	-73.868313	3140 East Main Street, Suite 300
@@ -835,9 +623,6 @@ shoprite	West	NJ	40.79507	-74.255569	1 Rooney Circle
 shoprite	West	PA	39.970536	-75.572773	1115 West Chester Pike
 sleep_inn	Devil's	ND	48.100705	-98.841795	1413 Highway 2
 sleep_inn	DeWitt	MI	42.826412	-84.541403	1101 Commerce Park Dr.
-small_luxury_hotels	New York	NY	40.746041	-73.983306	34 East 32nd Street
-small_luxury_hotels	New York	NY	40.719921	-73.988018	107 Rivington Street
-small_luxury_hotels	New York	NY	40.764527	-73.98135	201 West 55th Street
 snap_fitness	Canal	OH	40.882336	-81.569462	2264 Locust St S
 snap_fitness	Forest	MN	45.27916	-92.984987	220 Lake Street N
 snap_fitness	Island	IL	42.279403	-88.205795	452 W State Rd
@@ -864,13 +649,6 @@ sonic	McLendon-Chisholm	TX	32.84879	-96.38731	120 North Highway 205
 sonic	St. Mary'S	GA	30.75608	-81.57665	395 Charlie Smith Sr. Hwy
 sonic	St. Paul	TX	33.05217	-96.56728	3838 W. Parker Road
 sonic	Stanleyville	NC	36.188218	-80.277068	5994 UNIVERSITY PARKWAY
-spark_by_hilton	Saint Louis	MO	38.53796	-90.49836	9 Lambert Drury Drive
-springhill_suites	New York	NY	40.75119	-73.984596	25 West 37th St
-springhill_suites	New York	NY	40.740642	-73.985208	111 East 24th Street
-springhill_suites	New York	NY	40.754011	-73.993972	338 West 36th Street
-springhill_suites	New York	NY	40.75938	-73.98636	223 West 46 Street
-springhill_suites	New York	NY	40.746782	-73.992421	140 West 28th Street
-springhill_suites	St Paul	MN	44.951136	-93.091646	472 Jackson Street
 starbucks	Fort Sam	TX	29.45051	-98.44775	2500 Funston Rd. B-2542
 starbucks	Ft Wayne	IN	41.01445	-85.1151	7755 Southtown Crossing
 starbucks	Hastings On	NY	40.98495	-73.85267	I-87
@@ -1027,9 +805,6 @@ sunoco	Waterbury Center	VT	44.37046	-72.72785	2731 WATERBURY-STOWE RD
 sunoco	Young Harris	GA	34.97677	-83.82602	2600 STATE ROUTE-17
 taco_bell	Ft Wayne	IN	41.015103	-85.116562	7719 Southtown Crossing
 taco_bell	Ft. Wayne	IN	41.075214	-85.144111	405 West Jefferson Blvd
-tapestry_collection	New York	NY	40.751573	-73.984524	321 West 38th Street
-tapestry_collection	New York	NY	40.750535	-73.983668	4-6 West 37th Street
-thompson	New York	NY	40.7643285	-73.978572	
 tim_hortons	Darien Center	NY	42.927096	-78.385429	9993 ALLEGHENY ROAD
 tjmaxx	Big Bear	CA	34.247734	-116.88472	42126 Big Bear Blvd, Big Bear Lake SC
 tjmaxx	Bonney	WA	47.17263	-122.173698	9321 192nd Ave East, Junction 192
@@ -1071,9 +846,6 @@ tjmaxx	West	FL	26.724464	-80.08831	1855 Palm Beach Lakes Blvd, Palm Beach Outlet
 tjmaxx	West	FL	26.724464	-80.08831	1865 Palm Beach Lakes Blvd, Palm Beach Outlet Mall
 tjmaxx	West	FL	26.724464	-80.08831	1875 Palm Beach Lakes Boulevard, Palm Beach Marketplace
 tjmaxx	West	OH	39.358284	-84.361702	7572 Voice of America Center Drive, Voice of America Center
-towneplace_suites	New York	NY	40.758953	-73.990008	324 West 44th Street
-towneplace_suites	New York	NY	40.74679	-73.99241	140 West 28th Street
-trademark_collection	New York	NY	40.753224	-73.966278	3 Mitchell Place
 trader_joes	Toluca	CA	34.15191	-118.35193	10130 Riverside Dr
 tru_by_hilton	St George	UT	37.086476	-113.57937	1251 South Sunland Drive
 ulta	Berkeley	GA	33.982363	-84.216923	5145 Peachtree Parkway, Ste 440
@@ -1114,7 +886,6 @@ whole_foods	West	CT	41.784729	-72.745477	340 N Main St
 whole_foods	West	FL	26.720682	-80.08923	1845 Palm Beach Lakes Blvd
 whole_foods	West	NJ	40.804218	-74.248906	235 Prospect Ave
 whole_foods	Woodcliff	NJ	41.042836	-74.071483	500 Chestnut Ridge Road
-wingate	Bronx	NY	40.813024	-73.92883	2568 Park Ave
 winn_dixie	Fort	FL	27.52227	-80.396404	INDRIO CROSSINGS PLAZA, 4870 N Kings Hwy
 winn_dixie	Fort	FL	27.522071	-80.396326	LIQUOR STORE, 4870 N Kings Highway
 winn_dixie	Fort	FL	27.375021	-80.328552	TOWNE SOUTH PLAZA, 4967 S US 1
@@ -1137,6 +908,4 @@ yogurtland	Tamuning	(empty)	13.492111	144.781937	267 Chalan San Antonio
 yogurtland	Tamuning	GU	37.09024	-95.712891	267 Chalan San Antonio
 zaxbys	Berkeley	GA	33.968553	-84.192983	4850 Peachtree Industrial Blvd
 zaxbys	St. Michael	AK	58.11604	-135.44887	1 Main St (TEST LOCATION)
-zoo	Bronx	NY	40.8506	-73.8769	
-zoo	New York	NY	40.7678	-73.9718	
 zoo	Saint Louis	MO	38.635	-90.292	

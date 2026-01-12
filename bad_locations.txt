@@ -105,13 +105,6 @@ caesars_casino	(empty)	NV	39.530895	-119.814972
 cannabis_dispensary	Greenfield Center	NY	43.15102	-73.8556	2532 State Hwy 9N
 cannabis_dispensary	Hollis Center	ME	43.60079	-70.58425	321 Hollis Rd
 cannabis_dispensary	Kings County	NY	40.689644	-73.96975	237 DeKalb Ave
-caribou	Lee's	MO	38.918021	-94.357962	920 NE Langsford Road
-caribou	Long	MN	44.988124	-93.578673	2073 West Wayzata Boulevard
-caribou	Moose	MN	46.449958	-92.767549	70 Arrowhead Lane
-caribou	Prior	MN	44.706414	-93.428662	16731 Highway 13
-caribou	Prior	MN	44.703988	-93.438504	4100 Village Lake Drive
-caribou	Prior	MN	44.730589	-93.474351	2400 Mystic Lake Boulevard
-caribou	Rice	WI	45.495538	-91.735124	330 S Main St
 charleys	Fort Sam	TX	29.450624	-98.446497	2500 Funston Rd
 charleys	Poratage	IN	41.547815	-87.179013	6087 US Highway 6
 chevron	Centerfield	UT	39.137147	-111.818607	540 N MAIN ST
@@ -371,12 +364,6 @@ good_neighbor	New York City	NJ	40.81413	-73.94786
 good_neighbor	New York City	NJ	40.8131	-73.93887	
 good_neighbor	St. Marys	KS	39.19357	-96.07064	
 good_neighbor	St. Simons Is	GA	31.16281	-81.38809	
-grocery_outlet	Big Bear	CA	34.2478	-116.88471	42126 Big Bear Boulevard, Unit #2
-grocery_outlet	Bonney	WA	47.16842	-122.13132	18318 State Route 410 E
-grocery_outlet	Moses	WA	47.14005	-119.27836	1177 N Stratford Rd
-grocery_outlet	South	CA	37.66578	-122.45299	125 Hickey Blvd
-grocery_outlet	Walla	WA	46.05564	-118.34607	910 S 9th Ave
-grocery_outlet	West	CA	38.57778	-121.5477	845 Harbor Blvd
 hampton	Coal Center	PA	40.055138	-79.911987	200 Technology Drive
 hannaford	Center Ossipee	NH	43.701508	-71.110321	891 NH-16
 hannaford	St Albans	VT	44.840531	-73.079121	290 Highgate Commons Road
@@ -509,12 +496,6 @@ philz	Orange County	CA	33.875086	-117.889186	520 North State College Blvd Fuller
 philz	Orange County	CA	33.693894	-117.885032	3420 Bristol St, Costa Mesa, CA 92626
 philz	Orange County	CA	33.655035	-117.997918	21010 Pacific Coast Highway, Huntington Beach, CA 92648
 philz	South	CA	37.644094	-122.452253	2248 Westborough Blvd, South San Francisco, CA 94080
-pilot	Clear	IA	43.145	-93.3585	2411 US-18
-pilot	Fort	FL	27.4139	-80.4001	7300 Okeechobee Rd
-pilot	Fort	FL	27.449	-80.3978	100 N Kings Hwy
-pilot	North	UT	40.8362	-111.934	885 North Pointe Cir
-pilot	Ottawa	MI	41.7987	-83.6937	6158 US-223
-pilot	West	LA	32.5079	-92.1929	300 Well Rd
 pizza_hut	Canal	OH	40.882616	-81.57113	2230 Locust Street South
 pizza_hut	Holts	MO	38.656621	-92.113894	152 Northstar D
 pizza_hut	Plumas	CA	38.977827	-121.539112	831 Chalice Creek Drive
@@ -558,22 +539,9 @@ shell	Conneaut	PA	41.615137	-80.288628	12211 LAKESIDE DR
 shell	Crowley	CA	37.567178	-118.741853	474 S LANDING RD
 shell	Gages	IL	42.356658	-88.002718	33978 N US HIGHWAY 45
 shell	Lily	IL	41.939869	-88.47882	44W322 IL ROUTE 64
-shoprite	East	CT	41.728643	-72.618775	31 Main Street
-shoprite	East	NJ	40.766396	-74.218697	533 Martin Luther King Boulevard
-shoprite	Mohegan	NY	41.313165	-73.868313	3140 East Main Street, Suite 300
-shoprite	North	NJ	40.774653	-74.035172	3147 Kennedy Blvd
-shoprite	West	NJ	40.79507	-74.255569	1 Rooney Circle
-shoprite	West	PA	39.970536	-75.572773	1115 West Chester Pike
 sleep_inn	Devil's	ND	48.100705	-98.841795	1413 Highway 2
 sleep_inn	DeWitt	MI	42.826412	-84.541403	1101 Commerce Park Dr.
 snap_fitness	Medical	WA	47.573943	-117.682742	207 Hwy 902
-sonesta	Clear	IA	43.14784	-93.35749	1306 North 25th Street
-sonesta	Clear	SD	44.74854	-96.68157	920 3rd Ave S
-sonesta	Fort	FL	27.41354	-80.39237	6651 Darter Court
-sonesta	Horn	MS	34.96411	-90.00809	7100 Sutton Place
-sonesta	South	CA	37.667	-122.394	1350 Veterans Boulevard
-sonesta	South	CA	37.6662	-122.395	1300 Veterans Boulevard
-sonesta	West	LA	32.50866	-92.15833	310 Thomas Road
 sonic	Cool Valley	MO	38.726144	-90.304083	1465 SOUTH FLORISSANT RD
 sonic	Fountain	AR	34.57439	-92.98746	4311 Park Avenue
 sonic	Mc Caysville	GA	34.977334	-84.372874	860 BLUE RIDGE DRIVE
@@ -771,13 +739,6 @@ whataburger	Horn	MS	34.962891	-90.064606	4300 Goodman Rd W
 whataburger	Lee's	MO	38.853011	-94.381	204 SW MO-150 Hwy
 whataburger	Lees	MO	38.93897	-94.379144	1460 NE DOUGLAS ST
 whole_foods	Woodcliff	NJ	41.042836	-74.071483	500 Chestnut Ridge Road
-winn_dixie	Fort	FL	27.52227	-80.396404	INDRIO CROSSINGS PLAZA, 4870 N Kings Hwy
-winn_dixie	Fort	FL	27.522071	-80.396326	LIQUOR STORE, 4870 N Kings Highway
-winn_dixie	Fort	FL	27.375021	-80.328552	TOWNE SOUTH PLAZA, 4967 S US 1
-winn_dixie	Port	FL	29.119004	-80.995904	Riverwood Shopping Center, 3997 S Nova Rd Suite 1-B
-winn_dixie	Royal	FL	26.707613	-80.231675	VILLAGE ROYALE, 1135 Royal Palm Beach Blvd
-winn_dixie	West	FL	26.647101	-80.057725	PALM COAST PLAZA LIQUOR, 7911 S Dixie Highway
-winn_dixie	West	FL	26.646797	-80.057693	PALM COAST PLAZA, 7915 S Dixie Highway
 wyndham	Big Bear	CA	34.238571	-116.935516	39471 Big Bear Blvd
 wyndham	Big Bear	CA	34.25221	-116.88075	240 Starvation Flats Road
 wyndham	Budd	NJ	40.884552	-74.72954	102 US Highway 46

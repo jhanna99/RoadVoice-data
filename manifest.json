@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:21:49.657Z",
+  "generated": "2026-01-12T06:23:37.737Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1002,7 +1002,7 @@
       "useLocationName": false,
       "locationCount": 226,
       "fileSize": 28538,
-      "checksum": "86d5d9f1ad224e34df7b71a620332d06"
+      "checksum": "921491d160051c087d5376792ca62373"
     },
     "hyatt_regency": {
       "displayName": "Hyatt Regency",
@@ -1234,7 +1234,7 @@
       "useLocationName": true,
       "locationCount": 76,
       "fileSize": 10503,
-      "checksum": "86ec30c470ed7fc2183265829f999e81"
+      "checksum": "c5e55b7245adab90a703897ca58f3414"
     },
     "national_historical_park": {
       "displayName": "National Historical Parks",
@@ -1266,7 +1266,7 @@
       "useLocationName": true,
       "locationCount": 85,
       "fileSize": 11286,
-      "checksum": "861521f8b418bec45a851a66d2423ff6"
+      "checksum": "b8fe93f02d8a5a9cc5a5cea43dfe7dfd"
     },
     "national_park": {
       "displayName": "National Parks",
@@ -1593,8 +1593,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 410,
-      "fileSize": 46776,
-      "checksum": "27513304aa498924e323c4805c0cbb80"
+      "fileSize": 46800,
+      "checksum": "9c301c6faa656f33b40e23cd94a27e6d"
     },
     "sheetz": {
       "displayName": "Sheetz",
@@ -1753,8 +1753,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 8214,
-      "fileSize": 912419,
-      "checksum": "82e1ba200e2203efb1673d1abf6b36a9"
+      "fileSize": 912422,
+      "checksum": "cf9ccdb6bd6f7ee1bad207a4e9dca67d"
     },
     "tapestry_collection": {
       "displayName": "Tapestry Collection",
@@ -1889,16 +1889,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 5862,
-      "fileSize": 652998,
-      "checksum": "8d77cd3bf51574b578c6966969108b4e"
+      "fileSize": 653008,
+      "checksum": "4ed56cd4d0bafc3472f60e37239bbc99"
     },
     "whataburger": {
       "displayName": "Whataburger",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1170,
-      "fileSize": 129757,
-      "checksum": "1372f03e54347eb951bf35bff34acba0"
+      "fileSize": 129771,
+      "checksum": "6f1867849620bba25b522736e358642a"
     },
     "whole_foods": {
       "displayName": "Whole Foods",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T14:23:03.161Z",
+  "generated": "2026-01-12T14:39:51.751Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -321,8 +321,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 6324,
-      "fileSize": 709121,
-      "checksum": "7d1e2b8175a4ad9b0dd79a07bdd51d8e"
+      "fileSize": 709179,
+      "checksum": "fe03969c373ab667d54c0fb571718d18"
     },
     "bw_signature": {
       "displayName": "BW Signature Collection",
@@ -417,8 +417,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 16947,
-      "fileSize": 1866293,
-      "checksum": "263693457ff597f54cddfb6f98d73cf6"
+      "fileSize": 1866347,
+      "checksum": "8f70226c29b709a7dcf2cabd358231ae"
     },
     "chick_fil_a": {
       "displayName": "Chick-fil-A",
@@ -520,9 +520,9 @@
       "displayName": "Conoco",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 6007,
-      "fileSize": 653761,
-      "checksum": "d030c6762f13270bbc035631c5609ff3"
+      "locationCount": 1671,
+      "fileSize": 181329,
+      "checksum": "4157db2fe1c542c7d44c5eeff1ff270c"
     },
     "cookout": {
       "displayName": "Cook Out",
@@ -681,8 +681,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 20504,
-      "fileSize": 2198549,
-      "checksum": "bf76b7f75e2f9370b64294a7f9ecb536"
+      "fileSize": 2198497,
+      "checksum": "8d6c56cf20cfb101adb04983ce1cdc7e"
     },
     "dollar_tree": {
       "displayName": "Dollar Tree",
@@ -697,8 +697,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 7230,
-      "fileSize": 808539,
-      "checksum": "db44f2c9e00cf3c40f73c604fba8a247"
+      "fileSize": 808551,
+      "checksum": "fe5bc3b2fcc380ca8a041b8525dd6855"
     },
     "doubletree": {
       "displayName": "DoubleTree",
@@ -1169,8 +1169,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 7873,
-      "fileSize": 871966,
-      "checksum": "ea156bd34786b82a8268368e47281c34"
+      "fileSize": 872006,
+      "checksum": "5ad5d3ac4729c5e040dd41e2076014a3"
     },
     "market_basket": {
       "displayName": "Market Basket",
@@ -1522,7 +1522,7 @@
       "useLocationName": false,
       "locationCount": 585,
       "fileSize": 55405,
-      "checksum": "135e91506b18ce6b69377637cb517cc5"
+      "checksum": "a893787e5d1d74504db959fea500c703"
     },
     "rodeway_inn": {
       "displayName": "Rodeway Inn",
@@ -1609,8 +1609,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 13393,
-      "fileSize": 1475184,
-      "checksum": "fd895efa596f5388a8b14ef66caac4fd"
+      "fileSize": 1475079,
+      "checksum": "518113ed620ce875c5652921edb38334"
     },
     "sheraton": {
       "displayName": "Sheraton",
@@ -1689,16 +1689,16 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 2767,
-      "fileSize": 315697,
-      "checksum": "8094a9d11afb1544418f516388cf28dc"
+      "fileSize": 315783,
+      "checksum": "ac658a9b9044e89dffad75fa5c2551df"
     },
     "starbucks": {
       "displayName": "Starbucks",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 15760,
-      "fileSize": 1766468,
-      "checksum": "8d93b01bd38b8179892920865d135691"
+      "fileSize": 1766479,
+      "checksum": "82f42a2aadd0ec56f7d4ce3cef0526f8"
     },
     "state_liquor_store": {
       "displayName": "State Liquor Stores",
@@ -1729,8 +1729,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 5466,
-      "fileSize": 593273,
-      "checksum": "c706e806c7eceae68ae832ce6228d7e6"
+      "fileSize": 593262,
+      "checksum": "1f07b96dbec4c104f2c2e9ef68b807b2"
     },
     "super_8": {
       "displayName": "Super 8",
@@ -1857,8 +1857,8 @@
       "category": "pharmacy",
       "useLocationName": false,
       "locationCount": 8047,
-      "fileSize": 883617,
-      "checksum": "367c4b91a0429462e16f3688cd72bdf7"
+      "fileSize": 883615,
+      "checksum": "dc429ff1bb6f51a23eb1ac87b6010b79"
     },
     "walmart": {
       "displayName": "Walmart",
@@ -2128,8 +2128,8 @@
   "lastUpdated": "2026-01-11",
   "zip": {
     "filename": "brands.zip",
-    "checksum": "7d3cf15e38253493145433b2ff065c9c",
-    "size": 11317278,
-    "generated": "2026-01-12T14:33:46.450Z"
+    "checksum": "078ae57c66ba16115e1ad51059d8fb98",
+    "size": 11196017,
+    "generated": "2026-01-12T14:40:02.405Z"
   }
 }

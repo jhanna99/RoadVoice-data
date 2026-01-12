@@ -130,8 +130,6 @@ circle_k	Plumas	CA	38.977748	-121.53923	831 CHALICE CREEK DR
 circle_k	San Diego	(empty)	32.553837	-116.94152	2535 OTAY CENTER DR
 circle_k	Star	NY	44.15997	-75.033913	4228 STATE RT 3
 coffee_bean	Test	AL	42.179363	-73.214119	test
-coffee_bean	Toluca	CA	34.152412	-118.351443	10121 Riverside Dr
-coffee_bean	Toluca	CA	34.151828	-118.366498	4444 Lankershim Blvd #114
 coldstone	Manati	PR	18.4319	-66.4739	245 Manati Gdns, Ste 10
 coldstone	San German	PR	18.080708	-67.04111	Plaza del Oeste / Avenida Castro Perez W-11
 conoco	Aguascalientes	(empty)	21.879612	-102.295227	100 AV INDEPENDENCIA ESQ PASEO DE VEN
@@ -285,7 +283,6 @@ dunkin	Pocono	PA	41.111828	-75.383461	174 Harvest Lane
 dunkin	South Hamilton	MA	42.609728	-70.873555	15 Walnut Rd
 dunkin	Township of	NJ	40.986056	-74.062945	303B Pascack Rd
 dunkin	West Sand	NY	42.643882	-73.608234	3696 New York 43
-econo_lodge	Clarks	PA	41.477645	-75.684963	649 Northern Blvd
 econo_lodge	DeWitt	NY	43.047707	-76.070354	3400 Erie Boulevard East
 econo_lodge	Mt Hope	WV	37.85275	-81.19624	127 Ontario Drive
 einstein_bros	Saint Louis	MO	38.636774	-90.234956	3650 Lindell Blvd
@@ -308,9 +305,6 @@ firehouse_subs	Narsarmijit	(empty)	-82.862752	135	283P+JVV
 fogo_de_chao	(empty)	DC	38.895508	-77.027562	1101 Pennsylvania Ave NW
 fogo_de_chao	(empty)	NY	40.761077	-73.977771	40 W 53rd St.
 fogo_de_chao	Irvine	AL	33.652213	-117.743696	623 Spectrum Center Drive
-freddys	St Joseph	MO	39.768274	-94.80422	228 N Belt Highway
-freddys	St Peters	MO	38.754944	-90.586788	1365 Jungermann Rd
-freddys	St Robert	MO	37.822009	-92.146367	180 Old Rte 66
 gap	Woodcliff	NJ	41.041085	-74.075435	423 Chestnut Ridge Road, Ste #10
 giant_food	Fort	MD	38.758117	-76.994608	9580 Livingston Road
 godfathers_pizza	Lake Norden	SD	44.585673	-97.21042	721 BURLINGTON STREET
@@ -423,9 +417,6 @@ jack_in_the_box	West	OH	39.353786	-84.371258	7425 Tylersville Rd
 kfc	Clarks	PA	41.489474	-75.697674	900 South State Street
 kfc	Mentor On The	OH	41.705471	-81.359237	7843 Munson Road
 kfc	Whitmore	MI	42.441685	-83.768492	9689 E. M-36
-krispy_kreme	Clarks	PA	41.481672	-75.689193	831 Northern Blvd
-krispy_kreme	East	NJ	40.829151	-74.092643	51 Route 17, Liberty Commons
-krispy_kreme	South	WV	38.364404	-81.707867	42 River Walk Mall
 lowes	W. Jefferson	NC	36.384395	-81.481219	158 LOWE'S Drive
 lululemon	Corte	CA	37.928683	-122.5146	1620 Redwood Highway
 main_event	West	OH	39.317724	-84.424277	9477 Oxford Way
@@ -453,8 +444,6 @@ national_monument	New York City	NJ	40.69946	-74.0401
 national_monument	St. John	VI	18.28996918	-64.70683395	
 national_park	Saint Louis	MO	38.6258069	-90.1892508	
 national_park	St. John	VI	18.34279656	-64.74194451	
-nike	East	CA	34.02303	-118.16816	4585 Whittier Blvd
-nike	West	FL	26.724615	-80.086923	Palm Beach Fashion Outlets
 nike	Woodcliff	NJ	41.040829	-74.075405	415 Chestnut Ridge Road
 nordstrom	Corte	CA	37.931397	-122.514836	1870 Redwood Highway
 office_depot	Christiansted	VI	17.74455	-64.70592	4500 SUNNY ISLE SHOPPING CTR, STE 70
@@ -497,8 +486,6 @@ quiktrip	St. Louis Downtown	MO	38.620237	-90.266978	1615 S Kingshighway Blvd
 quiznos	Camp	WI	43.99144	-90.36889	200 US Highway 12/16
 quiznos	North	UT	40.84927	-111.92978	420 N Redwood Rd Unit A
 schnucks	Lake	MO	38.78448	-90.7968	101 Civic Center Drive
-sephora	Corte	CA	37.92716	-122.51659	347 CORTE MADERA TOWN CTR
-sephora	East	NJ	40.80873	-74.06831	1 AMERICAN DREAM WAY SPC C246
 sephora	Woodcliff	NJ	41.0428	-74.0715	500 CHESTNUT RIDGE RD STE 103
 shake_shack	(empty)	MD	39.278245	-76.621678	M&T Bank Stadium
 shake_shack	Lee's	MO	38.927504	-94.413266	2051 NW Lowenstein Drive

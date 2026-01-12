@@ -83,9 +83,7 @@ boston_pizza	Virden	MB	49.856621	-100.921735	290 Frontage Road W
 boston_pizza	Westbank	BC	49.828385	-119.634602	2563 Dobbin Rd., Hwy 97 S.
 boston_pizza	Westlock	AB	54.152055	-113.830389	11303 - 100 Street
 bowling	Brampton	(empty)	43.744621	-79.713503	50 Bramtree Ct.
-bowling	East	CT	41.766329	-72.611616	748 Silver Ln
 bowling	Kitchener	(empty)	43.45729	-80.47554	385 Frederick Street
-bowling	Lady	FL	28.935485	-81.942026	890 Avenida Central
 bp	Centerview	MO	38.80108	-93.870504	677 NW US Highway 50
 bp	Central	MI	45.061664	-85.263702	1806 S Main St
 bp	Elkhart	WI	43.832801	-88.010039	510 E Rhine St
@@ -120,8 +118,6 @@ chick_fil_a	Dfw Airport	TX	32.890457	-97.035782	International Parkway, Terminal 
 chick_fil_a	Dfw Airport	TX	32.897566	-97.035782	International Parkway, Terminal C
 chick_fil_a	Young	GA	34.933462	-83.84607	228 Maple Street, Rollins Campus Center
 churchs_chicken	West	LA	32.51769	-92.159463	3426 Cypress Street
-cinemark	Walla	WA	46.056575	-118.354627	1325 W Poplar St
-cinemark	West	LA	32.509582	-92.162518	220 Blanchard St
 circle_k	International Falls	(empty)	48.59011	-93.40188	1501 2ND AVE W
 circle_k	Laredo	(empty)	27.478022	-99.473926	2215 S ZAPATA HWY
 circle_k	Laredo	(empty)	27.43176	-99.47879	102 CIELITO LINDO BLVD
@@ -287,8 +283,6 @@ econo_lodge	DeWitt	NY	43.047707	-76.070354	3400 Erie Boulevard East
 econo_lodge	Mt Hope	WV	37.85275	-81.19624	127 Ontario Drive
 einstein_bros	Saint Louis	MO	38.636774	-90.234956	3650 Lindell Blvd
 einstein_bros	Saint Petersburg	FL	27.857221	-82.639157	9346 4th St N
-embassy_suites	Saint Louis	MO	38.630537	-90.190425	610 North 7th Street
-embassy_suites	St Augustine	FL	29.858203	-81.266843	300 A1A Beach Boulevard
 exxon	Bee Caves	TX	30.308706	-97.944397	13006 WEST HWY. 71
 exxon	Brown	NC	36.218739	-79.658783	5138 NC HWY 150
 exxon	Center Point	LA	31.248791	-92.208786	1002 HWY 107
@@ -351,8 +345,9 @@ good_neighbor	New York City	NJ	40.8131	-73.93887
 good_neighbor	St. Marys	KS	39.19357	-96.07064	
 good_neighbor	St. Simons Is	GA	31.16281	-81.38809	
 hampton	Coal Center	PA	40.055138	-79.911987	200 Technology Drive
+hannaford	Ballston	NY	42.934369	-73.812135	43 Round Lake Rd
 hannaford	Center Ossipee	NH	43.701508	-71.110321	891 NH-16
-hannaford	St Albans	VT	44.840531	-73.079121	290 Highgate Commons Road
+hannaford	West Sand	NY	42.643358	-73.607031	3703 Route 43
 hilton	Big Bear	CA	34.244303	-116.889791	41820 Big Bear Boulevard
 hilton	Big Bear	CA	34.244056	-116.889789	41820 Big Bear Boulevard
 hilton	Clarks	PA	41.4826	-75.6898	890 Northern Boulevard
@@ -445,8 +440,6 @@ panda_express	Tamuning	GU	13.48977	144.780868	199 Chalan San Antonio
 panera	Ft Wayne	IN	41.071457	-85.195358	4110 West Jefferson Boulevard
 panera	Woodcliff	NJ	41.042167	-74.074887	445 Chestnut Ridge Rd
 papa_johns	St. Marys	KS	39.188488	-96.056438	603 US-24
-peets	Corte	CA	37.925026	-122.51731	77 Casa Buena Dr
-peets	Corte	CA	37.928289	-122.514129	1512 Redwood Hwy, Space C037
 petco	Ft Wayne	IN	41.11982	-85.136793	315 E Coliseum Blvd
 petsmart	Ft Wayne	IN	41.12916	-85.0121	10260 Maysville Road
 petsmart	Ft Wayne	IN	41.17444	-85.16604	10035 Lima Road

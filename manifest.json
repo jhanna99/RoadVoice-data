@@ -166,11 +166,11 @@
     },
     "ben_jerrys": {
       "displayName": "Ben & Jerry's",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 197,
       "fileSize": 23412,
-      "checksum": "3eab89a380e3fae97e2529a3960fb47c"
+      "checksum": "b61100bb4a7c7091b86a25d9b97f813c"
     },
     "benihana": {
       "displayName": "Benihana",
@@ -1958,11 +1958,11 @@
     },
     "yogurtland": {
       "displayName": "Yogurtland",
-      "category": "ice_cream",
+      "category": "sweets",
       "useLocationName": false,
       "locationCount": 211,
       "fileSize": 23974,
-      "checksum": "0ad80e84311f49cb0d4b956a7ca0c8f3"
+      "checksum": "45c78f3667576b1e8216c51bbaeadb60"
     },
     "zaxbys": {
       "displayName": "Zaxby's",
@@ -2125,5 +2125,11 @@
       "checksum": "a145fe9975d66863de0c4b16e659c845"
     }
   },
-  "lastUpdated": "2026-01-11"
+  "lastUpdated": "2026-01-11",
+  "zip": {
+    "filename": "brands.zip",
+    "checksum": "86660822a58a68b27d1542a7ba68f4d5",
+    "size": 11316174,
+    "generated": "2026-01-12T07:04:31.819Z"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:23:37.737Z",
+  "generated": "2026-01-12T06:27:37.745Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -281,8 +281,8 @@
       "category": "entertainment",
       "useLocationName": false,
       "locationCount": 367,
-      "fileSize": 40053,
-      "checksum": "b85d7cacdd6bfc6e2a42dcfe531ae2f9"
+      "fileSize": 40067,
+      "checksum": "63e575e670e7a6563f42e15cd9e5cb34"
     },
     "bp": {
       "displayName": "BP",
@@ -457,8 +457,8 @@
       "category": "entertainment",
       "useLocationName": false,
       "locationCount": 311,
-      "fileSize": 34570,
-      "checksum": "cea337e70a2c03845e0d70bbdbb70dcd"
+      "fileSize": 34583,
+      "checksum": "db7096fc7250c7c778e1cf1af212c608"
     },
     "cinnabon": {
       "displayName": "Cinnabon",
@@ -737,8 +737,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 260,
-      "fileSize": 29755,
-      "checksum": "7217ad50265d1792b514b36b1ca98768"
+      "fileSize": 29752,
+      "checksum": "3f3e6c392a8992c978171f62d017a571"
     },
     "even_hotels": {
       "displayName": "EVEN Hotels",
@@ -2025,8 +2025,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 188,
-      "fileSize": 20636,
-      "checksum": "a455b0b2bfaecee24d0b6357d2f30fb6"
+      "fileSize": 20627,
+      "checksum": "a251a0f8e96903830269bd3e896e17cb"
     },
     "honey_baked_ham": {
       "displayName": "Honey Baked Ham",
@@ -2081,8 +2081,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 283,
-      "fileSize": 32193,
-      "checksum": "a34e3f8c251b8f9383cd79e3759bd3b1"
+      "fileSize": 32207,
+      "checksum": "c31b7837c7ad89cdac78111ab13af453"
     },
     "caribou": {
       "displayName": "Caribou Coffee",

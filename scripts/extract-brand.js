@@ -106,7 +106,8 @@ const REPEATED_WORD_CITIES = [
 
 // Cities ending with "Summit" (Summit is a county name)
 const SUMMIT_CITIES = [
-  'Lee\'s Summit', 'Lees Summit', 'Blue Summit', 'Park Summit', 'Oak Summit'
+  'Lee\'s Summit', 'Lees Summit', 'Blue Summit', 'Park Summit', 'Oak Summit',
+  'Clarks Summit', 'Holts Summit', 'Grants Summit'
 ];
 
 // Cities that should NEVER have their endings stripped (they end with county names)
@@ -186,7 +187,11 @@ const PROTECTED_CITIES = [
   'Cedar Rapids', 'Grand Prairie', 'Oak Park', 'Oak Lawn', 'Oak Ridge',
   'Coral Springs', 'Palm Springs', 'Palm Coast', 'Palm Bay', 'Palm Harbor',
   'Belle Vernon', 'Mount Vernon', 'East Cleveland', 'West Cleveland',
-  'South Charleston', 'North Charleston', 'East Chicago', 'West Chicago'
+  'South Charleston', 'North Charleston', 'East Chicago', 'West Chicago',
+  // Additional protected cities
+  'Corte Madera', 'Liberty Lake', 'Budd Lake', 'June Lake', 'Whitmore Lake',
+  'Battle Lake', 'Long Lake', 'Island Lake', 'Third Lake', 'Wonder Lake',
+  'Paddock Lake', 'Round Lake', 'Mirror Lake', 'Sturgeon Lake', 'Green Lake'
 ];
 
 // Common US county names that appear in "City County" format
@@ -263,7 +268,12 @@ function cleanCity(city) {
     'bear', 'deer', 'elk', 'fox', 'eagle', 'wolf', 'bass', 'grass', 'pine',
     'oak', 'cedar', 'maple', 'spring', 'crystal', 'silver', 'golden', 'royal',
     'grand', 'little', 'new', 'old', 'upper', 'lower', 'middle', 'center',
-    'saint', 'san', 'santa', 'las', 'los', 'el', 'la', 'del', 'de'
+    'saint', 'san', 'santa', 'las', 'los', 'el', 'la', 'del', 'de',
+    // Additional invalid words that appear in compound city names
+    'lees', 'lee\'s', 'horn', 'moses', 'bonney', 'clarks', 'holts', 'corte',
+    'prior', 'forest', 'rice', 'liberty', 'lady', 'walla', 'devils', 'devil\'s',
+    'budd', 'mohegan', 'island', 'third', 'wonder', 'mirror', 'battle', 'canal',
+    'mentor', 'young', 'sour', 'white', 'clear', 'storm', 'spirit', 'carter'
   ];
 
   if (!isProtected) {
@@ -324,34 +334,179 @@ function normalizeCity(city, state) {
 
   // NY-specific normalizations
   if (state === 'NY') {
-    if (city === 'New York') return 'New York City';
+    if (city === 'New York' || city === 'Newyork') return 'New York City';
     if (city === 'Bronx') return 'The Bronx';
   }
 
   // CA-specific normalizations
   if (state === 'CA') {
     if (city === 'Big Bear') return 'Big Bear Lake';
+    if (city === 'Toluca') return 'Toluca Lake';
+    if (city === 'June') return 'June Lake';
   }
 
   // MI-specific normalizations
   if (state === 'MI') {
     if (city === 'Manitou Beach-Devils') return 'Manitou Beach';
+    if (city === 'Whitmore') return 'Whitmore Lake';
+    if (city === 'White') return 'White Lake';
   }
 
   // ND-specific normalizations (DB has "St Michael" without period)
   if (state === 'ND') {
     if (city === 'St. Michael') return 'St Michael';
+    if (city === 'Devils' || city === 'Devil\'s') return 'Devils Lake';
   }
 
   // OH-specific normalizations
   if (state === 'OH') {
     if (city === 'St. Mary') return 'St. Marys';
     if (city === 'Canal') return 'Canal Fulton';
+    if (city === 'Mentor On The' || city === 'Mentor On the') return 'Mentor-on-the-Lake';
+    if (city === 'Buckeye') return 'Buckeye Lake';
+    if (city === 'Upper') return 'Upper Arlington';
+  }
+
+  // MO-specific normalizations
+  if (state === 'MO') {
+    if (city === 'Saint Louis') return 'St. Louis';
+    if (city === 'St Louis') return 'St. Louis';
+    if (city === 'St Louis Park') return 'St. Louis';
+    if (city === 'St Peters') return 'St. Peters';
+    if (city === 'Lees' || city === 'Lee\'s') return 'Lee\'s Summit';
+    if (city === 'Holts') return 'Holts Summit';
+  }
+
+  // FL-specific normalizations
+  if (state === 'FL') {
+    if (city === 'Saint Petersburg' || city === 'St Petersburg') return 'St. Petersburg';
+    if (city === 'St Augustine') return 'St. Augustine';
+    if (city === 'Fort') return 'Fort Myers';  // Most common
+    if (city === 'West') return 'West Palm Beach';  // Most common
+    if (city === 'Port') return 'Port St. Lucie';  // Most common
+    if (city === 'Lady') return 'Lady Lake';
+    if (city === 'Royal') return 'Royal Palm Beach';
+  }
+
+  // TX-specific normalizations
+  if (state === 'TX') {
+    if (city === 'Dfw Airport' || city === 'DFW Airport') return 'Dallas';
+  }
+
+  // MN-specific normalizations
+  if (state === 'MN') {
+    if (city === 'St Paul') return 'St. Paul';
+    if (city === 'Saint Louis' || city === 'St Louis Park') return 'St. Louis Park';
+    if (city === 'Forest') return 'Forest Lake';
+    if (city === 'Prior') return 'Prior Lake';
+  }
+
+  // WA-specific normalizations
+  if (state === 'WA') {
+    if (city === 'Walla') return 'Walla Walla';
+    if (city === 'Moses') return 'Moses Lake';
+    if (city === 'Bonney') return 'Bonney Lake';
+    if (city === 'Liberty') return 'Liberty Lake';
+  }
+
+  // PA-specific normalizations
+  if (state === 'PA') {
+    if (city === 'Clarks') return 'Clarks Summit';
+    if (city === 'West') return 'West Chester';
+  }
+
+  // LA-specific normalizations
+  if (state === 'LA') {
+    if (city === 'West') return 'West Monroe';
+  }
+
+  // IN-specific normalizations
+  if (state === 'IN') {
+    if (city === 'Fort') return 'Fort Wayne';
+  }
+
+  // MS-specific normalizations
+  if (state === 'MS') {
+    if (city === 'Horn') return 'Horn Lake';
+  }
+
+  // WI-specific normalizations
+  if (state === 'WI') {
+    if (city === 'Rice') return 'Rice Lake';
+    if (city === 'Camp') return 'Camp Douglas';
+    if (city === 'Paddock') return 'Paddock Lake';
+  }
+
+  // IL-specific normalizations
+  if (state === 'IL') {
+    if (city === 'Crystal') return 'Crystal Lake';
+    if (city === 'Island') return 'Island Lake';
+    if (city === 'Third') return 'Third Lake';
+    if (city === 'Wonder') return 'Wonder Lake';
+    if (city === 'Round') return 'Round Lake';
+  }
+
+  // NJ-specific normalizations
+  if (state === 'NJ') {
+    if (city === 'Budd') return 'Budd Lake';
+    if (city === 'East') return 'East Orange';
+    if (city === 'West') return 'West Orange';
+    if (city === 'North') return 'North Bergen';
+  }
+
+  // VT-specific normalizations
+  if (state === 'VT') {
+    if (city === 'South') return 'South Burlington';
+  }
+
+  // WV-specific normalizations
+  if (state === 'WV') {
+    if (city === 'South') return 'South Charleston';
+  }
+
+  // CO-specific normalizations
+  if (state === 'CO') {
+    if (city === 'Fort') return 'Fort Collins';
+  }
+
+  // MD-specific normalizations
+  if (state === 'MD') {
+    if (city === 'Fort') return 'Fort Washington';
+  }
+
+  // NC-specific normalizations
+  if (state === 'NC') {
+    if (city === 'Spring') return 'Spring Lake';
+  }
+
+  // IA-specific normalizations
+  if (state === 'IA') {
+    if (city === 'Clear') return 'Clear Lake';
+    if (city === 'Storm') return 'Storm Lake';
+    if (city === 'Spirit') return 'Spirit Lake';
+  }
+
+  // CT-specific normalizations
+  if (state === 'CT') {
+    if (city === 'West') return 'West Hartford';
+    if (city === 'East') return 'East Hartford';
+  }
+
+  // UT-specific normalizations
+  if (state === 'UT') {
+    if (city === 'St George') return 'St. George';
   }
 
   // Ontario-specific normalizations (Toronto neighborhoods)
   if (state === 'ON') {
     if (city === 'Scarborough' || city === 'North York') return 'Toronto';
+    if (city === 'St Catharines') return 'St. Catharines';
+  }
+
+  // Alberta-specific normalizations
+  if (state === 'AB') {
+    if (city === 'St Albert') return 'St. Albert';
+    if (city === 'St Paul') return 'St. Paul';
   }
 
   // Quebec - Montreal variations

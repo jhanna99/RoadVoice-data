@@ -378,9 +378,6 @@ hooters	W.	GA	32.006723	-81.284788	4 Gateway Blvd, W.
 huddle_house	Saint Paul	VA	36.906897	-82.3174	16414 Wise St
 huddle_house	St Pauls	NC	34.810079	-78.985265	940 W Broad St
 hyatt_house	San Jose Airport	CA	37.3739307	-121.9194707	
-hyatt_place	Manati	PR	18.4333448	-66.4765395	
-hyatt_place	Montreal	QC	45.5156845	-73.5591132	
-hyatt_place	San Jose Airport	CA	37.3735229	-121.9212502	
 ihop	Big Bear	CA	34.247	-116.882	42137 Big Bear Boulevard
 ingles	West	NC	36.382449	-81.487664	60 Ashemont Dr.
 ingles	West	SC	34.75373	-83.045693	180 Scenic Plaza Dr
@@ -435,18 +432,10 @@ mobil	North Ferrisburg	VT	44.259193	-73.228889	6973 US-7
 mobil	Pomfret Center	CT	41.897961	-71.960014	19 PUTNAM RD
 mobil	Pumpkin Center	CA	35.267078	-119.026505	2106 TAFT HWY
 mobil	Rancho Santa	CA	32.991356	-117.197182	16095 SAN DIEGUITO RD
-national_historic_site	Christiansted	VI	17.7468	-64.7022	
-national_historic_site	Point Marion	PA	39.77543423	-79.92504169	
-national_historic_site	Saint Louis	MO	38.55182374	-90.35169255	
 national_historical_park	Hagatna	GU	13.43795691	144.6922461	
-national_monument	Christiansted, St. Croix	VI	17.81026717	-64.6222179	
-national_monument	New York City	NJ	40.69946	-74.0401	
-national_monument	St. John	VI	18.28996918	-64.70683395	
 national_park	Saint Louis	MO	38.6258069	-90.1892508	
-national_park	St. John	VI	18.34279656	-64.74194451	
 nike	Woodcliff	NJ	41.040829	-74.075405	415 Chestnut Ridge Road
 nordstrom	Corte	CA	37.931397	-122.514836	1870 Redwood Highway
-office_depot	Christiansted	VI	17.74455	-64.70592	4500 SUNNY ISLE SHOPPING CTR, STE 70
 office_depot	St. Thomas	VI	18.33645	-64.89015	4611 TUTU PARK MALL, SUITE 100
 panda_express	City of	CA	33.972486	-117.330873	900 University Ave.
 panda_express	Dededo	GU	13.520439	144.817787	1088 W. Marine Corps Drive
@@ -488,9 +477,6 @@ quiznos	North	UT	40.84927	-111.92978	420 N Redwood Rd Unit A
 schnucks	Lake	MO	38.78448	-90.7968	101 Civic Center Drive
 sephora	Woodcliff	NJ	41.0428	-74.0715	500 CHESTNUT RIDGE RD STE 103
 shake_shack	(empty)	MD	39.278245	-76.621678	M&T Bank Stadium
-shake_shack	Lee's	MO	38.927504	-94.413266	2051 NW Lowenstein Drive
-shake_shack	Port	NY	40.991911	-73.674646	535 Boston Post Road
-shake_shack	West	CT	41.726905	-72.756853	1445 New Britian Avenue, Suite 1385
 sheetz	Clarks	PA	41.4856	-75.6944	1109 NORTHERN BLVD
 sheetz	Conneaut	PA	41.6028	-80.3044	315 WATER ST BOX 5096
 sheetz	Mount	PA	40.3869	-77.8828	201 N JEFFERSON ST
@@ -602,7 +588,6 @@ subway	Olmsted Twnshp	OH	41.387611	-81.903811	7062 Columbia Rd
 subway	Opalocka	FL	25.895193	-80.244033	13300 NW 27th Avenue #3
 subway	Orderville	UT	37.223835	-112.681337	4490 South State Street
 subway	Parris Island	SC	32.348525	-80.678556	Mwr Bowling Center Bldg 203
-subway	Point Marion	PA	39.738759	-79.90129	4 Main Street
 subway	Point Mugu Nawc	CA	34.12093	-119.102884	Navy Exchange Building 16
 subway	Richmond Hills	NY	40.699763	-73.831184	118-14 Jamaica Ave.
 subway	Riverview Hillsborough County	FL	27.793071	-82.332965	13174 US Highway 301 Suite B-6
@@ -669,8 +654,6 @@ sunoco	Schroon	NY	43.86927	-73.7527	1567 US 9
 sunoco	Trout	MI	46.192504	-85.016378	21601 S M 123
 sunoco	Waterbury Center	VT	44.37046	-72.72785	2731 WATERBURY-STOWE RD
 sunoco	Young Harris	GA	34.97677	-83.82602	2600 STATE ROUTE-17
-taco_bell	Ft Wayne	IN	41.015103	-85.116562	7719 Southtown Crossing
-taco_bell	Ft. Wayne	IN	41.075214	-85.144111	405 West Jefferson Blvd
 tim_hortons	Darien Center	NY	42.927096	-78.385429	9993 ALLEGHENY ROAD
 trader_joes	Toluca	CA	34.15191	-118.35193	10130 Riverside Dr
 tru_by_hilton	St George	UT	37.086476	-113.57937	1251 South Sunland Drive
@@ -697,13 +680,7 @@ wawa	Leonardo	NJ	40.415506	-74.066539	830 hwy 36
 wawa	Mt Ephraim	NJ	39.886989	-75.08717	602 black horse pike
 wawa	Palm Shores	FL	28.201735	-80.671327	5605 n wickham rd
 wawa	Penn Valley	PA	40.012268	-75.262005	949 montgomery ave
-wendys	Buckeye	OH	39.940613	-82.478877	10281 Hebron Rd
 wendys	Macomb County	MI	42.630632	-82.877649	22929 Hall Rd
-wendys	Mentor On The	OH	41.708514	-81.360828	5985 Andrews Rd
-whataburger	DFW Airport	TX	32.89582	-97.036522	2610 N. International Pkwy
-whataburger	Horn	MS	34.962891	-90.064606	4300 Goodman Rd W
-whataburger	Lee's	MO	38.853011	-94.381	204 SW MO-150 Hwy
-whataburger	Lees	MO	38.93897	-94.379144	1460 NE DOUGLAS ST
 whole_foods	Woodcliff	NJ	41.042836	-74.071483	500 Chestnut Ridge Road
 wyndham	Big Bear	CA	34.238571	-116.935516	39471 Big Bear Blvd
 wyndham	Big Bear	CA	34.25221	-116.88075	240 Starvation Flats Road

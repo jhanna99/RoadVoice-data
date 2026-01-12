@@ -1,18 +1,14 @@
 brand	city	state	lat	lon	address
 7_eleven	Adams Center	NY	43.866	-76.0136	17942 NY-177
-7_eleven	DFW Airport	TX	32.89893	-97.036518	2330 N International Pkwy
-7_eleven	East	NJ	40.827669	-74.097476	111 UNION AVE
 7_eleven	Newton Center	MA	42.31944	-71.18153	325 Boylston Street
 7_eleven	South Coventry Twp	PA	40.17472	-75.66266	2200 Pottstown Pike
 7_eleven	St. Petersburg Bea	FL	27.73406	-82.745622	6205 GULF BLVD
-adidas	West	FL	26.724568	-80.085837	1731 Palm Beach Lakes Boulevard
 aldi	Pocono	PA	41.116674	-75.382378	2995 Sr 940
 amazon_locker	Centerline	MI	42.477973	-83.019442	Family Dollar - 28398, 8535 E 10 MILE RD
 amazon_locker	Chicago Hgts	IL	41.478237	-87.638128	3316A CHICAGO RD
 amazon_locker	China	CA	35.65456	-117.656391	BLANDY ST BLDG 19, Blandy St Bldg 19
 amazon_locker	Dacano	CO	40.087102	-104.929165	Family Dollar - 25907, 1020 8TH ST
 amazon_locker	Dorchester Center	MA	42.290296	-71.089686	995 BLUE HILL AVE
-amazon_locker	Ft. Wayne	IN	41.173329	-85.168403	10001 Lima Rd
 amazon_locker	Jbsa Ft Sam	TX	29.448433	-98.450931	Express, 2403 WINFIELD SCOTT RD
 amazon_locker	Jbsa Ft Sam	TX	29.462274	-98.434687	AAFES, 1387 Williams Rd
 amazon_locker	Marydel	DE	39.111623	-75.743903	Family Dollar - 30799, 14 EAST STREET
@@ -27,37 +23,21 @@ amazon_locker	Winona	IN	41.226502	-85.817547	Grace College & Seminary, 1 Lancer 
 amazon_locker	Winston -Salem	NC	36.083614	-80.256558	Family Dollar - 23857, 631 PETERS CREEK PKWY
 anytime_fitness	Hidden Valley	CA	38.79517	-122.55675	18990 Coyote Valley Rd, Stes 20 & 21
 arbys	Medical	WA	47.642934	-117.669286	14202 W. State Rd. 2
-arbys	Whitmore	MI	42.442885	-83.758571	9747 E M 36
 banana_republic	Woodcliff	NJ	41.040778	-74.075587	407 Chestnut Ridge Rd, Ste 7
 baskin_robbins	Paddock	WI	42.568542	-88.106138	24602 75th Street
 baskin_robbins	Toluca	CA	34.152598	-118.36101	10563 Riverside Dr
 baymont	Saint Ignace	MI	45.890709	-84.727391	1131 North State Street
-ben_jerrys	West	CT	41.7617	-72.741902	5 1/2 South Main
-ben_jerrys	West	NJ	40.781774	-74.005942	22 Riverwalk Place
 benihana	(empty)	CA	33.104502	-117.312437	<p>755 Raintree Dr. Ste., 100 Carlsbad CA, 92011
 benihana	(empty)	NV	36.127367	-115.168897	<p>3200 South Las Vegas Blvd., Suite 1250, Las Vegas, NV 89109
 benihana	(empty)	NY	40.763389	-73.976707	<p>47 W 56th st, New York, NY 10019
 benihana	Coral Spring	FL	26.251676	-80.25248	<p>1695 North University Drive, Coral Spring, FL 33071
 benihana	Lauderdale by the Sea	FL	26.189801	-80.102331	<p>276 E Commercial Blvd., Lauderdale by the Sea, FL, 33308
 benihana	South Golden Valley	MN	44.973667	-93.371093	<p>850 Louisiana Avenue, South Golden Valley, MN, 55426
-best_western	Big Bear	CA	34.243478	-116.881328	42200 Moonridge Road
-best_western	Clarks	PA	41.482015	-75.688811	820 Northern Boulevard
-best_western	Corte	CA	37.930115	-122.516955	56 Madera Boulevard
-best_western	Liberty	WA	47.673547	-117.11209	1816 N Pepper Ln
 big_boy	(empty)	MI	42.296911	-85.235655	Big Boy, 2183 W Columbia Ave, Battle Creek, MI 49015, USA
 big_boy	(empty)	MI	42.875122	-85.796198	4950 Wilson Ave SW, Wyoming, MI 49418, USA
 big_boy	Oakland charter Township	MI	42.742264	-83.13949	3756 Rochester Rd, Oakland charter Township, MI 48306, USA
 big_lots	(empty)	PA	40.182277	-80.238133	254 Oak Spring Rd, Washington, PA 15301, USA
 big_lots	(empty)	PA	40.620645	-79.191156	2444 Philadelphia St, Indiana, PA 15701, USA
-bjs	East	NJ	40.82532	-74.09606	300 Route 17 North
-bjs	Lady	FL	28.95919	-81.96049	13585 NE 86th Path
-bjs	North	NJ	40.8125	-74.01488	2100 88th St.
-bjs	Port	FL	29.10892	-81.02509	1800 Dunlawton Ave.
-bjs	Royal	FL	26.68649	-80.20205	500 N State Road 7
-bjs	West	CT	41.73949	-72.71932	507 New Park Ave.
-bjs	West	FL	26.71022	-80.07579	777 Executive Center Drive
-bob_evans	Saint Louis	MO	38.511326	-90.33736	6528 S Lindbergh Blvd
-bojangles	St Augustine	FL	29.914243	-81.399317	2095 State Route 16
 boston_market	Eastampton Township	NJ	40.005733	-74.796203	514 High Street, EASTAMPTON TOWNSHIP, NJ 8060, USA
 boston_pizza	Athabasca	AB	54.71905	-113.241996	2201 48th Ave
 boston_pizza	Barrhaven	ON	45.273707	-75.74828	1681 Greenbank Road

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:27:37.745Z",
+  "generated": "2026-01-12T06:29:48.587Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -1033,8 +1033,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 188,
-      "fileSize": 20976,
-      "checksum": "f767871097c4edf2000408a7a951e5d8"
+      "fileSize": 20992,
+      "checksum": "d2b8bcfdb10a58191c1f7f9941e07896"
     },
     "intercontinental": {
       "displayName": "InterContinental",
@@ -1433,8 +1433,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 190,
-      "fileSize": 21317,
-      "checksum": "a84e0f44721fdd6ae3ca72036a0b126d"
+      "fileSize": 21324,
+      "checksum": "199788586c2ad3ccc7af702835a25dd8"
     },
     "planet_fitness": {
       "displayName": "Planet Fitness",
@@ -1473,8 +1473,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 135,
-      "fileSize": 15181,
-      "checksum": "0eec215738f2dc5f72b2ab17a2e92c19"
+      "fileSize": 15199,
+      "checksum": "161add43f66de7170a047bfa6d9a71e9"
     },
     "radisson": {
       "displayName": "Radisson",
@@ -1633,8 +1633,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 367,
-      "fileSize": 41104,
-      "checksum": "4283db1743af7d0afdec238afa41fd5c"
+      "fileSize": 41109,
+      "checksum": "9e4f696adc79dc1be3d911907175c136"
     },
     "small_luxury_hotels": {
       "displayName": "Small Luxury Hotels",
@@ -2048,9 +2048,9 @@
       "displayName": "Huddle House",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 255,
-      "fileSize": 27399,
-      "checksum": "22d8eba7"
+      "locationCount": 256,
+      "fileSize": 28288,
+      "checksum": "e243857f113090fbdf585982e9c316ce"
     },
     "hy_vee": {
       "displayName": "Hy-Vee",

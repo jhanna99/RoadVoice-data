@@ -64,9 +64,15 @@ const BAD_PATTERNS = [
   // Note: Removed Center$ and Downtown$ patterns - too many valid cities end with these
 ];
 
+// Canadian provinces - skip validation (we only have US reference data)
+const CANADIAN_PROVINCES = new Set(['AB', 'BC', 'MB', 'NB', 'NL', 'NS', 'NT', 'NU', 'ON', 'PE', 'QC', 'SK', 'YT']);
+
 // Check if city looks suspicious
 function isSuspicious(city, state) {
   if (!city || city.trim() === '') return true;
+
+  // Skip Canadian provinces - we don't have reference data for them
+  if (CANADIAN_PROVINCES.has(state)) return false;
 
   // Check against bad patterns
   for (const pattern of BAD_PATTERNS) {

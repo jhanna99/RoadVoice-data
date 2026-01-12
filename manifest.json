@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T14:13:35.680Z",
+  "generated": "2026-01-12T14:23:03.161Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -49,8 +49,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 15762,
-      "fileSize": 1928499,
-      "checksum": "e9c05d4c3c15e2d4178485036292f086"
+      "fileSize": 1928409,
+      "checksum": "7fd5b358258580d4d5a2c69634ee681e"
     },
     "amc_theatres": {
       "displayName": "AMC Theatres",
@@ -793,8 +793,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 1174,
-      "fileSize": 135962,
-      "checksum": "510a049d429a643a2286c385da9680c1"
+      "fileSize": 134871,
+      "checksum": "510ad5e3bf6702e88706d4f53e55da2b"
     },
     "four_points": {
       "displayName": "Four Points",
@@ -1721,8 +1721,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 12157,
-      "fileSize": 1426318,
-      "checksum": "bab4575bdddfe511a677b3a483380644"
+      "fileSize": 1388482,
+      "checksum": "3f1fe71b3a63db1f170771c8068b0db7"
     },
     "sunoco": {
       "displayName": "Sunoco",
@@ -2128,8 +2128,8 @@
   "lastUpdated": "2026-01-11",
   "zip": {
     "filename": "brands.zip",
-    "checksum": "4226633666bac5176cae8a7f40b5de0b",
-    "size": 11327206,
-    "generated": "2026-01-12T14:18:29.702Z"
+    "checksum": "3ef176d5da8533965f3a063bb2b3d269",
+    "size": 11317278,
+    "generated": "2026-01-12T14:23:24.455Z"
   }
 }

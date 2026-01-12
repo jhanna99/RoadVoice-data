@@ -54,6 +54,34 @@ try {
   console.warn('Warning: Could not load ZIP code database:', err.message);
 }
 
+// Load city name aliases for normalizing "City County" format to just "City"
+const CITY_ALIASES_FILE = '/Users/johnhanna/Documents/RoadVoice/data/city-name-aliases.json';
+let cityAliases = {};
+try {
+  cityAliases = JSON.parse(fs.readFileSync(CITY_ALIASES_FILE, 'utf-8'));
+  let aliasCount = 0;
+  for (const state in cityAliases) {
+    aliasCount += Object.keys(cityAliases[state]).length;
+  }
+  console.log(`Loaded ${aliasCount} city name aliases`);
+} catch (err) {
+  console.warn('Warning: Could not load city aliases:', err.message);
+}
+
+/**
+ * Apply city alias to fix "City County" format
+ */
+function applyCityAlias(city, state) {
+  if (!city || !state) return city;
+  const stateAliases = cityAliases[state];
+  if (!stateAliases) return city;
+
+  const alias = stateAliases[city];
+  if (alias === null) return ''; // null means remove (invalid city)
+  if (alias) return alias;
+  return city;
+}
+
 /**
  * Look up city from postal code
  */
@@ -351,6 +379,10 @@ function normalizeCity(city, state) {
 
   // Fix "Mc" capitalization (Mckinney -> McKinney, Mcallen -> McAllen)
   city = city.replace(/\bMc([a-z])/g, (match, letter) => 'Mc' + letter.toUpperCase());
+
+  // Apply city aliases to fix "City County" format -> "City"
+  city = applyCityAlias(city, state);
+  if (!city) return ''; // alias returned empty = invalid city
 
   // Saint -> St. normalization (cities DB uses "St.")
   city = city.replace(/\bSaint\s+/gi, 'St. ');

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T05:45:57.982Z",
+  "generated": "2026-01-12T06:03:24.059Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -89,8 +89,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1476,
-      "fileSize": 165980,
-      "checksum": "4e67bc9b3b70269368aad401847d3a12"
+      "fileSize": 165984,
+      "checksum": "cbfe361915791f49102317604541161f"
     },
     "aquarium": {
       "displayName": "Aquariums",
@@ -137,8 +137,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 315,
-      "fileSize": 37891,
-      "checksum": "c7756ce2e30f13a7faac67e6c0debc44"
+      "fileSize": 37920,
+      "checksum": "119d2235c995a86c38e1108be38ea1d6"
     },
     "baskin_robbins": {
       "displayName": "Baskin-Robbins",
@@ -593,8 +593,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 580,
-      "fileSize": 62868,
-      "checksum": "bb3901834dad24611edfc51b656cdcba"
+      "fileSize": 62972,
+      "checksum": "6a50d21c3314a2386a4edc3dfbbf8a57"
     },
     "curio_collection": {
       "displayName": "Curio Collection",
@@ -721,8 +721,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 1124,
-      "fileSize": 123385,
-      "checksum": "36dca1a08ef7f5f7c26c422495306211"
+      "fileSize": 123429,
+      "checksum": "5f42f20b68cad4e1e9ae9bb1b608b881"
     },
     "econo_lodge": {
       "displayName": "Econo Lodge",
@@ -784,9 +784,9 @@
       "displayName": "Flying J",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 677,
-      "fileSize": 70595,
-      "checksum": "86c93043a12d036f4d4a81c2aa15a53c"
+      "locationCount": 192,
+      "fileSize": 20156,
+      "checksum": "a6da153fa4ef74d9260569bee2e6566c"
     },
     "food_lion": {
       "displayName": "Food Lion",
@@ -817,8 +817,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 433,
-      "fileSize": 49658,
-      "checksum": "8e4d26389f020152ab23e9cf92bfea21"
+      "fileSize": 49712,
+      "checksum": "044688511eeeb6c17437732c2f7e5a6a"
     },
     "giant_food": {
       "displayName": "Giant Food",

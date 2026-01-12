@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:11:57.607Z",
+  "generated": "2026-01-12T06:15:10.447Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -809,8 +809,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 392,
-      "fileSize": 46821,
-      "checksum": "9dbf07f52a9054168a04eaf2ee890106"
+      "fileSize": 46866,
+      "checksum": "b00f617ce8df0893dddacb6e27963ada"
     },
     "giant_eagle": {
       "displayName": "Giant Eagle",
@@ -841,8 +841,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 384,
-      "fileSize": 41628,
-      "checksum": "80919397316a0610b768bab1c6c174be"
+      "fileSize": 41658,
+      "checksum": "4db62c14ca22f033d5789702b1d6daf3"
     },
     "good_neighbor": {
       "displayName": "Good Neighbor Pharmacy",
@@ -1121,8 +1121,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 721,
-      "fileSize": 78944,
-      "checksum": "69a468291b0baa5536e9c6f3fef9514d"
+      "fileSize": 78973,
+      "checksum": "8a9f6c4a1592a9aa4ff0f8340cc6cfef"
     },
     "lowes": {
       "displayName": "Lowe's",
@@ -2032,9 +2032,9 @@
       "displayName": "Honey Baked Ham",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 452,
-      "fileSize": 51207,
-      "checksum": "b1e294c1"
+      "locationCount": 525,
+      "fileSize": 60945,
+      "checksum": "4ee8a3c01f9b0c0d799bd22594db31e4"
     },
     "hooters": {
       "displayName": "Hooters",

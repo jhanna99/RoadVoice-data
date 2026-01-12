@@ -1,5 +1,5 @@
 {"key":"big_boy","displayName":"Big Boy","category":"restaurant","useLocationName":false,"locations":[
-  {"lat":42.296911,"lon":-85.235655,"city":"","state":"MI","address":"Big Boy, 2183 W Columbia Ave, Battle Creek, MI 49015, USA","name":""},
+  {"lat":42.296911,"lon":-85.235655,"city":"Battle Creek, Mi","state":"MI","address":"Big Boy, 2183 W Columbia Ave, Battle Creek, MI 49015, USA","name":""},
   {"lat":42.627213,"lon":-82.987908,"city":"Clinton Township","state":"MI","address":"16880 Hall Road, Clinton Township, MI, USA","name":""},
   {"lat":42.005998,"lon":-84.004446,"city":"Tecumseh","state":"MI","address":"2701 E Monroe Rd, Tecumseh, MI 49286, USA","name":""},
   {"lat":42.507466,"lon":-83.042413,"city":"Warren","state":"MI","address":"11587 Twelve Mile Rd, Warren, MI 48093, USA","name":""},
@@ -42,7 +42,7 @@
   {"lat":42.326294,"lon":-83.356006,"city":"Garden City","state":"MI","address":"28340 Ford Rd, Garden City, MI 48135, USA","name":""},
   {"lat":42.515582,"lon":-83.140979,"city":"Madison Heights","state":"MI","address":"30460 John R Rd, Madison Heights, MI 48071, USA","name":""},
   {"lat":41.418882,"lon":-81.815103,"city":"Brookpark","state":"OH","address":"12920 Brookpark Road, Brookpark, Ohio 44142, USA","name":""},
-  {"lat":42.875122,"lon":-85.796198,"city":"","state":"MI","address":"4950 Wilson Ave SW, Wyoming, MI 49418, USA","name":""},
+  {"lat":42.875122,"lon":-85.796198,"city":"Wyoming, Mi","state":"MI","address":"4950 Wilson Ave SW, Wyoming, MI 49418, USA","name":""},
   {"lat":42.589694,"lon":-84.459625,"city":"Mason","state":"MI","address":"660 N Cedar St, Mason, MI 48854, USA","name":""},
   {"lat":42.09864,"lon":-84.282288,"city":"Brooklyn","state":"MI","address":"329 S Main St, Brooklyn, MI 49230, USA","name":""},
   {"lat":43.008374,"lon":-83.105931,"city":"Imlay City","state":"MI","address":"1949 S Cedar St, Imlay City, MI 48444, USA","name":""},

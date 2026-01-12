@@ -549,6 +549,58 @@ function normalizeCity(city, state) {
   return city;
 }
 
+// US state abbreviations for URL parsing
+const STATE_ABBREVS = [
+  'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
+  'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
+  'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
+  'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
+  'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY', 'DC'
+];
+
+/**
+ * Extract city and state from URL patterns like:
+ * - ritasice.com/location/ritas-of-emmaus-pa/
+ * - ritasice.com/location/ritas-of-dickson-city-pa/
+ */
+function extractLocationFromUrl(url) {
+  if (!url) return { city: '', state: '' };
+
+  // Pattern: /ritas-of-{city}-{state}/ or similar
+  const match = url.match(/\/(?:ritas-of-|location\/|store\/)([a-z0-9-]+)(?:\/|$)/i);
+  if (!match) return { city: '', state: '' };
+
+  const slug = match[1].toLowerCase();
+  const parts = slug.split('-');
+
+  // Find state abbreviation (last 2-letter part that matches a state)
+  let stateIndex = -1;
+  for (let i = parts.length - 1; i >= 0; i--) {
+    if (parts[i].length === 2 && STATE_ABBREVS.includes(parts[i].toUpperCase())) {
+      stateIndex = i;
+      break;
+    }
+  }
+
+  if (stateIndex < 1) return { city: '', state: '' };
+
+  const state = parts[stateIndex].toUpperCase();
+  // City is everything before the state, with common prefixes removed
+  let cityParts = parts.slice(0, stateIndex);
+  // Remove common prefixes like "ritas", "of", "loc", numbers
+  cityParts = cityParts.filter(p =>
+    !['ritas', 'of', 'loc', 'store', 'location'].includes(p) &&
+    !p.match(/^\d+$/)
+  );
+
+  if (cityParts.length === 0) return { city: '', state: '' };
+
+  // Convert to proper case
+  const city = cityParts.map(p => p.charAt(0).toUpperCase() + p.slice(1)).join(' ');
+
+  return { city, state };
+}
+
 /**
  * Extract city from name field
  * Handles multiple formats:
@@ -570,9 +622,15 @@ function extractCityFromName(name, brandDisplayName) {
   }
 
   // Pattern 2: "Brand Store of City" or "Brand Grocery Store of City" (Food Lion style)
-  const ofMatch = name.match(/(?:Store|Grocery|Market|Shop)\s+of\s+([A-Za-z\s]+)$/i);
+  // Also handles "Rita's of City STATE" pattern (note: handles both ASCII and Unicode apostrophes)
+  const ofMatch = name.match(/(?:Store|Grocery|Market|Shop|['\u2019]s)\s+of\s+(.+)$/i);
   if (ofMatch) {
-    return ofMatch[1].trim();
+    // Clean up the city - remove trailing state abbreviation and extra info
+    let city = ofMatch[1].trim();
+    city = city.replace(/\s+[A-Z]{2}$/, ''); // Remove trailing state like "PA"
+    city = city.replace(/\s+Loc\.?\s*\d*$/i, ''); // Remove "Loc. 4" suffix
+    city = city.replace(/\s*&\s*\w+\s+Co\.?$/i, ''); // Remove "& Wayne Co." suffix
+    return city;
   }
 
   // Pattern 3: "Brand in City" or "Brand at City"
@@ -641,7 +699,7 @@ try {
       const props = f.properties;
 
       // Try all property name variations
-      const state = getProperty(props, 'addr:state', 'state');
+      let state = getProperty(props, 'addr:state', 'state');
       let city = getProperty(props, 'addr:city', 'city');
       const address = getProperty(props, 'addr:street_address', 'addr:street', 'street_address', 'addr:full');
 
@@ -678,6 +736,13 @@ try {
       if (!city) {
         const postcode = getProperty(props, 'addr:postcode', 'postcode');
         city = getCityFromPostcode(postcode);
+      }
+
+      // Fallback 5: extract from URL (for brands like Rita's that have location in URL)
+      if (!city || !state) {
+        const urlInfo = extractLocationFromUrl(props['@source_uri'] || props['website']);
+        if (!city && urlInfo.city) city = urlInfo.city;
+        if (!state && urlInfo.state) state = urlInfo.state;
       }
 
       // Clean and normalize the city name

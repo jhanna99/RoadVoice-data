@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T13:59:50.144Z",
+  "generated": "2026-01-12T14:12:00.016Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -177,8 +177,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 80,
-      "fileSize": 11074,
-      "checksum": "e3c7556c385b08ed5a323c13522ab258"
+      "fileSize": 11098,
+      "checksum": "525c12451fbdd82c8973ada8e7e04308"
     },
     "bertuccis": {
       "displayName": "Bertucci's",
@@ -217,8 +217,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 52,
-      "fileSize": 7117,
-      "checksum": "9048f0d773c1698f52358e6564a6cca5"
+      "fileSize": 7144,
+      "checksum": "d2a1c3af87b7ab915c02919c91ff4f83"
     },
     "bjs": {
       "displayName": "BJ's Wholesale",
@@ -1521,8 +1521,8 @@
       "category": "sweets",
       "useLocationName": false,
       "locationCount": 585,
-      "fileSize": 48877,
-      "checksum": "a147861d80acf6fee7ddb0f20da50663"
+      "fileSize": 55405,
+      "checksum": "135e91506b18ce6b69377637cb517cc5"
     },
     "rodeway_inn": {
       "displayName": "Rodeway Inn",
@@ -1593,8 +1593,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 410,
-      "fileSize": 46800,
-      "checksum": "9c301c6faa656f33b40e23cd94a27e6d"
+      "fileSize": 46827,
+      "checksum": "162b07e9602d68f38af61a180e4e6aa0"
     },
     "sheetz": {
       "displayName": "Sheetz",
@@ -1609,8 +1609,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 13393,
-      "fileSize": 1475175,
-      "checksum": "5eabae174ab33c0b6efd49b924fc312a"
+      "fileSize": 1475184,
+      "checksum": "fd895efa596f5388a8b14ef66caac4fd"
     },
     "sheraton": {
       "displayName": "Sheraton",
@@ -1997,12 +1997,12 @@
       "checksum": "2b9382c8"
     },
     "fogo_de_chao": {
-      "displayName": "Fogo de Chão",
+      "displayName": "Fogo de Chao",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 43,
-      "fileSize": 4992,
-      "checksum": "51d58864ba012fd1fe6648e3b61453b0"
+      "fileSize": 5017,
+      "checksum": "535d6c92f9fc6b042da1c1d8f043205c"
     },
     "freddys": {
       "displayName": "Freddy's",
@@ -2017,8 +2017,8 @@
       "category": "fitness",
       "useLocationName": false,
       "locationCount": 181,
-      "fileSize": 24519,
-      "checksum": "78530330d6b46b432291458158688d91"
+      "fileSize": 25130,
+      "checksum": "64db1a044afc00192bdfef71a77dcf80"
     },
     "hannaford": {
       "displayName": "Hannaford",
@@ -2128,8 +2128,8 @@
   "lastUpdated": "2026-01-11",
   "zip": {
     "filename": "brands.zip",
-    "checksum": "af8c8c55a8c2a11cfe0a1e4fa6bd300d",
-    "size": 11322579,
-    "generated": "2026-01-12T14:00:02.218Z"
+    "checksum": "0306a25b5cffd258a6196dfb955d415c",
+    "size": 11327206,
+    "generated": "2026-01-12T14:12:10.935Z"
   }
 }

@@ -1,4 +1,4 @@
-{"key":"fogo_de_chao","displayName":"Fogo de Chão","category":"restaurant","useLocationName":false,"locations":[
+{"key":"fogo_de_chao","displayName":"Fogo de Chao","category":"restaurant","useLocationName":false,"locations":[
   {"lat":33.529899,"lon":-111.926476,"city":"Scottsdale","state":"AZ","address":"6300 N. Scottsdale Rd.","name":""},
   {"lat":34.068573,"lon":-118.376614,"city":"Beverly Hills","state":"CA","address":"133 N. La Cienega Blvd.","name":""},
   {"lat":33.652213,"lon":-117.743696,"city":"Irvine","state":"AL","address":"623 Spectrum Center Drive","name":""},
@@ -26,7 +26,7 @@
   {"lat":39.042487,"lon":-94.589954,"city":"Kansas City","state":"MO","address":"222 West 47th St.","name":""},
   {"lat":36.115052,"lon":-115.15645,"city":"Las Vegas","state":"NV","address":"360 E. Flamingo Road","name":""},
   {"lat":40.742736,"lon":-73.618062,"city":"Carle Place","state":"NY","address":"235 Old Country Rd.","name":""},
-  {"lat":40.761077,"lon":-73.977771,"city":"","state":"NY","address":"40 W 53rd St.","name":""},
+  {"lat":40.761077,"lon":-73.977771,"city":"Fogo de Chão","state":"NY","address":"40 W 53rd St.","name":""},
   {"lat":41.03331,"lon":-73.76613,"city":"White Plains","state":"NY","address":"235 Main St.","name":""},
   {"lat":45.517121,"lon":-122.679346,"city":"Portland","state":"OR","address":"930 SW 6th Ave","name":""},
   {"lat":40.083506,"lon":-75.404332,"city":"King of Prussia","state":"PA","address":"155 Main Street Building L","name":""},
@@ -41,4 +41,4 @@
   {"lat":30.170998,"lon":-95.471411,"city":"The Woodlands","state":"TX","address":"1900 Hughes Landing Blvd. Suite 400","name":""},
   {"lat":38.923841,"lon":-77.221587,"city":"Tysons","state":"VA","address":"1775 Tysons Boulevard Suite 50","name":""},
   {"lat":47.614534,"lon":-122.201274,"city":"Bellevue","state":"WA","address":"440 Bellevue Way NE","name":""},
-  {"lat":38.895508,"lon":-77.027562,"city":"","state":"DC","address":"1101 Pennsylvania Ave NW","name":""}]}
+  {"lat":38.895508,"lon":-77.027562,"city":"Fogo de Chão","state":"DC","address":"1101 Pennsylvania Ave NW","name":""}]}

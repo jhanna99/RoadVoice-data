@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:34:22.459Z",
+  "generated": "2026-01-12T13:59:50.144Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -793,8 +793,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 1174,
-      "fileSize": 120917,
-      "checksum": "c7c38c4b2a91bdf34b6cc1266244cf69"
+      "fileSize": 135962,
+      "checksum": "510a049d429a643a2286c385da9680c1"
     },
     "four_points": {
       "displayName": "Four Points",
@@ -2128,8 +2128,8 @@
   "lastUpdated": "2026-01-11",
   "zip": {
     "filename": "brands.zip",
-    "checksum": "86660822a58a68b27d1542a7ba68f4d5",
-    "size": 11316174,
-    "generated": "2026-01-12T07:04:31.819Z"
+    "checksum": "af8c8c55a8c2a11cfe0a1e4fa6bd300d",
+    "size": 11322579,
+    "generated": "2026-01-12T14:00:02.218Z"
   }
 }

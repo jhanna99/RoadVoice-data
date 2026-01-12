@@ -32,6 +32,37 @@ const [brandKey, spiderName, displayName, category, filterBrand] = args;
 const DATA_DIR = path.join(__dirname, '..', 'brands');
 const ZIP_FILE = '/Users/johnhanna/Documents/RoadVoice/data/output.zip';
 const MANIFEST_FILE = path.join(__dirname, '..', 'manifest.json');
+const ZIPCODE_FILE = path.join(__dirname, 'us-zipcodes.csv');
+
+// Load ZIP code to city mapping
+const zipcodeToCity = new Map();
+try {
+  const zipData = fs.readFileSync(ZIPCODE_FILE, 'utf-8');
+  const lines = zipData.split('\n').slice(1); // Skip header
+  for (const line of lines) {
+    const parts = line.split(',');
+    if (parts.length >= 6) {
+      const zipcode = parts[3];
+      const city = parts[5];
+      if (zipcode && city && !city.startsWith('Zcta')) {
+        zipcodeToCity.set(zipcode, city);
+      }
+    }
+  }
+  console.log(`Loaded ${zipcodeToCity.size} ZIP code mappings`);
+} catch (err) {
+  console.warn('Warning: Could not load ZIP code database:', err.message);
+}
+
+/**
+ * Look up city from postal code
+ */
+function getCityFromPostcode(postcode) {
+  if (!postcode) return '';
+  // Normalize to 5-digit ZIP
+  const zip5 = postcode.toString().replace(/[^0-9]/g, '').substring(0, 5);
+  return zipcodeToCity.get(zip5) || '';
+}
 
 /**
  * Extract property from ATP GeoJSON feature, trying multiple name variations
@@ -519,20 +550,52 @@ function normalizeCity(city, state) {
 }
 
 /**
- * Extract city from Hannaford-style name field
- * Format: "Brand - Location Address - City"
+ * Extract city from name field
+ * Handles multiple formats:
+ * - "Brand - Location Address - City" (Hannaford style)
+ * - "Brand Store of City" (Food Lion style)
+ * - "Brand in City" (various)
+ * - "Brand City" (simple)
  */
-function extractCityFromName(name) {
+function extractCityFromName(name, brandDisplayName) {
   if (!name) return '';
+
+  // Pattern 1: "Brand - Location - City" (Hannaford style)
   const parts = name.split(' - ');
   if (parts.length >= 2) {
-    // City is the last part
     const city = parts[parts.length - 1].trim();
-    // Make sure it's not an address (shouldn't start with number)
     if (city && !city.match(/^\d/)) {
       return city;
     }
   }
+
+  // Pattern 2: "Brand Store of City" or "Brand Grocery Store of City" (Food Lion style)
+  const ofMatch = name.match(/(?:Store|Grocery|Market|Shop)\s+of\s+([A-Za-z\s]+)$/i);
+  if (ofMatch) {
+    return ofMatch[1].trim();
+  }
+
+  // Pattern 3: "Brand in City" or "Brand at City"
+  const inMatch = name.match(/\s+(?:in|at)\s+([A-Za-z\s]+)$/i);
+  if (inMatch) {
+    return inMatch[1].trim();
+  }
+
+  // Pattern 4: "Brand #123 City" or "Brand City #123" - extract city after brand name
+  if (brandDisplayName) {
+    // Remove brand name prefix
+    let remainder = name.replace(new RegExp(`^${brandDisplayName}\\s*`, 'i'), '').trim();
+    // Remove store numbers like "#123" or "Store 123"
+    remainder = remainder.replace(/#?\d+\s*/g, '').trim();
+    // Remove common suffixes
+    remainder = remainder.replace(/\s*(Store|Grocery|Market|Shop|Location)$/i, '').trim();
+    // If we have something left that looks like a city name
+    if (remainder && remainder.length >= 3 && !remainder.match(/^\d/) &&
+        !remainder.match(/^(blvd|st|ave|rd|dr|ln|ct|way|pk|pkwy|hwy)/i)) {
+      return remainder;
+    }
+  }
+
   return '';
 }
 
@@ -587,9 +650,9 @@ try {
         city = extractCityFromFull(props['addr:full']);
       }
 
-      // Fallback 2: extract city from name field (Hannaford style: "Brand - Location - City")
+      // Fallback 2: extract city from name field (multiple patterns)
       if (!city) {
-        city = extractCityFromName(props['name']);
+        city = extractCityFromName(props['name'], displayName);
       }
 
       // Fallback 3: try to find city name embedded in addr:full (for malformed addresses)
@@ -609,6 +672,12 @@ try {
             }
           }
         }
+      }
+
+      // Fallback 4: look up city from postal code
+      if (!city) {
+        const postcode = getProperty(props, 'addr:postcode', 'postcode');
+        city = getCityFromPostcode(postcode);
       }
 
       // Clean and normalize the city name

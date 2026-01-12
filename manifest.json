@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:03:24.059Z",
+  "generated": "2026-01-12T06:06:21.485Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -9,8 +9,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 9545,
-      "fileSize": 1052872,
-      "checksum": "dd661f65b48a3dff550fc5e87cff83a0"
+      "fileSize": 1052899,
+      "checksum": "d3d628030f7d27bf6aa6837b96d3ba80"
     },
     "ac_hotel": {
       "displayName": "AC Hotel",
@@ -25,8 +25,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 199,
-      "fileSize": 22629,
-      "checksum": "c9a21183c3468c3ef2ccca1dbc2d4058"
+      "fileSize": 22651,
+      "checksum": "21b92a5f97e35a8c24fb40fd9dae578a"
     },
     "aldi": {
       "displayName": "Aldi",
@@ -49,8 +49,8 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 15762,
-      "fileSize": 1928498,
-      "checksum": "7442f70f6f420dd1e928d6fb991845b2"
+      "fileSize": 1928499,
+      "checksum": "e9c05d4c3c15e2d4178485036292f086"
     },
     "amc_theatres": {
       "displayName": "AMC Theatres",
@@ -105,8 +105,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 3284,
-      "fileSize": 364019,
-      "checksum": "65d82d802edc98df1aef683b120ca7a9"
+      "fileSize": 364024,
+      "checksum": "7b0da2bcf55728bcfc594119e3fa9971"
     },
     "au_bon_pain": {
       "displayName": "Au Bon Pain",
@@ -169,8 +169,8 @@
       "category": "ice_cream",
       "useLocationName": false,
       "locationCount": 197,
-      "fileSize": 23394,
-      "checksum": "da6fcabf07ff38a785709ad877692d80"
+      "fileSize": 23412,
+      "checksum": "3eab89a380e3fae97e2529a3960fb47c"
     },
     "benihana": {
       "displayName": "Benihana",
@@ -201,8 +201,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 2042,
-      "fileSize": 230024,
-      "checksum": "a0930a47c57786f349e52356c3c21f6a"
+      "fileSize": 230048,
+      "checksum": "297b59cf078855079cd2bbf321ed891e"
     },
     "best_western_plus": {
       "displayName": "Best Western Plus",
@@ -225,8 +225,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 277,
-      "fileSize": 30438,
-      "checksum": "866af77b6650fbe8bf204f40b4ceada7"
+      "fileSize": 30499,
+      "checksum": "763db609eadb65b8458dfc92d939fcaa"
     },
     "blue_bottle": {
       "displayName": "Blue Bottle Coffee",
@@ -241,16 +241,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 417,
-      "fileSize": 45436,
-      "checksum": "4307211a34c041f605d7dc97f95e9c0c"
+      "fileSize": 45432,
+      "checksum": "788fce2e3a5a51880205ee28a8548901"
     },
     "bojangles": {
       "displayName": "Bojangles",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 865,
-      "fileSize": 96878,
-      "checksum": "50b58cb2775dd2bb97aa64f442833c7c"
+      "fileSize": 96879,
+      "checksum": "91692d3831cf0195f3f0890bdda3d3b4"
     },
     "bonefish_grill": {
       "displayName": "Bonefish Grill",

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:10:11.393Z",
+  "generated": "2026-01-12T06:11:57.607Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -865,8 +865,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 543,
-      "fileSize": 59689,
-      "checksum": "fc075f5d7c9328ad347f74df0ce35d16"
+      "fileSize": 59735,
+      "checksum": "09c1d0a4d947e59cc977b1f5c1a72e03"
     },
     "guitar_center": {
       "displayName": "Guitar Center",
@@ -1416,9 +1416,9 @@
       "displayName": "Pilot",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 677,
-      "fileSize": 70589,
-      "checksum": "4838e724f582cf370a719b2660734a98"
+      "locationCount": 412,
+      "fileSize": 43001,
+      "checksum": "566c040a281698059b6a7ef7fa5e6573"
     },
     "pizza_hut": {
       "displayName": "Pizza Hut",
@@ -1625,8 +1625,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 313,
-      "fileSize": 35130,
-      "checksum": "0f97a37e86ca4546b6b03b311082d526"
+      "fileSize": 35173,
+      "checksum": "6a683e4770160cb2f4df883e7ac05a0e"
     },
     "sleep_inn": {
       "displayName": "Sleep Inn",
@@ -1657,8 +1657,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 797,
-      "fileSize": 87667,
-      "checksum": "b7bfdebc58079189e7377357bdf4646a"
+      "fileSize": 87724,
+      "checksum": "98d884e423179ef86a0f948a66ce7914"
     },
     "sonic": {
       "displayName": "Sonic",
@@ -1921,8 +1921,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 358,
-      "fileSize": 46739,
-      "checksum": "401fffb04033b1d4b4c33cfcfbcf94a0"
+      "fileSize": 46800,
+      "checksum": "96eaa7998eaa87142d64e87234fea084"
     },
     "woodspring_suites": {
       "displayName": "WoodSpring Suites",
@@ -2089,8 +2089,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 502,
-      "fileSize": 56566,
-      "checksum": "8f1651d7c6d4f0622b0f9b50d5cd2f77"
+      "fileSize": 56603,
+      "checksum": "c11bacd4f75ff4977e7bc067ec55ca70"
     },
     "publix": {
       "displayName": "Publix",

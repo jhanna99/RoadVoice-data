@@ -1,4 +1,4 @@
-{"key":"yogurtland","displayName":"Yogurtland","category":"sweets","useLocationName":false,"locations":[
+{"key":"yogurtland","displayName":"Yogurtland","category":"ice_cream","useLocationName":false,"locations":[
   {"lat":36.270252,"lon":-115.205139,"city":"Las Vegas","state":"NV","address":"6050 N. Decatur","name":""},
   {"lat":36.02536,"lon":-115.119194,"city":"Las Vegas","state":"NV","address":"9055 S Eastern Ave","name":""},
   {"lat":36.060169,"lon":-115.241783,"city":"Las Vegas","state":"NV","address":"7060 S Rainbow Blvd., #110","name":""},
@@ -116,6 +116,7 @@
   {"lat":33.653137,"lon":-117.644501,"city":"Mission Viejo","state":"CA","address":"27855-B Santa Margarita Pkwy","name":""},
   {"lat":34.151134,"lon":-118.000877,"city":"Monrovia","state":"CA","address":"104 S Myrtle Ave","name":""},
   {"lat":32.752132,"lon":-97.353378,"city":"Fort Worth","state":"TX","address":"2600 W 7th St","name":""},
+  {"lat":13.492111,"lon":144.781937,"city":"Tamuning","state":"","address":"267 Chalan San Antonio","name":""},
   {"lat":37.09024,"lon":-95.712891,"city":"Tamuning","state":"GU","address":"267 Chalan San Antonio","name":""},
   {"lat":33.939037,"lon":-117.26178,"city":"Moreno Valley","state":"CA","address":"12515 Frederick St","name":""},
   {"lat":34.077396,"lon":-117.204414,"city":"Redlands","state":"CA","address":"27511 San Bernardino Ave","name":""},
@@ -208,5 +209,4 @@
   {"lat":36.147457,"lon":-115.065353,"city":"Las Vegas","state":"NV","address":"2272 S. Nellis Blvd. #4","name":""},
   {"lat":33.678402,"lon":-117.799919,"city":"Irvine","state":"CA","address":"4616 Barranca Parkway","name":""},
   {"lat":33.888359,"lon":-117.828499,"city":"Yorba Linda","state":"CA","address":"17486 Yorba Linda Blvd","name":""},
-  {"lat":34.034012,"lon":-117.074509,"city":"Yucaipa","state":"CA","address":"33694 Yucaipa Blvd. #2","name":""}
-]}
+  {"lat":34.034012,"lon":-117.074509,"city":"Yucaipa","state":"CA","address":"33694 Yucaipa Blvd. #2","name":""}]}

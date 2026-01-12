@@ -41,7 +41,7 @@
   {"lat":34.043882,"lon":-84.293357,"city":"Alpharetta","state":"GA","address":"6500 North Point Pkwy","name":""},
   {"lat":29.950266,"lon":-90.07624,"city":"New Orleans","state":"LA","address":"1200 Poydras St, Unit 601","name":""},
   {"lat":32.18256,"lon":-110.951457,"city":"Tucson","state":"AZ","address":"1390 E. Tucson Marketplace Blvd.","name":""},
-  {"lat":26.195541,"lon":-98.253517,"city":"Mcallen","state":"TX","address":"2700 West Expressway 83, Suite 100","name":""},
+  {"lat":26.195541,"lon":-98.253517,"city":"McAllen","state":"TX","address":"2700 West Expressway 83, Suite 100","name":""},
   {"lat":35.080615,"lon":-80.877568,"city":"Pineville","state":"NC","address":"11049 Carolina Place Pkwy., Suite LS-05","name":""},
   {"lat":36.305227,"lon":-94.174302,"city":"Rogers","state":"AR","address":"2203 Promenade Blvd., Suite 6000","name":""},
   {"lat":27.935946,"lon":-82.334144,"city":"Tampa","state":"FL","address":"10209 Estuary Lakes Drive","name":""},
@@ -130,9 +130,7 @@
   {"lat":37.671211,"lon":-122.471632,"city":"Daly City","state":"CA","address":"130 Serramonte Center","name":""},
   {"lat":61.143371,"lon":-149.868513,"city":"Anchorage","state":"AK","address":"800 East Dimond Blvd., Suite 240","name":""},
   {"lat":21.294364,"lon":-157.853986,"city":"Honolulu","state":"HI","address":"1030 Auahi St.","name":""},
-  {"lat":40.756536,"lon":-73.988634,"city":"New York","state":"NY","address":"234 West 42nd Street, 3rd Floor","name":""},
-  {"lat":43.788801,"lon":-79.53524,"city":"Vaughan","state":"ON","address":"120 Interchange Way","name":""},
-  {"lat":43.508661,"lon":-79.667907,"city":"Oakville","state":"ON","address":"2021 Winston Park Drive, Unit E","name":""},
+  {"lat":40.756536,"lon":-73.988634,"city":"New York City","state":"NY","address":"234 West 42nd Street, 3rd Floor","name":""},
   {"lat":40.766285,"lon":-111.904203,"city":"Salt Lake City","state":"UT","address":"140 South Rio Grande Street","name":""},
   {"lat":39.78517,"lon":-75.049997,"city":"Blackwood","state":"NJ","address":"200 Premium Outlets Dr","name":""},
   {"lat":44.484584,"lon":-88.067701,"city":"Green Bay","state":"WI","address":"202 Bay Park Square","name":""},
@@ -150,7 +148,7 @@
   {"lat":35.337348,"lon":-119.037949,"city":"Bakersfield","state":"CA","address":"1914 Wible Rd","name":""},
   {"lat":33.569741,"lon":-101.94525,"city":"Lubbock","state":"TX","address":"2620 W. Loop 289","name":""},
   {"lat":33.257642,"lon":-111.63928,"city":"Queen Creek","state":"AZ","address":"21000 S Ellsworth Loop Rd","name":""},
-  {"lat":41.570725,"lon":-93.809779,"city":"West Des Moines","state":"IA","address":"190 Jordan Creek Parkway West","name":""},
+  {"lat":41.570725,"lon":-93.809779,"city":"W Des Moines","state":"IA","address":"190 Jordan Creek Parkway West","name":""},
   {"lat":33.741472,"lon":-116.409776,"city":"Rancho Mirage","state":"CA","address":"71800 Highway 111, Suite A-167","name":""},
   {"lat":38.96524,"lon":-104.788628,"city":"Colorado Springs","state":"CO","address":"9279 Highland Ridge Heights","name":""},
   {"lat":32.134642,"lon":-81.243228,"city":"Pooler","state":"GA","address":"200 Tanger Outlet Blvd, Suite 790","name":""},
@@ -175,5 +173,4 @@
   {"lat":34.241813,"lon":-77.832216,"city":"Wilmington","state":"NC","address":"953 Town Center Drive, Suite #D150","name":""},
   {"lat":31.078485,"lon":-97.688869,"city":"Killeen","state":"TX","address":"5500 Martin Luther King Jr Boulevard","name":""},
   {"lat":39.405039,"lon":-119.748513,"city":"Reno","state":"NV","address":"13969 South Virginia Street","name":""},
-  {"lat":47.677012,"lon":-117.213978,"city":"Spokane","state":"WA","address":"13921 East Mansfield Avenue","name":""}
-]}
+  {"lat":47.677012,"lon":-117.213978,"city":"Spokane","state":"WA","address":"13921 East Mansfield Avenue","name":""}]}

@@ -29,7 +29,7 @@
   {"lat":40.889992,"lon":-74.260523,"city":"Wayne","state":"NJ","address":"360 Willowbrook Mall","name":""},
   {"lat":43.592378,"lon":-116.368955,"city":"Meridian","state":"ID","address":"2140 E Cinema Dr","name":""},
   {"lat":46.056575,"lon":-118.354627,"city":"Walla Walla","state":"WA","address":"1325 W Poplar St","name":""},
-  {"lat":33.215499,"lon":-96.66311,"city":"Mckinney","state":"TX","address":"1701 N Hardin Blvd","name":""},
+  {"lat":33.215499,"lon":-96.66311,"city":"McKinney","state":"TX","address":"1701 N Hardin Blvd","name":""},
   {"lat":40.647325,"lon":-74.408106,"city":"Watchung","state":"NJ","address":"1670 US Route 22 East","name":""},
   {"lat":33.217044,"lon":-96.824459,"city":"Frisco","state":"TX","address":"6969 US Hwy 380","name":""},
   {"lat":37.650561,"lon":-122.103755,"city":"Hayward","state":"CA","address":"256 Southland Mall Dr","name":""},
@@ -299,15 +299,14 @@
   {"lat":34.033677,"lon":-117.684217,"city":"Chino","state":"CA","address":"5546 Philadelphia St","name":""},
   {"lat":34.31756,"lon":-88.67842,"city":"Tupelo","state":"MS","address":"1001 Barnes Crossing Rd","name":""},
   {"lat":41.080692,"lon":-111.97938,"city":"Layton","state":"UT","address":"720 W Ring Rd","name":""},
-  {"lat":26.18904,"lon":-98.239217,"city":"Mcallen","state":"TX","address":"1800 S 16th St","name":""},
+  {"lat":26.18904,"lon":-98.239217,"city":"McAllen","state":"TX","address":"1800 S 16th St","name":""},
   {"lat":32.207817,"lon":-98.229538,"city":"Stephenville","state":"TX","address":"2900 W Washington St","name":""},
   {"lat":32.339072,"lon":-97.411664,"city":"Cleburne","state":"TX","address":"1643 W Henderson St","name":""},
-  {"lat":26.23982,"lon":-98.216291,"city":"Mcallen","state":"TX","address":"100 W Nolana Ave","name":""},
+  {"lat":26.23982,"lon":-98.216291,"city":"McAllen","state":"TX","address":"100 W Nolana Ave","name":""},
   {"lat":32.250753,"lon":-101.4358,"city":"Big Spring","state":"TX","address":"1801 East FM 700","name":""},
   {"lat":33.542065,"lon":-101.936448,"city":"Lubbock","state":"TX","address":"5721 58th St","name":""},
   {"lat":32.673916,"lon":-97.012517,"city":"Grand Prairie","state":"TX","address":"220 W Westchester Pkwy","name":""},
   {"lat":40.722449,"lon":-111.858664,"city":"Salt Lake City","state":"UT","address":"2227 S Highland Dr","name":""},
   {"lat":44.170508,"lon":-93.952142,"city":"Mankato","state":"MN","address":"1850 Adams St","name":""},
   {"lat":32.8681,"lon":-96.665445,"city":"Garland","state":"TX","address":"4040 South Shiloh Road","name":""},
-  {"lat":39.715829,"lon":-75.630595,"city":"Wilmington","state":"DE","address":"1796 W Newport Pike","name":""}
-]}
+  {"lat":39.715829,"lon":-75.630595,"city":"Wilmington","state":"DE","address":"1796 W Newport Pike","name":""}]}

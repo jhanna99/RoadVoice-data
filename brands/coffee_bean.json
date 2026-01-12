@@ -122,7 +122,7 @@
   {"lat":33.679432,"lon":-117.86152,"city":"Santa Ana","state":"CA","address":"18601 Airport Way, Terminal B Baggage Claim","name":""},
   {"lat":33.278845,"lon":-115.965637,"city":"Thermal","state":"CA","address":"2084 South Marina Dr","name":""},
   {"lat":45.40679,"lon":-122.676503,"city":"Lake Oswego","state":"OR","address":"1175 McVey Ave","name":""},
-  {"lat":42.179363,"lon":-73.214119,"city":"Test","state":"AL","address":"test","name":""},
+  {"lat":42.179363,"lon":-73.214119,"city":"test","state":"AL","address":"test","name":""},
   {"lat":35.313334,"lon":-119.128545,"city":"Bakersfield","state":"CA","address":"4615 Buena Vista Rd.","name":""},
   {"lat":33.570892,"lon":-111.88757,"city":"Scottsdale","state":"AZ","address":"9380 N 90th","name":""},
   {"lat":33.509009,"lon":-112.035644,"city":"Phoenix","state":"AZ","address":"2131 E Camelback Rd Suite 100","name":""},
@@ -180,5 +180,4 @@
   {"lat":36.068142,"lon":-115.177737,"city":"Las Vegas","state":"NV","address":"6599 Las Vegas Blvd. South, Bldg. P, Suite 8149","name":""},
   {"lat":36.143799,"lon":-115.294895,"city":"Las Vegas","state":"NV","address":"9091 W. Sahara Avenue","name":""},
   {"lat":36.122079,"lon":-115.169621,"city":"Las Vegas","state":"NV","address":"3355 S Las Vegas Blvd","name":""},
-  {"lat":36.114174,"lon":-115.308608,"city":"Las Vegas","state":"NV","address":"4165 Grand Canyon Drive, Suite 106","name":""}
-]}
+  {"lat":36.114174,"lon":-115.308608,"city":"Las Vegas","state":"NV","address":"4165 Grand Canyon Drive, Suite 106","name":""}]}

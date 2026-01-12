@@ -342,7 +342,7 @@
   {"lat":33.87343,"lon":-118.37373,"city":"Redondo Beach","state":"CA","address":"2115 Artesia Blvd","name":""},
   {"lat":33.72031,"lon":-117.98753,"city":"Huntington Beach","state":"CA","address":"16672 Beach Blvd, Suite I","name":""},
   {"lat":32.54966,"lon":-117.03685,"city":"San Ysidro","state":"CA","address":"444 E San Ysidro Blvd","name":""},
-  {"lat":40.93404,"lon":-124.10034,"city":"Mckinleyville","state":"CA","address":"1581 Central Ave","name":""},
+  {"lat":40.93404,"lon":-124.10034,"city":"McKinleyville","state":"CA","address":"1581 Central Ave","name":""},
   {"lat":34.28087,"lon":-118.88919,"city":"Moorpark","state":"CA","address":"425 W Los Angeles Ave","name":""},
   {"lat":33.68843,"lon":-117.95392,"city":"Fountain Valley","state":"CA","address":"18920 Brookhurst St","name":""},
   {"lat":33.89484,"lon":-117.87229,"city":"Placentia","state":"CA","address":"1820 N Placentia Ave, Suite B","name":""},
@@ -459,7 +459,7 @@
   {"lat":47.20585,"lon":-122.48298,"city":"Tacoma","state":"WA","address":"3510 S 56th St","name":""},
   {"lat":36.91678,"lon":-121.76817,"city":"Watsonville","state":"CA","address":"1000 Main St","name":""},
   {"lat":47.50009,"lon":-122.18047,"city":"Renton","state":"WA","address":"2809 NE Sunset Blvd","name":""},
-  {"lat":45.22362,"lon":-123.19378,"city":"Mcminnville","state":"OR","address":"568 NE Highway 99W","name":""},
+  {"lat":45.22362,"lon":-123.19378,"city":"McMinnville","state":"OR","address":"568 NE Highway 99W","name":""},
   {"lat":38.68135,"lon":-121.32607,"city":"Citrus Heights","state":"CA","address":"6059 Greenback Ln","name":""},
   {"lat":37.99036,"lon":-122.30818,"city":"Pinole","state":"CA","address":"1460 Fitzgerald Dr","name":""},
   {"lat":47.69315,"lon":-122.37653,"city":"Seattle","state":"WA","address":"8700 15th Ave NW","name":""},
@@ -536,10 +536,9 @@
   {"lat":46.38664,"lon":-116.98464,"city":"Lewiston","state":"ID","address":"117 Thain Rd","name":""},
   {"lat":45.53603,"lon":-122.61742,"city":"Portland","state":"OR","address":"4420 NE Hancock St","name":""},
   {"lat":46.14633,"lon":-122.92827,"city":"Longview","state":"WA","address":"920 Ocean Beach Hwy","name":""},
-  {"lat":47.70585,"lon":-116.79372,"city":"Coeur d'Alene","state":"ID","address":"410 W Neider Ave","name":""},
+  {"lat":47.70585,"lon":-116.79372,"city":"Coeur D Alene","state":"ID","address":"410 W Neider Ave","name":""},
   {"lat":42.31311,"lon":-122.85916,"city":"Medford","state":"OR","address":"35 E Stewart Ave","name":""},
   {"lat":37.67092,"lon":-121.03127,"city":"Modesto","state":"CA","address":"1800 Prescott Rd, Suite 8","name":""},
   {"lat":44.79733,"lon":-122.81501,"city":"Stayton","state":"OR","address":"1815 W Ida St","name":""},
   {"lat":44.04502,"lon":-123.0056,"city":"Springfield","state":"OR","address":"160 S 14th St","name":""},
-  {"lat":37.48626,"lon":-122.22505,"city":"Redwood City","state":"CA","address":"1833 Broadway St","name":""}
-]}
+  {"lat":37.48626,"lon":-122.22505,"city":"Redwood City","state":"CA","address":"1833 Broadway St","name":""}]}

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T14:12:00.016Z",
+  "generated": "2026-01-12T14:13:35.680Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -2128,8 +2128,8 @@
   "lastUpdated": "2026-01-11",
   "zip": {
     "filename": "brands.zip",
-    "checksum": "0306a25b5cffd258a6196dfb955d415c",
+    "checksum": "4226633666bac5176cae8a7f40b5de0b",
     "size": 11327206,
-    "generated": "2026-01-12T14:12:10.935Z"
+    "generated": "2026-01-12T14:18:29.702Z"
   }
 }

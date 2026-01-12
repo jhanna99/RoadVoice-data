@@ -98,31 +98,39 @@ function extractCityFromFull(addrFull) {
 }
 
 // Common US county names that appear in "City County" format
+// Include compound names like "Salt Lake", "New York" that may appear
 const COUNTY_NAMES = [
-  'Miami-Dade', 'Broward', 'Palm Beach', 'Harris', 'Bexar', 'Dallas', 'Tarrant',
-  'Travis', 'El Paso', 'Maricopa', 'Pima', 'Clark', 'Washoe', 'King', 'Pierce',
-  'Snohomish', 'Multnomah', 'Clackamas', 'Sacramento', 'San Diego', 'Orange',
-  'Los Angeles', 'Riverside', 'San Bernardino', 'Alameda', 'Santa Clara',
-  'Contra Costa', 'San Francisco', 'San Mateo', 'Fresno', 'Kern', 'Ventura',
-  'Cook', 'DuPage', 'Lake', 'Will', 'Kane', 'Wayne', 'Oakland', 'Macomb',
-  'Cuyahoga', 'Franklin', 'Hamilton', 'Montgomery', 'Summit', 'Lucas',
-  'Allegheny', 'Philadelphia', 'Delaware', 'Bucks', 'Chester', 'Lancaster',
-  'Suffolk', 'Nassau', 'Westchester', 'Erie', 'Monroe', 'Onondaga',
-  'Middlesex', 'Essex', 'Bergen', 'Hudson', 'Union', 'Passaic', 'Morris',
-  'Monmouth', 'Ocean', 'Camden', 'Burlington', 'Gloucester', 'Mercer',
-  'Fairfax', 'Prince William', 'Loudoun', 'Arlington', 'Henrico', 'Chesterfield',
-  'Hillsborough', 'Pinellas', 'Duval', 'Orange', 'Seminole', 'Volusia', 'Lee',
-  'Polk', 'Brevard', 'Pasco', 'Sarasota', 'Manatee', 'Collier', 'Marion',
-  'Fulton', 'DeKalb', 'Gwinnett', 'Cobb', 'Clayton', 'Cherokee', 'Forsyth',
-  'Henry', 'Douglas', 'Rockdale', 'Newton', 'Paulding', 'Fayette', 'Carroll',
-  'Mecklenburg', 'Wake', 'Guilford', 'Forsyth', 'Cumberland', 'Durham', 'Buncombe',
-  'Gaston', 'Cabarrus', 'Union', 'Iredell', 'Catawba', 'Rowan', 'Davidson',
+  // Compound county names (check these first - order matters)
+  'Salt Lake', 'New York', 'New Haven', 'Fond du Lac', 'Eau Claire',
+  'District of Columbia', 'Prince George', 'Anne Arundel', 'Prince William',
+  'St. Louis', 'St. Clair', 'Palm Beach', 'Miami-Dade', 'Los Angeles',
+  'San Diego', 'San Francisco', 'San Bernardino', 'San Mateo', 'Santa Clara',
+  'Contra Costa', 'El Paso',
+  // Single-word county names
+  'Broward', 'Harris', 'Bexar', 'Dallas', 'Tarrant', 'Travis', 'Maricopa',
+  'Pima', 'Clark', 'Washoe', 'King', 'Pierce', 'Snohomish', 'Multnomah',
+  'Clackamas', 'Sacramento', 'Orange', 'Riverside', 'Alameda', 'Fresno',
+  'Kern', 'Ventura', 'Cook', 'DuPage', 'Lake', 'Will', 'Kane', 'Wayne',
+  'Oakland', 'Macomb', 'Cuyahoga', 'Franklin', 'Hamilton', 'Montgomery',
+  'Summit', 'Lucas', 'Allegheny', 'Philadelphia', 'Delaware', 'Bucks',
+  'Chester', 'Lancaster', 'Suffolk', 'Nassau', 'Westchester', 'Erie',
+  'Monroe', 'Onondaga', 'Queens', 'Middlesex', 'Essex', 'Bergen', 'Hudson',
+  'Union', 'Passaic', 'Morris', 'Monmouth', 'Ocean', 'Camden', 'Burlington',
+  'Gloucester', 'Mercer', 'Fairfax', 'Loudoun', 'Arlington', 'Henrico',
+  'Chesterfield', 'Hillsborough', 'Pinellas', 'Duval', 'Seminole', 'Volusia',
+  'Lee', 'Polk', 'Brevard', 'Pasco', 'Sarasota', 'Manatee', 'Collier',
+  'Marion', 'Fulton', 'DeKalb', 'Gwinnett', 'Cobb', 'Clayton', 'Cherokee',
+  'Forsyth', 'Henry', 'Douglas', 'Rockdale', 'Newton', 'Paulding', 'Fayette',
+  'Carroll', 'Mecklenburg', 'Wake', 'Guilford', 'Cumberland', 'Durham',
+  'Buncombe', 'Gaston', 'Cabarrus', 'Iredell', 'Catawba', 'Rowan', 'Davidson',
   'Greenville', 'Richland', 'Charleston', 'Horry', 'Spartanburg', 'Lexington',
-  'York', 'Berkeley', 'Dorchester', 'Anderson', 'Aiken', 'Beaufort',
-  'Shelby', 'Davidson', 'Knox', 'Hamilton', 'Rutherford', 'Williamson', 'Sumner',
-  'Wilson', 'Montgomery', 'Blount', 'Sullivan', 'Washington', 'Sevier',
-  'Jefferson', 'Madison', 'Mobile', 'Baldwin', 'Tuscaloosa', 'Montgomery', 'Lee',
-  'Shelby', 'Morgan', 'Etowah', 'Calhoun', 'Houston', 'St. Clair', 'Limestone'
+  'York', 'Berkeley', 'Dorchester', 'Anderson', 'Aiken', 'Beaufort', 'Shelby',
+  'Knox', 'Rutherford', 'Williamson', 'Sumner', 'Wilson', 'Blount', 'Sullivan',
+  'Washington', 'Sevier', 'Jefferson', 'Madison', 'Mobile', 'Baldwin',
+  'Tuscaloosa', 'Morgan', 'Etowah', 'Calhoun', 'Houston', 'Limestone',
+  'Collin', 'Denton', 'Tulsa', 'Denver', 'Milwaukee', 'Spokane', 'Salt',
+  'Midland', 'Lubbock', 'Pueblo', 'Yuma', 'Florence', 'Hartford', 'Madera',
+  'Victoria', 'Kenosha', 'Waukesha', 'Yakima', 'Monterey'
 ];
 
 /**
@@ -131,11 +139,28 @@ const COUNTY_NAMES = [
 function cleanCity(city) {
   if (!city) return '';
 
+  // Handle "City City" pattern (e.g., "Denver Denver" -> "Denver")
+  const words = city.split(' ');
+  if (words.length >= 2) {
+    // Check if city name is repeated
+    const half = Math.floor(words.length / 2);
+    const firstHalf = words.slice(0, half).join(' ');
+    const secondHalf = words.slice(half).join(' ');
+    if (firstHalf.toLowerCase() === secondHalf.toLowerCase()) {
+      city = firstHalf;
+    }
+  }
+
   // Remove trailing county names (e.g., "Sunrise Broward" -> "Sunrise")
+  // Try compound names first, then single words
+  // Don't strip if it would leave a very short result (< 4 chars)
   for (const county of COUNTY_NAMES) {
     const regex = new RegExp(`\\s+${county}$`, 'i');
     if (regex.test(city)) {
-      city = city.replace(regex, '');
+      const stripped = city.replace(regex, '').trim();
+      if (stripped.length >= 4) {
+        city = stripped;
+      }
       break;
     }
   }
@@ -188,6 +213,9 @@ function normalizeCity(city, state) {
 
   // Saint -> St. normalization (cities DB uses "St.")
   city = city.replace(/\bSaint\s+/gi, 'St. ');
+
+  // "St " -> "St. " (add missing period)
+  city = city.replace(/\bSt\s+(?=[A-Z])/g, 'St. ');
 
   // Fond du Lac, King of Prussia, etc. (proper casing)
   city = city.replace(/\bDu\b/gi, 'du');

@@ -21,12 +21,13 @@ const crypto = require('crypto');
 // Parse command line args
 const args = process.argv.slice(2);
 if (args.length < 4) {
-  console.log('Usage: node scripts/extract-brand.js <brand_key> <spider_name> <display_name> <category>');
+  console.log('Usage: node scripts/extract-brand.js <brand_key> <spider_name> <display_name> <category> [filterBrand]');
   console.log('Example: node scripts/extract-brand.js wendys wendys_us "Wendys" restaurant');
+  console.log('Example with filter: node scripts/extract-brand.js mobil exxon_mobil "Mobil" gas_station Mobil');
   process.exit(1);
 }
 
-const [brandKey, spiderName, displayName, category] = args;
+const [brandKey, spiderName, displayName, category, filterBrand] = args;
 
 const DATA_DIR = path.join(__dirname, '..', 'brands');
 const ZIP_FILE = '/Users/johnhanna/Documents/RoadVoice/data/output.zip';
@@ -97,8 +98,98 @@ function extractCityFromFull(addrFull) {
   return '';
 }
 
+// Legitimate cities with repeated words (don't treat as duplicates)
+const REPEATED_WORD_CITIES = [
+  'Paw Paw', 'Walla Walla', 'Bora Bora', 'Ding Dong', 'Wagga Wagga',
+  'Baden Baden', 'Bala Bala', 'Sing Sing', 'Coeur d\'Alene'
+];
+
+// Cities ending with "Summit" (Summit is a county name)
+const SUMMIT_CITIES = [
+  'Lee\'s Summit', 'Lees Summit', 'Blue Summit', 'Park Summit', 'Oak Summit'
+];
+
+// Cities that should NEVER have their endings stripped (they end with county names)
+const PROTECTED_CITIES = [
+  // Cities ending with "Wayne"
+  'Fort Wayne', 'Lake Wayne', 'Port Wayne',
+  // Cities ending with "Palm Beach" or "Beach"
+  'West Palm Beach', 'North Palm Beach', 'Palm Beach', 'Long Beach', 'Virginia Beach',
+  'Myrtle Beach', 'Delray Beach', 'Pompano Beach', 'Deerfield Beach', 'Boynton Beach',
+  'Huntington Beach', 'Newport Beach', 'Laguna Beach', 'Hermosa Beach', 'Redondo Beach',
+  'Manhattan Beach', 'Seal Beach', 'Solana Beach', 'Imperial Beach', 'Pismo Beach',
+  // Cities ending with "Lake" (Lake is a county name in many states)
+  'Salt Lake', 'Lake', 'Crystal Lake', 'Spring Lake', 'Clear Lake', 'Round Lake',
+  'Silver Lake', 'Long Lake', 'Twin Lake', 'White Lake', 'Green Lake', 'Big Lake',
+  'Grass Lake', 'Bear Lake', 'Storm Lake', 'Spirit Lake', 'Indian Lake', 'Bass Lake',
+  'Eagle Lake', 'Elk Lake', 'Deer Lake', 'Fox Lake', 'Torch Lake', 'Gull Lake',
+  'Burt Lake', 'Higgins Lake', 'Houghton Lake', 'Portage Lake', 'Walled Lake',
+  'Orchard Lake', 'Commerce Lake', 'Union Lake', 'Williams Lake', 'Cadillac Lake',
+  'Balsam Lake', 'Rice Lake', 'Turtle Lake', 'Shell Lake', 'Cameron Lake',
+  'Cass Lake', 'Horn Lake', 'Devils Lake', 'Elbow Lake', 'Wonder Lake', 'Third Lake',
+  'Minnesota Lake', 'Ottawa Lake', 'Pleasant Lake', 'Hubbard Lake', 'Howard Lake',
+  'Canyon Lake', 'Manitou Lake', 'Diamond Lake', 'Moose Lake', 'Otter Lake',
+  'Tupper Lake', 'Saranac Lake', 'Sylvan Lake', 'Island Lake', 'Croton Lake',
+  'Swan Lake', 'Pell Lake', 'Lady Lake', 'Bonney Lake', 'Moses Lake', 'Prior Lake',
+  'Forest Lake', 'White Lake', 'Rice Lake', 'Spirit Lake', 'Clear Lake', 'Walled Lake',
+  'Canyon Lake', 'Devils Lake', 'Mohegan Lake', 'Carter Lake',
+  // Cities ending with "Marion", "Franklin", etc.
+  'Mount Marion', 'Lake Marion',
+  // Cities ending with "Washington", "Jefferson", "Madison", etc.
+  'Mount Washington', 'Port Washington', 'Lake Washington',
+  'Mount Jefferson', 'Port Jefferson', 'Lake Jefferson',
+  'Fort Madison', 'Lake Madison', 'Port Madison',
+  // Cities ending with "Jackson"
+  'Port Jackson', 'Lake Jackson', 'Fort Jackson',
+  // Cities ending with "Hamilton"
+  'Mount Hamilton', 'Lake Hamilton', 'Port Hamilton',
+  // Cities ending with "Montgomery"
+  'Mount Montgomery',
+  // Cities ending with "Houston"
+  'Lake Houston', 'Port Houston',
+  // Cities ending with "Charleston"
+  'North Charleston', 'West Charleston',
+  // Other protected compound city names
+  'Mount Pleasant', 'Mount Vernon', 'Mount Prospect', 'Mount Laurel', 'Mount Holly',
+  'Mount Morris', 'Mount Clemens', 'Mount Olive', 'Mount Airy', 'Mount Carmel',
+  'Mount Dora', 'Mount Juliet', 'Mount Kisco', 'Mount Lebanon', 'Mount Rainier',
+  'West Sacramento', 'South San Francisco', 'East Palo Alto', 'North Hollywood',
+  'Port St. Lucie', 'Port Orange', 'Port Arthur', 'Port Huron', 'Port Charlotte',
+  // Fort cities (many end with county names like Pierce, Lee, Knox, etc.)
+  'Fort Worth', 'Fort Lauderdale', 'Fort Myers', 'Fort Collins', 'Fort Smith',
+  'Fort Pierce', 'Fort Lee', 'Fort Knox', 'Fort Dodge', 'Fort Walton Beach',
+  'Fort Bragg', 'Fort Morgan', 'Fort Payne', 'Fort Valley', 'Fort Oglethorpe',
+  'Fort Atkinson', 'Fort Mill', 'Fort Scott', 'Fort Thomas', 'Fort Mitchell',
+  'Fort Meade', 'Fort White', 'Fort McCoy', 'North Fort Myers',
+  // West/East/North/South cities (many end with county names like Union, Chester, etc.)
+  'West Chester', 'East Orange', 'North Bergen', 'South Bend', 'Grand Rapids',
+  'West Orange', 'East Dallas', 'North Dallas', 'South Dallas',
+  'West Jefferson', 'East Jefferson', 'North Jefferson',
+  'West Union', 'East Union', 'North Union', 'South Union',
+  'West Salem', 'East Salem', 'North Salem', 'South Salem',
+  'West Monroe', 'East Monroe', 'North Monroe', 'South Monroe',
+  'West Columbia', 'East Columbia', 'North Columbia', 'South Columbia',
+  'West Haven', 'East Haven', 'North Haven', 'South Haven',
+  'West Point', 'East Point', 'North Point', 'South Point',
+  'West Liberty', 'East Liberty', 'North Liberty', 'South Liberty',
+  // Cities ending with county names (Douglas, Union, etc.)
+  'Camp Douglas', 'Fort Douglas', 'Castle Douglas',
+  'Fork Union', 'Port Union', 'Mount Union',
+  'Canyon Country', 'Canyon City',
+  // Major cities
+  'San Diego', 'San Francisco', 'San Jose', 'San Antonio', 'Los Angeles',
+  'Las Vegas', 'El Paso', 'St. Louis', 'St. Paul', 'St. Petersburg',
+  'New York', 'New Orleans', 'New Haven', 'New Bedford',
+  // Cities ending with county names
+  'Royal Oak', 'Royal Palm Beach', 'Lake Worth', 'Lake Charles', 'Lake City',
+  'Lake Placid', 'Lake Forest', 'Lake Oswego', 'Lake Geneva', 'Lake Havasu City',
+  'Cedar Rapids', 'Grand Prairie', 'Oak Park', 'Oak Lawn', 'Oak Ridge',
+  'Coral Springs', 'Palm Springs', 'Palm Coast', 'Palm Bay', 'Palm Harbor',
+  'Belle Vernon', 'Mount Vernon', 'East Cleveland', 'West Cleveland',
+  'South Charleston', 'North Charleston', 'East Chicago', 'West Chicago'
+];
+
 // Common US county names that appear in "City County" format
-// Include compound names like "Salt Lake", "New York" that may appear
 const COUNTY_NAMES = [
   // Compound county names (check these first - order matters)
   'Salt Lake', 'New York', 'New Haven', 'Fond du Lac', 'Eau Claire',
@@ -130,7 +221,7 @@ const COUNTY_NAMES = [
   'Tuscaloosa', 'Morgan', 'Etowah', 'Calhoun', 'Houston', 'Limestone',
   'Collin', 'Denton', 'Tulsa', 'Denver', 'Milwaukee', 'Spokane', 'Salt',
   'Midland', 'Lubbock', 'Pueblo', 'Yuma', 'Florence', 'Hartford', 'Madera',
-  'Victoria', 'Kenosha', 'Waukesha', 'Yakima', 'Monterey'
+  'Victoria', 'Kenosha', 'Waukesha', 'Yakima', 'Monterey', 'Jackson'
 ];
 
 /**
@@ -140,6 +231,7 @@ function cleanCity(city) {
   if (!city) return '';
 
   // Handle "City City" pattern (e.g., "Denver Denver" -> "Denver")
+  // But preserve legitimate repeated-word cities like "Paw Paw", "Walla Walla"
   const words = city.split(' ');
   if (words.length >= 2) {
     // Check if city name is repeated
@@ -147,21 +239,46 @@ function cleanCity(city) {
     const firstHalf = words.slice(0, half).join(' ');
     const secondHalf = words.slice(half).join(' ');
     if (firstHalf.toLowerCase() === secondHalf.toLowerCase()) {
-      city = firstHalf;
+      // Check if this is a legitimate repeated-word city
+      const isLegitimate = REPEATED_WORD_CITIES.some(
+        c => c.toLowerCase() === city.toLowerCase()
+      );
+      if (!isLegitimate) {
+        city = firstHalf;
+      }
     }
   }
 
-  // Remove trailing county names (e.g., "Sunrise Broward" -> "Sunrise")
-  // Try compound names first, then single words
-  // Don't strip if it would leave a very short result (< 4 chars)
-  for (const county of COUNTY_NAMES) {
-    const regex = new RegExp(`\\s+${county}$`, 'i');
-    if (regex.test(city)) {
-      const stripped = city.replace(regex, '').trim();
-      if (stripped.length >= 4) {
-        city = stripped;
+  // Remove trailing county names (e.g., "Houston Harris" -> "Houston")
+  // But protect legitimate city names like "Fort Wayne", "West Palm Beach"
+  const isProtected = PROTECTED_CITIES.some(
+    p => p.toLowerCase() === city.toLowerCase()
+  ) || SUMMIT_CITIES.some(
+    p => p.toLowerCase() === city.toLowerCase()
+  );
+
+  // Single words that should NEVER be left after stripping (they're prefixes, not cities)
+  const INVALID_SINGLE_WORDS = [
+    'mount', 'fort', 'port', 'west', 'east', 'north', 'south', 'lake', 'big',
+    'bear', 'deer', 'elk', 'fox', 'eagle', 'wolf', 'bass', 'grass', 'pine',
+    'oak', 'cedar', 'maple', 'spring', 'crystal', 'silver', 'golden', 'royal',
+    'grand', 'little', 'new', 'old', 'upper', 'lower', 'middle', 'center',
+    'saint', 'san', 'santa', 'las', 'los', 'el', 'la', 'del', 'de'
+  ];
+
+  if (!isProtected) {
+    // Try compound names first, then single words
+    for (const county of COUNTY_NAMES) {
+      const regex = new RegExp(`\\s+${county}$`, 'i');
+      if (regex.test(city)) {
+        const stripped = city.replace(regex, '').trim();
+        // Only strip if result is >= 4 chars AND not an invalid single word
+        const isInvalidSingle = INVALID_SINGLE_WORDS.includes(stripped.toLowerCase());
+        if (stripped.length >= 4 && !isInvalidSingle) {
+          city = stripped;
+        }
+        break;
       }
-      break;
     }
   }
 
@@ -243,7 +360,7 @@ function extractCityFromName(name) {
   return '';
 }
 
-console.log(`Extracting ${brandKey} from ${spiderName}...`);
+console.log(`Extracting ${brandKey} from ${spiderName}${filterBrand ? ` (filtering for brand: ${filterBrand})` : ''}...`);
 
 try {
   // Extract GeoJSON from zip
@@ -272,6 +389,11 @@ try {
   const locations = data.features
     .filter(f => f.properties && f.geometry && f.geometry.coordinates)
     .filter(f => {
+      // Filter by brand if specified (for shared spiders like exxon_mobil)
+      if (filterBrand) {
+        const brand = f.properties.brand || '';
+        if (brand !== filterBrand) return false;
+      }
       // Only US locations (or empty country which usually means US)
       const country = getProperty(f.properties, 'addr:country', 'country');
       return country === 'US' || country === '';

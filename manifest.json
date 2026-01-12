@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T02:57:49.078Z",
+  "generated": "2026-01-12T03:07:48.687Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -345,8 +345,8 @@
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 42,
-      "fileSize": 6328,
-      "checksum": "e30505782f545fea9cd2d6368f5c8176"
+      "fileSize": 6224,
+      "checksum": "0314fff3c1248fda96145caa8b1d1af6"
     },
     "california_pizza_kitchen": {
       "displayName": "California Pizza Kitchen",

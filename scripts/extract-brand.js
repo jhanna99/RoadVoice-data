@@ -42,30 +42,80 @@ function getProperty(props, ...keys) {
   return '';
 }
 
+// US state names for matching
+const STATE_NAMES = [
+  'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
+  'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho',
+  'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana',
+  'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota',
+  'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada',
+  'New Hampshire', 'New Jersey', 'New Mexico', 'New York',
+  'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon',
+  'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota',
+  'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington',
+  'West Virginia', 'Wisconsin', 'Wyoming', 'District of Columbia'
+];
+
 /**
  * Extract city from addr:full if separate city field is missing
  * Handles multiple formats:
  * - "123 Main St, City, ST 12345"
  * - "123 Main St, City, State, ST 12345"
+ * - "123 Main St, Location Detail, City, State, ST 12345"
  */
 function extractCityFromFull(addrFull) {
   if (!addrFull) return '';
   const parts = addrFull.split(',').map(p => p.trim());
-  if (parts.length >= 2) {
-    // Try second part first (most common: "street, city, state zip")
-    // Skip if it looks like a state name or has digits
-    const secondPart = parts[1];
-    if (secondPart && !secondPart.match(/^\d/) &&
-        !secondPart.match(/^(Massachusetts|Connecticut|Maine|New Hampshire|Vermont|Rhode Island|New York|Pennsylvania|New Jersey|Maryland|Virginia|North Carolina|South Carolina|Georgia|Florida|Alabama|Mississippi|Louisiana|Texas|Oklahoma|Arkansas|Missouri|Tennessee|Kentucky|Ohio|Indiana|Illinois|Michigan|Wisconsin|Minnesota|Iowa|Kansas|Nebraska|South Dakota|North Dakota|Montana|Wyoming|Colorado|New Mexico|Arizona|Utah|Nevada|Idaho|Washington|Oregon|California|Alaska|Hawaii|District of Columbia)$/i)) {
-      return secondPart;
-    }
-    // Fallback to second-to-last part
-    const cityPart = parts[parts.length - 2];
-    if (cityPart && !cityPart.match(/^\d/)) {
-      return cityPart;
+  if (parts.length < 2) return '';
+
+  // Find the index of a state name
+  let stateIndex = -1;
+  for (let i = 0; i < parts.length; i++) {
+    if (STATE_NAMES.some(s => s.toLowerCase() === parts[i].toLowerCase())) {
+      stateIndex = i;
+      break;
     }
   }
+
+  // If we found a state name, city is the part right before it
+  if (stateIndex > 1) {
+    const city = parts[stateIndex - 1];
+    // Validate it looks like a city (not a number, not a suite/space)
+    if (city && !city.match(/^\d/) && !city.match(/^(space|suite|unit|floor|room)/i)) {
+      return city;
+    }
+  }
+
+  // Fallback: try second part if it doesn't look like a location detail
+  const secondPart = parts[1];
+  if (secondPart && !secondPart.match(/^\d/) &&
+      !secondPart.match(/^(space|suite|unit|floor|room|mall)/i) &&
+      !STATE_NAMES.some(s => s.toLowerCase() === secondPart.toLowerCase())) {
+    return secondPart;
+  }
+
   return '';
+}
+
+/**
+ * Clean up city name - remove state suffixes, abbreviations, etc.
+ */
+function cleanCity(city) {
+  if (!city) return '';
+
+  // Remove trailing state abbreviations and zip codes (e.g., "Cambridge MA 02141" -> "Cambridge")
+  city = city.replace(/\s+[A-Z]{2}\s*\d{5}(-\d{4})?$/, '');
+
+  // Remove trailing state abbreviations (e.g., "Cambridge MA" -> "Cambridge")
+  city = city.replace(/\s+[A-Z]{2}$/, '');
+
+  // Remove common suffixes
+  city = city.replace(/\s+(Mass|USA|US)$/i, '');
+
+  // Remove leading/trailing spaces
+  city = city.trim();
+
+  return city;
 }
 
 /**
@@ -137,10 +187,29 @@ try {
         city = extractCityFromName(props['name']);
       }
 
+      // Fallback 3: try to find city name embedded in addr:full (for malformed addresses)
+      if (!city && props['addr:full']) {
+        // Look for pattern "City State" or "City, State" where State is the full state name
+        for (const stateName of STATE_NAMES) {
+          const regex = new RegExp(`([A-Za-z\\s]+?)\\s+${stateName}`, 'i');
+          const match = props['addr:full'].match(regex);
+          if (match) {
+            // Extract the last word before the state name as the city
+            const words = match[1].trim().split(/\s+/);
+            const lastWord = words[words.length - 1];
+            if (lastWord && lastWord.length > 1 && !lastWord.match(/^\d/) &&
+                !lastWord.match(/^(blvd|st|ave|rd|dr|ln|ct|way|pk|pkwy|hwy)$/i)) {
+              city = lastWord;
+              break;
+            }
+          }
+        }
+      }
+
       return {
         lat: Math.round(f.geometry.coordinates[1] * 1000000) / 1000000,
         lon: Math.round(f.geometry.coordinates[0] * 1000000) / 1000000,
-        city: city,
+        city: cleanCity(city),
         state: state,
         address: address,
         name: ''

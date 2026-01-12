@@ -25,5 +25,5 @@
   {"lat":32.03055,"lon":-81.08889,"city":"Savannah","state":"GA","address":"4700 Waters Ave","name":""},
   {"lat":25.795872,"lon":-80.287051,"city":"Miami","state":"FL","address":"Terminal A","name":""},
   {"lat":40.7223,"lon":-73.5529,"city":"East Meadow","state":"NY","address":"2201 Hampstead Tpke","name":""},
-  {"lat":40.831751,"lon":-73.90233,"city":"Bronx","state":"NY","address":"1276 Fulton Ave","name":""},
-  {"lat":40.844029,"lon":-73.91147,"city":"Bronx","state":"NY","address":"1650 Grand Concourse","name":""}]}
+  {"lat":40.831751,"lon":-73.90233,"city":"The Bronx","state":"NY","address":"1276 Fulton Ave","name":""},
+  {"lat":40.844029,"lon":-73.91147,"city":"The Bronx","state":"NY","address":"1650 Grand Concourse","name":""}]}

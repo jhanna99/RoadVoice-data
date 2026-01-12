@@ -387,10 +387,6 @@ hyatt_house	San Jose Airport	CA	37.3739307	-121.9194707
 hyatt_place	Manati	PR	18.4333448	-66.4765395	
 hyatt_place	Montreal	QC	45.5156845	-73.5591132	
 hyatt_place	San Jose Airport	CA	37.3735229	-121.9212502	
-hyatt_regency	Grand Reserve Puerto Rico	PR	18.4177536	-65.7941501	
-hyatt_regency	Los Angeles International Airport	CA	33.9459969	-118.3951358	
-hyatt_regency	Orange County	CA	33.7895774	-117.9168452	
-hyatt_regency	San Francisco Airport	CA	37.5937773	-122.3653352	
 ihop	Big Bear	CA	34.247	-116.882	42137 Big Bear Boulevard
 ingles	West	NC	36.382449	-81.487664	60 Ashemont Dr.
 ingles	West	SC	34.75373	-83.045693	180 Scenic Plaza Dr
@@ -463,10 +459,6 @@ nike	Woodcliff	NJ	41.040829	-74.075405	415 Chestnut Ridge Road
 nordstrom	Corte	CA	37.931397	-122.514836	1870 Redwood Highway
 office_depot	Christiansted	VI	17.74455	-64.70592	4500 SUNNY ISLE SHOPPING CTR, STE 70
 office_depot	St. Thomas	VI	18.33645	-64.89015	4611 TUTU PARK MALL, SUITE 100
-outback	Crystal	IL	42.225175	-88.289515	4751 Northwest Highway
-outback	Ft. Wayne	IN	41.036541	-85.253383	5455 Coventry Lane
-outback	Royal	FL	26.681499	-80.221372	11101 Southern Boulevard
-outback	West	OH	39.368886	-84.375404	7530 Foster Lane
 panda_express	City of	CA	33.972486	-117.330873	900 University Ave.
 panda_express	Dededo	GU	13.520439	144.817787	1088 W. Marine Corps Drive
 panda_express	Hagatna	GU	13.470069	144.754773	302 S. Route 4 O'brien Drive
@@ -483,7 +475,6 @@ petsmart	Ft Wayne	IN	41.17444	-85.16604	10035 Lima Road
 philz	Orange County	CA	33.875086	-117.889186	520 North State College Blvd Fullerton, CA 92831
 philz	Orange County	CA	33.693894	-117.885032	3420 Bristol St, Costa Mesa, CA 92626
 philz	Orange County	CA	33.655035	-117.997918	21010 Pacific Coast Highway, Huntington Beach, CA 92648
-philz	South	CA	37.644094	-122.452253	2248 Westborough Blvd, South San Francisco, CA 94080
 pizza_hut	Canal	OH	40.882616	-81.57113	2230 Locust Street South
 pizza_hut	Holts	MO	38.656621	-92.113894	152 Northstar D
 pizza_hut	Plumas	CA	38.977827	-121.539112	831 Chalice Creek Drive

@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T06:31:27.904Z",
+  "generated": "2026-01-12T06:34:22.459Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -697,8 +697,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 7230,
-      "fileSize": 808537,
-      "checksum": "24696a03518f46e5582b530b8c81da99"
+      "fileSize": 808539,
+      "checksum": "db44f2c9e00cf3c40f73c604fba8a247"
     },
     "doubletree": {
       "displayName": "DoubleTree",

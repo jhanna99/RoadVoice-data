@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "generated": "2026-01-12T05:28:06.259Z",
+  "generated": "2026-01-12T05:33:46.254Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -393,16 +393,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 447,
-      "fileSize": 50220,
-      "checksum": "defa087ac6633e0ee03c5ba84561d4ec"
+      "fileSize": 50285,
+      "checksum": "0817a11c3d3e545a2cc3e2980b4795c7"
     },
     "charleys": {
-      "displayName": "Charley's Philly Steaks",
+      "displayName": "Charley's",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 843,
-      "fileSize": 97451,
-      "checksum": "74e6401f75d3583fa4d109fb6466e8d2"
+      "fileSize": 97433,
+      "checksum": "4e86edb24ed36d0d139c330a6234d20f"
     },
     "checkers_rallys": {
       "displayName": "Checkers/Rally's",
@@ -432,9 +432,9 @@
       "displayName": "Chili's",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 1208,
-      "fileSize": 135721,
-      "checksum": "bbff372693433a0a255470d170c06b79"
+      "locationCount": 1207,
+      "fileSize": 135613,
+      "checksum": "2ba90bbb3c1799b235308eb4a24cc0bb"
     },
     "chuck_e_cheese": {
       "displayName": "Chuck E. Cheese",
@@ -462,11 +462,11 @@
     },
     "cinnabon": {
       "displayName": "Cinnabon",
-      "category": "sweets",
+      "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1164,
-      "fileSize": 132978,
-      "checksum": "e6545e53ba4bc46ab85d7eee300f572d"
+      "fileSize": 133042,
+      "checksum": "aa01441af96e346bcd699e5ac97c3974"
     },
     "circle_k": {
       "displayName": "Circle K",
@@ -633,16 +633,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 356,
-      "fileSize": 40031,
-      "checksum": "6f05da9e63fc0f9fd54157e6d4bb6cbc"
+      "fileSize": 40051,
+      "checksum": "d380482825ae16a0554834c5629c368a"
     },
     "days_inn": {
       "displayName": "Days Inn",
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 1203,
-      "fileSize": 135496,
-      "checksum": "23bf30b520dedbda373dbfc3fa9ccb8a"
+      "fileSize": 135489,
+      "checksum": "3be6e27afeb457cb5caeac51fb84b781"
     },
     "del_taco": {
       "displayName": "Del Taco",
@@ -1737,8 +1737,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 1343,
-      "fileSize": 150535,
-      "checksum": "d80e0590e1c203d0eda3ae4b4053f95a"
+      "fileSize": 150518,
+      "checksum": "ccf56f5861136a7a6c01cf84f493389d"
     },
     "ta": {
       "displayName": "TA Travel Center",
@@ -1969,8 +1969,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1013,
-      "fileSize": 112198,
-      "checksum": "d3406f4438a0c0d0113693ec0fc856e2"
+      "fileSize": 112191,
+      "checksum": "a27a5e6036b17bfd76a6d6d21a18fe5a"
     },
     "zoo": {
       "displayName": "Zoos",
@@ -2062,11 +2062,11 @@
     },
     "auntie_annes": {
       "displayName": "Auntie Anne's",
-      "category": "sweets",
+      "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 1378,
-      "fileSize": 156897,
-      "checksum": "1a176bab"
+      "locationCount": 1382,
+      "fileSize": 161613,
+      "checksum": "f5d41ffc3ccb016ca14d41a679fc3ec4"
     },
     "red_lobster": {
       "displayName": "Red Lobster",

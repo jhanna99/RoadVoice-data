@@ -422,7 +422,7 @@ function normalizeCity(city, state) {
 
   // IN-specific normalizations
   if (state === 'IN') {
-    if (city === 'Fort') return 'Fort Wayne';
+    if (city === 'Fort' || city === 'Ft Wayne' || city === 'Ft. Wayne') return 'Fort Wayne';
   }
 
   // MS-specific normalizations

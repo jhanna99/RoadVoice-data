@@ -68,7 +68,7 @@
   {"lat":31.3181,"lon":-89.3346,"city":"Hattiesburg","state":"MS","address":"","name":"Hattiesburg Zoo"},
   {"lat":37.2576,"lon":-93.3195,"city":"Springfield","state":"MO","address":"","name":"Dickerson Park Zoo"},
   {"lat":39.0073,"lon":-94.5303,"city":"Kansas City","state":"MO","address":"","name":"Kansas City Zoo"},
-  {"lat":38.635,"lon":-90.292,"city":"Saint Louis","state":"MO","address":"","name":"Saint Louis Zoo"},
+  {"lat":38.635,"lon":-90.292,"city":"St. Louis","state":"MO","address":"","name":"Saint Louis Zoo"},
   {"lat":44.6581,"lon":-111.1003,"city":"West Yellowstone","state":"MT","address":"","name":"Grizzly & Wolf Discovery Center"},
   {"lat":45.7315,"lon":-108.6062,"city":"Billings","state":"MT","address":"","name":"ZooMontana"},
   {"lat":40.8252,"lon":-96.6905,"city":"Lincoln","state":"NE","address":"","name":"Lincoln Children's Zoo"},
@@ -76,9 +76,9 @@
   {"lat":39.0776,"lon":-74.8318,"city":"Cape May Court House","state":"NJ","address":"","name":"Cape May County Zoo"},
   {"lat":40.7598,"lon":-74.2643,"city":"West Orange","state":"NJ","address":"","name":"Turtle Back Zoo"},
   {"lat":35.0961,"lon":-106.6771,"city":"Albuquerque","state":"NM","address":"","name":"ABQ BioPark Zoo"},
-  {"lat":40.8506,"lon":-73.8769,"city":"The Bronx","state":"NY","address":"","name":"Bronx Zoo"},
+  {"lat":40.8506,"lon":-73.8769,"city":"Bronx","state":"NY","address":"","name":"Bronx Zoo"},
   {"lat":42.9399,"lon":-78.8572,"city":"Buffalo","state":"NY","address":"","name":"Buffalo Zoo"},
-  {"lat":40.7678,"lon":-73.9718,"city":"New York City","state":"NY","address":"","name":"Central Park Zoo"},
+  {"lat":40.7678,"lon":-73.9718,"city":"New York","state":"NY","address":"","name":"Central Park Zoo"},
   {"lat":40.6649,"lon":-73.9654,"city":"Brooklyn","state":"NY","address":"","name":"Prospect Park Zoo"},
   {"lat":40.7447,"lon":-73.8493,"city":"Queens","state":"NY","address":"","name":"Queens Zoo"},
   {"lat":43.0536,"lon":-76.176,"city":"Syracuse","state":"NY","address":"","name":"Rosamond Gifford Zoo"},
@@ -130,4 +130,5 @@
   {"lat":43.0577,"lon":-89.401,"city":"Madison","state":"WI","address":"","name":"Henry Vilas Zoo"},
   {"lat":43.0333,"lon":-88.0356,"city":"Milwaukee","state":"WI","address":"","name":"Milwaukee County Zoo"},
   {"lat":44.5303,"lon":-87.9656,"city":"Green Bay","state":"WI","address":"","name":"NEW Zoo"},
-  {"lat":42.7199,"lon":-87.7887,"city":"Racine","state":"WI","address":"","name":"Racine Zoo"}]}
+  {"lat":42.7199,"lon":-87.7887,"city":"Racine","state":"WI","address":"","name":"Racine Zoo"}
+]}

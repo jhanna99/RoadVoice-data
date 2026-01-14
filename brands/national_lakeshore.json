@@ -1,4 +1,5 @@
 {"key":"national_lakeshore","displayName":"National Lakeshores","category":"entertainment","useLocationName":true,"locations":[
   {"lat":46.96240467,"lon":-90.66045665,"city":"Bayfield","state":"WI","address":"","name":"Apostle Islands National Lakeshore"},
   {"lat":46.56435642,"lon":-86.31628733,"city":"Munising","state":"MI","address":"","name":"Pictured Rocks National Lakeshore"},
-  {"lat":44.92844962,"lon":-86.02706591,"city":"Empire","state":"MI","address":"","name":"Sleeping Bear Dunes National Lakeshore"}]}
+  {"lat":44.92844962,"lon":-86.02706591,"city":"Empire","state":"MI","address":"","name":"Sleeping Bear Dunes National Lakeshore"}
+]}

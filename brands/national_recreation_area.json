@@ -1,7 +1,8 @@
 {"key":"national_recreation_area","displayName":"National Recreation Areas","category":"entertainment","useLocationName":true,"locations":[
   {"lat":29.53539777,"lon":-101.075821,"city":"Del Rio","state":"TX","address":"","name":"Amistad National Recreation Area"},
   {"lat":36.5348388,"lon":-84.66506688,"city":"Oneida","state":"KY","address":"","name":"Big South Fork National River & Recreation Area"},
-  {"lat":42.30905526,"lon":-70.93941138,"city":"Boston","state":"MA","address":"","name":"Boston Harbor Islands National Recreation Area"},
+  {"lat":45.13154227,"lon":-108.1443943,"city":"Lovell","state":"MT","address":"","name":"Bighorn Canyon National Recreation Area"},
+  {"lat":42.30905526,"lon":-70.93941138,"city":"Charlestown","state":"MA","address":"","name":"Boston Harbor Islands National Recreation Area"},
   {"lat":33.99698333,"lon":-84.28953177,"city":"Sandy Springs","state":"GA","address":"","name":"Chattahoochee River National Recreation Area"},
   {"lat":34.46050507,"lon":-97.00715669,"city":"Sulphur","state":"OK","address":"","name":"Chickasaw National Recreation Area"},
   {"lat":38.46584558,"lon":-107.3303371,"city":"Gunnison","state":"CO","address":"","name":"Curecanti National Recreation Area"},
@@ -13,6 +14,7 @@
   {"lat":35.96622528,"lon":-114.3469067,"city":"Boulder City","state":"AZ","address":"","name":"Lake Mead National Recreation Area"},
   {"lat":35.61926203,"lon":-101.6820066,"city":"Fritch","state":"TX","address":"","name":"Lake Meredith National Recreation Area"},
   {"lat":48.17148735,"lon":-118.3513713,"city":"Coulee Dam","state":"WA","address":"","name":"Lake Roosevelt National Recreation Area"},
-  {"lat":44.942487,"lon":-93.098712,"city":"St. Paul","state":"MN","address":"","name":"Mississippi National River & Recreation Area"},
+  {"lat":44.942487,"lon":-93.098712,"city":"Saint Paul","state":"MN","address":"","name":"Mississippi National River & Recreation Area"},
   {"lat":34.09777606,"lon":-118.7708619,"city":"Calabasas","state":"CA","address":"","name":"Santa Monica Mountains National Recreation Area"},
-  {"lat":40.61359941,"lon":-122.6022657,"city":"Whiskeytown","state":"CA","address":"","name":"Whiskeytown National Recreation Area"}]}
+  {"lat":40.61359941,"lon":-122.6022657,"city":"Whiskeytown","state":"CA","address":"","name":"Whiskeytown National Recreation Area"}
+]}

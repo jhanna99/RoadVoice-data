@@ -5,7 +5,7 @@
   {"lat":36.15624509,"lon":-82.83709021,"city":"Greeneville","state":"TN","address":"","name":"Andrew Johnson National Historic Site"},
   {"lat":38.03977546,"lon":-103.4266499,"city":"La Junta","state":"CO","address":"","name":"Bent's Old Fort National Historic Site"},
   {"lat":30.3057966497568,"lon":-104.022553112857,"city":"Marfa","state":"TX","address":"","name":"Blackwell School National Historic Site"},
-  {"lat":42.35908295,"lon":-71.06764181,"city":"Boston","state":"MA","address":"","name":"Boston African American National Historic Site"},
+  {"lat":42.35908295,"lon":-71.06764181,"city":"Charlestown","state":"MA","address":"","name":"Boston African American National Historic Site"},
   {"lat":35.26815509,"lon":-82.45106258,"city":"Flat Rock","state":"NC","address":"","name":"Carl Sandburg Home National Historic Site"},
   {"lat":38.91089286,"lon":-77.02431104,"city":"Washington","state":"DC","address":"","name":"Carter G. Woodson Home National Historic Site"},
   {"lat":32.84577392,"lon":-79.82487582,"city":"Mount Pleasant","state":"SC","address":"","name":"Charles Pinckney National Historic Site"},
@@ -25,6 +25,8 @@
   {"lat":35.93278602,"lon":-75.71496865,"city":"Manteo","state":"NC","address":"","name":"Fort Raleigh National Historic Site"},
   {"lat":37.84358849,"lon":-94.70429174,"city":"Fort Scott","state":"KS","address":"","name":"Fort Scott National Historic Site"},
   {"lat":35.38834746,"lon":-94.43129079,"city":"Fort Smith","state":"AR","address":"","name":"Fort Smith National Historic Site"},
+  {"lat":48.00075828,"lon":-104.0375238,"city":"Williston","state":"MT","address":"","name":"Fort Union Trading Post National Historic Site"},
+  {"lat":45.62234841,"lon":-122.6617043,"city":"Vancouver","state":"OR","address":"","name":"Fort Vancouver National Historic Site"},
   {"lat":38.86298458,"lon":-76.98508147,"city":"Washington","state":"DC","address":"","name":"Frederick Douglass National Historic Site"},
   {"lat":42.32424266,"lon":-71.13202567,"city":"Brookline","state":"MA","address":"","name":"Frederick Law Olmsted National Historic Site"},
   {"lat":39.77543423,"lon":-79.92504169,"city":"Point Marion","state":"PA","address":"","name":"Friendship Hill National Historic Site"},
@@ -44,7 +46,7 @@
   {"lat":39.79715642,"lon":-89.64513397,"city":"Springfield","state":"IL","address":"","name":"Lincoln Home National Historic Site"},
   {"lat":34.7369465,"lon":-92.29987899,"city":"Little Rock","state":"AR","address":"","name":"Little Rock Central High School National Historic Site"},
   {"lat":42.37698854,"lon":-71.12636956,"city":"Cambridge","state":"MA","address":"","name":"Longfellow House Washington's Headquarters National Historic Site"},
-  {"lat":40.7187683,"lon":-73.99001245,"city":"New York City","state":"NY","address":"","name":"Lower East Side Tenement Museum National Historic Site"},
+  {"lat":40.7187683,"lon":-73.99001245,"city":"New York","state":"NY","address":"","name":"Lower East Side Tenement Museum National Historic Site"},
   {"lat":37.54781499,"lon":-77.43746979,"city":"Richmond","state":"VA","address":"","name":"Maggie L Walker National Historic Site"},
   {"lat":36.72559195,"lon":-118.1547177,"city":"Independence","state":"CA","address":"","name":"Manzanar National Historic Site"},
   {"lat":42.36819596,"lon":-73.70834257,"city":"Kinderhook","state":"NY","address":"","name":"Martin Van Buren National Historic Site"},
@@ -63,7 +65,7 @@
   {"lat":42.46830664,"lon":-71.0076953,"city":"Saugus","state":"MA","address":"","name":"Saugus Iron Works National Historic Site"},
   {"lat":42.1086368,"lon":-72.57967415,"city":"Springfield","state":"MA","address":"","name":"Springfield Armory National Historic Site"},
   {"lat":41.40757521,"lon":-75.67037255,"city":"Scranton","state":"PA","address":"","name":"Steamtown National Historic Site"},
-  {"lat":40.7386469,"lon":-73.98903703,"city":"New York City","state":"NY","address":"","name":"Theodore Roosevelt Birthplace National Historic Site"},
+  {"lat":40.7386469,"lon":-73.98903703,"city":"New York","state":"NY","address":"","name":"Theodore Roosevelt Birthplace National Historic Site"},
   {"lat":42.90146781,"lon":-78.87248411,"city":"Buffalo","state":"NY","address":"","name":"Theodore Roosevelt Inaugural National Historic Site"},
   {"lat":42.22570607,"lon":-73.86154864,"city":"Catskill","state":"NY","address":"","name":"Thomas Cole National Historic Site"},
   {"lat":38.52934443,"lon":-77.037813,"city":"Port Tobacco","state":"MD","address":"","name":"Thomas Stone National Historic Site"},
@@ -74,4 +76,5 @@
   {"lat":41.79697937,"lon":-73.94205557,"city":"Hyde Park","state":"NY","address":"","name":"Vanderbilt Mansion National Historic Site"},
   {"lat":35.62083963,"lon":-99.70445143,"city":"Cheyenne","state":"OK","address":"","name":"Washita Battlefield National Historic Site"},
   {"lat":46.04119286,"lon":-118.4629388,"city":"Walla Walla","state":"WA","address":"","name":"Whitman Mission National Historic Site"},
-  {"lat":39.11970352,"lon":-84.50758951,"city":"Cincinnati","state":"OH","address":"","name":"William Howard Taft National Historic Site"}]}
+  {"lat":39.11970352,"lon":-84.50758951,"city":"Cincinnati","state":"OH","address":"","name":"William Howard Taft National Historic Site"}
+]}

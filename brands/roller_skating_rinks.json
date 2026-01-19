@@ -1,4 +1,4 @@
-{"key":"roller_skating_rinks","displayName":"Roller Skating Rinks","category":"recreation","useLocationName":true,"source":"osm","locations":[
+{"key":"roller_skating_rinks","displayName":"Roller Skating Rinks","category":"entertainment","useLocationName":true,"source":"osm","locations":[
   {"lat":41.46697,"lon":-91.84118,"city":"","state":"","address":"","name":"Wellman Skating Rink"},
   {"lat":46.97502,"lon":-123.87349,"city":"","state":"","address":"","name":"Haborena Skate Rink"},
   {"lat":41.56333,"lon":-72.65232,"city":"","state":"","address":"","name":"Middletown Roller Skating Rink"},

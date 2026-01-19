@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "generated": "2026-01-14T07:31:37.543Z",
+  "generated": "2026-01-19T19:49:27.478Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -19,6 +19,14 @@
       "locationCount": 143,
       "fileSize": 16346,
       "checksum": "d5b62dfb7b6b56e68586ba97dfae7619"
+    },
+    "academy_sports": {
+      "displayName": "Academy Sports",
+      "category": "shopping",
+      "useLocationName": false,
+      "locationCount": 323,
+      "fileSize": 36627,
+      "checksum": "73da15953d49e25df9f7e7c66548c996"
     },
     "adidas": {
       "displayName": "Adidas",
@@ -164,6 +172,14 @@
       "fileSize": 237727,
       "checksum": "a50d95877b16853340d7b2fb6368a410"
     },
+    "bass_pro_shops": {
+      "displayName": "Bass Pro Shops",
+      "category": "shopping",
+      "locationCount": 97,
+      "fileSize": 10,
+      "checksum": "5748e18ce344909e0becb867866b921f",
+      "source": "osm"
+    },
     "battlefield": {
       "displayName": "Battlefields",
       "category": "entertainment",
@@ -244,6 +260,14 @@
       "fileSize": 29893,
       "checksum": "006633921d8b1a125555be936afa1880"
     },
+    "biggby_coffee": {
+      "displayName": "Biggby Coffee",
+      "category": "coffee",
+      "locationCount": 189,
+      "fileSize": 18,
+      "checksum": "8b3afc03fe882fb83247b4d20bd84dcd",
+      "source": "osm"
+    },
     "bjs": {
       "displayName": "BJ's Wholesale",
       "category": "grocery",
@@ -251,6 +275,14 @@
       "locationCount": 277,
       "fileSize": 30499,
       "checksum": "763db609eadb65b8458dfc92d939fcaa"
+    },
+    "blank_street_coffee": {
+      "displayName": "Blank Street Coffee",
+      "category": "coffee",
+      "useLocationName": false,
+      "locationCount": 45,
+      "fileSize": 3854,
+      "checksum": "02144884255e2b8ca3d03a4b48fc931a"
     },
     "blue_bottle": {
       "displayName": "Blue Bottle Coffee",
@@ -355,6 +387,14 @@
       "locationCount": 45,
       "fileSize": 5240,
       "checksum": "94aa864e66c01990f074abbd8ca04d9f"
+    },
+    "cabelas": {
+      "displayName": "Cabela's",
+      "category": "shopping",
+      "locationCount": 66,
+      "fileSize": 7,
+      "checksum": "129700be5c666aa6ba9338a90814253e",
+      "source": "osm"
     },
     "caesars_casino": {
       "displayName": "Caesars Casinos",
@@ -612,6 +652,14 @@
       "fileSize": 9302,
       "checksum": "acd9d832eadd492fb5dacb846c0a26ad"
     },
+    "crumbl_cookies": {
+      "displayName": "Crumbl Cookies",
+      "category": "sweets",
+      "useLocationName": false,
+      "locationCount": 1104,
+      "fileSize": 127679,
+      "checksum": "46b2d2b33d6b1a0e94268468c69f28f6"
+    },
     "culvers": {
       "displayName": "Culver's",
       "category": "restaurant",
@@ -739,6 +787,14 @@
       "locationCount": 401,
       "fileSize": 45119,
       "checksum": "78f1e1e8924b0c73bd9dab1e8b377bde"
+    },
+    "duluth_trading": {
+      "displayName": "Duluth Trading",
+      "category": "shopping",
+      "locationCount": 26,
+      "fileSize": 3,
+      "checksum": "5f0bbef74f53511dbc8064e4f2fe2a0e",
+      "source": "osm"
     },
     "dunkin": {
       "displayName": "Dunkin'",
@@ -1196,6 +1252,14 @@
       "fileSize": 66165,
       "checksum": "18e554ba0cae196f326318b05c61d0cb"
     },
+    "jeremiahs_italian_ice": {
+      "displayName": "Jeremiah's Italian Ice",
+      "category": "sweets",
+      "locationCount": 17,
+      "fileSize": 2,
+      "checksum": "f7edb18d6dae167b0d0bd875473d4008",
+      "source": "osm"
+    },
     "kfc": {
       "displayName": "KFC",
       "category": "restaurant",
@@ -1324,6 +1388,14 @@
       "fileSize": 162297,
       "checksum": "9847e39026af81642b62518c33d1506e"
     },
+    "maverik": {
+      "displayName": "Maverik",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 830,
+      "fileSize": 91505,
+      "checksum": "faddcb0efd424d5c00c81e7dbfba4c63"
+    },
     "mcdonalds": {
       "displayName": "McDonald's",
       "category": "restaurant",
@@ -1363,6 +1435,22 @@
       "locationCount": 5175,
       "fileSize": 569401,
       "checksum": "22cf583d49d5821d912e763eb27efe69"
+    },
+    "mochinut": {
+      "displayName": "Mochinut",
+      "category": "sweets",
+      "locationCount": 49,
+      "fileSize": 5,
+      "checksum": "f0971cf014f8fb5f2c3295da25dcf15e",
+      "source": "osm"
+    },
+    "murphy_usa": {
+      "displayName": "Murphy USA",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 1649,
+      "fileSize": 183294,
+      "checksum": "e57f134e22f4211c2b953fcb67bdc29a"
     },
     "national_historic_site": {
       "displayName": "National Historic Sites",
@@ -1523,6 +1611,14 @@
       "locationCount": 3226,
       "fileSize": 360360,
       "checksum": "d715d159168322ade2f05be7d59af952"
+    },
+    "paris_baguette": {
+      "displayName": "Paris Baguette",
+      "category": "sweets",
+      "useLocationName": false,
+      "locationCount": 299,
+      "fileSize": 34049,
+      "checksum": "9cae32d0b6baccb67e22805cca957fa2"
     },
     "park_hyatt": {
       "displayName": "Park Hyatt",
@@ -1724,6 +1820,14 @@
       "fileSize": 509,
       "checksum": "91785e054870b750e78941d0729c700e"
     },
+    "roller_skating_rinks": {
+      "displayName": "Roller Skating Rinks",
+      "category": "recreation",
+      "locationCount": 246,
+      "fileSize": 27,
+      "checksum": "e68e8db3bb87ed8705aa93e8976eb6bf",
+      "source": "osm"
+    },
     "royal_farms": {
       "displayName": "Royal Farms",
       "category": "gas_station",
@@ -1764,6 +1868,14 @@
       "fileSize": 12323,
       "checksum": "fa46a4a8d8db93de12f9302430640f9f"
     },
+    "scooters_coffee": {
+      "displayName": "Scooter's Coffee",
+      "category": "coffee",
+      "useLocationName": false,
+      "locationCount": 841,
+      "fileSize": 91554,
+      "checksum": "b4718c580870be154b52901f820a4bd4"
+    },
     "sephora": {
       "displayName": "Sephora",
       "category": "shopping",
@@ -1771,6 +1883,14 @@
       "locationCount": 542,
       "fileSize": 62434,
       "checksum": "b34b5e14ec52587bbcf3d54c626329a7"
+    },
+    "seven_brew": {
+      "displayName": "7 Brew",
+      "category": "coffee",
+      "locationCount": 30,
+      "fileSize": 3,
+      "checksum": "42123f00c80dd47279ba79f0331b3035",
+      "source": "osm"
     },
     "shake_shack": {
       "displayName": "Shake Shack",

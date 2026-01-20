@@ -1,4 +1,4 @@
-{"key":"chuck_e_cheese","displayName":"Chuck E. Cheese","category":"restaurant","useLocationName":false,"locations":[
+{"key":"chuck_e_cheese","displayName":"Chuck E. Cheese","category":"entertainment","useLocationName":false,"locations":[
   {"lat":32.400619,"lon":-99.76214,"city":"Abilene","state":"TX","address":"4310 Buffalo Gap Rd.","name":""},
   {"lat":33.857018,"lon":-98.541356,"city":"Wichita Falls","state":"TX","address":"2935 SW Pkwy.","name":""},
   {"lat":32.685338,"lon":-97.400279,"city":"Fort Worth","state":"TX","address":"4860 SW Loop 820","name":""},
@@ -6,7 +6,7 @@
   {"lat":32.902636,"lon":-97.318108,"city":"Fort Worth","state":"TX","address":"9121 North Freeway","name":""},
   {"lat":32.024383,"lon":-102.148295,"city":"Midland","state":"TX","address":"4703 W. Loop 250 N.","name":""},
   {"lat":33.543336,"lon":-101.936902,"city":"Lubbock","state":"TX","address":"5612 West Loop 289","name":""},
-  {"lat":32.83711,"lon":-97.21101,"city":"N. Richland Hills","state":"TX","address":"7935 Grapevine Hwy","name":""},
+  {"lat":32.83711,"lon":-97.21101,"city":"North Richland Hills","state":"TX","address":"7935 Grapevine Hwy","name":""},
   {"lat":31.089749,"lon":-97.714727,"city":"Killeen","state":"TX","address":"2303 E. Central Texas Expressway","name":""},
   {"lat":32.673704,"lon":-97.131338,"city":"Arlington","state":"TX","address":"1536 West Interstate 20","name":""},
   {"lat":32.677823,"lon":-97.050877,"city":"Grand Prairie","state":"TX","address":"2760 W. I-20","name":""},
@@ -91,7 +91,6 @@
   {"lat":38.884328,"lon":-94.76235,"city":"Olathe","state":"KS","address":"15225 W. 134th St.","name":""},
   {"lat":38.904411,"lon":-104.779169,"city":"Colorado Springs","state":"CO","address":"5156 N. Academy Blvd.","name":""},
   {"lat":30.377343,"lon":-91.067535,"city":"Baton Rouge","state":"LA","address":"7680 Andrea Dr.","name":""},
-  {"lat":38.967133,"lon":-94.60806,"city":"Kansas City","state":"MO","address":"8809 State Line Rd.","name":""},
   {"lat":39.016728,"lon":-94.668375,"city":"Overland Park","state":"KS","address":"10510 Metcalf Lane","name":""},
   {"lat":39.04767,"lon":-94.360866,"city":"Independence","state":"MO","address":"18701 E. 39th St.","name":""},
   {"lat":39.260508,"lon":-94.657802,"city":"Kansas City","state":"MO","address":"9196 N. Skyview Ave.","name":""},
@@ -138,7 +137,7 @@
   {"lat":37.981804,"lon":-87.491617,"city":"Evansville","state":"IN","address":"559 N. Green River Rd.","name":""},
   {"lat":36.303819,"lon":-86.693119,"city":"Madison","state":"TN","address":"2070 Gallatin Rd. North","name":""},
   {"lat":35.848928,"lon":-86.418642,"city":"Murfreesboro","state":"TN","address":"1720 Old Fort Pkwy.","name":""},
-  {"lat":36.171043,"lon":-86.507612,"city":"Mt Juliet","state":"TN","address":"60 Belinda Parkway","name":""},
+  {"lat":36.171043,"lon":-86.507612,"city":"Mount Juliet","state":"TN","address":"60 Belinda Parkway","name":""},
   {"lat":40.739937,"lon":-89.633819,"city":"Peoria","state":"IL","address":"2601 W. Lake Ave","name":""},
   {"lat":42.510766,"lon":-92.427268,"city":"Cedar Falls","state":"IA","address":"5911 University Ave, Ste. 100","name":""},
   {"lat":40.486231,"lon":-88.950931,"city":"Bloomington","state":"IL","address":"1701 Empire St","name":""},

@@ -12,7 +12,6 @@
 
 const fs = require('fs');
 const path = require('path');
-const https = require('https');
 const { execSync, spawn } = require('child_process');
 
 const MANIFEST_FILE = path.join(__dirname, '..', 'manifest.json');
@@ -68,74 +67,39 @@ function getAtpBuildDate() {
 }
 
 /**
- * Download latest ATP data
+ * Download latest ATP data using curl (more reliable for large files)
  */
-async function downloadATP() {
-  return new Promise((resolve, reject) => {
-    console.log('Downloading latest ATP data from data.alltheplaces.xyz...');
-    console.log('This is ~1.5GB and will take a few minutes.\n');
+function downloadATP() {
+  console.log('Downloading latest ATP data from data.alltheplaces.xyz...');
+  console.log('This is ~1.7GB and may take several minutes.\n');
 
-    const tmpFile = ATP_ZIP + '.tmp';
-    const file = fs.createWriteStream(tmpFile);
+  const tmpFile = ATP_ZIP + '.tmp';
 
-    https.get(ATP_URL, (response) => {
-      if (response.statusCode === 302 || response.statusCode === 301) {
-        // Follow redirect
-        https.get(response.headers.location, (res) => {
-          const total = parseInt(res.headers['content-length'], 10);
-          let downloaded = 0;
+  try {
+    // Use curl with progress bar, follow redirects, and resume support
+    execSync(`curl -L --progress-bar -o "${tmpFile}" "${ATP_URL}"`, {
+      stdio: 'inherit'
+    });
 
-          res.on('data', (chunk) => {
-            downloaded += chunk.length;
-            const pct = Math.round(downloaded / total * 100);
-            process.stdout.write(`\rDownloading: ${pct}% (${Math.round(downloaded/1024/1024)}MB / ${Math.round(total/1024/1024)}MB)`);
-          });
+    // Move tmp to final location
+    fs.renameSync(tmpFile, ATP_ZIP);
 
-          res.pipe(file);
-          file.on('finish', () => {
-            file.close();
-            console.log('\n');
-            // Move tmp to final location
-            fs.renameSync(tmpFile, ATP_ZIP);
+    console.log('');
 
-            // Report which build was downloaded
-            const buildDate = getAtpBuildDate();
-            if (buildDate) {
-              console.log(`Downloaded ATP build: ${buildDate}`);
-            }
-            console.log(`Saved to: ${ATP_ZIP}\n`);
+    // Report which build was downloaded
+    const buildDate = getAtpBuildDate();
+    if (buildDate) {
+      console.log(`Downloaded ATP build: ${buildDate}`);
+    }
+    console.log(`Saved to: ${ATP_ZIP}\n`);
 
-            resolve();
-          });
-        }).on('error', reject);
-      } else {
-        const total = parseInt(response.headers['content-length'], 10);
-        let downloaded = 0;
-
-        response.on('data', (chunk) => {
-          downloaded += chunk.length;
-          const pct = Math.round(downloaded / total * 100);
-          process.stdout.write(`\rDownloading: ${pct}% (${Math.round(downloaded/1024/1024)}MB / ${Math.round(total/1024/1024)}MB)`);
-        });
-
-        response.pipe(file);
-        file.on('finish', () => {
-          file.close();
-          console.log('\n');
-          fs.renameSync(tmpFile, ATP_ZIP);
-
-          // Report which build was downloaded
-          const buildDate = getAtpBuildDate();
-          if (buildDate) {
-            console.log(`Downloaded ATP build: ${buildDate}`);
-          }
-          console.log(`Saved to: ${ATP_ZIP}\n`);
-
-          resolve();
-        });
-      }
-    }).on('error', reject);
-  });
+  } catch (err) {
+    // Clean up tmp file on failure
+    if (fs.existsSync(tmpFile)) {
+      fs.unlinkSync(tmpFile);
+    }
+    throw new Error(`Download failed: ${err.message}`);
+  }
 }
 
 /**
@@ -253,7 +217,7 @@ function generateReport(beforeCounts, afterCounts) {
   return { changes, unchanged, newBrands, removedBrands, totalBefore, totalAfter };
 }
 
-async function main() {
+function main() {
   console.log('ATP Data Update Tool\n');
 
   // Get current counts (before)
@@ -272,7 +236,7 @@ async function main() {
   fs.writeFileSync(beforeFile, JSON.stringify(beforeCounts, null, 2));
 
   if (shouldDownload) {
-    await downloadATP();
+    downloadATP();
   }
 
   if (shouldExtract) {
@@ -286,7 +250,9 @@ async function main() {
   }
 }
 
-main().catch(err => {
-  console.error('Error:', err);
+try {
+  main();
+} catch (err) {
+  console.error('Error:', err.message);
   process.exit(1);
-});
+}

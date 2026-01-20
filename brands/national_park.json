@@ -47,7 +47,7 @@
   {"lat":48.48370609,"lon":-92.8382913,"city":"International Falls","state":"MN","address":"","name":"Voyageurs National Park"},
   {"lat":32.77907858,"lon":-106.3333461,"city":"Alamogordo","state":"NM","address":"","name":"White Sands National Park"},
   {"lat":43.58012365,"lon":-103.4394709,"city":"Hot Springs","state":"SD","address":"","name":"Wind Cave National Park"},
-  {"lat":44.59824417,"lon":-110.5471695,"city":"Yellowstone National Park","state":"ID","address":"","name":"Yellowstone National Park"},
+  {"lat":44.59824417,"lon":-110.5471695,"city":"Yellowstone National Park","state":"WY","address":"","name":"Yellowstone National Park"},
   {"lat":37.84883288,"lon":-119.5571873,"city":"Yosemite National Park","state":"CA","address":"","name":"Yosemite National Park"},
   {"lat":37.29839254,"lon":-113.0265138,"city":"Springdale","state":"UT","address":"","name":"Zion National Park"}
 ]}

@@ -1,0 +1,119 @@
+brand	city	stated_state	actual_state	lat	lon	address
+7_eleven	Irvine	CA	MT/WY	44.565034	-110.714722	5333 University Dr
+7_eleven	Denver	CO	ID/MT	48.976612	-115.592651	4388 KIRK CT
+7_eleven	Cleveland	TN	NONE	78.206563	-80.595703	201 25th Street
+ac_hotel	Boise	ID	NONE	43.615018	116.202314	1005 W Grove Street
+adidas	Miami Beach	FL	CA	33.663844	-117.904743	846 Lincoln Road
+amazon_locker	Livermore Falls	ME	MA/NY	42.335182	-72.669063	Cumberland Farms 5579, 53 MAIN STREET
+auntie_annes	Youngstown	OH	NY	43.25468	-79.05023	100 Main St.
+battlefield	Dover	KY	TN	36.49019078	-87.92445695	
+bowling	Los Angeles	CA	NONE	90	0	8500 Beverly Blvd
+bowling	Panama City Beach	FL	NONE	90	0	12201 Hutchison Blvd
+bp	South Coffeyville	KS	MO/OK	36.98543	-95.62498	111 E. County Road 2
+bp	Brooklyn	NY	IA	41.697819	-92.44528	4124 18th Ave
+bp	Campbellsport	OH	MI/WI	43.600898	-88.287105	259 North Ave
+caesars_casino	Windsor,	CA	MI	42.320895	-83.034227	377 Riverside Drive East (Hotel, Casino and Valet Entrance: McDougall Ave. and Pitt St.)
+caesars_casino	Council Bluffs	IA	NONE	41.2373	95.8901	One Arena Way
+cannabis_dispensary	Warwick	RI	NH/VT	43.93291	-71.61017	444 Quaker Lane
+chick_fil_a	Schererville	IN	TN	35.242488	-85.690479	315 US Highway 41
+circle_k	Copperhill	GA	TN	35.030352	-84.386702	5067 HWY 64
+circle_k	(empty)	GA	TN	35.015653	-85.293813	2727 ROSSVILLE BLVD
+circle_k	(empty)	MS	AR/TN	35.0759	-89.9309	2678 GETWELL RD
+circle_k	(empty)	MS	AR/TN	35.020541	-89.955376	3271 E SHELBY DR
+circle_k	(empty)	OK	AR/TX	35.353738	-94.413689	3120 JENNY LIND
+circle_k	(empty)	OK	AR/TX	35.353738	-94.413689	3120 JENNY LIND
+circle_k	(empty)	OK	AR/TX	35.296425	-94.388801	4101 BROOKEN HILL DR
+circle_k	(empty)	OK	AR/TX	35.296425	-94.388801	4101 BROOKEN HILL DR
+circle_k	(empty)	OK	AR/TX	35.292535	-94.422556	9811 HWY 253
+circle_k	(empty)	OK	AR/TX	35.292535	-94.422556	9811 HWY 253
+coffee_bean	Test	AL	MA/NY	42.179363	-73.214119	test
+conoco	Whitehouse	NJ	NY	41.024566	-73.772727	36-03 RTE 22 E
+conoco	Albuquerque	NM	ID	43.480989	-112.0027	2124 SAN MATEO BLVD NE
+conoco	Newkirk	OK	CA	33.78799	-118.02891	12901 N HIGHWAY 77
+conoco	(empty)	PA	MD	39.645561	-76.656754	AV MICHOACAN Y CALLE SALINA CR 1298
+conoco	Bellingham	WA	CA	33.78799	-118.02891	2570 LUMMI VIEW DR
+conoco	Snohomish	WA	CA	33.78799	-118.02891	19931 FALES RD
+conoco	Connell	WA	OR	45.438749	-122.709834	1 EAGLE CREST DR
+crossfit	Fort Smith	OK	AR/TX	35.334087	-94.392842	3702 Century Dr
+dairy_queen	Minneapolis	MN	NONE	-33.937663	18.310089	7505 Metro Blvd
+dairy_queen	Houston	TX	TN	36.210363	-86.693755	TDQ Convention 2025
+dominos	Pinellas Park	FL	CO	40.062424	-105.92773	7064 US Hwy 19N
+dominos	Lynnwood	WA	FL	28.433073	-81.471346	1233 164th Street SW
+dunkin	Hayti	MO	LA/TX	31.974302	-93.988669	1701 E Highway 84
+dunkin	The Bronx	NY	NONE	36.491644	32.093285	880 Garrison Ave
+dunkin	San Antonio	TX	NJ/NY	40.742151	-73.989401	150 South Ww White Road
+exxon	Crystal Springs	MI	LA/MS	31.989454	-90.365929	25066 Highway 51
+exxon	Robbinsville	NC	NONE	-83.814156	35.340324	1037 TAPOCA RD
+firehouse_subs	(empty)	SC	NC	35.340273	-80.764928	2700 W Mallard Creek Rd
+five_guys	South Portland	ME	NONE	85.051129	-180	198 Maine Mall Rd
+fogo_de_chao	Irvine	AL	CA	33.652213	-117.743696	623 Spectrum Center Drive
+giant_eagle	(empty)	OH	PA/WV	40.43091	-78.382923	1201 Blair Street
+giant_eagle	(empty)	OH	PA/WV	40.43091	-78.382923	1201 Blair Street
+godfathers_pizza	Lawrence	AL	KS/MO	39.01996	-95.13522	209 Kansas Turnpike
+godfathers_pizza	Caseyville	AL	IL/MO	38.61812	-90.04311	8795 Sasak Place
+godfathers_pizza	Bloomington	AL	IL	40.47312	-88.99383	102 West Oakland Avenue
+godfathers_pizza	Shelbyville	AL	IN/KY	38.21667	-85.20316	20 Mt. Tabor Ct.
+godfathers_pizza	Lexington	AL	KY	38.09546	-84.50902	2305 Remington Drive
+good_neighbor	(empty)	OK	AR/TX	35.32724	-94.41364	
+good_neighbor	Whiteford	PA	MD	39.70881	-76.34571	
+hardees	Headland	AL	GA	32.8366	-84.84361	16832 Us Hwy 431 South
+hardees	Trenton	TN	MI/WI	46.17275	-89.1916	2060 Us 45 Bypass South
+home2_suites	Carson City	NV	NONE	39.163895	119.767836	3941 N Carson Street
+huddle_house	Marion	SC	IN	40.558374	-85.659144	2424 E Highway 76
+jack_in_the_box	Albuquerque	NM	CA	32.827751	-117.205406	7601 Menaul Blvd NE
+jack_in_the_box	Richardson	TX	CA	34.07944	-117.8906	510 W Arapaho Rd
+kohls	Yorba Linda	CA	AL/MS	33.874214	-88.343933	23001 SAVI RANCH PKWY
+kroger	Fort Wayne	IN	NONE	-85.051129	41.179673	413 E Dupont Rd
+marathon	Lawrenceburg	KY	GA/NC	33.988497	-83.961604	1000 Legacy Way
+microtel	Macedon	NY	NONE	43.06374	77.35958	350 NY State Rt. 31
+mobil	St. Helen	MI	CA	38.516941	-122.486626	1025 N ST HELEN RD
+mobil	Auburn Hills	MI	MD	38.3269	-75.118698	2026 N OPDYKE RD
+national_historic_site	Williston	MT	ND	48.00075828	-104.0375238	
+national_historical_park	Hartford	CT	MA/NY	42.4677505493	-73.203666687	
+national_historical_park	Williamsport	DC	MD/VA	39.000283692	-77.2481399539	
+national_monument	Sumner	IL	AR/MS	33.9711	-90.3698	
+national_park	Yellowstone National Park	ID	MT/WY	44.59824417	-110.5471695	
+old_navy	Rome	GA	OR	44.058012	-121.265731	90 Hicks Dr SE
+piggly_wiggly	Slidell	LA	TX	30.732455	-95.373349	39522 Hwy 190 E
+pizza_hut	St. Johns	FL	VA	37.226692	-77.40137	Quickmart
+pizza_hut	Cleveland	TX	KS	39.503571	-99.018341	1830 US 59
+pjs_coffee	Capitol Heights	MD	CO	39.743943	-105.020089	1708 Ritchie Station Ct
+pjs_coffee	Midland	TX	MD/VA/DC	38.89036	-77.03196	8404 W County Rd 60
+shell	Arcadia	FL	NONE	27.224976	-76.049058	2829 NW HIGHWAY 70
+shell	Auburn	ME	NH/NY/VT	44.081259	-72.261662	828 MINOT AVE
+shell	Winnsboro	SC	NC/TN	35.81879	-84.26709	31 US HIGHWAY 321 BYP N
+shoprite	Pearl River	NY	NONE	41.061731	-71.011788	46 N Middletown Rd
+subway	Gallup	AZ	NM	35.6593	-109.0428	1575 DState Hwy 264 Tse Bonito
+subway	Big Springs	CO	NE	41.0504	-102.0692	109 Circle Rd, Pilot Travel Center #904
+subway	Garden City	ID	UT	41.9469	-111.3939	25 N Bear Lake Boulevard
+subway	Kansas City	KS	MO	39.0413	-94.5721	1141 Emanuel Cleaver Blvd
+subway	(empty)	MS	AR/TN	35.0199	-89.8306	4730 Riverdale Road, Unit 300, Gleneagles Court Shopping Ctr
+subway	(empty)	MS	AR/TN	35.0752	-89.9507	3371 Lamar Ave., Love's Travel Stop, #344
+subway	(empty)	MS	AR/TN	35.0519	-89.9528	3335 Winchester Rd
+subway	(empty)	MS	AR/TN	35.021	-89.9357	3842 E Shelby Drive
+subway	(empty)	MS	AR/TN	35.0283	-90.026	4405 Elvis Presley Blvd
+subway	Chesapeake	NC	VA	36.6539	-76.233	201 Hill Crest Parkway, Wal-Mart #3644
+subway	(empty)	OK	AR/TX	35.3388	-94.423	4700 Towson Ave
+subway	(empty)	OK	AR/TX	35.2983	-94.4095	8901 Jenny Lind Rd, #5B, Fiana Hills Mall
+subway	Grantsville	PA	MD/WV	39.6931	-79.1576	26 South Yoder Street, Grantsville Exxon/C-Store
+subway	Morgantown	PA	WV	39.6856	-79.9193	1055 Pt. Marion Rd, BFS C-Store/Gas Station
+subway	Bellingham	RI	MA	42.0206	-71.4949	170 Pulaski Blvd
+subway	Littleton	VA	NC	36.5315	-77.9448	2377 Eaton Ferry Rd, Highway 903, Subway/Coffee Concept
+subway	S Beloit	WI	IL/MI	42.4917	-88.9969	6070 N Gardner St, Road Ranger Truck Stop
+sunoco	Apalachicola	FL	LA/MS	31.18754	-90.0123	243 US HIGHWAY 98
+sunoco	Potts Camp	MS	TN	35.65022	-88.13256	6769 CHURCH AVE
+sunoco	Zanesville	OH	IL	39.954822	-89.07391	4106 WEST PIKE
+sunoco	Norristown	PA	MI	42.2535	-83.580901	1982-84 WEST MAIN STREET
+sunoco	Odessa	TX	NONE	31.848026	102.403163	1523 HARLESS AVE
+sunoco	Pound	VA	NJ/PA	39.951242	-75.17758	8106B MAIN STRET
+super_8	Redding	CA	NONE	40.599581	122.385107	532 N. Market St.
+taco_bell	Perkins	OK	KS	37.379278	-97.34836	250 W. Highway 33
+travelodge	Branson	MO	AR	35.651996	-93.284092	3311 Shepherd of Hills Expy
+ulta	(empty)	MO	MD	38.339874	-75.109215	12641-216 Ocean Gateway, Ste 216
+wyndham	Redding	CA	NONE	40.599581	122.385107	532 N. Market St.
+wyndham	Branson	MO	AR	35.651996	-93.284092	3311 Shepherd of Hills Expy
+wyndham	Macedon	NY	NONE	43.06374	77.35958	350 NY State Rt. 31
+ymca	Memphis	TN	AR/MS	34.979815	-89.97759	7171 Goodlett Farms Parkway
+yogurtland	Newberry Springs	CA	KS/MO	37.09024	-95.712891	44230 National Trails Hwy
+yogurtland	Delano	CA	KS/MO	37.09024	-95.712891	530 Woollomes Ave
+zaxbys	Bozeman	MT	AK	58.11604	-135.44887	910 Technology Blvd (TEST LOCATION)

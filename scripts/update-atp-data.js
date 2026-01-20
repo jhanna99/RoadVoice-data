@@ -45,6 +45,29 @@ function getCurrentCounts() {
 }
 
 /**
+ * Get ATP build date from zip file by inspecting file dates
+ */
+function getAtpBuildDate() {
+  try {
+    const output = execSync(`unzip -l "${ATP_ZIP}" | head -20`, { encoding: 'utf-8' });
+    const datePattern = /(\d{2})-(\d{2})-(\d{4})/g;
+    const dates = [];
+    let match;
+    while ((match = datePattern.exec(output)) !== null) {
+      const [_, month, day, year] = match;
+      dates.push(`${year}-${month}-${day}`);
+    }
+    if (dates.length > 0) {
+      dates.sort();
+      return dates[0]; // Earliest date is when build started
+    }
+  } catch (e) {
+    // Ignore errors
+  }
+  return null;
+}
+
+/**
  * Download latest ATP data
  */
 async function downloadATP() {
@@ -74,6 +97,14 @@ async function downloadATP() {
             console.log('\n');
             // Move tmp to final location
             fs.renameSync(tmpFile, ATP_ZIP);
+
+            // Report which build was downloaded
+            const buildDate = getAtpBuildDate();
+            if (buildDate) {
+              console.log(`Downloaded ATP build: ${buildDate}`);
+            }
+            console.log(`Saved to: ${ATP_ZIP}\n`);
+
             resolve();
           });
         }).on('error', reject);
@@ -92,6 +123,14 @@ async function downloadATP() {
           file.close();
           console.log('\n');
           fs.renameSync(tmpFile, ATP_ZIP);
+
+          // Report which build was downloaded
+          const buildDate = getAtpBuildDate();
+          if (buildDate) {
+            console.log(`Downloaded ATP build: ${buildDate}`);
+          }
+          console.log(`Saved to: ${ATP_ZIP}\n`);
+
           resolve();
         });
       }
@@ -238,13 +277,13 @@ async function main() {
 
   if (shouldExtract) {
     extractAllBrands();
+
+    // Get new counts (after) and generate comparison report
+    const afterCounts = getCurrentCounts();
+    generateReport(beforeCounts, afterCounts);
+  } else if (shouldDownload) {
+    console.log('Download complete. Run with --extract to update brands and see comparison report.');
   }
-
-  // Get new counts (after)
-  const afterCounts = getCurrentCounts();
-
-  // Generate report
-  generateReport(beforeCounts, afterCounts);
 }
 
 main().catch(err => {

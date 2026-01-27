@@ -102,6 +102,76 @@ function getProperty(props, ...keys) {
   return '';
 }
 
+/**
+ * Check if a string looks like a hotel/resort name rather than a city name.
+ * These sometimes appear in the city field in ATP data.
+ */
+function isHotelOrResortName(name) {
+  if (!name) return false;
+  const lower = name.toLowerCase();
+
+  // Keywords that indicate hotel/resort names
+  const hotelKeywords = [
+    'hotel', 'motel', 'inn ', ' inn', 'resort', 'lodge', 'suites', 'suite',
+    'hyatt', 'marriott', 'hilton', 'sheraton', 'westin', 'alila', 'ritz',
+    'four seasons', 'fairmont', 'intercontinental', 'holiday house',
+    'spa ', ' spa', 'ranch ', ' ranch', 'campground', 'camping',
+    'casa ', 'hacienda', 'villa ', 'villas', 'chateau', 'manor',
+    'beach resort', 'golf course', 'country club',
+    'the pearl', 'the bower', 'the estate', 'the laurel', 'the shay',
+    'dream hollywood', 'gaige house', 'sparrows lodge', 'terra vita',
+    'wild palms', 'pioneertown', 'mar monte', 'marina riviera'
+  ];
+
+  for (const keyword of hotelKeywords) {
+    if (lower.includes(keyword)) return true;
+  }
+
+  // Pattern: starts with "at " (like "at SFO", "at Anaheim Resort")
+  if (lower.startsWith('at ')) return true;
+
+  // Pattern: contains "in the" (like "Kissel Uptown Oakland - In the Unbound Collection")
+  if (lower.includes(' in the ')) return true;
+
+  return false;
+}
+
+/**
+ * Check if a string is obviously not a valid city name
+ */
+function isInvalidCityName(name) {
+  if (!name) return true;
+  const lower = name.toLowerCase();
+
+  // Too short to be a real city
+  if (name.length < 2) return true;
+
+  // Single word that's not a city (incomplete data)
+  const invalidSingleWords = [
+    'west', 'east', 'north', 'south', 'mount', 'mt', 'mt.', 'fort', 'ft', 'ft.',
+    'lake', 'port', 'point', 'camp', 'china', 'city', 'downtown', 'airport',
+    'county', 'area', 'region', 'center', 'central', 'plumas', 'shasta',
+    'lax', 'sfo', 'jfk', 'ord', 'dfw', 'mia', 'sea', 'las', 'phx',
+    'seaworld', 'disneyland', 'disneyworld'
+  ];
+  if (invalidSingleWords.includes(lower)) return true;
+
+  // Patterns that indicate invalid data
+  if (lower.startsWith('city of ') && lower.length < 12) return true;  // "City of" alone
+  if (lower.startsWith('downtown ')) return true;  // "Downtown Sacramento"
+  if (lower.endsWith(' area')) return true;  // "Sacramento Area"
+  if (lower.endsWith(' county')) return true;  // "Orange County"
+  if (lower.endsWith(' airport')) return true;  // "Los Angeles Airport"
+  if (lower.endsWith(' california')) return true;  // "Rancho Cucamonga, California"
+  if (lower.includes(' / ')) return true;  // "Ramona / Julian"
+  if (lower.match(/^\d+\s/)) return true;  // Starts with number (address)
+  if (lower.includes(' dr') || lower.includes(' rd') || lower.includes(' blvd') ||
+      lower.includes(' ave') || lower.includes(' street')) return true;  // Contains street suffix
+  if (lower.match(/\([^)]+\)$/)) return true;  // Ends with parenthetical like "Chula Vista (Eastlake)"
+
+  return false;
+}
+
 // US state names for matching
 const STATE_NAMES = [
   'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
@@ -285,7 +355,22 @@ const COUNTY_NAMES = [
   'Tuscaloosa', 'Morgan', 'Etowah', 'Calhoun', 'Houston', 'Limestone',
   'Collin', 'Denton', 'Tulsa', 'Denver', 'Milwaukee', 'Spokane', 'Salt',
   'Midland', 'Lubbock', 'Pueblo', 'Yuma', 'Florence', 'Hartford', 'Madera',
-  'Victoria', 'Kenosha', 'Waukesha', 'Yakima', 'Monterey', 'Jackson'
+  'Victoria', 'Kenosha', 'Waukesha', 'Yakima', 'Monterey', 'Jackson',
+  // Additional Alabama counties
+  'Autauga', 'Barbour', 'Bibb', 'Bullock', 'Chambers', 'Cherokee', 'Chilton',
+  'Choctaw', 'Clarke', 'Clay', 'Cleburne', 'Coffee', 'Colbert', 'Conecuh',
+  'Coosa', 'Covington', 'Crenshaw', 'Cullman', 'Dale', 'Dallas', 'Elmore',
+  'Escambia', 'Geneva', 'Greene', 'Hale', 'Lamar', 'Lauderdale', 'Lawrence',
+  'Lowndes', 'Macon', 'Marengo', 'Marshall', 'Perry', 'Pickens', 'Pike',
+  'Randolph', 'Russell', 'Talladega', 'Tallapoosa', 'Walker', 'Wilcox', 'Winston',
+  // Additional common county names from other states
+  'Apache', 'Cochise', 'Coconino', 'Gila', 'Graham', 'Greenlee', 'Mohave',
+  'Navajo', 'Pinal', 'Yavapai', 'Benton', 'Boone', 'Craighead', 'Crawford',
+  'Crittenden', 'Faulkner', 'Garland', 'Lonoke', 'Miller', 'Poinsett', 'Pope',
+  'Pulaski', 'Sebastian', 'White', 'Butte', 'Contra', 'Glenn', 'Humboldt',
+  'Imperial', 'Inyo', 'Lassen', 'Marin', 'Mendocino', 'Merced', 'Modoc',
+  'Napa', 'Nevada', 'Placer', 'Plumas', 'Shasta', 'Siskiyou', 'Solano',
+  'Sonoma', 'Stanislaus', 'Sutter', 'Tehama', 'Trinity', 'Tulare', 'Tuolumne'
 ];
 
 /**
@@ -372,13 +457,23 @@ function cleanCity(city) {
 function normalizeCity(city, state) {
   if (!city) return '';
 
-  // Convert ALL CAPS or all lowercase to proper case
+  // Convert ALL CAPS or all lowercase to proper case (Title Case)
+  // This handles: "SACRAMENTO" -> "Sacramento", "san jose" -> "San Jose"
   if ((city === city.toUpperCase() || city === city.toLowerCase()) && city.length > 2) {
     city = city.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
   }
 
+  // Fix mixed case where some words are lowercase: "El cajon" -> "El Cajon"
+  // Match any word that starts with lowercase and capitalize it
+  city = city.replace(/\b([a-z])(\w*)/g, (match, first, rest) => first.toUpperCase() + rest);
+
   // Fix "Mc" capitalization (Mckinney -> McKinney, Mcallen -> McAllen)
   city = city.replace(/\bMc([a-z])/g, (match, letter) => 'Mc' + letter.toUpperCase());
+
+  // Fix "La/Le/De" prefix capitalization when followed by capital (Lasalle -> LaSalle)
+  city = city.replace(/\bLa([A-Z])/g, (match, letter) => 'La' + letter);
+  city = city.replace(/\bLe([A-Z])/g, (match, letter) => 'Le' + letter);
+  city = city.replace(/\bDe([A-Z])/g, (match, letter) => 'De' + letter);
 
   // Apply city aliases to fix "City County" format -> "City"
   city = applyCityAlias(city, state);
@@ -390,10 +485,18 @@ function normalizeCity(city, state) {
   // "St " -> "St. " (add missing period)
   city = city.replace(/\bSt\s+(?=[A-Z])/g, 'St. ');
 
-  // Fond du Lac, King of Prussia, etc. (proper casing)
-  city = city.replace(/\bDu\b/gi, 'du');
-  city = city.replace(/\bDe\b/gi, 'de');
-  city = city.replace(/\bOf\b/gi, 'of');
+  // Fond du Lac, King of Prussia, etc. - lowercase articles/prepositions in middle of name
+  // Only lowercase when NOT at the start of the name
+  city = city.replace(/(.)\bDu\b/gi, (match, before) => before + 'du');
+  city = city.replace(/(.)\bOf\b/gi, (match, before) => before + 'of');
+
+  // Hyphenated names: lowercase articles/prepositions (Carmel-By-The-Sea -> Carmel-by-the-Sea)
+  city = city.replace(/-By-/g, '-by-');
+  city = city.replace(/-The-/g, '-the-');
+  city = city.replace(/-On-/g, '-on-');
+  city = city.replace(/-In-/g, '-in-');
+  city = city.replace(/-Of-/g, '-of-');
+  city = city.replace(/-At-/g, '-at-');
 
   // NY-specific normalizations
   if (state === 'NY') {
@@ -403,9 +506,11 @@ function normalizeCity(city, state) {
 
   // CA-specific normalizations
   if (state === 'CA') {
+    if (city === 'Bakerfield') return 'Bakersfield'; // common typo
     if (city === 'Big Bear') return 'Big Bear Lake';
     if (city === 'Toluca') return 'Toluca Lake';
     if (city === 'June') return 'June Lake';
+    if (city === 'Mt.') return 'Mt. Shasta';
   }
 
   // MI-specific normalizations
@@ -540,6 +645,7 @@ function normalizeCity(city, state) {
   // NC-specific normalizations
   if (state === 'NC') {
     if (city === 'Spring') return 'Spring Lake';
+    if (city === 'W.T. Harris Blvd') return 'Charlotte';
   }
 
   // IA-specific normalizations
@@ -572,10 +678,93 @@ function normalizeCity(city, state) {
     if (city === 'St Paul') return 'St. Paul';
   }
 
+  // AL-specific normalizations (fix typos in ATP data)
+  if (state === 'AL') {
+    if (city === 'Madsion') return 'Madison';
+    if (city === 'Henager') return 'Henagar';
+    if (city === 'Hunstville') return 'Huntsville';
+    if (city === 'Bayou la Batre' || city === 'Bayou Labatre') return 'Bayou La Batre';
+    if (city === 'Dixon Mills') return 'Dixons Mills';
+    if (city === 'Eufala') return 'Eufaula';
+    if (city === 'Laceys Spring') return 'Lacey Springs';
+    if (city === 'Lakeview') return 'Lake View';
+    if (city === 'Montomery') return 'Montgomery';
+    if (city === 'Norhtport') return 'Northport';
+    if (city === 'Owens Crossroads') return 'Owens Cross Roads';
+    if (city === 'Pell') return 'Pell City';
+    if (city === 'Pleasant Groves') return 'Pleasant Grove';
+    if (city === 'Prattvile' || city === 'Pratville') return 'Prattville';
+    if (city === 'Rainesville') return 'Rainsville';
+    if (city === 'Saraland,') return 'Saraland';
+    if (city === 'Smith Station') return 'Smiths Station';
+    if (city === 'Tucaloosa') return 'Tuscaloosa';
+    if (city === 'test' || city === 'Test') return '';  // filter out test data
+  }
+
+  // DC-specific normalizations (fix hotel names in city field)
+  if (state === 'DC') {
+    if (city.startsWith('Thompson Washington')) return 'Washington';
+  }
+
+  // GA-specific normalizations
+  if (state === 'GA') {
+    if (city === "Saint Simon's Island" || city === "St. Simon's Island" ||
+        city === 'St Simons Is' || city === 'St. Simons' || city === 'Saint Simons') {
+      return 'Saint Simons Island';
+    }
+    if (city === 'Alpheretta') return 'Alpharetta';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';
     if (city === 'Québec' || city === 'Quebec') return 'Québec';
+  }
+
+  // General normalizations for abbreviated directional prefixes
+  // E Brunswick -> East Brunswick, N Augusta -> North Augusta, etc.
+  if (city.match(/^E /)) city = 'East' + city.substring(1);
+  if (city.match(/^N /)) city = 'North' + city.substring(1);
+  if (city.match(/^S /)) city = 'South' + city.substring(1);
+  if (city.match(/^W /)) city = 'West' + city.substring(1);
+
+  // Fix "Mc " with space to "Mc" without space (Mc Allen -> McAllen)
+  if (city.match(/^Mc /)) city = 'Mc' + city.substring(3);
+
+  // Fix missing apostrophe in O' and D' names
+  if (city === 'O Fallon') return "O'Fallon";
+  if (city === 'O Neill') return "O'Neill";
+  if (city === 'D Iberville') return "D'Iberville";
+
+  // Fix Ft/Ft. -> Fort (general)
+  if (city.match(/^Ft\s+/)) city = 'Fort' + city.substring(2);
+  if (city.match(/^Ft\.\s*/)) city = 'Fort ' + city.substring(city.indexOf('.') + 1).trim();
+
+  // Fix Forth -> Fort (common typo)
+  if (city.match(/^Forth\s+/)) city = 'Fort' + city.substring(5);
+
+  // Fix Mt/Mt. -> Mount (general)
+  if (city.match(/^Mt\s+/)) city = 'Mount' + city.substring(2);
+  if (city.match(/^Mt\.\s*/)) city = 'Mount ' + city.substring(city.indexOf('.') + 1).trim();
+
+  // Fix " Ciy" or " Cty" -> " City" (common typos)
+  city = city.replace(/ Ciy$/, ' City');
+  city = city.replace(/ Cty$/, ' City');
+
+  // Fix common city name typos (multi-state)
+  if (city === 'Albuquereque') return 'Albuquerque';
+  if (city === 'Indianpolis') return 'Indianapolis';
+  if (city === 'Jacksonsville') return 'Jacksonville';
+  if (city === 'Mineapolis') return 'Minneapolis';
+  if (city === 'Milwakee' || city === 'Milwauke') return 'Milwaukee';
+  if (city === 'Nashvill') return 'Nashville';
+  if (city === 'Pheonix') return 'Phoenix';
+  if (city === 'Queens Creek') return 'Queen Creek';
+  if (city === 'Alpheretta') return 'Alpharetta';
+
+  // Fix vile -> ville typos
+  if (city.endsWith('vile') && !city.endsWith('ville')) {
+    city = city.slice(0, -4) + 'ville';
   }
 
   return city;
@@ -725,7 +914,20 @@ try {
       }
       // Only US locations (or empty country which usually means US)
       const country = getProperty(f.properties, 'addr:country', 'country');
-      return country === 'US' || country === '';
+      if (country !== 'US' && country !== '') return false;
+
+      // Filter out known test data entries
+      const city = getProperty(f.properties, 'addr:city', 'city');
+      const state = getProperty(f.properties, 'addr:state', 'state');
+      if (city === 'Test' && state === 'AL') return false;
+
+      // Filter out hotel/resort names that appear in city field
+      if (isHotelOrResortName(city)) return false;
+
+      // Filter out obviously invalid city names
+      if (isInvalidCityName(city)) return false;
+
+      return true;
     })
     .map(f => {
       const props = f.properties;

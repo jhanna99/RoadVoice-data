@@ -718,6 +718,37 @@ function normalizeCity(city, state) {
     if (city === 'Warner Robbins') return 'Warner Robins';
   }
 
+  // TX-specific normalizations
+  if (state === 'TX') {
+    if (city === 'Bee Caves') return 'Bee Cave';
+    if (city === 'Deerpark') return 'Deer Park';
+    if (city === 'Gerogetown') return 'Georgetown';
+    if (city === 'Halletsville') return 'Hallettsville';
+    if (city === 'Kileen') return 'Killeen';
+    if (city === 'Leaque City') return 'League City';
+    if (city === 'Mt Belveiu' || city === 'Mt. Belvieu' || city === 'Mount Belveiu') return 'Mont Belvieu';
+    if (city === 'Prarie View') return 'Prairie View';
+    if (city === 'China Spring') return 'China Springs';
+    if (city === 'Van Veleck') return 'Van Vleck';
+  }
+
+  // PA-specific normalizations
+  if (state === 'PA') {
+    if (city === 'Dicksoncity') return 'Dickson City';
+    if (city === 'Jeanette') return 'Jeannette';
+    if (city === 'Emmaus' || city === 'Emaus') return 'Emmaus';
+    if (city === 'E-town' || city === 'E-Town') return 'Elizabethtown';
+    if (city === 'Mc Sherrystown') return 'McSherrystown';
+    if (city === 'N Versailles' || city === 'N. Versailles') return 'North Versailles';
+    if (city === 'N Huntingdon' || city === 'N. Huntingdon') return 'North Huntingdon';
+    if (city === 'Cranberry Twp' || city === 'Cranberry Twp.') return 'Cranberry Township';
+    if (city === 'Ross Twp' || city === 'Ross Twp.') return 'Ross Township';
+    if (city === 'Scott Twp' || city === 'Scott Twp.') return 'Scott Township';
+    if (city === 'Hanover Twp' || city === 'Hanover Twp.') return 'Hanover Township';
+    if (city === 'Mt. Airy') return 'Mount Airy';
+    if (city === 'Mt. Penn') return 'Mount Penn';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

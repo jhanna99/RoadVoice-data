@@ -699,6 +699,19 @@ function normalizeCity(city, state) {
     if (city === 'Smith Station') return 'Smiths Station';
     if (city === 'Tucaloosa') return 'Tuscaloosa';
     if (city === 'test' || city === 'Test') return '';  // filter out test data
+    if (city === 'Ft. Novosel' || city === 'Ft Novosel') return 'Fort Novosel';
+    if (city === 'G Hoover') return 'Hoover';
+    if (city === 'Mc Calla') return 'McCalla';
+    if (city === 'Town of Pike Road') return 'Pike Road';
+    if (city === 'Tuskegee Institute') return 'Tuskegee';
+    if (city === 'Pelham (Birmingham)') return 'Pelham';
+  }
+
+  // LA-specific normalizations
+  if (state === 'LA') {
+    if (city === 'Gonzalez') return 'Gonzales';
+    if (city === 'Barksdale Air Force Base') return 'Barksdale AFB';
+    if (city === 'Laplace' || city === 'La place') return 'LaPlace';
   }
 
   // DC-specific normalizations (fix hotel names in city field)

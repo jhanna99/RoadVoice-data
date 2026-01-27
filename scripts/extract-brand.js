@@ -827,6 +827,11 @@ function normalizeCity(city, state) {
     if (city === 'Brookfield Twp' || city === 'Brookfield Twp.') return 'Brookfield Township';
   }
 
+  // OR-specific normalizations
+  if (state === 'OR') {
+    if (city === 'Milwaukee') return 'Milwaukie';  // Oregon spelling
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

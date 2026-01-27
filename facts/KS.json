@@ -1,0 +1,5765 @@
+{
+  "facts": [
+    {
+      "cityName": "Abbyville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 83."
+    },
+    {
+      "cityName": "Abilene",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home of the Dwight D. Eisenhower Presidential Library and the Greyhound Hall of Fame."
+    },
+    {
+      "cityName": "Abilene",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 6460."
+    },
+    {
+      "cityName": "Admire",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 130."
+    },
+    {
+      "cityName": "Agenda",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 47."
+    },
+    {
+      "cityName": "Agra",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 208."
+    },
+    {
+      "cityName": "Albert",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 132."
+    },
+    {
+      "cityName": "Alden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 122."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 54."
+    },
+    {
+      "cityName": "Allen",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 160."
+    },
+    {
+      "cityName": "Alma",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 802."
+    },
+    {
+      "cityName": "Almena",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 363."
+    },
+    {
+      "cityName": "Alta Vista",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 409."
+    },
+    {
+      "cityName": "Altamont",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1061."
+    },
+    {
+      "cityName": "Alton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 100."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 354."
+    },
+    {
+      "cityName": "Americus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 776."
+    },
+    {
+      "cityName": "Americus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Americus is often a waypoint in some Unbound Gravel bike races."
+    },
+    {
+      "cityName": "Andale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 941."
+    },
+    {
+      "cityName": "Andover",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 14892."
+    },
+    {
+      "cityName": "Anthony",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2108."
+    },
+    {
+      "cityName": "Arcadia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 254."
+    },
+    {
+      "cityName": "Argonia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 456."
+    },
+    {
+      "cityName": "Arkansas City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 11974."
+    },
+    {
+      "cityName": "Arlington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 435."
+    },
+    {
+      "cityName": "Arma",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1407."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 783."
+    },
+    {
+      "cityName": "Assaria",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 428."
+    },
+    {
+      "cityName": "Atchison",
+      "state": "KS",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Amelia Earhart was born in Atchison."
+    },
+    {
+      "cityName": "Atchison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Atchison is also the home of Benedictine College, a Catholic liberal arts university."
+    },
+    {
+      "cityName": "Atchison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named in honor of US Senator David Rice Atchison from Missouri and was the original eastern terminus of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Atchison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 10885."
+    },
+    {
+      "cityName": "Athol",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 41."
+    },
+    {
+      "cityName": "Atlanta",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 168."
+    },
+    {
+      "cityName": "Attica",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after the historical region of Attica, in Greece."
+    },
+    {
+      "cityName": "Attica",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 516."
+    },
+    {
+      "cityName": "Atwood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1290."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1273."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 9256."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 56."
+    },
+    {
+      "cityName": "Axtell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 399."
+    },
+    {
+      "cityName": "Baldwin City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Baker University, the state's oldest four-year university."
+    },
+    {
+      "cityName": "Baldwin City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 4826."
+    },
+    {
+      "cityName": "Barnard",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 64."
+    },
+    {
+      "cityName": "Barnes",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 165."
+    },
+    {
+      "cityName": "Bartlett",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 69."
+    },
+    {
+      "cityName": "Basehor",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6896."
+    },
+    {
+      "cityName": "Bassett",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 20."
+    },
+    {
+      "cityName": "Baxter Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3888."
+    },
+    {
+      "cityName": "Bazine",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 282."
+    },
+    {
+      "cityName": "Beattie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has been called \"The Milo Capital of the World\" and hosts the annual \"Beattie Milo Festival\"."
+    },
+    {
+      "cityName": "Beattie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 197."
+    },
+    {
+      "cityName": "Bel Aire",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 8262."
+    },
+    {
+      "cityName": "Belle Plaine",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1467."
+    },
+    {
+      "cityName": "Belleville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2007."
+    },
+    {
+      "cityName": "Beloit",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3404."
+    },
+    {
+      "cityName": "Belpre",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 97."
+    },
+    {
+      "cityName": "Belvue",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 177."
+    },
+    {
+      "cityName": "Benedict",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 69."
+    },
+    {
+      "cityName": "Bennington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 622."
+    },
+    {
+      "cityName": "Bentley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 560."
+    },
+    {
+      "cityName": "Benton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 943."
+    },
+    {
+      "cityName": "Bern",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 161."
+    },
+    {
+      "cityName": "Beverly",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 135."
+    },
+    {
+      "cityName": "Bird City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 437."
+    },
+    {
+      "cityName": "Bison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 179."
+    },
+    {
+      "cityName": "Blue Mound",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 219."
+    },
+    {
+      "cityName": "Blue Rapids",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 928."
+    },
+    {
+      "cityName": "Bluff City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 45."
+    },
+    {
+      "cityName": "Bogue",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bogue is located on K-18, south of U S Route 24, on the South Fork Solomon River."
+    },
+    {
+      "cityName": "Bogue",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 155."
+    },
+    {
+      "cityName": "Bonner Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bonner Springs is home to the Azura Amphitheater (previously named the Sandstone Amphitheater), the National Agricultural Center and Hall of Fame, Wyandotte County Historical Museum, and the annual Kansas City Renaissance Festival."
+    },
+    {
+      "cityName": "Bonner Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bonner Springs was incorporated as a city on November 10, 1898."
+    },
+    {
+      "cityName": "Bonner Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 7837."
+    },
+    {
+      "cityName": "Brewster",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 291."
+    },
+    {
+      "cityName": "Bronson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 304."
+    },
+    {
+      "cityName": "Brookville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 247."
+    },
+    {
+      "cityName": "Brownell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 23."
+    },
+    {
+      "cityName": "Bucklin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 727."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 217."
+    },
+    {
+      "cityName": "Buhler",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1325."
+    },
+    {
+      "cityName": "Bunker Hill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 103."
+    },
+    {
+      "cityName": "Burden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 512."
+    },
+    {
+      "cityName": "Burdett",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 228."
+    },
+    {
+      "cityName": "Burlingame",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 971."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2634."
+    },
+    {
+      "cityName": "Burns",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 234."
+    },
+    {
+      "cityName": "Burns",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city name came from a nearby train station, which was named prior to the city being incorporated."
+    },
+    {
+      "cityName": "Burns",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The southern edge of the city is the border between Marion and Butler counties."
+    },
+    {
+      "cityName": "Burr Oak",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 140."
+    },
+    {
+      "cityName": "Burrton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Isaac T. Burr, former vice-president of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Burrton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 861."
+    },
+    {
+      "cityName": "Bushong",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 27."
+    },
+    {
+      "cityName": "Bushton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 203."
+    },
+    {
+      "cityName": "Byers",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 38."
+    },
+    {
+      "cityName": "Caldwell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1025."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 92."
+    },
+    {
+      "cityName": "Caney",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1788."
+    },
+    {
+      "cityName": "Canton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Canton, Ohio."
+    },
+    {
+      "cityName": "Canton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 685."
+    },
+    {
+      "cityName": "Carbondale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1352."
+    },
+    {
+      "cityName": "Carlton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 40."
+    },
+    {
+      "cityName": "Cassoday",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the \"Prairie Chicken Capital of the World\"."
+    },
+    {
+      "cityName": "Cassoday",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 113."
+    },
+    {
+      "cityName": "Cawker City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of several places claiming to be home of the largest ball of twine in the world."
+    },
+    {
+      "cityName": "Cawker City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 457."
+    },
+    {
+      "cityName": "Cedar",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population of the city was 11."
+    },
+    {
+      "cityName": "Cedar Point",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 22."
+    },
+    {
+      "cityName": "Cedar Point",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is approximately five miles east of Florence and 0.5 mile south of U S Route 50 highway."
+    },
+    {
+      "cityName": "Centralia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 485."
+    },
+    {
+      "cityName": "Chanute",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chanute is home of Neosho County Community College."
+    },
+    {
+      "cityName": "Chanute",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded on January 1, 1873, it was named after railroad engineer and aviation pioneer Octave Chanute."
+    },
+    {
+      "cityName": "Chanute",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 8722."
+    },
+    {
+      "cityName": "Chapman",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1377."
+    },
+    {
+      "cityName": "Chase",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 396."
+    },
+    {
+      "cityName": "Chautauqua",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 108."
+    },
+    {
+      "cityName": "Cheney",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2181."
+    },
+    {
+      "cityName": "Cherokee",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 590."
+    },
+    {
+      "cityName": "Cherryvale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2192."
+    },
+    {
+      "cityName": "Chetopa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chetopa was named for Chief Chetopah, an Osage Indian chief."
+    },
+    {
+      "cityName": "Chetopa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 929."
+    },
+    {
+      "cityName": "Chetopa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Later, the community name was shortened."
+    },
+    {
+      "cityName": "Cimarron",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1981."
+    },
+    {
+      "cityName": "Circleville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 153."
+    },
+    {
+      "cityName": "Claflin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 562."
+    },
+    {
+      "cityName": "Clay Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4199."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 44."
+    },
+    {
+      "cityName": "Clearwater",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2653."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 454."
+    },
+    {
+      "cityName": "Climax",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 45."
+    },
+    {
+      "cityName": "Clyde",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 694."
+    },
+    {
+      "cityName": "Coats",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 68."
+    },
+    {
+      "cityName": "Coffeyville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 8826."
+    },
+    {
+      "cityName": "Coffeyville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of South Coffeyville, Oklahoma is approximately 1 mile (1.6 km) south of the city."
+    },
+    {
+      "cityName": "Colby",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5570."
+    },
+    {
+      "cityName": "Coldwater",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 687."
+    },
+    {
+      "cityName": "Collyer",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 97."
+    },
+    {
+      "cityName": "Colony",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 381."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2929."
+    },
+    {
+      "cityName": "Colwich",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1455."
+    },
+    {
+      "cityName": "Concordia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Concordia is home of the Cloud County Community College and the Nazareth Convent and Academy."
+    },
+    {
+      "cityName": "Concordia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 5111."
+    },
+    {
+      "cityName": "Conway Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1086."
+    },
+    {
+      "cityName": "Coolidge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 80."
+    },
+    {
+      "cityName": "Copeland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 251."
+    },
+    {
+      "cityName": "Corning",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 212."
+    },
+    {
+      "cityName": "Cottonwood Falls",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 851."
+    },
+    {
+      "cityName": "Council Grove",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after an agreement between American settlers and the Osage Nation allowing settlers' wagon trains to pass westward through the area on the Santa Fe Trail."
+    },
+    {
+      "cityName": "Council Grove",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 2140."
+    },
+    {
+      "cityName": "Council Grove",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pioneers gathered at a grove of trees so that wagons could band together for their trip west."
+    },
+    {
+      "cityName": "Courtland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 294."
+    },
+    {
+      "cityName": "Coyville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 60."
+    },
+    {
+      "cityName": "Cuba",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 140."
+    },
+    {
+      "cityName": "Cullison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 83."
+    },
+    {
+      "cityName": "Culver",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 114."
+    },
+    {
+      "cityName": "Cunningham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 444."
+    },
+    {
+      "cityName": "Cunningham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named in honor of J D Cunningham, a pioneer settler."
+    },
+    {
+      "cityName": "Damar",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 112."
+    },
+    {
+      "cityName": "Danville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 29."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6118, and the 2021 estimate is 6380."
+    },
+    {
+      "cityName": "Dearing",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 382."
+    },
+    {
+      "cityName": "Deerfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 711."
+    },
+    {
+      "cityName": "Delia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 151."
+    },
+    {
+      "cityName": "Delphos",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Delphos, Ohio."
+    },
+    {
+      "cityName": "Delphos",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 302."
+    },
+    {
+      "cityName": "Denison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 146."
+    },
+    {
+      "cityName": "Denton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 130."
+    },
+    {
+      "cityName": "Derby",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 25625, the largest suburb of Wichita."
+    },
+    {
+      "cityName": "Dexter",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 224."
+    },
+    {
+      "cityName": "Dighton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dighton is named for Dick Dighton, a surveyor."
+    },
+    {
+      "cityName": "Dighton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 960."
+    },
+    {
+      "cityName": "Dodge City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after nearby Fort Dodge, which was named in honor of Grenville Dodge."
+    },
+    {
+      "cityName": "Dodge City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 27788."
+    },
+    {
+      "cityName": "Dodge City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is known in American culture for its history as a wild frontier town of the Old West."
+    },
+    {
+      "cityName": "Dorrance",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 146."
+    },
+    {
+      "cityName": "Douglass",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1555."
+    },
+    {
+      "cityName": "Downs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 800."
+    },
+    {
+      "cityName": "Dresden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 43."
+    },
+    {
+      "cityName": "Dunlap",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 27."
+    },
+    {
+      "cityName": "Durham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 89."
+    },
+    {
+      "cityName": "Durham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city took its name from Durham cattle."
+    },
+    {
+      "cityName": "Dwight",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 217."
+    },
+    {
+      "cityName": "Earlton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 60."
+    },
+    {
+      "cityName": "Easton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 213."
+    },
+    {
+      "cityName": "Edgerton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1748."
+    },
+    {
+      "cityName": "Edgerton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to a large BNSF intermodal train facility named Logistics Park Kansas City."
+    },
+    {
+      "cityName": "Edmond",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 28."
+    },
+    {
+      "cityName": "Edna",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 388."
+    },
+    {
+      "cityName": "Edwardsville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4717."
+    },
+    {
+      "cityName": "Effingham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 495."
+    },
+    {
+      "cityName": "El Dorado",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Butler Community College."
+    },
+    {
+      "cityName": "El Dorado",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 12870."
+    },
+    {
+      "cityName": "Elbing",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the city Elbl\u0105g (German: Elbing) in northern Poland, formerly Prussia."
+    },
+    {
+      "cityName": "Elbing",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 226."
+    },
+    {
+      "cityName": "Elgin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 60."
+    },
+    {
+      "cityName": "Elgin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The south edge of the city is the Kansas-Oklahoma state line."
+    },
+    {
+      "cityName": "Elk City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 260."
+    },
+    {
+      "cityName": "Elk Falls",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 113."
+    },
+    {
+      "cityName": "Elkhart",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1888."
+    },
+    {
+      "cityName": "Elkhart",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The southern edge of the city is the Kansas\u2013Oklahoma state border, and the city is 8.5 miles (13.7 km) from the Kansas\u2013Colorado border."
+    },
+    {
+      "cityName": "Ellinwood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2011."
+    },
+    {
+      "cityName": "Ellis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1958."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known as a cow town in the 1870s, when the Kansas Pacific Railroad operated a stockyard here for shipping cattle to eastern markets."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 3066."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 21st century, Ellsworth is the trading center of the rural county."
+    },
+    {
+      "cityName": "Elmdale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 40."
+    },
+    {
+      "cityName": "Elsmore",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 50."
+    },
+    {
+      "cityName": "Elsmore",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Elsmore is a corruption of Elsinore, where Shakespeare's play Hamlet was set."
+    },
+    {
+      "cityName": "Elwood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1125."
+    },
+    {
+      "cityName": "Emmett",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 170."
+    },
+    {
+      "cityName": "Emporia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Emporia State University and Flint Hills Technical College, and two annual sporting events: Unbound Gravel (gravel bicycle race) and Dynamic Discs Open (disc golf tournament)."
+    },
+    {
+      "cityName": "Emporia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 24139."
+    },
+    {
+      "cityName": "Emporia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Emporia lies between Topeka and Wichita at the intersection of highways K-99, U S Route 50, Interstates 335 and 35 (Kansas Turnpike)."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 58."
+    },
+    {
+      "cityName": "Ensign",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 166."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 708."
+    },
+    {
+      "cityName": "Erie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1047."
+    },
+    {
+      "cityName": "Esbon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 69."
+    },
+    {
+      "cityName": "Eskridge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 439."
+    },
+    {
+      "cityName": "Eudora",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6408."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2332."
+    },
+    {
+      "cityName": "Everest",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 265."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 240."
+    },
+    {
+      "cityName": "Fairway",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 United States census, the city population was 4170."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 131."
+    },
+    {
+      "cityName": "Florence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after the daughter of the third Governor of Kansas, Samuel J. Crawford."
+    },
+    {
+      "cityName": "Florence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 394."
+    },
+    {
+      "cityName": "Fontana",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Fontana comes from the French word fontaine, meaning fountain or a spring-like water source."
+    },
+    {
+      "cityName": "Fontana",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was given to the small city from a spring near the town site."
+    },
+    {
+      "cityName": "Fontana",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 210."
+    },
+    {
+      "cityName": "Ford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 203."
+    },
+    {
+      "cityName": "Formoso",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 94."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Leavenworth has been historically known as the \"Intellectual Center of the Army.\" During the country's westward expansion, Fort Leavenworth was a forward destination for thousands of soldiers, surveyors, immigrants, American Indians, preachers and settlers who passed through."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Built in 1827, it is the second oldest active United States Army post west of Washington, D.C., and the oldest permanent settlement in Kansas."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, the garrison supports the US Army Training and Doctrine Command (TRADOC) by managing and maintaining the home of the US Army Combined Arms Center (CAC)."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In addition, the Fort Leavenworth Garrison supports numerous tenant organizations that directly and indirectly relate to the functions of the CAC, including the United States Army Command and General Staff College and the Foreign Military Studies Office."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "They became known as Buffalo Soldiers, nicknamed by the Native American tribes whom they fought."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Fort Leavenworth () is a United States Army installation located in Leavenworth County, Kansas, in the city of Leavenworth."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "CAC's mission involves leader development, collective training, and Army doctrine and battle command (current and future)."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Fort Leavenworth is also home to the Military Corrections Complex, consisting of the United States Disciplinary Barracks \u2013 the Department of Defense's only maximum security prison \u2013 and the Midwest Joint Regional Correctional Facility."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The fort occupies 5600 acres (2300 ha) and has 7000000 square feet (650000 m2) of floor area in 1000 buildings and 1500 quarters."
+    },
+    {
+      "cityName": "Fort Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Fort Leavenworth was also the base of African-American soldiers of the U S 10th Cavalry Regiment of the United States Army, formed on 21 September 1866 at Fort Leavenworth."
+    },
+    {
+      "cityName": "Fort Riley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Riley is a United States Army installation located in North Central Kansas, on the Kansas River, also known as the Kaw, between Junction City and Manhattan."
+    },
+    {
+      "cityName": "Fort Riley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Fort Riley Military Reservation covers 101733 acres (41170 ha) in Geary and Riley counties."
+    },
+    {
+      "cityName": "Fort Riley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Fort consists of six functional areas, including the Main Post, Camp Funston, Marshall Army Airfield (MAAF), Camp Whitside, Camp Forsyth, and Custer Hill."
+    },
+    {
+      "cityName": "Fort Riley North",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 9230."
+    },
+    {
+      "cityName": "Fort Scott",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Fort Scott National Historic Site and the Fort Scott National Cemetery."
+    },
+    {
+      "cityName": "Fort Scott",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 7552."
+    },
+    {
+      "cityName": "Fowler",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 534."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 730."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 8."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1868, and saw considerable expansion in the early 20th century, with a fossil fuel boom."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 2151."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3382."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 165."
+    },
+    {
+      "cityName": "Galatia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 45."
+    },
+    {
+      "cityName": "Galena",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2761."
+    },
+    {
+      "cityName": "Galesburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 149."
+    },
+    {
+      "cityName": "Galva",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 834."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Garden City Community College and the Lee Richardson Zoo, the largest zoological park in western Kansas."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 28151."
+    },
+    {
+      "cityName": "Garden Plain",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 948."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 23287."
+    },
+    {
+      "cityName": "Garfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 151."
+    },
+    {
+      "cityName": "Garnett",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3242."
+    },
+    {
+      "cityName": "Gas",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for the abundant natural gas that was found in the area."
+    },
+    {
+      "cityName": "Gas",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 475."
+    },
+    {
+      "cityName": "Gaylord",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 87."
+    },
+    {
+      "cityName": "Gem",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 98."
+    },
+    {
+      "cityName": "Geneseo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 236."
+    },
+    {
+      "cityName": "Geuda Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 158."
+    },
+    {
+      "cityName": "Girard",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2496."
+    },
+    {
+      "cityName": "Glade",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 52."
+    },
+    {
+      "cityName": "Glasco",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 441."
+    },
+    {
+      "cityName": "Glen Elder",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 362."
+    },
+    {
+      "cityName": "Goddard",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5084."
+    },
+    {
+      "cityName": "Goessel",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after Captain Kurt von Goessel (1852\u20131895) who went down with his ship, the Elbe, in the English Channel after it was rammed."
+    },
+    {
+      "cityName": "Goessel",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 556."
+    },
+    {
+      "cityName": "Goff",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 106."
+    },
+    {
+      "cityName": "Goodland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Goodland, Indiana."
+    },
+    {
+      "cityName": "Goodland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Goodland is home to Fort Hays Tech | Northwest (formerly Northwest Kansas Technical College)."
+    },
+    {
+      "cityName": "Goodland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 4465."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 376."
+    },
+    {
+      "cityName": "Gove City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 80."
+    },
+    {
+      "cityName": "Grainfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 322."
+    },
+    {
+      "cityName": "Grandview Plaza",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1697."
+    },
+    {
+      "cityName": "Grantville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 182."
+    },
+    {
+      "cityName": "Great Bend",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for its location at the point where the course of the Arkansas River bends east then southeast."
+    },
+    {
+      "cityName": "Great Bend",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Barton Community College."
+    },
+    {
+      "cityName": "Great Bend",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 14733."
+    },
+    {
+      "cityName": "Greeley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 273."
+    },
+    {
+      "cityName": "Green",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 95."
+    },
+    {
+      "cityName": "Greenleaf",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 350."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the world's largest hand-dug well."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 United States census, the population of the city was 740."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On the evening of May 4, 2007, Greensburg was devastated by an EF5 tornado that damaged 95 percent of the city, with 112 houses in the city sustaining EF4+ level damage."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The tornado, which was 1.7 miles wide when entering Greensburg, killed eleven people between the ages of 46 and 84 there."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community had a population of 2000 people in the late 1990s, and 1400 people before the tornado leveled the city."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "By 2010, over half of Greensburg's population before the tornado had moved away from the city."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The new hospital, city hall, and school have all been built to the highest certification level issued by Leadership in Energy and Environmental Design (LEED)."
+    },
+    {
+      "cityName": "Grenola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 151."
+    },
+    {
+      "cityName": "Gridley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 313."
+    },
+    {
+      "cityName": "Grinnell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 260."
+    },
+    {
+      "cityName": "Gypsum",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 400."
+    },
+    {
+      "cityName": "Haddam",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Haddam, Connecticut."
+    },
+    {
+      "cityName": "Haddam",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 110."
+    },
+    {
+      "cityName": "Halstead",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Halstead was named in honor of Murat Halstead, a respected Civil War correspondent and newspaper editor."
+    },
+    {
+      "cityName": "Halstead",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 2179."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 182."
+    },
+    {
+      "cityName": "Hamlin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 25."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 690."
+    },
+    {
+      "cityName": "Hanston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 259."
+    },
+    {
+      "cityName": "Hardtner",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 167."
+    },
+    {
+      "cityName": "Harper",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1313."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 355."
+    },
+    {
+      "cityName": "Harveyville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 178."
+    },
+    {
+      "cityName": "Havana",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 84."
+    },
+    {
+      "cityName": "Haven",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1170."
+    },
+    {
+      "cityName": "Havensville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 119."
+    },
+    {
+      "cityName": "Haviland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home of Barclay College and known for meteorite finds connected to the Haviland Crater."
+    },
+    {
+      "cityName": "Haviland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 678."
+    },
+    {
+      "cityName": "Hays",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hays is home to Fort Hays State University."
+    },
+    {
+      "cityName": "Hays",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The most populous city in northwestern Kansas, it is the economic and cultural center of the region."
+    },
+    {
+      "cityName": "Hays",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 21116."
+    },
+    {
+      "cityName": "Haysville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haysville was known as the \"Peach Capital of Kansas\"."
+    },
+    {
+      "cityName": "Haysville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 11262."
+    },
+    {
+      "cityName": "Hazelton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 82."
+    },
+    {
+      "cityName": "Hepler",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 90."
+    },
+    {
+      "cityName": "Herington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2109."
+    },
+    {
+      "cityName": "Herndon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 119."
+    },
+    {
+      "cityName": "Hesston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home of Hesston College."
+    },
+    {
+      "cityName": "Hesston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Large manufacturing facilities for AGCO (farm equipment) and Stanley Black & Decker (lawn mowers) are located in Hesston."
+    },
+    {
+      "cityName": "Hesston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 3505."
+    },
+    {
+      "cityName": "Hiawatha",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3280."
+    },
+    {
+      "cityName": "Highland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Highland Community College."
+    },
+    {
+      "cityName": "Highland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 903."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1403."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has a significant student population, because it is home of Tabor College."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named after John Hill, who homesteaded in the area in 1871."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 2732."
+    },
+    {
+      "cityName": "Hillsdale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 247."
+    },
+    {
+      "cityName": "Hillsdale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hillsdale is located near U S Route 169 and K-7, 6 miles (9.7 km) north-northeast of Paola."
+    },
+    {
+      "cityName": "Hoisington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2699."
+    },
+    {
+      "cityName": "Holcomb",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2245."
+    },
+    {
+      "cityName": "Hollenberg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 10."
+    },
+    {
+      "cityName": "Holton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3401."
+    },
+    {
+      "cityName": "Holyrood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 403."
+    },
+    {
+      "cityName": "Hope",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 317."
+    },
+    {
+      "cityName": "Horace",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 102."
+    },
+    {
+      "cityName": "Horton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1523."
+    },
+    {
+      "cityName": "Howard",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 570."
+    },
+    {
+      "cityName": "Hoxie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1211."
+    },
+    {
+      "cityName": "Hoyt",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 593."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 95."
+    },
+    {
+      "cityName": "Hugoton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3747."
+    },
+    {
+      "cityName": "Humboldt",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1847."
+    },
+    {
+      "cityName": "Hunnewell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 44."
+    },
+    {
+      "cityName": "Hunter",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 51."
+    },
+    {
+      "cityName": "Huron",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 74."
+    },
+    {
+      "cityName": "Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Hutchinson Community College, the Cosmosphere aerospace museum, and Strataca underground salt museum."
+    },
+    {
+      "cityName": "Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has been home to salt mines since 1887, thus its nickname of \"Salt City\"."
+    },
+    {
+      "cityName": "Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Each year, Hutchinson hosts the Kansas State Fair, and National Junior College Athletic Association (NJCAA) Men's Basketball Tournament."
+    },
+    {
+      "cityName": "Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 40006."
+    },
+    {
+      "cityName": "Independence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Independence Community College is located here."
+    },
+    {
+      "cityName": "Independence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 8548."
+    },
+    {
+      "cityName": "Independence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named in commemoration of the Declaration of Independence."
+    },
+    {
+      "cityName": "Ingalls",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 252."
+    },
+    {
+      "cityName": "Inman",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1341."
+    },
+    {
+      "cityName": "Iola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5396."
+    },
+    {
+      "cityName": "Iola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named in honor of Iola Colborn, the wife of Josiah Colborn, one of the town's founders."
+    },
+    {
+      "cityName": "Isabel",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 68."
+    },
+    {
+      "cityName": "Iuka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 151."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 237."
+    },
+    {
+      "cityName": "Jennings",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 81."
+    },
+    {
+      "cityName": "Jetmore",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 770."
+    },
+    {
+      "cityName": "Jewell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 370."
+    },
+    {
+      "cityName": "Johnson City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1464."
+    },
+    {
+      "cityName": "Junction City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 22932."
+    },
+    {
+      "cityName": "Junction City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Riley, a major U S Army post, is nearby."
+    },
+    {
+      "cityName": "Kanopolis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 443."
+    },
+    {
+      "cityName": "Kanopolis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was built on the site of Fort Harker, a United States Army post that housed infantry and cavalry troops involved in the Indian Wars from 1867 to 1872."
+    },
+    {
+      "cityName": "Kanorado",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name is a portmanteau of Kansas and Colorado, because it is near the state line."
+    },
+    {
+      "cityName": "Kanorado",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 153."
+    },
+    {
+      "cityName": "Kansas",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the University of Kansas Medical Center and Kansas City Kansas Community College."
+    },
+    {
+      "cityName": "Kansas",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is an inner suburb of the older and more populous Kansas City, Missouri, after which it is named."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the University of Kansas Medical Center and Kansas City Kansas Community College."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is an inner suburb of the older and more populous Kansas City, Missouri, after which it is named."
+    },
+    {
+      "cityName": "Kechi",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2217."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 399."
+    },
+    {
+      "cityName": "Kincaid",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 103."
+    },
+    {
+      "cityName": "Kingman",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3105."
+    },
+    {
+      "cityName": "Kinsley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1456."
+    },
+    {
+      "cityName": "Kiowa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 902."
+    },
+    {
+      "cityName": "Kirwin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 139."
+    },
+    {
+      "cityName": "Kismet",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 340."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1266."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "La Crosse proclaims itself the \"Barbed Wire capital of the world."
+    },
+    {
+      "cityName": "La Cygne",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after the Marais des Cygnes River which is a French translation of an Osage appellation meaning \"marsh of the swans\"."
+    },
+    {
+      "cityName": "La Cygne",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1050."
+    },
+    {
+      "cityName": "La Harpe",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 480."
+    },
+    {
+      "cityName": "Labette",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 50."
+    },
+    {
+      "cityName": "Lake Quivira",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1014."
+    },
+    {
+      "cityName": "Lakin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2205."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 246."
+    },
+    {
+      "cityName": "Lane",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 241."
+    },
+    {
+      "cityName": "Langdon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 39."
+    },
+    {
+      "cityName": "Lansing",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 11239."
+    },
+    {
+      "cityName": "Lansing",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lansing Correctional Facility (formerly the Kansas State Penitentiary), which includes the state's main maximum-security prison, is located in Lansing."
+    },
+    {
+      "cityName": "Larned",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3769."
+    },
+    {
+      "cityName": "Latham",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 96."
+    },
+    {
+      "cityName": "Latimer",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 31."
+    },
+    {
+      "cityName": "LeRoy",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 451."
+    },
+    {
+      "cityName": "Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the Civil War, many volunteers joined the Union Army from Leavenworth."
+    },
+    {
+      "cityName": "Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city became known in American history for its role as a key supply base in the settlement of the American West."
+    },
+    {
+      "cityName": "Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city has been notable as the location of several prisons, particularly the United States Disciplinary Barracks and United States Penitentiary, Leavenworth."
+    },
+    {
+      "cityName": "Leavenworth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 37351."
+    },
+    {
+      "cityName": "Leawood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 33902."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 178."
+    },
+    {
+      "cityName": "Lebo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 885."
+    },
+    {
+      "cityName": "Lecompton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lecompton, located on the Kansas River, was the de jure territorial capital of Kansas from 1855 to 1861, and the Douglas County seat from 1855 to 1858."
+    },
+    {
+      "cityName": "Lecompton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 588."
+    },
+    {
+      "cityName": "Lecompton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Anti-slavery Lawrence became the de facto capital during the latter part of this period, when the county seat was moved there."
+    },
+    {
+      "cityName": "Lecompton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "This time period was known as Bleeding Kansas, due to the violence perpetrated by the pro-slavery, and to a lesser extent the anti-slavery, factions in the eastern part of the state."
+    },
+    {
+      "cityName": "Lecompton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lecompton was a hotbed of pro-slavery sentiment during the mid-1800s."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 161."
+    },
+    {
+      "cityName": "Lenexa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 57434. making it the ninth-most populated city in Kansas."
+    },
+    {
+      "cityName": "Lenexa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bordered by the cities of Shawnee to the north, Overland Park to the east, De Soto to the west, and Olathe to the south."
+    },
+    {
+      "cityName": "Lenora",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 207."
+    },
+    {
+      "cityName": "Leon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 669."
+    },
+    {
+      "cityName": "Leona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 41."
+    },
+    {
+      "cityName": "Leonardville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 432."
+    },
+    {
+      "cityName": "Leoti",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1475."
+    },
+    {
+      "cityName": "Lewis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 400."
+    },
+    {
+      "cityName": "Liberal",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Liberal is the home of Seward County Community College."
+    },
+    {
+      "cityName": "Liberal",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2024, the population of the city was 18743."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 99."
+    },
+    {
+      "cityName": "Liebenthal",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 92."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1171."
+    },
+    {
+      "cityName": "Lincoln Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1171."
+    },
+    {
+      "cityName": "Lincolnville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after Abraham Lincoln, the 16th president of the United States."
+    },
+    {
+      "cityName": "Lincolnville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 168."
+    },
+    {
+      "cityName": "Lindsborg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lindsborg is known for its large Swedish, other Nordic and Scandinavian heritages."
+    },
+    {
+      "cityName": "Lindsborg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 3776."
+    },
+    {
+      "cityName": "Lindsborg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to the biennial Svensk Hyllningsfest."
+    },
+    {
+      "cityName": "Linn",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 387."
+    },
+    {
+      "cityName": "Linn Valley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 956."
+    },
+    {
+      "cityName": "Linwood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 415."
+    },
+    {
+      "cityName": "Little River",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 472."
+    },
+    {
+      "cityName": "Logan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 460."
+    },
+    {
+      "cityName": "Lone Elm",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 27."
+    },
+    {
+      "cityName": "Long Island",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 137."
+    },
+    {
+      "cityName": "Longford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 73."
+    },
+    {
+      "cityName": "Longton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 288."
+    },
+    {
+      "cityName": "Lorraine",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 137."
+    },
+    {
+      "cityName": "Lost Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for a nearby lost spring that was a camping spot along the 19th century Santa Fe Trail."
+    },
+    {
+      "cityName": "Lost Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 55."
+    },
+    {
+      "cityName": "Louisburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4969."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 131."
+    },
+    {
+      "cityName": "Lucas",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 332."
+    },
+    {
+      "cityName": "Luray",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 166."
+    },
+    {
+      "cityName": "Lyndon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1037."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3611."
+    },
+    {
+      "cityName": "Macksville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 471."
+    },
+    {
+      "cityName": "Madison",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 689."
+    },
+    {
+      "cityName": "Mahaska",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 46."
+    },
+    {
+      "cityName": "Maize",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 5735."
+    },
+    {
+      "cityName": "Maize",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Maize, derived from a Native American word for \"corn\", was so named because it is located within the Corn Belt."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 47."
+    },
+    {
+      "cityName": "Mankato",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 836."
+    },
+    {
+      "cityName": "Manter",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 132."
+    },
+    {
+      "cityName": "Maple Hill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 631."
+    },
+    {
+      "cityName": "Mapleton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 96."
+    },
+    {
+      "cityName": "Marion",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named in honor of Francis Marion, a brigadier general of the American Revolutionary War, known as the \"Swamp Fox\"."
+    },
+    {
+      "cityName": "Marion",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1922."
+    },
+    {
+      "cityName": "Marquette",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 599."
+    },
+    {
+      "cityName": "Marysville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3447."
+    },
+    {
+      "cityName": "Matfield Green",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 49."
+    },
+    {
+      "cityName": "Mayetta",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population is 348."
+    },
+    {
+      "cityName": "Mayfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 75."
+    },
+    {
+      "cityName": "McCracken",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 152."
+    },
+    {
+      "cityName": "McCune",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 370."
+    },
+    {
+      "cityName": "McDonald",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 113."
+    },
+    {
+      "cityName": "McFarland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 272."
+    },
+    {
+      "cityName": "McLouth",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 859."
+    },
+    {
+      "cityName": "McPherson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after Union General James Birdseye McPherson, a Civil War general."
+    },
+    {
+      "cityName": "McPherson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to McPherson College and Central Christian College."
+    },
+    {
+      "cityName": "McPherson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 14082."
+    },
+    {
+      "cityName": "Meade",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1505."
+    },
+    {
+      "cityName": "Medicine Lodge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1781."
+    },
+    {
+      "cityName": "Melvern",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 356."
+    },
+    {
+      "cityName": "Menlo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 33."
+    },
+    {
+      "cityName": "Meriden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 744."
+    },
+    {
+      "cityName": "Milan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 56."
+    },
+    {
+      "cityName": "Milford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 408."
+    },
+    {
+      "cityName": "Miltonvale",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 440."
+    },
+    {
+      "cityName": "Minneapolis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1946."
+    },
+    {
+      "cityName": "Minneola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 738."
+    },
+    {
+      "cityName": "Mission",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 9954."
+    },
+    {
+      "cityName": "Mission Hills",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3594."
+    },
+    {
+      "cityName": "Mission Hills",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The east city limits is the Kansas-Missouri state line at State Line Road."
+    },
+    {
+      "cityName": "Mission Hills",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mission Hills was originally developed by noted Kansas City developer J. C. Nichols beginning in the 1920s as part of his Country Club District plan."
+    },
+    {
+      "cityName": "Mission Woods",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2020 census, the population of the city was 203."
+    },
+    {
+      "cityName": "Moline",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moline is known for being the home of Kansas' oldest swinging (suspension-type) bridge, built in 1904."
+    },
+    {
+      "cityName": "Moline",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 345."
+    },
+    {
+      "cityName": "Moline",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Moline is located in south central Elk County at the intersection of U S Highway 160 and K-99."
+    },
+    {
+      "cityName": "Moline",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The bridge spans over a lower portion of a local stream, Wildcat Creek."
+    },
+    {
+      "cityName": "Moline",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Immediately to the west of the famous Swinging Bridge, there is a limestone water fall on an intermittent stream."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 975."
+    },
+    {
+      "cityName": "Moran",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 466."
+    },
+    {
+      "cityName": "Morganville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 180."
+    },
+    {
+      "cityName": "Morland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 115."
+    },
+    {
+      "cityName": "Morrill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 218."
+    },
+    {
+      "cityName": "Morrowville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 114."
+    },
+    {
+      "cityName": "Moscow",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 272."
+    },
+    {
+      "cityName": "Mound City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 647."
+    },
+    {
+      "cityName": "Mound Valley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 348."
+    },
+    {
+      "cityName": "Moundridge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manufacturing facilities for Grasshopper (lawn mowers) and Bradbury Group (roll forming equipment) are located in Moundridge."
+    },
+    {
+      "cityName": "Moundridge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1974."
+    },
+    {
+      "cityName": "Mount Hope",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 806."
+    },
+    {
+      "cityName": "Mulberry",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 409."
+    },
+    {
+      "cityName": "Mullinville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 197."
+    },
+    {
+      "cityName": "Mulvane",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6286."
+    },
+    {
+      "cityName": "Munden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 96."
+    },
+    {
+      "cityName": "Muscotah",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Muscotah was named after the Kickapoo Native American word for \"prairie\"."
+    },
+    {
+      "cityName": "Muscotah",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 155."
+    },
+    {
+      "cityName": "Narka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 81."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 54."
+    },
+    {
+      "cityName": "Natoma",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 302."
+    },
+    {
+      "cityName": "Neodesha",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2275."
+    },
+    {
+      "cityName": "Neodesha",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is derived from the Osage word, Ni-o-sho-de, and is translated as The-Water-Is-Smoky-With-Mud."
+    },
+    {
+      "cityName": "Neosho Falls",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 134."
+    },
+    {
+      "cityName": "Neosho Rapids",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 229."
+    },
+    {
+      "cityName": "Ness City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ness City is famous for its four-story Old Ness County Bank Building located downtown and nicknamed Skyscraper of the Plains."
+    },
+    {
+      "cityName": "Ness City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1329."
+    },
+    {
+      "cityName": "Netawaka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 139."
+    },
+    {
+      "cityName": "New Albany",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 57."
+    },
+    {
+      "cityName": "New Cambria",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 106."
+    },
+    {
+      "cityName": "New Strawn",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 414."
+    },
+    {
+      "cityName": "Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 18602."
+    },
+    {
+      "cityName": "Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newton is located 25 miles (40 km) north of Wichita."
+    },
+    {
+      "cityName": "Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city of North Newton."
+    },
+    {
+      "cityName": "Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "located immediately north, exists as a separate political entity."
+    },
+    {
+      "cityName": "Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Newton is located at the intersection of Interstate 135, U S Route 50, and U S Route 81 highways."
+    },
+    {
+      "cityName": "Nickerson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named in honor of Thomas Nickerson, former president of Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Nickerson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1058."
+    },
+    {
+      "cityName": "Nicodemus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Nicodemus National Historic Site, commemorating the only remaining western town established by African Americans during the Reconstruction period following the Civil War, is in town."
+    },
+    {
+      "cityName": "Nicodemus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was founded in 1877 and is named for the Biblical figure Nicodemus."
+    },
+    {
+      "cityName": "Nicodemus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 14."
+    },
+    {
+      "cityName": "Nicodemus",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During the last weekend of July, former residents and their descendants return for celebrations and parades."
+    },
+    {
+      "cityName": "Niotaze",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 90."
+    },
+    {
+      "cityName": "Norcatur",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 159."
+    },
+    {
+      "cityName": "North Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Newton is home of Bethel College."
+    },
+    {
+      "cityName": "North Newton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 1814."
+    },
+    {
+      "cityName": "Norton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2747."
+    },
+    {
+      "cityName": "Nortonville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 601."
+    },
+    {
+      "cityName": "Norwich",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 444."
+    },
+    {
+      "cityName": "Oak Hill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 24."
+    },
+    {
+      "cityName": "Oakley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2046."
+    },
+    {
+      "cityName": "Oberlin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 1644."
+    },
+    {
+      "cityName": "Offerle",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 179."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1661."
+    },
+    {
+      "cityName": "Oketo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 64."
+    },
+    {
+      "cityName": "Olivet",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 73."
+    },
+    {
+      "cityName": "Olmitz",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 90."
+    },
+    {
+      "cityName": "Olpe",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 519."
+    },
+    {
+      "cityName": "Olsburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 218."
+    },
+    {
+      "cityName": "Onaga",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 679."
+    },
+    {
+      "cityName": "Oneida",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 61."
+    },
+    {
+      "cityName": "Osage City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2861."
+    },
+    {
+      "cityName": "Osawatomie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It derives its name as a portmanteau of two nearby streams, the Marais des Cygnes River (formerly named \"Osage River\") and Pottawatomie Creek."
+    },
+    {
+      "cityName": "Osawatomie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 4255."
+    },
+    {
+      "cityName": "Osborne",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1335."
+    },
+    {
+      "cityName": "Oskaloosa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1110."
+    },
+    {
+      "cityName": "Oswego",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1668."
+    },
+    {
+      "cityName": "Otis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 296."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Ottawa University."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 12625."
+    },
+    {
+      "cityName": "Overbrook",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1005."
+    },
+    {
+      "cityName": "Overland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 197238."
+    },
+    {
+      "cityName": "Overland Park",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 197238."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1048."
+    },
+    {
+      "cityName": "Ozawkie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located adjacent to Perry Lake, Ozawkie formerly existed in a different location but was relocated without the aid of government funding prior to the reservoir's construction."
+    },
+    {
+      "cityName": "Ozawkie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 638."
+    },
+    {
+      "cityName": "Palco",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 208."
+    },
+    {
+      "cityName": "Palmer",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 125."
+    },
+    {
+      "cityName": "Paola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5768."
+    },
+    {
+      "cityName": "Paradise",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 35."
+    },
+    {
+      "cityName": "Park",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 112."
+    },
+    {
+      "cityName": "Park City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 8333."
+    },
+    {
+      "cityName": "Park City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 135 runs north-south through Park City."
+    },
+    {
+      "cityName": "Parker",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 241."
+    },
+    {
+      "cityName": "Parkerfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 406."
+    },
+    {
+      "cityName": "Parkerfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is an eastern suburb of Arkansas City."
+    },
+    {
+      "cityName": "Parkerville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 46."
+    },
+    {
+      "cityName": "Parsons",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Labette Community College and the Parsons State Hospital & Training Center."
+    },
+    {
+      "cityName": "Parsons",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 9600."
+    },
+    {
+      "cityName": "Partridge",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 209."
+    },
+    {
+      "cityName": "Pawnee Rock",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 193."
+    },
+    {
+      "cityName": "Paxico",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 210."
+    },
+    {
+      "cityName": "Peabody",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after F H Peabody of Boston, former vice-president of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Peabody",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Peabody is well known in the region for its Independence Day Celebration on July 4, and its historic 1880s downtown main street."
+    },
+    {
+      "cityName": "Peabody",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the city was 937."
+    },
+    {
+      "cityName": "Penalosa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 18."
+    },
+    {
+      "cityName": "Perry",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 852."
+    },
+    {
+      "cityName": "Peru",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 101."
+    },
+    {
+      "cityName": "Phillipsburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 2337."
+    },
+    {
+      "cityName": "Pittsburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Pittsburg State University."
+    },
+    {
+      "cityName": "Pittsburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 20646."
+    },
+    {
+      "cityName": "Plains",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1037."
+    },
+    {
+      "cityName": "Plains",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Plains is notable for the width of its main street, which is the widest in the United States at 155 feet 5 inches (47.37 m) across."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1746."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named from its setting upon the plains."
+    },
+    {
+      "cityName": "Pleasanton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1208."
+    },
+    {
+      "cityName": "Plevna",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 85."
+    },
+    {
+      "cityName": "Pomona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 884."
+    },
+    {
+      "cityName": "Portis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 86."
+    },
+    {
+      "cityName": "Potwin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the town site land owner Charles Potwin."
+    },
+    {
+      "cityName": "Potwin",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 421."
+    },
+    {
+      "cityName": "Powhattan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 69."
+    },
+    {
+      "cityName": "Prairie View",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 106."
+    },
+    {
+      "cityName": "Prairie Village",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 22957."
+    },
+    {
+      "cityName": "Pratt",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Pratt Community College."
+    },
+    {
+      "cityName": "Pratt",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 6603."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 207."
+    },
+    {
+      "cityName": "Preston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 115."
+    },
+    {
+      "cityName": "Pretty Prairie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 660."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 248."
+    },
+    {
+      "cityName": "Protection",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 498."
+    },
+    {
+      "cityName": "Quenemo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 288."
+    },
+    {
+      "cityName": "Quinter",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 929."
+    },
+    {
+      "cityName": "Radium",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 26."
+    },
+    {
+      "cityName": "Ramona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 78."
+    },
+    {
+      "cityName": "Ramona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city name is a Spanish name."
+    },
+    {
+      "cityName": "Randall",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 79."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 159."
+    },
+    {
+      "cityName": "Ransom",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 260."
+    },
+    {
+      "cityName": "Rantoul",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 165."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Emmons Raymond, former Director of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 85."
+    },
+    {
+      "cityName": "Reading",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 181."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 90."
+    },
+    {
+      "cityName": "Republic",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 82."
+    },
+    {
+      "cityName": "Reserve",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 67."
+    },
+    {
+      "cityName": "Rexford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 197."
+    },
+    {
+      "cityName": "Richfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 30."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 459."
+    },
+    {
+      "cityName": "Riley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 938."
+    },
+    {
+      "cityName": "Riverton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 771."
+    },
+    {
+      "cityName": "Robinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 183."
+    },
+    {
+      "cityName": "Roeland Park",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6871."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 384."
+    },
+    {
+      "cityName": "Rose Hill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4185. it is located southeast of Wichita."
+    },
+    {
+      "cityName": "Roseland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 76."
+    },
+    {
+      "cityName": "Rossville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1105."
+    },
+    {
+      "cityName": "Rozel",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 102."
+    },
+    {
+      "cityName": "Rush Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 141."
+    },
+    {
+      "cityName": "Russell",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4401."
+    },
+    {
+      "cityName": "Russell Springs",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 26."
+    },
+    {
+      "cityName": "Sabetha",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2545."
+    },
+    {
+      "cityName": "Saint Francis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1263."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1054."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name might have been intended to honor several pioneer settlers named George."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1228."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2759."
+    },
+    {
+      "cityName": "Saint Paul",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 614."
+    },
+    {
+      "cityName": "Satanta",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1092."
+    },
+    {
+      "cityName": "Satanta",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Every year there is a celebration of Satanta's Indian heritage called Satanta Day."
+    },
+    {
+      "cityName": "Savonburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 74."
+    },
+    {
+      "cityName": "Sawyer",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 89."
+    },
+    {
+      "cityName": "Scammon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 376."
+    },
+    {
+      "cityName": "Scandia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 344."
+    },
+    {
+      "cityName": "Schoenchen",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 170."
+    },
+    {
+      "cityName": "Scott City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4113."
+    },
+    {
+      "cityName": "Scottsville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 26."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the city of Scranton, Pennsylvania due to its coal mining in the 19th century."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 653."
+    },
+    {
+      "cityName": "Sedan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1000."
+    },
+    {
+      "cityName": "Sedgwick",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1603."
+    },
+    {
+      "cityName": "Selden",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 184."
+    },
+    {
+      "cityName": "Seneca",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2139."
+    },
+    {
+      "cityName": "Severance",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 76."
+    },
+    {
+      "cityName": "Severy",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 205."
+    },
+    {
+      "cityName": "Seward",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 41."
+    },
+    {
+      "cityName": "Seward",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Seward are a large granary, and a bar and grill as well as numerous homes."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 147."
+    },
+    {
+      "cityName": "Shawnee",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 67311."
+    },
+    {
+      "cityName": "Silver Lake",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1345."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 82."
+    },
+    {
+      "cityName": "Smith Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1571."
+    },
+    {
+      "cityName": "Smolan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 162."
+    },
+    {
+      "cityName": "Soldier",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 102."
+    },
+    {
+      "cityName": "Solomon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 993."
+    },
+    {
+      "cityName": "South Haven",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 324."
+    },
+    {
+      "cityName": "South Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2521."
+    },
+    {
+      "cityName": "South Hutchinson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a southern suburb of Hutchinson."
+    },
+    {
+      "cityName": "Spearville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 791."
+    },
+    {
+      "cityName": "Speed",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 37."
+    },
+    {
+      "cityName": "Spivey",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 61."
+    },
+    {
+      "cityName": "Spring Hill",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 7952, and was estimated to be 9689 in 2023."
+    },
+    {
+      "cityName": "Stafford",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 959."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanley is a neighborhood in Johnson County, Kansas, which previously had the status of an unincorporated community before being absorbed by the larger Overland Park in 1985."
+    },
+    {
+      "cityName": "Stark",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 69."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sterling is home to Sterling College."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 2248."
+    },
+    {
+      "cityName": "Stockton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1480."
+    },
+    {
+      "cityName": "Strong City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as Cottonwood Station, in 1881 it was renamed Strong City after William Barstow Strong, then vice-president and general manager, and later president of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Strong City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 386."
+    },
+    {
+      "cityName": "Sublette",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, its population was 1413."
+    },
+    {
+      "cityName": "Summerfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 125."
+    },
+    {
+      "cityName": "Summerfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Kansas-Nebraska state border is the northern edge of the city."
+    },
+    {
+      "cityName": "Sun City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 37."
+    },
+    {
+      "cityName": "Susank",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 31."
+    },
+    {
+      "cityName": "Sylvan Grove",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 291."
+    },
+    {
+      "cityName": "Sylvia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 215."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1826."
+    },
+    {
+      "cityName": "Tampa",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population of the city was 105."
+    },
+    {
+      "cityName": "Tecumseh",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community and township are both named for the Shawnee chief."
+    },
+    {
+      "cityName": "Tecumseh",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 696."
+    },
+    {
+      "cityName": "Tescott",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 265."
+    },
+    {
+      "cityName": "Thayer",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 432."
+    },
+    {
+      "cityName": "The Highlands",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 349."
+    },
+    {
+      "cityName": "Timken",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 38."
+    },
+    {
+      "cityName": "Tipton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 193."
+    },
+    {
+      "cityName": "Tonganoxie",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5573."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is well known for the landmark U S Supreme Court case Brown v."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city, laid out in 1854, was one of the Free-State towns founded by Eastern antislavery men immediately after the passage of the Kansas\u2013Nebraska Bill."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is along the Kansas River in the central part of Shawnee County, in northeastern Kansas, in the Central United States."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 126587."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1857, Topeka was chartered as a city."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Board of Education of Topeka, which overturned Plessy v."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Ferguson and declared racial segregation in public schools to be unconstitutional."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 206."
+    },
+    {
+      "cityName": "Towanda",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1447."
+    },
+    {
+      "cityName": "Tribune",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 772."
+    },
+    {
+      "cityName": "Troy",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 964."
+    },
+    {
+      "cityName": "Turon",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 309."
+    },
+    {
+      "cityName": "Tyro",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 177."
+    },
+    {
+      "cityName": "Udall",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 661."
+    },
+    {
+      "cityName": "Ulysses",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Ulysses S. Grant, the 18th President of the United States."
+    },
+    {
+      "cityName": "Ulysses",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 5788."
+    },
+    {
+      "cityName": "Uniontown",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 293."
+    },
+    {
+      "cityName": "Utica",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 99."
+    },
+    {
+      "cityName": "Valley Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 7340."
+    },
+    {
+      "cityName": "Valley Falls",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1092."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 76."
+    },
+    {
+      "cityName": "Victoria",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1129."
+    },
+    {
+      "cityName": "Vining",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 43."
+    },
+    {
+      "cityName": "Viola",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 115."
+    },
+    {
+      "cityName": "Virgil",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 48."
+    },
+    {
+      "cityName": "WaKeeney",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1799."
+    },
+    {
+      "cityName": "Wakefield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 858."
+    },
+    {
+      "cityName": "Waldo",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 30."
+    },
+    {
+      "cityName": "Waldron",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 9."
+    },
+    {
+      "cityName": "Waldron",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The south edge of the city is the Kansas / Oklahoma state border."
+    },
+    {
+      "cityName": "Wallace",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 41."
+    },
+    {
+      "cityName": "Walnut",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 187."
+    },
+    {
+      "cityName": "Walton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named in honor of one of the 19th century stockholders of Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Walton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 219."
+    },
+    {
+      "cityName": "Wamego",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 4841."
+    },
+    {
+      "cityName": "Washington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1071."
+    },
+    {
+      "cityName": "Waterville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 658."
+    },
+    {
+      "cityName": "Wathena",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1246."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 574."
+    },
+    {
+      "cityName": "Webber",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 30."
+    },
+    {
+      "cityName": "Weir",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 569."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 7715."
+    },
+    {
+      "cityName": "Wellsville",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1953."
+    },
+    {
+      "cityName": "West Mineral",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Big Brutus, the second largest electric shovel in the world."
+    },
+    {
+      "cityName": "West Mineral",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 154."
+    },
+    {
+      "cityName": "Westmoreland",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 740."
+    },
+    {
+      "cityName": "Westphalia",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 128."
+    },
+    {
+      "cityName": "Westwood",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1750."
+    },
+    {
+      "cityName": "Westwood Hills",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 400."
+    },
+    {
+      "cityName": "Westwood Hills",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It borders Kansas City, Missouri."
+    },
+    {
+      "cityName": "Wetmore",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 348."
+    },
+    {
+      "cityName": "Wheaton",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 98."
+    },
+    {
+      "cityName": "White City",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 447."
+    },
+    {
+      "cityName": "White Cloud",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Francis White Cloud, a son of Chief White Cloud of the Iowa people."
+    },
+    {
+      "cityName": "White Cloud",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "White Cloud is also the westernmost city in Kansas that is located on the Missouri River."
+    },
+    {
+      "cityName": "White Cloud",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "White Cloud (Ioway: Ch\u00edna Max\u00fathga pronounced or Ch\u00edna Max\u00fahga pronounced, meaning \"Village Cloud-White\") is a city in Doniphan County, Kansas, United States."
+    },
+    {
+      "cityName": "White Cloud",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 115."
+    },
+    {
+      "cityName": "White Cloud",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "White Cloud is the seat of government for the Iowa Tribe of Kansas and Nebraska."
+    },
+    {
+      "cityName": "Whitewater",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 661."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 191."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's Old Cowtown Museum maintains historical artifacts and exhibits the city's early history."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wichita State University (WSU) is the third-largest post-secondary institution in the state."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It became a destination for cattle drives traveling north from Texas to Kansas railroads, earning it the nickname \"Cowtown\"."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Several airports located within the city of Wichita include McConnell Air Force Base, Colonel James Jabara Airport, and Wichita Dwight D. Eisenhower National Airport, the largest airport in Kansas."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the 1920s and 1930s, businessmen and aeronautical engineers established aircraft manufacturing companies in Wichita, including Beechcraft, Cessna, and Stearman Aircraft."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Textron Aviation, Learjet, Airbus, and Boeing/Spirit AeroSystems continue to operate design and manufacturing facilities in Wichita, and the city remains a major center of the American aircraft industry."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It hosts several universities, large museums, theaters, parks, shopping centers, and entertainment venues, most notably Intrust Bank Arena and Century II."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Wichita began as a trading post on the Chisholm Trail in the 1860s and was incorporated as a city in 1870."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In 1875, Wyatt Earp served as a police officer in Wichita for about one year before going to Dodge City."
+    },
+    {
+      "cityName": "Wichita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city became an aircraft production hub known as \"The Air Capital of the World\"."
+    },
+    {
+      "cityName": "Willard",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 74."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 390."
+    },
+    {
+      "cityName": "Willis",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 24."
+    },
+    {
+      "cityName": "Willowbrook",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 71."
+    },
+    {
+      "cityName": "Willowbrook",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a northwestern suburb of Hutchinson."
+    },
+    {
+      "cityName": "Wilmore",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 37."
+    },
+    {
+      "cityName": "Wilsey",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 139."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community promotes itself as the \"Czech Capital of Kansas\" due to the role of Czech immigrant settlers in its early history."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 859."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 461."
+    },
+    {
+      "cityName": "Windom",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 85."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Southwestern College."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 11777."
+    },
+    {
+      "cityName": "Winona",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 193."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's Old Cowtown Museum maintains historical artifacts and exhibits the city's early history."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wichita State University (WSU) is the third-largest post-secondary institution in the state."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It became a destination for cattle drives traveling north from Texas to Kansas railroads, earning it the nickname \"Cowtown\"."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Several airports located within the city of Wichita include McConnell Air Force Base, Colonel James Jabara Airport, and Wichita Dwight D. Eisenhower National Airport, the largest airport in Kansas."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the 1920s and 1930s, businessmen and aeronautical engineers established aircraft manufacturing companies in Wichita, including Beechcraft, Cessna, and Stearman Aircraft."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Textron Aviation, Learjet, Airbus, and Boeing/Spirit AeroSystems continue to operate design and manufacturing facilities in Wichita, and the city remains a major center of the American aircraft industry."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It hosts several universities, large museums, theaters, parks, shopping centers, and entertainment venues, most notably Intrust Bank Arena and Century II."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Wichita began as a trading post on the Chisholm Trail in the 1860s and was incorporated as a city in 1870."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In 1875, Wyatt Earp served as a police officer in Wichita for about one year before going to Dodge City."
+    },
+    {
+      "cityName": "Witchita",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city became an aircraft production hub known as \"The Air Capital of the World\"."
+    },
+    {
+      "cityName": "Woodbine",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 157."
+    },
+    {
+      "cityName": "Woodston",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 94."
+    },
+    {
+      "cityName": "Yates Center",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1352."
+    },
+    {
+      "cityName": "Zenda",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 72."
+    },
+    {
+      "cityName": "Zurich",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 89."
+    }
+  ]
+}

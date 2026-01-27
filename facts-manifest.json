@@ -4,6 +4,10 @@
       "factCount": 417,
       "checksum": "9b86638e654bf1a9b4847c2ee0884655"
     },
+    "CO": {
+      "factCount": 624,
+      "checksum": "ac57b1d3638965704bd18ffeb48d01c4"
+    },
     "CT": {
       "factCount": 605,
       "checksum": "67979b5b4575787930c465cd87b5c2ae"
@@ -20,9 +24,21 @@
       "factCount": 3,
       "checksum": "15cc642bec2da86e3fe079a2d3491430"
     },
+    "IN": {
+      "factCount": 531,
+      "checksum": "06cee27ce20af30601e59323686d65ef"
+    },
+    "KS": {
+      "factCount": 823,
+      "checksum": "443618f35fe2856924bb14f84fa2574f"
+    },
     "MA": {
       "factCount": 1048,
       "checksum": "a93f9e8ac4444bb123298127de6fdba8"
+    },
+    "MO": {
+      "factCount": 775,
+      "checksum": "ccf84274754ad60740d9bce390d422e7"
     },
     "NJ": {
       "factCount": 2422,

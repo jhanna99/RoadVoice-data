@@ -1,0 +1,3721 @@
+{
+  "facts": [
+    {
+      "cityName": "Alexandria",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is about 48 miles (77 km) northeast of Indianapolis."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, its population was 5149, nearly unchanged from 2010."
+    },
+    {
+      "cityName": "Anderson",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highlights of the city include the historic Paramount Theatre and the Gruenewald House."
+    },
+    {
+      "cityName": "Anderson",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after Chief William Anderson."
+    },
+    {
+      "cityName": "Anderson",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is the headquarters of the Church of God and its Anderson University."
+    },
+    {
+      "cityName": "Angola",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Angola was founded by Thomas Gale and Cornelius Gilmore on June 28, 1838, and is home to Trine University."
+    },
+    {
+      "cityName": "Angola",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is served by I-69 and the Indiana Toll Road (I-80 and I-90)."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Auburn is also known as Home of the Classics."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1836 by Wesley Park (1811\u20131868), the city is the county seat of DeKalb County."
+    },
+    {
+      "cityName": "Avoca",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census the population was 583."
+    },
+    {
+      "cityName": "Battle Ground",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near the site of the Battle of Tippecanoe."
+    },
+    {
+      "cityName": "Battle Ground",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Battle Ground is part of the Lafayette, Indiana, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2020 census, the population was 13792."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "That is up from 13413 in 2010."
+    },
+    {
+      "cityName": "Beech Grove",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city's population is 14717."
+    },
+    {
+      "cityName": "Beech Grove",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Beech Grove is designated an \"excluded city\" under Indiana law, as it is not part of the consolidated government of Indianapolis and Marion County."
+    },
+    {
+      "cityName": "Bluffton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bluffton is nicknamed the \"Parlor City\" for its history of having some of the first clean paved streets in the area during the time of the Indiana gas boom."
+    },
+    {
+      "cityName": "Bluffton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits on the banks of the Wabash River in the northeastern part of the state."
+    },
+    {
+      "cityName": "Borden",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's official name was New Providence until December 29, 1994."
+    },
+    {
+      "cityName": "Brazil",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There is a fountain from the country of Brazil; Brazil often flies the Brazilian, Indiana flag, and U S flag alongside one another at the fountain."
+    },
+    {
+      "cityName": "Broad Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Broad Ripple's proximity to Butler University has cultivated a longstanding local arts and social scene with a reputation for being socially, economically, and ethnically diverse."
+    },
+    {
+      "cityName": "Broad Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Notable points of interest include the Indiana Central Canal, the Indianapolis Art Center, the Monon Trail, and public access to the White River."
+    },
+    {
+      "cityName": "Broad Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Broad Ripple Village is a neighborhood and designated cultural district in Indianapolis, Indiana, United States."
+    },
+    {
+      "cityName": "Broad Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located in Washington Township, about six miles (ten kilometers) north of downtown Indianapolis, Broad Ripple was first platted in 1837, became incorporated as the Town of Broad Ripple in 1894, and was annexed to the City of Indianapolis in 1922."
+    },
+    {
+      "cityName": "Brownsburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2020 census, the population was recorded as 28973 residents."
+    },
+    {
+      "cityName": "Brownstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Jacob Brown, a general of the War of 1812."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "State Road 22 connects it to Kokomo."
+    },
+    {
+      "cityName": "Burns Harbor",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burns Harbor is located adjacent to the Indiana Dunes, an area that conservationists have fought hard to preserve."
+    },
+    {
+      "cityName": "Butlerville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 282."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "AmeriPlex, one of the largest industrial parks in Indiana, is in Decatur Township."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Through the White River, Decatur and Perry townships share the only water boundary among Marion County's townships."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Decatur Township is one of the nine townships in Marion County, Indiana, United States, and part of the consolidated city of Indianapolis."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, it had a population of 36951."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located in the southwest corner of the county, the township is home to the Indianapolis International Airport main terminal."
+    },
+    {
+      "cityName": "Camby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is one of the most rural sections of the county, but has seen many new residential and commercial developments."
+    },
+    {
+      "cityName": "Cannelton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cannelton was the smallest incorporated city in the state until 2010."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carlisle is home to the Wabash Valley Correctional Facility."
+    },
+    {
+      "cityName": "Carmel",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carmel was home to one of the first electronic automated traffic signals in the country, and constructed 155 roundabouts between 1997 and 2025."
+    },
+    {
+      "cityName": "Carmel",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is designed with walkability and pedestrian wellbeing in mind, with trails, parks and green spaces being common."
+    },
+    {
+      "cityName": "Castleton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castleton is a neighborhood area in Lawrence and Washington townships on the northeast side of Indianapolis, Indiana, United States."
+    },
+    {
+      "cityName": "Castleton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After shortly over a century of being an independent town, the locality was included in Indianapolis as part of Unigov consolidation in 1970 and was further dissolved in 1992."
+    },
+    {
+      "cityName": "Castleton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a primarily commercial district today."
+    },
+    {
+      "cityName": "Cedar Lake",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is notable for its location on Cedar Lake, the Lake of the Red Cedars museum."
+    },
+    {
+      "cityName": "Cedar Lake",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cedar Lake is also bordered to Crown Point, Indiana."
+    },
+    {
+      "cityName": "Cedar Lake",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is near the Illinois state line."
+    },
+    {
+      "cityName": "Cedar Lake",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 14106 at the 2020 census."
+    },
+    {
+      "cityName": "Celestine",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2008, the estimated population of Celestine was 250."
+    },
+    {
+      "cityName": "Celestine",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is home to a Roman Catholic church."
+    },
+    {
+      "cityName": "Chalmers",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 523 at the 2020 census."
+    },
+    {
+      "cityName": "Cicero",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cicero is notable for welcoming teenaged AIDS activist Ryan White to its community in 1987."
+    },
+    {
+      "cityName": "Cicero",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "White is buried in Cicero."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1783 by early resident George Rogers Clark at the only seasonal rapids on the entire Ohio River, it is the oldest American town in the former Northwest Territory."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to the Colgate clock, one of the largest clocks in the world and the Falls of the Ohio State Park, home to the world's largest exposed Devonian period fossil bed."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is known for hosting Lucas Oil Raceway at Indianapolis, consisting of one of the nation's premier short-track ovals and also the premier American drag racing event, the NHRA U S Nationals."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is legally part of Indianapolis, while retaining a town government under IC 36-3-2-5."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was renamed to honor Vice President Schuyler Colfax in 1857."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was originally known as Midway since it was a halfway point on the IC&L Railroad between Chicago and Louisville."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Railways intersected north\u2013south and east\u2013west making Colfax a popular transfer destination."
+    },
+    {
+      "cityName": "Connersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is among the oldest cities in Indiana and the former Indiana Territory, having been established in 1813 by its namesake, John Conner."
+    },
+    {
+      "cityName": "Connersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The local economy relies on manufacturing, retail, and healthcare to sustain itself."
+    },
+    {
+      "cityName": "Connersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is in the center of a large rural area of east central Indiana; the nearest significant city is Richmond, 26 miles (42 km) to the northeast by road."
+    },
+    {
+      "cityName": "Connersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Connersville is home to Fayette county's only high school."
+    },
+    {
+      "cityName": "Connersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "However, there has been a consistent decline in both employment and population since the 1960s, placing it among the least affluent areas in the state of Indiana, as indicated by measures such as median household income and other economic indicators."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1863, during the American Civil War, Corydon was the site of the Battle of Corydon, the only official pitched battle waged in Indiana during the war."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "More recently, the town's numerous historic sites have helped it become a tourist destination."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A portion of its downtown area is listed in the National Register of Historic Places as the Corydon Historic District."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Corydon was founded in 1808 and served as the capital of the Indiana Territory from 1813 to 1816."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It was the site of Indiana's first constitutional convention, which was held June 10\u201329, 1816."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Forty-three delegates convened to consider statehood for Indiana and drafted its first state constitution."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Under Article XI, Section 11, of the Indiana 1816 constitution, Corydon was designated as the capital of the state, which it remained until 1825, when the seat of state government was moved to Indianapolis."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "As of the 2010 census, Corydon had a population of 3122."
+    },
+    {
+      "cityName": "Crane",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is adjacent to the Naval Surface Warfare Center Crane Division."
+    },
+    {
+      "cityName": "Crawfordsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Wabash College, a private liberal arts men's college, and the General Lew Wallace Study & Museum, a National Historic Landmark."
+    },
+    {
+      "cityName": "Crawfordsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was founded in 1823 on the bank of Sugar Creek, a southern tributary of the Wabash River and named for U S Treasury Secretary William H. Crawford."
+    },
+    {
+      "cityName": "Crawfordsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city had a population of 16306."
+    },
+    {
+      "cityName": "Crawfordsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is also part of the Indianapolis\u2013Carmel\u2013Muncie, IN Combined Statistical Area."
+    },
+    {
+      "cityName": "Crothersville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was laid out in 1835 and named after Doctor Andrew S. Crothers, a railroad superintendent."
+    },
+    {
+      "cityName": "Crown Point",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Due to its location, Crown Point is known as the \"Hub of Lake County\"."
+    },
+    {
+      "cityName": "Crown Point",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated in 1868."
+    },
+    {
+      "cityName": "Crown Point",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On October 31, 1834, Solon Robinson and his family became the first settlers to an area that later became Crown Point."
+    },
+    {
+      "cityName": "Crows Nest",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Culver",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Culver is part of Union Township, which also includes the communities of Burr Oak, Hibbard, Maxinkuckee and Rutland."
+    },
+    {
+      "cityName": "Dana",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is primarily a farming community."
+    },
+    {
+      "cityName": "Darmstadt",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It also extends slightly into Armstrong, Center and German townships."
+    },
+    {
+      "cityName": "Decatur",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Decatur is home to Adams Memorial Hospital, which was designated as one of the \"Top 100\" Critical Access Hospitals in the United States."
+    },
+    {
+      "cityName": "Decker",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Decker is near the White River, and is well known for the watermelon and cantaloupe produced in the surrounding rural area."
+    },
+    {
+      "cityName": "Decker",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1869 by Isaac Decker."
+    },
+    {
+      "cityName": "Delphi",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located twenty minutes northeast of Lafayette, it is part of the Lafayette, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Denver",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Denver is served by North Miami Schools."
+    },
+    {
+      "cityName": "Deputy",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "By road it is approximately 18 miles (29 km) northwest of Madison, the county seat."
+    },
+    {
+      "cityName": "Deputy",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census it had a population of 86."
+    },
+    {
+      "cityName": "Dillsboro",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, the population is 1360."
+    },
+    {
+      "cityName": "Dune Acres",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dune Acres is located in the duneland of the south shore of Lake Michigan."
+    },
+    {
+      "cityName": "Dune Acres",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many residents of Dune Acres and surrounding communities helped preserve parts of the Indiana Dunes."
+    },
+    {
+      "cityName": "Dunlap",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once a small farming community, by the 1980s it had become a suburb of Elkhart and Goshen, Indiana."
+    },
+    {
+      "cityName": "Dunlap",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most of the town was destroyed by two violent F4 tornadoes during the Palm Sunday Tornado Outbreak on April 11, 1965."
+    },
+    {
+      "cityName": "Dyer",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a southeastern suburb of Chicago."
+    },
+    {
+      "cityName": "East Chicago",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Centered around heavy industry, the city is home to the Indiana Harbor and Ship Canal, an artificial freshwater harbor characterized by industrial and manufacturing activity."
+    },
+    {
+      "cityName": "East Chicago",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated along Lake Michigan, East Chicago is about 18 miles (29 km) from downtown Chicago and is just west of Gary, Indiana."
+    },
+    {
+      "cityName": "Edinburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edinburgh is the home of Camp Atterbury, a National Guard training facility."
+    },
+    {
+      "cityName": "Edinburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Big Blue River and Sugar Creek join to form the Driftwood River 1 mi (1.6 km) west of Edinburgh."
+    },
+    {
+      "cityName": "Edinburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Edinburgh was named in honor of Edinburgh, Scotland and for many years was pronounced the same way."
+    },
+    {
+      "cityName": "Edwardsport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1832 and named after Edward Wilkins, a founding father."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is bisected by the Indiana Southern Railroad track."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elberfeld is one of a very few towns in Indiana of its size not to have any kind of main highway running through it or direct access to a major highway."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Interstate 64 runs just north of the municipal boundary, but it has no exit linking to the town."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Interstate 69 passes just west of the community, but it, too, lacks a direct access point, residents having to backtrack along two roads to reach the Indiana 57 interchange with the interstate."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The nearest state road is Indiana 68, 2.5 miles north of town."
+    },
+    {
+      "cityName": "Elberfeld",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The two interstates intersect roughly 2 miles northwest of the town in nearby Gibson County."
+    },
+    {
+      "cityName": "Elwood",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Madison County portion, which is nearly all of the city, is part of the Indianapolis\u2013Carmel\u2013Anderson metropolitan statistical area."
+    },
+    {
+      "cityName": "Fairmount",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Largely a bedroom community for nearby Marion, Fairmount is best known as the boyhood home of actor James Dean, who is buried there."
+    },
+    {
+      "cityName": "Fairmount",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 55 miles (88 km) northeast of Indianapolis."
+    },
+    {
+      "cityName": "Farmersburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is adjacent to the Vigo County line and is overshadowed by several large TV and radio transmitter towers."
+    },
+    {
+      "cityName": "Fillmore",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the South Putnam Community Schools school district."
+    },
+    {
+      "cityName": "Fishers",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population was 98677."
+    },
+    {
+      "cityName": "Fishers",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A northside suburb of Indianapolis, Fishers has grown rapidly in recent decades: about 350 people lived there in 1963, 2000 in 1980, and only 7500 as recently as 1990."
+    },
+    {
+      "cityName": "Fishers",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "After the passage of a referendum on its status in 2012, Fishers transitioned from a town to a city on January 1, 2015."
+    },
+    {
+      "cityName": "Floyds Knobs",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically a farming community on the outskirts of New Albany, it has since become a bedroom community for Louisville, Kentucky."
+    },
+    {
+      "cityName": "Floyds Knobs",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains subdivisions, farms, small shopping centers, churches, a now-closed silver mine, and transmitters for many of the area's television and radio stations."
+    },
+    {
+      "cityName": "Floyds Knobs",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also the location of Floyd Central High School, a Gold Star rated school by the Indiana Department of Education."
+    },
+    {
+      "cityName": "Floyds Knobs",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Floyds Knobs has a population of about 11412 to 12439."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once a booming manufacturing town located in what became known as the Rust Belt, Fort Wayne's economy in the 21st century is based upon distribution, transportation and logistics; healthcare, professional and business services; leisure and hospitality, and financial services."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Wayne was built in 1794 by the United States Army under the direction of American Revolutionary War general Anthony Wayne, the last in a series of forts built near the Miami village of Kekionga."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It underwent tremendous growth after completion of the Wabash and Erie Canal and advent of the railroad."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Home to the Fort Wayne Air National Guard Base, the city is a center for the defense industry, which employs 1\u20132% of the population."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Named in Wayne's honor, the European-American settlement developed at the confluence of the St. Joseph, St. Marys, and Maumee rivers, known originally as Fort Miami, a trading post constructed by Jean Baptiste Bissot, Sieur de Vincennes around 1706."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located in northeastern Indiana, the city is 18 miles (29 km) west of the Ohio border and 50 miles (80 km) south of the Michigan border."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fort Wayne is the cultural and economic center of northeastern Indiana."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The modern city was platted in 1823 following its revitalization after the War of 1812 and its siege."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Fort Wayne was an All-America City Award recipient in 1983, 1998, 2009, and 2021."
+    },
+    {
+      "cityName": "Fort Wayne",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city also received an Outstanding Achievement City Livability Award by the U S Conference of Mayors in 1999."
+    },
+    {
+      "cityName": "Francesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The motto for Francesville is \u201cA small town with a big heart.\u201d"
+    },
+    {
+      "cityName": "Francisco",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A town in Center Township, the population was 469 at the 2010 census and was founded in 1851."
+    },
+    {
+      "cityName": "Francisco",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Local tradition says the town was named for its first settler, a Spanish laborer working on the Wabash and Erie Canal who built a shack in the area."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 16715 as of the 2020 census."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The site of Franklin College, the city attracts numerous regional sports fans for the college teams, as well as audiences for its art events."
+    },
+    {
+      "cityName": "Freetown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census the population was 385."
+    },
+    {
+      "cityName": "Fulda",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Spencer County Memorial Forest features a World War II veterans memorial."
+    },
+    {
+      "cityName": "Gary",
+      "state": "IN",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Michael Jackson was born in Gary."
+    },
+    {
+      "cityName": "Geneva",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Geneva is the location of the Limberlost Cabin, the home of writer and naturalist Gene Stratton-Porter from 1895 to 1913."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Georgetown is the name of some places in the U S state of Indiana: Georgetown, Cass County, Indiana Georgetown, Floyd County, Indiana Georgetown, Harrison County, Indiana Georgetown, Randolph County, Indiana Georgetown, St. Joseph County, Indiana Georgetown, Washington County, Indiana"
+    },
+    {
+      "cityName": "Goshen",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is known as a prominent recreational vehicle and accessories manufacturing center, the home of Goshen College, a small Mennonite liberal arts college, and the Elkhart County 4-H Fair, one of the largest county fairs in the United States."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the smaller of the two principal cities of the Elkhart\u2013Goshen Metropolitan Statistical Area, which in turn is part of the South Bend\u2013Elkhart\u2013Mishawaka Combined Statistical Area."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Goshen is located 10 miles southeast of Elkhart, 25 miles southeast of South Bend, 120 miles east of Chicago, and 150 miles north of Indianapolis."
+    },
+    {
+      "cityName": "Grabill",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known for the presence of antique stores and Amish farms."
+    },
+    {
+      "cityName": "Grabill",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An incorporated town, Grabill has two community parks within the corporate limits."
+    },
+    {
+      "cityName": "Graysville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Terre Haute Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Greencastle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the home of DePauw University."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenfield was a stop along the Pittsburgh, Cincinnati, Chicago and St. Louis Railroad that connected Pittsburgh to Chicago and St. Louis."
+    },
+    {
+      "cityName": "Greensboro",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was a 'station' on the Underground Railroad and was recognized for its active abolitionists."
+    },
+    {
+      "cityName": "Greentown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its collectible glassware made for only a few years by a local factory destroyed in 1903, it is home to the Greentown Glass Museum."
+    },
+    {
+      "cityName": "Greentown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located approximately 9 miles east of Kokomo on State Road 22 / US 35; it is home to the Howard County Fair Grounds."
+    },
+    {
+      "cityName": "Greentown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was platted in 1848, and incorporated as a town in 1873."
+    },
+    {
+      "cityName": "Greentown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2010 census, the town's population was 2415."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenville is an incorporated town in Floyd County, Indiana."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenwood is located southeast of central Indianapolis between Interstate 65 and Interstate 69."
+    },
+    {
+      "cityName": "Griffith",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's population is currently declining at a rate of 0.69% annually."
+    },
+    {
+      "cityName": "Hagerstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 1681."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In Steuben County, it is in Otsego Township, and in DeKalb County it is in Franklin Township."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Rust Belt, Hammond has been industrial almost from its inception, but is also home to a campus of Purdue University and numerous historic districts."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first settled in the mid-19th century and it is one of the oldest cities of northern Lake County."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Notable local landmarks include the parkland around Wolf Lake and the Horseshoe Hammond riverboat casino."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "From north to south, Hammond runs from Lake Michigan to the Little Calumet River; from east to west along its southern border, it runs from the Illinois state line to Cline Avenue."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is traversed by numerous railroads and expressways, including the South Shore Line, Borman Expressway, and Indiana Toll Road."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 census, it is the eighth-most populous city in Indiana, with 77879 residents."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hanover is the home of Hanover College, a small Presbyterian liberal arts college."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the Ohio River, the town's population was 3546 at the 2010 census."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The tallest waterfall in Indiana, Fremont Falls, is located in Hanover."
+    },
+    {
+      "cityName": "Harlan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, Harlan had a population of 1634."
+    },
+    {
+      "cityName": "Henryville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Henryville is home to Indiana's oldest state forest, Clark State Forest, and birthplace of entrepreneur Colonel Harland Sanders, whose iconic image appears in the Kentucky Fried Chicken logo and Grammy award-winning bluegrass fiddle player Michael Cleveland."
+    },
+    {
+      "cityName": "Highland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highland is the name of some places in the U S state of Indiana: Highland, Lake County, Indiana Highland, Vanderburgh County, Indiana Highland, Vermillion County, Indiana Highland, Washington County, Indiana"
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 538 at the 2010 census."
+    },
+    {
+      "cityName": "Hoagland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 824."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has been historically primarily residential, though recent annexation has added a notable retail corridor to the city."
+    },
+    {
+      "cityName": "Homecroft",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1949, it has existed as an included town since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Howe",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census its population was 807."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in Huntington and Union townships."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2019, Indianapolis has been home to two major league sports teams, three Fortune 500 companies, eight university campuses, and numerous cultural institutions, including the world's largest children's museum."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Among the city's historic sites and districts, Indianapolis is home to the largest collection of monuments dedicated to veterans and war casualties in the United States outside of Washington, D.C."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's official slogan, \"Crossroads of America\", reflects its historic importance as a transportation hub and its relative proximity to other major North American markets."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Indianapolis anchors the 28th largest metropolitan economy in the United States."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city's international reputation rests primarily on the Indianapolis 500, the world's largest single-day sporting event."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Completion of the National and Michigan roads and later arrival of rail solidified the city's position as a major manufacturing and commercial center."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Prominent industries include trade, transportation, and utilities; education and health services; professional and business services; government; leisure and hospitality; and manufacturing."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Indianapolis is situated in the state's central till plain region along the west fork of the White River."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "According to the 2020 census, the Indianapolis proper had population 887642."
+    },
+    {
+      "cityName": "Indianapolis",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In the Midwest, it ranks third among cities, after Chicago and Columbus, Ohio."
+    },
+    {
+      "cityName": "Jasper",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Land use in the area is primarily agricultural."
+    },
+    {
+      "cityName": "Jasper",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Indiana Baseball Hall of Fame, which honors players and others associated with the national pastime who were born or lived in Indiana, is located in Jasper."
+    },
+    {
+      "cityName": "Jeffersonville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jeffersonville began its existence as a settlement around Fort Finney after 1786 and was named after Thomas Jefferson in 1801, the year he took office."
+    },
+    {
+      "cityName": "Jeffersonville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies directly across the Ohio River to the north of Louisville, Kentucky, along I-65."
+    },
+    {
+      "cityName": "Jeffersonville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, the city is often referred to by the abbreviated name Jeff."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, Jonesboro had the third smallest population of a city in Indiana."
+    },
+    {
+      "cityName": "Kingsbury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During 1940 and 1941, the Kingsbury Ordnance Plant was built for use during World War II; the plant briefly reopened during the Korean War before closing permanently, and parts are now the Kingsbury Fish and Wildlife Area and the Kingsbury Industrial Park."
+    },
+    {
+      "cityName": "Kingsbury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was founded in 1835 and incorporated on March 3, 1941."
+    },
+    {
+      "cityName": "Kingsbury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kingsford Heights was built as its housing."
+    },
+    {
+      "cityName": "Kingsbury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kingsbury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town has its own fire department, KVFD (Kingsbury Volunteer Fire Department), and a Greek revival style First Baptist church built in 1851 with its own graveyard and Winchell Cemetery."
+    },
+    {
+      "cityName": "Kingsford Heights",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also known as \"Victory City,\" the town was built by the United States government for workers that worked in the Kingsbury Ordnance Plant, an ammunitions plant that served the US during World War II and later the Korean War."
+    },
+    {
+      "cityName": "Kingsford Heights",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kirklin",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Nathan Kirk, a local pioneer settler."
+    },
+    {
+      "cityName": "Knightstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knightstown was used in the 1986 film Hoosiers."
+    },
+    {
+      "cityName": "Knightstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Hoosier Gym was used in the filming of the film."
+    },
+    {
+      "cityName": "Knightstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Knightstown hosts two annual festivals: Jubilee Days held in early-mid June and The Hoosier Fall Festival held in September."
+    },
+    {
+      "cityName": "Knightstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Knightstown also hosts an annual car show and a music series on the town square."
+    },
+    {
+      "cityName": "Knightstown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is approximately thirty-two miles east of Indianapolis."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Before the Civil War, it was connected with Indianapolis and then the Eastern cities by railroad, which resulted in sustained growth."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A significant number of technical and engineering innovations were developed in Kokomo, particularly in automobile production, and, as a result, Kokomo became known as the \"City of Firsts.\" A substantial portion of Kokomo's employment still depends on the automobile industry."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Named for the Miami Ma-Ko-Ko-Mo who was called \"Chief Kokomo\", Kokomo first benefited from the legal business associated with being the county seat."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Among the businesses which the boom attracted was the fledgling automobile industry."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its population was 60093 according to the U S Census Bureau 2024 estimate."
+    },
+    {
+      "cityName": "Kokomo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Substantial growth came after the discovery of large natural gas reserves, which produced an economic boom in the mid-1880s."
+    },
+    {
+      "cityName": "Kouts",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 2010, Kouts has had a population growth of 7.90 percent."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "La Fontaine",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name means \"The Fountain\" in French."
+    },
+    {
+      "cityName": "La Porte",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was estimated to be 21341 in 2022."
+    },
+    {
+      "cityName": "La Porte",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the two principal cities of the Michigan City-La Porte, Indiana metropolitan statistical area, which is included in the Chicago\u2013Naperville\u2013Michigan City, Illinois\u2013Indiana\u2013Wisconsin combined statistical area."
+    },
+    {
+      "cityName": "La Porte",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "La Porte is located in northwest Indiana, east of Gary, and west of South Bend."
+    },
+    {
+      "cityName": "La Porte",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was first settled by European Americans in 1832."
+    },
+    {
+      "cityName": "La Porte",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is twinned with Grangemouth in Scotland."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the French general Marquis de Lafayette, a Revolutionary War hero."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits across the Wabash River from West Lafayette, home to Purdue University, which plays a major role in both communities."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lafayette was founded in 1825 on the southeast bank of the Wabash River near where the river becomes impassable for riverboats upstream, though a French fort and trading post had existed since 1717 on the opposite bank and three miles downstream."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lafayette is 63 miles (101 km) northwest of Indianapolis and 125 miles (201 km) southeast of Chicago."
+    },
+    {
+      "cityName": "Laotto",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located west of the current intersection of Indiana State Road 3 and Indiana State Road 205, it is 16 miles north of Fort Wayne and is also in proximity to Kendallville and Auburn."
+    },
+    {
+      "cityName": "Laotto",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is therefore considered a bedroom community to these cities."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel is an outpost in Laurel Township, Franklin County, Indiana, United States."
+    },
+    {
+      "cityName": "Lawrence",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Fort Benjamin Harrison within Fort Harrison State Park."
+    },
+    {
+      "cityName": "Lawrence",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of four \"excluded cities\" in Marion County."
+    },
+    {
+      "cityName": "Lawrence",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is on the northeast side of Indianapolis."
+    },
+    {
+      "cityName": "Lawrenceburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawrenceburg is in southeast Indiana, southeast of Indianapolis and on the Ohio River west of Cincinnati."
+    },
+    {
+      "cityName": "Leavenworth",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2010 US Census recorded a population of 238 persons."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lebanon is located in central Indiana, approximately 29 miles (47 km) northwest of downtown Indianapolis and 36 miles (58 km) southeast of Lafayette."
+    },
+    {
+      "cityName": "Leesburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the Leesburg Historic District."
+    },
+    {
+      "cityName": "Leesburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Leesburg was laid out in 1833 by Levi Lee."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town itself was founded before Indiana became the 19th state in 1816 and was located in Jefferson County at the time it was platted."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the original county seat from 1820 to 1874, before local leaders decided on a more central location at nearby Scottsburg, which created animosity between the residents of the two towns for several decades afterwards."
+    },
+    {
+      "cityName": "Lincoln City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies five minutes south of Interstate 64, northeast of Evansville, and approximately twenty miles north of the Ohio River."
+    },
+    {
+      "cityName": "Linton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A coal mining city, it is located southeast of Terre Haute."
+    },
+    {
+      "cityName": "Logansport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Logansport is located in northern Indiana at the junction of the Wabash and Eel rivers, northwest of Kokomo."
+    },
+    {
+      "cityName": "Long Beach",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of Long Beach was 1179."
+    },
+    {
+      "cityName": "Long Beach",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan statistical area."
+    },
+    {
+      "cityName": "Mackey",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With a population of 106 at the 2010 census, Mackey is the smallest incorporated community in Gibson County and one of the smallest incorporated communities in the state."
+    },
+    {
+      "cityName": "Madison",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2006, the majority of Madison's downtown area was designated a National Historic Landmark\u2014133 blocks of the downtown area is known as the Madison Historic Landmark District."
+    },
+    {
+      "cityName": "Madison",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 United States census its population was 11967."
+    },
+    {
+      "cityName": "Madison",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Over 55000 people live within 15 miles (24 km) of downtown Madison."
+    },
+    {
+      "cityName": "Marengo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "One of the tourist attractions and sources of revenue for the town is Marengo Cave, a U S National Landmark."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Indiana Wesleyan University, the largest evangelical Christian university in the Midwest and Indiana's largest private university, when online and regional campuses in Indiana, Kentucky, Ohio, and Illinois are included."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named for Francis Marion, a brigadier general from South Carolina in the American Revolutionary War."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Marion is the birthplace of actor James Dean and cartoonist Jim Davis, and was the location of the wedding of actress Julia Roberts and singer Lyle Lovett in 1993."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The traditional campus enrolls about 2800 students."
+    },
+    {
+      "cityName": "Markle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along Interstate 69, U S Route 224, State Road 116 and State Road 3."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 274."
+    },
+    {
+      "cityName": "McCordsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is a fast-growing suburb of Indianapolis with an estimated population of 8592 in 2020."
+    },
+    {
+      "cityName": "Mentone",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A large concrete egg stands near the town center and is considered locally to be the \"Largest Egg in the World\"."
+    },
+    {
+      "cityName": "Mentone",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mentone is the self-proclaimed \"Egg Basket of the Midwest\" because of prolific commercial egg production in the area, and holds an Egg Festival annually in early June to celebrate its heritage."
+    },
+    {
+      "cityName": "Mentone",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Lawrence D. Bell Aircraft Museum, is located within the town limits."
+    },
+    {
+      "cityName": "Mentone",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Popular Rotorcraft Association has its home at the PRA Mentone Airport C92) and is home to their annual fly-in convention."
+    },
+    {
+      "cityName": "Meridian Hills",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 1774 at the 2020 census, up from 1616 in 2010."
+    },
+    {
+      "cityName": "Merom",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nearby is Hallador Energy's Merom Generating Station."
+    },
+    {
+      "cityName": "Merrillville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On January 1, 2015, Merrillville became the most populated town in Indiana, as Fishers in Hamilton County was converted from a town to a city."
+    },
+    {
+      "cityName": "Merrillville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town serves as a major shopping hub for Northwest Indiana."
+    },
+    {
+      "cityName": "Michiana Shores",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Michiana Shores is located in northwesternmost Springfield Township, and is the township's sole incorporated community."
+    },
+    {
+      "cityName": "Michiana Shores",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Michiana Shores",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Michiana Shores takes its name from the Michiana region along the Michigan-Indiana border."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Michigan City is noted for both its proximity to Indiana Dunes National Park and for bordering Lake Michigan."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along Lake Michigan in the Michiana region, the city is about 45 miles (72 km) east of Chicago and is 40 miles (64 km) west of South Bend."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It had a population of 32075 at the 2020 census."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It receives a fair amount of tourism during the summer, especially by residents of Chicago and nearby cities in Northern Indiana."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is connected to Chicago via the South Shore Line passenger train."
+    },
+    {
+      "cityName": "Michigantown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for the Michigan Road, an early thoroughfare through the area."
+    },
+    {
+      "cityName": "Middlebury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middlebury is nestled in Northern Indiana's Amish country."
+    },
+    {
+      "cityName": "Middlebury",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the town population was 3420."
+    },
+    {
+      "cityName": "Milan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 1986 film Hoosiers is based on the story of the 1954 Milan Team."
+    },
+    {
+      "cityName": "Milan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Milan High School won the Indiana state basketball championship against Muncie Central High School in 1954, the victory being significant as Milan was one of the smallest towns to win a state championship in the United States at that time."
+    },
+    {
+      "cityName": "Milan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "While it is often claimed that Milan is the subject of a volume of poetry, titled Pop."
+    },
+    {
+      "cityName": "Milan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "359, written in 1941 by Carl Wilson under the pseudonym of Tramp Starr, that book is actually about the nearby town of Moores Hill."
+    },
+    {
+      "cityName": "Milford",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milford could refer to: Milford, Decatur County, Indiana Milford, Kosciusko County, Indiana Milford Township, LaGrange County, Indiana Former name of Green Hill, Indiana"
+    },
+    {
+      "cityName": "Mishawaka",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its nickname is \"the Princess City\"."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is the name of several places in the U S state of Indiana: Monroe, Adams County, Indiana Monroe, Tippecanoe County, Indiana Monroe Township, Delaware County, Indiana Monroe County, Indiana Monroe City, Indiana, a town in Knox County"
+    },
+    {
+      "cityName": "Monticello",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monticello is known as a tourist destination in north-central Indiana and is home to the Indiana Beach amusement park on Lake Shafer, and Lake Freeman."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This small rural community, the county's first to be platted, was established by settlers from Vermont, and is named after Vermont's capital city of Montpelier."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Montpelier was a central participant in the Indiana Gas Boom, as natural gas was discovered near the community in 1887."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "More importantly, the county's first successful oil well was drilled on the south side of Montpelier in 1890."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population quickly grew from 808 in 1890 to about 6500 by 1896."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Gas Boom, mostly an oil boom for Montpelier, gradually ended during the first decade of the 20th century."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Like many boom towns, the city's population has never matched that of the boom years."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city's population was 1805 at the 2010 census."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "However, the city's population stabilized many decades ago, and the community has multiple industries and an active community association."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Montpelier is located near the former Godfroy Indian Reservation, and a statue of an Indian is featured prominently in the downtown district."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is notable for being where the current flag of Indiana was created."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 9411."
+    },
+    {
+      "cityName": "Mount Auburn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is sandwiched between Dublin and Cambridge City."
+    },
+    {
+      "cityName": "Mount Etna",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies at the intersection of four townships: Jefferson, Lancaster, Polk and Wayne."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The southernmost is Rockport, located along the Ohio River about 40 miles (64 km) to the southeast."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the state's far southwestern corner, within 15 miles (24 km) of both the southernmost or westernmost points, it is the westernmost city in the state."
+    },
+    {
+      "cityName": "Mulberry",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for a mulberry tree which grew at the point where it was founded."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Muncie developed as a manufacturing and industrial center, especially after the Indiana gas boom of the 1880s."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Ball State University."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "They founded several villages, including one known as Munsee Town, along the White River."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is also included in the Indianapolis\u2013Carmel\u2013Muncie combined statistical area."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Lenape people, led by Buckongahelas, arrived in the area in the 1790s."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The trading post, renamed Muncietown, was selected as the Delaware County seat and platted in 1827."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Its name was officially shortened to Muncie in 1845 and incorporated as a city in 1865."
+    },
+    {
+      "cityName": "Muncie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Muncie was also the subject of the sociological Middletown studies, sociological research that was first conducted in the 1920s."
+    },
+    {
+      "cityName": "Munster",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 23894 at the 2020 US Census."
+    },
+    {
+      "cityName": "Nappanee",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Nappanee is thought to mean \"flour\" in the Algonquian language."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known as the center of the Brown County Art Colony and as a tourist destination."
+    },
+    {
+      "cityName": "New Albany",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The mayor of New Albany is Jeff Gahan, a Democrat; he was re-elected in 2023."
+    },
+    {
+      "cityName": "New Amsterdam",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "River Forest was the smallest in 2010 when it had 22, but had risen to 26."
+    },
+    {
+      "cityName": "New Amsterdam",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 12."
+    },
+    {
+      "cityName": "New Amsterdam",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 Census, New Amsterdam was the smallest city, town, or Census Designated Place in the state of Indiana."
+    },
+    {
+      "cityName": "New Amsterdam",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "New Amsterdam now officially became the smallest town in Indiana with the population being 12, down from 27 in 2010."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Castle is home to New Castle Fieldhouse, the largest high school gymnasium in the world."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the past, it was a manufacturing center for the production of sheet iron and steel, automobiles, caskets, clothing, scales, bridges, pianos, furniture, handles, shovels, lathes, bricks, and flour."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Starting in the early 20th century, it was known as the Rose City, at one point having 100 florists and numerous growers."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is surrounded by agricultural land."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "According to the 2020 census, the population was 17396."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "New Castle Correctional Facility, with a capacity of over 3500 inmates, is located just north of the city."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In its early years the 20000-acre (8100 ha) settlement was the home of Lutherans who had separated from their church in the Duchy of W\u00fcrttemberg and immigrated to the United States."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "These structures, along with others related to the Owenite community, are included in the New Harmony Historic District."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The New Harmony State Memorial is located south of town on State Road 69 in Harmonie State Park."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town's population was 690 at the 2020 census."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Established by the Harmony Society in 1814 under the leadership of George Rapp, the town was originally named Harmony (also called Harmonie, or New Harmony)."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Harmonists built a town in the wilderness, but in 1824 they decided to sell their property and return to Pennsylvania."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Robert Owen, a Welsh industrialist and social reformer, purchased the town in 1825 in order to create a utopian community, but it lasted only a few years."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Town residents established the state's first public library, a civic drama club, and a public school system open to men and women."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The town also served as the second headquarters of the U S Geological Survey."
+    },
+    {
+      "cityName": "New Harmony",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Numerous scientists and educators contributed to New Harmony's intellectual community, including William Maclure, Marie Louise Duclos Fretageot, Thomas Say, Charles-Alexandre Lesueur, Joseph Neef, Frances Wright, and others."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits immediately east of the city of Fort Wayne, the second largest city in Indiana, and is situated mostly along the southern banks of the Maumee River."
+    },
+    {
+      "cityName": "New Ross",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 309."
+    },
+    {
+      "cityName": "New Washington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population was 566."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today, Newburgh is locally known for its historic downtown district that features a number of specialty stores, antique shops, and restaurants along its riverfront."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By 1850, Newburgh was one of the larger riverports between Cincinnati and New Orleans, and was the first town north of the Mason\u2013Dixon line to be captured by Confederate forces during the Newburgh Raid during the American Civil War."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Newburgh is an incorporated town in Ohio Township, Warrick County, Indiana, United States, along the Ohio River."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the easternmost suburb of Evansville."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The area has been inhabited by various cultures, dating back at least 10000 years."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Angel Mounds was a permanent settlement of the Mississippian culture from 1000 AD to around 1400 AD."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Shortly after the mid-nineteenth century, Newburgh's growth leveled off until the economic boom of the 1960s and 1970s, resulting in substantial growth as a bedroom community for families looking for new housing developments near Evansville."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town remains a popular residential community for people working in or near Evansville."
+    },
+    {
+      "cityName": "Nineveh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nineveh took its name from Nineveh Creek, which in turn is named after Nineveh Berry, a hunter who fell into the creek while hunting for deer."
+    },
+    {
+      "cityName": "Nineveh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Scenes from the film Hoosiers were shot in the old Nineveh Elementary School, which was renamed \"Hickory High School\" for the film."
+    },
+    {
+      "cityName": "Nineveh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nineveh's last class of students attended here during the filming of the film in 1985, after which they relocated to Trafalgar to consolidate at Indian Creek Elementary School."
+    },
+    {
+      "cityName": "Nineveh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town also has the Cordry-Sweetwater branch library."
+    },
+    {
+      "cityName": "Nineveh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The old school was lost to a fire just a few years after it was closed for consolidation."
+    },
+    {
+      "cityName": "Noblesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Noblesville is home to Ruoff Music Center (formerly Klipsch Music Center and Deer Creek Music Center), the Indianapolis metro area\u2019s primary outdoor music venue."
+    },
+    {
+      "cityName": "Noblesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since its opening in 1989, the nearly 25000-seat amphitheater has been a popular stop for many touring musicians, consistently ranking first (or in the top three) among outdoor music venues in the world, for ticket sales, according to Pollstar."
+    },
+    {
+      "cityName": "North Crows Nest",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 7 miles (11 km) north of downtown Indianapolis."
+    },
+    {
+      "cityName": "North Crows Nest",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Liberty is part of the South Bend\u2013Mishawaka, IN-MI, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "North Madison",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Madison is a neighborhood of Madison, Indiana, in the United States."
+    },
+    {
+      "cityName": "North Webster",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The National Weather Service operates a Weather Forecast Office North of town toward Syracuse."
+    },
+    {
+      "cityName": "Notre Dame",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the campuses of three colleges: the University of Notre Dame, Saint Mary's College, and Holy Cross College."
+    },
+    {
+      "cityName": "Notre Dame",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Notre Dame is split between Clay and Portage townships."
+    },
+    {
+      "cityName": "Notre Dame",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 7234."
+    },
+    {
+      "cityName": "Oakland City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the site of the main campus of Oakland City University."
+    },
+    {
+      "cityName": "Oaklandon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawrence Township is one of nine townships in Marion County, Indiana, United States."
+    },
+    {
+      "cityName": "Oaklandon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lawrence Township was organized in 1822."
+    },
+    {
+      "cityName": "Oaklandon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Metropolitan School District of Lawrence Township provides services to students in portions of Lawrence Township and the city of Lawrence."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for multi-millionaire Francis A. Ogden, who owned the land there before his death in 1914."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "His main interest in the land where the dunes are was the sand which could be scooped up and sold, with more sand being replenished naturally over time."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many residents of Ogden Dunes helped preserve parts of the Indiana Dunes."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is the site of the Portage / Ogden Dunes station, which is served by South Shore Line passenger trains to and from Chicago."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The principal thoroughfare serving the town is U S Route 12, which passes along the town's southern edge and connects it to nearby communities such as Gary to the west and Burns Harbor to the east."
+    },
+    {
+      "cityName": "Ogden Dunes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Ogden Dunes has been reported as having the highest rate of Lyme disease in Indiana."
+    },
+    {
+      "cityName": "Ossian",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Ossian, the narrator of a cycle of epic poems by the Scottish poet James Macpherson."
+    },
+    {
+      "cityName": "Otterbein",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otterbein is a town in Shelby Township, Tippecanoe County and Bolivar Township, Benton County, Indiana, named for William Otterbein Brown who donated land for the town."
+    },
+    {
+      "cityName": "Otterbein",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 1144."
+    },
+    {
+      "cityName": "Pekin",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is the site of Eastern High School."
+    },
+    {
+      "cityName": "Peru",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peru is located along the Wabash River and is part of the Kokomo-Peru Combined Statistical Area."
+    },
+    {
+      "cityName": "Peru",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 73 miles (117 km) north of Indianapolis."
+    },
+    {
+      "cityName": "Peru",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Residents of Peru usually pronounce the name of Peru like the name of the nation of Peru as it is commonly pronounced in American English."
+    },
+    {
+      "cityName": "Peru",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Elderly Hoosiers commonly use the archaic pronunciation of PEE-roo."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The former high school mascot was the Plainville Midgets."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plymouth was the site of the first retail outlet of defunct U S retailer Montgomery Ward in 1926."
+    },
+    {
+      "cityName": "Poland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Poland post office was established in 1846."
+    },
+    {
+      "cityName": "Poland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Poland is unincorporated, it has a post office, with the ZIP code of 47868."
+    },
+    {
+      "cityName": "Poland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Poland, Indiana is also in Owen County."
+    },
+    {
+      "cityName": "Poland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "miles and a water area of 1.64 sq."
+    },
+    {
+      "cityName": "Poland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "miles for Census 2000."
+    },
+    {
+      "cityName": "Porter",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Porter is located near Indiana Dunes State Park and on the southern railroad terminus of the Chicago and West Michigan Railway."
+    },
+    {
+      "cityName": "Porter",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Porter Beach, also known as Johnson's Beach, on Lake Michigan."
+    },
+    {
+      "cityName": "Porter",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Porter is in the Indiana Dunes ecosystem, which played a role in the creation of The Nature Conservancy, and inspired conservation efforts."
+    },
+    {
+      "cityName": "Pottawattamie Park",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rensselaer",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saint Joseph's College is located just south of the city limits."
+    },
+    {
+      "cityName": "Reo",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Reo was coined in 1966 as an acronym of three nearby larger cities: Rockport, Indiana, Evansville, Indiana, and Owensboro, Kentucky."
+    },
+    {
+      "cityName": "Richland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richland, Indiana is the name of two places in Indiana."
+    },
+    {
+      "cityName": "Rising Sun",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the only incorporated community in the county."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Town offices include the clerk treasurer, utilities department, police department, and volunteer fire department."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has a public elementary school."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "WOWO and WRNP have transmitter towers in Roanoke, along U S Highway 24."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "For many years, television station WPTA was licensed to Roanoke, though that station's studios and transmitter have always been located in nearby Fort Wayne."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once the largest community in Spencer County, the city has recently been surpassed by the town of Santa Claus."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At 37\u00b053'1\" north, Rockport is also the southernmost city in the state, located slightly south of Evansville, Cannelton, or Mount Vernon (the westernmost city)."
+    },
+    {
+      "cityName": "Rockville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as \"The Covered Bridge Capital of the World\"."
+    },
+    {
+      "cityName": "Rocky Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1927, and the town was incorporated as an \"included town\" as part of Unigov in 1970."
+    },
+    {
+      "cityName": "Rocky Ripple",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although not far from the city center, Rocky Ripple is a somewhat isolated area, located between the Central Canal and the White River; only two traffic-supporting bridges over the canal provide access to the town."
+    },
+    {
+      "cityName": "Rolling Prairie",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 562."
+    },
+    {
+      "cityName": "Romney",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Lafayette, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Roseland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roseland is known as \"The Gateway Town\", on account of its location at the Notre Dame/South Bend exit of the Indiana Toll Road (Interstate 80/90)."
+    },
+    {
+      "cityName": "Roselawn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roselawn is known in northwestern Indiana for the two nudist resorts which operate in this town: the Ponderosa Sun Club and Sun Aura."
+    },
+    {
+      "cityName": "Roselawn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sun Aura resort was previously known as Naked City, but closed in 1986 after its operator, Dick Drost, encountered significant legal troubles."
+    },
+    {
+      "cityName": "Roselawn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The resort continued to operate under several different owners and was known as Sunspot resort prior to becoming Sun Aura."
+    },
+    {
+      "cityName": "Roselawn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The clubs are long-standing fixtures of the community, dating to the 1930s."
+    },
+    {
+      "cityName": "Rushville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It, like the county, was named in honor of Doctor Benjamin Rush, who signed the Declaration of Independence."
+    },
+    {
+      "cityName": "Russiaville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Russiaville was incorporated sometime between the 1860 and 1870 US Census."
+    },
+    {
+      "cityName": "Saint Croix",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Main points of interest in St. Croix include Holy Cross Church, cemetery, and Church Hall as well as the Etienne Saw Mill and Bear Hollow Mulch."
+    },
+    {
+      "cityName": "Saint Croix",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although St. Croix is unincorporated, it had a post office, with the ZIP code of 47576."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. John was founded in 1837."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. John is located in St. John Township, Hanover Township, and Center Township."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a southeastern suburb of Chicago."
+    },
+    {
+      "cityName": "Saint Meinrad",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Anderson River, it is home to the St. Meinrad Archabbey."
+    },
+    {
+      "cityName": "Saint Meinrad",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 64 runs near the CDP, and it is situated about 55 miles east of Evansville."
+    },
+    {
+      "cityName": "Saint Meinrad",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Because of the archabbey, St. Meinrad, along with Harrison Township, is assigned to the Archdiocese of Indianapolis."
+    },
+    {
+      "cityName": "Saint Meinrad",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The rest of Spencer County is within the borders of the much closer Diocese of Evansville."
+    },
+    {
+      "cityName": "Sandborn",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the annual Black Creek Festival."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The street names in Christmas Lake Village are all named after the Christmas season."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to numerous Christmas themed attractions, including Holiday World & Splashin' Safari and Santa's Candy Castle."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was established in 1854 and known as Santa Fe (), but was unable to establish a post office as there was already another Santa Fe, Indiana."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A majority of Santa Claus residents live within the gated community of Christmas Lake Village, which was developed in the late 1960s."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It consists of 2500 acres (10 km2) developed around three lakes: Christmas Lake, Lake Holly, and Lake Noel."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Several town meetings were held, during which the name Santa Claus was selected."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town has the world's only post office to bear the name of the eponymous Christmas figure."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Because of this popular name, the post office receives thousands of letters to Santa from all over the world each year."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "A group of volunteers known as Santa's Elves ensures each child receives a reply from Santa Claus; this tradition has been in existence since at least 1914."
+    },
+    {
+      "cityName": "Santa Claus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The post office also creates an annual Christmas hand-cancellation pictorial postmark for use during December, which also attracts mail from all over the world."
+    },
+    {
+      "cityName": "Schneider",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits in the Kankakee River Valley."
+    },
+    {
+      "cityName": "Schneider",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the smallest incorporated town in Lake County by population."
+    },
+    {
+      "cityName": "Sellersburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 9310 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Sellersburg",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sellersburg is located along Interstate 65, about 15 minutes north of Louisville."
+    },
+    {
+      "cityName": "Selma",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a total population of 747."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is known as the \"Crossroads of Southern Indiana\" for its location at the intersection of two major north\u2013south and east\u2013west railroads, which cross each other in the downtown area (and are still operating)."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The north\u2013south line (the Jeffersonville, Madison and Indianapolis Railroad) was built in the 1840s and connected Indianapolis to the Ohio River at Jeffersonville."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first settlers arrived at the intersection of these railroads - Seymour - in the spring of 1853."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is home to Freeman Army Airfield, a historically significant WWII airbase that is now a civilian airport."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The east\u2013west line (the Ohio and Mississippi Railroad) was built in the 1850s, connecting Cincinnati with St. Louis."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Its population was 21569 at the 2020 census."
+    },
+    {
+      "cityName": "Shamrock Lakes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was listed on the front page of USA Today as one of only five places in the United States named after Ireland's clover emblem, the shamrock."
+    },
+    {
+      "cityName": "Shamrock Lakes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The small town consists of a group of six lakes that were created between 1960 and 1965, and the first lake was originally intended to be a water supply for a farmer's cattle."
+    },
+    {
+      "cityName": "Shamrock Lakes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated on May 21, 1973\u2014and was the first community in Indiana to do so in 50 years."
+    },
+    {
+      "cityName": "Sharpsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Kokomo, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sharpsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, Sharpsville's population is 607."
+    },
+    {
+      "cityName": "Shelby",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shelby had a population of 453 at the 2020 census."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Indiana is located just northwest of Sheridan."
+    },
+    {
+      "cityName": "Shipshewana",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the Menno-Hof Amish & Mennonite Museum, which showcases the history of the Amish and Mennonite peoples."
+    },
+    {
+      "cityName": "Shoals",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shoals is best known for the Jug Rock, the only free-standing table rock formation east of the Mississippi River."
+    },
+    {
+      "cityName": "Southport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southport is an excluded city in Perry Township, Marion County, Indiana, United States."
+    },
+    {
+      "cityName": "Speedway",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Speedway, which is an enclave of Indianapolis, is the home of the Indianapolis Motor Speedway."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spencer is part of the Bloomington, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Spencerville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spencerville is home to the county's only covered bridge."
+    },
+    {
+      "cityName": "Spring Hill",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Springville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springville, Indiana may refer to: Springville, Clark County, Indiana Springville, LaPorte County, Indiana Springville, Lawrence County, Indiana"
+    },
+    {
+      "cityName": "State Line City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 120."
+    },
+    {
+      "cityName": "Stroh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Stroh post office was established in 1900."
+    },
+    {
+      "cityName": "Stroh",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The settlement has five church buildings, Stroh church of God, Stroh church of Christ, Baptist church, Calvary Chapel, Mt Calvery church."
+    },
+    {
+      "cityName": "Sulphur Springs",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town's population was 331."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Syracuse is the location of Lake Syracuse and the nearby, larger Lake Wawasee, in addition to several other lakes in the region."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The National Weather Service operates a Weather Forecast Office South of town, toward North Webster."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It serves Northern Indiana, Northwestern Ohio and Southwestern Michigan."
+    },
+    {
+      "cityName": "Terre Haute",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Wabash River about 5 miles (8 km) east of the state border with Illinois, Terre Haute is one of the largest cities in the Wabash Valley; it is known as the Queen City of the Wabash."
+    },
+    {
+      "cityName": "Terre Haute",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to multiple higher-education institutions, including Indiana State University, Rose-Hulman Institute of Technology, and Ivy Tech Community College of Indiana."
+    },
+    {
+      "cityName": "Terre Haute",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It also contains the United States Penitentiary, Terre Haute, which houses the US federal death row."
+    },
+    {
+      "cityName": "Thorntown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thorntown is located in northwestern Boone County, about halfway between Lafayette and Indianapolis."
+    },
+    {
+      "cityName": "Tipton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tipton is approximately 19 miles southeast of Kokomo, Indiana and approximately 42 miles north of Indianapolis, Indiana."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Topeka is located approximately eleven miles south of Shipshewana, Indiana."
+    },
+    {
+      "cityName": "Topeka",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Topeka was likely so named because the landscape reminded settlers of Topeka, Kansas."
+    },
+    {
+      "cityName": "Trafalgar",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This town is 20 miles (32 km) south of Indianapolis."
+    },
+    {
+      "cityName": "Trail Creek",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ulen",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is surrounded by the city of Lebanon."
+    },
+    {
+      "cityName": "Union City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Cleveland, Cincinnati, Chicago and St. Louis Railway (also known as the \"Big Four\", a predecessor of the New York Central) had the east\u2013west route connecting Indianapolis, Anderson and Muncie, Indiana with Sidney, Bellefontaine and Columbus, Ohio."
+    },
+    {
+      "cityName": "Union City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is believed by some area residents that the town got its nickname \"The Hub City\" because the two railroads intersected near the Ohio and Indiana state line."
+    },
+    {
+      "cityName": "Union City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Union City was a stop along the Pittsburgh, Cincinnati, Chicago and St. Louis Railroad, a forerunner of the Pennsylvania Railroad that connected Pittsburgh to Chicago and St. Louis."
+    },
+    {
+      "cityName": "Union City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the city had a population of 3454."
+    },
+    {
+      "cityName": "Upland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Taylor University, a Christian college."
+    },
+    {
+      "cityName": "Utica",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies adjacent to major infrastructure: the Interstate 265 bridge across the Ohio (opened in 2016), the nearby Port of Indiana \u2013 Jeffersonville, and the River Ridge Commerce Center."
+    },
+    {
+      "cityName": "Utica",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "These developments shape its land-use environment and limit the town's potential for large-scale growth."
+    },
+    {
+      "cityName": "Utica",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Between 1990 and 2020 the population of Utica more than doubled."
+    },
+    {
+      "cityName": "Utica",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In this period several new residential subdivisions emerged in the area."
+    },
+    {
+      "cityName": "Utica",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Although the town is geographically constrained, the influx of new housing helped fuel the population increase."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Vernon Historic District is on the National Register of Historic Places and is the site of many firsts in the state."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits on a peninsula as it is nearly surrounded by the Muscatatuck River."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With a population of just 236 in the 2020 census, it is the smallest county seat by population in the state of Indiana, lying just south of the much larger North Vernon."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2025, Bradley Bender is the mayor and Britt Burgmeier is the marshal."
+    },
+    {
+      "cityName": "Vincennes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the oldest continually inhabited European settlement in Indiana and was its longest serving territorial capital."
+    },
+    {
+      "cityName": "Vincennes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the oldest settlements west of the Appalachians."
+    },
+    {
+      "cityName": "Vincennes",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was founded in 1732 by French fur traders, including the namesake Fran\u00e7ois-Marie Bissot, Sieur de Vincennes."
+    },
+    {
+      "cityName": "Wabash",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also home to the historic Eagles Theatre, Paradise Spring Treaty Grounds (1826), the Wabash and Erie Canal, Presbyterian Church (1880), and Disciples of Christ Christian Church (1865)."
+    },
+    {
+      "cityName": "Wabash",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wabash is notable as claiming to be the first electrically lighted city in the world, which was inaugurated on March 31, 1880."
+    },
+    {
+      "cityName": "Wabash",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, closer inspection of the reference shows only the court house grounds were lighted."
+    },
+    {
+      "cityName": "Wadesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along State Road 66 northeast of the city of Mt."
+    },
+    {
+      "cityName": "Wadesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Wadesville is unincorporated, it has a post office, with the ZIP code of 47638."
+    },
+    {
+      "cityName": "Wadesville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2023 the U S Census Bureau had established a census-designated place for this settlement."
+    },
+    {
+      "cityName": "Wakarusa",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wakarusa is a small farming and manufacturing community located on Indiana 19 just north of Indiana 119."
+    },
+    {
+      "cityName": "Wakarusa",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is 12 miles (19 km) south of Elkhart, 25 miles (40 km) southeast of South Bend, 120 miles (190 km) east of Chicago, and 140 miles (230 km) north of Indianapolis."
+    },
+    {
+      "cityName": "Wanamaker",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was built along the historic Michigan Road."
+    },
+    {
+      "cityName": "Wanamaker",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is concentrated near the intersection of Southeastern Avenue and Northeastern Avenue."
+    },
+    {
+      "cityName": "Warren Park",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warsaw also borders a smaller town, Winona Lake."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Warsaw has a population of 15804 as of the 2020 U S census."
+    },
+    {
+      "cityName": "West College Corner",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West College Corner (also known as just College Corner) is a town in Union Township, Union County, Indiana, United States."
+    },
+    {
+      "cityName": "West College Corner",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is bordered on the east by the state line with Ohio, directly bordering the village of College Corner, Ohio."
+    },
+    {
+      "cityName": "West College Corner",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's public school, part of the Union County\u2013College Corner Joint School District, is bisected by the state line and is operated jointly with Ohio authorities."
+    },
+    {
+      "cityName": "West Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Lafayette sits across the Wabash River from its sister city, Lafayette, and is a college town, home to Purdue University."
+    },
+    {
+      "cityName": "West Lafayette",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the most densely populated city in Indiana, located 65 miles (105 km) northwest of Indianapolis and 113 miles (182 km) southeast of Chicago."
+    },
+    {
+      "cityName": "West Point",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Lafayette, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "West Terre Haute",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bethany Congregational Church was placed on the National Register of Historic Places in 2003."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a northern suburb of Indianapolis."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2023, the population was 58410."
+    },
+    {
+      "cityName": "Westport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A covered bridge, built in 1880, is located about 1.5 miles east of town."
+    },
+    {
+      "cityName": "Westville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westville is located in Northwest Indiana, also known as The Region."
+    },
+    {
+      "cityName": "Westville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Michigan City, Indiana-La Porte, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Whiteland",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Major access roads to get to Whiteland are I-65 (exit 95 is the Whiteland exit), south on U S 31 from Indianapolis and north from Columbus."
+    },
+    {
+      "cityName": "Whitestown",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 2010, Whitestown has been the fastest-growing municipality in Indiana; its population increased more than threefold between the 2010 and 2020 Census tabulations."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whiting ( WYTE-ing) is a city located in the Chicago Metropolitan Area in Lake County, Indiana, which was founded in 1889."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Whiting is home to Whiting Refinery, the largest oil refinery in the Midwest."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is roughly 16 miles from the Chicago Loop and two miles from Chicago's South Side."
+    },
+    {
+      "cityName": "Wilkinson",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the northeast corner of Hancock County, the town sits along Indiana State Road 109, which runs north to Anderson and south to I-70 and Knightstown."
+    },
+    {
+      "cityName": "Wilkinson",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wilkinson is about 30 miles east of Indianapolis, and about 12 miles northeast of Greenfield."
+    },
+    {
+      "cityName": "Williams Creek",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Williamsport",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williamsport Falls is located in downtown Williamsport."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Winchester Speedway."
+    },
+    {
+      "cityName": "Windfall",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windfall's population was 697 as of the 2021 census."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Notable people from Winfield include Logan Hamnik, known for founding the first ever post office in the city of Whiting back in 1871."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winfield is named for General Winfield Scott."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2014 Winfield formed a Marshal department for public safety and law enforcement duties, prior to that time police protection services were provided by the Lake County Sheriff's Department."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town was incorporated in 1993 in order to keep the residents from being annexed by other neighboring communities."
+    },
+    {
+      "cityName": "Winona Lake",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 4908 at the 2010 census."
+    },
+    {
+      "cityName": "Wynnedale",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has existed as an \"included town\" since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Zionsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zionsville promotes itself as a tourist attraction, centered on its village-styled downtown area."
+    },
+    {
+      "cityName": "Zionsville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This area consists primarily of Main Street, paved entirely in brick, which is lined with small retail stores and restaurants."
+    }
+  ]
+}

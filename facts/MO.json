@@ -1,0 +1,5429 @@
+{
+  "facts": [
+    {
+      "cityName": "Adrian",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1730 at the 2020 census."
+    },
+    {
+      "cityName": "Advance",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Advance was founded c."
+    },
+    {
+      "cityName": "Advance",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is pronounced ADD-vance."
+    },
+    {
+      "cityName": "Airport Drive",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is still commonly referred to as \"Stone's Corner,\" as the intersection of Route 43 and Route 171 is known."
+    },
+    {
+      "cityName": "Albany",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the largest city in Gentry County, with a population of 1679 at the 2020 census."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 105."
+    },
+    {
+      "cityName": "Anniston",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2024, the city voted to disincorporate."
+    },
+    {
+      "cityName": "Arbela",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 24."
+    },
+    {
+      "cityName": "Arbyrd",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was officially incorporated in 1919."
+    },
+    {
+      "cityName": "Arnold",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of St. Louis, the city lies within the Greater St. Louis metropolitan statistical area."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The entire village is part of the National Historic Landmark Arrow Rock Historic District, designated by the Department of the Interior, National Park Service in 1963."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is well known for the Arrow Rock Lyceum Theatre, hosting over 33000 patrons every year."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Several locations are also certified sites of the Lewis and Clark National Historic Trail and the Santa Fe National Historic Trail."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The first state-designated historic site is located here."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Restoration of a 19th-century tavern in 1923 marked the beginning of historic preservation in Missouri."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Many structures within the village are individually listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town has numerous bed and breakfast establishments, and a modern campground nearby is maintained by the Missouri Division of State Parks."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The village retains much of its 19th-century Boonslick character, and it attracts more than 100000 visitors per year."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It is significant in the history of Westward Expansion, the Santa Fe Trail, and 19th-century artist George Caleb Bingham."
+    },
+    {
+      "cityName": "Arrow Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Given the importance of heritage tourism to the village's economy, architectural ordinances implemented in 2004 provide guidance for both new construction and restorations of existing structures."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashland is part of the Columbia, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has wineries, antique shops, restaurants, B&B's, a wood shop, a glass studio, massage therapy, a historic museum, and The Augusta Brewery."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Augusta is located in the region known as the Missouri Rhineland."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Augusta is a popular stop along the Katy Trail, a 225-mile-long bike and walking path built along a former railroad right-of-way."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Augusta viticultural area was recognized by the federal government in 1980 as the first established American Viticultural Area (AVA) in the United States, two months prior to Napa Valley's recognition."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As a result, it is home to two wineries, Augusta Winery and Mount Pleasant Winery."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Vineyards and wineries have grown over the decades with more than 125 wineries now in the state of Missouri."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Starting in 2020, David Hoffmann and the Hoffmann Family of Companies have invested to grow the region into a wine-tourism destination and have purchased more than two dozen properties, including four wineries and six vineyards."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 7217."
+    },
+    {
+      "cityName": "Ava",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1871."
+    },
+    {
+      "cityName": "Ava",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was renamed Ava in 1881, the town's original name having been Militia Springs."
+    },
+    {
+      "cityName": "Avilla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avilla is the fourth-oldest settlement in Jasper County today, founded in 1856."
+    },
+    {
+      "cityName": "Avilla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was platted and laid out for public use July 23, 1858, by Andrew L. Love and David S. Holman."
+    },
+    {
+      "cityName": "Ballwin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ballwin is a western suburb of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Ballwin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 31103 as of the 2020 census."
+    },
+    {
+      "cityName": "Baring",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baring is located on the Burlington Northern and Santa Fe railroad's mainline between Chicago and Los Angeles, which can carry heavy mixed freight and intermodal traffic, as well as Amtrak's Southwest Chief passenger train."
+    },
+    {
+      "cityName": "Baring",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population is 125."
+    },
+    {
+      "cityName": "Barnard",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 201."
+    },
+    {
+      "cityName": "Barnhart",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barnhart is also a suburb of St. Louis."
+    },
+    {
+      "cityName": "Battlefield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city's population was 5990."
+    },
+    {
+      "cityName": "Bel-Nor",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bel-Nor is a northwestern suburban city of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Bel-Ridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bel-Ridge is part of the Normandy Schools Collaborative."
+    },
+    {
+      "cityName": "Bel-Ridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bel-Ridge became a city in 2015 by a vote of the voters."
+    },
+    {
+      "cityName": "Bell City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded as a sawmill town circa 1900, and lies at the foothills of Crowley's Ridge on Missouri Route 91."
+    },
+    {
+      "cityName": "Bell City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dorothy Burton is the current mayor."
+    },
+    {
+      "cityName": "Bella Villa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 757."
+    },
+    {
+      "cityName": "Belle",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Osage County portion of Belle is part of the Jefferson City, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bellefontaine Neighbors",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bellefontaine Neighbors ( bel-FOWN-t\u0259n) is an inner-ring suburban city in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Bellerive Acres",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of the former golf course is now occupied by the University of Missouri\u2013St. Louis."
+    },
+    {
+      "cityName": "Bellerive Acres",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In April, 2015, the residents voted to change the village of Bellerive to a fourth class city named Bellerive Acres."
+    },
+    {
+      "cityName": "Bellerive Acres",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the former site of Bellerive Country Club, which relocated southwest to Town and Country in 1959."
+    },
+    {
+      "cityName": "Berkeley",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berkeley is an inner-ring suburb of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Berkeley",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Portions of St. Louis Lambert International Airport are within the city limits."
+    },
+    {
+      "cityName": "Beverly Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 475."
+    },
+    {
+      "cityName": "Big Lake",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also adjacent to Big Lake State Park, which has the largest marsh in a state park in the state of Missouri."
+    },
+    {
+      "cityName": "Black Jack",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office called Black Jack was established in 1872, and operated until 1906."
+    },
+    {
+      "cityName": "Black Jack",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named for a grove of blackjack oak trees near the original town site."
+    },
+    {
+      "cityName": "Black Jack",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Black Jack is a second-ring suburb of St. Louis in northern St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Blackwater",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded by the Missouri Pacific Railroad, Blackwater's economy was largely defined by freight until the mid-twentieth century."
+    },
+    {
+      "cityName": "Blackwater",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has preserved a number of historic, rail-related structures that have been repurposed as museums, hotels, or antique shops."
+    },
+    {
+      "cityName": "Blackwater",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many parts of Blackwater's commercial and residential districts are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Blackwater",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "With the railroad's decline, Blackwater's status as a boom town came to an end, and the population thinned considerably."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office called Blackwells Station was established in 1858, and the name was changed to Blackwell in 1885."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A variant name was \"Blackwell Station\"."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community has the name of Lavinia Blackwell and Margaret Blackwell, first settlers."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Senator Earl R. Blackwell grew up near Blackwell."
+    },
+    {
+      "cityName": "Bland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Osage County portion of Bland is part of the Jefferson City, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In September 1864 during the Civil War, the town was reduced to ashes."
+    },
+    {
+      "cityName": "Bloomsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Genevieve County, Missouri, United States."
+    },
+    {
+      "cityName": "Blue Eye",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blue Eye, Missouri is adjacent to Blue Eye, Arkansas."
+    },
+    {
+      "cityName": "Blue Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blue Springs is located 19 miles (31 km) east of Kansas City."
+    },
+    {
+      "cityName": "Blue Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 58604."
+    },
+    {
+      "cityName": "Bolivar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city derives its name in-part from the South American revolutionary Sim\u00f3n Bol\u00edvar."
+    },
+    {
+      "cityName": "Bolivar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 United States Census, Bolivar had a population of 10772."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was the site of a skirmish early in the Civil War, on July 17, 1861."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Union forces defeated the Missouri State Guard in the first Battle of Boonville."
+    },
+    {
+      "cityName": "Bourbon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2010 census, it had a population of 1632."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Branson is the site of the Branson Cross, the largest cross monument in North America."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named after Reuben Branson, postmaster and operator of a general store in the area in the 1880s."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The collection of entertainment theaters along 76 Country Boulevard (and to a lesser extent along Shepherd of the Hills Expressway), including Dolly Parton's Stampede, has increased Branson's popularity as a tourist destination."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Branson is in the Ozark Mountains."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Most of the city is situated in Taney County, with a small portion in the west extending into Stone County."
+    },
+    {
+      "cityName": "Branson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Branson has long been a popular destination for vacationers from Missouri and around the country."
+    },
+    {
+      "cityName": "Brentwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brentwood is an inner-ring suburb of St. Louis in Clayton Township, St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is featured in the documentary Atomic Homefront, which covers the effects of radioactive waste stored in the nearby West Lake Landfill site."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bridgeton is a second-ring suburb of Greater St. Louis in northwestern St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bridgeton is located at the intersection of the St. Louis outer belt and I-70."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bridgeton serves as the primary transport hub within Greater St. Louis."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Portions of St. Louis Lambert International Airport are within Bridgeton."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established in 1895."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bruner is part of the Springfield, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office is located in Bruner on the north side of Route 14."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "James A. Rathbun moved to the region in 1862 and settled near Keltner."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "About two years later he moved and established a store and post office near the current location of Bruner."
+    },
+    {
+      "cityName": "Bruner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "He established a post office and settled on the name of Bruner after his first choice, Rathbun, was denied because a Rathbun office was already in use."
+    },
+    {
+      "cityName": "Brunswick",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 801 at the 2020 census."
+    },
+    {
+      "cityName": "Brunswick",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Brunswick, by official state proclamation, is the Pecan Capital of Missouri."
+    },
+    {
+      "cityName": "Brunswick",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Missouri Farmers Association (MFA Incorporated) was founded in Brunswick in 1914."
+    },
+    {
+      "cityName": "Buckner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For decades it was best known for TV and radio commercials promoting local automobile dealership Lasater Ford, run by the Lasater brothers, Wilson and Milton and later Halverson Ford."
+    },
+    {
+      "cityName": "Butler",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for William Orlando Butler, an American military and political figure of the early and mid-19th century."
+    },
+    {
+      "cityName": "Cadet",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cadet is located on Missouri Route 47 between Old Mines to the west and Bonne Terre to the southeast."
+    },
+    {
+      "cityName": "Cadet",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is approximately 6 miles (10 km) northeast of Potosi."
+    },
+    {
+      "cityName": "Cairo",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The pronunciation is Kay-row, unlike the city in Egypt."
+    },
+    {
+      "cityName": "Caledonia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caledonia is located 4 miles (6.4 km) east of Belgrade."
+    },
+    {
+      "cityName": "California",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population was 4498."
+    },
+    {
+      "cityName": "Calverton Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Village of Calverton Park incorporated as the City of Calverton Park in 2014."
+    },
+    {
+      "cityName": "Camdenton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is enveloped by the Lower Niangua arm of the Lake of the Ozarks, and serves as a popular trade point for visitors to the area."
+    },
+    {
+      "cityName": "Camdenton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 3718 at the 2010 census."
+    },
+    {
+      "cityName": "Canton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canton is the home of Culver-Stockton College, a small liberal arts college affiliated with the Christian Church (Disciples of Christ)."
+    },
+    {
+      "cityName": "Canton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It also had the oldest continuously operating ferry across the Mississippi River, which closed in April 2014."
+    },
+    {
+      "cityName": "Canton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Four members of the United States House of Representatives have come from Canton, and are buried in the city's Forest Grove Cemetery."
+    },
+    {
+      "cityName": "Cape Fair",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community most likely was named for the river cape or sharp stream meander south of the original town site."
+    },
+    {
+      "cityName": "Cape Fair",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cape Fair is on the west side of the James River arm of Table Rock Lake."
+    },
+    {
+      "cityName": "Cape Fair",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Cape Fair has been in operation since 1851."
+    },
+    {
+      "cityName": "Cape Girardeau",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cape Girardeau is the economic center of southeastern Missouri and the home of Southeast Missouri State University."
+    },
+    {
+      "cityName": "Cape Girardeau",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cape Girardeau ( jirr-AR-doh, French: Cap-Girardeau ; colloquially referred to as \"Cape\") is a city in Cape Girardeau and Scott counties in the U S state of Missouri."
+    },
+    {
+      "cityName": "Cardwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Frank Cardwell, an Arkansas banker who lent money to the town's founders."
+    },
+    {
+      "cityName": "Cardwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2024 recorded population is 526."
+    },
+    {
+      "cityName": "Cardwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The current mayor of Cardwell is Denise Latting and the current aldermen are Cody Todd, Dustin Lee and Winnia Cohea."
+    },
+    {
+      "cityName": "Cardwell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lisa Vowels serves as the City Clerk."
+    },
+    {
+      "cityName": "Carrollton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carrollton won the 2005 All-America City Award, given out annually by the National Civic League."
+    },
+    {
+      "cityName": "Cassville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of Cassville was 3186."
+    },
+    {
+      "cityName": "Cassville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cassville is one of the primary markets and job centers for an estimated 14000 people living in the surrounding area."
+    },
+    {
+      "cityName": "Catawissa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Catawissa was laid out in 1858, and most likely was named after Catawissa, Pennsylvania."
+    },
+    {
+      "cityName": "Catawissa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winch Creek flows past the eastern margin of the community."
+    },
+    {
+      "cityName": "Catawissa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Catawissa has been in operation since 1860."
+    },
+    {
+      "cityName": "Caulfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ozark County line lies just to the west of Caulfield."
+    },
+    {
+      "cityName": "Centralia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A very small portion of the city lies in Audrain County."
+    },
+    {
+      "cityName": "Cherryville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near the Mark Twain National Forest."
+    },
+    {
+      "cityName": "Cherryville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community most likely was named for cherry trees near the original town site."
+    },
+    {
+      "cityName": "Cherryville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Cherryville has been in operation since 1862."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The broader valley of Chesterfield was originally referred to as \"Gumbo Flats\", derived from its soil, which though very rich and silty, resembled gumbo when wet."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a western suburb of St. Louis."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 49999, making it the state's 14th most populous city."
+    },
+    {
+      "cityName": "Chestnutridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chesnutridge is part of the Springfield, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Chestnutridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on Missouri Route BB just east of Missouri Route 176 and about two miles west of U S Route 65."
+    },
+    {
+      "cityName": "Chestnutridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Chestnutridge has been in operation since 1902."
+    },
+    {
+      "cityName": "Chestnutridge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community takes its name from a nearby ridge of the same name where chestnut trees were abundant."
+    },
+    {
+      "cityName": "Chillicothe",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chillicothe is known as \"The Home of Sliced Bread\"."
+    },
+    {
+      "cityName": "Chillicothe",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "For many years its schools were segregated and African American students attended what eventually became known as Garrison School, named after William Lloyd Garrison."
+    },
+    {
+      "cityName": "Chillicothe",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name \"Chillicothe\" is Shawnee for \"big town\"."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Organized in 1877, the city was named after Ralph Clayton, a citizen who donated the land for the St. Louis County courthouse."
+    },
+    {
+      "cityName": "Clever",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clever, like the rest of Christian County, saw a significant increase in population between 2000 and 2010."
+    },
+    {
+      "cityName": "Clyde",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Benedictine Convent of Perpetual Adoration which houses 550 documented saint relics\u2014one of the largest collections in the United States."
+    },
+    {
+      "cityName": "Cobalt",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 264, up from 226 in 2010."
+    },
+    {
+      "cityName": "Cole Camp",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is known for the annual street fair in September."
+    },
+    {
+      "cityName": "Cole Camp",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It also hosts a Maifest in May, an Oktoberfest in October, and a Christbaumfest in late November; all highlight the town's German heritage."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Surrounding Columbia is a greenbelt including Rock Bridge Memorial State Park, Eagle Bluffs Conservation Area, the Mark Twain National Forest, Katy Trail State Park, Finger Lakes State Park, and the Big Muddy National Fish and Wildlife Refuge."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In addition to the university and surrounding Downtown Columbia are Stephens College and Columbia College, giving the city its educational focus and nearly 40000 college students."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was founded in 1821 and had a population of 126254 as recorded in the 2020 United States census, making it the fourth-most populous city in Missouri."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Columbia is among the most-educated cities in the United States with about half of citizens being college graduates and about a quarter holding advance degrees."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is built on the oak-forested hills and rolling prairies of Mid-Missouri, near the Missouri River, where the Ozark Mountains transition into plains and savanna."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The University of Missouri Health Care system operates six hospitals in Columbia, several clinics, and the Thompson Center for Autism and Neurodevelopment."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "There is also the county-owned Boone Hospital Center, several smaller private hospitals, and the Harry S. Truman Memorial Veterans' Hospital, adjacent to University Hospital and MU School of Medicine."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The University of Missouri nuclear reactor is the most-powerful research reactor in the United States and the sole supplier of important radioisotopes used in nuclear medicine."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The Missouri Tigers, the state's only major college athletic program, play football at Faurot Field and basketball at Mizzou Arena as members of the Southeastern Conference (SEC)."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city has been known as the \"Athens of Missouri\" for its educational emphasis and classic beauty, but is more commonly called \"CoMo\"."
+    },
+    {
+      "cityName": "Concord",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It should not be confused with Concord Township, which the CDP shares much land with, but these areas' boundaries are not identical."
+    },
+    {
+      "cityName": "Conway",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conway is located 15 miles (24 km) southwest of Lebanon."
+    },
+    {
+      "cityName": "Corning",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is named for Erastus Corning who owned sizeable shares of the Chicago, Burlington, and Quincy Railroad and who is the namesake of another Burlington railroad community Corning, Iowa."
+    },
+    {
+      "cityName": "Corning",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Corning was dissolved and disincorporated in 2023."
+    },
+    {
+      "cityName": "Country Life Acres",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is considered the richest incorporated community in the state of Missouri ranked by mean household income as of 2020."
+    },
+    {
+      "cityName": "Country Life Acres",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a gated neighborhood surrounded by Town and Country, Missouri."
+    },
+    {
+      "cityName": "Crestwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2011, Bloomberg Businessweek magazine named Crestwood the \"Best Place to Raise Kids in Missouri,\" lauding the community for top-tier schools and excellent municipal services."
+    },
+    {
+      "cityName": "Creve Coeur",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the headquarters of Drury Hotels, and was the home of Monsanto until its acquisition by Bayer in 2018."
+    },
+    {
+      "cityName": "Creve Coeur",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 18834 at the 2020 census."
+    },
+    {
+      "cityName": "Crystal City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crystal City and its neighbor Festus are often collectively known as the \"Twin Cities\"."
+    },
+    {
+      "cityName": "Crystal City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was 4740 at the 2020 census."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Isaac Van Metre was first to settle in De Soto in the year of 1803."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was organized in 1857 and is named for the explorer Hernando De Soto, who claimed the Louisiana Territory for Spain."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "De Soto was the city closest to the mean center of U S population in 1980."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city celebrated its Bicentennial in 2003."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city made national news on and after May 6, 2003, when straight-line winds and a tornado struck the junior high gymnasium."
+    },
+    {
+      "cityName": "Defiance",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 159."
+    },
+    {
+      "cityName": "Dellwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city encompasses a mostly residential area between Chambers Road and Interstate 270, as well a number of businesses along West Florissant Avenue."
+    },
+    {
+      "cityName": "Denver",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Other than two churches and a post office, there are no services or any businesses in Denver: a half-block of storefront businesses still standing there are abandoned."
+    },
+    {
+      "cityName": "Dexter",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dexter is a city in Stoddard County, Missouri, United States, founded in 1873."
+    },
+    {
+      "cityName": "Diamond",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Diamond is primarily renowned as the birthplace of George Washington Carver."
+    },
+    {
+      "cityName": "Diehlstadt",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Diehlstadt was founded by John Kirkpatrick."
+    },
+    {
+      "cityName": "Dittmer",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An 1891 railroad map calls the community \"Dittmer's Store.\" It was officially named Dittmer in 1899."
+    },
+    {
+      "cityName": "Dittmer",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community's namesake is William Dittmer, an early postmaster who established a post office called Dittmer's Store in 1870."
+    },
+    {
+      "cityName": "Dittmer",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, Dittmer is home to the Vianney Renewal Center, a treatment center for Catholic clergy with sexual or other disorders."
+    },
+    {
+      "cityName": "Downing",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 300."
+    },
+    {
+      "cityName": "Duenweg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Interstate 44 and Interstate 49 run concurrently across the southeast corner of town, and Business Loop 44 runs through the center of town."
+    },
+    {
+      "cityName": "Eagle Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Eagle Rock Retreat Center, home of the Assembly of God youth organizations Royal Rangers National Training Center, is located approximately 4 miles southwest of Eagle Rock."
+    },
+    {
+      "cityName": "Eagle Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 193."
+    },
+    {
+      "cityName": "Eagle Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eagle Rock has a state campground and public marina."
+    },
+    {
+      "cityName": "Eagle Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A post office called Eagle Rock has been in operation since 1886."
+    },
+    {
+      "cityName": "Eagle Rock",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community takes its name from a nearby rock formation."
+    },
+    {
+      "cityName": "Earth City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bounded by the city of Bridgeton on the east and north, the city of Maryland Heights to the south, and the Missouri River to the west."
+    },
+    {
+      "cityName": "Earth City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also near Lambert International Airport."
+    },
+    {
+      "cityName": "Edina",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 1012."
+    },
+    {
+      "cityName": "Elkland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2018, Elkland resident Helen Viola Jackson was inducted into the Missouri Walk of Fame Jackson was notable as the last living widow of a Civil War Veteran."
+    },
+    {
+      "cityName": "Elkland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elkland is part of the Springfield, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elkland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Elkland has been in operation since 1870."
+    },
+    {
+      "cityName": "Elkland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community so named on account of the presence of elk near the original town site."
+    },
+    {
+      "cityName": "Elkland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1987, Elkland resident James Schnick murdered seven of his relatives, and attempted to frame his nephew, Kirk Buckner, who was among his victims."
+    },
+    {
+      "cityName": "Ellington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1925, the infamous Tri-State Tornado began just northwest of Ellington."
+    },
+    {
+      "cityName": "Ellisville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a western outer-ring suburb of St. Louis."
+    },
+    {
+      "cityName": "Ellisville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2009, Money magazine ranked Ellisville #25 on the annual Best Places to Live in America list."
+    },
+    {
+      "cityName": "Ellisville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is also currently home to an EPA Superfund site."
+    },
+    {
+      "cityName": "Ellsinore",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 U S census showed Ellsinore with a population of 416."
+    },
+    {
+      "cityName": "Emerald Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located on a bend in the White River now Table Rock Lake."
+    },
+    {
+      "cityName": "Emerald Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cassville is approximately 13 miles to the northwest and Rogers, Arkansas is 32 miles to the southwest."
+    },
+    {
+      "cityName": "Emerald Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated in 1981."
+    },
+    {
+      "cityName": "Emerald Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village is served by the Golden Post Office and thus has a Golden address."
+    },
+    {
+      "cityName": "Eugene",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eugene was founded in 1904, and named after Eugene Simpson, the original owner of the town site."
+    },
+    {
+      "cityName": "Eugene",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population is 140."
+    },
+    {
+      "cityName": "Eugene",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Eugene has been in operation since 1904."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1971, Eureka has been known as the home of the amusement park Six Flags St. Louis."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the extreme southwest of the Greater St. Louis metro area."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city had a population of 11646."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named Twin Bridges at the 2000 census."
+    },
+    {
+      "cityName": "Ewing",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ewing is part of the Lewis County C-1 School district."
+    },
+    {
+      "cityName": "Ewing",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Students attend the nearby Highland Elementary and Highland Junior-Senior High School."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmington was established in 1822 as Murphy's Settlement, named for William Murphy of Kentucky, who first visited the site in 1798."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the Lead Belt region in Missouri."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 18217."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "When St. Francois County was organized, the town was briefly called St. Francois Court House and later renamed to Farmington."
+    },
+    {
+      "cityName": "Faucett",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the St. Joseph, MO\u2013KS Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population was 2803 at the 2020 census."
+    },
+    {
+      "cityName": "Ferguson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 18527, and is predominantly Black."
+    },
+    {
+      "cityName": "Festus",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 12706 individuals as of the 2020 census."
+    },
+    {
+      "cityName": "Florissant",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a middle-class, second-ring northern suburb of St. Louis."
+    },
+    {
+      "cityName": "Florissant",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Based on the 2020 United States census, the city had a total population of 52533."
+    },
+    {
+      "cityName": "Forsyth",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forsyth is located on Lake Taneycomo on U S Route 160."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During World War II Italian and German POWs were interned at the fort."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Leonard Wood is a U S Army training installation located in the Missouri Ozarks."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The main gate is located on the southern boundary of the city of St. Robert."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The post was created in December 1940 and named in honor of General Leonard Wood (former Chief of Staff) in January 1941."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Originally intended to train infantry troops, in 1941 it became an engineer training post with the creation of the Engineer Replacement Training Center."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1984, as part of the Base Realignment and Closure process, most of the U S Army Engineer School's operations were consolidated at Fort Leonard Wood."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Before that, officer training was conducted at Fort Belvoir, Virginia."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "In 1999, again as part of the Base Realignment and Closure process, Fort McClellan, Alabama, was closed, and the U S Army Chemical Corps and Military Police Corps schools were transferred to Fort Leonard Wood, which was concurrently redesignated the U S Army Maneuver Support Center."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In 2009, the U S Army Maneuver Support Center was redesignated the U S Army Maneuver Support Center of Excellence (MSCoE); the \"center of excellence\" designation was placed on almost all U S Army training institutions."
+    },
+    {
+      "cityName": "Fort Leonard Wood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The current commanding general is Major General Christopher G. Beck and the command sergeant major is Command Sergeant Major Jorge Arzabala."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in a rural area, the city had a population of 70 at the 2020 census."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As the eastern terminus of the Santa Fe Trail, the community played a major role in the westward expansion of the United States."
+    },
+    {
+      "cityName": "Fredericktown",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded on three sides (east, west, and south) by the easternmost parcel of the Mark Twain National Forest."
+    },
+    {
+      "cityName": "Fremont Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after General John C. Fremont, who did some of the first surveys in the area as early as 1845."
+    },
+    {
+      "cityName": "Fremont Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Home to one of premiere golf courses in the area with a recreational area, pool, bar/restaurant at the Fremont Hills Country Club."
+    },
+    {
+      "cityName": "Fremont Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in Christian County, Missouri, it is situated just west of the CC & 65 highway interchange, one of the main highways to Branson, Missouri."
+    },
+    {
+      "cityName": "Fremont Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Christian County is one of the fastest growing counties in the state."
+    },
+    {
+      "cityName": "Fremont Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is ranked 324 in the state by size in the latest census with a growth rate of +4.10%."
+    },
+    {
+      "cityName": "Friedenswald",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Friedenswald is located in the central part of Camden County, Missouri on Lake Road 5-89."
+    },
+    {
+      "cityName": "Friedenswald",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Friedenswald is a village that was incorporated in 2008 and ratified by the Camden County, Missouri Commission under the Missouri Village Law."
+    },
+    {
+      "cityName": "Friedenswald",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is one of the smallest in the U S having a population of 2."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community name is inspired by the New France governor Louis de Buade de Frontenac."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Benjamin and Lora Wood, who laid out the community's core called Frontenac Estates, that consisted of 26 two-acre estates, had made frequent trips to Quebec."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was incorporated as 217 acres (88 ha) in 1947 and annexed another 967 acres (391 ha) in 1948."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community still consists mostly of houses on one-acre lots."
+    },
+    {
+      "cityName": "Frontenac",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "French architecture is encouraged in design."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to two universities, Westminster College and William Woods University; the Missouri School for the Deaf; the Fulton State Hospital; and the Fulton Reception and Diagnostic Center state prison."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located about 22 miles (35 km) northeast of Jefferson City and the Missouri River and 20 miles (32 km) east of Columbia, the city is part of the Jefferson City, Missouri, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Missouri's only nuclear power plant, the Callaway Plant is located 13 miles (21 km) southeast of Fulton."
+    },
+    {
+      "cityName": "Ginger Blue",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ginger Blue is an incorporated village in McDonald County, Missouri, United States."
+    },
+    {
+      "cityName": "Gladstone",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Gladstone is located about 10\u201320 minutes from downtown Kansas City, and about 10\u201320 minutes from Kansas City International Airport."
+    },
+    {
+      "cityName": "Gladstone",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 27063."
+    },
+    {
+      "cityName": "Glasgow",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Howard County portion of Glasgow is part of the Columbia, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Glen Echo Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glen Echo Park was a village in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Glen Echo Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community took its name from the nearby Glen Echo Country Club."
+    },
+    {
+      "cityName": "Glen Echo Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In August 2023, voters of Glen Echo Park and neighboring Normandy voted to consolidate the two municipalities."
+    },
+    {
+      "cityName": "Glen Echo Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The merger took effect on February 8, 2024, with Glen Echo Park being fully incorporated into Normandy."
+    },
+    {
+      "cityName": "Glenaire",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is completely surrounded by the city of Liberty."
+    },
+    {
+      "cityName": "Glenaire",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was originally referred to as \"Interurban Heights\" or \"Belleview\" because of the interurban train that ran through the area and stopped at the Belleview depot near the Belleview Dairy."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 181."
+    },
+    {
+      "cityName": "Gower",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Buchanan County portion of Gower is part of the St. Joseph, MO\u2013KS Metropolitan Statistical Area, while the Clinton County portion is part of the Kansas City, MO\u2013KS Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Grain Valley",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 23 miles (37 km) east of downtown Kansas City."
+    },
+    {
+      "cityName": "Granger",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 22."
+    },
+    {
+      "cityName": "Gray Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also called \"Gray's Summit\", it was founded by Daniel Gray of New York, who built a hotel here in 1845."
+    },
+    {
+      "cityName": "Greentop",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 388."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenville was incorporated and founded as the county seat of Wayne County in 1819."
+    },
+    {
+      "cityName": "Grover",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was located on Old Manchester Road (part of the original alignment of U S Route 66), but has now been wholly incorporated into Wildwood, whose City Hall is located in old Grover."
+    },
+    {
+      "cityName": "Halfway",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population of Halfway is 173."
+    },
+    {
+      "cityName": "Hallsville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southeast of the town is Mount Zion Church and Cemetery, the site of the Battle of Mount Zion Church during the Civil War."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the hometown of James Cash Penney, who built a large apparel-related business, J. C. Penney, and the hometown of Jenny Doan, who has built a large quilting-related business, Missouri Star Quilt Co."
+    },
+    {
+      "cityName": "Hannibal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 U S census, the population was 17108, making it the largest city in Marion County."
+    },
+    {
+      "cityName": "Hannibal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nestled on the Mississippi River, commerce and traffic has long been an integral part of Hannibal's development, including by river, rail and the interstate/highway system."
+    },
+    {
+      "cityName": "Hannibal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The bulk of the city is in Marion County, with a tiny sliver in the south extending into Ralls County."
+    },
+    {
+      "cityName": "Hannibal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today the city is intersected by Interstate 72 and U S Routes 24, 36, and 61."
+    },
+    {
+      "cityName": "Hannibal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Hannibal is not the county seat, but it has one of two county courthouses."
+    },
+    {
+      "cityName": "Harrisburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded to be an important railroad depot, but the railroad never came and the town remained small."
+    },
+    {
+      "cityName": "Harrisburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harrisburg is situated on a high point between Moniteau Creek and Perche Creek, at the headwaters of Callahan Creek."
+    },
+    {
+      "cityName": "Harrisburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is named in honor of John Woods Harris, an early county leader and owner of the nearby \u201cModel Farm\u201d on Thrall\u2019s Prairie."
+    },
+    {
+      "cityName": "Hartville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 594 at the 2020 census."
+    },
+    {
+      "cityName": "Harviell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census it had a population of 98."
+    },
+    {
+      "cityName": "Harwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was estimated to be 45 by the City of Harwood as of July 1, 2019."
+    },
+    {
+      "cityName": "Hazelwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a second-ring northern suburb of St. Louis."
+    },
+    {
+      "cityName": "Hazelwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Based on the 2020 United States census, the city had a total population of 25485."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Helena has a park, an elementary school, two churches, a community center and a post office."
+    },
+    {
+      "cityName": "Herculaneum",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city celebrated its bicentennial throughout 2008."
+    },
+    {
+      "cityName": "Herculaneum",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city received the \"Tree City USA\" designation by the Arbor Day Foundation for 11 consecutive years, 2007 through 2017."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near the center of the Missouri Rhineland and south of the Missouri River."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has been the county seat since 1842."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Described as a Rhineland village, the city is the commercial center of the Hermann American Viticultural Area, whose seven wineries produce about one-third of the state's wine."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Designated in 1983, it is one of the first federally recognized American Viticultural Areas."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The designation recognized the renaissance of an area of vineyards and wineries established by Rhinelanders during the mid-19th century."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Shut down by Prohibition, it began to revive in the 1960s."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Hermann holds a Maifest during the third weekend in May and an Oktoberfest the first four weekends in October."
+    },
+    {
+      "cityName": "Hermann",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Hermann also calls itself the sausage-making capital of Missouri."
+    },
+    {
+      "cityName": "Hermitage",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The John Siddles Williams House on Museum Street in Hermitage, on the National Register of Historic Places since 1980, houses the Hickory County Historical Society Museum and Research Room."
+    },
+    {
+      "cityName": "Hillsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenwood Cemetery is located in Hillsdale."
+    },
+    {
+      "cityName": "Holts Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holts Summit is located 7 miles (11 km) northeast of Jefferson City, Missouri's state capital."
+    },
+    {
+      "cityName": "Homestead",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 192."
+    },
+    {
+      "cityName": "Hornersville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hornersville is a city in Dunklin County, Missouri, United States, founded in 1840."
+    },
+    {
+      "cityName": "House Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Valentine Leight General Store and Moder Archeological District are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "House Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is named after Adam House, who settled there ca."
+    },
+    {
+      "cityName": "House Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office has been in operation at House Springs since 1833."
+    },
+    {
+      "cityName": "House Springs",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "1795, and who was killed near a spring by Native Americans."
+    },
+    {
+      "cityName": "Houston Lake",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a private lake that is only available to residents of Houston Lake."
+    },
+    {
+      "cityName": "Humansville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 907."
+    },
+    {
+      "cityName": "Huntsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A center of activity in Huntsdale was Katfish Katy's, a small trail-side, seasonal restaurant along the Katy Trail State Park, until its closure in 2020."
+    },
+    {
+      "cityName": "Huntsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village was founded on August 1, 1892, and named after William Burch Hunt, a landowner."
+    },
+    {
+      "cityName": "Huntsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Huntsdale was first incorporated in 1906, but that status eventually fell into neglect and the last village council election took place in 1929."
+    },
+    {
+      "cityName": "Huntsdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Due mainly to an influx of residential development in the area, Huntsdale was reincorporated in February 2003 and its first elections were held two months later."
+    },
+    {
+      "cityName": "Hurdland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 155."
+    },
+    {
+      "cityName": "Imperial",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Imperial was originally known as West Kimmswick, the historic Catholic church of St. John\u2019s in Imperial, became an independent parish in 1869."
+    },
+    {
+      "cityName": "Independence",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is sacred to the Latter Day Saint movement, as the home of Joseph Smith's 1831 Temple Lot, and the headquarters of several Mormon denominations."
+    },
+    {
+      "cityName": "Independence",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Independence is known as the \"Queen City of the Trails\" because it was a point of departure for the California, Oregon, and Santa Fe Trails."
+    },
+    {
+      "cityName": "Independence",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2020, it had a total population of 123011, making it the fifth-most populous city in Missouri."
+    },
+    {
+      "cityName": "Independence",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A small part of the city extends into Clay County."
+    },
+    {
+      "cityName": "Innsbrook",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Innsbrook's largest lake so far."
+    },
+    {
+      "cityName": "Innsbrook",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village of Innsbrook is comprised almost entirely by Innsbrook Resort\u2014a private, gated community."
+    },
+    {
+      "cityName": "Innsbrook",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village was founded in 1998."
+    },
+    {
+      "cityName": "Innsbrook",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name \u201cInnsbrook\u201d was given to the village as a nod Austria\u2019s Tyrol region, a place where beautiful A-frames can be found clustered around small lakes just like Innsbrook."
+    },
+    {
+      "cityName": "Innsbrook",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Construction began on a 236-acre Alpine Lake in 2000."
+    },
+    {
+      "cityName": "Jane",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census it had a population of 359, up from 309 in 2010."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jefferson City is named for Thomas Jefferson (1743\u20131826), the third President of the United States, 1801\u20131809, and earlier major author of the Declaration of Independence of the United States on July 4, 1776."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lewis and Clark with their Corps of Discovery passed the bluff here on their historic expedition upriver in 1804, eventually journeying westward to the Pacific Northwest region and the Pacific Ocean, before Europeans or Americans established any settlement there."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He also served several diplomatic posts overseas in Europe and was the first U S Secretary of State (1790\u20131793) in the first President's Cabinet of George Washington, and subsequently the second Vice President (1797\u20131801) under second chief executive John Adams."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is dominated by the monumental domed Missouri State Capitol, which rises from a bluff overlooking the nearby Missouri River to the north."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Many of Jefferson City's primary employers are in service and manufacturing industries like Hitachi."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Jefferson City, informally Jeff City, is the capital of the U S state of Missouri."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It had a population of 43228 at the 2020 United States census, ranking as the 16th most populous city in the state, but the 9th least populous U S state capital."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It forms part of the nine-county Columbia\u2013Jefferson City\u2013Moberly combined statistical area, which has 415747 residents."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Most of the city is located within Cole County, with a small northern section extending into adjacent Callaway County."
+    },
+    {
+      "cityName": "Jefferson City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "It is 29 miles (47 km) south of Columbia, Missouri, and sits at the western edge of the Missouri Rhineland, one of the major wine-producing regions of the Midwest."
+    },
+    {
+      "cityName": "Jennings",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 12895."
+    },
+    {
+      "cityName": "Joplin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The bulk of the city is in Jasper County, while the southern portion is in Newton County."
+    },
+    {
+      "cityName": "Joplin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 51762 as of the 2020 census, Joplin is the 12th most-populous city in the state."
+    },
+    {
+      "cityName": "Joplin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In May 2011, a violent EF5 tornado killed more than 150 people and destroyed one-third of the city."
+    },
+    {
+      "cityName": "Kahoka",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 1961."
+    },
+    {
+      "cityName": "Kaiser",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With America's entry into World War I and the anti-German hysteria that followed, some residents proposed changing the name of the community to Success."
+    },
+    {
+      "cityName": "Kaiser",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named after the local Kaiser family."
+    },
+    {
+      "cityName": "Kaiser",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Kaiser has been in operation since 1904."
+    },
+    {
+      "cityName": "Kaiser",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "However, after some debate, the plan failed."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Celebrated cultural traditions include Kansas City jazz; theater, as a historical center of the Vaudevillian Orpheum circuit in the 1920s; the nickname City of Fountains; the Chiefs and Royals sports franchises; and cuisine such as Kansas City\u2013style barbecue and strip steak."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kansas City was founded in the 1830s as a port on the Missouri and Kansas rivers."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of Jackson County's two seats along with the major satellite city of Independence; and Kansas City's other major Missouri suburbs include Blue Springs, Lee's Summit, Raytown, and Liberty."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is composed of several neighborhoods, including the River Market District, 18th and Vine District, and the Country Club Plaza."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "On June 1, 1850, the town of Kansas was incorporated; soon afterwards, a region designated as the Kansas Territory was established."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Confusion between the city and the territory of Kansas ensued, so the name Kansas City was assigned to distinguish the city from the territory."
+    },
+    {
+      "cityName": "Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Kansas City Missouri's major Kansas suburbs include Overland Park, Olathe, Lenexa, and Kansas City, Kansas."
+    },
+    {
+      "cityName": "Kearney",
+      "state": "MO",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Jesse James was born in Kearney."
+    },
+    {
+      "cityName": "Kearney",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was the birthplace of Jesse James, and there is an annual festival in the third weekend of September to recognize the outlaw."
+    },
+    {
+      "cityName": "Kennett",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 10515 at the 2020 census."
+    },
+    {
+      "cityName": "Keytesville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Confederate General Sterling Price, who attacked Keytesville during an unsuccessful cavalry raid across his home state, had previously operated a hotel there."
+    },
+    {
+      "cityName": "Kingdom City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village lies north of the intersection of Interstate 70 and U S Route 54."
+    },
+    {
+      "cityName": "Kinloch",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The oldest African-American community to be incorporated in Missouri, Kinloch was home to a vibrant and flourishing Black community for much of the 19th and 20th century."
+    },
+    {
+      "cityName": "Kinloch",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It began to decline in the 1980s, when St. Louis began to buy up property due to an FAA noise-abatement program for nearby St. Louis Lambert International Airport."
+    },
+    {
+      "cityName": "Kinloch",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Between 1990 and 2000, Kinloch lost more than 80 percent of its population, and the city became an increasingly violent and dangerous place to live."
+    },
+    {
+      "cityName": "Kinloch",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In recent years, there have been efforts to rebuild the city."
+    },
+    {
+      "cityName": "Kirksville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kirksville is home to three colleges: Truman State University, Moberly Area Community College, and A T Still University."
+    },
+    {
+      "cityName": "Kirksville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Benton Township, its population was 17530 at the 2020 census."
+    },
+    {
+      "cityName": "Kirkwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1853, the city is named after James P. Kirkwood, chief engineer of the Pacific Railroad."
+    },
+    {
+      "cityName": "Kirkwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the first planned suburb located west of the Mississippi River."
+    },
+    {
+      "cityName": "Kirkwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kirkwood is an inner-ring suburb of St. Louis located in western St. Louis County, Missouri."
+    },
+    {
+      "cityName": "Kirkwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the city's population was 29461."
+    },
+    {
+      "cityName": "Knob Noster",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knob Noster State Park is nearby."
+    },
+    {
+      "cityName": "Knox City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 191."
+    },
+    {
+      "cityName": "La Grange",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since the 1960 census, the population has been dwindling."
+    },
+    {
+      "cityName": "La Plata",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known for La Plata station, which provides passenger rail service to Chicago and Los Angeles."
+    },
+    {
+      "cityName": "La Plata",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "La Plata is located next to the Adair County line and is on a mainline of the BNSF Railway."
+    },
+    {
+      "cityName": "Ladue",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ladue is an inner-ring suburb of St. Louis, located in St. Louis County, Missouri."
+    },
+    {
+      "cityName": "Ladue",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a population of 8989."
+    },
+    {
+      "cityName": "Ladue",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ladue has the highest median household income of any city in Missouri with a population over 1000."
+    },
+    {
+      "cityName": "Lake Lotawana",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city derives its name from the lake that takes up most of the city, which is said to be named after an Indian princess."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the birthplace of Harry S. Truman, the 33rd president of the United States."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 4266."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Lamar city government is consolidated with Barton County's City Township."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Because the city governance and township governance have different roles, circa 2002 the U S Census Bureau counted them as separate governments for census purposes."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In addition, the city of Lamar is surrounded by, but is not part of Barton County's Lamar Township."
+    },
+    {
+      "cityName": "Lanagan",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near Truitt's Cave."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 675."
+    },
+    {
+      "cityName": "Laredo",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laredo is pronounced \"la-read-oh\" which varies from the traditional pronunciation."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The original name of Lebanon, Missouri was Wyota, named after the original Native Americans that settled in the area."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Later, Reverend Benjamin Hooker changed the name to his hometown in Lebanon, Tennessee."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has a historic downtown with an Amtrak station, several human-made lake reservoirs, and several parks."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was likely named in honor of Pleasant John Graves Lea, a prominent local citizen killed during the Civil War."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Upon the conclusion of World War II, the city began to rapidly suburbanize and grow in population, transitioning into a commuter suburb of Kansas City."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1865, the town was incorporated as Strother, remaining so until it was renamed Lee\u2019s Summit three years later."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lee's Summit began as an agricultural community and persisted as such until the mid-twentieth century."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "During this period of growth, Lee\u2019s Summit developed a well-funded public school district."
+    },
+    {
+      "cityName": "Lee's Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The school district has consistently ranked among the city\u2019s top employers, alongside federal government offices, healthcare facilities, and retail centers."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has a historic downtown with an Amtrak station, several human-made lake reservoirs, and several parks."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was likely named in honor of Pleasant John Graves Lea, a prominent local citizen killed during the Civil War."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Upon the conclusion of World War II, the city began to rapidly suburbanize and grow in population, transitioning into a commuter suburb of Kansas City."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1865, the town was incorporated as Strother, remaining so until it was renamed Lee\u2019s Summit three years later."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lee's Summit began as an agricultural community and persisted as such until the mid-twentieth century."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "During this period of growth, Lee\u2019s Summit developed a well-funded public school district."
+    },
+    {
+      "cityName": "Lees Summit",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The school district has consistently ranked among the city\u2019s top employers, alongside federal government offices, healthcare facilities, and retail centers."
+    },
+    {
+      "cityName": "Lewistown",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lewistown is in the Lewis County C-1 school district."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Battle of Lexington State Historic Site, and of the former Wentworth Military Academy and College, which operated from 1880 to 2017."
+    },
+    {
+      "cityName": "Liberal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Liberal was founded as an atheist utopia in 1880 by lawyer George Walser, who named it after the Liberal League in nearby Lamar."
+    },
+    {
+      "cityName": "Liberal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city had restrictions on both religious buildings and saloons, instead offering intellectual pursuits."
+    },
+    {
+      "cityName": "Liberal",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A contingent of Christian residents moved to the town and began holding religious services against Walser's wishes, and eventually took hold of the settlement."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Liberty is home to William Jewell College and the historic Liberty Jail."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 United States census the population was 30167."
+    },
+    {
+      "cityName": "Linn Creek",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Construction of the Bagnell Dam that created the lake was begun August 8, 1929."
+    },
+    {
+      "cityName": "Linn Creek",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county seat was moved to the new town of Camdenton which had its beginnings in 1931."
+    },
+    {
+      "cityName": "Lonedell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office called Lone Dell was established in 1879, and the spelling was changed to Lonedell in 1895."
+    },
+    {
+      "cityName": "Lonedell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named for the remote dell in which it is located."
+    },
+    {
+      "cityName": "Lonedell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Little Meramac River flows just south of the community."
+    },
+    {
+      "cityName": "Lonedell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is at the intersection of Route 30 and routes N and FF and approximately eight miles east of St. Clair."
+    },
+    {
+      "cityName": "Loose Creek",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office in Loose Creek has been in operation since 1849."
+    },
+    {
+      "cityName": "Loose Creek",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community took its name from nearby Loose Creek."
+    },
+    {
+      "cityName": "Loose Creek",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town site was platted in 1870."
+    },
+    {
+      "cityName": "Louisiana",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Louisiana is located in northeast Missouri, on the Mississippi River, south of Hannibal."
+    },
+    {
+      "cityName": "Luray",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 73."
+    },
+    {
+      "cityName": "Maitland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At one point the city billed itself as the \"Bluegrass Mecca\"\u2014home to the largest bluegrass farm in the world."
+    },
+    {
+      "cityName": "Malden",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Malden is within Missouri's 8th congressional district."
+    },
+    {
+      "cityName": "Maplewood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maplewood is an inner-ring suburb of St. Louis, located in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Marble Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is well known for its yearly cooking competition located at the park."
+    },
+    {
+      "cityName": "Marble Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located at the intersection of State Highways 34 and 51, it is the largest city in Bollinger and serves as the county seat."
+    },
+    {
+      "cityName": "Marble Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was officially organized in July 1851 and is named after the marble-like rock, limestone, formations found in the area."
+    },
+    {
+      "cityName": "Marble Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Marble Hill is part of the Cape Girardeau\u2212Jackson, MO-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Marionville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marionville is known for its large population of white squirrels."
+    },
+    {
+      "cityName": "Marquand",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marquand was officially recognized and incorporated as a town in 1906."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Missouri Valley College."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Marshfield had a population of 7458."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2024, the population is estimated to be 7935."
+    },
+    {
+      "cityName": "Marthasville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Katy Trail, a 240-mile long bike path, passes through Marthasville."
+    },
+    {
+      "cityName": "Marthasville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The original graves of Daniel Boone and his wife were located near there."
+    },
+    {
+      "cityName": "Marthasville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1845, Boone's remains were disinterred and moved to Kentucky for burial."
+    },
+    {
+      "cityName": "Marthasville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Resentment in Missouri about the disinterment grew over the years, and a legend arose that Boone's remains never left Missouri."
+    },
+    {
+      "cityName": "Marthasville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Because of the many wineries from here east to Defiance, Marthasville is considered to mark one end of the \"Missouri Weinstrasse\"."
+    },
+    {
+      "cityName": "Maryland Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maryland Heights is a second-ring west-northwest suburb of St. Louis, located in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Maryland Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated in 1985."
+    },
+    {
+      "cityName": "Maryland Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Edwin L. Dirck was appointed the city's first mayor by then County Executive Gene McNary."
+    },
+    {
+      "cityName": "Maryland Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mark M. Levin served as City Administrator from August 1985 to 2015."
+    },
+    {
+      "cityName": "Maryville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maryville is home to Northwest Missouri State University and Northwest Technical School."
+    },
+    {
+      "cityName": "Maryville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the \"Missouri Point\" region, the city population was 10633, according to the 2020 Census."
+    },
+    {
+      "cityName": "McBaine",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McBaine is located just north of Eagle Bluffs Conservation Area and within sight of The Big Tree."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 1731."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Highway 136 passes near Memphis, which is east of Lancaster and west of Kahoka."
+    },
+    {
+      "cityName": "Mendon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 21 miles (34 km) northwest of the county seat Keytesville and 13 miles (21 km) north of Brunswick, Missouri, on Missouri Route 11."
+    },
+    {
+      "cityName": "Mexico",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Missouri Military Academy and annually hosts the Miss Missouri Pageant."
+    },
+    {
+      "cityName": "Mexico",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's population was 11469 at the 2020 census."
+    },
+    {
+      "cityName": "Miller",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 699."
+    },
+    {
+      "cityName": "Mindenmines",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the home of the Bank of Minden."
+    },
+    {
+      "cityName": "Mindenmines",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city lies approximately four miles east of Frontenac, Kansas."
+    },
+    {
+      "cityName": "Mindenmines",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has possessed a post office since 1883."
+    },
+    {
+      "cityName": "Mindenmines",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "(named Tusconia 1883\u20131884, Minden Mines 1884\u20131895, and Mindenmines since 1895)."
+    },
+    {
+      "cityName": "Miner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bordered to the west by the city of Sikeston."
+    },
+    {
+      "cityName": "Mokane",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mokane (founded as Smith's Landing and later known as Saint Aubert) is a small city in southern Callaway County, Missouri, United States."
+    },
+    {
+      "cityName": "Monett",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2024 census population estimate, the town is home to an estimated 10108 individuals."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named in honor of President Thomas Jefferson's estate in Virginia."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first permanent settlement in the town was made by Robert Shobe circa 1828."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 4526."
+    },
+    {
+      "cityName": "Mountain Grove",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies within the Ozarks in the south-central part of the state."
+    },
+    {
+      "cityName": "Neosho",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Neosho lies on the western edge of the Ozarks, in the far southwest of the state."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The local government has a council-manager model."
+    },
+    {
+      "cityName": "New Franklin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is 0.25 miles (0.40 km) northeast of and uphill from Franklin, a flood-prone historic community which was the eastern terminus of the Santa Fe Trail."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Haven is within the Hermann AVA (American Viticultural Area)."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Haven, Missouri is in the Missouri Rhineland of the United States and a sister city to Borgholzhausen, Germany."
+    },
+    {
+      "cityName": "New London",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ralls County Courthouse in New London was built in 1858 and is the oldest court house in Missouri."
+    },
+    {
+      "cityName": "New London",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "William Jameson, claimed land, made a plat, and founded New London in 1819."
+    },
+    {
+      "cityName": "New London",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New London was named the county seat in 1820."
+    },
+    {
+      "cityName": "New Madrid",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is on the north side of the Kentucky Bend in the Mississippi River, which is also known as \"New Madrid Bend\" or \"Madrid Bend.\" The river curves in an oxbow around an exclave of Fulton County, Kentucky."
+    },
+    {
+      "cityName": "New Madrid",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Scientists expect the river eventually to cut across the neck of the peninsula and make a more direct channel, leaving the Kentucky territory as an island."
+    },
+    {
+      "cityName": "New Madrid",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Madrid was the epicenter of the very powerful 1811\u201312 New Madrid earthquakes."
+    },
+    {
+      "cityName": "Newark",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 54."
+    },
+    {
+      "cityName": "Newtonia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newtonia was the site of the Battles of Newtonia during the American Civil War."
+    },
+    {
+      "cityName": "Newtonia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village contains some Antebellum houses, such as the Mathew H. Ritchey House, as well as a cemetery for Civil War dead."
+    },
+    {
+      "cityName": "Niangua",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Niangua is part of the Springfield, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Nixa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city's population was 23257."
+    },
+    {
+      "cityName": "Noel",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is in the southwest corner of Missouri, just north of the Arkansas border."
+    },
+    {
+      "cityName": "Norborne",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norborne was founded in 1868 by Norborne B. Coates, a civil engineer for the railroad."
+    },
+    {
+      "cityName": "Norborne",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Norborne is the self-proclaimed Soybean Capital of the World and holds a Soybean Festival every year during the weekend of the second Saturday in August."
+    },
+    {
+      "cityName": "Norborne",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town has numerous small businesses but is mostly an agricultural community."
+    },
+    {
+      "cityName": "North Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally a northern suburb across the Missouri River from Kansas City, it is now almost completely surrounded by Kansas City, which has annexed far to the north of North Kansas City's northern city limits."
+    },
+    {
+      "cityName": "North Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also enclaved in Kansas City."
+    },
+    {
+      "cityName": "North Kansas City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "North Kansas City also adjoins the small municipality of Avondale."
+    },
+    {
+      "cityName": "Novelty",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 102."
+    },
+    {
+      "cityName": "O'Fallon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, O'Fallon had a population of 91316, making it the most populous suburb of St. Louis, as well as the most populous municipality in St. Charles County and the 7th most populous in Missouri."
+    },
+    {
+      "cityName": "O'Fallon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "O'Fallon's namesake in St. Clair County, Illinois, is also part of the St. Louis region."
+    },
+    {
+      "cityName": "O'Fallon",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The two cities are one of the few pairs of same-named municipalities to be part of the same metro area."
+    },
+    {
+      "cityName": "Oakville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakville is 18 miles south of the city of St. Louis and borders the Mississippi and Meramec rivers; the area is part of \"South County\" (south St. Louis County)."
+    },
+    {
+      "cityName": "Oakwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakwood was laid out in the early 1920s, and named for a grove of oak trees near the original town site."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along Interstate 70 Odessa's historic downtown is home to a range of boutique shops and restaurants."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is host to the annual Puddle Jumper Days town fair, the Odessa Rodeo, a Christmas lighting ceremony and various other community events held throughout the year."
+    },
+    {
+      "cityName": "Old Jamestown",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Old Jamestown is northwest of the city of St. Louis and borders the Missouri River."
+    },
+    {
+      "cityName": "Olivette",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Olivette is an inner-ring suburb of St. Louis, located in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Olympian Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named in honor of Greek myth and culture."
+    },
+    {
+      "cityName": "Olympian Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some street names include Parthenon Drive, Kronos Drive, Hercules Place, Plato Place, and Pheidippides Place."
+    },
+    {
+      "cityName": "Osage Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Osage Beach maintains a park system that includes City Park, Peanick Park, and the Osage Beach Sports Complex, offering recreation areas, ball fields, and walking trails."
+    },
+    {
+      "cityName": "Osage Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated along the Lake of the Ozarks, the city is a major tourism destination and serves as a regional commercial hub."
+    },
+    {
+      "cityName": "Osage Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Based on 2024 census, the city home to approximately 5100 residents while welcoming over three million visitors each year."
+    },
+    {
+      "cityName": "Osage Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is a center for lodging, shopping, dining, and business activity."
+    },
+    {
+      "cityName": "Osage Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city was formally incorporated in 1965."
+    },
+    {
+      "cityName": "Osborn",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Clinton County portion of Osborn is part of the Kansas City, MO\u2013KS Metropolitan Statistical Area, while the DeKalb County portion is part of the St. Joseph, MO\u2013KS Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Osborn",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Clinton County portion of Osborn lies in Platte Township, while the DeKalb County portion of Osborn lies in Colfax Township."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the American Civil War, Osceola was the site of the Sacking of Osceola."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bill Otto (born January 1, 1956) is a former Democratic member of the Missouri House of Representatives, representing District 70."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He is a Navy veteran and retired air traffic controller."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2016, Otto choose to run for the 2nd Congressional District seat rather than run for re-election on the state level."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He ran a campaign with no primary opposition for the 2nd District Congressional seat and lost to Rep."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In March 2017, Bill Otto was hired as the executive director of the St. Charles County Democratic Central Committee."
+    },
+    {
+      "cityName": "Otto",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In February 2018, Otto announced his run for the Missouri House District 65, located in St. Charles County; he lost to incumbent Tom Hannegan by less than two percent in November."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 21284 as of the 2020 census."
+    },
+    {
+      "cityName": "Parkville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkville is known for its antique shops, art galleries, and historic downtown."
+    },
+    {
+      "cityName": "Parkville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Park University, English Landing Park, Platte Landing Park, and the National Golf Club of Kansas City."
+    },
+    {
+      "cityName": "Parkville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Large neighborhoods in Parkville include: Riss Lake, The National, Thousand Oaks, Creekside, Parkville Heights, River Hills, Riverchase, The Bluffs, Downtown, and Pinecrest."
+    },
+    {
+      "cityName": "Parnell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was home to the father-son horse trainers Ben and Jimmy Jones, whose horses won eight Kentucky Derbies and two Triple Crowns."
+    },
+    {
+      "cityName": "Pasadena Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The entire city is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Patton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Patton is part of the Cape Girardeau\u2013Jackson, MO-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Peculiar",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town motto is \"Where the 'odds' are with you.\""
+    },
+    {
+      "cityName": "Pendleton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pendleton is an incorporated village in Warren County, Missouri, United States."
+    },
+    {
+      "cityName": "Phillipsburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Redmon\u2019s Candy Factory and the World\u2019s Largest Gift Store."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Piedmont, transliterated as \"foot of the mountain,\" is named for its position at the foot of Clark Mountain, a 1424-foot summit approximately two miles north of the town."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1897 at the 2020 census."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Part of the Ozark Foothills Region, it is at the convergence of State Highways 34 and 49."
+    },
+    {
+      "cityName": "Pierce City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2024 census population estimate, the town is home to an estimated 1272 individuals."
+    },
+    {
+      "cityName": "Pierpont",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village, located south of Rock Bridge Memorial State Park at Route N and Highway 163, was incorporated in 2004 to avoid annexation by the city of Columbia."
+    },
+    {
+      "cityName": "Pierpont",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is now an independent village with its own governing board of trustees."
+    },
+    {
+      "cityName": "Pilot Knob",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies eighteen miles (29 km) south-east of Belgrade and twenty-seven miles (43 km) north-east of Centerville."
+    },
+    {
+      "cityName": "Pittsburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community lies on the shores of Pomme de Terre Lake."
+    },
+    {
+      "cityName": "Plato",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plato is an incorporated village in northwestern Texas County, Missouri, United States."
+    },
+    {
+      "cityName": "Plato",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 U S census Plato was the mean center of United States population of the distribution of the U S population."
+    },
+    {
+      "cityName": "Plattsburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It developed along the Little Platte River."
+    },
+    {
+      "cityName": "Plattsburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 2222."
+    },
+    {
+      "cityName": "Pleasant Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasant Hill is home for the National Weather Service Kansas City/Pleasant Hill, Missouri office, which serves 37 counties in northern and western Missouri and seven counties in extreme east-central Kansas."
+    },
+    {
+      "cityName": "Pomona",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for Pomona, the Roman goddess of fruit trees; this area was a major producer of apples."
+    },
+    {
+      "cityName": "Pomona",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, Pomona had a population of 511."
+    },
+    {
+      "cityName": "Pomona",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Pomona has been in operation since 1895."
+    },
+    {
+      "cityName": "Poplar Bluff",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is at the crossroads of U S Route 60 and U S Route 67."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town sits on the Mississippi River roughly opposite Elsah, Illinois, and is the home of the riverside shrine of Our Lady of the Rivers."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was founded in 1799 by Spanish Lt."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The French name derives from the overland escape route between the Missouri River and Mississippi River used by a band of Sioux, fleeing enemies; they used this area as a portage for their canoes, outdistancing their rivals who instead paddled all of the way to the confluence of the rivers."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Zenon Trudeau and Fran\u00e7ois Saucier in reaction to American plans to build a military post about twelve miles (19 km) downstream."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Treaties of Portage des Sioux in 1815 were signed here ostensibly settling Native American and United States conflicts in the War of 1812."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The treaties consolidated and affirmed the Treaty of St. Louis (1804) in which the Sauk and Meskwaki ceding northeast Missouri and much of Illinois and Wisconsin and the 1808 Treaty of Fort Clark in which the Osage Nation ceded all of Missouri and Arkansas."
+    },
+    {
+      "cityName": "Portage Des Sioux",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "These treaties were to ultimately result in the Black Hawk War and the tribes being forced to move west of Missouri."
+    },
+    {
+      "cityName": "Potosi",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Lead Belt, the city was founded in 1763 by French colonists as Mine \u00e0 Breton or Mine au Breton."
+    },
+    {
+      "cityName": "Potosi",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the United States acquired this area, American Moses Austin renamed the community for the Bolivian silver-mining city of Potos\u00ed."
+    },
+    {
+      "cityName": "Potosi",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He was involved in lead mining."
+    },
+    {
+      "cityName": "Potosi",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Potosi is 72 miles (116 km) southwest of St. Louis."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Princeton was the birthplace of the famous frontierswoman Calamity Jane."
+    },
+    {
+      "cityName": "Purcell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 318."
+    },
+    {
+      "cityName": "Queen City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For the place nicknamed \"the Queen City of the Ozarks\", see Springfield, Missouri.Queen City is a city in Schuyler County, Missouri, United States."
+    },
+    {
+      "cityName": "Queen City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 562."
+    },
+    {
+      "cityName": "Qulin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Qulin is included within the Poplar Bluff Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Raymore",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Population estimates recently released by the US Census show that from July 2022 to July 2023, Raymore was the fastest growing city in the state and the 66th fastest growing city in the country, with a 4.7% increase in population in one year."
+    },
+    {
+      "cityName": "Raymore",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Raymore's population estimate is 25306 as of July 2024."
+    },
+    {
+      "cityName": "Raytown",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The current mayor of Raytown is Michael McDonough."
+    },
+    {
+      "cityName": "Republic",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the fourth largest city in the Springfield, Missouri, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Republic",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2019, its population was 16938, making it the second largest city in Greene County in the U S state of Missouri."
+    },
+    {
+      "cityName": "Republic",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city's population was 18750."
+    },
+    {
+      "cityName": "Revere",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 76."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the north side of the Missouri River valley, Rhineland was devastated in the Great Flood of 1993."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name came from German immigrants from the river Rhine area."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was one of the first towns to accept federal funds to move out of a flood plain."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "All houses in the town were moved about 1\u00bd miles uphill."
+    },
+    {
+      "cityName": "Richmond Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is an inner-ring suburb of St. Louis, Missouri, United States."
+    },
+    {
+      "cityName": "Richmond Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The United States census shows the population grew from 8603 in 2010 to 9286 in 2020."
+    },
+    {
+      "cityName": "Richmond Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to Robert L. Ramsay, the name was suggested by Robert E. Lee, who thought the topography of the area resembled Richmond, Virginia."
+    },
+    {
+      "cityName": "Ridgedale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies approximately ten miles south of Branson on U S Route 65, about one-half mile north of the Arkansas state line."
+    },
+    {
+      "cityName": "River Bend",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the only part of Jackson County that lies north of the Missouri River."
+    },
+    {
+      "cityName": "River Bend",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1951, the Missouri River was relocated to a new channel, creating River Bend, (also known as Liberty Bend)."
+    },
+    {
+      "cityName": "River Bend",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The county line still follows the original riverbed."
+    },
+    {
+      "cityName": "River Bend",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The mayor is Alex Dockler."
+    },
+    {
+      "cityName": "Rocheport",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rocheport includes the Rocheport Historic District, an area with buildings dating from 1830 and which is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Rock Hill",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Fairfax House on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Rockaway Beach",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the shoreline of the White River."
+    },
+    {
+      "cityName": "Rocky Comfort",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some say the community was named for the rocky terrain in an idyllic setting, while others believe the name is a transfer from Rocky Comfort, Arkansas."
+    },
+    {
+      "cityName": "Rocky Comfort",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 176."
+    },
+    {
+      "cityName": "Rocky Comfort",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Rocky Comfort has been in operation since 1876."
+    },
+    {
+      "cityName": "Rocky Comfort",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is mentioned in Dennis Murphy's poem of 1941, The Doomed Race, and is both title and setting for Wayne Holmes' 2009 memoir, Rocky Comfort."
+    },
+    {
+      "cityName": "Rocky Comfort",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "From 1902 to 1908, when it moved to nearby Fairview, the Horner Institute, a private school offering courses from the eighth grade through high school, was located in Rocky Comfort."
+    },
+    {
+      "cityName": "Rogersville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 3897."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Missouri University of Science and Technology, well known for its many engineering departments and computer science department."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The headquarters of the Mark Twain National Forest is in Rolla."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is approximately midway between St. Louis and Springfield along I-44."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population in the 2020 United States Census was 19943."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Nearby is an inactive township (Rolla Township)."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is also within the Ozark Highlands American Viticultural Area, with vineyards first established by Italian immigrants to the area."
+    },
+    {
+      "cityName": "Rosendale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rosendale is part of the St. Joseph, MO\u2013KS Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rutledge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 86."
+    },
+    {
+      "cityName": "Rutledge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office called Rutledge has been in operation since 1888."
+    },
+    {
+      "cityName": "Rutledge",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community has the name of one Mr. Rutledge, a land agent."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small portion of the village extends into Taney County."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a master-planned community which incorporated in 2003."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Charles is thus the third-oldest city in what is now the state of Missouri."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated on the Missouri River near its mouth at the Mississippi, St. Charles is a northwestern suburb of St. Louis."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This former French territory west of the Mississippi River was nominally ruled by Spain following France's defeat in the Seven Years' War, while France had also ceded the east of the Mississippi to Great Britain."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 18th and 19th century, the city's waterfront played a significant role as a river port for westward trade and expansion, including trade with Native American tribes on the upper Missouri River."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1804 the Lewis and Clark Expedition considered this settlement the last \"civilized\" stop before they headed upriver to explore the western territory that the United States acquired from France in the Louisiana Purchase."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city was founded circa 1769 as Les Petites C\u00f4tes, or \"The Little Hillsides\" in French, by Louis Blanchette, a French-Canadian fur trader."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The St. Charles area was settled primarily by French-speaking colonists from Canada in its early days."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city served as the first Missouri capital from 1821 to 1826."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It was also the starting point of the Boone's Lick Road to the Boonslick and the Santa Fe Trail."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In the 20th century, it became the site of the Saint Rose Philippine Duchesne Catholic shrine."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a few miles southeast of Lambert-St. Louis International Airport."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 6643."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after the town's founder Joseph Robidoux and the biblical Saint Joseph."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Today, St. Joseph is home to Missouri Western State University, which enrolls over 3800 students."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, St. Joseph had a total population of 72473, making it the 8th most populous city in the state, and the 3rd most populous in Northwest Missouri."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "St. Joseph is located roughly 30 miles (48 km) north of the Kansas City, Missouri city limits and approximately 125 miles (201 km) south of Omaha, Nebraska."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the nineteenth century, it was the death place of American outlaw Jesse James."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It was also the starting point of the Pony Express serving the West."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 19th century, St. Louis developed as a major port on the Mississippi River; from 1870 until the 1920 census, it was the fourth-largest city in the country."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's attractions include the 630-foot (192 m) Gateway Arch in Downtown St. Louis, the St. Louis Zoo, the Missouri Botanical Garden, the Saint Louis Art Museum, and Bellefontaine Cemetery."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's combined statistical area is the 20th-largest in the United States."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1904, it hosted the Louisiana Purchase Exposition, also known as the St. Louis World's Fair, and the Summer Olympics."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "St. Louis has a diverse economy with strengths in the service, manufacturing, trade, transportation, and aviation industries."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Major research universities in Greater St. Louis include Washington University in St. Louis, Saint Louis University, and the University of Missouri\u2013St. Louis."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Washington University Medical Center hosts an agglomeration of medical and pharmaceutical institutions, including Barnes-Jewish Hospital."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "St. Louis has four professional sports teams: the St. Louis Cardinals of Major League Baseball, the St. Louis Blues of the National Hockey League, St. Louis City SC of Major League Soccer, and the St. Louis BattleHawks of the United Football League."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It lies near the confluence of the Mississippi and the Missouri rivers."
+    },
+    {
+      "cityName": "Saint Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "St. Louis ( saynt LOO-iss, s\u0259nt-, sometimes referred to as St. Louis City, Saint Louis or STL) is an independent city on the eastern edge of Missouri, United States."
+    },
+    {
+      "cityName": "Saint Mary",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Genevieve County, Missouri, United States."
+    },
+    {
+      "cityName": "Saint Peters",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city also hosts the county's largest shopping center, Mid Rivers Mall."
+    },
+    {
+      "cityName": "Saint Peters",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a northwestern suburb of St. Louis."
+    },
+    {
+      "cityName": "Saint Peters",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Interstate 70 passes through the city, providing a major transportation link."
+    },
+    {
+      "cityName": "Saint Peters",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2008, St. Peters was named the 60th best place to live by Money magazine, putting it at the top in the state of Missouri."
+    },
+    {
+      "cityName": "Saint Peters",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It also ranked in Money magazine's Top 100 in 2010, 2012 and 2017."
+    },
+    {
+      "cityName": "Sainte Genevieve",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Genevieve National Historical Park, the 422nd unit of the National Park Service."
+    },
+    {
+      "cityName": "Sainte Genevieve",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1735 by French Canadian colonists and settlers from east of the river, it was the first organized European settlement west of the Mississippi River in present-day Missouri."
+    },
+    {
+      "cityName": "Sainte Genevieve",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Genevieve (French: Sainte-Genevi\u00e8ve ) is a city in Ste."
+    },
+    {
+      "cityName": "Sainte Genevieve",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Genevieve Township, Ste."
+    },
+    {
+      "cityName": "Sainte Genevieve",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Today, it is home to Ste."
+    },
+    {
+      "cityName": "Salem",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salem is located a few miles north of the Ozark Scenic Riverways and close to Montauk State Park, which contains the headwaters of the Current River."
+    },
+    {
+      "cityName": "Salem",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Salem is derived from the Hebrew word Shalom, meaning \"peace\"."
+    },
+    {
+      "cityName": "Sedalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sedalia is also the location of the Missouri State Fair and the Scott Joplin International Ragtime Festival."
+    },
+    {
+      "cityName": "Sedalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a total population of 21725."
+    },
+    {
+      "cityName": "Sedalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "U S Routes 50 and 65 intersect in the city."
+    },
+    {
+      "cityName": "Sedgewickville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sedgewickville is part of the Cape Girardeau\u2013Jackson, MO-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Seligman",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Joseph Seligman, a prominent 19th-century businessman."
+    },
+    {
+      "cityName": "Seligman",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Seligman (\u05d6\u05e2\u05dc\u05d9\u05d2\u05de\u05d0\u05df, \u05d6\u05e2\u05dc\u05d9\u05e7\u05de\u05d0\u05df) is of Yiddish derivation and means \"a jolly, cheerful person\"."
+    },
+    {
+      "cityName": "Seneca",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the southwestern border of the state, the city is part of the Joplin, Missouri Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Shrewsbury",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shrewsbury is an inner-ring suburb of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the home of Fort Osage National Historic Landmark."
+    },
+    {
+      "cityName": "Sikeston",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after John Sikes, who founded it in 1860."
+    },
+    {
+      "cityName": "Sikeston",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By way of Interstate 55, Interstate 57, and U S Route 60, Sikeston is close to the halfway point between St. Louis and Memphis, Tennessee and is four hours from Nashville."
+    },
+    {
+      "cityName": "Sikeston",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 16291, making it the fourth-most populous city in Missouri's 8th Congressional district behind Cape Girardeau, Rolla, and Farmington, and just ahead of Poplar Bluff which has had a similar population as Sikeston over the last few decades."
+    },
+    {
+      "cityName": "Sikeston",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Before the 2010 census, it had been the second-most populous city in the congressional district."
+    },
+    {
+      "cityName": "Smithville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Smithville is also known for the Smithville Lake."
+    },
+    {
+      "cityName": "South Gorin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 62."
+    },
+    {
+      "cityName": "South Gorin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The original name of the city was simply \"Gorin\", and it was changed."
+    },
+    {
+      "cityName": "South Gorin",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The official name for the post office in South Gorin is still Gorin."
+    },
+    {
+      "cityName": "South Lineville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Lineville refers to the fact the town site lies near the Missouri\u2014Iowa state line."
+    },
+    {
+      "cityName": "Southwest City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located near the tripoint where Missouri, Arkansas, and Oklahoma meet, it serves as a small rural community with historical ties to frontier trade and agriculture."
+    },
+    {
+      "cityName": "Southwest City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 922."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springfield's nicknames include \"Queen City of the Ozarks\" and \"The Birthplace of Route 66\"."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Springfield is close to Wilson's Creek National Battlefield and is along the national historic Trail of Tears."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Springfield hosts several universities and colleges, including Missouri State University, Drury University, and Evangel University."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2020, Springfield's largest ethnicities were 87.6% white, 4% black, and 5% two or more races, placing it among the least diverse cities in the United States."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is the headquarters for Bass Pro Shops and the adjoining Wonders of Wildlife Museum & Aquarium."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is a regional center of medical care, with the two largest hospitals, CoxHealth and Mercy, being the largest employers in the city."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Springfield is an important regional center for distribution, logistics, and manufacturing."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city has been called the \"Buckle of the Bible Belt\" due to its association with evangelical Christianity."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The city's population was 169176 at the 2020 census."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "It is also home to O'Reilly Auto Parts, which began as a family business with 13 employees in 1957."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 19th century, St. Louis developed as a major port on the Mississippi River; from 1870 until the 1920 census, it was the fourth-largest city in the country."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's attractions include the 630-foot (192 m) Gateway Arch in Downtown St. Louis, the St. Louis Zoo, the Missouri Botanical Garden, the Saint Louis Art Museum, and Bellefontaine Cemetery."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's combined statistical area is the 20th-largest in the United States."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1904, it hosted the Louisiana Purchase Exposition, also known as the St. Louis World's Fair, and the Summer Olympics."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "St. Louis has a diverse economy with strengths in the service, manufacturing, trade, transportation, and aviation industries."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Major research universities in Greater St. Louis include Washington University in St. Louis, Saint Louis University, and the University of Missouri\u2013St. Louis."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Washington University Medical Center hosts an agglomeration of medical and pharmaceutical institutions, including Barnes-Jewish Hospital."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "St. Louis has four professional sports teams: the St. Louis Cardinals of Major League Baseball, the St. Louis Blues of the National Hockey League, St. Louis City SC of Major League Soccer, and the St. Louis BattleHawks of the United Football League."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It lies near the confluence of the Mississippi and the Missouri rivers."
+    },
+    {
+      "cityName": "St Louis",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "St. Louis ( saynt LOO-iss, s\u0259nt-, sometimes referred to as St. Louis City, Saint Louis or STL) is an independent city on the eastern edge of Missouri, United States."
+    },
+    {
+      "cityName": "Stark City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is adjacent to the battlefield of the Second Battle of Newtonia."
+    },
+    {
+      "cityName": "Steelville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after the landowner James Steel."
+    },
+    {
+      "cityName": "Stella",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Stella is located 17 miles southeast of Neosho."
+    },
+    {
+      "cityName": "Stewartsville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named for Robert M. Stewart, a former Missouri governor."
+    },
+    {
+      "cityName": "Stotts City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was estimated to be 217 by the City of Stotts City as of July 1, 2019."
+    },
+    {
+      "cityName": "Strafford",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population was 2561 at the 2020 census."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named in honor of U S Senator Charles Sumner."
+    },
+    {
+      "cityName": "Sunset Hills",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 United States census, the city's population was 9198."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the middle of the 19th century, the city was the western terminus of the Pacific Railway that reached 108 miles from St. Louis."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The current mayor of Syracuse is Duane A. Doyle."
+    },
+    {
+      "cityName": "Tarkio",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was platted in 1880 and incorporated in 1881."
+    },
+    {
+      "cityName": "Tarkio",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name \"Tarkio\" is derived from the Meskwaki language meaning \"place where walnuts grow\"."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Captain John Taylor, the proprietor of a local mill."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Taylor is located at the northern junction of U S Routes 24 and 61, approximately five miles west of Quincy, Illinois and eight miles north of Palmyra."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office called Taylor has been in operation since 1873."
+    },
+    {
+      "cityName": "Thayer",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its original name was Augusta."
+    },
+    {
+      "cityName": "Three Creeks",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three Creeks was incorporated on November 4, 2008 and had an estimated population of 4 in 2009."
+    },
+    {
+      "cityName": "Three Creeks",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population had risen to 8."
+    },
+    {
+      "cityName": "Tightwad",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 64 at the 2010 United States Census."
+    },
+    {
+      "cityName": "Tightwad",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tightwad is located along Missouri Route 7."
+    },
+    {
+      "cityName": "Town and Country",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is included in the St. Louis, MO-IL Metropolitan Statistical Area, and is home to Bellerive Country Club, which hosted the 1965 U S Open, the 1992 PGA Championship, and the 2018 PGA Championship."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was the world's largest producer of vienna sausages at its biggest employer, the ConAgra Grocery Foods plant, then bought by Nestl\u00e9."
+    },
+    {
+      "cityName": "Troy",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2019, the estimated population was 12820."
+    },
+    {
+      "cityName": "Troy",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Troy is an exurb of St. Louis, and is part of the St. Louis Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Truesdale",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is directly adjacent to the east of Warrenton and is part of the St. Louis MSA."
+    },
+    {
+      "cityName": "Twin Oaks",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The former Village of Twin Oaks changed its status to that of a city by public election in November 2016."
+    },
+    {
+      "cityName": "Umber View Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Umber is derived from one Mr. Umber, the proprietor of an early-20th-century country store."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Unity Village is a campus with historic buildings."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Fillmores\u2019 work was consolidated at Unity Village after World War II, and it is now the world headquarters for the ongoing spiritual movement."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Tower and an office building then used for the Silent Unity Prayer Ministry opened in 1929 and are on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lake Charles R. Fillmore (named for the grandson of the Unity cofounders) was created in 1926 to supply water to the farm and orchard that Unity maintained until the 1980s."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A crew of 100 men built a concrete buttress dam, the only one of its kind in Missouri and one of the few west of the Mississippi River, at a cost of $100000 to form the lake."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It remains the primary water supply for the Village today, and its water is pumped to the on-campus water treatment plant."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Unity Village is also home to two artificial lakes."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The lake is 42 feet deep and covers 21 surface acres, holding about 75 million gallons of water."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Its population was 66 at the 2020 census."
+    },
+    {
+      "cityName": "Unity Village",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The founders of the Unity spiritual movement, Charles and Myrtle Fillmore, purchased a 58-acre (23 ha) farm in 1919 as a weekend getaway for employees of their downtown Kansas City headquarters."
+    },
+    {
+      "cityName": "University City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "University City (colloquially, U. City) is an inner-ring suburb of the city of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Uplands Park",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is one of many small majority black communities located in the Natural Bridge corridor of mid-St. Louis County, characterized by small homes on small lots."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Van Buren was founded in 1833 as the county seat of Ripley County and was named after then Vice President of the United States, Martin Van Buren."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1859, Van Buren became a part of the newly created Carter County and was subsequently selected to be the county seat."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2020 U S census showed Van Buren with a population of 747."
+    },
+    {
+      "cityName": "Vandiver",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the village population was 63."
+    },
+    {
+      "cityName": "Viburnum",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mayor of Viburnum is Johnny Setzer."
+    },
+    {
+      "cityName": "Vichy",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was founded in 1880 and is named after Vichy, France."
+    },
+    {
+      "cityName": "Vichy",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office called Vichy has been in operation since 1880."
+    },
+    {
+      "cityName": "Vichy",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Rolla National Airport, a former U S Army airfield owned and operated by the City of Rolla, with two 5500 ft (1700 m) asphalt runways, is located nearby."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 581 at the 2020 census."
+    },
+    {
+      "cityName": "Walnut Grove",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Claudette Riley of the Springfield News-Leader described it as \"a largely agricultural community with a relatively low tax base.\""
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walnut Shade is the site of the Branson Cross, the largest cross monument in North America."
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bonniebrook Homestead was listed on the National Register of Historic Places in 1997."
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town sits at the confluence of Bull and Bear Creeks."
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A post office called Walnut Shade has been in operation since 1860."
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community once had Walnut Shade Schoolhouse, now defunct."
+    },
+    {
+      "cityName": "Walnut Shade",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The name \"Walnut Shade\" is commendatory."
+    },
+    {
+      "cityName": "Wappapello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wappapello was founded by Samuel R. Kelley, a veteran of the Civil War."
+    },
+    {
+      "cityName": "Wappapello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wappapello was laid out in 1884 when the railroad was extended to that point."
+    },
+    {
+      "cityName": "Wappapello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He was originally from Ohio, saw the Wappapello area as a young Union soldier, and homesteaded land there after the war."
+    },
+    {
+      "cityName": "Wappapello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community has the name of a Native American chieftain."
+    },
+    {
+      "cityName": "Wappapello",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A post office called Wappapello has been in operation since 1884."
+    },
+    {
+      "cityName": "Wardell",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It annexed North Wardell in 2007."
+    },
+    {
+      "cityName": "Warrensburg",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 20313 at the 2020 census."
+    },
+    {
+      "cityName": "Warrenton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warrenton is an exurb of St. Louis, and is located in the St. Louis Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Warrenton",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Warrenton's slogan is \"A City for All Seasons.\""
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Adjacent to the Osage River it is heavily tied to two major lakes on the river."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The uppermost reaches of Lake of the Ozarks is part of southwest city limits and the Truman Dam and Truman Reservoir are on its northwest side."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The current town encompasses the sites of two communities formerly known as Keetsville and O'Day and is named for local pioneer Samuel C. Washburn."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is notable for being the \"corncob pipe capital of the world,\" with the Missouri Meerschaum located on the city's riverfront."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is considered to be part of the Greater St. Louis area."
+    },
+    {
+      "cityName": "Watson",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the westernmost settlement in the state of Missouri, about 120 miles northwest of Kansas City."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Waverly Bridge over the Missouri River is located near here."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waverly is the location of Baltimore Bend Winery, one of the many small wineries established in the state since the 1960s."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also home to General Jo Shelby, a hemp farmer who joined the Confederate cause in 1861."
+    },
+    {
+      "cityName": "Wayland",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 408."
+    },
+    {
+      "cityName": "Waynesville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 5406 at the 2020 census."
+    },
+    {
+      "cityName": "Waynesville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the Missouri Ozarks, it was once served by Route 66."
+    },
+    {
+      "cityName": "Weaubleau",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weaubleau is a city in Hickory County, Missouri, United States, founded in 1867."
+    },
+    {
+      "cityName": "Webb City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Webb City also has a police department, a fire department, and animal control services."
+    },
+    {
+      "cityName": "Webster Groves",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the main campus of Webster University."
+    },
+    {
+      "cityName": "Webster Groves",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Webster Groves is an inner-ring suburb of St. Louis in St. Louis County, Missouri, United States."
+    },
+    {
+      "cityName": "Weldon Spring Heights",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population was 93."
+    },
+    {
+      "cityName": "Wentzville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wentzville is an exurb of St. Louis that is located in western St. Charles County, Missouri, United States."
+    },
+    {
+      "cityName": "Wentzville",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wentzville has been the fastest growing city in Missouri, by percentage population increase from 2000 to 2020."
+    },
+    {
+      "cityName": "West Sullivan",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was incorporated in 2000."
+    },
+    {
+      "cityName": "Westphalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westphalia is heavily influenced by the German heritage of the majority of its inhabitants."
+    },
+    {
+      "cityName": "Westphalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many of the early settlers of the area came from the Westphalia region of Germany, hence the name."
+    },
+    {
+      "cityName": "Westphalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many buildings are influenced by nineteenth-century German architecture, and streets are labeled in both English and German."
+    },
+    {
+      "cityName": "Westphalia",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The center of population of Missouri is located in Westphalia."
+    },
+    {
+      "cityName": "Wildwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wildwood is the home of the Al Foster Trail, and numerous other trails, parks, and reserves such as Rockwoods Reservation and Babler State Park."
+    },
+    {
+      "cityName": "Wildwood",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 35417."
+    },
+    {
+      "cityName": "Willard",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 6344."
+    },
+    {
+      "cityName": "Windsor Place",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 2006."
+    },
+    {
+      "cityName": "Wright City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has a number of small stores and restaurants."
+    },
+    {
+      "cityName": "Wright City",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has various types of light to heavy industrial businesses."
+    },
+    {
+      "cityName": "Wyaconda",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was organized in 1888 and is named after a Siouan name for God or the Great Spirit."
+    },
+    {
+      "cityName": "Wyaconda",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 214."
+    },
+    {
+      "cityName": "Wyaconda",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first land purchased from the Santa Fe and Land Co."
+    },
+    {
+      "cityName": "Zalma",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zalma is home to a number of state parks that feature a number of activities such as deer hunting, fishing, bird watching, horseback riding, and hiking."
+    },
+    {
+      "cityName": "Zalma",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When the railroad moved to town, the name Bollinger's Mill was changed to Zalma, after railroad worker Zalma Block."
+    },
+    {
+      "cityName": "Zalma",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Zalma is also said to come from a Native American word meaning \"the end.\" As of the 2020 U S census, Zalma had a population of 73."
+    },
+    {
+      "cityName": "Zalma",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Zalma is part of the Cape Girardeau\u2212Jackson, MO-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Zalma",
+      "state": "MO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Blue Pond, the deepest natural pond in the state of Missouri, is located outside of Zalma."
+    }
+  ]
+}

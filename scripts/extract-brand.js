@@ -121,7 +121,8 @@ function isHotelOrResortName(name) {
     'the pearl', 'the bower', 'the estate', 'the laurel', 'the shay',
     'dream hollywood', 'gaige house', 'sparrows lodge', 'terra vita',
     'wild palms', 'pioneertown', 'mar monte', 'marina riviera',
-    'apartments', 'byward market', 'the june', 'the walper', 'the wilfrid'
+    'apartments', 'byward market', 'the june', 'the walper', 'the wilfrid',
+    'spirit ridge'
   ];
 
   for (const keyword of hotelKeywords) {
@@ -680,8 +681,20 @@ function normalizeCity(city, state) {
 
   // Alberta-specific normalizations
   if (state === 'AB') {
-    if (city === 'St Albert') return 'St. Albert';
-    if (city === 'St Paul') return 'St. Paul';
+    if (city === 'St Albert' || city === 'St. Albert') return 'Saint Albert';
+    if (city === 'St Paul' || city === 'St. Paul') return 'Saint Paul';
+    if (city === 'Lac La Biche') return 'Lac La Biche County';
+    if (city === 'Rocky View') return 'Rocky View County';
+  }
+
+  // British Columbia-specific normalizations
+  if (state === 'BC') {
+    if (city === 'Westbank') return 'West Kelowna';  // Renamed in 2007
+  }
+
+  // Newfoundland-specific normalizations
+  if (state === 'NL') {
+    if (city === "St. John's" || city === "St John's" || city === 'St Johns') return "Saint John's";
   }
 
   // AL-specific normalizations (fix typos in ATP data)

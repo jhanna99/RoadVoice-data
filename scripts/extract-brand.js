@@ -808,6 +808,25 @@ function normalizeCity(city, state) {
     if (city === 'St.Louis' || city === 'St.louis') return 'St. Louis';
   }
 
+  // OH-specific normalizations
+  if (state === 'OH') {
+    if (city === 'Beford') return 'Bedford';
+    if (city === 'Beaver Creek') return 'Beavercreek';
+    if (city === 'Beaver Dam') return 'Beaverdam';
+    if (city === 'E Liverpool' || city === 'E. Liverpool') return 'East Liverpool';
+    if (city === 'Maysvile') return 'Maysville';
+    if (city === 'Mt Orab' || city === 'Mt. Orab') return 'Mount Orab';
+    if (city === 'Mt Eaton' || city === 'Mt. Eaton') return 'Mount Eaton';
+    if (city === 'Mt Vernon' || city === 'Mt.Vernon' || city === 'Mt. Vernon') return 'Mount Vernon';
+    if (city === 'W Alexandria' || city === 'W. Alexandria') return 'West Alexandria';
+    if (city === 'Washington Ct. House' || city === 'Washington Ct House' ||
+        city === 'Washington Court Hou') return 'Washington Court House';
+    if (city === 'West Chester Twp' || city === 'West Chester Twp.') return 'West Chester Township';
+    if (city === 'Sylvania Twp' || city === 'Sylvania Twp.') return 'Sylvania Township';
+    if (city === 'Washington Twp' || city === 'Washington Twp.') return 'Washington Township';
+    if (city === 'Brookfield Twp' || city === 'Brookfield Twp.') return 'Brookfield Township';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

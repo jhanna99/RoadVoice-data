@@ -122,7 +122,13 @@ function isHotelOrResortName(name) {
     'dream hollywood', 'gaige house', 'sparrows lodge', 'terra vita',
     'wild palms', 'pioneertown', 'mar monte', 'marina riviera',
     'apartments', 'byward market', 'the june', 'the walper', 'the wilfrid',
-    'spirit ridge'
+    'spirit ridge', 'under canvas', 'andaz ', 'elwood hotel', 'holston house',
+    'ette hotel', 'siren hotel', 'bluebird cady', 'standard spa', 'xv beacon',
+    'richard rindge', 'summercamp', 'salt house inn', 'christopher\'s by the bay',
+    'awol', 'pell hotel', 'block island beach', 'lodge at spruce', 'park hyatt',
+    'convention center', 'conference center', 'dunton town', 'vail residences',
+    'austria haus', 'cheyenne mountain resort', 'fogo de', 'gold\'s gym',
+    'rio all suite', 'palazzo', 'venetian', 'the row'
   ];
 
   for (const keyword of hotelKeywords) {
@@ -506,13 +512,52 @@ function normalizeCity(city, state) {
     if (city === 'Bronx') return 'The Bronx';
   }
 
+  // AZ-specific normalizations
+  if (state === 'AZ') {
+    if (city === 'Ft. Huachuca') return 'Fort Huachuca';
+    if (city === 'Greenvalley') return 'Green Valley';
+    if (city === 'Huachuca City,') return 'Huachuca City';
+    if (city === 'Lake Havasu Cty') return 'Lake Havasu City';
+    if (city === 'Pheonix') return 'Phoenix';
+    if (city === 'Prescott,') return 'Prescott';
+    if (city === 'Queens Creek') return 'Queen Creek';
+    if (city === 'St. David') return 'Saint David';
+    if (city === 'St. Johns') return 'Saint Johns';
+    if (city === 'St. Michaels') return 'Saint Michaels';
+  }
+
   // CA-specific normalizations
   if (state === 'CA') {
-    if (city === 'Bakerfield') return 'Bakersfield'; // common typo
+    if (city === 'Bakerfield') return 'Bakersfield';
     if (city === 'Big Bear') return 'Big Bear Lake';
     if (city === 'Toluca') return 'Toluca Lake';
-    if (city === 'June') return 'June Lake';
-    if (city === 'Mt.') return 'Mt. Shasta';
+    if (city === 'June' || city === 'June Lake,') return 'June Lake';
+    if (city === 'Mt.' || city === 'Mt') return 'Mt. Shasta';
+    if (city === '29 Palms') return 'Twentynine Palms';
+    if (city === 'Twenty-Nine Palms') return 'Twentynine Palms';
+    if (city === 'Camp Pendelton') return 'Camp Pendleton';
+    if (city === 'Cathedral Cty') return 'Cathedral City';
+    if (city === 'Clearlake Oaks') return 'Clear Lake Oaks';
+    if (city === 'Desert Hot Sprngs') return 'Desert Hot Springs';
+    if (city === 'E Los Angeles') return 'East Los Angeles';
+    if (city === 'La Canada Flintridge') return 'La Cañada Flintridge';
+    if (city === 'Lahabra') return 'La Habra';
+    if (city === 'Lamirada') return 'La Mirada';
+    if (city === 'N Hollywood' || city === 'N. Hollywood') return 'North Hollywood';
+    if (city === 'Quartzhill') return 'Quartz Hill';
+    if (city === 'Redondo Bch.') return 'Redondo Beach';
+    if (city === 'Rncho Snta Margarita') return 'Rancho Santa Margarita';
+    if (city === 'Rolling Hills Estate') return 'Rolling Hills Estates';
+    if (city === 'S Los Angeles') return 'South Los Angeles';
+    if (city === 'S. Pasadena') return 'South Pasadena';
+    if (city === 'S. San Francisco') return 'South San Francisco';
+    if (city === 'Sacramento,') return 'Sacramento';
+    if (city === 'Shasta Lake City') return 'Shasta Lake';
+    if (city === 'St. Helena') return 'Saint Helena';
+    if (city === 'Suisun City') return 'Suisun';
+    if (city === 'W Merced') return 'West Merced';
+    if (city === 'Bell,') return 'Bell';
+    if (city === 'Windsor,') return 'Windsor';
   }
 
   // MI-specific normalizations
@@ -520,12 +565,86 @@ function normalizeCity(city, state) {
     if (city === 'Manitou Beach-Devils') return 'Manitou Beach';
     if (city === 'Whitmore') return 'Whitmore Lake';
     if (city === 'White') return 'White Lake';
+    if (city === 'Centerline') return 'Center Line';
+    if (city === 'De Tour Village') return 'DeTour Village';
+    if (city === 'De Witt') return 'DeWitt';
+    if (city === 'Houghton Lake Heights') return 'Houghton Lake';
+    if (city === 'Hree Rivers') return 'Three Rivers';
+    if (city === 'Mt Pleasant') return 'Mount Pleasant';
+    if (city === 'Sault Ste. Marie') return 'Sault Sainte Marie';
+    if (city === 'St Joseph' || city === 'St. Joseph') return 'Saint Joseph';
+    if (city === 'St. Charles') return 'Saint Charles';
+    if (city === 'St. Clair') return 'Saint Clair';
+    if (city === 'St. Clair Shores') return 'Saint Clair Shores';
+    if (city === 'St. Helen') return 'Saint Helen';
+    if (city === 'St. Ignace') return 'Saint Ignace';
+    if (city === 'St. Johns') return 'Saint Johns';
+    if (city === 'St. Louis') return 'Saint Louis';
+    if (city === 'W Bloomfield') return 'West Bloomfield';
+    if (city === 'Gaylord..') return 'Gaylord';
+    if (city === 'Canton Twp' || city === 'Canton Township') return 'Canton';
+    if (city === 'Chesterfield Twp' || city === 'Chesterfield Townshi') return 'Chesterfield';
+    if (city === 'Clinton Township') return 'Clinton';
+    if (city === 'Commerce Twp' || city === 'Commerce Township') return 'Commerce';
+    if (city === 'Macomb Twp.' || city === 'Macomb Township') return 'Macomb';
+    if (city === 'Redford Twp' || city === 'Redford Township') return 'Redford';
+    if (city === 'Shelby Township') return 'Shelby';
+    if (city === 'Waterford Twp' || city === 'Waterford Twp.') return 'Waterford';
+    if (city === 'White Lake Township') return 'White Lake';
+    if (city === 'Wyoming, Mi') return 'Wyoming';
+    if (city === 'Battle Creek, Mi') return 'Battle Creek';
   }
 
   // ND-specific normalizations (DB has "St Michael" without period)
   if (state === 'ND') {
     if (city === 'St. Michael') return 'St Michael';
-    if (city === 'Devils' || city === 'Devil\'s') return 'Devils Lake';
+    if (city === 'Devils' || city === 'Devil\'s' || city === "Devil's Lake") return 'Devils Lake';
+    if (city === 'Bismark') return 'Bismarck';
+  }
+
+  // AK-specific normalizations
+  if (state === 'AK') {
+    if (city === 'St. Michael') return 'Saint Michael';
+  }
+
+  // AR-specific normalizations
+  if (state === 'AR') {
+    if (city === 'De Valls Bluff') return 'DeValls Bluff';
+    if (city === 'De Witt') return 'DeWitt';
+    if (city === 'Dequeen') return 'De Queen';
+    if (city === 'Eldorado') return 'El Dorado';
+    if (city === 'Heber Spgs') return 'Heber Springs';
+    if (city === 'Jacksonsville') return 'Jacksonville';
+    if (city === 'Mammoth Springs') return 'Mammoth Spring';
+    if (city === 'Mc Crory') return 'McCrory';
+    if (city === 'N Little Rock' || city === 'N. Little Rock') return 'North Little Rock';
+    if (city === 'Baldknob') return 'Bald Knob';
+    if (city === 'St. Joe') return 'Saint Joe';
+    if (city === 'St. Paul') return 'Saint Paul';
+  }
+
+  // TN-specific normalizations
+  if (state === 'TN') {
+    if (city === 'Chattanoooga') return 'Chattanooga';
+    if (city === 'Moristown') return 'Morristown';
+    if (city === 'Lafollette') return 'La Follette';
+    if (city === 'Lavergne') return 'La Vergne';
+    if (city === 'Mc Ewen') return 'McEwen';
+    if (city === 'Mc Kenzie') return 'McKenzie';
+    if (city === 'Mt Juliet' || city === 'Mt. Juliet') return 'Mount Juliet';
+    if (city === 'Mt Pleasant' || city === 'Mt. Pleasant') return 'Mount Pleasant';
+    if (city === 'Ootlewah') return 'Ooltewah';
+    if (city === 'S Pittsburg') return 'South Pittsburg';
+    if (city === "Thompson's Station") return 'Thompsons Station';
+    if (city === 'St. Joseph') return 'Saint Joseph';
+  }
+
+  // VT-specific normalizations
+  if (state === 'VT') {
+    if (city === 'South') return 'South Burlington';
+    if (city === 'St. Albans' || city === 'St. Albans City' || city === 'St. Albans Town') return 'Saint Albans';
+    if (city === 'St. Johnsbury') return 'Saint Johnsbury';
+    if (city === 'White River Jct') return 'White River Junction';
   }
 
   // OH-specific normalizations
@@ -547,13 +666,42 @@ function normalizeCity(city, state) {
     if (city === 'Holts') return 'Holts Summit';
   }
 
-  // FL-specific normalizations
+  // FL-specific normalizations (DB uses "Saint" not "St.")
   if (state === 'FL') {
-    if (city === 'Saint Petersburg' || city === 'St Petersburg') return 'St. Petersburg';
-    if (city === 'St Augustine') return 'St. Augustine';
-    if (city === 'Fort') return 'Fort Myers';  // Most common
-    if (city === 'West') return 'West Palm Beach';  // Most common
-    if (city === 'Port') return 'Port St. Lucie';  // Most common
+    if (city === 'St Petersburg' || city === 'St. Petersburg' || city === 'St.Petersburg') return 'Saint Petersburg';
+    if (city === 'St Augustine' || city === 'St. Augustine' || city === 'St.Augustine') return 'Saint Augustine';
+    if (city === 'St. Augustine Beach' || city === 'St Augustine Beach') return 'Saint Augustine Beach';
+    if (city === 'St Cloud' || city === 'St. Cloud') return 'Saint Cloud';
+    if (city === 'St. Pete Beach' || city === 'St Pete Beach') return 'Saint Pete Beach';
+    if (city === 'St. Marks' || city === 'St Marks') return 'Saint Marks';
+    if (city === 'St. Johns' || city === 'St Johns' || city === 'St. John') return 'Saint Johns';
+    if (city === 'St. George Island' || city === 'St George Island') return 'Saint George Island';
+    if (city === 'St. James City' || city === 'St James City') return 'Saint James City';
+    if (city === 'Ft Lauderdale' || city === 'Ft. Lauderdale' || city === 'Ft.Lauderdale') return 'Fort Lauderdale';
+    if (city === 'Ft Myers' || city === 'Ft. Myers') return 'Fort Myers';
+    if (city === 'Ft Pierce' || city === 'Ft. Pierce') return 'Fort Pierce';
+    if (city === 'Ft Walton Beach' || city === 'Ft. Walton Beach' || city === 'Ft Walton Bch') return 'Fort Walton Beach';
+    if (city === 'N. Lauderdale' || city === 'N Lauderdale') return 'North Lauderdale';
+    if (city === 'N. Miami' || city === 'N Miami') return 'North Miami';
+    if (city === 'N. Margate') return 'Margate';
+    if (city === 'W Palm Beach') return 'West Palm Beach';
+    if (city === 'Cheifland') return 'Chiefland';
+    if (city === 'Coral Spings' || city === 'Coral Spring') return 'Coral Springs';
+    if (city === 'Deerfield Bch') return 'Deerfield Beach';
+    if (city === 'Green Cove Spring') return 'Green Cove Springs';
+    if (city === 'Hallandale') return 'Hallandale Beach';
+    if (city === 'Jacksonsville') return 'Jacksonville';
+    if (city === 'Lake Worth') return 'Lake Worth Beach';
+    if (city === 'Satellite Bch') return 'Satellite Beach';
+    if (city === 'St. Petesburg') return 'Saint Petersburg';
+    if (city === 'Tavenier') return 'Tavernier';
+    if (city === 'Altamonte Spg' || city === 'Altamonte Spri Gs') return 'Altamonte Springs';
+    if (city === 'Mt Dora') return 'Mount Dora';
+    if (city === 'Deland' || city === 'De Land') return 'DeLand';
+    if (city === 'Defuniak Spg' || city === 'Defuniak Springs') return 'DeFuniak Springs';
+    if (city === 'Fort') return 'Fort Myers';
+    if (city === 'West') return 'West Palm Beach';
+    if (city === 'Port') return 'Port St. Lucie';
     if (city === 'Lady') return 'Lady Lake';
     if (city === 'Royal') return 'Royal Palm Beach';
   }
@@ -565,10 +713,28 @@ function normalizeCity(city, state) {
 
   // MN-specific normalizations
   if (state === 'MN') {
-    if (city === 'St Paul') return 'St. Paul';
-    if (city === 'Saint Louis' || city === 'St Louis Park') return 'St. Louis Park';
+    if (city === 'St Paul' || city === 'St. Paul' || city === 'St.Paul') return 'Saint Paul';
+    if (city === 'Saint Louis' || city === 'St Louis Park' || city === 'St. Louis Park' || city === 'St.Louis Park') return 'Saint Louis Park';
     if (city === 'Forest') return 'Forest Lake';
     if (city === 'Prior') return 'Prior Lake';
+    if (city === 'Hutchinsonn') return 'Hutchinson';
+    if (city === 'Lesueur') return 'Le Sueur';
+    if (city === 'N St. Paul' || city === 'North St. Paul') return 'North Saint Paul';
+    if (city === 'South St. Paul') return 'South Saint Paul';
+    if (city === 'W St. Paul' || city === 'West St. Paul') return 'West Saint Paul';
+    if (city === 'Marine On St. Croix') return 'Marine on Saint Croix';
+    if (city === 'Lake St. Croix Beach') return 'Lake Saint Croix Beach';
+    if (city === 'St Cloud' || city === 'St. Cloud') return 'Saint Cloud';
+    if (city === 'St. Anthony') return 'Saint Anthony';
+    if (city === 'St. Augusta') return 'Saint Augusta';
+    if (city === 'St. Bonifacius') return 'Saint Bonifacius';
+    if (city === 'St. Charles') return 'Saint Charles';
+    if (city === 'St. Clair') return 'Saint Clair';
+    if (city === 'St. Francis') return 'Saint Francis';
+    if (city === 'St. James') return 'Saint James';
+    if (city === 'St. Joseph') return 'Saint Joseph';
+    if (city === 'St. Michael') return 'Saint Michael';
+    if (city === 'St. Peter') return 'Saint Peter';
   }
 
   // WA-specific normalizations
@@ -593,11 +759,32 @@ function normalizeCity(city, state) {
   // IN-specific normalizations
   if (state === 'IN') {
     if (city === 'Fort' || city === 'Ft Wayne' || city === 'Ft. Wayne') return 'Fort Wayne';
+    if (city === 'Indianpolis' || city === 'Indianapollis') return 'Indianapolis';
+    if (city === 'Lacrosse') return 'La Crosse';
+    if (city === 'Lagrange') return 'LaGrange';
+    if (city === 'Laporte') return 'La Porte';
+    if (city === 'Mt. Vernon') return 'Mount Vernon';
+    if (city === 'N Manchester') return 'North Manchester';
+    if (city === 'Poratage') return 'Portage';
+    if (city === 'Rolling Prarie') return 'Rolling Prairie';
+    if (city === 'St. Anthony') return 'Saint Anthony';
+    if (city === 'St. John' || city === 'St.John') return 'Saint John';
+    if (city === 'St. Meinrad') return 'Saint Meinrad';
+    if (city === 'St. Paul') return 'Saint Paul';
+    if (city === 'W Lafayette') return 'West Lafayette';
+    if (city === 'W Terre Haute') return 'West Terre Haute';
+    if (city === 'Valparaiso,') return 'Valparaiso';
   }
 
   // MS-specific normalizations
   if (state === 'MS') {
     if (city === 'Horn') return 'Horn Lake';
+    if (city === 'Bay St. Louis') return 'Bay Saint Louis';
+    if (city === 'Diberville' || city === "D'Iberville") return "D'Iberville";
+    if (city === 'Dekalb') return 'DeKalb';
+    if (city === 'Luka') return 'Iuka';
+    if (city === 'Robinsville') return 'Robinsonville';
+    if (city === 'Southhaven') return 'Southaven';
   }
 
   // WI-specific normalizations
@@ -605,6 +792,21 @@ function normalizeCity(city, state) {
     if (city === 'Rice') return 'Rice Lake';
     if (city === 'Camp') return 'Camp Douglas';
     if (city === 'Paddock') return 'Paddock Lake';
+    if (city === 'De Forest') return 'DeForest';
+    if (city === 'Depere') return 'De Pere';
+    if (city === 'Fond Du Loc') return 'Fond du Lac';
+    if (city === 'Lacrosse') return 'La Crosse';
+    if (city === 'Mc Farland') return 'McFarland';
+    if (city === 'Milwakee') return 'Milwaukee';
+    if (city === 'Mt Horeb') return 'Mount Horeb';
+    if (city === 'S Beloit') return 'South Beloit';
+    if (city === 'St. Cloud') return 'Saint Cloud';
+    if (city === 'St. Croix Falls') return 'Saint Croix Falls';
+    if (city === 'St. Francis') return 'Saint Francis';
+    if (city === 'St. Germain') return 'Saint Germain';
+    if (city === 'Westbend') return 'West Bend';
+    if (city === 'Ashwaubenon,') return 'Ashwaubenon';
+    if (city === 'Oshkosh,') return 'Oshkosh';
   }
 
   // IL-specific normalizations
@@ -624,11 +826,6 @@ function normalizeCity(city, state) {
     if (city === 'North') return 'North Bergen';
   }
 
-  // VT-specific normalizations
-  if (state === 'VT') {
-    if (city === 'South') return 'South Burlington';
-  }
-
   // WV-specific normalizations
   if (state === 'WV') {
     if (city === 'South') return 'South Charleston';
@@ -636,12 +833,80 @@ function normalizeCity(city, state) {
 
   // CO-specific normalizations
   if (state === 'CO') {
-    if (city === 'Fort') return 'Fort Collins';
+    if (city === 'Fort' || city === 'Ft Collins') return 'Fort Collins';
+    if (city === 'Bouler') return 'Boulder';
+    if (city === 'Colordao Spings') return 'Colorado Springs';
+    if (city === 'Dacano') return 'Dacono';
+    if (city === 'Debeque') return 'De Beque';
+    if (city === 'Lonetree') return 'Lone Tree';
+  }
+
+  // KS-specific normalizations
+  if (state === 'KS') {
+    if (city === 'Desoto') return 'De Soto';
+    if (city === 'Ft Leavenworth') return 'Fort Leavenworth';
+    if (city === 'Ft. Riley') return 'Fort Riley';
+    if (city === 'Ft. Scott') return 'Fort Scott';
+    if (city === 'Rosehill') return 'Rose Hill';
+    if (city === 'Springhill') return 'Spring Hill';
+    if (city === 'St. Francis') return 'Saint Francis';
+    if (city === 'St. John') return 'Saint John';
+    if (city === 'St. Marys') return 'Saint Marys';
+    if (city === 'St. Paul') return 'Saint Paul';
+    if (city === 'Wa Keeney') return 'WaKeeney';
+    if (city === 'Wichita.') return 'Wichita';
+  }
+
+  // KY-specific normalizations
+  if (state === 'KY') {
+    if (city === 'E Bernstadt') return 'East Bernstadt';
+    if (city === 'Erlinger') return 'Erlanger';
+    if (city === 'Florence,') return 'Florence';
+    if (city === 'Ft Knox') return 'Fort Knox';
+    if (city === 'Ft Mitchell' || city === 'Ft. Mitchell') return 'Fort Mitchell';
+    if (city === 'Ft Wright') return 'Fort Wright';
+    if (city === 'Ft.Campbell') return 'Fort Campbell';
+    if (city === 'La Center') return 'LaCenter';
+    if (city === 'Lagrange') return 'La Grange';
+    if (city === 'Middlesborough') return 'Middlesboro';
+    if (city === 'Mt Sterling' || city === 'Mt. Sterling') return 'Mount Sterling';
+    if (city === 'Mt Washington' || city === 'Mt. Washington') return 'Mount Washington';
+    if (city === "Smith's Grove") return 'Smiths Grove';
+    if (city === 'St. Charles') return 'Saint Charles';
+    if (city === 'St. Matthews') return 'Saint Matthews';
   }
 
   // MD-specific normalizations
   if (state === 'MD') {
     if (city === 'Fort') return 'Fort Washington';
+    if (city === 'Ft. Meade') return 'Fort Meade';
+    if (city === 'Ft. Washington') return 'Fort Washington';
+    if (city === 'Camp Spring') return 'Camp Springs';
+    if (city === 'Captiol Heights') return 'Capitol Heights';
+    if (city === 'Ellicot City') return 'Ellicott City';
+    if (city === 'Hyatsville') return 'Hyattsville';
+    if (city === 'Laplata') return 'La Plata';
+    if (city === 'Mc Henry') return 'McHenry';
+    if (city === 'Smithburg') return 'Smithsburg';
+    if (city === 'St. Leonard') return 'Saint Leonard';
+    if (city === 'St. Michaels') return 'Saint Michaels';
+    if (city === 'W Ocean City') return 'West Ocean City';
+    if (city === 'Prince Frederick,') return 'Prince Frederick';
+  }
+
+  // MA-specific normalizations
+  if (state === 'MA') {
+    if (city === 'Foxborough' || city === 'Foxborough (Foxboro)') return 'Foxboro';
+    if (city === 'Lanesborough') return 'Lanesboro';
+    if (city === 'Marlborough') return 'Marlboro';
+    if (city === 'Middleborough') return 'Middleboro';
+    if (city === 'North Attleborough') return 'North Attleboro';
+    if (city === 'Northborough') return 'Northboro';
+    if (city === 'Plainvile') return 'Plainville';
+    if (city === 'Southborough') return 'Southboro';
+    if (city === 'Tyngsborough') return 'Tyngsboro';
+    if (city === 'Westborough') return 'Westboro';
+    if (city === 'Natick,') return 'Natick';
   }
 
   // NC-specific normalizations
@@ -652,9 +917,17 @@ function normalizeCity(city, state) {
 
   // IA-specific normalizations
   if (state === 'IA') {
-    if (city === 'Clear') return 'Clear Lake';
+    if (city === 'Clear' || city === 'Clearlake') return 'Clear Lake';
     if (city === 'Storm') return 'Storm Lake';
     if (city === 'Spirit') return 'Spirit Lake';
+    if (city === 'Desoto') return 'De Soto';
+    if (city === 'Leclaire') return 'LeClaire';
+    if (city === 'Lemars') return 'Le Mars';
+    if (city === 'Mt Pleasant' || city === 'Mt. Vernon') return 'Mount Pleasant';
+    if (city === 'St Ansgar' || city === 'St. Ansgar') return 'Saint Ansgar';
+    if (city === 'St Charles' || city === 'St. Charles') return 'Saint Charles';
+    if (city === 'St Lucas') return 'Saint Lucas';
+    if (city === 'Lonetree') return 'Lone Tree';
   }
 
   // CT-specific normalizations
@@ -665,7 +938,85 @@ function normalizeCity(city, state) {
 
   // UT-specific normalizations
   if (state === 'UT') {
-    if (city === 'St George') return 'St. George';
+    if (city === 'St George' || city === 'St. George') return 'Saint George';
+    if (city === 'Laverkin') return 'LaVerkin';
+    if (city === 'Marriot-Slaterville' || city === 'Marriott Slaterville') return 'Marriott-Slaterville';
+    if (city === 'Mt. Pleasant') return 'Mount Pleasant';
+    if (city === 'S Salt Lake') return 'South Salt Lake';
+    if (city === 'Spanish Fork (Spanis') return 'Spanish Fork';
+    if (city === 'Washington City') return 'Washington';
+    if (city === 'West Valley Cit') return 'West Valley City';
+  }
+
+  // NV-specific normalizations
+  if (state === 'NV') {
+    if (city === 'N Las Vegas') return 'North Las Vegas';
+    if (city === 'South Lake Tahoe') return 'Lake Tahoe';
+  }
+
+  // NH-specific normalizations
+  if (state === 'NH') {
+    if (city === 'Center Conway') return 'Conway';
+    if (city === 'Center Ossipee') return 'Ossipee';
+    if (city === 'East Hampstead') return 'Hampstead';
+    if (city === 'North Conway') return 'Conway';
+    if (city === 'North Haverhill') return 'Haverhill';
+    if (city === 'North Swanzey') return 'Swanzey';
+    if (city === 'South Weare') return 'Weare';
+    if (city === 'West Chesterfield') return 'Chesterfield';
+    if (city === 'West Lebanon') return 'Lebanon';
+    if (city === 'West Ossipee') return 'Ossipee';
+    if (city === 'West Swanzey') return 'Swanzey';
+  }
+
+  // WV-specific normalizations
+  if (state === 'WV') {
+    if (city === 'Kanawha Ciy') return 'Kanawha City';
+    if (city === 'Mineralwells') return 'Mineral Wells';
+    if (city === 'Mt Hope') return 'Mount Hope';
+    if (city === 'Nutterfort') return 'Nutter Fort';
+    if (city === 'Phillipi') return 'Philippi';
+    if (city === 'S Charleston') return 'South Charleston';
+    if (city === 'Slatyfork') return 'Slatyfork';
+    if (city === 'St. Albans') return 'Saint Albans';
+    if (city === "St. Mary's" || city === 'St. Marys') return 'Saint Marys';
+    if (city === 'White Hall') return 'Whitehall';
+  }
+
+  // ME-specific normalizations
+  if (state === 'ME') {
+    if (city === 'Augusta, Me') return 'Augusta';
+    if (city === 'N Berwick') return 'North Berwick';
+    if (city === 'N Waterboro') return 'North Waterboro';
+    if (city === 'St. Albans') return 'Saint Albans';
+  }
+
+  // MT-specific normalizations
+  if (state === 'MT') {
+    if (city === 'Big Fork') return 'Bigfork';
+    if (city === 'St. Ignatius') return 'Saint Ignatius';
+    if (city === 'St. Regis') return 'Saint Regis';
+  }
+
+  // WY-specific normalizations
+  if (state === 'WY') {
+    if (city === 'Casper (W)') return 'Casper';
+    if (city === 'Ft. Bridger') return 'Fort Bridger';
+    if (city === 'Laramie Wyoming') return 'Laramie';
+    if (city === 'Mt. View') return 'Mountain View';
+  }
+
+  // RI-specific normalizations
+  if (state === 'RI') {
+    if (city === 'E Providence') return 'East Providence';
+    if (city === 'N Smithfield') return 'North Smithfield';
+  }
+
+  // NE-specific normalizations
+  if (state === 'NE') {
+    if (city === 'Ft. Calhoun') return 'Fort Calhoun';
+    if (city === 'O Neill') return "O'Neill";
+    if (city === 'St. Paul') return 'Saint Paul';
   }
 
   // Ontario-specific normalizations (Toronto neighborhoods and city variations)

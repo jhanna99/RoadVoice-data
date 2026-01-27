@@ -1,0 +1,25 @@
+{
+  "facts": [
+    {
+      "cityName": "Chicago",
+      "state": "IL",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Walt Disney and Hillary Clinton were born in Chicago."
+    },
+    {
+      "cityName": "Oak Park",
+      "state": "IL",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Ernest Hemingway was born in Oak Park."
+    },
+    {
+      "cityName": "Tampico",
+      "state": "IL",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Ronald Reagan was born in Tampico."
+    }
+  ]
+}

@@ -1,0 +1,3469 @@
+{
+  "facts": [
+    {
+      "cityName": "Adel",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 6153 at the time of the 2020 Census."
+    },
+    {
+      "cityName": "Afton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its peak of population was in 1880, at 1231 residents, when numerous European immigrants and migrants from the eastern United States settled here for the farmland."
+    },
+    {
+      "cityName": "Afton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mechanization of farming and consolidation of farms has reduced the population."
+    },
+    {
+      "cityName": "Agency",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the historic site of an Indian trading post and the grave of Chief Wapello."
+    },
+    {
+      "cityName": "Albert City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The museum in Albert City is located in the former Chicago, Milwaukee and Pacific Railroad-Albert City Station, which is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Albert City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was established in 1890 on property owned by George Anderson, and was initially named Manthorp, after a town in Sweden."
+    },
+    {
+      "cityName": "Albert City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, the post office department was concerned that the town's name would be confused with the nearby community of Marathon, so Manthorp was renamed for Albertina Anderson, the founder's wife."
+    },
+    {
+      "cityName": "Albert City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Albert City was incorporated in 1900."
+    },
+    {
+      "cityName": "Albert City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Albert City Threshermen & Collectors Show has been an annual summer event since 1971."
+    },
+    {
+      "cityName": "Albia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city of Albia was a past center for coal mining in southern Iowa, and is now known for its historic square, and collection of Victorian homes."
+    },
+    {
+      "cityName": "Albia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Albia is also renowned for its annual \u201cRestoration Days\u201d celebration, which commemorates the refurbishment of the town square, which commenced in the mid-1960s."
+    },
+    {
+      "cityName": "Algona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ambrose A. Call State Park is located two miles southwest of the city."
+    },
+    {
+      "cityName": "Allison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for U S Senator William B. Allison in 1881."
+    },
+    {
+      "cityName": "Allison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Allison is home to the Butler County Fair."
+    },
+    {
+      "cityName": "Alta Vista",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The George Darrow Round Barn in Alta Vista is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Alta Vista",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was first named Elk Creek, but was changed to Alta Vista, meaning \"high view\" in Spanish."
+    },
+    {
+      "cityName": "Alta Vista",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was established and incorporated in 1894."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Adventureland amusement park and Prairie Meadows horse racing track and casino."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the Amana Colonies, seven villages built by German Pietists in the 19th century."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Amana had a population of 388, down from 442 in the 2010 census."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Iowa State University (ISU)."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Iowa State University was home to 30177 students as of fall 2023, which make up approximately one half of the city's population."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A United States Department of Energy national laboratory, Ames Laboratory, is located on the ISU campus."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "According to the 2020 census, Ames had a population of 66427, making it the state's ninth-most populous city."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ames also hosts the headquarters of the Iowa Department of Transportation."
+    },
+    {
+      "cityName": "Anita",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Anita State Park is located just outside the town."
+    },
+    {
+      "cityName": "Anita",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Anita is a city in Cass County, Iowa, United States, platted in 1869 and incorporated in 1875."
+    },
+    {
+      "cityName": "Ankeny",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the fastest-growing cities in Iowa."
+    },
+    {
+      "cityName": "Anthon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Anthon was named for J. C. Anthon, a railroad engineer."
+    },
+    {
+      "cityName": "Anthon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1888."
+    },
+    {
+      "cityName": "Anthon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Anthon was home to Charles Osborne, who had the hiccups continuously for 68 years, and was featured in the Guinness Book of World Records."
+    },
+    {
+      "cityName": "Anthon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was also home to eunuchoidal giant Bernard Coyne, who was over 8 feet (243 cm) tall."
+    },
+    {
+      "cityName": "Armstrong",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally known as Armstrong Grove."
+    },
+    {
+      "cityName": "Arthur",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arthur is an urban settlement in Ida County, Iowa, United States."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is largely a bedroom community, made up of subdivisions whose residents work in Dubuque or Peosta."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2014 Larry Finley, a former mayor of the town, stated in the Carroll Daily Times Herald that the Auburn community had embraced its financial identity as a \"bedroom community.\""
+    },
+    {
+      "cityName": "Aurora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was laid out on land donated by a Bishop Warren and his wife Alice, and is named after Warren's birthplace of East Aurora, New York."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Aurora was founded in 1886 by the Chicago Great Western Railway, and incorporated in 1899."
+    },
+    {
+      "cityName": "Avoca",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avoca (Irish: Abh\u00f3ca, meaning 'the meeting of the waters') is a city in Pottawattamie County, Iowa, United States."
+    },
+    {
+      "cityName": "Badger",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town got its name from Badger Creek, which itself got its name when a group of soldiers from Fort Dodge in the early 1850s saw a badger for the first time."
+    },
+    {
+      "cityName": "Balltown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Balltown is home to Breitbach's Country Dining, Iowa's oldest restaurant and bar, which was founded in 1852 and twice rebuilt by the community, following its destruction by fire in 2007 and 2008."
+    },
+    {
+      "cityName": "Bassett",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office operated in Bassett from 1872 to 1957."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1846."
+    },
+    {
+      "cityName": "Baxter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baxter is located 33 miles (53 km) northeast of Des Moines."
+    },
+    {
+      "cityName": "Beaconsfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2000 census Beaconsfield was the least populated incorporated city in Iowa; with the increase in the 2020 census, it is now the second smallest, after Le Roy."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake of Three Fires State Park is located several miles northeast of Bedford."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "12) and next to Bellevue State Park."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2020 its population was 2363; up from a count of 2191 at the 2010 Census, making it the second-largest and only growing city in Jackson County."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city lies in a valley created by two large bluffs (known as North and South Bluffs respectively), with the Mississippi River serving as the city's eastern border (the Illinois state border), and with the Mill Creek valley extending to the west."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is one of the few cities in Iowa to be built near large hills and bluffs, which account for much of the city's economic stimulation as a tourist town."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city lies along the Mississippi River (at Lock and Dam No."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city attributes its name from the French words belle and vue meaning beautiful view, as well as an early settler, John D. Bell."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The unique history and architecture of Bellevue draw visitors year round, mainly from nearby large population centers (including Dubuque and Maquoketa)."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Geographically, it is part of the southernmost region of the Driftless Area, a portion of North America that escaped all three phases of the Wisconsinian Glaciation."
+    },
+    {
+      "cityName": "Bernard",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bernard is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bertram",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bertram is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bettendorf",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bettendorf is one of the five cities that comprise the Quad Cities region along the Mississippi River."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small section of the city reaches into Missouri and is unofficially known as South Blanchard."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lineville in Wayne County is similarly split along state lines."
+    },
+    {
+      "cityName": "Blencoe",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An early settler from Blencoe, Canada, named the town."
+    },
+    {
+      "cityName": "Bradgate",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On May 21, 2004, the town was almost completely destroyed by a tornado."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgewater was founded in 1885."
+    },
+    {
+      "cityName": "Brighton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It's part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Near the center of town, Brooklyn boasts a large display of flags from each of the fifty states, branches of the military, and a smattering of other sources."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city bills itself as \"Brooklyn: Community of Flags.\""
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buffalo is located on the Mississippi River."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burlington is the home of Snake Alley, the crookedest street on earth."
+    },
+    {
+      "cityName": "Calamus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calamus was named after Calamus Creek, which received its name from the great quantities of sweet flag growing in it, derived from the botanical name Acorus calamus, commonly called Sweet Flag or Calamus."
+    },
+    {
+      "cityName": "Calmar",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the junction of U S Route 52 and State highways 150 and 24, with both state routes terminating in Calmar."
+    },
+    {
+      "cityName": "Calumet",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calumet is an incorporated municipality in O'Brien County, Iowa, United States."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Other places in Iowa have been named Carbon: there was a Carbon Post Office in Davis County, six miles south of Ottumwa, that operated for less than a year in 1881."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There was also a Carbon Post Office in Webster County, three miles south-east of Fort Dodge, that operated from 1870 to 1872."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office on the latter location was known as Gypsum from 1902 to 1905."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city received considerable media attention in 1997 when Carlisle residents Kenny and Bobbi McCaughey (pronounced \"McCoy\") became the parents of the world's first surviving set of septuplets."
+    },
+    {
+      "cityName": "Carson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carson has a number of interesting and historic places."
+    },
+    {
+      "cityName": "Carter Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is separated from the rest of Iowa by the Missouri River, effectively making it an exclave."
+    },
+    {
+      "cityName": "Carter Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A suburb of Omaha, Nebraska, it sits surrounding the south and west sides of the region's major airport, Eppley Airfield."
+    },
+    {
+      "cityName": "Casey",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Guthrie County portion of Casey is part of the Des Moines \u2013 West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cedar Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cedar Falls is home to the University of Northern Iowa (UNI), a public university."
+    },
+    {
+      "cityName": "Cedar Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cedar River traverses the vicinity to the southeast."
+    },
+    {
+      "cityName": "Cedar Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 United States census, the city population was 40713."
+    },
+    {
+      "cityName": "Cedar Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cedar Falls, along with neighboring city Waterloo, Iowa, are the two principal municipalities within the Waterloo-Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cedar Rapids",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies on both banks of the Cedar River, 20 miles (32 km) north of Iowa City and 128 miles (206 km) northeast of Des Moines, the state's capital."
+    },
+    {
+      "cityName": "Cedar Rapids",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cedar Rapids is the economic hub of Eastern Iowa, located at the core of the Interstate 380 corridor."
+    },
+    {
+      "cityName": "Centerville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Centerville is also home of the largest town square in the state of Iowa and a campus of Indian Hills Community College."
+    },
+    {
+      "cityName": "Centerville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the turn of the 20th century Centerville's coal mining industry attracted European immigrants from Sweden, Italy, Croatia, and Albania."
+    },
+    {
+      "cityName": "Chariton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chariton is the primary distribution center for and the former corporate headquarters of the Hy-Vee supermarket chain."
+    },
+    {
+      "cityName": "Charles City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Routes 18 and 218, Iowa Highway 14, and the Canadian National and Canadian Pacific railroads serve the city."
+    },
+    {
+      "cityName": "Charles City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Charles City is a significant commercial and transportation center for the area."
+    },
+    {
+      "cityName": "Chester",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chester is located close to the state line from Minnesota."
+    },
+    {
+      "cityName": "Clare",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "1882 by immigrants from County Clare, Ireland."
+    },
+    {
+      "cityName": "Clare",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clare is also home to a United States post office on West Front St."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Clarksville in 1861."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clayton is located adjacent to the Mississippi River and is only accessible via a steep road."
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clear Lake is known for its rock and roll heritage, water sports, nearby state parks, and as a sailing destination."
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named for the large natural lake on which it is located."
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clear Lake is located on Interstate 35 and serves as a regional hub with nearby Mason City for north-central Iowa."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clermont is home to Montauk, the mansion of former Iowa governor William Larrabee, along with much historic architecture."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It borders the Mississippi River."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clinton, along with DeWitt (also located in Clinton County), was named in honor of the sixth governor of New York, DeWitt Clinton."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Incorporated on January 26, 1857, Clinton is the principal city of the Clinton Micropolitan Statistical Area, which is coterminous with Clinton County."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clive is known for its Greenbelt Park and trail system running through the community."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 Census, the population was 18601."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clive serves as the axis of the western Des Moines suburbs, between Urbandale, Waukee and West Des Moines along the major transportation corridors of I-35, I-80 and I-235."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The City of Urbandale is to the north to northwest, the City of West Des Moines is to the southeast to southwest, the City of Waukee in Dallas County is to the west."
+    },
+    {
+      "cityName": "Coin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Wabash Trace\u2014a railroad converted to a bicycle trail\u2014passes through here."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1866, and was named after Schuyler Colfax, vice president under Ulysses S. Grant."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newton is the county seat; both were named after Revolutionary War soldiers."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Colfax is located approximately 24 miles east of Des Moines."
+    },
+    {
+      "cityName": "Colo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the \"Crossroads of the Nation\" as Lincoln Highway and Jefferson Highway intersect at Colo."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbus Junction is home of the historic Swinging Bridge, found one block south of Highway 92 near downtown."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's largest employer is a Tyson Foods meat processing plant located just north of the city on Highway 70."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 262-foot-long steel cable and wood suspension bridge was built in 1922 as an elevated walkway connecting Third and Fourth streets."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Columbus Community School District (which serves Columbus Junction, Columbus City, Fredonia, Cotter, Conesville, and other surrounding townships) is based in Columbus Junction."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The school's colors are blue and white and their mascot is a wildcat."
+    },
+    {
+      "cityName": "Conrad",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conrad holds the honor of being known as the \"Black Dirt Capital of the World.\""
+    },
+    {
+      "cityName": "Conway",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conway was incorporated in 2020."
+    },
+    {
+      "cityName": "Coon Rapids",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The small portion of Coon Rapids that lies in Guthrie County is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Coppock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Washington County portion of Coppock is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Coppock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is only one business open to the public, a tavern/boat landing."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corning is perhaps best known as the birthplace of Johnny Carson."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named for Erastus Corning who owned stock in the Burlington and Missouri River Railroad which reached Corning on August 23, 1869 (resulting in the local depot moving from nearby Queen City to Corning)."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Daniel Webster Turner, who was governor of Iowa from 1931 to 1933, was born in Corning on March 17, 1877."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Corning also owned sizeable shares of the Chicago, Burlington and Quincy Railroad and other towns on the railroad including Corning, Missouri."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Corning is located just north of the intersection of U S Route 34 and Iowa Highway 148."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Corning donated a church bell to the Methodist Church."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town name comes from the original survey of the town."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Correctionville has been noted for its unusual place name."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is supposedly the longest single-word place name in the state of Iowa."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was laid out and platted in 1851 and later that year designated as the county seat."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named by county judge Seth Anderson after his old hometown of Corydon, Indiana."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city had a population of 62799 at the 2020 census, making it the tenth-most populous city in Iowa and the largest in Southwest Iowa."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kanesville was the historic starting point of the Mormon Trail."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kanesville is also the northernmost anchor town of the other emigrant trails because there was a steam-powered boat which ferried the settlers' wagons and cattle across the Missouri River."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1869, the first transcontinental railroad to California was connected to the existing U S rail network at Council Bluffs."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located on the east bank of the Missouri River, it sits across from Omaha, Nebraska."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Until about 1853, Council Bluffs was known as Kanesville."
+    },
+    {
+      "cityName": "Craig",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Craig was incorporated in Plymouth County on April 26, 1911."
+    },
+    {
+      "cityName": "Creston",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Creston is a regional hub for southwest Iowa and is home to Southwestern Community College."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cumberland is a city in Cass County, Iowa, United States that was founded in 1884."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cumberland's sister community is Massena, Iowa."
+    },
+    {
+      "cityName": "Cumming",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area, Cumming is considered one of the smallest incorporated suburbs of the metro area."
+    },
+    {
+      "cityName": "Cumming",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The smallest of all cities in the five-county metro area is Bevington, in Madison and Warren counties, which had a population of 58 in 2000."
+    },
+    {
+      "cityName": "Curlew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Curlew originated in 1882 with the construction of the Des Moines and Fort Dodge Railroad in the area."
+    },
+    {
+      "cityName": "Dakota City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dakota City shares its western border with the much larger city of Humboldt."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danbury has two churches, St. Mary's Catholic Church and the United Methodist Church."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Danbury holds a fall celebration called Corn Days during harvest."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Decorah is the home of Luther College, a private liberal arts college."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is known for its Norwegian-American heritage and the corresponding Vesterheim Norwegian-American Museum."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located within the Driftless Area in northeastern Iowa, Decorah is situated in the bluffs of the Upper Iowa River, which flows through the city."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Decorah is located at the intersection of State Highway 9 and U S Route 52."
+    },
+    {
+      "cityName": "Deep River",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the name of the township which includes the city."
+    },
+    {
+      "cityName": "Deep River",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city population was 249 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although Denmark is unincorporated, it has a post office with the ZIP code of 52624, that opened on April 7, 1846."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town also has a branch of Farmers Savings Bank that opened in 1935."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 425."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Denmark was laid out circa 1837."
+    },
+    {
+      "cityName": "Diagonal",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for the fact that two railroads intersected diagonally near the town site."
+    },
+    {
+      "cityName": "Doon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The BNSF Railway passes through Doon."
+    },
+    {
+      "cityName": "Dows",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated on May 3, 1892."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "While Dubuque has historically been a center of manufacturing, the local economy also includes health care, publishing, and financial service sectors."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city lies along the Mississippi River at the junction of Iowa, Illinois, and Wisconsin, a region locally known as the Tri-State Area."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Dubuque is a regional tourist destination featuring the city's unique architecture, casinos, and riverside location."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It serves as the main commercial, industrial, educational, and cultural center for the area."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Geographically, it is part of the Driftless Area, a portion of North America that escaped all three phases of the Wisconsin Glaciation, resulting in a hilly topography unlike most of the Midwestern United States."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is home to five institutions of higher education."
+    },
+    {
+      "cityName": "Dysart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mayor of Dysart is currently Tim Glenn."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Edgewood post office was established in 1852 on the Clayton side of the town."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Highway 3, which runs through the center of town, is the dividing line between the two counties."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Edgewood was formally incorporated in 1892, although it had a functioning council for some time before that date."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the small Carpenter Gothic style house that served as the backdrop for Grant Wood's 1930 painting, American Gothic."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Roseanne Barr and Tom Arnold, who was born in nearby Ottumwa, operated Roseanne and Tom's Big Food Diner in Eldon from 1993 to 1995."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eldon is also the home of the Wapello County Fair which began in 1868."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Eldon got its start in the year 1870, following construction of the Keokuk and Des Moines Railway through the territory."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It was incorporated in 1872."
+    },
+    {
+      "cityName": "Elk Horn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elk Horn is known as an enclave of Danish ethnicity and is home to the Museum of Danish America."
+    },
+    {
+      "cityName": "Elkader",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the site of Iowa's lowest recorded minimum temperature, \u221244 \u00b0C (\u221247 \u00b0F) on February 3, 1996."
+    },
+    {
+      "cityName": "Emmetsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Emmetsburg is located around the southern bay of Five Island Lake."
+    },
+    {
+      "cityName": "Everly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ocheyedan River flows to the south and west of the city."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairfield is known as an international center for Transcendental Meditation and is home of Maharishi International University."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its library was established in 1853, and it held its first fair in 1854."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has a population of 9416 people, according to the 2020 census."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It became the county seat in 1839 with 110 residents and grew to 650 by 1847."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Early architecture in Fairfield includes work by George Franklin Barber and Barry Byrne."
+    },
+    {
+      "cityName": "Farley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farley is home to a 3/8 mile dirt race track, 300 Raceway."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fayette is the home of Upper Iowa University, a small private college."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after the Marquis de la Fayette, French hero of the American Revolutionary War."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Volga River State Recreation Area is located just north of Fayette, and many other parks and natural areas are nearby."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the city population was 1256."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "William B. Dohrmann was the mayor for 24 years and ended his term in 2013."
+    },
+    {
+      "cityName": "Forest City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forest City is the home of Waldorf University, a private university, and the primary manufacting center for Winnebago Industries."
+    },
+    {
+      "cityName": "Fort Atkinson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the historic Fort Atkinson State Preserve and hosts a large annual fur-trapper rendezvous each September."
+    },
+    {
+      "cityName": "Fort Atkinson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Atkinson holds the largest regional hay auction every Wednesday."
+    },
+    {
+      "cityName": "Fort Dodge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Dodge is a major commercial center for North Central and Northwest Iowa."
+    },
+    {
+      "cityName": "Fort Madison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Madison is also the home of the Iowa State Penitentiary."
+    },
+    {
+      "cityName": "Fort Madison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the Mississippi River in the state's southeast corner, it lies between small bluffs along one of the widest portions of the river."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklin is noted for its stone and brick Federal architecture, uncommon in Iowa."
+    },
+    {
+      "cityName": "Frederika",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Fredrika Bremer (note different spelling), the Swedish author, for whom the surrounding county was also named."
+    },
+    {
+      "cityName": "Frederika",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frederika is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the farmer, Nelson Garrison, who had the post office in his home west of town."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He owned the property.(1872)."
+    },
+    {
+      "cityName": "Gladbrook",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2023, its population is 767 people."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was originally founded by Mormons, before they left for Utah."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the Second World War, Glenwood became a center for meatpacking, particularly kosher meatpacking."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Glenwood was impacted by significant flooding in 2019."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 2062."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Greenfield is located in Greenfield and Lee Townships."
+    },
+    {
+      "cityName": "Grinnell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known for being the home of Grinnell College, a liberal arts college."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It derives its name from the German city of Hamburg."
+    },
+    {
+      "cityName": "Harvey",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2020 census, its population was 236."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sites in Haverhill include the Immaculate Conception oratory, the Matthew Edel Blacksmith Shop and House, and the Mid-Iowa Co-Op, which owns the grain elevators on the south end of the city."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A series of wind turbines owned by Mid-American Energy stretch from Haverhill to the nearby town of Laurel."
+    },
+    {
+      "cityName": "Hiawatha",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb located in the northwestern side of Cedar Rapids and is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural community of Hudson has grown in recent years and is included as a part of the Waterloo-Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Indianola",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Indianola is home to the National Balloon Classic, a nine-day hot air balloon festival held annually in the summer, the Des Moines Metro Opera, a major American Summer Opera Festival, and Simpson College."
+    },
+    {
+      "cityName": "Ionia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ionia post office opened in 1870."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The University of Iowa Art Museum and Plum Grove Historic House, the home of the first governor of Iowa, are also tourist attractions."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Old Capitol building, where the state legislature met, is now a National Historic Landmark and museum on the University of Iowa campus."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Home of the University of Iowa, the city served as Iowa Territory's third and final capital (1841\u20131846) and the first capital of the State of Iowa (1846\u20131857)."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The metro area is also a part of a combined statistical area with the Cedar Rapids metro area known as the Iowa City\u2013Cedar Rapids region; collectively, this region has a population of nearly 500000."
+    },
+    {
+      "cityName": "Iowa Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also a regional transportation center, located along U S Routes 20 and 65 and the Canadian National and Union Pacific Railroads."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Mahanay Memorial Bell Tower, 168 feet (51 m) tall, located on the town square, and visible for miles."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The tower is named for Floyd Mahanay, a businessman, philanthropist, and former resident."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Jefferson is bisected east to west by the old Lincoln Highway (formerly U S 30)."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A new U S Route 30 is located approximately one mile to the north."
+    },
+    {
+      "cityName": "Jesup",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Morris Ketchum Jesup, president of the Dubuque and Sioux City Railroad."
+    },
+    {
+      "cityName": "Jesup",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community of Jesup has undergone many changes in recent years."
+    },
+    {
+      "cityName": "Johnston",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Johnston is the location of the headquarters of Pioneer Hi-Bred Seeds, Iowa Public Television, and The Gardeners of America/Men's Garden Clubs of America."
+    },
+    {
+      "cityName": "Johnston",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Also located here are the Camp Dodge Military Reservation as well as the Paul J. and Ida Trier House, a private residence designed by architect Frank Lloyd Wright, and the Des Moines Weather Forecast Office of the National Weather Service."
+    },
+    {
+      "cityName": "Kellogg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally named Manning's Station, then carried the names Jasper City, Kimball, and then finally Kellogg, named for the pioneer settler Judge Abel Avery Kellogg."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keokuk is also the home of Keokuk National Cemetery."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named after the Sauk chief Keokuk."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is in the extreme southeast corner of Iowa, where the Des Moines River meets the Mississippi."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Just across the rivers are the towns of Hamilton and Warsaw, Illinois, and Alexandria, Missouri."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is Iowa's southernmost city."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is at the junction of U S Routes 61, 136 and 218."
+    },
+    {
+      "cityName": "Keomah Village",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keomah Village is located adjacent to Lake Keomah State Park."
+    },
+    {
+      "cityName": "Keosauqua",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keosauqua was settled by the Meskwaki and Sauk people until it became US territory in 1832 as Black Hawk Purchase and was \"laid out\" by European settlers in 1839."
+    },
+    {
+      "cityName": "Kinross",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after Kinross in Scotland."
+    },
+    {
+      "cityName": "Knoxville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knoxville is home of the National Sprint Car Hall of Fame & Museum, located next to the Knoxville Raceway dirt track."
+    },
+    {
+      "cityName": "Knoxville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Knoxville is located 4 miles south of Lake Red Rock and Elk Rock State Park."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake City is a city in Calhoun County, Iowa, United States, founded in 1856."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The sign coming into town proudly proclaims that Lake City has \"Everything but a Lake.\""
+    },
+    {
+      "cityName": "Lake Park",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trappers Bay State Park is located just west of the town."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the most densely populated city in Iowa."
+    },
+    {
+      "cityName": "Lakota",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to 1919, the town was known as Germania."
+    },
+    {
+      "cityName": "Laurens",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1264 at the 2020 census."
+    },
+    {
+      "cityName": "Le Roy",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Le Roy is the smallest incorporated city in Iowa."
+    },
+    {
+      "cityName": "Le Roy",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the 2000 census, it was the second smallest, and in the 2010 census was tied with Beaconsfield for smallest."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dolliver State Park, Brushy Creek State Recreation Area and Woodman Hollow State Preserve are located within a few miles of the town."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in a valley, Lehigh is divided in two by the Des Moines River, unusual for such a small town."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It survived several floods while being located on River Street."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Originally the two halves of Lehigh were two separate towns."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The \"Slabtown Traders\" sign was blown over by a gust of wind in the summer of 2010."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Lehigh was surrounded by coal mines until the early 20th century and home to a large clay sewer pipe factory until the 1980s."
+    },
+    {
+      "cityName": "Leon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leon is home to a major rodeo that has been Rodeo of the Year in Iowa for many years."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Letts is a city in northern Louisa County, Iowa, United States, established in 1855."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is taken from that of local benefactor, Nehemiah Madison Letts (b."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "1818 Licking, Ohio \u2013 d."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "1894 Grandview, Iowa)."
+    },
+    {
+      "cityName": "Libertyville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was platted in 1845."
+    },
+    {
+      "cityName": "Lidderdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1906."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was known as Berlin until June 12, 1918."
+    },
+    {
+      "cityName": "Linn Grove",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The nearby Chan-Ya-Ta Site contains the remains of a 1000-year-old prehistoric village, and is on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Little Rock is an incorporated city in Lyon County, Iowa, United States, along the Little Rock River."
+    },
+    {
+      "cityName": "Little Sioux",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is most known for Little Sioux Scout Ranch of the Boy Scouts of America."
+    },
+    {
+      "cityName": "Lockridge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lockridge was one of the communities considered for the county seat in 1839, but lost out to Fairfield."
+    },
+    {
+      "cityName": "Lohrville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2014 the Carroll Daily Times Herald stated that Lohrville had \"embraced its status as a bedroom community\" to nearby cities."
+    },
+    {
+      "cityName": "Lone Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after a large boulder."
+    },
+    {
+      "cityName": "Lone Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lone Rock calls itself \"The Neatest Little Town in Iowa.\""
+    },
+    {
+      "cityName": "Luxemburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The White Pine Hollow State Forest is located four miles to the northwest of Luxemburg."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in 2001 as \"Vedic City\" but then officially changed its name to \"Maharishi Vedic City\" five months later."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the first city to incorporate in Iowa since 1982."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city plan and buildings are based on Maharishi Sthapatya Veda, which is said to be an ancient system of architecture and design, revived by Maharishi Mahesh Yogi."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its goals are to \"protect, nourish, and satisfy everyone, upholding the different social, cultural, and religious traditions while maintaining the integrity and progress of the city as a whole\"."
+    },
+    {
+      "cityName": "Malcom",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for an early Scotch settler."
+    },
+    {
+      "cityName": "Malcom",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's major businesses include BASF, The Pour House Bar and Grill, and Dayton Meat Products."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Wabash Trace\u2014a railroad converted to a bicycle trail\u2014passes through Malvern."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Mills County Fair is held here, although Glenwood is the county seat."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manchester is located at the intersection of U S Route 20 and State Highway 13 and is the largest community in Delaware County."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Delaware County Fair."
+    },
+    {
+      "cityName": "Manning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Orlando Harrison Manning, a Lieutenant Governor of Iowa."
+    },
+    {
+      "cityName": "Maquoketa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maquoketa Caves State Park is located a few miles northwest of Maquoketa."
+    },
+    {
+      "cityName": "Maquoketa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Route 61 adjoins the city, which therefore hosts traffic between Dubuque and the Quad Cities."
+    },
+    {
+      "cityName": "Maquoketa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Iowa Highways 62 and 64 also pass through the city."
+    },
+    {
+      "cityName": "Marathon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The food writer Richard Olney grew up in Marathon."
+    },
+    {
+      "cityName": "Marathon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "From 1996 to 2017, every year in June, a marathon, half-marathon and 5k were held in the city."
+    },
+    {
+      "cityName": "Marathon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was USA Track and Field certified and sanctioned, allowing participants to be eligible to qualify for the Boston Marathon."
+    },
+    {
+      "cityName": "Marble Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marble Rock has a city park, historical museums, a powerhouse on the river, and a veterans' memorial."
+    },
+    {
+      "cityName": "Marble Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Marble Rock Historical Society has a website with information about the museums."
+    },
+    {
+      "cityName": "Marengo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has served as the county seat since August 1845, even though it was not incorporated until July 1859."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marion was designated as the first Linn County seat before it was moved to the larger neighbor Cedar Rapids in 1919."
+    },
+    {
+      "cityName": "Marquette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city, which is located on the Mississippi River, is named after Jesuit missionary Jacques Marquette, who along with Louis Joliet discovered the Mississippi River just southeast of the city on June 17, 1673."
+    },
+    {
+      "cityName": "Marshalltown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshalltown is home to the Iowa Veterans Home and Marshalltown Community College."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mason City is known for its musical and masonry heritage, as well as being home to a significant collection of Prairie School style architecture."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Local public education is provided by North Iowa Area Community College and Mason City Community School District."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city forms a regional hub for north-central Iowa with nearby Clear Lake."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Winnebago River traverses the community to the southeast."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Massena's motto is: \"The Home of Friendly People\"."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Massena is named after Massena, New York."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Massena's sister community is Cumberland, Iowa."
+    },
+    {
+      "cityName": "Maurice",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Sioux County Regional Airport and the \"Famous Maurice Fire Escape Slide\" in the town park."
+    },
+    {
+      "cityName": "McCausland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1882 by D C McCausland, a landowner and horse trader."
+    },
+    {
+      "cityName": "McClelland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1903 after the Great Western Railroad was extended to include Council Bluffs."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pike's Peak State Park is located just south of the city."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "McGregor is located on the Mississippi River across from Prairie du Chien, Wisconsin."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community of McGregor Heights lies in the southern parts of the city limits."
+    },
+    {
+      "cityName": "Mediapolis",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1688 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melrose is known as Iowa's \"Little Ireland\"."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As such, the majority of the 110 population are Irish Catholics."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Melrose is part of Iowa\u2019s 3rd congressional district."
+    },
+    {
+      "cityName": "Milford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes many businesses related to its location in the Iowa Great Lakes region and is often referred to as the southern gateway to the Iowa Great Lakes."
+    },
+    {
+      "cityName": "Minburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This city is another one of those Dallas County cities that is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mitchellville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mitchellville is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mitchellville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Iowa Correctional Institution for Women is located in Mitchellville."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 4040."
+    },
+    {
+      "cityName": "Moorhead",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moorhead stands along the Soldier River."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2025 election, the electorate of Morrison reelected Mayor David Hach to his sixth term, garnering over 80% of the vote in the first contested election in several years."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He has brought significant reforms to the city, including paving roads, flood water mitigation and leading through reconstruction following a devastating derecho in 2020 which caused damage to numerous homes and trees throughout the community."
+    },
+    {
+      "cityName": "Mount Ayr",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Ayr was founded in 1875 and the community was named in honor of poet Robert Burns\u2019 birthplace in Ayr, Scotland."
+    },
+    {
+      "cityName": "Mount Ayr",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The \u201cmount\u201d was added to indicate its location on the highest point of land in the area."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1835 by pioneer Presley Saunders."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Vernon is home of Cornell College, a private liberal arts college."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Vernon is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Muscatine",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The local business association states that the name Muscatine is not used by any other community."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city's population was 1551, a 6.7% decrease from 2010."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The famed Little Brown Church featured in the song \"The Church in the Wildwood\" is located in Nashua."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nevada is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nevada is the second-most populous city in Story County."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city\u2019s name is pronounced different from the state of Nevada, which is usually pronounced nuh-VAD-uh, instead the city\u2019s name is pronounced nuh-VAY-duh."
+    },
+    {
+      "cityName": "New Sharon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first building was erected in 1856 by Edward Quaintance."
+    },
+    {
+      "cityName": "New Vienna",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Vienna is the home to the Saint Boniface Catholic Church."
+    },
+    {
+      "cityName": "New Vienna",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city promotes itself with the slogan The eNVy of Iowa."
+    },
+    {
+      "cityName": "Newton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Iowa Speedway and Maytag Dairy Farms."
+    },
+    {
+      "cityName": "Newton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located 30 miles (48 km) east of Des Moines, Newton is in Central Iowa."
+    },
+    {
+      "cityName": "Newton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 Census, the city population was 15760."
+    },
+    {
+      "cityName": "Nodaway",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nodaway was incorporated on May 28, 1900."
+    },
+    {
+      "cityName": "North English",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the English River."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 20479."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "From 2000 to 2010, North Liberty was the second fastest-growing city in Iowa."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A 2017 LendEDU poll named North Liberty the ninth most educated city in the United States and the most educated city in the Midwest."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Formerly named Big Grove, Oakland is home to Nishna Heritage Museum and a number of historical buildings."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1524 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Oelwein",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The largest community in Fayette County, it is located at the junction of State Highways 3 and 150."
+    },
+    {
+      "cityName": "Okoboji",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2020 census, its population was 768."
+    },
+    {
+      "cityName": "Ollie",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as Hemingford, the town voted to change the name to Ollie in 1892."
+    },
+    {
+      "cityName": "Orange City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after William of Orange, the community maintains its Dutch settler traditions visibly, with Dutch storefront architecture and an annual Tulip Festival."
+    },
+    {
+      "cityName": "Orange City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 6267 in the 2020 census, an increase from 5582 in 2000."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Numerous state parks are located within a few miles of the town, including Marble Beach and Mini-Wakan."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Orleans is part of the Iowa Great Lakes region, located along Spirit Lake."
+    },
+    {
+      "cityName": "Oskaloosa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today, Oskaloosa is home to William Penn University, a private university, and Lake Keomah State Park which is located four miles east of the city."
+    },
+    {
+      "cityName": "Oskaloosa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the late nineteenth and early twentieth century, Oskaloosa was a national center of bituminous coal mining."
+    },
+    {
+      "cityName": "Osterdock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a total population of 43, down from 50 in 2000."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ottumwa first developed as an industrious city economically based in farm-equipment manufacturing and meatpacking, those being John Deere and John Morrell & Co."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to Indian Hills Community College to provide for higher education."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in the state's southeastern section, the city is split into northern and southern halves by the Des Moines River."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The original town was founded on the former camps of Meskwaki Chiefs Wapello and Appanoose."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "(now JBS) respectively."
+    },
+    {
+      "cityName": "Packwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Burlington and Western Railway arrived in Packwood in late 1882."
+    },
+    {
+      "cityName": "Packwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This was a narrow gauge line, widened to standard gauge in 1902 and taken over by the Chicago, Burlington and Quincy, and then sold to the Minneapolis and St. Louis in 1934."
+    },
+    {
+      "cityName": "Palo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palo is located near Pleasant Creek State Recreation Park."
+    },
+    {
+      "cityName": "Panorama Park",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is surrounded by Bettendorf, and is part of the Quad Cities metro area."
+    },
+    {
+      "cityName": "Percival",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 53."
+    },
+    {
+      "cityName": "Percival",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The old part of town is along the BNSF tracks and is accessible from Interstate 29 at Exit 15."
+    },
+    {
+      "cityName": "Percival",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, most sources of employment are located near the Interstate 29/Iowa Highway 2 interchange at Exit 10 of Interstate 29."
+    },
+    {
+      "cityName": "Pierson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pierson was platted in 1883 with railroads and lumberyards being important to its growth."
+    },
+    {
+      "cityName": "Pierson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city started with only eight blocks of land until new additions were later made."
+    },
+    {
+      "cityName": "Pierson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pierson has a library, a school district, and five churches, among other businesses and recreation."
+    },
+    {
+      "cityName": "Pisgah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located in the midst of the Loess Hills."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Plainfield post office was established in 1868."
+    },
+    {
+      "cityName": "Pleasant Plain",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2020 census, the population was 84."
+    },
+    {
+      "cityName": "Pleasantville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasantville is most famous for being the corporate headquarters of Smokey Row Coffee."
+    },
+    {
+      "cityName": "Polk City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Polk City is located along Saylorville Lake and near Big Creek State Park."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies near the junction of four counties and at the intersection of U S Routes 18 and 52 and Iowa Highway 51, with airport facilities in the neighboring communities of Waukon, Decorah, Monona and Prairie du Chien."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is in Allamakee County's southwestern corner and Clayton County's northwestern corner in a quad county, or four-corner region, where four counties intersect."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Winneshiek County is just to the west and Fayette County is just to the southwest of Postville."
+    },
+    {
+      "cityName": "Prairie City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is twenty-two miles east of Des Moines."
+    },
+    {
+      "cityName": "Primghar",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Primghar is 23.5 miles south of Iowa State Highway 9, 28 miles east of Sioux Center and 6.75 miles north of Iowa State Highway 10."
+    },
+    {
+      "cityName": "Protivin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Early settlers named the city after the Bohemian town of Protiv\u00edn in what is now the south of the Czech Republic."
+    },
+    {
+      "cityName": "Quasqueton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Just northwest of the town is Cedar Rock, a home designed by Frank Lloyd Wright, which is maintained by the state as a museum."
+    },
+    {
+      "cityName": "Readlyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is known for its culture surrounding the \"Grump\", a title of honor and area folklore character inspired by a real resident of Readlyn in the early 20th century."
+    },
+    {
+      "cityName": "Readlyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office opened in Readlyn in 1904."
+    },
+    {
+      "cityName": "Ridgeway",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ridgeway's post office was established in 1867."
+    },
+    {
+      "cityName": "Riverdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded on three sides by the city of Bettendorf, and on the fourth by the Mississippi River."
+    },
+    {
+      "cityName": "Riverdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Arconic has an aluminum rolling mill in Riverdale that employs approximately 2000 people."
+    },
+    {
+      "cityName": "Robins",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Cedar Rapids and part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rock Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office named Shell Rock Falls opened in 1855; in 1872 this was changed to Rock Falls."
+    },
+    {
+      "cityName": "Rockford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rockford's post office opened in 1855."
+    },
+    {
+      "cityName": "Rolfe",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This city was named after the Englishman John Rolfe, who married Pocahontas in Jamestown, Virginia."
+    },
+    {
+      "cityName": "Rossie",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Rossie post office opened in 1900, closing in 1984."
+    },
+    {
+      "cityName": "Rudd",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Rudd in 1869."
+    },
+    {
+      "cityName": "Runnells",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Runnells has its own Post Office, located at 112 Brown Street."
+    },
+    {
+      "cityName": "Sabula",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The island has a beach and a campground, as well as a harbor with boat docks."
+    },
+    {
+      "cityName": "Sabula",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sabula is the site of Iowa's only island city."
+    },
+    {
+      "cityName": "Sabula",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sabula is the northern terminus of U S Route 67."
+    },
+    {
+      "cityName": "Sac City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is one of 45 designated Main Street Iowa communities through the Main Street Iowa development program."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Donatus is known for its status as a Luxembourgish village, with historic architecture and views along U S Route 52."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of a historic Catholic church, which is dedicated to Saint Donatus of Muenstereifel, the town's namesake."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was formerly named Tete Des Morts, which is the name of a creek that flows through the village."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pottawattamie County () is a county located in the U S state of Iowa."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county takes its name from the Potawatomi Native American tribe."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The county seat is Council Bluffs."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pottawattamie County is included in the Omaha\u2013Council Bluffs, NE\u2013IA metropolitan statistical area."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Scranton, Pennsylvania."
+    },
+    {
+      "cityName": "Searsboro",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city attempted to disincorporate in 2011, but the move failed when Poweshiek County refused to take control of the city's infrastructure."
+    },
+    {
+      "cityName": "Sheldahl",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Together, these two areas form the Ames\u2013Boone Combined Statistical Area."
+    },
+    {
+      "cityName": "Sheldahl",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The small portion of the city that extends into Polk County is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Shell Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Shell Rock in 1855."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hawkeye Point, the highest point in the State of Iowa, is also nearby."
+    },
+    {
+      "cityName": "Sigourney",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keokuk County Courthouse is located in the Public Square Historic District."
+    },
+    {
+      "cityName": "Sigourney",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both are on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Silver City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Wabash Trace\u2014a railroad converted to a bicycle trail\u2014passes through here."
+    },
+    {
+      "cityName": "Sioux Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sioux Center is notable for its Dutch heritage, agribusiness, and as the location of Dordt University."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to several cultural points of interest including the Sioux City Public Museum, Sioux City Art Center and Sergeant Floyd Monument, which is a National Historic Landmark."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to Chris Larsen Park, commonly referred to as \"the Riverfront\", which includes the Anderson Dance Pavilion, Sergeant Floyd River Museum & Welcome Center and Lewis and Clark Interpretive Center."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sioux City is located at the navigational head of the Missouri River."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sioux City and the surrounding areas of northwestern Iowa, northeastern Nebraska and southeastern South Dakota are sometimes referred to collectively as Siouxland."
+    },
+    {
+      "cityName": "Soldier",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Soldier was so named from a nearby unmarked grave of a soldier."
+    },
+    {
+      "cityName": "Solon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Iowa City, Iowa Metropolitan Statistical Area, it is located a few miles from Lake MacBride State Park and the larger cities of Coralville and Iowa City."
+    },
+    {
+      "cityName": "South English",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the English River."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spencer hosts the Clay County Fair, held annually in September and averaging more than 300000 visitors."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's late library cat, Dewey Readmore Books, became known throughout the world before his death in 2006."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He was immortalized in the book Dewey: The Small-Town Library Cat Who Touched the World by Vicki Myron, director of the library, and Bret Witter."
+    },
+    {
+      "cityName": "Spillville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spillville is known for its Independence Day fireworks display, held the first Saturday in July."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Stanley in 1887."
+    },
+    {
+      "cityName": "State Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "State Center is known as the Rose Capital of Iowa."
+    },
+    {
+      "cityName": "Storm Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the northern shore of Storm Lake, the city is home to King's Pointe Waterpark Resort, the Living Heritage Tree Museum, and the Santa's Castle holiday attraction."
+    },
+    {
+      "cityName": "Storm Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Buena Vista University, a private university, is located in Storm Lake."
+    },
+    {
+      "cityName": "Strawberry Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Strawberry Point is home to the world's largest strawberry (a 15-foot fiberglass statue), and the Franklin Hotel, which was listed on the National Register of Historic Places in 1999."
+    },
+    {
+      "cityName": "Strawberry Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Backbone State Park, Iowa's oldest state park, is located a few miles from the town."
+    },
+    {
+      "cityName": "Stuart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "That part of the city within Guthrie County is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sully",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sully is a city located in Jasper County, Iowa, United States, named after railroad man Alfred Sully."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was established in 1870, and incorporated in 1894."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is named after American political leader Charles Sumner."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Bremer County portion of Sumner is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sumner is home to Life Line Emergency Vehicles, a major manufacturer of ambulances."
+    },
+    {
+      "cityName": "Tama",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tama is situated two miles south of Toledo, the county seat."
+    },
+    {
+      "cityName": "Tama",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The two towns are close enough to have nearly grown together over the years."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thompson is home to the Winnebago County Fair, held annually, various agricultural businesses, a public outdoor swimming pool, the Thompson Museum, and Bethany Lutheran Church, built in 1902."
+    },
+    {
+      "cityName": "Thurman",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 167."
+    },
+    {
+      "cityName": "Traer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Traer is known for the iron spiral staircase that originally led to the office of the local newspaper."
+    },
+    {
+      "cityName": "Traer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The staircase is freestanding, reverse-spiral and connected to the building with a suspended walkway, a somewhat rare arrangement."
+    },
+    {
+      "cityName": "Tripoli",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Tripoli Post Office opened in 1860."
+    },
+    {
+      "cityName": "Truesdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Truesdale post office opened in 1900."
+    },
+    {
+      "cityName": "Truro",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Truro is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "University Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is an enclave surrounded by Iowa City, located near the campus of the University of Iowa."
+    },
+    {
+      "cityName": "University Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The University Heights city border is approximately 0.1 miles from Kinnick Stadium."
+    },
+    {
+      "cityName": "Urbandale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Urbandale grew rapidly in the 1960's and 1970's due to post\u2013World War II economic expansion."
+    },
+    {
+      "cityName": "Urbandale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated on April 16, 1917 and was a streetcar suburb of Des Moines."
+    },
+    {
+      "cityName": "Urbandale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 45580."
+    },
+    {
+      "cityName": "Urbandale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In recent years Dallas County has been the fastest growing county in Iowa with population increasing more than 50% from 2010 to 2020."
+    },
+    {
+      "cityName": "Van Meter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Van Meter is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Varina",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Varina is an incorporated small, rural village in Pocahontas County, Iowa, United States."
+    },
+    {
+      "cityName": "Ventura",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ventura is located on the northeastern basin of Clear Lake, making it an area with many lakeside areas."
+    },
+    {
+      "cityName": "Villisca",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is most notable for the unsolved axe murders that took place in the town on June 9, 1912."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wahpeton is part of the Iowa Great Lakes region of northwestern Iowa, which is a regional vacation and recreation destination."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walcott's interchange on Interstate 80 is home to an enormous complex of restaurants, motels and truck stops, including the Iowa 80 truck stop, which is the world's largest."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Walcott (/\u02c8w\u0254lk\u0254t/ WAWL-cawt, sometimes locally ) is a city in Muscatine and Scott counties in the U S state of Iowa."
+    },
+    {
+      "cityName": "Walnut",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walnut is located on Interstate 80 and is famous for its many antique stores."
+    },
+    {
+      "cityName": "Walnut",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In recent years Walnut has become a regional center of wind turbine electrical generation."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washburn lies south of Waterloo on U S Route 218."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other towns near Washburn are Gilbertville and La Porte City."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is called \"The Coldest Spot in Iowa\", recording a temperature of \u221247 \u00b0F (\u221244 \u00b0C) without wind chill on January 12, 1912."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Washta's name dates back to 1868 when a local man named Whisman turned his farm into a trading post/mail stop for the freight train going from Correctionville, Iowa, to Cherokee, Iowa."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He was asked to be the official postmaster for the area."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "When asked what the name of his town would be, he recalled an interesting encounter with two Native Americans the year before: While Whisman was out hunting, the two came upon him, removed his gun, looked at it, and handed it back while saying, Wash-tay, Wash-tay, meaning \"good\"."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Changing the pronunciation slightly, Whisman decided he would call the town Washta."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waterloo is a major manufacturing, commercial, and cultural center in Northeast Iowa."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Locally known as the \"Factory City,\" John Deere brand agricultural machinery has been produced in the city for over a century."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Waterloo is bisected by the Cedar River flowing southeastward."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the eighth-most populous city in Iowa, with a population of 67314 at the 2020 census."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Waterloo comprises a twin conurbation with neighboring municipality Cedar Falls, and is the larger of the two cities."
+    },
+    {
+      "cityName": "Waukee",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "chose Waukee as the location of a massive $1.38 billion data center campus."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waverly is the location of Wartburg College, which is named after the castle."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waverly is situated along the Cedar River and is accessible via the Avenue of the Saints for transportation."
+    },
+    {
+      "cityName": "Webb",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Webb post office opened in 1900."
+    },
+    {
+      "cityName": "Webster City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Webster City is known as 'Boone River Country', as the Boone River meanders along the east side of the city."
+    },
+    {
+      "cityName": "Wellsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for George Wells, an early settler in the region."
+    },
+    {
+      "cityName": "Welton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located adjacent to U S Route 61, which bypasses Welton just to the east of the city."
+    },
+    {
+      "cityName": "Welton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prior to the expansion of Highway 61 to a four-lane highway, it passed directly through the city."
+    },
+    {
+      "cityName": "Welton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Following reconstruction of U S 61, a new truck stop was built adjacent to U S 61 near the southern edge of the city."
+    },
+    {
+      "cityName": "West Branch",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the birthplace of the only American president born in Iowa, Herbert Hoover."
+    },
+    {
+      "cityName": "West Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the city is in Polk County, some of it is in Dallas County, and small portions extend into Warren and Madison Counties."
+    },
+    {
+      "cityName": "West Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 68723."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Liberty is located five miles south of Interstate 80 on Historic Highway 6."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the West Liberty Raceway, located in the Muscatine County Fairgrounds."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Muscatine County Fair takes place in West Liberty in July of each year."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the westernmost point in Iowa, this being due to a bend in the Big Sioux River."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearby Broken Kettle wildlife refuge is one of the few places in Iowa where prairie rattlesnakes are commonly found."
+    },
+    {
+      "cityName": "Wever",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 101."
+    },
+    {
+      "cityName": "What Cheer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its greatest recorded population was 3246, in the 1890 census."
+    },
+    {
+      "cityName": "Williams",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williams is a regional center of wind power generation."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodward is also home to the Woodward-Granger Community School District's middle school and high school, the elementary school being located in Granger."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iowa Highway 136 passes through Worthington, which is situated north of Cascade and south of Dyersville."
+    }
+  ]
+}

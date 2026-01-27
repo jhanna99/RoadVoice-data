@@ -1,0 +1,2069 @@
+{
+  "facts": [
+    {
+      "cityName": "Aberdeen",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aberdeen is home of Northern State University."
+    },
+    {
+      "cityName": "Agar",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Agar is a farm/ranch service center."
+    },
+    {
+      "cityName": "Akaska",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community name derives from a Sioux word meaning \"uncertain\"."
+    },
+    {
+      "cityName": "Artas",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Artas ties with White Rock as the 3rd least populous municipality in South Dakota."
+    },
+    {
+      "cityName": "Avon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Dakota Senator and 1972 Democratic presidential candidate George McGovern was born and raised in Avon until he was six, when his family moved to Mitchell, South Dakota."
+    },
+    {
+      "cityName": "Belle Fourche",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near the geographic center of the United States, which moved some 550 miles (885 km) northwest from the geographic center of the contiguous United States in Lebanon, Kansas with the admission of Alaska and Hawaii in the mid-20th century."
+    },
+    {
+      "cityName": "Beresford",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The southern two-thirds is part of the Sioux City, IA-NE-SD Metropolitan Statistical Area, while the northern one-third is part of the Sioux Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Beresford",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Beresford Republic is the weekly newspaper."
+    },
+    {
+      "cityName": "Box Elder",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellsworth Air Force Base lies on the northeast side of the city, and it is a suburb of Rapid City."
+    },
+    {
+      "cityName": "Box Elder",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Box Elder was named from nearby Boxelder Creek."
+    },
+    {
+      "cityName": "Bradley",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Bradley in 1887."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brandon is located five miles east of Sioux Falls."
+    },
+    {
+      "cityName": "Brant Lake",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 56 as of the 2020 census."
+    },
+    {
+      "cityName": "Brant Lake",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's residents voted to incorporate in a 61\u20139 vote on March 29, 2016."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies in Section 25 of Bristol Township, on the main line of what is now the BNSF Railway alongside U S Route 12."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The railroad, which first came through the area in the 1870s, identified the site which would become Bristol as Station #70."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "C P Prior, a district railroad surveyor and townsite agent, was given credit for naming Bristol in 1881."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He named the town after Bristol, England."
+    },
+    {
+      "cityName": "Britton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A weekly newspaper, the Britton Journal, is published in Britton."
+    },
+    {
+      "cityName": "Brookings",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also in Brookings are the South Dakota Art Museum, the Children's Museum of South Dakota, the annual Brookings Summer Arts Festival, and the headquarters of several manufacturing companies and agricultural operations."
+    },
+    {
+      "cityName": "Brookings",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to South Dakota State University, the state's largest institution of higher education."
+    },
+    {
+      "cityName": "Buffalo Gap",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buffalo Gap (Lakota: pt\u00e9 t\u021fath\u00edyopa ot\u021f\u00fa\u014bwahe; \"buffalo gap village\") is a town in Custer County, South Dakota, United States."
+    },
+    {
+      "cityName": "Butler",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Butler ties with Verdon and Lowry as the second least populous municipality in South Dakota."
+    },
+    {
+      "cityName": "Camp Crook",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Custer National Forest, with its Sioux Ranger District office, also celebrated 100 years of having a presence in Camp Crook in 2008."
+    },
+    {
+      "cityName": "Camp Crook",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Camp Crook is an incorporated small town in Harding County, South Dakota, United States, on the Little Missouri River."
+    },
+    {
+      "cityName": "Camp Crook",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town celebrated 125 years of existence in August 2008 during the annual county fair."
+    },
+    {
+      "cityName": "Canistota",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canistota is known for chiropractic services, especially the longstanding Ortman Clinic, which attracts many Amish people from around the Midwest."
+    },
+    {
+      "cityName": "Canton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canton is nestled in the rolling hills of the Sioux Valley, providing an abundance of recreational activities with the Big Sioux River bordering the eastern side, Newton Hills State Park to the south, and Lake Alvin to the north."
+    },
+    {
+      "cityName": "Canton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Canton is located 20 minutes south of Sioux Falls in southeastern South Dakota."
+    },
+    {
+      "cityName": "Canton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was named by Norwegian settler and former legislator James M. Wahl."
+    },
+    {
+      "cityName": "Canton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The City of Canton was the proud recipient of the South Dakota Community of the Year Award in 2004 and in 2011."
+    },
+    {
+      "cityName": "Canton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is also home to the Canton Industrial Park, South Dakota's first Certified Ready Site."
+    },
+    {
+      "cityName": "Castlewood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "and was estimated to be 707 in 2022."
+    },
+    {
+      "cityName": "Chamberlain",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chamberlain is home to the South Dakota Hall of Fame, and the 50-foot tall Dignity statue is nearby."
+    },
+    {
+      "cityName": "Chancellor",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for Otto von Bismarck, Chancellor of the German Empire."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Chelsea, London, perhaps via Chelsea, Massachusetts."
+    },
+    {
+      "cityName": "Claremont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town most likely was named after Claremont, New Hampshire."
+    },
+    {
+      "cityName": "Claremont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1903 and has been home to a post office since 1887."
+    },
+    {
+      "cityName": "Colton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colton has the name of J. E. Colton, a railroad official."
+    },
+    {
+      "cityName": "Crooks",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crooks was named New Hope until 1904."
+    },
+    {
+      "cityName": "Crooks",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's present name honors W. A. Crooks, a local politician."
+    },
+    {
+      "cityName": "Davis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Davis was founded in 1893, and named for either Edna V. Davis, a local landowner, or J. A. Davis, owner of the town site."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The entire town has been designated as a National Historic Landmark District, for its well-preserved Gold Rush-era architecture."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city had its heyday from 1876 to 1879, after gold deposits had been discovered there, leading to the Black Hills Gold Rush."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town has five unique history museums that are operated by Deadwood History, inc., a non-profit organization."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was named by early settlers after the dead trees found in its gulch."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "At its height, the city had a population of 25000, attracting Old West figures such as Wyatt Earp, Calamity Jane, Seth Bullock and Wild Bill Hickok (who was killed there)."
+    },
+    {
+      "cityName": "Deadwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Deadwood's proximity to Lead often prompts the two towns being collectively named \"Lead-Deadwood\"."
+    },
+    {
+      "cityName": "Dell Rapids",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as \"The Little City with the Big Attractions.\" The city took its name from the Dells of the Wisconsin River, which were likened to the local rapids on the Big Sioux River."
+    },
+    {
+      "cityName": "Delmont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also included on the same historic marker is Bluebird Locker, a local business in Delmont known for its \u201cDelmont Sausage\u201d but also serves as a butchery for other types of meats."
+    },
+    {
+      "cityName": "Delmont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Onion House, named for his onion shaped metallic dome and located in Delmont, is listed on the list of National Register of Historic Places since 1987."
+    },
+    {
+      "cityName": "Delmont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Delmont was laid out in 1886."
+    },
+    {
+      "cityName": "Dimock",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dimock was laid out in 1910, and named for a railroad surveyor."
+    },
+    {
+      "cityName": "Dimock",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first farmer settlers, a group of Wisconsin Germans, arrived in 1879."
+    },
+    {
+      "cityName": "Dimock",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's ornate Saints Peter and Paul Catholic Church was built in 1909."
+    },
+    {
+      "cityName": "Draper",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Draper was laid out in 1906, and named in honor of C. A. Draper, a railroad official."
+    },
+    {
+      "cityName": "Dupree",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dupree was incorporated in 2020."
+    },
+    {
+      "cityName": "Eagle Butte",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is adjacent to the North Eagle Butte CDP."
+    },
+    {
+      "cityName": "Eden",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of current South Dakota State Representative and 2022 Democratic candidate for Lieutenant Governor Jennifer Healy Keintz."
+    },
+    {
+      "cityName": "Eden",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eden was originally called Eden Park, and under the latter name was laid out in 1915."
+    },
+    {
+      "cityName": "Edgemont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies on the far southern edge of the Black Hills in southwestern South Dakota."
+    },
+    {
+      "cityName": "Edgemont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Edgemont is a crew change point for BNSF freight trains in the Gillette, Wyoming-Alliance, Nebraska division."
+    },
+    {
+      "cityName": "Edgemont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nearly 50 pool crews were operating out of the town in early 2023."
+    },
+    {
+      "cityName": "Egan",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has the name of a railroad employee."
+    },
+    {
+      "cityName": "Elkton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some of Elkton's population also have Minnesota addresses since the city is located so close to the state line."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An expansion of a bomber training area encompassing the Northern Plains known as the Powder River Training Complex began in 2008."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ellsworth Air Force Base (AFB) (IATA: RCA, ICAO: KRCA, FAA LID: RCA) is a United States Air Force (USAF) base located about 10 miles (16 km) northeast of Rapid City, South Dakota, just north of the town of Box Elder."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The host unit at Ellsworth is the 28th Bomb Wing (28 BW)."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Assigned to the Global Strike Command's Eighth Air Force, the 28 BW is one of the USAF's two B-1B Lancer wings, along with the 7th Bomb Wing at Dyess AFB, Texas."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 2023, the 28th Bomb Wing is commanded by Colonel Derek Oakley; its command chief master sergeant was Chief Master Sergeant Adam Vizi."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Ellsworth has a population of about 8000 military members, family members and civilian employees."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Rapid City itself has a population of 78824."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "There are about 3800 military retirees in western South Dakota."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "For decades, Ellsworth's main entrance included a symbolic B-52 Stratofortress, a gift from the citizens of Rapid City."
+    },
+    {
+      "cityName": "Ellsworth AFB",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "This entrance has recently been replaced."
+    },
+    {
+      "cityName": "Ethan",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ethan is located 10 miles south of Mitchell."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairview was laid out in 1886, and named for the scenic valley setting of the site."
+    },
+    {
+      "cityName": "Faith",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The most complete Tyrannosaurus rex skeleton known, Sue, was discovered approximately 15 miles (24 km) northeast of Faith in August 1990."
+    },
+    {
+      "cityName": "Faulkton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's nickname is \"The Carousel City\"."
+    },
+    {
+      "cityName": "Flandreau",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Any tourists or non-tribal members using marijuana on tribal land risked state prosecution, so they abandoned the plan."
+    },
+    {
+      "cityName": "Flandreau",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2015, the nearby federally recognized Flandreau Indian Reservation of Santee Sioux had planned to open the nation's first recreational marijuana lounge in a former bowling alley, close to its existing Royal River Casino and Hotel."
+    },
+    {
+      "cityName": "Flandreau",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named in honor of Charles Eugene Flandrau, a judge in the territory and state of Minnesota."
+    },
+    {
+      "cityName": "Flandreau",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He is credited with saving the community of New Ulm, Minnesota, from destruction during conflict with the Sioux tribe in 1862."
+    },
+    {
+      "cityName": "Florence",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Florence was named for a lady acquaintance of a railroad employee."
+    },
+    {
+      "cityName": "Fort Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The settlement of Fort Pierre developed around an 1832 fort situated on the west bank of the Missouri River, near the confluence with its tributary Bad River."
+    },
+    {
+      "cityName": "Fort Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Earlier European exploration was by the French beginning in the early 1700s."
+    },
+    {
+      "cityName": "Fort Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "An American-owned trading post had been operating near what became the fort since 1817, and in 2017 the city celebrated its bicentennial of continuous permanent settlement."
+    },
+    {
+      "cityName": "Freeman",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Freeman was laid out in 1879."
+    },
+    {
+      "cityName": "Fruitdale",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fruitdale was laid out in 1911, and named for a fruit orchard near the original town site."
+    },
+    {
+      "cityName": "Garretson",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city had a population of 1228 at the 2020 census."
+    },
+    {
+      "cityName": "Gary",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Dakota Highway 101 serves as the main route of the community."
+    },
+    {
+      "cityName": "Gary",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2022, the town celebrated its 150th anniversary."
+    },
+    {
+      "cityName": "Geddes",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Geddes was laid out in 1900."
+    },
+    {
+      "cityName": "Glenham",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenham was laid out in 1900, and named for a glen near the town site."
+    },
+    {
+      "cityName": "Grenville",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grenville was laid out in 1914, and named for the greenery of the original town site."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 3354 at the 2020 census."
+    },
+    {
+      "cityName": "Hayti",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to tradition, the name is derived from the practice of tying bundles of hay to be burned on the prairie, hence the name Hay-tie."
+    },
+    {
+      "cityName": "Hazel",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for Hazel Bowley, the daughter of the original owner of the town site."
+    },
+    {
+      "cityName": "Hecla",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "State Highway 37 runs along the east side of town."
+    },
+    {
+      "cityName": "Herreid",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Herreid was laid out in 1901 when a branch of the Soo Line reached the city, and named after Charles N. Herreid, fourth Governor of South Dakota."
+    },
+    {
+      "cityName": "Herreid",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Herreid was under consideration to be named \"Campa\" for a time, however settlers considered other options."
+    },
+    {
+      "cityName": "Herreid",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On August 26, 1901, Herreid was founded as a village."
+    },
+    {
+      "cityName": "Herreid",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On September 13, 1901, the official plat was recorded."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hill City is known as the \"Heart of the Hills\", a distinction derived from its proximity to both the geographical center of the Black Hills, and the local tourist destinations."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As the mining industry waned, tourism and timber became increasingly important industries to the area."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Custer State Park and the Sturgis Motorcycle Rally also draw visitors to Hill City."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Near Hill City, there is a monumental peak dating back hundreds of years."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city has its roots in the Black Hills mining rush of the late 19th century."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Tin mining was dominant in the 1880s and led to an influx of capital and people into the area."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The creation of Mount Rushmore National Memorial and Crazy Horse Memorial, led to an increase in awareness of the Black Hills as a tourist destination."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "In recent years, the city has diversified to become a center for the arts in the area, featuring several art studios and festivals."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Hill City is located 26 miles (42 km) southwest of Rapid City on U S Highway 16 and on U S Route 385 that connects Deadwood to Hot Springs."
+    },
+    {
+      "cityName": "Hill City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "But as of 2024, the population is now over 1000."
+    },
+    {
+      "cityName": "Hillsview",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named because of its lofty elevation."
+    },
+    {
+      "cityName": "Hitchcock",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hitchcock co-ops with the nearby town of Tulare for sports, making them the Hitchcock/Tulare Patriots."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In addition, neighboring Oglala Lakota County contracts the duties of Auditor, Treasurer and Register of Deeds to the Fall River County authority in Hot Springs."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 3395."
+    },
+    {
+      "cityName": "Hoven",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hoven was laid out in 1883 and named after either Matt or Peter Hoven, who were the first settlers."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town takes its name from Hudson, Iowa, the native home of a large share of the early settlers."
+    },
+    {
+      "cityName": "Interior",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Interior got its start in 1907 when the Milwaukee Railroad was extended to that point."
+    },
+    {
+      "cityName": "Interior",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interior (Lakota: mak\u021f\u00f3\u0161i\u010da ot\u021f\u00fa\u014bwahe; \"Badlands village\") is a town in Jackson County, South Dakota, United States."
+    },
+    {
+      "cityName": "Irene",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Irene was laid out in 1893, and named after Irene Fry, the daughter of a first settler."
+    },
+    {
+      "cityName": "Irene",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Irene is also host to the Irene Rodeo, held every summer."
+    },
+    {
+      "cityName": "Iroquois",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The school building (K\u201312) is located in Kingsbury County, while the school parking lot is located in Beadle County."
+    },
+    {
+      "cityName": "Iroquois",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Highway 14 runs directly through Iroquois."
+    },
+    {
+      "cityName": "Isabel",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Isabel was laid out in 1910, and named in honor of a certain railroad employee's daughter."
+    },
+    {
+      "cityName": "Java",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Java received its name from railroad crews on the Chicago, Milwaukee & St. Paul Railway Line who would stop for coffee in the town prior to the railroad's relocation in 1908."
+    },
+    {
+      "cityName": "Java",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Java derives its name from Java coffee, and Coffee Town was an early variant name."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had its origins in 1883 as a mining town, and has since transformed itself into a resort town, serving the needs of the millions of visitors to the Mount Rushmore National Memorial, which is located just beyond the town limits."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town took its name from a local mine, which most likely was named after the keystone Masonic symbol."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Keystone was heavily damaged in the 1972 Black Hills flood."
+    },
+    {
+      "cityName": "La Bolt",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has the name of Alfred Labolt, a pioneer settler."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Sisseton Historic State Park, whose fort is listed on the National Register of Historic Places, is located nearby."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lake City was laid out in 1914, and so named for the many lakes in the area."
+    },
+    {
+      "cityName": "Lake Norden",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Norden was laid out in 1908, and named after a lake near the town site."
+    },
+    {
+      "cityName": "Lake Norden",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In May 2023, a fire destroyed the city's volunteer fire department."
+    },
+    {
+      "cityName": "Lane",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lane was laid out in 1903, and named in honor of T. W. Lane, an early settler."
+    },
+    {
+      "cityName": "Langford",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Langford was laid out in 1886, and named in honor of Sam Langford, the original owner of the town site."
+    },
+    {
+      "cityName": "Lead",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lead is located in western South Dakota, in the Black Hills near the Wyoming state line."
+    },
+    {
+      "cityName": "Lemmon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lemmon is named after George Ed Lemmon, a cattleman, who founded the town in 1906."
+    },
+    {
+      "cityName": "Lemmon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City of Lemmon received the South Dakota Community of the Year Award in 2012."
+    },
+    {
+      "cityName": "Leola",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded on May 1, 1884, and named for Leola Haynes, daughter of one of the town's founders."
+    },
+    {
+      "cityName": "Letcher",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Letcher has the name of O. T. Letcher, a local landowner."
+    },
+    {
+      "cityName": "Long Lake",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town took its name from the local Long Lake."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lowry was founded in 1907 as a station stop on a branch line of the Minneapolis and St. Louis Railway built that year between Conde and LeBeau, South Dakota."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named in honor of a railroad employee."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Railway service to Lowry ended in 1940."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is home to Lowry Pilgrim Community Church, Swan Creek Harness Shop, J & C Repair, Karst Service (closed in August 2015) and a fire station."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lowry also has an abandoned school, and a post office, which closed to service in the early 1970s."
+    },
+    {
+      "cityName": "Lowry",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In the 2024 census estimates, Lowry ties with Verdon and Butler as the second least populous municipality in South Dakota with 6 people."
+    },
+    {
+      "cityName": "Madison",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Dakota State University."
+    },
+    {
+      "cityName": "Marvin",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marvin was originally called Grade Siding; during the search for what residents considered a more suitable name, the presence of a Marvin brand safe in town caused the new name to be selected."
+    },
+    {
+      "cityName": "McLaughlin",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McLaughlin (Lakota: mat\u021f\u00f3 Ak\u00ed\u010dita or Mak\u00e1\u021fle\u010da; \"Bear Soldier\") is a city in northeastern Corson County, South Dakota, United States."
+    },
+    {
+      "cityName": "McLaughlin",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most Lak\u021f\u00f3ta speakers refer to the town as Mak\u00e1\u021fle\u010da or Mat\u021f\u00f3 Ak\u00ed\u010dita."
+    },
+    {
+      "cityName": "Mellette",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mellette was laid out in 1881, and named in honor of Governor Arthur C. Mellette."
+    },
+    {
+      "cityName": "Menno",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Menno was laid out in 1879."
+    },
+    {
+      "cityName": "Mission",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mission is home of the Sinte Gleska University."
+    },
+    {
+      "cityName": "Mission",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mission is named for one of the many missions established by religious groups in the late 19th century to educate and assist the Sicangu Lakota (Rosebud Sioux) and other Native American people."
+    },
+    {
+      "cityName": "Mission",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The major economic center of the county, it is located at the junction of U S routes 18 and 83."
+    },
+    {
+      "cityName": "Mission",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city contains part of the Oyate Trail, the headquarters of the Todd County School District, Cherry-Todd Rural Electric Cooperative, and various federal/tribal agencies."
+    },
+    {
+      "cityName": "Mobridge",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mobridge, also known as K\u021fow\u00e1kata\u014b Ot\u021f\u00fa\u014bwahe (Lakota: K\u021fow\u00e1kata\u014b Ot\u021f\u00fa\u014bwahe; lit."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town takes its name from Mount Vernon, the estate of George Washington; an early variant name was Arlandtown."
+    },
+    {
+      "cityName": "Naples",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office operated in Naples from 1888 to 1971."
+    },
+    {
+      "cityName": "Naples",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town takes its name from Naples, Italy."
+    },
+    {
+      "cityName": "New Effington",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1965 the high school team won the district basketball tournament in Sisseton."
+    },
+    {
+      "cityName": "New Effington",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Effington was laid out in 1913, after a proposed railroad further away from the original city Effington spurred the need to move the town."
+    },
+    {
+      "cityName": "New Effington",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As part of a school approved event and classroom project, the senior class of 1965 held a memorial tribute north of the school for Nevermore, the class pet raven."
+    },
+    {
+      "cityName": "New Effington",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Needing a new name they simply added \"New\", the original being a reference to one of the first women (named Ellie) to get a homestead in the original town."
+    },
+    {
+      "cityName": "New Underwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for John Underwood, a cattleman."
+    },
+    {
+      "cityName": "New Underwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Underwood (Lakota: w\u00f3\u021fe\u0161ma t\u021f\u00e9\u010da; \"new undergrowth\") is a city in Pennington County, South Dakota, United States."
+    },
+    {
+      "cityName": "New Underwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Underwood got its start circa 1906."
+    },
+    {
+      "cityName": "New Underwood",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Until 2017, it was home to the world\u2019s smallest biker bar, which is now closed."
+    },
+    {
+      "cityName": "New Witten",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "\"New Witten\" is the name used by the United States Census Bureau to describe this town."
+    },
+    {
+      "cityName": "New Witten",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "However, the United States Post Office, which maintains an associate office in the town, uses the name \"Witten\"."
+    },
+    {
+      "cityName": "New Witten",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Witten has the name of a government land official."
+    },
+    {
+      "cityName": "Newell",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newell was laid out in 1910."
+    },
+    {
+      "cityName": "Newell",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has the name of F. H. Newell, director of the United States Reclamation Service."
+    },
+    {
+      "cityName": "Nisland",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named in honor of Nis Sorensen, the original owner of the town site."
+    },
+    {
+      "cityName": "Oacoma",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oacoma is located on the west bank of the Missouri River, across from Chamberlain, South Dakota."
+    },
+    {
+      "cityName": "Oelrichs",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oelrichs (Lakota: \u0161u\u014bkp\u021f\u00e1waksa; \"Severed Horse Head\") is a town in Fall River County, South Dakota, United States."
+    },
+    {
+      "cityName": "Oldham",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some say the city was named for Oldham Carrot, a local landowner, while others believe the name is a transfer from Oldham, England, the native home of a first settler."
+    },
+    {
+      "cityName": "Oldham",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The post office in Oldham opened in 1887."
+    },
+    {
+      "cityName": "Orient",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orient got its start in 1887 when the Milwaukee Railroad was extended into the area."
+    },
+    {
+      "cityName": "Parker",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parker is bordered on its eastern side by South Dakota State Highway 19."
+    },
+    {
+      "cityName": "Parker",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its northern side is bordered by South Dakota State Highway 44."
+    },
+    {
+      "cityName": "Parker",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Parker is located approximately 8 miles (13 km) northwest of Chancellor, 42 miles (68 km) east of Parkston and 41 miles (66 km) south of Madison."
+    },
+    {
+      "cityName": "Peever",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peever was laid out in 1898, and named in honor of Thomas Henry Peever, a settler."
+    },
+    {
+      "cityName": "Pickstown",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after U S Army General Lewis A. Pick, former director of the Missouri River Office of the United States Army Corps of Engineers."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, its population was 971."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Piedmont lies along Interstate 90 between Rapid City and Sturgis."
+    },
+    {
+      "cityName": "Pierpont",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1883 and takes its name from a railroad officer."
+    },
+    {
+      "cityName": "Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1880 on the Missouri River, the city was selected to be the state capital when South Dakota was admitted as a state in 1889."
+    },
+    {
+      "cityName": "Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Near the center of the state, the then-new settlement was across the river from the settlement of Fort Pierre, and near what became an important railroad crossing of the River."
+    },
+    {
+      "cityName": "Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 14091."
+    },
+    {
+      "cityName": "Pierre",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pierre is the eleventh-most populous city of South Dakota, and the second-least populous U S state capital (after Montpelier, Vermont)."
+    },
+    {
+      "cityName": "Pine Ridge",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the tribal headquarters of the Oglala Sioux Tribe on the Pine Ridge Indian Reservation."
+    },
+    {
+      "cityName": "Platte",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after the Platte Creek, a tributary of the Missouri River reservoir Lake Francis Case."
+    },
+    {
+      "cityName": "Platte",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Platte is located 15 miles east of Lake Francis Case on the Missouri River."
+    },
+    {
+      "cityName": "Pringle",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for W. H. Pringle, a cattleman who lived in the area."
+    },
+    {
+      "cityName": "Pukwana",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pukwana was laid out in 1881."
+    },
+    {
+      "cityName": "Pukwana",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1955, the local residents made a push to get the new Brule County Courthouse relocated to town, however the city of Chamberlain managed to keep it after battling petitions were made."
+    },
+    {
+      "cityName": "Quinn",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is the home of the Badlands Observatory, located in the former community hospital."
+    },
+    {
+      "cityName": "Ramona",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ramona was laid out in 1886, and named for the local Ramon family."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the neighboring Black Hills are the tourist attractions of Mount Rushmore, the Crazy Horse Memorial, Custer State Park, Wind Cave National Park, Jewel Cave National Monument, The Mammoth Site and the museum at the Black Hills Institute of Geological Research."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Known as the \"Gateway to the Black Hills\" and the \"City of Presidents\" because of the life-size bronze president statues downtown, Rapid City is split by a low mountain ridge that divides the city's western and eastern parts, called \u2018The Gap.\u2019 Ellsworth Air Force Base is on the city's outskirts."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "To the city's east is Badlands National Park."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The historic \"Old West\" town of Deadwood is nearby."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is located on the eastern slope of the Black Hills in western South Dakota and was named after Rapid Creek, where the settlement developed."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Rapid City is home to such attractions as Art Alley, Dinosaur Park, the City of Presidents walking tour, Chapel in the Hills, Storybook Island, and Main Street Square."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is the second-most populous city in the state (after Sioux Falls) with a population of 74703 as of the 2020 census."
+    },
+    {
+      "cityName": "Rapid City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Camp Rapid, part of the South Dakota Army National Guard, is in the city's western part."
+    },
+    {
+      "cityName": "Ravinia",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ravinia was laid out in 1909."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for J. B. Redfield, a railroad official."
+    },
+    {
+      "cityName": "Reliance",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reliance was laid out in 1905."
+    },
+    {
+      "cityName": "Revillo",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name of the town most likely was derived from a backwards spelling of the proper name \"Olliver\"."
+    },
+    {
+      "cityName": "Roscoe",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roscoe was laid out in 1877, and named in honor of Roscoe Conkling, a United States Senator from New York."
+    },
+    {
+      "cityName": "Rosholt",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rosholt was laid out in 1913, and named in honor of Julius Rosholt, who was credited with bringing the railroad to town."
+    },
+    {
+      "cityName": "Saint Francis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Francis is named after the St. Francis Indian School, which was named after Francis of Assisi and was operated by the Catholic Franciscan order."
+    },
+    {
+      "cityName": "Saint Francis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. Francis, also known as S\u00e1pau\u014b th\u00ed (Lakota: S\u00e1pau\u014b th\u00ed; \"Catholic House\") is a city in the Rosebud Indian Reservation in Todd County, South Dakota, United States."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1974 the cathedral has been a contributing property in the Cathedral Historic District on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cathedral of Saint Joseph is a Catholic cathedral and parish church located in Sioux Falls, South Dakota, United States."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the seat of the Diocese of Sioux Falls."
+    },
+    {
+      "cityName": "Salem",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population was 1325 at the 2020 census."
+    },
+    {
+      "cityName": "Salem",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The current mayor is Shawn English."
+    },
+    {
+      "cityName": "Scotland",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 785 at the 2020 census."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has the name of E. A."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sherman, a Dakota Territory banker."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manfred was born in Doon, Iowa, a small town in Lyon County."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Siouxland is a vernacular region that encompasses the entire Big Sioux River drainage basin in the U S states of South Dakota, Minnesota, Nebraska and Iowa."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The lower Big Sioux River drainage basin stretches from Sioux City, Iowa, to Sioux Falls, South Dakota, an area that includes much of northwestern Iowa, the northeast corner of Nebraska, the southeast corner of South Dakota, and the extreme southwest corner of Minnesota."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The demonym for a resident of Siouxland is Siouxlander."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A \"vernacular region\" is a distinctive area where the inhabitants collectively consider themselves interconnected by a shared history, mutual interests, and a common identity."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Such regions are \"intellectual inventions\" and a form of shorthand to identify things, people, and places."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Vernacular regions reflect a \"sense of place,\" but rarely coincide with established jurisdictional borders."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The term \"Siouxland\" was coined by author Frederick Manfred in 1946."
+    },
+    {
+      "cityName": "Sioux Falls",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chartered in 1856 on the banks of the Big Sioux River, the city is situated in rolling hills at the junction of Interstates 29 and 90."
+    },
+    {
+      "cityName": "Sisseton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sisseton is the home to a number of tourist attractions, including the Nicollet Tower, and is near the \"Song to the Great Spirit\" building on the Sisseton Wahpeton College campus."
+    },
+    {
+      "cityName": "Sisseton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named for the Sisseton division of the Sioux people."
+    },
+    {
+      "cityName": "Sisseton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It also serves as an important part of the Lake Traverse Indian Reservation."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was almost destroyed by a violent F4 tornado on May 30, 1998 which killed six people."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springfield was named on account of there being numerous natural springs in the area."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of Fiscal Year 2024, there were 1088 of the male inmates at Mike Durfee State Prison."
+    },
+    {
+      "cityName": "Stockholm",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stockholm was laid out in 1896 and named after the capital city of Sweden, the native land of a large share of the first settlers."
+    },
+    {
+      "cityName": "Strandburg",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name is derived from the town's founder, the Swedish John Strandburg."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stratford had its start when the railroad was extended to that point."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat of Meade County and is named after Samuel D. Sturgis, a Union general during the Civil War."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sturgis is notable as the location of one of the largest annual motorcycle events in the world: the Sturgis Motorcycle Rally, which lasts for 10 days beginning on the first Friday of August."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It attracts large numbers of motorcycle enthusiasts from around the world."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sturgis is also noted for hosting WCW's Hog Wild/Road Wild events from 1996 to 1999."
+    },
+    {
+      "cityName": "Tea",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tea is an incorporated city in Lincoln County, South Dakota, United States and is a suburb of Sioux Falls."
+    },
+    {
+      "cityName": "Tea",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tea was laid out in 1894."
+    },
+    {
+      "cityName": "Tea",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name \"Tea\" was selected on account of its brevity and is said to have no significance."
+    },
+    {
+      "cityName": "Tolstoy",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tolstoy was laid out in 1907, and named after Leo Tolstoy."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toronto was laid out in 1884, and named after the capital of Ontario, Canada, the native home of a first settler."
+    },
+    {
+      "cityName": "Tulare",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tulare was laid out in 1883."
+    },
+    {
+      "cityName": "Turton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was served by Turton High School from 1915 to 1956; students attended Doland High School thereafter."
+    },
+    {
+      "cityName": "Twin Brooks",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Twin Brooks was named for two small streams near the town site; an early variant name was Two Creeks."
+    },
+    {
+      "cityName": "Utica",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some say Utica is a name derived from the Sioux language meaning \"dweller\", while others believe the name is a transfer from Utica, New York."
+    },
+    {
+      "cityName": "Veblen",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sioux country singer and actor Floyd Red Crow Westerman is buried here at Saint Matthew's Catholic Cemetery."
+    },
+    {
+      "cityName": "Verdon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Verdon is the second least populous municipality in South Dakota behind only Hillsview."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vermillion was founded in 1859 and incorporated in 1873."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Home to the University of South Dakota, Vermillion has a mixed academic and rural character: the university is a major academic institution for the state, with its only law and medical schools and its only AACSB-accredited business school."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city lies atop a bluff near the Missouri River."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is in the southeastern corner of South Dakota, United States, and is the state's 12th-most populous city."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "According to the 2020 census, the population was 11695."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The area has been home to Native American tribes for centuries."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "French fur traders first visited in the late 18th century."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The name refers to the Lakota name: wa sa wak pa'la (red stream)."
+    },
+    {
+      "cityName": "Vermillion",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Major farm products include corn, soybeans, and alfalfa."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A large share of the early settlers were natives of Austria who named the village after the Austrian capital."
+    },
+    {
+      "cityName": "Wagner",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is served by Wagner Municipal Airport as well as YST Transit buses."
+    },
+    {
+      "cityName": "Wakonda",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wakonda is an incorporated town in Clay County, South Dakota, United States."
+    },
+    {
+      "cityName": "Wall",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wall (Lakota: Mak\u021f\u00f3\u0161i\u010da Agl\u00e1gla Ot\u021fu\u014bwahe, \"Town alongside the Badlands\") is a city in Pennington County, South Dakota, United States."
+    },
+    {
+      "cityName": "Wasta",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 65 at the 2020 census."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Watertown is home to the Redlin Art Center, which houses many of the works of Terry Redlin, one of the nation's most popular wildlife artists."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Watertown is between Pelican Lake and Lake Kampeska, from which Redlin derived inspiration for his artwork."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to the Bramble Park Zoo."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Watertown's residential real estate is considered the most expensive in South Dakota for cities of its size; the median price for a home in Watertown was approximately $200000 as of 2013."
+    },
+    {
+      "cityName": "Waubay",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waubay had its start in the early 1880s when the railroad was extended to that point."
+    },
+    {
+      "cityName": "Waubay",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The school district is Waubay Public 18-3."
+    },
+    {
+      "cityName": "Wentworth",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wentworth is an incorporated village in Lake County, South Dakota, United States."
+    },
+    {
+      "cityName": "Westport",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has the name of a railroad employee."
+    },
+    {
+      "cityName": "Wetonka",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wetonka was laid out in 1906."
+    },
+    {
+      "cityName": "Willow Lake",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city took its name from Willow Lake, a natural lake near the town site."
+    },
+    {
+      "cityName": "Winner",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winner was laid out in 1909, and named for the fact the town had emerged the \"winner\" as the county's most successful trading point."
+    },
+    {
+      "cityName": "Winner",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearest airport is Winner Regional Airport."
+    },
+    {
+      "cityName": "Yale",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yale is an incorporated town in Beadle County, South Dakota, United States."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The United States National Park Service's headquarters for the Missouri National Recreational River are located in the city."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Human Services Center was established as a psychiatric hospital in 1882 and is on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As the first capital of Dakota Territory, it was named after the Yankton tribe of Western Dakota people; Yankton is derived from the Dakota word I-hank-ton-wan (\"the end village\")."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Yankton is located on the Missouri River just downstream of the Gavins Point Dam and Lewis and Clark Lake, and just upstream of the confluence with the James River."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Yankton has also earned the nickname \"Mother City of the Dakotas\", due to the early important role it played in the creation and development of the Dakota Territory, which later became the 39th and 40th U S states of North and South Dakota."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Owing to the early exploitation of Fort Hays Limestone for cement manufacture, including shipment of cement to the construction of the Panama Canal, Yankton once also had the nickname \"Cement City\"."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Yankton is commonly referred to as the \"River City\", due to its proximity to the Missouri River and the importance the river played in the city's settlement and development."
+    },
+    {
+      "cityName": "Yankton",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It became a city in 1889."
+    }
+  ]
+}

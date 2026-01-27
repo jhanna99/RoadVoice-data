@@ -40,6 +40,10 @@
       "factCount": 775,
       "checksum": "ccf84274754ad60740d9bce390d422e7"
     },
+    "NE": {
+      "factCount": 187,
+      "checksum": "db686467c738fc430dde3e22759c32b0"
+    },
     "NJ": {
       "factCount": 2422,
       "checksum": "1de88859e725799d7a66c08d0ebfa355"
@@ -55,6 +59,10 @@
     "PA": {
       "factCount": 2128,
       "checksum": "f6a5a18a5d5406ac84762f11d42938fd"
+    },
+    "SD": {
+      "factCount": 295,
+      "checksum": "888479ea10cda16cfe12d0f86e93355f"
     },
     "WY": {
       "factCount": 148,

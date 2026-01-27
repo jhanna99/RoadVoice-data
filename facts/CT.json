@@ -218,6 +218,34 @@
       "fact": "The CDP encompasses the traditional town center area (roughly the area bounded by U S Route 1, the Amtrak railroad tracks, and the Branford River) and the area known as Branford Point (the portion of the CDP south of the railroad tracks)."
     },
     {
+      "cityName": "Bridgeport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgeport is the most populous city in Connecticut and the fifth-most populous city in New England, with a population of 148,654 in 2020."
+    },
+    {
+      "cityName": "Bridgeport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in eastern Fairfield County at the mouth of the Pequonnock River on Long Island Sound, it is a port city 60 miles from Manhattan."
+    },
+    {
+      "cityName": "Bridgeport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It borders the towns of Trumbull to the north, Fairfield to the west, and Stratford to the east."
+    },
+    {
+      "cityName": "Bridgeport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bridgeport and other towns in Fairfield County make up the Greater Bridgeport Planning Region, as well as the Bridgeport-Stamford-Norwalk-Danbury metropolitan statistical area."
+    },
+    {
       "cityName": "Bridgewater",
       "state": "CT",
       "source": "Wikipedia",
@@ -2386,6 +2414,13 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "North Haven has easy access to Interstate 91 and the Wilbur Cross Parkway (Route 15)."
+    },
+    {
+      "cityName": "North Stamford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Stamford is a neighborhood in the northern part of Stamford, Connecticut."
     },
     {
       "cityName": "North Stonington",

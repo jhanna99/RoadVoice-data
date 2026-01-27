@@ -1,248 +1,3856 @@
-{"key":"roller_skating_rinks","displayName":"Roller Skating Rinks","category":"entertainment","useLocationName":true,"source":"osm","locations":[
-  {"lat":41.46697,"lon":-91.84118,"city":"","state":"","address":"","name":"Wellman Skating Rink"},
-  {"lat":46.97502,"lon":-123.87349,"city":"","state":"","address":"","name":"Haborena Skate Rink"},
-  {"lat":41.56333,"lon":-72.65232,"city":"","state":"","address":"","name":"Middletown Roller Skating Rink"},
-  {"lat":39.45937,"lon":-75.20755,"city":"","state":"","address":"","name":"Skate 2000"},
-  {"lat":41.14788,"lon":-95.92891,"city":"","state":"","address":"","name":""},
-  {"lat":26.67649,"lon":-81.89951,"city":"","state":"","address":"1490 Brown Road","name":"The Palace Roller Rink"},
-  {"lat":45.3908,"lon":-75.75558,"city":"","state":"","address":"379 Danforth Avenue","name":"Neon Skates"},
-  {"lat":42.39462,"lon":-88.15032,"city":"","state":"","address":"","name":""},
-  {"lat":42.2853,"lon":-71.09213,"city":"","state":"","address":"","name":"Chez-Vous Roller Skating Rink"},
-  {"lat":42.56942,"lon":-83.81472,"city":"","state":"","address":"","name":"Rollerama Family Skating Center"},
-  {"lat":32.40722,"lon":-88.71171,"city":"","state":"","address":"","name":"Skate Odyssey"},
-  {"lat":45.55082,"lon":-73.53392,"city":"","state":"","address":"4306 Rue Sainte-Catherine Est","name":"Solo Inline"},
-  {"lat":41.02734,"lon":-80.63063,"city":"","state":"","address":"","name":"Youngstown Skate"},
-  {"lat":61.14746,"lon":-149.85795,"city":"","state":"","address":"","name":"Dimond Skateland"},
-  {"lat":35.44919,"lon":-97.26566,"city":"","state":"","address":"","name":"RollerLand"},
-  {"lat":37.68849,"lon":-97.38899,"city":"","state":"","address":"312 North West Street","name":"Carousel Skate Center"},
-  {"lat":33.45362,"lon":-117.09095,"city":"","state":"","address":"","name":"Roller Skating Club"},
-  {"lat":33.46329,"lon":-112.1139,"city":"","state":"","address":"","name":"The Hall of Dames"},
-  {"lat":33.75636,"lon":-118.11018,"city":"","state":"","address":"","name":"Pigeon's Roller Rink"},
-  {"lat":48.42422,"lon":-123.35538,"city":"","state":"","address":"1029 View Street","name":"Shop Task"},
-  {"lat":33.52046,"lon":-86.81601,"city":"","state":"","address":"","name":""},
-  {"lat":49.28496,"lon":-123.04309,"city":"","state":"","address":"","name":"Rolla Skate Club"},
-  {"lat":39.71731,"lon":-121.80405,"city":"","state":"","address":"","name":""},
-  {"lat":39.26092,"lon":-84.27161,"city":"","state":"","address":"Loveland Madeira Road","name":"Castle Skateland"},
-  {"lat":39.88646,"lon":-84.18103,"city":"","state":"","address":"","name":"Skateworld of Vandalia"},
-  {"lat":34.74472,"lon":-86.59795,"city":"","state":"","address":"","name":"Roller Time"},
-  {"lat":49.28492,"lon":-123.04298,"city":"","state":"","address":"2901 East Hastings Street","name":"Rollerland"},
-  {"lat":39.10348,"lon":-84.49508,"city":"","state":"","address":"","name":"Riverfront Rink at Sawyer Point"},
-  {"lat":44.95205,"lon":-93.4495,"city":"","state":"","address":"","name":""},
-  {"lat":33.21708,"lon":-117.30404,"city":"","state":"","address":"","name":""},
-  {"lat":37.77277,"lon":-122.46403,"city":"","state":"","address":"","name":""},
-  {"lat":39.00189,"lon":-84.64349,"city":"","state":"","address":"Commerce Drive","name":"Florence Fun Dome"},
-  {"lat":30.48708,"lon":-84.23714,"city":"","state":"","address":"2563 Capital Circle Northeast","name":"Skate World"},
-  {"lat":49.33001,"lon":-123.04409,"city":"","state":"","address":"","name":""},
-  {"lat":30.30195,"lon":-97.69238,"city":"","state":"","address":"","name":"Bartholomew Park Roller Derby Track"},
-  {"lat":42.39496,"lon":-71.58865,"city":"","state":"","address":"5 Highland Park Avenue","name":"Roller Kingdom"},
-  {"lat":37.44219,"lon":-77.59619,"city":"","state":"","address":"3330 Speeks Drive","name":"Skate-A-Way"},
-  {"lat":37.77477,"lon":-122.43057,"city":"","state":"","address":"554 Fillmore Street","name":"Church of 8 Wheels"},
-  {"lat":45.44774,"lon":-98.10734,"city":"","state":"","address":"","name":"Groton Skating/Hockey Rink"},
-  {"lat":36.6431,"lon":-93.24908,"city":"","state":"","address":"100 Truman Drive","name":"SkateWorld"},
-  {"lat":42.47893,"lon":-96.34897,"city":"","state":"","address":"","name":"Rollerama"},
-  {"lat":34.01164,"lon":-84.60869,"city":"","state":"","address":"1000 McCollum Parkway Northwest","name":"Sparkles Family Fun Center"},
-  {"lat":33.7536,"lon":-118.1319,"city":"","state":"","address":"","name":""},
-  {"lat":49.25703,"lon":-123.07373,"city":"","state":"","address":"","name":""},
-  {"lat":39.43385,"lon":-77.38906,"city":"","state":"","address":"","name":""},
-  {"lat":49.93269,"lon":-97.12247,"city":"","state":"","address":"210 Enniskillen Avenue","name":"Wheelies"},
-  {"lat":40.32781,"lon":-79.837,"city":"","state":"","address":"","name":"Eden Park Roller Rink"},
-  {"lat":42.66779,"lon":-88.27735,"city":"","state":"","address":"637 South Kane Street","name":"TraXside"},
-  {"lat":47.23794,"lon":-93.50295,"city":"","state":"","address":"","name":""},
-  {"lat":40.3641,"lon":-74.11313,"city":"","state":"","address":"","name":""},
-  {"lat":40.25525,"lon":-103.64,"city":"","state":"","address":"","name":"Brush Roller Rink"},
-  {"lat":42.29201,"lon":-83.47942,"city":"","state":"","address":"","name":""},
-  {"lat":42.84484,"lon":-106.36373,"city":"","state":"","address":"","name":"Wagon Wheel Roller Skating"},
-  {"lat":43.26986,"lon":-84.9303,"city":"","state":"","address":"","name":"Rainbow Gardens Roller Rink"},
-  {"lat":34.70806,"lon":-86.59233,"city":"","state":"","address":"","name":"Carousel Skate Center"},
-  {"lat":40.65729,"lon":-73.96421,"city":"","state":"","address":"","name":""},
-  {"lat":35.88307,"lon":-80.11145,"city":"","state":"","address":"","name":"Thomasville Skating Center"},
-  {"lat":41.02535,"lon":-74.19715,"city":"","state":"","address":"","name":""},
-  {"lat":41.95389,"lon":-83.30261,"city":"","state":"","address":"","name":"Dixie Skateland"},
-  {"lat":40.51386,"lon":-105.02429,"city":"","state":"","address":"","name":""},
-  {"lat":34.0933,"lon":-117.86613,"city":"","state":"","address":"","name":""},
-  {"lat":40.58783,"lon":-122.38214,"city":"","state":"","address":"","name":"Viking Skate Country"},
-  {"lat":33.10765,"lon":-96.66803,"city":"","state":"","address":"","name":""},
-  {"lat":33.10796,"lon":-96.66765,"city":"","state":"","address":"","name":""},
-  {"lat":41.22363,"lon":-75.88586,"city":"","state":"","address":"","name":"Skateaway"},
-  {"lat":45.01272,"lon":-93.02363,"city":"","state":"","address":"","name":"Saints North Family Skate Center"},
-  {"lat":38.17788,"lon":-122.13976,"city":"","state":"","address":"","name":""},
-  {"lat":38.57143,"lon":-121.33728,"city":"","state":"","address":"","name":"The Rink"},
-  {"lat":40.53655,"lon":-74.61949,"city":"","state":"","address":"","name":""},
-  {"lat":35.07742,"lon":-80.65468,"city":"","state":"","address":"","name":"Kate's Skating Rink"},
-  {"lat":32.71745,"lon":-97.04432,"city":"","state":"","address":"","name":"Forum Roller World"},
-  {"lat":38.93967,"lon":-94.70384,"city":"","state":"","address":"10440 Mastin Street","name":"Skate City"},
-  {"lat":30.83318,"lon":-81.99366,"city":"","state":"","address":"","name":"Folkston Skating Rink"},
-  {"lat":36.31551,"lon":-95.62007,"city":"","state":"","address":"","name":"Roller World"},
-  {"lat":34.9619,"lon":-92.03531,"city":"","state":"","address":"","name":"Joyland Skating Center"},
-  {"lat":40.65632,"lon":-73.5072,"city":"","state":"","address":"","name":""},
-  {"lat":45.51445,"lon":-94.163,"city":"","state":"","address":"","name":"Skatin' Place"},
-  {"lat":40.40457,"lon":-80.07533,"city":"","state":"","address":"","name":""},
-  {"lat":43.05867,"lon":-83.80936,"city":"","state":"","address":"","name":"Roll Haven"},
-  {"lat":37.05213,"lon":-88.56361,"city":"","state":"","address":"","name":"Kingsway Skateland"},
-  {"lat":37.14661,"lon":-94.475,"city":"","state":"","address":"","name":"Skateland of Webb City"},
-  {"lat":38.41416,"lon":-82.45503,"city":"","state":"","address":"","name":""},
-  {"lat":41.35448,"lon":-79.70751,"city":"","state":"","address":"","name":""},
-  {"lat":40.75771,"lon":-86.333,"city":"","state":"","address":"","name":""},
-  {"lat":36.08836,"lon":-93.74527,"city":"","state":"","address":"","name":""},
-  {"lat":37.51782,"lon":-77.34724,"city":"","state":"","address":"4902 Williamsburg Road","name":"Roller Dome"},
-  {"lat":42.53187,"lon":-70.92042,"city":"","state":"","address":"","name":""},
-  {"lat":34.02903,"lon":-117.69048,"city":"","state":"","address":"","name":"Skate Express"},
-  {"lat":31.76003,"lon":-106.45417,"city":"","state":"","address":"","name":"Pista de patinar La Laguna"},
-  {"lat":31.76028,"lon":-106.45396,"city":"","state":"","address":"","name":"Pista de patinar La Laguna"},
-  {"lat":31.76011,"lon":-106.45389,"city":"","state":"","address":"","name":"Pista de patinar La Laguna"},
-  {"lat":43.5809,"lon":-116.56164,"city":"","state":"","address":"","name":"Rollerdrome"},
-  {"lat":27.93642,"lon":-82.29605,"city":"","state":"","address":"","name":"Astro Skate of Brandon"},
-  {"lat":41.17148,"lon":-81.85964,"city":"","state":"","address":"","name":"Medina Skateland"},
-  {"lat":33.91173,"lon":-84.1304,"city":"","state":"","address":"","name":"Skate-Along"},
-  {"lat":31.99187,"lon":-81.08565,"city":"","state":"","address":"","name":"Lake Mayer Roller Hockey Rink"},
-  {"lat":39.93417,"lon":-85.3813,"city":"","state":"","address":"","name":"The Rink, New Castle Skate Center"},
-  {"lat":36.35381,"lon":-94.18279,"city":"","state":"","address":"","name":""},
-  {"lat":41.71455,"lon":-81.24287,"city":"","state":"","address":"63 West Walnut Avenue","name":"City Skate Center"},
-  {"lat":26.51553,"lon":-78.68498,"city":"","state":"","address":"","name":""},
-  {"lat":30.33981,"lon":-95.42323,"city":"","state":"","address":"","name":"Rainbow Roller Rink"},
-  {"lat":51.11442,"lon":-114.3894,"city":"","state":"","address":"","name":""},
-  {"lat":42.07184,"lon":-71.70444,"city":"","state":"","address":"","name":""},
-  {"lat":50.52667,"lon":-100.18052,"city":"","state":"","address":"","name":"Sandy Lake Roller Rink"},
-  {"lat":40.74837,"lon":-73.83917,"city":"","state":"","address":"","name":""},
-  {"lat":42.33523,"lon":-71.08007,"city":"","state":"","address":"","name":""},
-  {"lat":38.62371,"lon":-90.34323,"city":"","state":"","address":"","name":""},
-  {"lat":41.07886,"lon":-78.77895,"city":"","state":"","address":"","name":""},
-  {"lat":35.37509,"lon":-77.95972,"city":"","state":"","address":"","name":"Stoney Creek Skate Park"},
-  {"lat":40.26968,"lon":-75.60607,"city":"","state":"","address":"","name":"Ringing Rocks Roller Rink"},
-  {"lat":51.01657,"lon":-114.03915,"city":"","state":"","address":"1100 42 Avenue SE","name":"House of Skate"},
-  {"lat":42.58411,"lon":-88.45118,"city":"","state":"","address":"","name":""},
-  {"lat":40.91448,"lon":-90.63057,"city":"","state":"","address":"","name":"Freedom Roller Rink"},
-  {"lat":40.05851,"lon":-82.42311,"city":"","state":"","address":"","name":"Roll-a-Way"},
-  {"lat":30.03977,"lon":-95.50058,"city":"","state":"","address":"5504 Fellowship Lane","name":"Skate Champions"},
-  {"lat":39.58543,"lon":-74.88214,"city":"","state":"","address":"","name":""},
-  {"lat":35.64111,"lon":-78.47825,"city":"Clayton","state":"","address":"131 Guy Road","name":"Interskate"},
-  {"lat":36.07173,"lon":-94.15725,"city":"Fayetteville","state":"","address":"612 North College Avenue","name":"Starlight Skatium"},
-  {"lat":38.38315,"lon":-86.94547,"city":"Jasper","state":"","address":"1013 4th Avenue","name":"Jasper Skate Palace"},
-  {"lat":48.06228,"lon":-122.17075,"city":"Marysville","state":"","address":"7313 44th Avenue Northeast","name":"Marysville Skake Center"},
-  {"lat":29.97887,"lon":-90.20806,"city":"Metairie","state":"","address":"6711 Airline Drive","name":"Airline Skate Center"},
-  {"lat":35.72589,"lon":-81.65917,"city":"Morganton","state":"","address":"2147 South Sterling Street","name":"Pavalion Roller Skating"},
-  {"lat":30.13905,"lon":-85.59285,"city":"Parker","state":"","address":"5413 Hickory Street","name":"Skaters Choice"},
-  {"lat":36.17699,"lon":-94.17153,"city":"Springdale","state":"","address":"1007 Century Street","name":"Roller City"},
-  {"lat":34.91979,"lon":-82.31037,"city":"Taylors","state":"","address":"328 West Main Street","name":"Roller Sports"},
-  {"lat":33.34432,"lon":-86.93246,"city":"Bessemer","state":"AL","address":"2474 Morgan Road","name":"Roller Motion Skate Center"},
-  {"lat":34.5739,"lon":-86.98232,"city":"Decatur","state":"AL","address":"5941 401 14th St SE bldg 11","name":"Skate Castle"},
-  {"lat":34.83458,"lon":-87.63155,"city":"Florence","state":"AL","address":"241 Azalea Drive","name":"Skate Center"},
-  {"lat":33.63167,"lon":-86.80675,"city":"Fultondale","state":"AL","address":"3508 Decatur Highway","name":"Funtime Skating Center"},
-  {"lat":35.33951,"lon":-94.42033,"city":"Fort Smith","state":"AR","address":"1413 Phoenix Avenue","name":"Jack's Skateland"},
-  {"lat":35.27682,"lon":-93.11971,"city":"Russellville","state":"AR","address":"1102 East 2nd Street","name":"Russellville Skate Station"},
-  {"lat":33.31979,"lon":-111.8615,"city":"Chandler","state":"AZ","address":"1101 West Ray Road","name":"USA Skateland Roller Rink"},
-  {"lat":33.57862,"lon":-112.15381,"city":"Glendale","state":"AZ","address":"North 43rd Avenue","name":"Great Skate"},
-  {"lat":34.14468,"lon":-118.27018,"city":"Glendale","state":"CA","address":"5110 San Fernando Road","name":"Moonlight Rollerway"},
-  {"lat":32.72785,"lon":-117.06756,"city":"San Diego","state":"CA","address":"6060 Federal Boulevard","name":"Derby United Headquarters"},
-  {"lat":32.83545,"lon":-117.14651,"city":"San Diego","state":"CA","address":"8280 Clairemont Mesa Boulevard","name":"Bo's Boots on Wheels"},
-  {"lat":39.65453,"lon":-104.81224,"city":"Aurora","state":"CO","address":"15100 East Girard Avenue","name":"Skate City"},
-  {"lat":38.89623,"lon":-104.74619,"city":"Colorado Springs","state":"CO","address":"4575 Austin Bluffs Parkway","name":"Skate City"},
-  {"lat":38.86055,"lon":-104.75847,"city":"Colorado Springs","state":"CO","address":"1920 North Academy Boulevard","name":"Skate City Academy"},
-  {"lat":40.5837,"lon":-105.04919,"city":"Fort Collins","state":"CO","address":"324 South Link Lane","name":"Rollerland Skate Center"},
-  {"lat":39.0968,"lon":-108.60264,"city":"Grand Junction","state":"CO","address":"637 24 1/2 Road","name":"All-Terrain Motorsports"},
-  {"lat":41.54118,"lon":-73.03865,"city":"Waterbury","state":"CT","address":"60 Harvester Road","name":"Roller Magic"},
-  {"lat":27.59483,"lon":-80.4149,"city":"Vero Beach","state":"FL","address":"485 27th Avenue","name":"Skate Factory"},
-  {"lat":34.07515,"lon":-84.5246,"city":"Woodstock","state":"GA","address":"228 Farm Ridge Drive Northeast","name":"Hot Wheels Skate Center"},
-  {"lat":43.64983,"lon":-116.24639,"city":"Boise","state":"ID","address":"4712 West State Street","name":"Treasure Valley Skate"},
-  {"lat":41.73729,"lon":-87.59657,"city":"Chicago","state":"IL","address":"1122 East 87th Street","name":"The Rink"},
-  {"lat":41.88113,"lon":-87.72617,"city":"Chicago","state":"IL","address":"4022 West Madison Street","name":"Pulaski Corridor Community Plaza at Garfield Park"},
-  {"lat":41.48863,"lon":-90.43564,"city":"East Moline","state":"IL","address":"1140 Avenue of the Cities","name":"Skate City QCA"},
-  {"lat":41.58737,"lon":-87.66624,"city":"Markham","state":"IL","address":"16630 Dixie Highway","name":"Markham Roller Rink"},
-  {"lat":42.22444,"lon":-89.02192,"city":"Rockford","state":"IL","address":"4843 Stenstrom Road","name":"Skate Land"},
-  {"lat":39.74107,"lon":-89.67744,"city":"Springfield","state":"IL","address":"1500 Knights Recreation Drive","name":"Skateland South"},
-  {"lat":41.79162,"lon":-87.80313,"city":"Summit","state":"IL","address":"7231 Archer Avenue","name":"Fleetwood Roller Rink"},
-  {"lat":40.88009,"lon":-85.52958,"city":"Huntington","state":"IN","address":"2988 West Park Drive","name":"West Park Skate"},
-  {"lat":40.41501,"lon":-86.86027,"city":"Lafayette","state":"IN","address":"135 South Earl Avenue","name":"Great United Skates"},
-  {"lat":40.75793,"lon":-86.33289,"city":"Logansport","state":"IN","address":"2625 East Market Street","name":"Logansport Skate World and Fun Center"},
-  {"lat":39.8361,"lon":-84.8242,"city":"Richmond","state":"IN","address":"475 Commerce Road","name":"The Skate"},
-  {"lat":40.79593,"lon":-85.82544,"city":"Wabash","state":"IN","address":"275 West Market Street","name":""},
-  {"lat":39.11974,"lon":-94.76198,"city":"Kansas City","state":"KS","address":"7838 Washington Avenue","name":"Skate City"},
-  {"lat":38.61553,"lon":-95.26624,"city":"Ottawa","state":"KS","address":"222 East 2nd Street","name":"The Rink"},
-  {"lat":39.05394,"lon":-95.74422,"city":"Topeka","state":"KS","address":"815 Southwest Fairlawn Road","name":"Sk8away"},
-  {"lat":38.17138,"lon":-85.79891,"city":"Louisville","state":"KY","address":"723 Gagel Avenue","name":"OuterLimits"},
-  {"lat":37.82368,"lon":-85.9282,"city":"Radcliff","state":"KY","address":"1355 South Dixie Boulevard","name":"Hardin County Skateland"},
-  {"lat":32.55436,"lon":-92.07745,"city":"Monroe","state":"LA","address":"3151 Sterlington Road","name":"Skatetown"},
-  {"lat":32.53237,"lon":-92.14645,"city":"West Monroe","state":"LA","address":"105 Division Street","name":"Skatetown"},
-  {"lat":42.48672,"lon":-71.01957,"city":"Saugus","state":"MA","address":"425R Broadway","name":"Roller World"},
-  {"lat":42.68835,"lon":-71.4311,"city":"Tyngsboro","state":"MA","address":"355 Middlesex Road","name":"Roller Kingdom"},
-  {"lat":39.37508,"lon":-76.5051,"city":"Nottingham","state":"MD","address":"8019 Belair Road","name":"Skateland Putty Hill"},
-  {"lat":39.08079,"lon":-76.69197,"city":"Odenton","state":"MD","address":"1200 Odenton Road","name":"Wheels Skating Center"},
-  {"lat":44.08805,"lon":-70.22118,"city":"Auburn","state":"ME","address":"12 Riverside Drive","name":"Rollodrome"},
-  {"lat":43.68425,"lon":-70.33241,"city":"Westbrook","state":"ME","address":"3 Chabot Street","name":"Happy Wheels Skate Center"},
-  {"lat":42.27512,"lon":-83.15264,"city":"Detroit","state":"MI","address":"2130 Schaefer Highway South","name":"Rollercade"},
-  {"lat":42.90434,"lon":-85.77524,"city":"Grandville","state":"MI","address":"3330 Fairlanes Avenue Southwest","name":"Terry Hall"},
-  {"lat":42.25084,"lon":-83.18078,"city":"Lincoln Park","state":"MI","address":"1419 Southfield Road","name":"United Skates"},
-  {"lat":42.36737,"lon":-83.40538,"city":"Livonia","state":"MI","address":"36635 Plymouth Road","name":"Riverside Arena"},
-  {"lat":42.55048,"lon":-83.09142,"city":"Troy","state":"MI","address":"2825 East Maple Road","name":"Skate World Of Troy"},
-  {"lat":44.27646,"lon":-84.20113,"city":"West Branch","state":"MI","address":"1917 West M-55","name":"Skate Place"},
-  {"lat":43.73776,"lon":-92.86856,"city":"Brownsdale","state":"MN","address":"316 Market Street Southeast","name":"Rohler Rink"},
-  {"lat":44.94688,"lon":-93.29799,"city":"Minneapolis","state":"MN","address":"3045 Hennepin Avenue South","name":"Twin Cities Skaters Studio"},
-  {"lat":39.22135,"lon":-94.57304,"city":"Gladstone","state":"MO","address":"602 Northeast 70th Street","name":"Linden Square"},
-  {"lat":38.53964,"lon":-90.26551,"city":"Saint Louis","state":"MO","address":"120 East Catalan Street","name":"St. Louis Skatium"},
-  {"lat":38.78601,"lon":-90.59704,"city":"Saint Peters","state":"MO","address":"130 Boone Hills Drive","name":"Great Skate"},
-  {"lat":38.42721,"lon":-90.97376,"city":"Union","state":"MO","address":"181 Audrey Lane","name":"Nothing Fancy Rink"},
-  {"lat":30.4016,"lon":-88.98081,"city":"BILOXI","state":"MS","address":"2468 Pass Road","name":"Heartless Skate Shop"},
-  {"lat":33.45012,"lon":-88.82318,"city":"Starkville","state":"MS","address":"830 Louisville Street","name":"Skate Odyssey"},
-  {"lat":45.75666,"lon":-108.58931,"city":"Billings","state":"MT","address":"701 South 29th Street West","name":"Skate World"},
-  {"lat":34.7541,"lon":-77.45578,"city":"Jacksonville","state":"NC","address":"120 Bridget Lane","name":"Roller City"},
-  {"lat":35.60429,"lon":-78.10619,"city":"Kenly","state":"NC","address":"9163 US-301 N","name":"Kenly Skating Rink"},
-  {"lat":35.81851,"lon":-80.23985,"city":"Lexington","state":"NC","address":"280 North Talbert Boulevard","name":"Friction Skating Rink"},
-  {"lat":35.13506,"lon":-77.09575,"city":"New Bern","state":"NC","address":"3502 Neuse Boulevard","name":"Rollerland"},
-  {"lat":39.9434,"lon":-75.09608,"city":"Camden","state":"NJ","address":"1900 Carman Street","name":"Millennium Skate World"},
-  {"lat":40.54125,"lon":-74.37096,"city":"Metuchen","state":"NJ","address":"215 Durham Avenue","name":"Live Love Skate Rollerskating Academy"},
-  {"lat":40.75214,"lon":-74.18115,"city":"Newark","state":"NJ","address":"1 Branch Brook Park Drive","name":"Branch Brook Park Roller Skating Center"},
-  {"lat":35.07639,"lon":-106.51181,"city":"Albuquerque","state":"NM","address":"400 Paisano Street Northeast","name":"Skate-O-Mania"},
-  {"lat":36.7187,"lon":-108.1806,"city":"Farmington","state":"NM","address":"2125 Bloomfield Highway","name":"Rock N Roller Rink"},
-  {"lat":39.53587,"lon":-119.80729,"city":"Reno","state":"NV","address":"515 East 7th Street","name":"Roller Kingdom"},
-  {"lat":43.00907,"lon":-74.1885,"city":"Amsterdam","state":"NY","address":"4313 State Highway 30","name":"High Rollers"},
-  {"lat":40.70643,"lon":-73.92146,"city":"Brooklyn","state":"NY","address":"262 Starr Street","name":"Xanadu Roller Arts"},
-  {"lat":42.78133,"lon":-73.74451,"city":"Cohoes","state":"NY","address":"1085 Loudon Road","name":"Guptill's Arena Rollerskating"},
-  {"lat":43.15778,"lon":-76.23092,"city":"Liverpool","state":"NY","address":"8015 Oswego Road","name":"Skate-N-Place"},
-  {"lat":40.69395,"lon":-73.48098,"city":"Massapequa","state":"NY","address":"1276 Hicksville Road","name":"United Skates of America"},
-  {"lat":43.02551,"lon":-78.8733,"city":"North Tonawanda","state":"NY","address":"101 Oliver Street","name":"Rainbow Rink"},
-  {"lat":42.77433,"lon":-73.93598,"city":"Schenectady","state":"NY","address":"2710 Hamburg Street","name":"Rollarama Skating Center, Inc."},
-  {"lat":42.12751,"lon":-77.9207,"city":"Wellsville","state":"NY","address":"3438 Baldwin Road","name":"Funland Skate Center"},
-  {"lat":39.35788,"lon":-83.00366,"city":"Chillicothe","state":"OH","address":"14978 Pleasant Valley Road","name":"Cavalier Skating Rink"},
-  {"lat":39.06714,"lon":-84.29441,"city":"Cincinnati","state":"OH","address":"3988 Commercial Boulevard","name":"Beechmont Rollarena"},
-  {"lat":40.89673,"lon":-84.07256,"city":"Columbus Grove","state":"OH","address":"10970 Ottawa Road","name":"Groves Skateland"},
-  {"lat":41.6084,"lon":-81.52337,"city":"Euclid","state":"OH","address":"22466 Shore Center Drive","name":"Pla-Mor Roller Rink"},
-  {"lat":39.53055,"lon":-82.43681,"city":"Logan","state":"OH","address":"13572 Old McArthur Road","name":"Logan Skating Rink"},
-  {"lat":40.54828,"lon":-84.43221,"city":"Saint Marys","state":"OH","address":"2600 Celina Road","name":"Grand Lake Skate"},
-  {"lat":35.42008,"lon":-99.37382,"city":"Elk City","state":"OK","address":"900 North Highway 34","name":"Elk Skating Center"},
-  {"lat":35.75487,"lon":-95.34303,"city":"Muskogee","state":"OK","address":"2105 Gibson Street","name":"Muskogee Skate Center"},
-  {"lat":44.61125,"lon":-123.11321,"city":"Albany","state":"OR","address":"3209 Pacific Boulevard Southwest","name":"Northwest Skateland"},
-  {"lat":42.30266,"lon":-122.84964,"city":"Medford","state":"OR","address":"2425 South Pacific Highway","name":"Roller Odyssey"},
-  {"lat":44.95407,"lon":-123.01621,"city":"Salem","state":"OR","address":"1335 Madison Street Northeast","name":"Hit This! Derby Gear"},
-  {"lat":40.66597,"lon":-75.30694,"city":"Bethlehem","state":"PA","address":"4500 Easton Avenue","name":"Bethlehem Skateaway"},
-  {"lat":41.01984,"lon":-75.20785,"city":"East Stroudsburg","state":"PA","address":"3226 North 5th Street","name":"Big Wheel Roller Skating"},
-  {"lat":39.80961,"lon":-76.99973,"city":"Hanover","state":"PA","address":"625 West Elm Avenue","name":"Magic Elm Skateland"},
-  {"lat":40.10404,"lon":-75.00471,"city":"Philadelphia","state":"PA","address":"11586 Roosevelt Boulevard","name":"Phily Skate Plex"},
-  {"lat":40.50904,"lon":-80.12684,"city":"Pittsburgh","state":"PA","address":"5109 Neville Road","name":"Neville Roller Drome"},
-  {"lat":40.84423,"lon":-76.82621,"city":"Shamokin Dam","state":"PA","address":"2755 North Susquehanna Trail","name":"Sunset Rink"},
-  {"lat":40.65326,"lon":-75.50059,"city":"Whitehall","state":"PA","address":"3850 Lehigh Street","name":"Skateaway Roller Rink"},
-  {"lat":34.13039,"lon":-80.85426,"city":"Elgin","state":"SC","address":"800 Bookman Road","name":"Skateland Fun Center"},
-  {"lat":34.88355,"lon":-82.46818,"city":"Greenville","state":"SC","address":"7514 White Horse Road","name":"Skateland USA"},
-  {"lat":34.76981,"lon":-82.28301,"city":"Simpsonville","state":"SC","address":"108 Balcome Boulevard","name":"Golden Skate"},
-  {"lat":32.43859,"lon":-97.80723,"city":"Granbury","state":"TEXAS","address":"1901 West Pearl Street","name":"Granbury Skating Rink"},
-  {"lat":36.58139,"lon":-87.40922,"city":"Clarksville","state":"TN","address":"1671 Fort Campbell Boulevard","name":"Magic Wheels Fun Center"},
-  {"lat":36.0209,"lon":-84.31167,"city":"Oliver Springs","state":"TN","address":"1215 East Tri County Boulevard","name":"Tri County Roll Arena"},
-  {"lat":35.10958,"lon":-101.91841,"city":"Amarillo","state":"TX","address":"9721 South Coulter Street","name":"Armadillo Jack's Skateplex"},
-  {"lat":31.60303,"lon":-97.09473,"city":"Bellmead","state":"TX","address":"500 North Loop 340","name":"Skate Waco Bellmead"},
-  {"lat":32.91029,"lon":-96.69316,"city":"Garland","state":"TX","address":"413 South Yale Drive","name":"Westlake Skate Center"},
-  {"lat":29.77551,"lon":-95.75406,"city":"Katy","state":"TX","address":"535 Applewhite Drive","name":"Mason Road Skate Center"},
-  {"lat":31.85878,"lon":-103.09224,"city":"Kermit","state":"TX","address":"300 East Austin Street","name":"Sims Skateland"},
-  {"lat":38.78563,"lon":-77.5147,"city":"Manassas","state":"VA","address":"7878 Sudley Road","name":"Skate n Fun Zone"},
-  {"lat":39.13409,"lon":-77.71491,"city":"Purcellville","state":"VA","address":"250 South Nursery Avenue","name":"Bush Tabernacle Skating Rink"},
-  {"lat":36.9572,"lon":-76.59962,"city":"Smithfield","state":"VA","address":"200 Wimbledon Lane","name":"Smithfield Skate and Batting Cages"},
-  {"lat":48.46765,"lon":-122.331,"city":"Burlington","state":"WA","address":"390 Cedar Street","name":"Skagit Skate"},
-  {"lat":47.29471,"lon":-122.31429,"city":"Federal Way","state":"WA","address":"34222 Pacific Highway South","name":"El Centro Skate Rink"},
-  {"lat":47.05436,"lon":-122.86214,"city":"Olympia","state":"WA","address":"2725 12th Avenue Northeast","name":"Capital Skateland"},
-  {"lat":47.20078,"lon":-122.29281,"city":"Puyallup","state":"WA","address":"1113 North Meridian","name":"King Family Fun Center"},
-  {"lat":46.27758,"lon":-119.28262,"city":"Richland","state":"WA","address":"849 Stevens Drive","name":"Rollarena Skating Center"},
-  {"lat":47.51605,"lon":-122.35597,"city":"Seattle","state":"WA","address":"9646 17th Avenue Southwest","name":"Southgate Roller Rink"},
-  {"lat":47.65341,"lon":-117.27845,"city":"Spokane Valley","state":"WA","address":"9415 East 4th Avenue","name":"Roller Valley"},
-  {"lat":44.27098,"lon":-88.49552,"city":"Grand Chute","state":"WI","address":"Mayflower Road","name":"Skaters Edge"},
-  {"lat":44.84135,"lon":-91.94082,"city":"Menomonie","state":"WI","address":"N4439 440th Street","name":"Skate Ranch"},
-  {"lat":43.02547,"lon":-88.19032,"city":"Waukesha","state":"WI","address":"1931 East Main Street","name":"Skateland"},
-  {"lat":39.91644,"lon":-80.74639,"city":"Moundsville","state":"WV","address":"510 10th Street","name":"The Roller Derby"}
-]}
+{
+  "key": "roller_skating_rinks",
+  "displayName": "Roller Skating Rinks",
+  "category": "entertainment",
+  "useLocationName": true,
+  "locations": [
+    {
+      "lat": 44.0880438,
+      "lon": -70.2212002,
+      "city": "Auburn",
+      "state": "Maine",
+      "address": "12 Riverside Drive",
+      "name": "Rollodrome"
+    },
+    {
+      "lat": 43.6842548,
+      "lon": -70.3324093,
+      "city": "Westbrook",
+      "state": "Maine",
+      "address": "3 Chabot Street",
+      "name": "Happy Wheels"
+    },
+    {
+      "lat": 42.950794,
+      "lon": -71.433028,
+      "city": "Manchester",
+      "state": "New Hampshire",
+      "address": "725 Huse Road",
+      "name": "Remix"
+    },
+    {
+      "lat": 42.688244,
+      "lon": -71.431235,
+      "city": "Tyngsboro",
+      "state": "Massachusetts",
+      "address": "355 Middlesex Road",
+      "name": "Roller Kingdom Tyngsboro"
+    },
+    {
+      "lat": 42.4867473,
+      "lon": -71.0195514,
+      "city": "Saugus",
+      "state": "Massachusetts",
+      "address": "425R Broadway",
+      "name": "Roller World"
+    },
+    {
+      "lat": 42.39493179999999,
+      "lon": -71.5886507,
+      "city": "Hudson",
+      "state": "Massachusetts",
+      "address": "5 Highland Park Ave",
+      "name": "Roller Kingdom Hudson"
+    },
+    {
+      "lat": 42.2853826,
+      "lon": -71.09219379999999,
+      "city": "Boston",
+      "state": "Massachusetts",
+      "address": "11 Rhoades Street",
+      "name": "Chez Vous"
+    },
+    {
+      "lat": 42.35661,
+      "lon": -72.547841,
+      "city": "Hadley",
+      "state": "Massachusetts",
+      "address": "367 Russell Street",
+      "name": "Interskate 91 North"
+    },
+    {
+      "lat": 41.876614,
+      "lon": -71.102726,
+      "city": "Taunton",
+      "state": "Massachusetts",
+      "address": "1 Lawton Street",
+      "name": "Forrests Family Fun Center"
+    },
+    {
+      "lat": 41.8537228,
+      "lon": -71.3595394,
+      "city": "Rumford",
+      "state": "Rhode Island",
+      "address": "75 New Road",
+      "name": "United Skates Rumford"
+    },
+    {
+      "lat": 41.83439509999999,
+      "lon": -72.4612801,
+      "city": "Vernon",
+      "state": "Connecticut",
+      "address": "85 South Frontage Road",
+      "name": "Ron A Roll"
+    },
+    {
+      "lat": 41.5411807,
+      "lon": -73.0386217,
+      "city": "Waterbury",
+      "state": "Connecticut",
+      "address": "60 Harvester Road",
+      "name": "Roller Magic"
+    },
+    {
+      "lat": 41.6566834,
+      "lon": -71.9267927,
+      "city": "Plainfield",
+      "state": "Connecticut",
+      "address": "992 Norwich Road",
+      "name": "The Skate Inn"
+    },
+    {
+      "lat": 43.02550129999999,
+      "lon": -78.8733104,
+      "city": "North Tonawanda",
+      "state": "New York",
+      "address": "101 Oliver Street",
+      "name": "Rainbow Roller Rink"
+    },
+    {
+      "lat": 42.8388098,
+      "lon": -78.788209,
+      "city": "West Seneca",
+      "state": "New York",
+      "address": "164 Orchard Park Road",
+      "name": "Spinners West Seneca"
+    },
+    {
+      "lat": 43.16678,
+      "lon": -77.66925,
+      "city": "Rochester",
+      "state": "New York",
+      "address": "1684 Adirondack Street",
+      "name": "Skate Luvers Roller Palace"
+    },
+    {
+      "lat": 43.158414,
+      "lon": -76.231508,
+      "city": "Liverpool",
+      "state": "New York",
+      "address": "8015 Oswego Road",
+      "name": "Skate-N-Place"
+    },
+    {
+      "lat": 43.2095401,
+      "lon": -75.4634584,
+      "city": "Rome",
+      "state": "New York",
+      "address": "220 Ridge Street",
+      "name": "Skate-A-While Longer"
+    },
+    {
+      "lat": 43.009205,
+      "lon": -74.188571,
+      "city": "Amsterdam",
+      "state": "New York",
+      "address": "4313 NY-30",
+      "name": "High Rollers"
+    },
+    {
+      "lat": 42.7743172,
+      "lon": -73.9360782,
+      "city": "Schenectady",
+      "state": "New York",
+      "address": "2710 Hamburg Street",
+      "name": "Rollarama"
+    },
+    {
+      "lat": 42.1158432,
+      "lon": -76.8066692,
+      "city": "Elmira",
+      "state": "New York",
+      "address": "1570 Lake Street",
+      "name": "Joycrest Skating Rink"
+    },
+    {
+      "lat": 41.7903921,
+      "lon": -74.2490835,
+      "city": "Accord",
+      "state": "New York",
+      "address": "5164 US-209",
+      "name": "Skate Time"
+    },
+    {
+      "lat": 40.7064593,
+      "lon": -73.9214235,
+      "city": "Brooklyn",
+      "state": "New York",
+      "address": "262 Starr Street",
+      "name": "Xanadu"
+    },
+    {
+      "lat": 40.6939286,
+      "lon": -73.4811113,
+      "city": "Seaford",
+      "state": "New York",
+      "address": "1276 Hicksville Road",
+      "name": "United Skates Seaford"
+    },
+    {
+      "lat": 40.7839145,
+      "lon": -72.86291969999999,
+      "city": "Shirley",
+      "state": "New York",
+      "address": "30 The Green",
+      "name": "Gr8Skates"
+    },
+    {
+      "lat": 40.752172,
+      "lon": -74.181358,
+      "city": "Newark",
+      "state": "New Jersey",
+      "address": "104 Clifton Ave",
+      "name": "United Skates Branch Brook"
+    },
+    {
+      "lat": 40.03748880000001,
+      "lon": -74.9245521,
+      "city": "Edgewater Park",
+      "state": "New Jersey",
+      "address": "1775 Creek Road",
+      "name": "The Rink at Delanco"
+    },
+    {
+      "lat": 39.9434274,
+      "lon": -75.0960636,
+      "city": "Camden",
+      "state": "New Jersey",
+      "address": "1900 Carman Street",
+      "name": "Milennium Skate World"
+    },
+    {
+      "lat": 39.6200562,
+      "lon": -75.0809293,
+      "city": "Franklinville",
+      "state": "New Jersey",
+      "address": "2608 Delsea Drive",
+      "name": "Sk8 47 Skating and Fun"
+    },
+    {
+      "lat": 39.4627108,
+      "lon": -74.733677,
+      "city": "Mays Landing",
+      "state": "New Jersey",
+      "address": "763 Park Rd",
+      "name": "Young's Skating Center"
+    },
+    {
+      "lat": 40.508916,
+      "lon": -80.12684,
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "address": "5109 Neville Road",
+      "name": "Neville Rollerdrome"
+    },
+    {
+      "lat": 41.2235942,
+      "lon": -75.8858556,
+      "city": "Wilkes-Barre",
+      "state": "Pennsylvania",
+      "address": "610 Blackman Street",
+      "name": "Skateaway WB"
+    },
+    {
+      "lat": 41.220415,
+      "lon": -76.744209,
+      "city": "Muncy",
+      "state": "Pennsylvania",
+      "address": "1935 Route 405 Highway",
+      "name": "Trout Pond Park"
+    },
+    {
+      "lat": 40.8442325,
+      "lon": -76.82622740000001,
+      "city": "Shamokin Dam",
+      "state": "Pennsylvania",
+      "address": "2755 N Susquehanna Trail",
+      "name": "Sunset Rink"
+    },
+    {
+      "lat": 40.3760891,
+      "lon": -75.9313477,
+      "city": "Muhlenberg",
+      "state": "Pennsylvania",
+      "address": "500 George Street",
+      "name": "Fantasy Skating Center"
+    },
+    {
+      "lat": 40.1041439,
+      "lon": -75.00458739999999,
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "address": "11586 Roosevelt Blvd",
+      "name": "Philly Skate Plex"
+    },
+    {
+      "lat": 39.6758212,
+      "lon": -75.68402540000001,
+      "city": "Newark",
+      "state": "Delaware",
+      "address": "801 Christiana Road",
+      "name": "Christiana Skating Center"
+    },
+    {
+      "lat": 39.116304,
+      "lon": -75.535144,
+      "city": "Dover",
+      "state": "Delaware",
+      "address": "2201 S Dupont Hwy",
+      "name": "Dover Skating Center"
+    },
+    {
+      "lat": 39.30352439954857,
+      "lon": -76.63276672611835,
+      "city": "Baltimore",
+      "state": "Maryland",
+      "address": "1601 Pennsylvania Ave",
+      "name": "Shake & Bake Family Fun Center"
+    },
+    {
+      "lat": 39.1132269,
+      "lon": -76.8330842,
+      "city": "Laurel",
+      "state": "Maryland",
+      "address": "9890 Brewers Court",
+      "name": "Laurel Roller Skating Center"
+    },
+    {
+      "lat": 39.0807967,
+      "lon": -76.6919815,
+      "city": "Odenton",
+      "state": "Maryland",
+      "address": "1200 Odenton Road",
+      "name": "Skate Zone Odenton"
+    },
+    {
+      "lat": 38.9780543,
+      "lon": -76.83499549999999,
+      "city": "Lanham",
+      "state": "Maryland",
+      "address": "9901 Lanham Servern Road",
+      "name": "Lanham Skate Center"
+    },
+    {
+      "lat": 39.3750732,
+      "lon": -76.5050995,
+      "city": "Nottingham",
+      "state": "Maryland",
+      "address": "8019 Belair Rd",
+      "name": "Skateland Putty Hill"
+    },
+    {
+      "lat": 38.850753,
+      "lon": -76.953127,
+      "city": "Temple Hills",
+      "state": "Maryland",
+      "address": "3132 Branch Ave",
+      "name": "Isaiah 58 Skate House"
+    },
+    {
+      "lat": 38.7856352,
+      "lon": -77.51472009999999,
+      "city": "Manassas",
+      "state": "Virginia",
+      "address": "7878 Sudley Road",
+      "name": "Skate N'Fun Zone"
+    },
+    {
+      "lat": 38.4916506,
+      "lon": -77.9942329,
+      "city": "Culpeper",
+      "state": "Virginia",
+      "address": "1550 North Main Street",
+      "name": "Dominion Skating"
+    },
+    {
+      "lat": 38.411915,
+      "lon": -77.411024,
+      "city": "Stafford",
+      "state": "Virginia",
+      "address": "1920 Richmond Highway",
+      "name": "Cavalier Family Skating"
+    },
+    {
+      "lat": 37.7660656,
+      "lon": -77.472451,
+      "city": "Ashland",
+      "state": "Virginia",
+      "address": "516 North Washington Hwy",
+      "name": "Ashland Skateland"
+    },
+    {
+      "lat": 37.5177964,
+      "lon": -77.3474378,
+      "city": "Richmond",
+      "state": "Virginia",
+      "address": "4902 Williamsburg Road",
+      "name": "Roller Dome"
+    },
+    {
+      "lat": 37.33711660993753,
+      "lon": -79.67681100775614,
+      "city": "Vinton",
+      "state": "Virginia",
+      "address": "1620 E Washington Ave",
+      "name": "Firehouse Skate N Play"
+    },
+    {
+      "lat": 37.3567733,
+      "lon": -77.4091488,
+      "city": "Chester",
+      "state": "Virginia",
+      "address": "2300 Southland Drive",
+      "name": "Chester Skateland"
+    },
+    {
+      "lat": 37.0356167,
+      "lon": -76.4578382,
+      "city": "Newport News",
+      "state": "Virginia",
+      "address": "307 Main Street",
+      "name": "Peninsula Family Skating"
+    },
+    {
+      "lat": 36.82061849999999,
+      "lon": -76.0749969,
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "address": "600 South Lynnhaven Road",
+      "name": "Sk8 House Virginia Beach"
+    },
+    {
+      "lat": 36.9572231,
+      "lon": -76.5996663,
+      "city": "Smithfield",
+      "state": "Virginia",
+      "address": "200 Wimbledon Lane",
+      "name": "Smithfield Skate"
+    },
+    {
+      "lat": 36.7750775,
+      "lon": -76.2351406,
+      "city": "Chesapeake",
+      "state": "Virginia",
+      "address": "1409 Stephanie Way",
+      "name": "Greenbrier Family Skating"
+    },
+    {
+      "lat": 37.37206,
+      "lon": -79.2088,
+      "city": "Lynchburg",
+      "state": "Virginia",
+      "address": "327 Graves Hill Rd",
+      "name": "FunQuest"
+    },
+    {
+      "lat": 36.1325526,
+      "lon": -79.7908942,
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "address": "3801 North Church Street",
+      "name": "Skateland USA North"
+    },
+    {
+      "lat": 35.8830291,
+      "lon": -80.1112296,
+      "city": "Thomasville",
+      "state": "North Carolina",
+      "address": "1203 Lexington Ave",
+      "name": "Thomasville Skate Center"
+    },
+    {
+      "lat": 36.001954,
+      "lon": -78.861266,
+      "city": "Durham",
+      "state": "North Carolina",
+      "address": "715 North Hoover Rd",
+      "name": "Wheels Durham"
+    },
+    {
+      "lat": 35.8204559,
+      "lon": -78.5890539,
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "address": "2901 Trawick Road",
+      "name": "United Skates Raleigh"
+    },
+    {
+      "lat": 35.0753839,
+      "lon": -78.9241833,
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "address": "880 Elm Street",
+      "name": "Round-A-Bout Eutaw"
+    },
+    {
+      "lat": 35.0371002,
+      "lon": -79.0133657,
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "address": "115 Skateway Drive",
+      "name": "Round-A-Bout 71st location"
+    },
+    {
+      "lat": 34.641353,
+      "lon": -78.99918799999999,
+      "city": "Lumberton",
+      "state": "North Carolina",
+      "address": "3475 Fayetteville Road",
+      "name": "Mr P's Skateworld"
+    },
+    {
+      "lat": 34.7541055,
+      "lon": -77.4557736,
+      "city": "Jacksonville",
+      "state": "North Carolina",
+      "address": "120 Bridgett Lane",
+      "name": "Roller City JAX"
+    },
+    {
+      "lat": 35.20619750251204,
+      "lon": -76.84246294706962,
+      "city": "New Bern",
+      "state": "North Carolina",
+      "address": "3502 Neuse Blvd",
+      "name": "Rollerland"
+    },
+    {
+      "lat": 34.1920185,
+      "lon": -77.9392254,
+      "city": "Wilmington",
+      "state": "North Carolina",
+      "address": "341 Shipyard Blvd",
+      "name": "Scooter's Family Skating"
+    },
+    {
+      "lat": 35.4554573,
+      "lon": -83.0459546,
+      "city": "Waynesville",
+      "state": "North Carolina",
+      "address": "19025 Great Smoky Expy",
+      "name": "Smoky Mountain Sk8way"
+    },
+    {
+      "lat": 35.6976637,
+      "lon": -81.27913649999999,
+      "city": "Newton",
+      "state": "North Carolina",
+      "address": "2820 US Hwy 70 SE",
+      "name": "Skateland Hickory"
+    },
+    {
+      "lat": 35.427722211967264,
+      "lon": -80.59444108953232,
+      "city": "Concord",
+      "state": "North Carolina",
+      "address": "2800 Poplar Tent Rd",
+      "name": "Frye's Roller Rink"
+    },
+    {
+      "lat": 35.2347265,
+      "lon": -81.1690229,
+      "city": "Gastonia",
+      "state": "North Carolina",
+      "address": "1151 Skating Rink Drive",
+      "name": "Kate's Skating Gastonia"
+    },
+    {
+      "lat": 35.0773607,
+      "lon": -80.6546281,
+      "city": "Indian Trail",
+      "state": "North Carolina",
+      "address": "14500 E. Independence Blvd",
+      "name": "Kate's Skating Indian Trail"
+    },
+    {
+      "lat": 34.93092,
+      "lon": -81.88355,
+      "city": "Spartanburg",
+      "state": "South Carolina",
+      "address": "2345 S. Pine Street",
+      "name": "Hot Wheels"
+    },
+    {
+      "lat": 34.81858639493686,
+      "lon": -82.61790112675341,
+      "city": "Easley",
+      "state": "South Carolina",
+      "address": "719 Ross Ave",
+      "name": "Roller Time Family Skate Center"
+    },
+    {
+      "lat": 33.9403314,
+      "lon": -81.15086079999999,
+      "city": "West Columbia",
+      "state": "South Carolina",
+      "address": "2724 Emanuel Church Road",
+      "name": "Three Fountains Recreation"
+    },
+    {
+      "lat": 33.6462939,
+      "lon": -78.976124,
+      "city": "Myrtle Beach",
+      "state": "South Carolina",
+      "address": "2349 Dick Pond Road",
+      "name": "Fun Warehouse"
+    },
+    {
+      "lat": 34.76027,
+      "lon": -84.94329,
+      "city": "Dalton",
+      "state": "Georgia",
+      "address": "611 Sheridan Ave",
+      "name": "Playland Roller Skating Zone"
+    },
+    {
+      "lat": 33.6023419,
+      "lon": -85.0773892,
+      "city": "Carrollton",
+      "state": "Georgia",
+      "address": "117 North Hwy 113",
+      "name": "Spinnerz"
+    },
+    {
+      "lat": 33.3987021,
+      "lon": -82.05541099999999,
+      "city": "Augusta",
+      "state": "Georgia",
+      "address": "2451 Windsor Spring Road",
+      "name": "Skateland of Augusta"
+    },
+    {
+      "lat": 34.0751626,
+      "lon": -84.5246003,
+      "city": "Woodstock",
+      "state": "Georgia",
+      "address": "228 Farm Ridge Dr NE",
+      "name": "Hot Wheels Skate Center"
+    },
+    {
+      "lat": 34.0116361,
+      "lon": -84.6087072,
+      "city": "Kennesaw",
+      "state": "Georgia",
+      "address": "1000 McCollum Pkwy NW",
+      "name": "Sparkles Kennesaw"
+    },
+    {
+      "lat": 33.8925858,
+      "lon": -84.7610756,
+      "city": "Hiram",
+      "state": "Georgia",
+      "address": "4054 Jimmy Lee Smith Pkwy",
+      "name": "Sparkles Hiram"
+    },
+    {
+      "lat": 33.87015580000001,
+      "lon": -84.5332607,
+      "city": "Smyrna",
+      "state": "Georgia",
+      "address": "666 Smyrna Hill Drive",
+      "name": "Sparkles Smyrna"
+    },
+    {
+      "lat": 33.92164630000001,
+      "lon": -83.9716978,
+      "city": "Lawrenceville",
+      "state": "Georgia",
+      "address": "1104 Grayson Hwy",
+      "name": "Sparkles Gwinnett"
+    },
+    {
+      "lat": 34.1274618,
+      "lon": -83.9842688,
+      "city": "Buford",
+      "state": "Georgia",
+      "address": "2700 Buford Hwy",
+      "name": "Skate Country Buford"
+    },
+    {
+      "lat": 33.820913,
+      "lon": -84.119282,
+      "city": "Stone Mountain",
+      "state": "Georgia",
+      "address": "5400 Bermuda Road",
+      "name": "Stone Mountain Skates"
+    },
+    {
+      "lat": 33.7077887,
+      "lon": -84.21563789999999,
+      "city": "Decatur",
+      "state": "Georgia",
+      "address": "2750 Wesley Chapel Road",
+      "name": "Golden Glide"
+    },
+    {
+      "lat": 33.603433,
+      "lon": -84.470385,
+      "city": "Atlanta",
+      "state": "Georgia",
+      "address": "5570 Old National Hwy",
+      "name": "Skate Towne"
+    },
+    {
+      "lat": 33.7556422,
+      "lon": -84.4968438,
+      "city": "Atlanta",
+      "state": "Georgia",
+      "address": "3335 MLK Jr Drive",
+      "name": "Cascade Skating"
+    },
+    {
+      "lat": 33.568602,
+      "lon": -84.31218899999999,
+      "city": "Morrow",
+      "state": "Georgia",
+      "address": "6766 Mount Zion Blvd",
+      "name": "Skate Zone"
+    },
+    {
+      "lat": 33.5412392,
+      "lon": -84.20287929999999,
+      "city": "Stockbridge",
+      "state": "Georgia",
+      "address": "3710 N Henry Blvd",
+      "name": "Starlite of Stockbridge"
+    },
+    {
+      "lat": 33.42352258977284,
+      "lon": -84.19551157096751,
+      "city": "McDonough",
+      "state": "Georgia",
+      "address": "425 Plaza Pkwy",
+      "name": "Starlite Family Fun"
+    },
+    {
+      "lat": 33.605753,
+      "lon": -83.970788,
+      "city": "Conyers",
+      "state": "Georgia",
+      "address": "3174 Salem Road",
+      "name": "Cascade Skating East"
+    },
+    {
+      "lat": 32.55149,
+      "lon": -83.68635,
+      "city": "Warner Robins",
+      "state": "Georgia",
+      "address": "2001 Karl Drive",
+      "name": "Rigby's Entertainment Complex"
+    },
+    {
+      "lat": 34.74471990000001,
+      "lon": -86.59801879999999,
+      "city": "Huntsville",
+      "state": "Alabama",
+      "address": "707 Arcadia Circle NW",
+      "name": "Roller Time"
+    },
+    {
+      "lat": 34.24395899385645,
+      "lon": -86.86726774522982,
+      "city": "Cullman",
+      "state": "Alabama",
+      "address": "90 Co Rd 1223",
+      "name": "Sportsworld Skate Center"
+    },
+    {
+      "lat": 33.631657,
+      "lon": -86.806733,
+      "city": "Fultondale",
+      "state": "Alabama",
+      "address": "3508 Decatur Hwy",
+      "name": "Funtime Skate Center"
+    },
+    {
+      "lat": 32.3302953,
+      "lon": -86.24230299999999,
+      "city": "Montgomery",
+      "state": "Alabama",
+      "address": "3541 McGehee Rd",
+      "name": "2211 Ultimate Play Zone"
+    },
+    {
+      "lat": 33.4229246,
+      "lon": -86.6760875,
+      "city": "Birmingham",
+      "state": "Alabama",
+      "address": "7043 Meadowlark Drive",
+      "name": "Skates 280"
+    },
+    {
+      "lat": 32.8155089,
+      "lon": -85.1827278,
+      "city": "Valley",
+      "state": "Alabama",
+      "address": "128 Fob James Drive",
+      "name": "The Skatin' Rink"
+    },
+    {
+      "lat": 31.236519888556796,
+      "lon": -85.43638981058986,
+      "city": "Dothan",
+      "state": "Alabama",
+      "address": "465 Westgate Pkwy",
+      "name": "Funzone Skating Rink"
+    },
+    {
+      "lat": 30.5896481,
+      "lon": -88.17457689999999,
+      "city": "Mobile",
+      "state": "Alabama",
+      "address": "5672 Three Notch Road",
+      "name": "Dreamland Skate Center Mobile"
+    },
+    {
+      "lat": 30.618358888648533,
+      "lon": -87.90802980116732,
+      "city": "Daphne",
+      "state": "Alabama",
+      "address": "616 Whispering Pines Rd",
+      "name": "Hot Wheels Daphne"
+    },
+    {
+      "lat": 30.65469,
+      "lon": -87.04494,
+      "city": "Milton",
+      "state": "Florida",
+      "address": "6056 Stewart Street",
+      "name": "Weber's Skate World"
+    },
+    {
+      "lat": 30.5095265,
+      "lon": -87.20805759999999,
+      "city": "Pensacola",
+      "state": "Florida",
+      "address": "2607 E Olive Road",
+      "name": "Dreamland Skate Center Pensacola"
+    },
+    {
+      "lat": 30.4869945,
+      "lon": -84.237128,
+      "city": "Tallahassee",
+      "state": "Florida",
+      "address": "2563 Capital Circle NE",
+      "name": "Skate World Tallahassee"
+    },
+    {
+      "lat": 30.3201067,
+      "lon": -81.55728599999999,
+      "city": "Jacksonville",
+      "state": "Florida",
+      "address": "9244 Arlington Expy",
+      "name": "Sk8 City Jacksonville"
+    },
+    {
+      "lat": 30.1753145,
+      "lon": -81.746685,
+      "city": "Orange Park",
+      "state": "Florida",
+      "address": "230 Blanding Blvd",
+      "name": "Skate Station Funworks Orange Park"
+    },
+    {
+      "lat": 29.66609949999999,
+      "lon": -82.4261358,
+      "city": "Gainesville",
+      "state": "Florida",
+      "address": "1311 NW 76th Blvd",
+      "name": "Skate Station Funworks Gainesville"
+    },
+    {
+      "lat": 29.1859715,
+      "lon": -82.111678,
+      "city": "Ocala",
+      "state": "Florida",
+      "address": "2008 E Silver Springs Blvd",
+      "name": "Skate-A-Way South"
+    },
+    {
+      "lat": 29.288239,
+      "lon": -81.06663999999999,
+      "city": "Ormond Beach",
+      "state": "Florida",
+      "address": "250 US-1",
+      "name": "Astro Ormond Beach"
+    },
+    {
+      "lat": 28.6424948,
+      "lon": -81.323892,
+      "city": "Casselberry",
+      "state": "Florida",
+      "address": "2670 Cassel Creek Blvd",
+      "name": "Semoran Skateway"
+    },
+    {
+      "lat": 28.5343991,
+      "lon": -81.2867771,
+      "city": "Orlando",
+      "state": "Florida",
+      "address": "866 S Goldenrod Road",
+      "name": "Astro Orlando"
+    },
+    {
+      "lat": 28.3018282,
+      "lon": -81.43614509999999,
+      "city": "Kissimmee",
+      "state": "Florida",
+      "address": "1111 Dyer Blvd",
+      "name": "Skate Reflections"
+    },
+    {
+      "lat": 28.28566427893747,
+      "lon": -82.69474153399969,
+      "city": "Port RIchey",
+      "state": "Florida",
+      "address": "8345 Congress St",
+      "name": "SpinNations Skating"
+    },
+    {
+      "lat": 27.8633364,
+      "lon": -82.7279434,
+      "city": "Pinellas Park",
+      "state": "Florida",
+      "address": "10001 66th Street",
+      "name": "Astro Pinellas Park"
+    },
+    {
+      "lat": 27.9931547,
+      "lon": -82.4833422,
+      "city": "Tampa",
+      "state": "Florida",
+      "address": "5121 N Armenia Ave",
+      "name": "United Skates Tampa"
+    },
+    {
+      "lat": 27.9364144,
+      "lon": -82.2960799,
+      "city": "Brandon",
+      "state": "Florida",
+      "address": "750 W Robertson Street",
+      "name": "Astro Brandon"
+    },
+    {
+      "lat": 26.5339017,
+      "lon": -81.8675276,
+      "city": "Fort Myers",
+      "state": "Florida",
+      "address": "2095 Andrea Lane",
+      "name": "Spinz"
+    },
+    {
+      "lat": 27.5948279,
+      "lon": -80.4148603,
+      "city": "Vero Beach",
+      "state": "Florida",
+      "address": "485 27th Ave SW",
+      "name": "Skate Factory"
+    },
+    {
+      "lat": 26.630029,
+      "lon": -80.1454438,
+      "city": "Greenacres",
+      "state": "Florida",
+      "address": "3100 Jog Road",
+      "name": "Astro Palm Beach"
+    },
+    {
+      "lat": 26.0420776,
+      "lon": -80.2340818,
+      "city": "Hollywood",
+      "state": "Florida",
+      "address": "3737 N Davie Road Ext",
+      "name": "Galaxy Skateway Davie"
+    },
+    {
+      "lat": 26.1921008,
+      "lon": -80.1534069,
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "address": "5300 Powerline Road",
+      "name": "Xtreme Action Park"
+    },
+    {
+      "lat": 25.6633148,
+      "lon": -80.3936154,
+      "city": "Miami",
+      "state": "Florida",
+      "address": "12265 SW 112th Street",
+      "name": "Miami Roller Rink"
+    },
+    {
+      "lat": 43.5100461,
+      "lon": -79.6318861,
+      "city": "Mississauga",
+      "state": "Ontario",
+      "address": "2105 Royal Windsor Dr",
+      "name": "Scooter's Roller Palace"
+    },
+    {
+      "lat": 43.2208086,
+      "lon": -86.19991259999999,
+      "city": "Muskegon",
+      "state": "Michigan",
+      "address": "1775 Evanston Ave",
+      "name": "Jumpin' Jupiter Skate Center"
+    },
+    {
+      "lat": 42.8691893,
+      "lon": -85.6628435,
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "address": "14 52nd Street SE",
+      "name": "GR Skate and Event Center Kentwood"
+    },
+    {
+      "lat": 42.81295,
+      "lon": -86.09086,
+      "city": "Holland",
+      "state": "Michigan",
+      "address": "12521 James Street",
+      "name": "Rollxscape Skating Center"
+    },
+    {
+      "lat": 42.6553947,
+      "lon": -83.37588699999999,
+      "city": "Waterford Township",
+      "state": "Michigan",
+      "address": "4475 Highland Road",
+      "name": "Rolladium Family Fun Center"
+    },
+    {
+      "lat": 42.6373166,
+      "lon": -84.5129638,
+      "city": "Holt",
+      "state": "Michigan",
+      "address": "1891 N Cedar Street",
+      "name": "Edru Skate"
+    },
+    {
+      "lat": 43.6057806,
+      "lon": -84.1918445,
+      "city": "Midland",
+      "state": "Michigan",
+      "address": "2909 Bay City Rd",
+      "name": "Roll Arena"
+    },
+    {
+      "lat": 43.1317677,
+      "lon": -83.679885,
+      "city": "Mount Morris",
+      "state": "Michigan",
+      "address": "8460 N Dort Hwy",
+      "name": "Skateland Arena"
+    },
+    {
+      "lat": 42.95372971753086,
+      "lon": -83.65953126033234,
+      "city": "Grand Blanc Twp",
+      "state": "Michigan",
+      "address": "5315 S. Saginaw Road",
+      "name": "Rollhaven Skating Center"
+    },
+    {
+      "lat": 42.9042572,
+      "lon": -85.7752417,
+      "city": "Grandville",
+      "state": "Michigan",
+      "address": "3330 Fairlanes Ave SW",
+      "name": "Tarry Hall Roller Rink"
+    },
+    {
+      "lat": 42.2546787,
+      "lon": -85.6964137,
+      "city": "Kalamazoo",
+      "state": "Michigan",
+      "address": "7491 Stadium Drive",
+      "name": "Roller World Kalamazoo"
+    },
+    {
+      "lat": 42.5504928,
+      "lon": -83.09139909999999,
+      "city": "Troy",
+      "state": "Michigan",
+      "address": "2825 E Maple Road",
+      "name": "Skate World of Troy"
+    },
+    {
+      "lat": 42.4729906,
+      "lon": -83.4170755,
+      "city": "Farmington Hills",
+      "state": "Michigan",
+      "address": "24505 Halsted Road",
+      "name": "Bonaventure Skate"
+    },
+    {
+      "lat": 42.5099726,
+      "lon": -82.9674204,
+      "city": "Roseville",
+      "state": "Michigan",
+      "address": "29100 Hayes Road",
+      "name": "The Great Skate"
+    },
+    {
+      "lat": 42.3503024,
+      "lon": -83.45331159999999,
+      "city": "Canton",
+      "state": "Michigan",
+      "address": "8611 Ronda Drive",
+      "name": "Skatin' Station"
+    },
+    {
+      "lat": 42.2750326,
+      "lon": -83.15255189999999,
+      "city": "Detroit",
+      "state": "Michigan",
+      "address": "2130 Schaefer Hwy",
+      "name": "RollerCade Detroit"
+    },
+    {
+      "lat": 42.443066802004594,
+      "lon": -83.26183182947719,
+      "city": "Detroit",
+      "state": "Michigan",
+      "address": "22311 West 8 Mile Road",
+      "name": "Northland Roller Rink"
+    },
+    {
+      "lat": 42.3865272,
+      "lon": -83.21082659999999,
+      "city": "Detroit",
+      "state": "Michigan",
+      "address": "16611 Schoolcraft Street",
+      "name": "Detroit Roller Wheels"
+    },
+    {
+      "lat": 42.3985669,
+      "lon": -82.95679109999999,
+      "city": "Detroit",
+      "state": "Michigan",
+      "address": "5201 Alter Road",
+      "name": "Royal Skateland"
+    },
+    {
+      "lat": 42.3671951,
+      "lon": -83.40507579999999,
+      "city": "Livonia",
+      "state": "Michigan",
+      "address": "36635 Plymouth Road",
+      "name": "Riverside Arena"
+    },
+    {
+      "lat": 42.2508334,
+      "lon": -83.1807264,
+      "city": "Lincoln Park",
+      "state": "Michigan",
+      "address": "1419 Southfield Road",
+      "name": "United Skates Lincoln Park"
+    },
+    {
+      "lat": 41.619695,
+      "lon": -81.4600118,
+      "city": "Wickliffe",
+      "state": "Ohio",
+      "address": "30325 Palisades Pkwy",
+      "name": "United Skates Wickliffe"
+    },
+    {
+      "lat": 41.472506,
+      "lon": -81.608787,
+      "city": "Cleveland",
+      "state": "Ohio",
+      "address": "3155 Martin Luther King Blvd",
+      "name": "Zelma Watson George"
+    },
+    {
+      "lat": 41.4443,
+      "lon": -82.2303,
+      "city": "Lorain",
+      "state": "Ohio",
+      "address": "4952 West Erie Ave",
+      "name": "Lorain Skate World"
+    },
+    {
+      "lat": 41.3255691,
+      "lon": -80.727522,
+      "city": "Cortland",
+      "state": "Ohio",
+      "address": "290 S High Street",
+      "name": "Cortland Roller Rink"
+    },
+    {
+      "lat": 41.0271456,
+      "lon": -80.6309409,
+      "city": "Boardman",
+      "state": "Ohio",
+      "address": "7080 Tiffany Blvd",
+      "name": "Youngstown Skate"
+    },
+    {
+      "lat": 40.8616269,
+      "lon": -81.423277,
+      "city": "North Canton",
+      "state": "Ohio",
+      "address": "5475 Whipple Ave NW",
+      "name": "North Canton Skate"
+    },
+    {
+      "lat": 40.57887,
+      "lon": -83.08353,
+      "city": "Marion",
+      "state": "Ohio",
+      "address": "1683 Marion Mt. Gilead Rd",
+      "name": "Zoomers"
+    },
+    {
+      "lat": 40.0661625,
+      "lon": -82.9934852,
+      "city": "Columbus",
+      "state": "Ohio",
+      "address": "4900 Evanswood Drive",
+      "name": "Skate Zone 71"
+    },
+    {
+      "lat": 39.9183661,
+      "lon": -82.91260510000001,
+      "city": "Columbus",
+      "state": "Ohio",
+      "address": "3362 Refugee Road",
+      "name": "United Skates Columbus"
+    },
+    {
+      "lat": 39.9485,
+      "lon": -82.00911,
+      "city": "Zanesville",
+      "state": "Ohio",
+      "address": "900 Linden Ave",
+      "name": "Lind Arena"
+    },
+    {
+      "lat": 39.8310725,
+      "lon": -84.1207888,
+      "city": "Huber Heights",
+      "state": "Ohio",
+      "address": "5001 Nebraska Ave",
+      "name": "Orbit Fun Center"
+    },
+    {
+      "lat": 39.5284655,
+      "lon": -84.3782494,
+      "city": "Middletown",
+      "state": "Ohio",
+      "address": "2514 Verity Pkwy",
+      "name": "Skateway Middletown"
+    },
+    {
+      "lat": 39.8864823,
+      "lon": -84.18103049999999,
+      "city": "Vandalia",
+      "state": "Ohio",
+      "address": "333 S Brown School Rd",
+      "name": "Skate World of Vandalia"
+    },
+    {
+      "lat": 39.2609036,
+      "lon": -84.27161640000001,
+      "city": "Loveland",
+      "state": "Ohio",
+      "address": "980 Loveland Medeira Road",
+      "name": "Castle Skateland"
+    },
+    {
+      "lat": 39.219097,
+      "lon": -84.587736,
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "address": "3211 Lina Place",
+      "name": "The Place"
+    },
+    {
+      "lat": 39.0671467,
+      "lon": -84.2944995,
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "address": "3988 Commercial Blvd",
+      "name": "Beechmont Rollarena"
+    },
+    {
+      "lat": 39.470667,
+      "lon": -80.172888,
+      "city": "Fairmont",
+      "state": "West Virginia",
+      "address": "1228 Country Club Rd",
+      "name": "Retro Skate"
+    },
+    {
+      "lat": 38.27165950000001,
+      "lon": -85.57010009999999,
+      "city": "Louisville",
+      "state": "Kentucky",
+      "address": "9851 La Grange Road",
+      "name": "Champ's Rollerdrome Louisville"
+    },
+    {
+      "lat": 38.19498919999999,
+      "lon": -85.6506826,
+      "city": "Louisville",
+      "state": "Kentucky",
+      "address": "5906 Six Mile Lane",
+      "name": "Robben's Roost"
+    },
+    {
+      "lat": 38.0480809,
+      "lon": -85.6777968,
+      "city": "Shepherdsville",
+      "state": "Kentucky",
+      "address": "4650 N Preston Hwy",
+      "name": "Skate-O-Rama"
+    },
+    {
+      "lat": 39.0094336,
+      "lon": -84.6074057,
+      "city": "Elsmere",
+      "state": "Kentucky",
+      "address": "115 Main Street",
+      "name": "Jimmie's Rollerdrome"
+    },
+    {
+      "lat": 38.438145,
+      "lon": -82.682025,
+      "city": "Ashland",
+      "state": "Kentucky",
+      "address": "5656 US Route 60",
+      "name": "Garden Roller Rink"
+    },
+    {
+      "lat": 36.02367419999999,
+      "lon": -86.78757879999999,
+      "city": "Brentwood",
+      "state": "Tennessee",
+      "address": "402 Wilson Pike Circle",
+      "name": "Brentwood Skate Center"
+    },
+    {
+      "lat": 36.29602819999999,
+      "lon": -86.7053224,
+      "city": "Madison",
+      "state": "Tennessee",
+      "address": "119 Gleaves Street",
+      "name": "Rivergate Skate Center"
+    },
+    {
+      "lat": 36.59067,
+      "lon": -82.21361,
+      "city": "Bristol",
+      "state": "Tennessee",
+      "address": "210 Skateway Drive",
+      "name": "Bristol Skateway"
+    },
+    {
+      "lat": 36.04856,
+      "lon": -83.92765,
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "address": "5713 North Broadway",
+      "name": "Skatetown"
+    },
+    {
+      "lat": 35.7988299,
+      "lon": -83.9459315,
+      "city": "Maryville",
+      "state": "Tennessee",
+      "address": "2801 East Broadway Ave",
+      "name": "Roll Arena Party Zone"
+    },
+    {
+      "lat": 35.0756543,
+      "lon": -89.8728022,
+      "city": "Memphis",
+      "state": "Tennessee",
+      "address": "5718 Mount Moriah Road",
+      "name": "East End Skating Center"
+    },
+    {
+      "lat": 35.0289394,
+      "lon": -85.15348879999999,
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "address": "7414 Goodwin Road",
+      "name": "Hamilton Skate Place"
+    },
+    {
+      "lat": 34.963773,
+      "lon": -90.071154,
+      "city": "Horn Lake",
+      "state": "Mississippi",
+      "address": "4560 Goodman Road",
+      "name": "Skate Odyssey of Horn Lake"
+    },
+    {
+      "lat": 36.1769987,
+      "lon": -94.1715445,
+      "city": "Springdale",
+      "state": "Arkansas",
+      "address": "1007 Century Street",
+      "name": "Roller City Springdale"
+    },
+    {
+      "lat": 36.07172449999999,
+      "lon": -94.15721500000001,
+      "city": "Fayetteville",
+      "state": "Arkansas",
+      "address": "612 N. College Ave",
+      "name": "Starlight Skatium"
+    },
+    {
+      "lat": 35.3394993,
+      "lon": -94.4203623,
+      "city": "Fort Smith",
+      "state": "Arkansas",
+      "address": "1413 Phoenix Ave",
+      "name": "Jack's Skateland"
+    },
+    {
+      "lat": 34.7415753,
+      "lon": -92.4067929,
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "address": "1311 S Bowman Road",
+      "name": "Arkansas Skatium"
+    },
+    {
+      "lat": 30.1964401,
+      "lon": -92.0824454,
+      "city": "Lafayette",
+      "state": "Louisiana",
+      "address": "4518 West Congress Street",
+      "name": "Fun Nation"
+    },
+    {
+      "lat": 30.392775,
+      "lon": -91.040249,
+      "city": "Baton Rouge",
+      "state": "Louisiana",
+      "address": "12828 Jefferson Hwy",
+      "name": "Skate Galaxy"
+    },
+    {
+      "lat": 29.9788619,
+      "lon": -90.2081218,
+      "city": "Metairie",
+      "state": "Louisiana",
+      "address": "6711 Airline Drive",
+      "name": "Airline Skate Center"
+    },
+    {
+      "lat": 29.8916115,
+      "lon": -90.0320404,
+      "city": "Gretna",
+      "state": "Louisiana",
+      "address": "1100 Terry Parkway",
+      "name": "Skate Country Westbank"
+    },
+    {
+      "lat": 46.7238185,
+      "lon": -92.1065424,
+      "city": "Superior",
+      "state": "Wisconsin",
+      "address": "1218 Oakes Ave",
+      "name": "World of Wheels"
+    },
+    {
+      "lat": 44.865515,
+      "lon": -91.464646,
+      "city": "Eau Claire",
+      "state": "Wisconsin",
+      "address": "3120 Melby Street",
+      "name": "High Roller Eau Claire"
+    },
+    {
+      "lat": 43.77239,
+      "lon": -91.22061,
+      "city": "La Crosse",
+      "state": "Wisconsin",
+      "address": "3624 East Ave S",
+      "name": "High Roller La Crosse"
+    },
+    {
+      "lat": 44.270935,
+      "lon": -88.495667,
+      "city": "Appleton",
+      "state": "Wisconsin",
+      "address": "5715 Integrity Way",
+      "name": "Skater's Edge"
+    },
+    {
+      "lat": 44.26348,
+      "lon": -88.33921,
+      "city": "Kimberly",
+      "state": "Wisconsin",
+      "address": "708 S Railroad Street",
+      "name": "Skate City"
+    },
+    {
+      "lat": 43.7643268,
+      "lon": -88.42364529999999,
+      "city": "Fond du Lac",
+      "state": "Wisconsin",
+      "address": "605 Fond du Lac Ave",
+      "name": "Korneli's on the Avenue"
+    },
+    {
+      "lat": 43.1155718,
+      "lon": -88.0665764,
+      "city": "Butler",
+      "state": "Wisconsin",
+      "address": "12400 W Custer Ave",
+      "name": "Butler Skateland"
+    },
+    {
+      "lat": 43.0254953,
+      "lon": -88.1903497,
+      "city": "Waukesha",
+      "state": "Wisconsin",
+      "address": "1931 E Main Street",
+      "name": "Waukesha Skateland"
+    },
+    {
+      "lat": 42.708529,
+      "lon": -87.8417419,
+      "city": "Racine",
+      "state": "Wisconsin",
+      "address": "1825 Sycamore Ave",
+      "name": "Star Roller Rink"
+    },
+    {
+      "lat": 42.3080771,
+      "lon": -89.07547369999999,
+      "city": "Rockford",
+      "state": "Illinois",
+      "address": "3209 North Main Street",
+      "name": "Rockford StateCo"
+    },
+    {
+      "lat": 42.22263179999999,
+      "lon": -88.3216423,
+      "city": "Crystal Lake",
+      "state": "Illinois",
+      "address": "691 S Virginia Road",
+      "name": "Xtreme Wheels Fun Center"
+    },
+    {
+      "lat": 41.9705806,
+      "lon": -88.1124346,
+      "city": "Roselle",
+      "state": "Illinois",
+      "address": "1291 W Bryn Mawr Ave",
+      "name": "Coachlite Skate Center"
+    },
+    {
+      "lat": 41.7320654,
+      "lon": -88.2837431,
+      "city": "Aurora",
+      "state": "Illinois",
+      "address": "34W113 Montgomery Rd",
+      "name": "Aurora Skate Center"
+    },
+    {
+      "lat": 41.7372939,
+      "lon": -87.59657419999999,
+      "city": "Chicago",
+      "state": "Illinois",
+      "address": "1122 E 87th Street",
+      "name": "The Rink"
+    },
+    {
+      "lat": 41.791611,
+      "lon": -87.80312270000002,
+      "city": "Summit",
+      "state": "Illinois",
+      "address": "7231 W Archer Ave",
+      "name": "Fleetwood Roller Rink"
+    },
+    {
+      "lat": 41.5278655,
+      "lon": -87.5668506,
+      "city": "Lynwood",
+      "state": "Illinois",
+      "address": "2030 Glenwood-Dyer Rd",
+      "name": "Lynwood Sport Center"
+    },
+    {
+      "lat": 41.4886592,
+      "lon": -90.435867,
+      "city": "East Moline",
+      "state": "Illinois",
+      "address": "1140 Avenue of the Cities",
+      "name": "Skate City QCA"
+    },
+    {
+      "lat": 40.5423223,
+      "lon": -90.060796,
+      "city": "Canton",
+      "state": "Illinois",
+      "address": "1040 West Hickory Street",
+      "name": "Skateland Canton"
+    },
+    {
+      "lat": 39.92979,
+      "lon": -91.2861,
+      "city": "Quincy",
+      "state": "Illinois",
+      "address": "8000 Broadway St",
+      "name": "Scotties Funspot"
+    },
+    {
+      "lat": 39.7410587,
+      "lon": -89.67743349999999,
+      "city": "Springfield",
+      "state": "Illinois",
+      "address": "1500 Recreation Drive",
+      "name": "Skateland South"
+    },
+    {
+      "lat": 40.0696267,
+      "lon": -88.2528476,
+      "city": "Savoy",
+      "state": "Illinois",
+      "address": "208 West Curtis Rd",
+      "name": "Skateland Savoy"
+    },
+    {
+      "lat": 40.6083145,
+      "lon": -89.4618301,
+      "city": "Morton",
+      "state": "Illinois",
+      "address": "216 South First Ave",
+      "name": "Morton Roller Rink"
+    },
+    {
+      "lat": 38.5300372,
+      "lon": -89.9566755,
+      "city": "Belleville",
+      "state": "Illinois",
+      "address": "1400 West Blvd",
+      "name": "Skate City Belleville"
+    },
+    {
+      "lat": 41.344465,
+      "lon": -86.3144994,
+      "city": "Plymouth",
+      "state": "Indiana",
+      "address": "500 W Madison Street",
+      "name": "Plymouth Skate Center"
+    },
+    {
+      "lat": 39.8361378,
+      "lon": -84.8240182,
+      "city": "Richmond",
+      "state": "Indiana",
+      "address": "475 Commerce Rd",
+      "name": "The Skate"
+    },
+    {
+      "lat": 41.1186991,
+      "lon": -85.14841559999999,
+      "city": "Fort Wayne",
+      "state": "Indiana",
+      "address": "444 Coliseum Blvd W",
+      "name": "Roller Dome North"
+    },
+    {
+      "lat": 40.7577181,
+      "lon": -86.3327216,
+      "city": "Logansport",
+      "state": "Indiana",
+      "address": "2625 East Market Street",
+      "name": "Logansport Skate World"
+    },
+    {
+      "lat": 40.5203433,
+      "lon": -85.65206429999999,
+      "city": "Marion",
+      "state": "Indiana",
+      "address": "4013 South Meridian Street",
+      "name": "Idyl Wyld"
+    },
+    {
+      "lat": 39.8255996,
+      "lon": -86.27396519999999,
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "address": "3902 N Glen Arm Road",
+      "name": "Skateland Roller Skating"
+    },
+    {
+      "lat": 39.51218,
+      "lon": -86.073119,
+      "city": "Franklin",
+      "state": "Indiana",
+      "address": "2680 North Morton Street",
+      "name": "Franklin Skate Club"
+    },
+    {
+      "lat": 39.4331036,
+      "lon": -87.4262443,
+      "city": "Terre Haute",
+      "state": "Indiana",
+      "address": "481 Honey Creek Drive",
+      "name": "Terre Haute Skate World"
+    },
+    {
+      "lat": 49.932673,
+      "lon": -97.12244720000001,
+      "city": "Winnipeg",
+      "state": "Manitoba",
+      "address": "210 Enniskillen Ave",
+      "name": "Wheelies Roller Rink"
+    },
+    {
+      "lat": 45.51445589999999,
+      "lon": -94.1629612,
+      "city": "Saint Cloud",
+      "state": "Minnesota",
+      "address": "3302 Southway Drive",
+      "name": "Skatin' Place"
+    },
+    {
+      "lat": 45.1749339,
+      "lon": -93.34503439999999,
+      "city": "Coon Rapids",
+      "state": "Minnesota",
+      "address": "3075 Coon Rapids Blvd NW",
+      "name": "Cheap Skate Roller Center"
+    },
+    {
+      "lat": 44.7766825,
+      "lon": -93.28342359999999,
+      "city": "Burnsville",
+      "state": "Minnesota",
+      "address": "201 S. River Ridge Circle",
+      "name": "Skateville"
+    },
+    {
+      "lat": 46.8651536,
+      "lon": -96.833888,
+      "city": "Fargo",
+      "state": "North Dakota",
+      "address": "3302 Interstate Blvd South",
+      "name": "Skate City"
+    },
+    {
+      "lat": 43.1545675,
+      "lon": -93.21029469999999,
+      "city": "Mason City",
+      "state": "Iowa",
+      "address": "600 2nd Street NW",
+      "name": "Roller City Mason City"
+    },
+    {
+      "lat": 41.644538,
+      "lon": -93.69521189999999,
+      "city": "Des Moines",
+      "state": "Iowa",
+      "address": "5621 Meredith Drive",
+      "name": "Skateland Des Moines"
+    },
+    {
+      "lat": 41.51085740000001,
+      "lon": -93.6059801,
+      "city": "Des Moines",
+      "state": "Iowa",
+      "address": "10494 County Line Rd",
+      "name": "Skate South"
+    },
+    {
+      "lat": 41.1478267,
+      "lon": -95.92891809999999,
+      "city": "Bellevue",
+      "state": "Nebraska",
+      "address": "1220 Fort Crook Road S",
+      "name": "Skate City Bellevue"
+    },
+    {
+      "lat": 38.78596599999999,
+      "lon": -90.59699580000002,
+      "city": "Saint Peters",
+      "state": "Missouri",
+      "address": "130 Boone Hills Drive",
+      "name": "Great Skate Roller Skating Rink"
+    },
+    {
+      "lat": 38.7605241,
+      "lon": -90.4293988,
+      "city": "Bridgeton",
+      "state": "Missouri",
+      "address": "3754 Pennridge Drive",
+      "name": "Skate City Saint Louis"
+    },
+    {
+      "lat": 38.6886794,
+      "lon": -90.2773488,
+      "city": "Saint Louis",
+      "state": "Missouri",
+      "address": "2700 Kienlen Ave",
+      "name": "Skate King"
+    },
+    {
+      "lat": 38.5216413,
+      "lon": -90.3627319,
+      "city": "Saint Louis",
+      "state": "Missouri",
+      "address": "11703 Baptist Church Road",
+      "name": "Rollercade Roller Skate Center"
+    },
+    {
+      "lat": 39.1757266,
+      "lon": -94.53226509999999,
+      "city": "Kansas City",
+      "state": "Missouri",
+      "address": "4426 NE Winn Road",
+      "name": "Winnwood Skate Center"
+    },
+    {
+      "lat": 37.1201731,
+      "lon": -93.2981388,
+      "city": "Springfield",
+      "state": "Missouri",
+      "address": "5163 S. Campbell Ave",
+      "name": "Springfield Skateland"
+    },
+    {
+      "lat": 37.0627224,
+      "lon": -94.4816567,
+      "city": "Joplin",
+      "state": "Missouri",
+      "address": "2800 East 24th Street",
+      "name": "Roller City Joplin"
+    },
+    {
+      "lat": 39.1197294,
+      "lon": -94.7620764,
+      "city": "Kansas City",
+      "state": "Kansas",
+      "address": "7838 Washington Ave",
+      "name": "Skate City Wyandotte"
+    },
+    {
+      "lat": 39.0161468,
+      "lon": -94.69986999999999,
+      "city": "Merriam",
+      "state": "Kansas",
+      "address": "9800 W 62nd Terrace",
+      "name": "Skate City Shawnee"
+    },
+    {
+      "lat": 38.9396599,
+      "lon": -94.7038298,
+      "city": "Overland Park",
+      "state": "Kansas",
+      "address": "10440 Mastin Street",
+      "name": "Skate City Overland Park"
+    },
+    {
+      "lat": 37.68858335313461,
+      "lon": -97.38857034678327,
+      "city": "Wichita",
+      "state": "Kansas",
+      "address": "312 N West Street",
+      "name": "Carousel Skate Center"
+    },
+    {
+      "lat": 36.3091758,
+      "lon": -95.8474102,
+      "city": "Owasso",
+      "state": "Oklahoma",
+      "address": "10637 N Garnett Road",
+      "name": "Wheels And Thrills"
+    },
+    {
+      "lat": 36.141988,
+      "lon": -96.10535,
+      "city": "Sand Springs",
+      "state": "Oklahoma",
+      "address": "401 E Broadway Court",
+      "name": "Skates Rollertainment"
+    },
+    {
+      "lat": 35.4555063,
+      "lon": -97.40414249999999,
+      "city": "Midwest City",
+      "state": "Oklahoma",
+      "address": "300 Bizzel Ave",
+      "name": "Star Skate"
+    },
+    {
+      "lat": 35.44903559999999,
+      "lon": -97.2656662,
+      "city": "Choctaw",
+      "state": "Oklahoma",
+      "address": "1621 South Choctaw Rd",
+      "name": "Rollerland"
+    },
+    {
+      "lat": 35.5072454,
+      "lon": -97.61714339999999,
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "address": "5800 NW 36th Street",
+      "name": "Skate Galaxy OKC"
+    },
+    {
+      "lat": 35.37557706114375,
+      "lon": -97.41287950197855,
+      "city": "Moore",
+      "state": "Oklahoma",
+      "address": "527 NW 1st Street",
+      "name": "Skate Moore Skate Center"
+    },
+    {
+      "lat": 35.1095438,
+      "lon": -101.9183352,
+      "city": "Amarillo",
+      "state": "Texas",
+      "address": "9721 Coulter Street S",
+      "name": "Skate Plex Amarillo"
+    },
+    {
+      "lat": 34.190517,
+      "lon": -101.702195,
+      "city": "Plainview",
+      "state": "Texas",
+      "address": "921 Ash",
+      "name": "Plainview Roller Rink"
+    },
+    {
+      "lat": 33.55152,
+      "lon": -101.93692,
+      "city": "Lubbock",
+      "state": "Texas",
+      "address": "4701 W Loop 289",
+      "name": "Skate Ranch"
+    },
+    {
+      "lat": 32.0027,
+      "lon": -102.11001,
+      "city": "Midland",
+      "state": "Texas",
+      "address": "1004 A Andrews Hwy",
+      "name": "KC's Nutty Roller"
+    },
+    {
+      "lat": 32.852805,
+      "lon": -97.2648646,
+      "city": "Fort Worth",
+      "state": "Texas",
+      "address": "5817 Denton Hwy",
+      "name": "RollerWold NorthEast"
+    },
+    {
+      "lat": 33.02591,
+      "lon": -96.991699,
+      "city": "Lewisville",
+      "state": "Texas",
+      "address": "1408 S State Hwy 121",
+      "name": "Interskate Roller Rink"
+    },
+    {
+      "lat": 33.0392,
+      "lon": -96.70872,
+      "city": "Plano",
+      "state": "Texas",
+      "address": "3200 Thunderbird Ln",
+      "name": "Thunderbird"
+    },
+    {
+      "lat": 32.9102857,
+      "lon": -96.6931668,
+      "city": "Garland",
+      "state": "Texas",
+      "address": "413 S Yale Dr",
+      "name": "Westlake Skate Center"
+    },
+    {
+      "lat": 33.670881,
+      "lon": -96.59631929999999,
+      "city": "Sherman",
+      "state": "Texas",
+      "address": "3100 Versaille Dr",
+      "name": "Sherman Skateland"
+    },
+    {
+      "lat": 32.695942,
+      "lon": -96.77106479999999,
+      "city": "Dallas",
+      "state": "Texas",
+      "address": "2939 E Ledbetter Dr",
+      "name": "Southern Skates Roller Rink"
+    },
+    {
+      "lat": 32.6699052,
+      "lon": -96.9070785,
+      "city": "Duncanville",
+      "state": "Texas",
+      "address": "1206 N Duncanville Rd",
+      "name": "Redbird Skateland"
+    },
+    {
+      "lat": 32.7520496,
+      "lon": -97.4462063,
+      "city": "White Settlement",
+      "state": "Texas",
+      "address": "7628 Corina Dr",
+      "name": "Silver Wheel Skating"
+    },
+    {
+      "lat": 32.7174447,
+      "lon": -97.0443185,
+      "city": "Grand Prairie",
+      "state": "Texas",
+      "address": "1900 S Great Southwest Pkwy",
+      "name": "Forum Roller World"
+    },
+    {
+      "lat": 32.6570588,
+      "lon": -97.1319034,
+      "city": "Arlington",
+      "state": "Texas",
+      "address": "5515 South Cooper Street",
+      "name": "Arlington Skatium"
+    },
+    {
+      "lat": 32.71379,
+      "lon": -94.94487,
+      "city": "Gilmer",
+      "state": "Texas",
+      "address": "1152 US Hwy 271 S",
+      "name": "Gilmer Starplex"
+    },
+    {
+      "lat": 31.10939,
+      "lon": -97.35444,
+      "city": "Temple",
+      "state": "Texas",
+      "address": "814 North 31st Street",
+      "name": "Wheels Family Skating"
+    },
+    {
+      "lat": 30.3734303,
+      "lon": -97.73062329999999,
+      "city": "Austin",
+      "state": "Texas",
+      "address": "8822 McCann Drive",
+      "name": "Pins And Wheels"
+    },
+    {
+      "lat": 30.151904,
+      "lon": -97.83466,
+      "city": "Austin",
+      "state": "Texas",
+      "address": "11600 Menchaca Road",
+      "name": "Austin Roller Rink"
+    },
+    {
+      "lat": 29.4974698,
+      "lon": -98.6197181,
+      "city": "San Antonio",
+      "state": "Texas",
+      "address": "6807 Bandera Road",
+      "name": "Car-Vel Skate Center Leon Valley"
+    },
+    {
+      "lat": 29.4948246,
+      "lon": -98.4968523,
+      "city": "San Antonio",
+      "state": "Texas",
+      "address": "223 Recoleta Road",
+      "name": "The Rollercade"
+    },
+    {
+      "lat": 30.3402,
+      "lon": -95.42198,
+      "city": "Conroe",
+      "state": "Texas",
+      "address": "1695 N. Loop 336 East",
+      "name": "Rainbow Roller Rink"
+    },
+    {
+      "lat": 30.00554,
+      "lon": -95.46807,
+      "city": "Houston",
+      "state": "Texas",
+      "address": "2580 Cypress Creek Pkwy St",
+      "name": "180 Rodeo Rink"
+    },
+    {
+      "lat": 29.855018,
+      "lon": -95.643496,
+      "city": "Houston",
+      "state": "Texas",
+      "address": "5210 Hwy 6 N",
+      "name": "Bear Creek Roller Rink"
+    },
+    {
+      "lat": 29.7476261,
+      "lon": -95.607558,
+      "city": "Houston",
+      "state": "Texas",
+      "address": "1820 S Dairy Asford",
+      "name": "Dairy Ashford Roller Rink"
+    },
+    {
+      "lat": 29.5437838,
+      "lon": -95.1328048,
+      "city": "Webster",
+      "state": "Texas",
+      "address": "1500 N Texas Ave",
+      "name": "FunCity Sk8"
+    },
+    {
+      "lat": 41.1698673,
+      "lon": -104.8189142,
+      "city": "Cheyenne",
+      "state": "Wyoming",
+      "address": "5506 Weaver Road",
+      "name": "Roller City Cheyenne"
+    },
+    {
+      "lat": 40.5836989,
+      "lon": -105.0492475,
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "address": "324 S Link Lane",
+      "name": "Rollerland Skate Center"
+    },
+    {
+      "lat": 39.91578519999999,
+      "lon": -104.9905358,
+      "city": "Westminster",
+      "state": "Colorado",
+      "address": "200 W 121st Ave",
+      "name": "Skate City Westminster"
+    },
+    {
+      "lat": 39.813409,
+      "lon": -105.0547428,
+      "city": "Arvada",
+      "state": "Colorado",
+      "address": "5353 W 64th Ave",
+      "name": "Skate City Arvada"
+    },
+    {
+      "lat": 39.7122904,
+      "lon": -105.0726901,
+      "city": "Lakewood",
+      "state": "Colorado",
+      "address": "6803 W Alameda Ave",
+      "name": "Roller City Lakewood"
+    },
+    {
+      "lat": 39.654497,
+      "lon": -104.8123042,
+      "city": "Aurora",
+      "state": "Colorado",
+      "address": "15100 E Girard Ave",
+      "name": "Skate City Aurora"
+    },
+    {
+      "lat": 39.6114113,
+      "lon": -105.0356815,
+      "city": "Littleton",
+      "state": "Colorado",
+      "address": "5801 S Lowell Way",
+      "name": "Skate City Littleton"
+    },
+    {
+      "lat": 38.86069179434838,
+      "lon": -104.75784966053806,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "1920 N Academy Blvd",
+      "name": "Skate City Academy"
+    },
+    {
+      "lat": 38.8962157,
+      "lon": -104.7461166,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "address": "4575 Austin Bluffs Pkwy",
+      "name": "Skate City Austin Bluffs"
+    },
+    {
+      "lat": 38.2892236,
+      "lon": -104.6000812,
+      "city": "Pueblo",
+      "state": "Colorado",
+      "address": "615 Hunter Drive",
+      "name": "Skate City Pueblo"
+    },
+    {
+      "lat": 35.0763133,
+      "lon": -106.5118059,
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "address": "400 Paisano Street NE",
+      "name": "Roller King Skate-O-Mania"
+    },
+    {
+      "lat": 34.4153632,
+      "lon": -103.1999431,
+      "city": "Clovis",
+      "state": "New Mexico",
+      "address": "1721 Wallace Street",
+      "name": "Roller World NM"
+    },
+    {
+      "lat": 40.5846694,
+      "lon": -111.8973812,
+      "city": "Sandy",
+      "state": "Utah",
+      "address": "9151 S 255 W",
+      "name": "Classic Fun Center"
+    },
+    {
+      "lat": 33.5785825,
+      "lon": -112.1537927,
+      "city": "Glendale",
+      "state": "Arizona",
+      "address": "10054 N 43rd Ave",
+      "name": "Great Skate"
+    },
+    {
+      "lat": 33.3925402,
+      "lon": -111.8309211,
+      "city": "Mesa",
+      "state": "Arizona",
+      "address": "7 E Southern Ave",
+      "name": "USA's Skateland Mesa"
+    },
+    {
+      "lat": 33.31972100000001,
+      "lon": -111.8614232,
+      "city": "Chandler",
+      "state": "Arizona",
+      "address": "1101 W Ray Road",
+      "name": "USA's Skateland Chandler"
+    },
+    {
+      "lat": 32.205704,
+      "lon": -110.8217348,
+      "city": "Tucson",
+      "state": "Arizona",
+      "address": "7980 E 22nd Street",
+      "name": "Skate Country"
+    },
+    {
+      "lat": 47.7233136,
+      "lon": -116.7944035,
+      "city": "Coeur d'Alene",
+      "state": "Idaho",
+      "address": "5685 North Pioneer Drive",
+      "name": "Skate Plaza"
+    },
+    {
+      "lat": 48.942106,
+      "lon": -122.452119,
+      "city": "Lynden",
+      "state": "Washington",
+      "address": "421 Judson Street",
+      "name": "Lynden Skateway"
+    },
+    {
+      "lat": 48.4676555,
+      "lon": -122.3310161,
+      "city": "Burlington",
+      "state": "Washington",
+      "address": "390 Cedar Street",
+      "name": "Skagit Skate"
+    },
+    {
+      "lat": 48.2994735,
+      "lon": -122.6549564,
+      "city": "Oak Harbor",
+      "state": "Washington",
+      "address": "98 NE Barron Drive",
+      "name": "Roller Barn"
+    },
+    {
+      "lat": 47.8166287,
+      "lon": -122.3172731,
+      "city": "Lynnwood",
+      "state": "Washington",
+      "address": "6210 200th Street SW",
+      "name": "Lynnwood Bowl and Skate"
+    },
+    {
+      "lat": 47.51611500000001,
+      "lon": -122.356145,
+      "city": "Seattle",
+      "state": "Washington",
+      "address": "9646 17th Ave SW",
+      "name": "Southgate Roller Rink"
+    },
+    {
+      "lat": 47.2946918,
+      "lon": -122.3143042,
+      "city": "Federal Way",
+      "state": "Washington",
+      "address": "34222 Pacific Hwy S",
+      "name": "El Centro Skate Rink"
+    },
+    {
+      "lat": 46.9749945,
+      "lon": -123.8735151,
+      "city": "Hoquiam",
+      "state": "Washington",
+      "address": "2112 Simpson Ave",
+      "name": "Harborena Roller Skating"
+    },
+    {
+      "lat": 47.7603454,
+      "lon": -117.410246,
+      "city": "Spokane",
+      "state": "Washington",
+      "address": "11309 N Mayfair Road",
+      "name": "Pattison's North"
+    },
+    {
+      "lat": 46.277665,
+      "lon": -119.2826209,
+      "city": "Richland",
+      "state": "Washington",
+      "address": "849 Stevens Dr",
+      "name": "Rollarena Skating Center"
+    },
+    {
+      "lat": 47.430397051622755,
+      "lon": -119.31452466512951,
+      "city": "Soap Lake",
+      "state": "Washington",
+      "address": "48 Moses Lake Ave NW",
+      "name": "Neon Skateway"
+    },
+    {
+      "lat": 45.473857,
+      "lon": -122.66188,
+      "city": "Portland",
+      "state": "Oregon",
+      "address": "7805 SE Oaks Park Way",
+      "name": "Oaks Park Roller Rink"
+    },
+    {
+      "lat": 43.6499008,
+      "lon": -116.2463594,
+      "city": "Boise",
+      "state": "Idaho",
+      "address": "4712 W State Street",
+      "name": "Treasure Valley Skate"
+    },
+    {
+      "lat": 39.5358951,
+      "lon": -119.8073361,
+      "city": "Reno",
+      "state": "Nevada",
+      "address": "515 E 7th Street",
+      "name": "Roller Kingdom"
+    },
+    {
+      "lat": 36.228402,
+      "lon": -115.2236548,
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "address": "3901 N Rancho Drive",
+      "name": "Crystal Palace Rancho"
+    },
+    {
+      "lat": 36.1191251,
+      "lon": -115.0727909,
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "address": "4680 Boulder Hwy",
+      "name": "Skate Rock City"
+    },
+    {
+      "lat": 40.88223,
+      "lon": -123.99205,
+      "city": "Blue Lake",
+      "state": "California",
+      "address": "312 S Railroad Ave",
+      "name": "Blue Lake Roller Rink"
+    },
+    {
+      "lat": 40.587983,
+      "lon": -122.382009,
+      "city": "Redding",
+      "state": "California",
+      "address": "735 Auditorium Drive",
+      "name": "Viking Skate Country"
+    },
+    {
+      "lat": 39.7173124,
+      "lon": -121.8038998,
+      "city": "Chico",
+      "state": "California",
+      "address": "2465 Carmichael Dr",
+      "name": "Funland Chico"
+    },
+    {
+      "lat": 38.73179,
+      "lon": -121.29007,
+      "city": "Roseville",
+      "state": "California",
+      "address": "889 Riverside Ave",
+      "name": "Roller King"
+    },
+    {
+      "lat": 38.6749854,
+      "lon": -121.2649552,
+      "city": "Citrus Heights",
+      "state": "California",
+      "address": "6001 Sunrise Vista Drive",
+      "name": "Sunrise Rollerland"
+    },
+    {
+      "lat": 38.5713633,
+      "lon": -121.3373808,
+      "city": "Sacramento",
+      "state": "California",
+      "address": "2900 Bradshaw Rd",
+      "name": "The Rink Sacramento"
+    },
+    {
+      "lat": 38.009456,
+      "lon": -121.822898,
+      "city": "Antioch",
+      "state": "California",
+      "address": "1201 W 10th Street",
+      "name": "Paradise Skate Roller Rink"
+    },
+    {
+      "lat": 38.3514376,
+      "lon": -122.7090568,
+      "city": "Rohnert Park",
+      "state": "California",
+      "address": "6100 Commerce Blvd",
+      "name": "Cal Skate of Rohnert Park"
+    },
+    {
+      "lat": 37.7747073,
+      "lon": -122.4306925,
+      "city": "San Francisco",
+      "state": "California",
+      "address": "554 Fillmore Street",
+      "name": "Church of 8 Wheels"
+    },
+    {
+      "lat": 37.7851819,
+      "lon": -121.9824984,
+      "city": "San Ramon",
+      "state": "California",
+      "address": "2701 Hooper Dr",
+      "name": "The Golden Skate"
+    },
+    {
+      "lat": 36.59482,
+      "lon": -121.86239,
+      "city": "Monterey",
+      "state": "California",
+      "address": "2004 Fairground Rd",
+      "name": "Monterey Skates"
+    },
+    {
+      "lat": 36.7996967,
+      "lon": -119.7175174,
+      "city": "Clovis",
+      "state": "California",
+      "address": "2881 Peach Ave",
+      "name": "United Skates Clovis"
+    },
+    {
+      "lat": 36.3258157,
+      "lon": -119.3401294,
+      "city": "Visalia",
+      "state": "California",
+      "address": "520 S Linwood Street",
+      "name": "Roller Towne"
+    },
+    {
+      "lat": 35.3391006,
+      "lon": -119.0069962,
+      "city": "Bakersfield",
+      "state": "California",
+      "address": "415 Ming Ave",
+      "name": "Skateland Bakersfield"
+    },
+    {
+      "lat": 34.144625,
+      "lon": -118.269884,
+      "city": "Glendale",
+      "state": "California",
+      "address": "5110 San Fernando Road",
+      "name": "Moonlight Rollerway"
+    },
+    {
+      "lat": 34.0290286,
+      "lon": -117.6905019,
+      "city": "Chino",
+      "state": "California",
+      "address": "12356 Central Ave",
+      "name": "Skate Express"
+    },
+    {
+      "lat": 34.03316909999999,
+      "lon": -117.3234424,
+      "city": "Grand Terrace",
+      "state": "California",
+      "address": "22080 Commerce Way",
+      "name": "Cal Skate GT"
+    },
+    {
+      "lat": 34.257592,
+      "lon": -119.216022,
+      "city": "Ventura",
+      "state": "California",
+      "address": "1720 Mesa Verde Ave",
+      "name": "Skating Plus"
+    },
+    {
+      "lat": 33.756461,
+      "lon": -118.110267,
+      "city": "Long Beach",
+      "state": "California",
+      "address": "6400 E Pacific Coast Hwy",
+      "name": "Pigeon's Roller Rink"
+    },
+    {
+      "lat": 33.7892886,
+      "lon": -117.8324864,
+      "city": "Orange",
+      "state": "California",
+      "address": "175 N Wayfield Street",
+      "name": "Holiday Skate Center"
+    },
+    {
+      "lat": 33.7176581,
+      "lon": -117.9700997,
+      "city": "Fountain Valley",
+      "state": "California",
+      "address": "9105 Recreation Circle",
+      "name": "Fountain Valley Skating Center"
+    },
+    {
+      "lat": 32.727879,
+      "lon": -117.067019,
+      "city": "San Diego",
+      "state": "California",
+      "address": "6060 Federal Blvd",
+      "name": "Ringer's Roller Rink"
+    },
+    {
+      "lat": 32.7836889,
+      "lon": -117.1711389,
+      "city": "San Diego",
+      "state": "California",
+      "address": "6907 Linda Vista Rd",
+      "name": "Skate World"
+    },
+    {
+      "lat": 21.3193214,
+      "lon": -158.093791,
+      "city": "Kapolei",
+      "state": "Hawaii",
+      "address": "1057 Opakapaka Street",
+      "name": "Kapolei Inline Hockey Arenas"
+    },
+    {
+      "lat": 32.92102439261898,
+      "lon": -85.94732159867232,
+      "city": "Alexander City",
+      "state": "Alabama",
+      "address": "693 Airport Dr",
+      "name": "Idle Time Family"
+    },
+    {
+      "lat": 33.34477503165134,
+      "lon": -86.9313916632209,
+      "city": "Bessemer",
+      "state": "Alabama",
+      "address": "2474 Morgan Rd",
+      "name": "Roller Motion"
+    },
+    {
+      "lat": 31.91889666000806,
+      "lon": -85.14571197811267,
+      "city": "Eufaula",
+      "state": "Alabama",
+      "address": "1229 N Eufaula Ave",
+      "name": "Lake Eufaula Sports Park"
+    },
+    {
+      "lat": 34.83465898158337,
+      "lon": -87.63052354708228,
+      "city": "Florence",
+      "state": "Alabama",
+      "address": "241 Azalea Dr",
+      "name": "Skate Center"
+    },
+    {
+      "lat": 33.97898111430961,
+      "lon": -86.00610526005357,
+      "city": "Gadsden",
+      "state": "Alabama",
+      "address": "6494 Whorton Bend Rd",
+      "name": "Merry Go Round Skate Center"
+    },
+    {
+      "lat": 30.671073534352445,
+      "lon": -88.19091826282944,
+      "city": "Mobile",
+      "state": "Alabama",
+      "address": "950 Hillcrest Rd",
+      "name": "Sunshine Skate Mobile"
+    },
+    {
+      "lat": 33.601910263273155,
+      "lon": -85.83105675263955,
+      "city": "Oxford",
+      "state": "Alabama",
+      "address": "130 Elm St",
+      "name": "Sunshine Skate Oxford"
+    },
+    {
+      "lat": 34.49259936874195,
+      "lon": -87.7313086624265,
+      "city": "Russellville",
+      "state": "Alabama",
+      "address": "801 Cross Ave SE",
+      "name": "Russelleville Skateland"
+    },
+    {
+      "lat": 33.13588235979032,
+      "lon": -85.35417728783804,
+      "city": "Roanoke",
+      "state": "Alabama",
+      "address": "2116 US-431",
+      "name": "Turnaround Christian Center"
+    },
+    {
+      "lat": 30.80899996612359,
+      "lon": -88.07180199867231,
+      "city": "Saraland",
+      "state": "Alabama",
+      "address": "531 Saraland Blvd S, Saraland, AL 36571",
+      "name": "Rambo's Skateland"
+    },
+    {
+      "lat": 33.61491502104526,
+      "lon": -86.61169698147563,
+      "city": "Trussville",
+      "state": "Alabama",
+      "address": "411 Watterson Lane",
+      "name": "Trussville Playstation"
+    },
+    {
+      "lat": 33.153241576110396,
+      "lon": -87.52477288518051,
+      "city": "Tuscaloosa",
+      "state": "Alabama",
+      "address": "5900 McFarland Blvd E",
+      "name": "Super Skate Tuscaloosa"
+    },
+    {
+      "lat": 32.55556689117746,
+      "lon": -86.18886668972009,
+      "city": "Wetumpka",
+      "state": "Alabama",
+      "address": "88 Red Eagle Parkway",
+      "name": "Skate Zone 2000"
+    },
+    {
+      "lat": 61.1473367914564,
+      "lon": -149.85727133491815,
+      "city": "Anchorage",
+      "state": "Alaska",
+      "address": "8100 Homer Dr",
+      "name": "Dimond"
+    },
+    {
+      "lat": 36.354176899645694,
+      "lon": -94.18181032443607,
+      "city": "Bentonville",
+      "state": "Arkansas",
+      "address": "1615 Moberly Ln",
+      "name": "Great Day"
+    },
+    {
+      "lat": 34.96206643217127,
+      "lon": -92.03451033617299,
+      "city": "Cabot",
+      "state": "Arkansas",
+      "address": "2020 S 2nd St",
+      "name": "Joyland"
+    },
+    {
+      "lat": 36.2578976539214,
+      "lon": -93.09165692011348,
+      "city": "Harrison",
+      "state": "Arkansas",
+      "address": "2204 AR 7",
+      "name": "Skate Mania"
+    },
+    {
+      "lat": 35.2770855924109,
+      "lon": -93.11911826259363,
+      "city": "Russellville",
+      "state": "Arkansas",
+      "address": "1102 E 2nd St",
+      "name": "Skate Station"
+    },
+    {
+      "lat": 35.19668221966965,
+      "lon": -91.7308804456644,
+      "city": "Searcy",
+      "state": "Arkansas",
+      "address": "3579 AR-367",
+      "name": "Searcy Skate"
+    },
+    {
+      "lat": 39.96015201863739,
+      "lon": -104.8386443893084,
+      "city": "Brighton",
+      "state": "Colorado",
+      "address": "14501 Brighton Rd",
+      "name": "Wagon Wheel"
+    },
+    {
+      "lat": 38.59423245407966,
+      "lon": -75.58891309627472,
+      "city": "Laurel",
+      "state": "Delaware",
+      "address": "28393 Seaford Rd",
+      "name": "Skateworld"
+    },
+    {
+      "lat": 27.46856628538687,
+      "lon": -82.56414713969706,
+      "city": "Bradenton",
+      "state": "Florida",
+      "address": "3611 3rd Street West",
+      "name": "Astro Skating Center"
+    },
+    {
+      "lat": 30.45057507960854,
+      "lon": -86.62209881957386,
+      "city": "Fort Walton Beach",
+      "state": "Florida",
+      "address": "202 Racetrack Rd NW",
+      "name": "Bongo's Fun Center"
+    },
+    {
+      "lat": 30.183396887727362,
+      "lon": -82.69277329681988,
+      "city": "Lake City",
+      "state": "Florida",
+      "address": "357 NW Hall of Fame Drive",
+      "name": "Skating Palace"
+    },
+    {
+      "lat": 28.05369870994403,
+      "lon": -81.94041737406481,
+      "city": "Lakeland",
+      "state": "Florida",
+      "address": "911 N Lake Parker Ave",
+      "name": "Skateworld"
+    },
+    {
+      "lat": 28.81523550729328,
+      "lon": -81.87450843068852,
+      "city": "Leesburg",
+      "state": "Florida",
+      "address": "424 N Palmetto St",
+      "name": "Skate World"
+    },
+    {
+      "lat": 28.135742876747443,
+      "lon": -80.64386891957388,
+      "city": "Melbourne",
+      "state": "Florida",
+      "address": "1488 Aurora Rd",
+      "name": "Galaxy"
+    },
+    {
+      "lat": 30.654760620448837,
+      "lon": -87.04479227591833,
+      "city": "Milton",
+      "state": "Florida",
+      "address": "6056 Stewart St",
+      "name": "Weber's Skate World"
+    },
+    {
+      "lat": 30.139198989458084,
+      "lon": -85.59224049867231,
+      "city": "Panama City",
+      "state": "Florida",
+      "address": "5413 Hickory St",
+      "name": "Skater's Choice Panama City"
+    },
+    {
+      "lat": 28.434781997011186,
+      "lon": -82.54361263357237,
+      "city": "Spring Hill",
+      "state": "Florida",
+      "address": "10451 County Line Rd",
+      "name": "Locomo Skating"
+    },
+    {
+      "lat": 27.999453114912182,
+      "lon": -82.56320215872162,
+      "city": "Tampa",
+      "state": "Florida",
+      "address": "7510 Paula Drive",
+      "name": "SkateWorld Tampa"
+    },
+    {
+      "lat": 28.14952893319774,
+      "lon": -82.7428144182409,
+      "city": "Tarpon Springs",
+      "state": "Florida",
+      "address": "875 Cypress St",
+      "name": "Astro Skating Center"
+    },
+    {
+      "lat": 33.94156250436238,
+      "lon": -83.32087225050086,
+      "city": "Athens",
+      "state": "Georgia",
+      "address": "3030 Cherokee Rd",
+      "name": "Fun Galaxy Athens"
+    },
+    {
+      "lat": 33.80835079524617,
+      "lon": -84.36792148913084,
+      "city": "Atlanta",
+      "state": "Georgia",
+      "address": "1874 Piedmont Ave",
+      "name": "Roller Fit"
+    },
+    {
+      "lat": 30.903700722524025,
+      "lon": -84.58417103345744,
+      "city": "Bainbridge",
+      "state": "Georgia",
+      "address": "725 Wright Street",
+      "name": "Skate Towne of Bainbridge"
+    },
+    {
+      "lat": 34.017032428048076,
+      "lon": -85.19763858518048,
+      "city": "Cedartown",
+      "state": "Georgia",
+      "address": "2271 Rockmart Hwy",
+      "name": "Fun Wheels Skating Center"
+    },
+    {
+      "lat": 32.54036088054217,
+      "lon": -84.96829016458972,
+      "city": "Columbus",
+      "state": "Georgia",
+      "address": "1683 Whittlesey Rd",
+      "name": "Hollywood Connection"
+    },
+    {
+      "lat": 30.833383315167563,
+      "lon": -81.9937007928476,
+      "city": "Folkston",
+      "state": "Georgia",
+      "address": "660 Kingsland Dr",
+      "name": "Gottogo Skatin'"
+    },
+    {
+      "lat": 34.95948146522248,
+      "lon": -85.25816195634444,
+      "city": "Fort Oglethorpe",
+      "state": "Georgia",
+      "address": "2076 Lafayette Rd",
+      "name": "Fort Lake Skating"
+    },
+    {
+      "lat": 32.99210796695284,
+      "lon": -83.56626384522981,
+      "city": "Gray",
+      "state": "Georgia",
+      "address": "4151 Gray Hwy",
+      "name": "Gray-8-Skate"
+    },
+    {
+      "lat": 33.30503517504824,
+      "lon": -83.95763454682914,
+      "city": "Jackson",
+      "state": "Georgia",
+      "address": "129 Stark Rd",
+      "name": "Fun Galaxy"
+    },
+    {
+      "lat": 33.015691886425444,
+      "lon": -85.10261286827038,
+      "city": "LaGrange",
+      "state": "Georgia",
+      "address": "3028 W Point Rd",
+      "name": "Turnaround Christian Center"
+    },
+    {
+      "lat": 33.04849112333893,
+      "lon": -85.11556953973479,
+      "city": "LaGrange",
+      "state": "Georgia",
+      "address": "305 Old Roanoke Rd",
+      "name": "Red's 2 Skate Center"
+    },
+    {
+      "lat": 32.753946279228835,
+      "lon": -83.66021762039853,
+      "city": "Macon",
+      "state": "Georgia",
+      "address": "5335 Hawkinsville Rd",
+      "name": "Level Up Family Entertainment"
+    },
+    {
+      "lat": 33.1190355602274,
+      "lon": -83.25815693121325,
+      "city": "Milledgeville",
+      "state": "Georgia",
+      "address": "3021 Heritage Pl",
+      "name": "Roll Call"
+    },
+    {
+      "lat": 31.171824531171417,
+      "lon": -83.74890272009863,
+      "city": "Moultrie",
+      "state": "Georgia",
+      "address": "2724 Quitman Hwy",
+      "name": "Freckles Skate Center"
+    },
+    {
+      "lat": 34.29662991291314,
+      "lon": -85.1113865293608,
+      "city": "Rome",
+      "state": "Georgia",
+      "address": "2606 Calhoun Rd NE",
+      "name": "Skater Zone"
+    },
+    {
+      "lat": 33.40908748948806,
+      "lon": -84.66870524019726,
+      "city": "Sharpsburg",
+      "state": "Georgia",
+      "address": "55 Thomas Grace Annex",
+      "name": "Starlite Skating Center"
+    },
+    {
+      "lat": 30.84909509686575,
+      "lon": -83.9464991624265,
+      "city": "Thomasville",
+      "state": "Georgia",
+      "address": "2408 East Pinetree Blvd",
+      "name": "Roll-A-Rink Corporation"
+    },
+    {
+      "lat": 30.881421431161957,
+      "lon": -83.29197389350777,
+      "city": "Valdosta",
+      "state": "Georgia",
+      "address": "3124 N Oak St Extension",
+      "name": "Skate & Play"
+    },
+    {
+      "lat": 32.642009240072476,
+      "lon": -83.63947856613137,
+      "city": "Warner Robins",
+      "state": "Georgia",
+      "address": "622 Greenbriar Rd",
+      "name": "Olympia Skate Center"
+    },
+    {
+      "lat": 40.77441684665308,
+      "lon": -91.10250458518047,
+      "city": "Burlington",
+      "state": "Iowa",
+      "address": "8989 Koestner St",
+      "name": "Kenny's Roller Ranch"
+    },
+    {
+      "lat": 42.02963550187434,
+      "lon": -91.63173161245942,
+      "city": "Cedar Rapids",
+      "state": "Iowa",
+      "address": "5100 Northland Ave NE",
+      "name": "Super Skate"
+    },
+    {
+      "lat": 42.47893310480153,
+      "lon": -96.34814600237719,
+      "city": "Sioux City",
+      "state": "Iowa",
+      "address": "4500 Stone Ave",
+      "name": "Rollerama"
+    },
+    {
+      "lat": 41.64193146699477,
+      "lon": -91.50909391804103,
+      "city": "Iowa City",
+      "state": "Iowa",
+      "address": "1676 Sycamore St",
+      "name": "Glide & Go Skate City"
+    },
+    {
+      "lat": 43.06631485270879,
+      "lon": -92.3226463160984,
+      "city": "North Hampton",
+      "state": "Iowa",
+      "address": "710 N Sherman Ave",
+      "name": "Crystal Ball Roller Rink"
+    },
+    {
+      "lat": 39.28662387918364,
+      "lon": -76.50343182937118,
+      "city": "Dundalk",
+      "state": "Maryland",
+      "address": "1113 North Point Road",
+      "name": "Skateland North Point"
+    },
+    {
+      "lat": 39.02626189782065,
+      "lon": -76.69256533724945,
+      "city": "Crofton",
+      "state": "Maryland",
+      "address": "1082 Route 3 South",
+      "name": "Skate Zone Crofton"
+    },
+    {
+      "lat": 39.646618570179655,
+      "lon": -77.69730825005,
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "address": "800 Park Rd",
+      "name": "Starland"
+    },
+    {
+      "lat": 39.61709010033393,
+      "lon": -77.76701400096846,
+      "city": "Hagerstown",
+      "state": "Maryland",
+      "address": "17333 Virginia Ave",
+      "name": "Turner's Skate Palace"
+    },
+    {
+      "lat": 39.549039900387704,
+      "lon": -76.83928079066077,
+      "city": "Upperco",
+      "state": "Maryland",
+      "address": "15500 Hanover Pike",
+      "name": "Coppermine Sportsman's Hall"
+    },
+    {
+      "lat": 38.62068969010624,
+      "lon": -76.89834403304371,
+      "city": "Waldorf",
+      "state": "Maryland",
+      "address": "3410 Leonardtown Rd",
+      "name": "Waldorf Skating Center"
+    },
+    {
+      "lat": 40.73797696688084,
+      "lon": -75.04078743084814,
+      "city": "Washington",
+      "state": "New Jersey",
+      "address": "2121 Route 57",
+      "name": "Villa Roller Rink"
+    },
+    {
+      "lat": 39.917974474839426,
+      "lon": -74.97679075809765,
+      "city": "Cherry Hill",
+      "state": "New Jersey",
+      "address": "664 Deer Rd",
+      "name": "Cherry Hill Skating"
+    },
+    {
+      "lat": 40.54437552809701,
+      "lon": -74.37167140686456,
+      "city": "Metuchen",
+      "state": "New Jersey",
+      "address": "215 Durham Ave",
+      "name": "Live Love Skate Academy"
+    },
+    {
+      "lat": 40.78774336370215,
+      "lon": -74.3890596293608,
+      "city": "Florham Park",
+      "state": "New Jersey",
+      "address": "192 Ridgedale Avenue",
+      "name": "Florham Park Roller Rink"
+    },
+    {
+      "lat": 40.51176098099697,
+      "lon": -75.05788630409435,
+      "city": "Frenchtown",
+      "state": "New Jersey",
+      "address": "2998 Daniel Bray Hwy",
+      "name": "Frenchtown Roller Rink"
+    },
+    {
+      "lat": 40.54658702366904,
+      "lon": -74.30169238133816,
+      "city": "Woodbridge",
+      "state": "New Jersey",
+      "address": "600 Main Street",
+      "name": "Woodbridge Community Center"
+    },
+    {
+      "lat": 39.45957590219239,
+      "lon": -75.206901454492,
+      "city": "Bridgeton",
+      "state": "New Jersey",
+      "address": "1748 Burlington Rd",
+      "name": "Skate 2000"
+    },
+    {
+      "lat": 41.36162339533843,
+      "lon": -74.28630910136737,
+      "city": "Chester",
+      "state": "New York",
+      "address": "109 Brookside Ave",
+      "name": "The Castle Fun Center"
+    },
+    {
+      "lat": 42.781588499434136,
+      "lon": -73.74459906162458,
+      "city": "Cohoes",
+      "state": "New York",
+      "address": "1085 New Loudon Road",
+      "name": "Guptill's Arena"
+    },
+    {
+      "lat": 42.330288799865876,
+      "lon": -78.45962399999998,
+      "city": "Franklinville",
+      "state": "New York",
+      "address": "70 South Main St",
+      "name": "Skateland of Franklinville"
+    },
+    {
+      "lat": 43.15369025582295,
+      "lon": -78.66668309281395,
+      "city": "Lockport",
+      "state": "New York",
+      "address": "1109 Lincoln Ave",
+      "name": "Rainbow Skateland"
+    },
+    {
+      "lat": 42.44845412095496,
+      "lon": -75.0298156039737,
+      "city": "Oneonta",
+      "state": "New York",
+      "address": "5185 State Hwy 23",
+      "name": "Interskate 88"
+    },
+    {
+      "lat": 41.893302073028636,
+      "lon": -73.97100156538573,
+      "city": "Ulster Park",
+      "state": "New York",
+      "address": "365 Rte 9W",
+      "name": "Wood'n Wheel"
+    },
+    {
+      "lat": 43.343259438973476,
+      "lon": -73.68575700391634,
+      "city": "Queensbury",
+      "state": "New York",
+      "address": "1035 US 9",
+      "name": "The Fun Spot"
+    },
+    {
+      "lat": 43.26355685685998,
+      "lon": -77.6443478269836,
+      "city": "Rochester",
+      "state": "New York",
+      "address": "675 Ling Rd",
+      "name": "Horizon Fun FX"
+    },
+    {
+      "lat": 42.103740217433874,
+      "lon": -75.99293192697561,
+      "city": "Vestal",
+      "state": "New York",
+      "address": "3401 Vestal Rd",
+      "name": "Skate Estate"
+    },
+    {
+      "lat": 42.12773412625049,
+      "lon": -77.92064044232787,
+      "city": "Wellsville",
+      "state": "New York",
+      "address": "3438 Baldwin Rd",
+      "name": "Funland Skate Center"
+    },
+    {
+      "lat": 35.39319102989188,
+      "lon": -80.198037954492,
+      "city": "Albemarle",
+      "state": "North Carolina",
+      "address": "2223 US 52 Hwy",
+      "name": "Sk8 City and Recreation"
+    },
+    {
+      "lat": 36.07572041649798,
+      "lon": -79.44788200435286,
+      "city": "Burlington",
+      "state": "North Carolina",
+      "address": "605 Chapel Hill Rd",
+      "name": "Roll-A-Bout"
+    },
+    {
+      "lat": 36.02888539178698,
+      "lon": -80.38478825832276,
+      "city": "Clemmons",
+      "state": "North Carolina",
+      "address": "2512 Neudorf Drive",
+      "name": "Skateland USA Clemmons"
+    },
+    {
+      "lat": 35.322590063246324,
+      "lon": -78.60486954434496,
+      "city": "Dunn",
+      "state": "North Carolina",
+      "address": "1500 N Ellis Ave",
+      "name": "Carolina Skate Land"
+    },
+    {
+      "lat": 36.475470805861306,
+      "lon": -79.7380690201997,
+      "city": "Eden",
+      "state": "North Carolina",
+      "address": "1023 S Van Buren Rd",
+      "name": "Roll-A-Bout"
+    },
+    {
+      "lat": 35.3824005700465,
+      "lon": -77.93206932078475,
+      "city": "Goldsboro",
+      "state": "North Carolina",
+      "address": "1305 Parkway Drive",
+      "name": "Round A Bout Goldsboro"
+    },
+    {
+      "lat": 36.07993034236668,
+      "lon": -79.91179162577899,
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "address": "200 Stagecoach Trail",
+      "name": "Skateland USA West"
+    },
+    {
+      "lat": 35.829345229621865,
+      "lon": -81.49956806812074,
+      "city": "Hudson",
+      "state": "North Carolina",
+      "address": "1509 Cajah Mountain Rd",
+      "name": "Skylite Skating"
+    },
+    {
+      "lat": 35.50755330741279,
+      "lon": -80.61116906205629,
+      "city": "Kannapolis",
+      "state": "North Carolina",
+      "address": "311 Brookdale Street",
+      "name": "Skateland USA"
+    },
+    {
+      "lat": 35.818562867227016,
+      "lon": -80.23904651653126,
+      "city": "Lexington",
+      "state": "North Carolina",
+      "address": "280 N Talbert Blvd",
+      "name": "Friction Skating Rink"
+    },
+    {
+      "lat": 35.68251730915035,
+      "lon": -82.01038197617349,
+      "city": "Marion",
+      "state": "North Carolina",
+      "address": "29 Logan Street",
+      "name": "Hot Wheelz"
+    },
+    {
+      "lat": 36.514948805379746,
+      "lon": -80.62660239321386,
+      "city": "Mt Airy",
+      "state": "North Carolina",
+      "address": "804 Fowler Rd",
+      "name": "Starlite Roller Rink"
+    },
+    {
+      "lat": 34.93246971824976,
+      "lon": -79.76072312028435,
+      "city": "Rockingham",
+      "state": "North Carolina",
+      "address": "860 Rockingham Rd",
+      "name": "The Rock N Roll LLC"
+    },
+    {
+      "lat": 35.94541010232597,
+      "lon": -77.74037143359044,
+      "city": "Rocky Mount",
+      "state": "North Carolina",
+      "address": "13734 US Hwy 64 Alt W",
+      "name": "Sky-Vue Skateland"
+    },
+    {
+      "lat": 35.971890558258025,
+      "lon": -77.8035454372953,
+      "city": "Rocky Mount",
+      "state": "North Carolina",
+      "address": "1131 N Wesleyan Blvd",
+      "name": "Star City"
+    },
+    {
+      "lat": 36.32371081324278,
+      "lon": -78.97600454232787,
+      "city": "Roxboro",
+      "state": "North Carolina",
+      "address": "5050 Durham Rd",
+      "name": "Palace Pointe"
+    },
+    {
+      "lat": 34.74204205264056,
+      "lon": -77.99731940442565,
+      "city": "Wallace",
+      "state": "North Carolina",
+      "address": "605 N College Street",
+      "name": "Skate City of Wallace"
+    },
+    {
+      "lat": 35.52869231430162,
+      "lon": -77.0737407446512,
+      "city": "Chocowinity",
+      "state": "North Carolina",
+      "address": "1878 US-17 BUS",
+      "name": "Extreme Action Park"
+    },
+    {
+      "lat": 36.0861930789283,
+      "lon": -80.35102406810657,
+      "city": "Winston-Salem",
+      "state": "North Carolina",
+      "address": "120 Hood Drive",
+      "name": "Skatehaven USA"
+    },
+    {
+      "lat": 40.03390939257921,
+      "lon": -78.50606381513884,
+      "city": "Bedford",
+      "state": "Pennsylvania",
+      "address": "3667 BUS 220",
+      "name": "Moon Glo II"
+    },
+    {
+      "lat": 40.666516727777804,
+      "lon": -75.30697900067122,
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "address": "4500 Easton Ave",
+      "name": "Bethlehem Skateaway"
+    },
+    {
+      "lat": 40.65344279289349,
+      "lon": -75.49971257400901,
+      "city": "Whitehall Township",
+      "state": "Pennsylvania",
+      "address": "3860 Lehigh St",
+      "name": "Whitehall Skateaway"
+    },
+    {
+      "lat": 40.86833949223178,
+      "lon": -79.92298977734987,
+      "city": "Butler",
+      "state": "Pennsylvania",
+      "address": "182 New Castle Rd",
+      "name": "Skate Castle"
+    },
+    {
+      "lat": 39.96185125972076,
+      "lon": -77.64177732925897,
+      "city": "Chambersburg",
+      "state": "Pennsylvania",
+      "address": "1993 Philadelphia Ave",
+      "name": "Roll-R-Way Chambersburg"
+    },
+    {
+      "lat": 41.34201045738766,
+      "lon": -75.9821552953562,
+      "city": "Dallas",
+      "state": "Pennsylvania",
+      "address": "3505 Memorial Hwy",
+      "name": "Rollaway Skating Rink"
+    },
+    {
+      "lat": 40.17729660125126,
+      "lon": -79.85335897898352,
+      "city": "Donora",
+      "state": "Pennsylvania",
+      "address": "590 Galiffa Dr",
+      "name": "Roll R Way"
+    },
+    {
+      "lat": 41.020011465474134,
+      "lon": -75.20783210406307,
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "address": "3226 North 5th Street",
+      "name": "Big Wheel Roller Skating Center"
+    },
+    {
+      "lat": 40.29761051164476,
+      "lon": -76.93082215014023,
+      "city": "Enola",
+      "state": "Pennsylvania",
+      "address": "60 East Shady Lane",
+      "name": "Olympic Skating Center"
+    },
+    {
+      "lat": 42.103873443490286,
+      "lon": -80.15816063109469,
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "address": "3162 W Lake Rd",
+      "name": "Gem City Skate"
+    },
+    {
+      "lat": 39.80997586949413,
+      "lon": -76.99841080148157,
+      "city": "Hanover",
+      "state": "Pennsylvania",
+      "address": "625 West Elm Ave",
+      "name": "Magic Elm"
+    },
+    {
+      "lat": 41.23456713958024,
+      "lon": -80.4350155887056,
+      "city": "Hermitage",
+      "state": "Pennsylvania",
+      "address": "4070 East State St",
+      "name": "Olympic Fun Center"
+    },
+    {
+      "lat": 40.0948972251348,
+      "lon": -76.29593653272038,
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "address": "1241 Lititz Pike",
+      "name": "Overlook Park"
+    },
+    {
+      "lat": 40.04287570623114,
+      "lon": -76.31722254346828,
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "address": "1400 Elm Ave",
+      "name": "Castle Roller Rink"
+    },
+    {
+      "lat": 40.29816935860184,
+      "lon": -79.36573894132377,
+      "city": "Latrobe",
+      "state": "Pennsylvania",
+      "address": "2914 Ligonier St",
+      "name": "Latrobe Skating Center"
+    },
+    {
+      "lat": 40.83864058758689,
+      "lon": -75.65325012758309,
+      "city": "Lehighton",
+      "state": "Pennsylvania",
+      "address": "2800 Interchange Rd",
+      "name": "LaRose's"
+    },
+    {
+      "lat": 40.58948636733752,
+      "lon": -77.59818413107324,
+      "city": "Lewistown",
+      "state": "Pennsylvania",
+      "address": "10 Union Ave",
+      "name": "Carousel"
+    },
+    {
+      "lat": 40.32815264648034,
+      "lon": -79.83654901593655,
+      "city": "McKeesport",
+      "state": "Pennsylvania",
+      "address": "428 Eden Park Blvd",
+      "name": "Eden Park Roller Rink"
+    },
+    {
+      "lat": 40.19762585006071,
+      "lon": -76.7010356041135,
+      "city": "Middletown",
+      "state": "Pennsylvania",
+      "address": "1733 E Harrisburg Pike",
+      "name": "Doc's Family Fun Center"
+    },
+    {
+      "lat": 40.252183891711574,
+      "lon": -76.46989127527408,
+      "city": "Mt. Gretna",
+      "state": "Pennsylvania",
+      "address": "451 PA-117",
+      "name": "Mt. Gretna Roller Rink"
+    },
+    {
+      "lat": 40.97951049210597,
+      "lon": -80.262942,
+      "city": "New Castle",
+      "state": "Pennsylvania",
+      "address": "4203 Old Route 422",
+      "name": "Ellhurst Roller Rink"
+    },
+    {
+      "lat": 40.1804767176643,
+      "lon": -76.83440623109816,
+      "city": "New Cumberland",
+      "state": "Pennsylvania",
+      "address": "521 Locust Rd",
+      "name": "Fountainblu Skating Arena"
+    },
+    {
+      "lat": 40.59523938410992,
+      "lon": -79.55767592113352,
+      "city": "North Apollo",
+      "state": "Pennsylvania",
+      "address": "320 18th Street",
+      "name": "Valarena Sk8Land"
+    },
+    {
+      "lat": 40.04102284291607,
+      "lon": -75.055919860048,
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "address": "7017 Roosevelt Blvd",
+      "name": "Rolling Thunder Skating"
+    },
+    {
+      "lat": 40.271583203765324,
+      "lon": -75.60820652781807,
+      "city": "Pottstown",
+      "state": "Pennsylvania",
+      "address": "815 White Pine Lane",
+      "name": "Ringing Rocks Roller Rink"
+    },
+    {
+      "lat": 41.94461819186539,
+      "lon": -79.1412218174973,
+      "city": "Russell",
+      "state": "Pennsylvania",
+      "address": "7385 Market Street",
+      "name": "Russell Roller Rink"
+    },
+    {
+      "lat": 41.990865804382445,
+      "lon": -76.52920379051078,
+      "city": "Sayre",
+      "state": "Pennsylvania",
+      "address": "419 North Keystone Ave",
+      "name": "Keystone Roller Rink"
+    },
+    {
+      "lat": 40.30454854415694,
+      "lon": -75.9843088924676,
+      "city": "Shillington",
+      "state": "Pennsylvania",
+      "address": "2275 Lancaster Pike",
+      "name": "Skateaway"
+    },
+    {
+      "lat": 41.62449677635897,
+      "lon": -79.64844349894196,
+      "city": "Titusville",
+      "state": "Pennsylvania",
+      "address": "45314 State Hwy 27",
+      "name": "The Rink Family Fun Center"
+    },
+    {
+      "lat": 39.83451279005792,
+      "lon": -79.74884690466021,
+      "city": "Uniontown",
+      "state": "Pennsylvania",
+      "address": "569 PA-857",
+      "name": "Swaney's Roller Rink"
+    },
+    {
+      "lat": 39.95413247067536,
+      "lon": -76.71133063904644,
+      "city": "York",
+      "state": "Pennsylvania",
+      "address": "940 Vander Ave",
+      "name": "Roll-R-Way"
+    },
+    {
+      "lat": 34.56202622219122,
+      "lon": -82.69697263425617,
+      "city": "Anderson",
+      "state": "South Carolina",
+      "address": "4142 Clemson Blvd",
+      "name": "Skateland USA North Anderson"
+    },
+    {
+      "lat": 34.13055182974463,
+      "lon": -80.85377393567141,
+      "city": "Elgin",
+      "state": "South Carolina",
+      "address": "800 Bookman Rd",
+      "name": "Skateland Fun Center"
+    },
+    {
+      "lat": 34.19060798322044,
+      "lon": -79.82473244493043,
+      "city": "Florence",
+      "state": "South Carolina",
+      "address": "125 N Beltline Rd",
+      "name": "Skateland of Florence"
+    },
+    {
+      "lat": 34.22667221429738,
+      "lon": -82.19950212402698,
+      "city": "Greenwood",
+      "state": "South Carolina",
+      "address": "123 Dixie Drive",
+      "name": "Skate Away USA"
+    },
+    {
+      "lat": 34.8896422019338,
+      "lon": -81.9738513851805,
+      "city": "Moore",
+      "state": "South Carolina",
+      "address": "989 Old Georgia Rd",
+      "name": "Roebuck Family Skate Center"
+    },
+    {
+      "lat": 33.46767409949507,
+      "lon": -80.86221809999999,
+      "city": "Orangeburg",
+      "state": "South Carolina",
+      "address": "698 Murray Road SW",
+      "name": "Skate 698 LLC"
+    },
+    {
+      "lat": 33.86665430153204,
+      "lon": -80.35590486452134,
+      "city": "Sumter",
+      "state": "South Carolina",
+      "address": "45 Old Manning Rd",
+      "name": "Skate Station of Sumter"
+    },
+    {
+      "lat": 34.76992586325512,
+      "lon": -82.28278006447347,
+      "city": "Simpsonville",
+      "state": "South Carolina",
+      "address": "110 Balcome Blvd",
+      "name": "Golden Skate"
+    },
+    {
+      "lat": 34.920063292706715,
+      "lon": -82.3101462411866,
+      "city": "Taylors",
+      "state": "South Carolina",
+      "address": "328 W Main St",
+      "name": "Roller Sports"
+    },
+    {
+      "lat": 37.3668968875083,
+      "lon": -78.82800602067411,
+      "city": "Appomattox",
+      "state": "Virginia",
+      "address": "460 Old Courthouse Rd",
+      "name": "AJ's Skateworld"
+    },
+    {
+      "lat": 36.62320777241984,
+      "lon": -79.40401984029005,
+      "city": "Danville",
+      "state": "Virginia",
+      "address": "1049 Piney Forest Rd",
+      "name": "Skatetown"
+    },
+    {
+      "lat": 38.42978576811148,
+      "lon": -78.88180502802237,
+      "city": "Harrisonburg",
+      "state": "Virginia",
+      "address": "100 Miller Cir",
+      "name": "Funky's Skate Center"
+    },
+    {
+      "lat": 37.37206467737824,
+      "lon": -79.209433165657,
+      "city": "Lynchburg",
+      "state": "Virginia",
+      "address": "327 Graves Mill Rd",
+      "name": "Fun Quest"
+    },
+    {
+      "lat": 37.44251055191709,
+      "lon": -77.59617323125964,
+      "city": "Midlothian",
+      "state": "Virginia",
+      "address": "3330 Speeks Dr",
+      "name": "Skate A Way"
+    },
+    {
+      "lat": 38.092672968743884,
+      "lon": -76.79884713729531,
+      "city": "Montross",
+      "state": "Virginia",
+      "address": "17408 Kings Hwy",
+      "name": "Stan's Skateland"
+    },
+    {
+      "lat": 39.13449417792,
+      "lon": -77.71432197586603,
+      "city": "Purcellville",
+      "state": "Virginia",
+      "address": "250 South Nursery Avenue",
+      "name": "Bush Tabernacle Skating"
+    },
+    {
+      "lat": 37.26554021706362,
+      "lon": -80.01792800428606,
+      "city": "Roanoke",
+      "state": "Virginia",
+      "address": "4121 Brandon Ave",
+      "name": "Skate Center of Roanoke Valley"
+    },
+    {
+      "lat": 36.87148475690485,
+      "lon": -76.13649154345619,
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "address": "1036 Ferry Plantation Rd",
+      "name": "Haygood Skating"
+    },
+    {
+      "lat": 36.79759245554975,
+      "lon": -76.17703895509977,
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "address": "5351 Lila Lane",
+      "name": "Sk8 Dojo"
+    },
+    {
+      "lat": 39.028734451874044,
+      "lon": -78.15651985819687,
+      "city": "White Post",
+      "state": "Virginia",
+      "address": "5030 Front Royal Pike",
+      "name": "Mac's Roller Rink"
+    },
+    {
+      "lat": 42.667817026628555,
+      "lon": -88.2764509528944,
+      "city": "Burlington",
+      "state": "Wisconsin",
+      "address": "637 S Kane St",
+      "name": "Capelli's Traxside Skating"
+    },
+    {
+      "lat": 44.27109048209709,
+      "lon": -88.49502963544288,
+      "city": "Appleton",
+      "state": "Wisconsin",
+      "address": "5714 Integrity Way",
+      "name": "Skater's Edge"
+    },
+    {
+      "lat": 44.106009083912475,
+      "lon": -87.67093486153891,
+      "city": "Manitowoc",
+      "state": "Wisconsin",
+      "address": "930 North 18th Street",
+      "name": "Rollaire Skate"
+    },
+    {
+      "lat": 44.65796900815999,
+      "lon": -90.18525466017489,
+      "city": "Marshfield",
+      "state": "Wisconsin",
+      "address": "1200 S Oak Ave",
+      "name": "Melody Gardens"
+    },
+    {
+      "lat": 43.32175756775761,
+      "lon": -87.99806254677036,
+      "city": "Cedarburg",
+      "state": "Wisconsin",
+      "address": "7084 Sycamore Dr",
+      "name": "Skateland Ozaukee"
+    },
+    {
+      "lat": 51.19622593285089,
+      "lon": -113.99689420845924,
+      "city": "Rocky View County",
+      "state": "Alberta",
+      "address": "260300 Writing Creek Cres Unit R5",
+      "name": "SkyCastle Roller Rink"
+    },
+    {
+      "lat": 51.01660186307466,
+      "lon": -114.03910950828234,
+      "city": "Calgary",
+      "state": "Alberta",
+      "address": "1010 42 Ave SE",
+      "name": "Roller Palace Calgary"
+    },
+    {
+      "lat": 45.35292516244852,
+      "lon": -75.78117212150563,
+      "city": "Ottawa",
+      "state": "Ontario",
+      "address": "1101 Baxter Rd",
+      "name": "Skate & Play"
+    },
+    {
+      "lat": 44.61828619949339,
+      "lon": -79.46798534522982,
+      "city": "Orillia",
+      "state": "Ontario",
+      "address": "4442 Fairgrounds Rd",
+      "name": "Roller Skating Place"
+    },
+    {
+      "lat": 49.28504776381392,
+      "lon": -123.04218682430378,
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "address": "100 N Renfrew St",
+      "name": "Rolla Skate Club"
+    },
+    {
+      "lat": 43.43434460711975,
+      "lon": -80.51591747189428,
+      "city": "Kitchener",
+      "state": "Ontario",
+      "address": "563 Highland Rd W",
+      "name": "Retro Rollers Roller Rink"
+    }
+  ]
+}

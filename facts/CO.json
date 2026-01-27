@@ -1,0 +1,3889 @@
+{
+  "facts": [
+    {
+      "cityName": "Aguilar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aguilar is a statutory town located in Las Animas County, Colorado, United States."
+    },
+    {
+      "cityName": "Aguilar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cattleman and prominent pioneer Jos\u00e9 Ram\u00f3n Aguilar founded the town in 1894."
+    },
+    {
+      "cityName": "Air Force Academy",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Air Force Academy post office serves the area."
+    },
+    {
+      "cityName": "Akron",
+      "state": "CO",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "LeBron James was born in Akron."
+    },
+    {
+      "cityName": "Akron",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The U.S. State of Colorado has 273 active municipalities, comprising 198 towns, 73 cities, and two consolidated city and county governments."
+    },
+    {
+      "cityName": "Akron",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City and County of Denver, the state capital, is the oldest municipality in Colorado."
+    },
+    {
+      "cityName": "Akron",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On December 3, 1859, the extralegal Territory of Jefferson granted a charter to the consolidated City of Denver, Auraria, and Highland."
+    },
+    {
+      "cityName": "Alamosa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alamosa is located along the Rio Grande."
+    },
+    {
+      "cityName": "Alamosa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the commercial center of the San Luis Valley in south-central Colorado, and is the home of Adams State University."
+    },
+    {
+      "cityName": "Alamosa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Alamosa is the primary city of the Alamosa, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Alma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alma is a statutory town in Park County, Colorado, United States."
+    },
+    {
+      "cityName": "Alma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Alma is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Applewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Golden post office serves the area."
+    },
+    {
+      "cityName": "Arriba",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arriba is a statutory town located in Lincoln County, Colorado, United States."
+    },
+    {
+      "cityName": "Arvada",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arvada is the seventh most populous city in Colorado."
+    },
+    {
+      "cityName": "Arvada",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Arvada",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Olde Town Arvada historic district is 7 miles (11\u00a0km) northwest of the Colorado State Capitol in Denver."
+    },
+    {
+      "cityName": "Aspen",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aspen is in a remote area of the Rocky Mountains' Sawatch Range and Elk Mountains, along the Roaring Fork River at an elevation just below 8,000 feet (2,400\u00a0m) on the Western Slope, 11 miles (18\u00a0km) west of the Continental Divide."
+    },
+    {
+      "cityName": "Aspen",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Aspen is now a part of the Rifle, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ault",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ault is a statutory town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Ault",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ault is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aurora is a home rule city located in Arapahoe, Adams, and Douglas counties, Colorado, United States."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Aurora is the third-most-populous city in the State of Colorado and the 51st-most-populous city in the United States."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Aurora is a principal city of the Denver\u2013Aurora\u2013Centennial, CO Metropolitan Statistical Area and the Denver-Aurora-Greeley, CO Combined Statistical Area, and a major city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avon is a home rule town located in Eagle County, Colorado, United States."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Edwards, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Avon is the gateway to the Beaver Creek Resort which lies about two miles (3\u00a0km) south of the town."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was the previous site of Vail Resorts before the company moved its physical headquarters to Broomfield, Colorado, in 2006."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is the home of Liberty Skis, an independent ski manufacturing company."
+    },
+    {
+      "cityName": "Bailey",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bailey's Post Office ZIP Code is 80421."
+    },
+    {
+      "cityName": "Basalt",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Basalt is a home rule town located in Eagle and Pitkin counties, Colorado, United States."
+    },
+    {
+      "cityName": "Basalt",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Basalt is a part of the Edwards-Glenwood Springs, CO Combined Statistical Area."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bayfield is a statutory town located in La Plata County, Colorado, United States."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bayfield is part of the Durango, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bennett",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bennett is a statutory town located in Adams and Arapahoe counties, Colorado, United States."
+    },
+    {
+      "cityName": "Berkley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berkley never had a post office, but Denver post office 80221 serves the area."
+    },
+    {
+      "cityName": "Berthoud",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berthoud is a statutory town located in Larimer and Weld counties, Colorado, United States."
+    },
+    {
+      "cityName": "Berthoud",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Berthoud is situated north of the Little Thompson River, 21 miles (34\u00a0km) south of Fort Collins and 43 miles (69\u00a0km) north of Denver in the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Black Forest",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both the Colorado Springs post office and the Elbert post office serve the area."
+    },
+    {
+      "cityName": "Black Hawk",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a mining settlement founded in 1859 during the Pike's Peak Gold Rush and is now a part of the Denver-Aurora-Lakewood, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Blanca",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The U.S. State of Colorado has 273 active municipalities, comprising 198 towns, 73 cities, and two consolidated city and county governments."
+    },
+    {
+      "cityName": "Blanca",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City and County of Denver, the state capital, is the oldest municipality in Colorado."
+    },
+    {
+      "cityName": "Blanca",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On December 3, 1859, the extralegal Territory of Jefferson granted a charter to the consolidated City of Denver, Auraria, and Highland."
+    },
+    {
+      "cityName": "Blue River",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blue River is a statutory town located along the Blue River in Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Blue River",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located in the Blue River Valley along Colorado State Highway 9."
+    },
+    {
+      "cityName": "Bonanza",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bonanza is a statutory town located in Saguache County, Colorado, United States."
+    },
+    {
+      "cityName": "Bonanza",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Formerly known as Bonanza City, Bonanza is a largely abandoned former silver mining town."
+    },
+    {
+      "cityName": "Bonanza",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bonanza is a Spanish language word meaning prosperity."
+    },
+    {
+      "cityName": "Boone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boone is a statutory town located along the Arkansas River in Pueblo County, Colorado, United States."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boulder is the primary city of the Boulder, CO Metropolitan Statistical Area, which had 330,758 residents in 2020, and is part of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Bow Mar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bow Mar is a statutory town located in Arapahoe and Jefferson counties, Colorado, United States."
+    },
+    {
+      "cityName": "Bow Mar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bow Mar is part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bow Mar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The current mayor of Bow Mar is Bryan Sperry."
+    },
+    {
+      "cityName": "Branson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Branson is a statutory town located in Las Animas County, Colorado, United States."
+    },
+    {
+      "cityName": "Branson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Branson is the southernmost town in the State of Colorado, located just 1 mile (1.6\u00a0km) from the New Mexico border."
+    },
+    {
+      "cityName": "Brookside",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookside is a statutory town located in Fremont County, Colorado, United States."
+    },
+    {
+      "cityName": "Broomfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has a consolidated government which operates under Article XX, Sections 10\u201313 of the Constitution of the State of Colorado."
+    },
+    {
+      "cityName": "Broomfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Broomfield is a part of the ten-county Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the 18-county Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Brush",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brush is a part of the Fort Morgan, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Buena Vista",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buena Vista is a statutory town located in Chaffee County, Colorado, United States."
+    },
+    {
+      "cityName": "Byers",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Byers post office has the ZIP Code 80103."
+    },
+    {
+      "cityName": "Campo",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Campo is a statutory town located in Baca County, Colorado, United States."
+    },
+    {
+      "cityName": "Campo",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is situated on the High Plains, straddling U.S. Route 287/385."
+    },
+    {
+      "cityName": "Canon City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ca\u00f1on City is the principal city of the Ca\u00f1on City, CO Micropolitan Statistical Area and it is a part of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Canon City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ca\u00f1on City straddles the easterly flowing Arkansas River and is a popular tourist destination for sightseeing, whitewater rafting, and rock climbing."
+    },
+    {
+      "cityName": "Canon City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is known for its many public parks, fossil discoveries, Skyline Drive, The Royal Gorge railroad, the Royal Gorge, and extensive natural hiking paths."
+    },
+    {
+      "cityName": "Canon City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1994, the United States Board on Geographic Names approved adding the tilde to the official name of Ca\u00f1on City, a change from Canon City as the official name in its decisions of 1906 and 1975."
+    },
+    {
+      "cityName": "Canon City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is one of the few U.S. cities to have the Spanish \u00d1 in its name, others being La Ca\u00f1ada Flintridge, California; Espa\u00f1ola, New Mexico; Pe\u00f1asco, New Mexico; and Pe\u00f1itas, Texas."
+    },
+    {
+      "cityName": "Carbonate",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Carbonate is a statutory town and an extinct silver mining camp located in Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Carbonate",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Carbonate, Colorado, post office operated from April 13, 1883, until November 15, 1886."
+    },
+    {
+      "cityName": "Carbondale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Carbondale is a home rule municipality located in Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Carbondale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Carbondale is a part of the Rifle, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Castle Pines",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Castle Pines is a home rule municipality located in Douglas County, Colorado, United States."
+    },
+    {
+      "cityName": "Castle Pines",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Castle Pines is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Castle Pines",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is located north of the Town of Castle Rock and south of the City of Lone Tree, Colorado."
+    },
+    {
+      "cityName": "Castle Pines North",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Castle Pines is a home rule municipality located in Douglas County, Colorado, United States."
+    },
+    {
+      "cityName": "Castle Pines North",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Castle Pines is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Castle Pines North",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is located north of the Town of Castle Rock and south of the City of Lone Tree, Colorado."
+    },
+    {
+      "cityName": "Castle Rock",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castle Rock is the most-populous Colorado town and the 14th-most populous Colorado municipality."
+    },
+    {
+      "cityName": "Castle Rock",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Castle Rock is a part of the Denver-Aurora-Lakewood, CO metropolitan statistical area and the Front Range urban corridor."
+    },
+    {
+      "cityName": "Castle Rocks",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castle Rocks is a 9,088-foot-elevation (2,770-meter) mountain summit in Tulare County, California, United States."
+    },
+    {
+      "cityName": "Ca\u00f1on City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ca\u00f1on City is the principal city of the Ca\u00f1on City, CO Micropolitan Statistical Area and it is a part of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Ca\u00f1on City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ca\u00f1on City straddles the easterly flowing Arkansas River and is a popular tourist destination for sightseeing, whitewater rafting, and rock climbing."
+    },
+    {
+      "cityName": "Ca\u00f1on City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is known for its many public parks, fossil discoveries, Skyline Drive, The Royal Gorge railroad, the Royal Gorge, and extensive natural hiking paths."
+    },
+    {
+      "cityName": "Ca\u00f1on City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1994, the United States Board on Geographic Names approved adding the tilde to the official name of Ca\u00f1on City, a change from Canon City as the official name in its decisions of 1906 and 1975."
+    },
+    {
+      "cityName": "Ca\u00f1on City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is one of the few U.S. cities to have the Spanish \u00d1 in its name, others being La Ca\u00f1ada Flintridge, California; Espa\u00f1ola, New Mexico; Pe\u00f1asco, New Mexico; and Pe\u00f1itas, Texas."
+    },
+    {
+      "cityName": "Cedaredge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cedaredge is a home rule municipality located in Delta County, Colorado, United States."
+    },
+    {
+      "cityName": "Cedaredge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cedaredge is also home to several of the 19 wineries in Delta County, produced from the region's few basic vineyards."
+    },
+    {
+      "cityName": "Cedaredge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located beneath the southern slopes of the Grand Mesa in the Surface Creek Valley, Cedaredge has an elevated vantage point that affords southern views of the San Juan Mountains, the Black Canyon of the Gunnison National Park, and the Coloradan communities of Delta, Olathe, and Montrose."
+    },
+    {
+      "cityName": "Centennial",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Centennial is a principal city of the Denver\u2013Aurora\u2013Centennial, CO Metropolitan Statistical Area and a part of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Center",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Center is a statutory town located in Saguache and Rio Grande counties, Colorado, United States."
+    },
+    {
+      "cityName": "Central City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Central City is a home rule municipality located in Gilpin and Clear Creek counties, Colorado, United States."
+    },
+    {
+      "cityName": "Central City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a historic mining settlement founded in 1859 during the Pike's Peak Gold Rush and came to be known as the \"Richest Square Mile on Earth\"."
+    },
+    {
+      "cityName": "Central City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Central City and the adjacent city of Black Hawk form the federally designated Central City/Black Hawk Historic District."
+    },
+    {
+      "cityName": "Central City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is now a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Cheraw",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cheraw is a statutory town located in Otero County, Colorado, United States."
+    },
+    {
+      "cityName": "Cherry Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The ZIP code 80111 serves the area."
+    },
+    {
+      "cityName": "Cherry Hills Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Cherry Hills Village is a home rule city located in Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Chivington",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The U.S. Post Office at Eads now serves Chivington postal addresses."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Clifton post office has the ZIP Code 81520."
+    },
+    {
+      "cityName": "Coal Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Coal Creek is a statutory town located in Fremont County, Colorado, United States."
+    },
+    {
+      "cityName": "Coal Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Coal Creek is a part of the Ca\u00f1on City, CO Micropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Cokedale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cokedale is a statutory town located in Las Animas County, Colorado, United States."
+    },
+    {
+      "cityName": "Collbran",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Collbran is a statutory town located in Mesa County, Colorado, United States."
+    },
+    {
+      "cityName": "Collbran",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Collbran is a part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Colorado City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Colorado City post office has the ZIP Code 81019."
+    },
+    {
+      "cityName": "Colorado City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Colorado City Metropolitan District provides services."
+    },
+    {
+      "cityName": "Colorado Spgs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colorado Springs is the second-most populous city and most extensive city in the state of Colorado, and the 40th-most-populous city in the United States."
+    },
+    {
+      "cityName": "Colorado Spgs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Colorado Springs metropolitan area, which had 755,105 residents in 2020, and the second-most prominent city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Colorado Spgs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located in east-central Colorado on Fountain Creek, 70 miles (113\u00a0km) south of Denver."
+    },
+    {
+      "cityName": "Colorado Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colorado Springs is the second-most populous city and most extensive city in the state of Colorado, and the 40th-most-populous city in the United States."
+    },
+    {
+      "cityName": "Colorado Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Colorado Springs metropolitan area, which had 755,105 residents in 2020, and the second-most prominent city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Colorado Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located in east-central Colorado on Fountain Creek, 70 miles (113\u00a0km) south of Denver."
+    },
+    {
+      "cityName": "Columbine",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located primarily in Jefferson County, Columbine lies immediately south of Denver."
+    },
+    {
+      "cityName": "Columbine",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community lies in ZIP code 80123."
+    },
+    {
+      "cityName": "Columbine Valley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Columbine Valley is a statutory town located in far western Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Columbine Valley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Columbine Valley is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Commerce City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Commerce City is the 18th most populous municipality in Colorado."
+    },
+    {
+      "cityName": "Commerce City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Commerce City is located north of Denver and is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Conifer",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conifer is located along U.S. Route 285 in the foothills west of Denver."
+    },
+    {
+      "cityName": "Crawford",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Crawford is a statutory town in Delta County, Colorado, United States."
+    },
+    {
+      "cityName": "Crawford",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The surrounding mesas and valleys support a farming and ranching community."
+    },
+    {
+      "cityName": "Crested Butte",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crested Butte is a home rule town located in Gunnison County, Colorado, United States."
+    },
+    {
+      "cityName": "Crested Butte",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A former coal mining town nestled in the Slate River Valley, Crested Butte is now known as a destination for skiing, mountain biking, and outdoor activities."
+    },
+    {
+      "cityName": "Crestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Crestone is a statutory town in Saguache County, Colorado."
+    },
+    {
+      "cityName": "Crestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Crestone is located at the foot of the western slope of the Sangre de Cristo Range, in the northern part of the San Luis Valley."
+    },
+    {
+      "cityName": "Crestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Crestone was platted in 1880 by George Adams, owner of the neighboring Luis Maria Baca Grant No."
+    },
+    {
+      "cityName": "Crestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 1970s, the Baca Grande land development was established on the lands of the Baca Grant to the south and west."
+    },
+    {
+      "cityName": "Crestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Several hundred homes have been built there."
+    },
+    {
+      "cityName": "Crook",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Crook is a statutory town located in Logan County, Colorado, United States."
+    },
+    {
+      "cityName": "Crook",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Crook is a part of the Sterling, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Crowley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crowley is a statutory town located in Crowley County, Colorado, United States."
+    },
+    {
+      "cityName": "Dacono",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dacono is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "De Beque",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "De Beque is a statutory town located in Mesa County, Colorado, United States."
+    },
+    {
+      "cityName": "De Beque",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "De Beque is a part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "De Beque",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town consists of a small grid, including a historic downtown featuring a town hall, a tavern, and several commercial businesses in historic structures."
+    },
+    {
+      "cityName": "De Beque",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The surrounding streets include houses, several churches, and a school."
+    },
+    {
+      "cityName": "Deckers",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Deckers is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Deer Trail",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Deer Trail is a statutory town located in eastern Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Deer Trail",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Deer Trail is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Deer Trail",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is situated along Interstate 70, approximately 55 miles (89\u00a0km) east of Denver."
+    },
+    {
+      "cityName": "Del Norte",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's name is most commonly pronounced /\u02c8d\u025bl n\u0254\u0279t/."
+    },
+    {
+      "cityName": "Delta",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The United States Forest Service headquarters of the Grand Mesa, Gunnison, and Uncompahgre National Forests are located in Delta."
+    },
+    {
+      "cityName": "Denver",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Denver is the capital and most populous city of the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Denver",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Officially a consolidated city and county, it is located in the South Platte River valley on the western edge of the High Plains, and is just east of the Front Range of the Rocky Mountains."
+    },
+    {
+      "cityName": "Denver",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The ten-county Denver metropolitan area, with over 3.05 million residents, is the 19th-largest metropolitan area in the country and functions as the economic and cultural center of the broader Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Dillon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dillon is a home rule town located in Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Dinosaur",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dinosaur is a statutory town in Moffat County, Colorado, United States."
+    },
+    {
+      "cityName": "Dinosaur",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dinosaur is a part of the Steamboat Springs, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Divide",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Divide post office has the ZIP Code 80814."
+    },
+    {
+      "cityName": "Dolores",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dolores is a statutory town located in Montezuma County, Colorado, United States."
+    },
+    {
+      "cityName": "Dove Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community takes its name from the nearby Dove Creek."
+    },
+    {
+      "cityName": "Dove Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dove Creek is the self-proclaimed Pinto Bean Capital of the World."
+    },
+    {
+      "cityName": "Dove Valley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Dove Valley Metropolitan District provides services to the area, which lies in ZIP code 80112."
+    },
+    {
+      "cityName": "Dumont",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Dumont Post Office has the ZIP Code 80436."
+    },
+    {
+      "cityName": "Durango",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Durango is the home of Fort Lewis College."
+    },
+    {
+      "cityName": "Eagle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eagle is the part of the Edwards, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Eaton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Eaton is a statutory town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Eaton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eaton is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Eckley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eckley is a statutory town located in Yuma County, Colorado, United States."
+    },
+    {
+      "cityName": "Edgewater",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Edgewater is a home rule city located in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Edgewater",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Edgewater is surrounded by Denver to the east, Lakewood to the south and west, and Wheat Ridge to the north."
+    },
+    {
+      "cityName": "Edgewater",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Edwards",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Edwards post office has the ZIP Code 81632."
+    },
+    {
+      "cityName": "Edwards",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Edwards Metropolitan District provides services."
+    },
+    {
+      "cityName": "Elizabeth",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elizabeth is the statutory town that is the most populous municipality in Elbert County, Colorado, United States."
+    },
+    {
+      "cityName": "Elizabeth",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elizabeth is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Ellicott",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "El Paso County is the most populous county in the U.S state of Colorado."
+    },
+    {
+      "cityName": "Ellicott",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "El Paso County is included in the Colorado Springs, Colorado, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Empire",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The historic Town of Empire is a statutory town located in Clear Creek County, Colorado, United States."
+    },
+    {
+      "cityName": "Empire",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a former gold mining camp settled during the Pike's Peak Gold Rush that later flourished during the Colorado Silver Boom in the late 19th century."
+    },
+    {
+      "cityName": "Empire",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Empire is now a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "CO",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "John Travolta and Ed Harris were born in Englewood."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Englewood is a home rule city located in western Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Englewood is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Englewood is located immediately south of Denver in the South Platte River Valley."
+    },
+    {
+      "cityName": "Erie",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Erie is a statutory town located in Weld and Boulder counties, Colorado, United States."
+    },
+    {
+      "cityName": "Erie",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Erie is a part of the Denver-Aurora-Greeley, CO Combined Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Erie",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Erie is the most populous statutory town in Colorado."
+    },
+    {
+      "cityName": "Estes Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Estes Park is a statutory town in southwestern Larimer County, Colorado, United States."
+    },
+    {
+      "cityName": "Estes Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Estes Park is a part of the Fort Collins, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Estes Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A popular summer resort and the location of the headquarters for Rocky Mountain National Park, Estes Park lies along the Big Thompson River."
+    },
+    {
+      "cityName": "Estes Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Landmarks include The Stanley Hotel and The Baldpate Inn."
+    },
+    {
+      "cityName": "Estes Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town overlooks Lake Estes and Olympus Dam."
+    },
+    {
+      "cityName": "Evans",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Evans is a home rule city located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Evans",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Evans is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Evergreen post office has the ZIP Codes 80439 and 80437."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Evergreen Metropolitan District provides services."
+    },
+    {
+      "cityName": "Fairplay",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairplay is located in South Park at an elevation of 9,953 feet (3,034\u00a0m)."
+    },
+    {
+      "cityName": "Fairplay",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fairplay is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Falcon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along US 24 about 14 miles northeast of Colorado Springs."
+    },
+    {
+      "cityName": "Falcon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A railroad hub in the early 20th century, the town spent several decades as a quiet ranching community until it experienced rapid residential growth throughout the 1990s which has continued increasingly through today."
+    },
+    {
+      "cityName": "Falcon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Falcon is a part of the Colorado Springs, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Federal Heights",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Federal Heights is a home rule city located in western Adams County, Colorado, United States."
+    },
+    {
+      "cityName": "Federal Heights",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Federal Heights is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Federal Heights",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Montoya, who was elected to a four-year term in 2019."
+    },
+    {
+      "cityName": "Firestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Firestone is a statutory town in southwestern Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Firestone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Firestone is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Fleming",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Fleming is a statutory town located in western Logan County, Colorado, United States."
+    },
+    {
+      "cityName": "Fleming",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fleming is a part of the Sterling, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Florence",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Florence is a part of the Ca\u00f1on City, CO Micropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Florissant",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Florissant post office has the ZIP Code 80816."
+    },
+    {
+      "cityName": "Fort Carson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Carson is a United States Army post located directly south of Colorado Springs in El Paso, Pueblo, Fremont, and Huerfano counties, Colorado, United States."
+    },
+    {
+      "cityName": "Fort Carson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The developed portion of Fort Carson is located near the City of Colorado Springs in El Paso County."
+    },
+    {
+      "cityName": "Fort Garland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Garland was a United States Army post from 1858 to 1883."
+    },
+    {
+      "cityName": "Fort Garland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Fort Garland post office has the ZIP Code 81133."
+    },
+    {
+      "cityName": "Fort Garland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Garland is a part of the Alamosa, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fort Lupton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Fort Lupton is a statutory city located in southern Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Fort Lupton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Lupton is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Fort Morgan",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Morgan is the principal city of the Fort Morgan, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fountain",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Fountain is a home rule city located in El Paso County, Colorado, United States."
+    },
+    {
+      "cityName": "Fountain",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fountain is a part of the Colorado Springs, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Fowler",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fowler is a statutory town located in northwestern Otero County, Colorado, United States."
+    },
+    {
+      "cityName": "Foxfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Foxfield is a statutory town located in Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Foxfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Foxfield is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Foxfield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is bordered by the cities of Aurora and Centennial."
+    },
+    {
+      "cityName": "Franktown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Franktown post office has the ZIP Code 80116."
+    },
+    {
+      "cityName": "Fraser",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Fraser is a Statutory Town located in Grand County, Colorado, United States."
+    },
+    {
+      "cityName": "Fraser",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is situated in Middle Park in the valley of the Fraser River along U.S. Highway 40."
+    },
+    {
+      "cityName": "Fraser",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its location northwest of Winter Park, the location of a popular ski resort, has provided growth in recent years with new condominium and other real estate developments."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Frederick is a Statutory Town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frederick is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Frisco",
+      "state": "CO",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Frisco include Steve Jobs, Jack London, Clint Eastwood, Robert Frost, and Isadora Duncan."
+    },
+    {
+      "cityName": "Frisco",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frisco is a home rule municipality located in Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Frisco",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frisco is a part of the Breckenridge, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Frisco",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a popular town among skiers from around the world."
+    },
+    {
+      "cityName": "Frisco",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Four major ski resorts are located in close proximity to Frisco: Copper Mountain, Breckenridge, Keystone, and Arapahoe Basin."
+    },
+    {
+      "cityName": "Fruita",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fruita is a home rule municipality located in western Mesa County, Colorado, United States."
+    },
+    {
+      "cityName": "Fruita",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fruita is a part of the Grand Junction, Colorado Metropolitan Statistical Area and lies within the Grand Valley."
+    },
+    {
+      "cityName": "Fruita",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The geography is identified by the bordering Colorado River on the southern edge of the town, the Uncompahgre Plateau known for its pinyon-juniper landscape, and the Book Cliffs range on the northern edge of the Grand Valley."
+    },
+    {
+      "cityName": "Fruita",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Originally home to the Ute people, farmers settled the town after founder William Pabor in 1884."
+    },
+    {
+      "cityName": "Fruitvale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fruitvale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Grand Junction post office serves Fruitvale postal addresses."
+    },
+    {
+      "cityName": "Ft. Carson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Carson is a United States Army post located directly south of Colorado Springs in El Paso, Pueblo, Fremont, and Huerfano counties, Colorado, United States."
+    },
+    {
+      "cityName": "Ft. Carson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The developed portion of Fort Carson is located near the City of Colorado Springs in El Paso County."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Garden City is a Statutory Town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Garden City is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is surrounded by the cities of Greeley and Evans, Colorado."
+    },
+    {
+      "cityName": "Genoa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Genoa is a statutory town located in Lincoln County, Colorado, United States."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The former silver mining camp along Clear Creek in the Front Range of the Rocky Mountains was established in 1859 during the Pike's Peak Gold Rush."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The federally designated Georgetown-Silver Plume Historic District comprises Georgetown, the neighboring town of Silver Plume, and the Georgetown Loop Historic Mining & Railroad Park between the two towns."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Georgetown Post Office has the ZIP code 80444."
+    },
+    {
+      "cityName": "Gilcrest",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Gilcrest is a Statutory Town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Gilcrest",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gilcrest is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Glendale is a home rule municipality located in an exclave of Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Glendale is an enclave of the City and County of Denver and is the most densely populated municipality in Colorado."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Glendevey",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Larimer County is a county located in the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Glendevey",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county was named for William Larimer, Jr., the founder of Denver."
+    },
+    {
+      "cityName": "Glendevey",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Larimer County comprises the Fort Collins\u2013Loveland metropolitan area."
+    },
+    {
+      "cityName": "Glendevey",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The county is located at the northern end of the Front Range, at the edge of the Colorado Eastern Plains along the border with Wyoming."
+    },
+    {
+      "cityName": "Gleneagle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Colorado Springs post office serves the area."
+    },
+    {
+      "cityName": "Glenwood Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the confluence of the Roaring Fork River and the Colorado River, connecting the Roaring Fork Valley and a series of smaller towns on the Colorado River."
+    },
+    {
+      "cityName": "Golden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Golden lies along Clear Creek at the base of the Front Range of the Rocky Mountains."
+    },
+    {
+      "cityName": "Golden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded during the Pike's Peak gold rush on June 16, 1859, the mining camp was originally named Golden City in honor of Thomas L."
+    },
+    {
+      "cityName": "Golden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Golden City served as the capital of the provisional Territory of Jefferson from 1860 to 1861, and capital of the official Territory of Colorado from 1862 to 1867."
+    },
+    {
+      "cityName": "Golden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1867, the territorial capital was moved about 12 miles (19\u00a0km) east to Denver City."
+    },
+    {
+      "cityName": "Golden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Golden is now a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Granby",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Granby is the Statutory Town that is the most populous municipality in Grand County, Colorado, United States."
+    },
+    {
+      "cityName": "Granby",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Granby is situated along U.S. Highway 40 in the Middle Park basin, and it is about 85 miles (137\u00a0km) northwest of Denver and 14 miles (23\u00a0km) southwest of Rocky Mountain National Park."
+    },
+    {
+      "cityName": "Grand Lake",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Grand Lake is a statutory town located in Grand County, Colorado, United States."
+    },
+    {
+      "cityName": "Grant",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The U.S. State of Colorado has 273 active municipalities, comprising 198 towns, 73 cities, and two consolidated city and county governments."
+    },
+    {
+      "cityName": "Grant",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City and County of Denver, the state capital, is the oldest municipality in Colorado."
+    },
+    {
+      "cityName": "Grant",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On December 3, 1859, the extralegal Territory of Jefferson granted a charter to the consolidated City of Denver, Auraria, and Highland."
+    },
+    {
+      "cityName": "Greeley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greeley is the tenth most populous city in Colorado."
+    },
+    {
+      "cityName": "Greeley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Greeley is the principal city of the Greeley, CO Metropolitan Statistical Area and is a major city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Greeley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Greeley is located in northern Colorado and is situated 49 miles (79\u00a0km) north-northeast of the Colorado State Capitol in Denver."
+    },
+    {
+      "cityName": "Greeley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is a college town, home to the University of Northern Colorado and Aims Community College."
+    },
+    {
+      "cityName": "Green Mountain Falls",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Green Mountain Falls is a statutory town located in El Paso and Teller counties of the U.S. of State of Colorado."
+    },
+    {
+      "cityName": "Green Mountain Falls",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Green Mountain Falls is a part of the Colorado Springs, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Greenwood Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Greenwood Village is a home rule municipality located in Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Greenwood Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Greenwood Village is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Grover",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Grover is a Statutory Town located in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Grover",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grover is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Gunbarrel",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Boulder and Longmont post offices serve the area."
+    },
+    {
+      "cityName": "Gunnison",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named in honor of John W."
+    },
+    {
+      "cityName": "Gunnison",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gunnison, a United States Army officer who surveyed for a transcontinental railroad in 1853."
+    },
+    {
+      "cityName": "Gunnison",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gunnison is a college town, home to Western Colorado University."
+    },
+    {
+      "cityName": "Gypsum",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Gypsum is the home rule municipality that is the most populous municipality in Eagle County, Colorado, United States."
+    },
+    {
+      "cityName": "Gypsum",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gypsum is a part of the Edwards, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gypsum",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gypsum is the home of an American Gypsum drywall plant and mine."
+    },
+    {
+      "cityName": "Hartman",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartman is a statutory town in Prowers County, Colorado, United States."
+    },
+    {
+      "cityName": "Hartman",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located North of SH-196."
+    },
+    {
+      "cityName": "Haswell",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haswell is a statutory town located in Kiowa County, Colorado, United States."
+    },
+    {
+      "cityName": "Hayden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Hayden is a home rule municipality located in Routt County, Colorado, United States."
+    },
+    {
+      "cityName": "Hayden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hayden is a part of the Steamboat Springs, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hayden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town sits along U.S. Highway 40 in the Yampa River Valley between Craig and Steamboat Springs."
+    },
+    {
+      "cityName": "Hayden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Hayden is located near the Yampa Valley Regional Airport, by which Hayden is one of the smallest communities in the U.S. to have mainline passenger jet service provided by American Airlines, Delta Air Lines, Southwest Airlines, Alaska Airlines, JetBlue and United Airlines on a scheduled basis."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Henderson has the ZIP Code 80640."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Portions of the Henderson area have been annexed by Commerce City, Brighton, and Thornton."
+    },
+    {
+      "cityName": "Highlands Ranch",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Highlands Ranch Metropolitan District provides services to the community, which lies in ZIP Codes 80126, 80129, 80130, and 80163."
+    },
+    {
+      "cityName": "Hillrose",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Hillrose is a statutory town located in Morgan County, Colorado, United States."
+    },
+    {
+      "cityName": "Hooper",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Hooper is a Statutory Town located in the San Luis Valley in Alamosa County, Colorado, United States."
+    },
+    {
+      "cityName": "Hot Sulphur Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is located near Byers Canyon between Granby and Kremmling, 95 miles (153\u00a0km) northwest of Denver and 30 miles (48\u00a0km) northwest of Winter Park."
+    },
+    {
+      "cityName": "Hot Sulphur Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 7,680 feet (2,340\u00a0m)."
+    },
+    {
+      "cityName": "Hotchkiss",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hotchkiss is a statutory town in Delta County, Colorado, United States."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Hudson is a home rule municipality in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Idaho Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Idaho Springs is the statutory city that is the most populous municipality in Clear Creek County, Colorado, United States."
+    },
+    {
+      "cityName": "Idaho Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Idaho Springs is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Idaho Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Idaho Springs is located in Clear Creek Canyon, in the mountains upstream from Golden, some 30 miles (50\u00a0km) west of Denver."
+    },
+    {
+      "cityName": "Ignacio",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ignacio is a male Spanish name originating in the Latin name \"Ignatius\" from ignis \"fire\"."
+    },
+    {
+      "cityName": "Ignacio",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This was the name of several saints, including the third bishop of Antioch and Saint Ignatius of Loyola."
+    },
+    {
+      "cityName": "Ignacio",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Variants include the archaic I\u00f1acio, the Italian Ignazio, the German Ignatz, the Catalan Ignasi, the Basque I\u00f1aki, I\u00f1igo, Eneko, and the hypocorisms Nacho/Natxo, Iggy, and Iggie."
+    },
+    {
+      "cityName": "Iliff",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Iliff is a Statutory Town located in Logan County, Colorado, United States."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The historic Town of Jamestown is a Statutory Town in Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for James Smith, an early discoverer of gold."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Jamestown was hit hard by the September 2013 Colorado floods when the town was isolated due to road damage from the rains and the flooding of James Creek."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Under a mandatory evacuation order, most residents were airlifted to safety under the direction of the Colorado National Guard to nearby Boulder."
+    },
+    {
+      "cityName": "Johnstown",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Johnstown is a home rule municipality in Weld and Larimer counties in the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Keenesburg",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Keenesburg is a Statutory Town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Keenesburg",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to The Wild Animal Sanctuary."
+    },
+    {
+      "cityName": "Ken Caryl",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ken Caryl Ranch Metropolitan District and the Ken Caryl Ranch Water District provide services."
+    },
+    {
+      "cityName": "Ken Caryl",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Littleton post office serves the area."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keystone is a home rule town located in Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Breckenridge, CO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Keystone residents voted to incorporate on March 28, 2023, becoming a municipality on February 8, 2024."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The municipality includes the Keystone Resort and Keystone Village."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Dillon post office (Zip Code 80435) serves Keystone postal addresses."
+    },
+    {
+      "cityName": "Kiowa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kiowa or \u01e4\u00e1uig\u00fa people are a Native American tribe and an Indigenous people of the Great Plains of the United States."
+    },
+    {
+      "cityName": "Kiowa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "They migrated southward from western Montana into the Rocky Mountains in Colorado in the 17th and 18th centuries and eventually into the Southern Plains by the early 19th century."
+    },
+    {
+      "cityName": "Kiowa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1867, the Kiowa were moved to a reservation in Southwestern Oklahoma."
+    },
+    {
+      "cityName": "Kremmling",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Kremmling is a Statutory Town in Grand County, Colorado, United States."
+    },
+    {
+      "cityName": "Kremmling",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town sits along the upper Colorado River in the lower arid section of Middle Park between Byers Canyon and Gore Canyon."
+    },
+    {
+      "cityName": "Kremmling",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was founded in 1881 during the Colorado Silver Boom days, but the lack of mineral resources in the nearby mountains made the town grow very slowly in the early days."
+    },
+    {
+      "cityName": "La Jara",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "La Jara is a statutory town in Conejos County, Colorado, United States."
+    },
+    {
+      "cityName": "La Junta",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "La Junta is located on the Arkansas River in southeastern Colorado 68 miles (109\u00a0km) east of Pueblo."
+    },
+    {
+      "cityName": "La Junta",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the home of Otero College and hosts the annual Tarantula Fest."
+    },
+    {
+      "cityName": "La Salle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of LaSalle is a Statutory Town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Lafayette is a home rule municipality located in southeastern Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Lakeside is a statutory town in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lakeside is immediately west of the City and County of Denver, the most populous municipality in the state."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Alcott Post Office serves Lakeside."
+    },
+    {
+      "cityName": "Lakewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lakewood is the home rule city that is the most populous municipality in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Lakewood",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lakewood is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and a major city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after Lucius Quintus Cincinnatus Lamar, a Confederate soldier and diplomat who wrote the Mississippi Secession Ordinance, and after the Civil War, went on to serve as U.S. Secretary of the Interior and U.S. Supreme Court Justice."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lamar is the home of Lamar Community College, and is the largest city in southeastern Colorado."
+    },
+    {
+      "cityName": "Las Animas",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Las Animas is located on the Arkansas River, just west of its confluence with the Purgatoire River, in southeast Colorado east of Pueblo, near the historic Bent's Fort."
+    },
+    {
+      "cityName": "Leadville",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated at an elevation of 10,119 feet (3,084\u00a0m)."
+    },
+    {
+      "cityName": "Lewis",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Durango is the home of Fort Lewis College."
+    },
+    {
+      "cityName": "Limon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Limon is a statutory town in Lincoln County, Colorado, United States."
+    },
+    {
+      "cityName": "Limon",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Limon lies at the intersection of Interstate 70, U.S. Highways 24, 40, 287, and Colorado Highway 71, leading it to be dubbed the \"Hub City\" of eastern Colorado."
+    },
+    {
+      "cityName": "Lochbuie",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Lochbuie is a statutory town located in Weld and Adams counties in the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Log Lane Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Log Lane Village is a statutory town in Morgan County, Colorado, United States."
+    },
+    {
+      "cityName": "Lone Tree",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Lone Tree is a home rule municipality located in northern Douglas County, Colorado, United States."
+    },
+    {
+      "cityName": "Longmont",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Longs Peak, a prominent mountain that is clearly visible from the city."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Louisville is a home rule municipality located in southeastern Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Louisville began as a mining community in 1877, experienced a period of labor violence early in the 20th century, and transitioned to a suburban residential community when the mines closed in the 1950s."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loveland is a home rule municipality and the second most populous municipality in Larimer County, Colorado, United States."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Loveland is situated 46 miles (74\u00a0km) north of the Colorado State Capitol in Denver and is the 14th most populous city in Colorado."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city forms part of the Fort Collins-Loveland Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's public schools are part of the Thompson R2-J School District."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyons is a Statutory Town in Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lyons is located at the confluence of North St. Vrain Creek and South St. Vrain Creek, 20 miles (32\u00a0km) east of Rocky Mountain National Park."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Due to its location at the intersection of State Highway 7 and U.S. Highway 36 which lead to Rocky Mountain National Park, it is sometimes referred to as \"The Double Gateway to the Rockies\"."
+    },
+    {
+      "cityName": "Manassa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1851, the Town of Manassa is a Statutory Town and is the most populous municipality in Conejos County, Colorado, United States."
+    },
+    {
+      "cityName": "Mancos",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mancos is a statutory town in Montezuma County, Colorado, United States."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manitou Springs is a home rule municipality located at the foot of Pikes Peak in western El Paso County, Colorado, United States."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was founded for its natural mineral springs."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The downtown area continues to be of interest to travelers, particularly in the summer, with many shops and restaurants, as well as a creekside city park."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The main road through the center of town was one of the direct paths to the base of Pikes Peak."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Barr Trail, which winds its way up Pikes Peak, is accessible from town."
+    },
+    {
+      "cityName": "Manitou Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The subdivision Crystal Hills was added to the municipality in the 1960s."
+    },
+    {
+      "cityName": "Mead",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Mead is a Statutory Town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Milliken",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milliken is a statutory town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Milliken",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Milliken is a part of the Greeley, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Moffat",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Moffat is a statutory town in Saguache County, Colorado, United States."
+    },
+    {
+      "cityName": "Montbello",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bounded on its north side by E 56th Avenue and the Rocky Mountain Arsenal National Wildlife Refuge, on its south side by the I-70/I-225 junction, by Peoria Street on its western confine and Chambers Road on its east."
+    },
+    {
+      "cityName": "Monte Vista",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Monte Vista is the home rule municipality that is the most populous municipality in Rio Grande County, Colorado, United States."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Montezuma is a statutory town located in eastern Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a former mining camp that sits at an elevation of 10,200 feet (3,110\u00a0m), just west of the Continental Divide, nestled among mountains that reach an elevation of 12,000-13,000 feet around it."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is situated in the upper valley of the Snake River above the ski resort of Keystone in the Rocky Mountains."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main road that leads in and out of Montrose is U.S. Highway 50."
+    },
+    {
+      "cityName": "Monument",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monument is a home rule town situated at the base of the Rampart Range in El Paso County, Colorado, United States."
+    },
+    {
+      "cityName": "Monument",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Monument is one of the three communities that make up the Tri-Lakes area, along with Palmer Lake and Woodmoor."
+    },
+    {
+      "cityName": "Monument",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Monument is bordered by Pike National Forest on the west, Colorado Springs and the United States Air Force Academy to the south, Bald Mountain, True Mountain, and Spruce Mountain to the north, and Black Forest and rolling plains to the east."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "CO",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Robert A. Millikan was born in Morrison."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morrison is a home rule municipality in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Mountain View is a home rule municipality located in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mountain View is situated west of, and adjacent to, the city and county of Denver."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Denver Post Office serves Mountain View."
+    },
+    {
+      "cityName": "Mountain Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mountain Village is a home rule municipality in San Miguel County, southwestern Colorado."
+    },
+    {
+      "cityName": "Mountain Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located just southwest of Telluride, Colorado in the San Juan Mountains."
+    },
+    {
+      "cityName": "Mountain Village",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The elevation of the town rises above Telluride to 9,600 feet."
+    },
+    {
+      "cityName": "Naturita",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Naturita is a statutory town in Montrose County, Colorado, United States."
+    },
+    {
+      "cityName": "Nederland",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nederland is a statutory town located near Barker Meadow Reservoir in the foothills of southwest Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of New Castle is a home rule municipality in Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Niwot",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Niwot post office has the ZIP Codes 80503 and 80544."
+    },
+    {
+      "cityName": "Northglenn",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Northglenn is a home rule municipality located in Adams and Weld counties, Colorado, United States."
+    },
+    {
+      "cityName": "Northglenn",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Northglenn is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Northglenn",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was built as a master planned community in 1959 by Jordon Perlmutter."
+    },
+    {
+      "cityName": "Nucla",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nucla is a statutory town in Montrose County, Colorado, United States."
+    },
+    {
+      "cityName": "Nucla",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name comes from the town founders' intent that it serve as a \"nucleus\" for the surrounding farms and mines, although it has since come to be associated with the growth of uranium mining in the region."
+    },
+    {
+      "cityName": "Oak Creek",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Creek is a Statutory Town in Routt County, Colorado, United States."
+    },
+    {
+      "cityName": "Olathe",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Olathe is a statutory town in Montrose County, Colorado, United States."
+    },
+    {
+      "cityName": "Ophir",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ophir is a home rule municipality town governed by a general assembly and is located in San Miguel County, Colorado, United States."
+    },
+    {
+      "cityName": "Ophir",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located two miles from the Ames Hydroelectric Generating Plant, the world's first hydroelectric plant to supply alternating current electricity for an industrial purpose (mining)."
+    },
+    {
+      "cityName": "Orchard City",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are three post offices serving Orchard City: Austin, Cory, Eckert."
+    },
+    {
+      "cityName": "Orchard Mesa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Orchard Mesa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Grand Junction post office serves the area."
+    },
+    {
+      "cityName": "Otis",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otis is a Statutory Town in Washington County, Colorado, United States."
+    },
+    {
+      "cityName": "Ouray",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ouray County is a county located in the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Ouray",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because of its rugged mountain topography, Ouray County is known as the \"Switzerland of America\"."
+    },
+    {
+      "cityName": "Ovid",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Publius Ovidius Naso, known in English as Ovid, was a Roman poet who lived during the reign of Augustus."
+    },
+    {
+      "cityName": "Ovid",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was a younger contemporary of Virgil and Horace, with whom he is often ranked as one of the three canonical poets of Latin literature."
+    },
+    {
+      "cityName": "Ovid",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Imperial scholar Quintilian considered him the last of the Latin love elegists."
+    },
+    {
+      "cityName": "Ovid",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although Ovid enjoyed enormous popularity during his lifetime, the emperor Augustus exiled him to Tomis, the capital of the newly organised province of Moesia, on the Black Sea, where he remained for the last nine or ten years of his life."
+    },
+    {
+      "cityName": "Ovid",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ovid himself attributed his banishment to a carmen et error, but his reluctance to disclose specifics has resulted in much speculation among scholars."
+    },
+    {
+      "cityName": "Palisade",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palisade is a statutory town in Mesa County, Colorado, United States."
+    },
+    {
+      "cityName": "Palisade",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Grand Junction Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Palmer Lake",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palmer Lake is a Statutory Town in El Paso County, Colorado, United States."
+    },
+    {
+      "cityName": "Paonia",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paonia is a statutory town in Delta County, Colorado, United States."
+    },
+    {
+      "cityName": "Parachute",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parachute is a home rule municipality in Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Parker",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parker is a home rule municipality in Douglas County, Colorado, United States."
+    },
+    {
+      "cityName": "Parker",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As a self-declared \"town\" under the home rule statutes, Parker is the second most populous town in the county; Castle Rock is the most populous."
+    },
+    {
+      "cityName": "Parker",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In recent years, Parker has become a commuter town at the southeasternmost corner of the Denver metropolitan area."
+    },
+    {
+      "cityName": "Parker",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Parker is now the 19th most populous municipality in the state of Colorado."
+    },
+    {
+      "cityName": "Peetz",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peetz is a statutory town in Logan County, Colorado, United States."
+    },
+    {
+      "cityName": "Penrose",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Penrose post office has the ZIP Code 81240."
+    },
+    {
+      "cityName": "Peyton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Peyton post office has the ZIP Code 80831."
+    },
+    {
+      "cityName": "Pierce",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pierce is a Statutory Town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Pierce",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a rural agricultural community located on the Colorado Eastern Plains along U.S. Highway 85 north of Greeley."
+    },
+    {
+      "cityName": "Platteville",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Platteville is a Statutory Town in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Platteville",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjacent to Fort Vasquez on U.S. Highway 85."
+    },
+    {
+      "cityName": "Poncha Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Poncha Springs is a statutory town in Chaffee County, Colorado, United States."
+    },
+    {
+      "cityName": "Pueblo",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pueblo is the principal city of the Pueblo, CO Metropolitan Statistical Area and a major city of the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Pueblo West",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Pueblo West Metropolitan District provides services."
+    },
+    {
+      "cityName": "Pueblo West",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Pueblo post office (Zip Code 81007) serves Pueblo West postal addresses."
+    },
+    {
+      "cityName": "Rangely",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rangely is a statutory town in Rio Blanco County, Colorado, United States."
+    },
+    {
+      "cityName": "Rangely",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rangely is the home of Colorado Northwestern Community College."
+    },
+    {
+      "cityName": "Redlands",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Grand Junction, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Redlands",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Grand Junction post office serves the area."
+    },
+    {
+      "cityName": "Ridgway",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Ridgway is a home rule municipality that is the most populous municipality in Ouray County, Colorado, United States."
+    },
+    {
+      "cityName": "Ridgway",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a former railroad stop on the Uncompahgre River in the northern San Juan Mountains."
+    },
+    {
+      "cityName": "Rifle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rifle is a home-rule municipality in, and the most populous community of, Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Rifle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rifle is a regional center of the cattle-ranching industry located along Interstate 70 and the Colorado River just east of the Roan Plateau, which dominates the western skyline of the town."
+    },
+    {
+      "cityName": "Rifle",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community takes its name from the creek."
+    },
+    {
+      "cityName": "Roxborough",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Roxborough Village Metropolitan District and the Roxborough Water and Sanitation District provide services."
+    },
+    {
+      "cityName": "Roxborough",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Littleton post office serves the area."
+    },
+    {
+      "cityName": "Roxborough Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Roxborough Village Metropolitan District and the Roxborough Water and Sanitation District provide services."
+    },
+    {
+      "cityName": "Roxborough Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Littleton post office serves the area."
+    },
+    {
+      "cityName": "Rye",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rye is a Statutory Town in Pueblo County, Colorado, United States."
+    },
+    {
+      "cityName": "Sawpit",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sawpit is a Statutory Town in San Miguel County, Colorado, United States."
+    },
+    {
+      "cityName": "Sawpit",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Telluride Post Office serves Sawpit."
+    },
+    {
+      "cityName": "Security",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both the Colorado Springs post office and the Fountain post office serve the area."
+    },
+    {
+      "cityName": "Security-Widefield",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both the Colorado Springs post office and the Fountain post office serve the area."
+    },
+    {
+      "cityName": "Sedgwick",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sedgwick is a statutory town in Sedgwick County, Colorado, United States."
+    },
+    {
+      "cityName": "Seibert",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Seibert is a surname of German origin."
+    },
+    {
+      "cityName": "Seibert",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It comes from the German personal name Seibert, which was formed from Old High German sigu/Old Saxon *sigi, meaning victory, and Old High German beraht/Old Saxon berht, meaning bright."
+    },
+    {
+      "cityName": "Seibert",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The \"g\" was dropped and the first vowel became a diphthong."
+    },
+    {
+      "cityName": "Seibert",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There are 3495 people with this surname in Germany, mostly in the west of the country."
+    },
+    {
+      "cityName": "Seibert",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Variants include Siegbert, Siebert, Siepert, Seiberth, Saibert and Zeiberts."
+    },
+    {
+      "cityName": "Severance",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Severance is a home rule municipality in Weld County, Colorado, United States."
+    },
+    {
+      "cityName": "Severance",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located on the Colorado Eastern Plains, northwest of Greeley."
+    },
+    {
+      "cityName": "Severance",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office in Severance has been in operation since 1894."
+    },
+    {
+      "cityName": "Shaw Heights",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Westminster post office serves the area."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Sheridan is a home rule municipality located in Arapahoe County, Colorado, United States."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sheridan is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sheridan Lake",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The U.S. State of Colorado has 273 active municipalities, comprising 198 towns, 73 cities, and two consolidated city and county governments."
+    },
+    {
+      "cityName": "Sheridan Lake",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City and County of Denver, the state capital, is the oldest municipality in Colorado."
+    },
+    {
+      "cityName": "Sheridan Lake",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On December 3, 1859, the extralegal Territory of Jefferson granted a charter to the consolidated City of Denver, Auraria, and Highland."
+    },
+    {
+      "cityName": "Silt",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silt is a statutory town in Garfield County, Colorado, United States."
+    },
+    {
+      "cityName": "Silt",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Glenwood Springs Micropolitan Area."
+    },
+    {
+      "cityName": "Silver Cliff",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Silver Cliff is the Statutory Town that is the most populous municipality in Custer County, Colorado, United States."
+    },
+    {
+      "cityName": "Silver Plume",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silver Plume is a Statutory Town located in Clear Creek County, Colorado, United States."
+    },
+    {
+      "cityName": "Silver Plume",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Silver Plume is a former silver mining camp along Clear Creek in the Front Range of the Rocky Mountains."
+    },
+    {
+      "cityName": "Silver Plume",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The federally designated Georgetown-Silver Plume Historic District comprises Silver Plume, the neighboring town of Georgetown, and the Georgetown Loop Historic Mining & Railroad Park between the two towns."
+    },
+    {
+      "cityName": "Silverthorne",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silverthorne is a town in Summit County, Colorado, United States."
+    },
+    {
+      "cityName": "Silverton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is located in a remote part of the western San Juan Mountains, a range of the Rocky Mountains."
+    },
+    {
+      "cityName": "Silverton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first mining claims were made in mountains above the Silverton in 1860, near the end of the Colorado Gold Rush and when the land was still controlled by the Utes."
+    },
+    {
+      "cityName": "Silverton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Silverton was established shortly after the Utes ceded the region in the 1873 Brunot Agreement, and the town boomed from silver mining until the Panic of 1893 led to a collapse of the silver market, and boomed again from gold mining until the recession caused by the Panic of 1907."
+    },
+    {
+      "cityName": "Silverton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The entire town is included as a federally designated National Historic Landmark District, the Silverton Historic District."
+    },
+    {
+      "cityName": "Simla",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Simla is a statutory town in Elbert County, Colorado, United States."
+    },
+    {
+      "cityName": "Simla",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 48 miles (77\u00a0km) northeast of Colorado Springs."
+    },
+    {
+      "cityName": "Snowmass",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated in the valley of the Roaring Fork River, near the mouth of Snowmass Creek along State Highway 82 between Aspen and Basalt."
+    },
+    {
+      "cityName": "Snowmass",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It consists largely of a post office, several commercial businesses, and surrounding houses and ranches."
+    },
+    {
+      "cityName": "Snowmass",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Snowmass Post Office has the ZIP Code 81654."
+    },
+    {
+      "cityName": "South Fork",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Fork is a statutory town in Rio Grande County, Colorado, United States."
+    },
+    {
+      "cityName": "South Fork",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies at the confluence of the South Fork and Rio Grande rivers."
+    },
+    {
+      "cityName": "Steamboat Springs",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Steamboat Springs is the principal city of the Steamboat Springs Micropolitan Statistical Area, and it is the largest city in northwestern Colorado."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sterling is the largest city in the Eastern Plains region of Colorado and the site of the domed Logan County Courthouse, built in 1909."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to Northeastern Junior College, enrolling over 1,500 students annually."
+    },
+    {
+      "cityName": "Stonegate",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Stonegate Village Metropolitan District provides services to the community, which lies in ZIP Code 80134."
+    },
+    {
+      "cityName": "Strasburg",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Strasburg School District 31-J, and there are several small businesses, medical clinics, and a post office."
+    },
+    {
+      "cityName": "Strasburg",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mailing addresses in the town are assigned the ZIP Code 80136."
+    },
+    {
+      "cityName": "Stratmoor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Colorado Springs post office."
+    },
+    {
+      "cityName": "Stratton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stratton is a statutory town in Kit Carson County, Colorado, United States."
+    },
+    {
+      "cityName": "Stratton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stratton was named in honor of the gold miner and philanthropist Winfield Scott Stratton."
+    },
+    {
+      "cityName": "Superior",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Superior is a Home Rule Town in Boulder County, Colorado, United States, with a small, uninhabited segment of land area extending into Jefferson County."
+    },
+    {
+      "cityName": "Superior",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Colorado's Front Range urban corridor, it is close to the cities of Boulder, Denver, and the foothills of the Front Range mountains."
+    },
+    {
+      "cityName": "Swink",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Swink is a Statutory Town in Otero County, Colorado, United States."
+    },
+    {
+      "cityName": "Tabernash",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Tabernash post office has the ZIP Code 80478."
+    },
+    {
+      "cityName": "Telluride",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is a former silver mining camp on the San Miguel River in the western San Juan Mountains."
+    },
+    {
+      "cityName": "Telluride",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first gold mining claim was made in the mountains above Telluride in 1875, and early settlement of what is now Telluride followed."
+    },
+    {
+      "cityName": "The Pinery",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Parker post office serves the area."
+    },
+    {
+      "cityName": "Thornton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thornton is the sixth-most-populous city in Colorado and the 191st-most-populous city in the United States."
+    },
+    {
+      "cityName": "Thornton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Thornton is 10 miles (16\u00a0km) north of the Colorado State Capitol in Denver and is a part of the Denver-Aurora-Greeley, CO Combined Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Thorton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2026 United States House of Representatives elections in Colorado will be held on November 3, 2026, to elect the eight U.S. representatives from the State of Colorado, one from each of the state's congressional districts."
+    },
+    {
+      "cityName": "Thorton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The elections will coincide with other elections to the House of Representatives, elections to the United States Senate, and various state and local elections."
+    },
+    {
+      "cityName": "Thorton",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The primary elections will take place on June 30, 2026."
+    },
+    {
+      "cityName": "Timnath",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Timnath is a Statutory Town located in Larimer County, Colorado, United States."
+    },
+    {
+      "cityName": "Timnath",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1882, Timnath is a small agricultural/farming community located southeast of Fort Collins, Colorado, approximately one-half mile east of the Harmony Road/Interstate 25 interchange, on a small bluff east of the Cache la Poudre River."
+    },
+    {
+      "cityName": "Timnath",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The surrounding farmlands have been used primarily for potatoes, alfalfa, sugar beets, and cattle."
+    },
+    {
+      "cityName": "Timnath",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although the town has remained virtually unchanged in recent decades, the encroaching growth of both Fort Collins to the west and Windsor to the south have placed the town in an area considered favorable to development."
+    },
+    {
+      "cityName": "Timnath",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Timnath has been one of the fastest-growing communities in Colorado since 2020."
+    },
+    {
+      "cityName": "Towaoc",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Towaoc post office has the ZIP Code 81334."
+    },
+    {
+      "cityName": "Trinidad",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trinidad lies 21\u00a0mi (34\u00a0km) north of Raton, New Mexico, and 195\u00a0mi (314\u00a0km) south of Denver."
+    },
+    {
+      "cityName": "Trinidad",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the historic Santa Fe Trail."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Twin Lakes is a pair of glacier-carved alpine lakes about 15 miles (24\u00a0km) south of historic Leadville, Colorado."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "They are downstream along the Arkansas River, whose headwaters are by Leadville."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The lakes, however, are on a tributary, Lake Creek, which joins the Arkansas just below the lakes."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Both east and west lakes are recreation areas for boating and fishing."
+    },
+    {
+      "cityName": "Two Buttes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Two Buttes is a dual-peaked mountain in Prowers County, Colorado."
+    },
+    {
+      "cityName": "Two Buttes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The two peaks, which are the highest point in Prowers County, rise about 300 feet (91\u00a0m) above the mostly flat Great Plains that surround them, making them visible for miles."
+    },
+    {
+      "cityName": "Two Buttes",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The south peak is about 30 feet (9.1\u00a0m) higher than the north one, and both are connected by a saddle."
+    },
+    {
+      "cityName": "Usaf Academy",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lowry Air Force Base is a former United States Army Air Forces (USAAF) training base during World War II and a United States Air Force (USAF) training base during the Cold War."
+    },
+    {
+      "cityName": "Usaf Academy",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "From 1955-1958, it served as the initial site of the U.S. Air Force Academy."
+    },
+    {
+      "cityName": "Usaf Academy",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a U.S. Formerly Used Defense Site (B08CO0505)."
+    },
+    {
+      "cityName": "Vail",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vail is a home rule municipality in Eagle County, Colorado, United States."
+    },
+    {
+      "cityName": "Vail",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Home to Vail Ski Resort, the largest ski mountain in Colorado, the town is known for its hotels, dining, and for the numerous events the city hosts annually, such as the Vail Film Festival, Vail Resorts Snow Days, and Bravo!"
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Victor is a Statutory City in Teller County, Colorado, United States."
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gold was discovered in Victor in the late 19th century, an omen of the future of the town."
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With Cripple Creek, the mining district became the second largest gold mining district in the country and realized approximately $10 billion of mined gold in 2010 dollars."
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It reached its peak around the turn of the century when there were about 18,000 residents in the town."
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Depleted ore in mines, labor strife and the exodus of miners during World War I caused a steep decline in the city's economy, from which it has never recovered."
+    },
+    {
+      "cityName": "Victor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "There is a resumed mining effort on Battle Mountain."
+    },
+    {
+      "cityName": "Vona",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vona is both a surname and a given name."
+    },
+    {
+      "cityName": "Vona",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Notable people with the name include:Franco Vona, Italian cyclist\nG\u00e1bor Vona, Hungarian politician\nVona Groarke, Irish poet"
+    },
+    {
+      "cityName": "Walden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walden is an 1854 book by American transcendentalist writer Henry David Thoreau."
+    },
+    {
+      "cityName": "Walden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The text is a reflection upon the author's simple living in natural surroundings."
+    },
+    {
+      "cityName": "Walden",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and\u2014to some degree\u2014a manual for self-reliance."
+    },
+    {
+      "cityName": "Walsh",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walsh is a statutory town in Baca County, Colorado, United States."
+    },
+    {
+      "cityName": "Ward",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ward is a home rule municipality in Boulder County, Colorado, United States."
+    },
+    {
+      "cityName": "Ward",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a former mining settlement founded in 1860 in the wake of the discovery of gold at nearby Gold Hill."
+    },
+    {
+      "cityName": "Ward",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Once one of the richest towns in the state during the Colorado Gold Rush, it is located on a mountainside at the top of Left Hand Canyon, near the Peak to Peak Highway northwest of Boulder at an elevation of 9,450 feet (2,880\u00a0m) above sea level."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wellington is a statutory town in Larimer County, Colorado, United States."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wellington is situated in the northern part of Colorado, and it is part of the Fort Collins-Loveland Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westminster is the eighth most populous city in Colorado."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a part of the Denver-Aurora-Centennial, CO Metropolitan Statistical Area and the Front Range Urban Corridor."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Westminster Municipal Center is located 9 miles (14\u00a0km) north-northwest of the Colorado State Capitol in Denver."
+    },
+    {
+      "cityName": "Wheat Ridge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Wheat Ridge is a home rule municipality in Jefferson County, Colorado, United States."
+    },
+    {
+      "cityName": "Wheat Ridge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wheat Ridge is located immediately west of Denver and is a part of the Denver\u2013Aurora\u2013Lakewood, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wheat Ridge",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Wheat Ridge Municipal Center is approximately 5 miles (8\u00a0km) west-northwest of the Colorado State Capitol in Denver."
+    },
+    {
+      "cityName": "Wiley",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wiley is a statutory town in Prowers County, Colorado, United States."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windsor is a home rule municipality in Larimer and Weld counties in the U.S. state of Colorado."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Windsor is located in the Northern Colorado region."
+    },
+    {
+      "cityName": "Winter Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winter Park is a home rule municipality in Grand County, Colorado, United States."
+    },
+    {
+      "cityName": "Woodland Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodland Park is a home rule municipality in Teller County, Colorado, United States."
+    },
+    {
+      "cityName": "Woodland Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Woodland Park is part of the Colorado Springs, CO Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Woodland Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many residents in this bedroom community commute to Colorado Springs."
+    },
+    {
+      "cityName": "Woodland Park",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Woodland Park is surrounded by the 1,000,000-acre (400,000\u00a0ha) Pike National Forest."
+    },
+    {
+      "cityName": "Woodmoor",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Monument post office serves the area."
+    },
+    {
+      "cityName": "Wray",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 9 miles west of the Nebraska state line in the northeast Colorado Plains."
+    },
+    {
+      "cityName": "Yampa",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yampa is a statutory town in Routt County, Colorado, United States."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "CO",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yuma is a home rule municipality that is the most populous municipality in Yuma County, Colorado, United States."
+    }
+  ]
+}

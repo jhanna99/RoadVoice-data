@@ -1,0 +1,1712 @@
+{
+  "facts": [
+    {
+      "cityName": "Aberdeen",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Aberdeen, in Scotland."
+    },
+    {
+      "cityName": "Albion",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ammon",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies directly to the east of Idaho Falls and to the west of the Ammon foothills, and is the second most populous city in the Idaho Falls metropolitan area."
+    },
+    {
+      "cityName": "Arimo",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arimo is a city in the Marsh Valley in central Bannock County, Idaho, United States, that is part of the 'Pocatello Metropolitan Statistical Area'."
+    },
+    {
+      "cityName": "Ashton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The district is noted for seed potato production and bills itself as the world's largest seed potato growing area."
+    },
+    {
+      "cityName": "Athol",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athol ( AH-thol; is a city in Kootenai County, Idaho, United States."
+    },
+    {
+      "cityName": "Athol",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Coeur d'Alene Metropolitan Statistical Area, which includes the entire county."
+    },
+    {
+      "cityName": "Athol",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its main attraction is Silverwood Theme Park."
+    },
+    {
+      "cityName": "Blackfoot",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blackfoot is the principal city of the Blackfoot, Idaho, Micropolitan Statistical Area, which includes Bingham County."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blanchard is located on Idaho State Highway 41 6.5 miles (10.5\u00a0km) northwest of Spirit Lake."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Blanchard has a post office with ZIP code 83804."
+    },
+    {
+      "cityName": "Boise",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boise is the capital and most populous city of the U.S. state of Idaho."
+    },
+    {
+      "cityName": "Buhl",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buhl is a city located on the old Oregon Trail in the western half of Twin Falls County, Idaho, United States."
+    },
+    {
+      "cityName": "Buhl",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Twin Falls, Idaho metropolitan area."
+    },
+    {
+      "cityName": "Caldwell",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caldwell is the 5th most populous city in Idaho."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ID",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Cambridge include Matt Damon, Percy Williams Bridgman, and Charles Sanders Peirce."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county town of Cambridgeshire and is located on the River Cam, 55 miles (89\u00a0km) north of London."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is archaeological evidence of settlement in the area as early as the Bronze Age, and Cambridge became an important trading centre during the Roman and Viking eras."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first town charters were granted in the 12th century, although modern city status was not officially conferred until 1951."
+    },
+    {
+      "cityName": "Carey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carey is primarily an agricultural city and is the location of the Blaine County Fairgrounds."
+    },
+    {
+      "cityName": "Carey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nearby recreational destinations include the Craters of the Moon National Monument, Carey Lake, Silver Creek and the Little Wood River."
+    },
+    {
+      "cityName": "Carey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Further west is the Big Wood River Valley, leading to the Sun Valley resort."
+    },
+    {
+      "cityName": "Castleford",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cataldo",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cataldo lies on the southeast banks of the Coeur d'Alene River and Interstate 90 passes the south side of the community."
+    },
+    {
+      "cityName": "Cataldo",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community of Kingston lies along I-90 to the east."
+    },
+    {
+      "cityName": "Cataldo",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The ZIP Code for Cataldo is 83810."
+    },
+    {
+      "cityName": "Challis",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Challis is the largest city in Custer County, Idaho, United States."
+    },
+    {
+      "cityName": "Chubbuck",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pocatello Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Chubbuck",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Chubbuck is located immediately north of Pocatello, Idaho, and has opposed several consolidation proposals since the 1960s."
+    },
+    {
+      "cityName": "Coeur D Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area."
+    },
+    {
+      "cityName": "Coeur D Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur D Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\"."
+    },
+    {
+      "cityName": "Coeur D' Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area."
+    },
+    {
+      "cityName": "Coeur D' Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur D' Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\"."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\"."
+    },
+    {
+      "cityName": "Coeur dAlene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area."
+    },
+    {
+      "cityName": "Coeur dAlene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur dAlene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\"."
+    },
+    {
+      "cityName": "Coeur d\u2019Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area."
+    },
+    {
+      "cityName": "Coeur d\u2019Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur d\u2019Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\"."
+    },
+    {
+      "cityName": "Conda",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conda is 6 miles (9.7\u00a0km) northeast of Soda Springs."
+    },
+    {
+      "cityName": "Conda",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Conda has a post office with ZIP code 83230."
+    },
+    {
+      "cityName": "Cottonwood",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is just west of U.S. Route 95, between Grangeville and Lewiston."
+    },
+    {
+      "cityName": "Craigmont",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the Camas Prairie in north central Idaho, it is within the Nez Perce Indian Reservation."
+    },
+    {
+      "cityName": "Dalton Gardens",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is considered a suburb of Coeur d'Alene and borders the city to the north and east."
+    },
+    {
+      "cityName": "Dalton Gardens",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of Dalton Gardens is also part of the larger Spokane-Coeur d'Alene Combined Metropolitan Statistical Area which encompasses Kootenai County, Idaho."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Dayton metropolitan area has an estimated 822,000 residents and is the state's fourth-largest metropolitan area."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dayton is located within Ohio's Miami Valley region, 50 miles (80\u00a0km) north of Cincinnati and 55 miles (89\u00a0km) southwest of Columbus."
+    },
+    {
+      "cityName": "Declo",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley, Idaho micropolitan area."
+    },
+    {
+      "cityName": "Dietrich",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dietrich is an ancient German name meaning \"ruler of the people\", but also \"keeper of the keys\" or \"lockpick\"."
+    },
+    {
+      "cityName": "Donnelly",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also used as: O\u2019Donnelly or Donley."
+    },
+    {
+      "cityName": "Donnelly",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is derived from the Gaelic \u00d3 Donnghaile meaning 'descendant of Donnghal', a given name composed of the elements donn and gal ('valour')."
+    },
+    {
+      "cityName": "Donnelly",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "O'Donnelly was historically of the Northern U\u00ed N\u00e9ill's Cen\u00e9l nEoghain, descended from Donnghal, the great-grandson of Domhnall, King of Ailech."
+    },
+    {
+      "cityName": "Downey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pocatello Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Driggs",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Jackson, WY-ID Micropolitan Statistical Area, it is located in Teton Valley, the headwaters of the Teton River."
+    },
+    {
+      "cityName": "Eden",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elk River",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is accessed from State Highway 8 from Bovill, to the west in adjacent Latah County."
+    },
+    {
+      "cityName": "Elk River",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Formerly the site of a Potlatch sawmill, it was phased out after several decades during the 1930s."
+    },
+    {
+      "cityName": "Emmett",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Emmett is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Ferdinand",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the southern end of the Nez Perce Indian Reservation, it was founded by F.M."
+    },
+    {
+      "cityName": "Ferdinand",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bieker shortly after the reservation was opened for settlement in 1895."
+    },
+    {
+      "cityName": "Ferdinand",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named after Ferdinand, Indiana, where his mother's family had lived."
+    },
+    {
+      "cityName": "Fernan Lake Village",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It borders Fernan Lake to the east in which the town gets its name."
+    },
+    {
+      "cityName": "Filer",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Filer (F\u012a-ler) is a city in Twin Falls County, Idaho, United States."
+    },
+    {
+      "cityName": "Filer",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Filer is located just west of the intersection of U.S. Routes 93 and 30."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fruitland",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along U.S. Route 95 in the Treasure Valley of southwest Idaho, about 50 miles (80\u00a0km) west of Boise on the border with Oregon."
+    },
+    {
+      "cityName": "Fruitland",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ontario Micropolitan Area."
+    },
+    {
+      "cityName": "Fruitland",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fruitland is named after apple orchards that surround the community, and its slogan is \"The Big Apple of Idaho.\""
+    },
+    {
+      "cityName": "Garden City",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Garden City is nearly surrounded by Boise but retains a separate municipal government."
+    },
+    {
+      "cityName": "Garden Valley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The mountain setting and recreation opportunities attract visitors from the Boise area."
+    },
+    {
+      "cityName": "Garden Valley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Life there during the pioneer days was quite harsh and economic opportunity was based on logging, mining, and ranching."
+    },
+    {
+      "cityName": "Garden Valley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In later years there was work as hunting guides."
+    },
+    {
+      "cityName": "Genesee",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for the Genesee region of western New York, although it may also be a modification of the biblical Genesis."
+    },
+    {
+      "cityName": "Glenns Ferry",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is adjacent to Interstate 84 and the Snake River."
+    },
+    {
+      "cityName": "Grand View",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boise City\u2013Nampa, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Greenleaf",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenleaf is part of the Boise-Nampa metropolitan area."
+    },
+    {
+      "cityName": "Greenleaf",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was established by Quakers in the early-1900s and is named after Quaker poet and abolitionist John Greenleaf Whittier."
+    },
+    {
+      "cityName": "Hagerman",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is noted for its fossil beds and the Thousand Springs of the Eastern Snake Plain Aquifer."
+    },
+    {
+      "cityName": "Hagerman",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hagerman is home to a national fish hatchery, a university research station, and extensive aquaculture, assisted by an abundance of geothermal water for temperature regulation."
+    },
+    {
+      "cityName": "Hailey",
+      "state": "ID",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Ezra Pound was born in Hailey."
+    },
+    {
+      "cityName": "Hailey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hailey is the site of Friedman Memorial Airport (SUN), the airport for the resort area of Sun Valley/Ketchum, 12 miles (19\u00a0km) north."
+    },
+    {
+      "cityName": "Hailey",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Bellevue is a few miles south."
+    },
+    {
+      "cityName": "Hansen",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrison is located on the eastern shore of Lake Coeur d'Alene, immediately south of where the Coeur d'Alene River flows into the lake."
+    },
+    {
+      "cityName": "Hauser",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located on the southern end of Hauser Lake."
+    },
+    {
+      "cityName": "Hazelton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Heyburn",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley micropolitan area."
+    },
+    {
+      "cityName": "Hollister",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Homedale",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town name was chosen by drawing names from a hat during a community picnic."
+    },
+    {
+      "cityName": "Homedale",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Homedale is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Homedale",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was, at one time, the terminus of a branch of the Oregon Short Line Railroad."
+    },
+    {
+      "cityName": "Horseshoe Bend",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Horseshoe Bend is the largest city in rural Boise County, in the southwestern part of the U.S. state of Idaho."
+    },
+    {
+      "cityName": "Idaho Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the state's most populous city outside the Boise metropolitan area."
+    },
+    {
+      "cityName": "Inkom",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pocatello, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Inkom",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of the smallest airport in the world, Simko Field Airport 1ID9, with a runway length of 122 meters."
+    },
+    {
+      "cityName": "Iona",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Idaho Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Irwin",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Idaho Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Island Park",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is only 500 feet (150\u00a0m) wide in most locations and at 33 miles (53\u00a0km), claims to have the longest \"Main Street\" in the world."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the second largest city in Idaho's Magic Valley region, second only to Twin Falls which is located 10 miles (16\u00a0km) southeast."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jerome's economy is largely agrarian, with dairy farming being one of the main revenue sources for the local economy."
+    },
+    {
+      "cityName": "Juliaetta",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after the daughters of an early settler."
+    },
+    {
+      "cityName": "Juliaetta",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2020, Juliaetta had a population of 624."
+    },
+    {
+      "cityName": "Kamiah",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The largest city in Lewis County, it extends only a small distance into Idaho County, south of Lawyer Creek."
+    },
+    {
+      "cityName": "Kamiah",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city lies in the narrow valley of the Clearwater River; downstream are Orofino and Lewiston, at the confluence with the Snake River."
+    },
+    {
+      "cityName": "Kellogg",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kellogg is a city in the Silver Valley of Shoshone County, Idaho, United States, in the Idaho Panhandle region."
+    },
+    {
+      "cityName": "Kellogg",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city lies near the Coeur d'Alene National Forest and about 36 miles (58\u00a0km) east-southeast of Coeur d'Alene along Interstate 90."
+    },
+    {
+      "cityName": "Ketchum",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Wood River Valley, Ketchum is adjacent to Sun Valley and the communities share many resources: both sit in the same valley beneath Bald Mountain, with its skiing."
+    },
+    {
+      "cityName": "Ketchum",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city also draws tourists to its fishing, hiking, trail riding, tennis, shopping, art galleries, and more."
+    },
+    {
+      "cityName": "Ketchum",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The airport for Ketchum, Friedman Memorial Airport, is approximately 15 miles (24\u00a0km) south in Hailey."
+    },
+    {
+      "cityName": "Kimberly",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Twin Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kingston is located on the south bank of the Coeur d'Alene River along Interstate 90 about 2 miles (3.2\u00a0km) northwest of Pinehurst."
+    },
+    {
+      "cityName": "Kooskia",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the confluence of the South and Middle forks of the Clearwater River, combining to become the main river."
+    },
+    {
+      "cityName": "Kuna",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Laclede",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laclede is located on U.S. Route 2 at the intersection of Riley Creek and the Pend Oreille River."
+    },
+    {
+      "cityName": "Laclede",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Laclede has a post office with ZIP code 83841."
+    },
+    {
+      "cityName": "Lava Hot Springs",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lava Hot Springs is a city along the Portneuf River in eastern Bannock County, Idaho, United States."
+    },
+    {
+      "cityName": "Lava Hot Springs",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pocatello, Idaho metropolitan area."
+    },
+    {
+      "cityName": "Lava Hot Springs",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in the mountainous valley of the Portneuf River on the old route of the Oregon Trail and California Trail, the city has become a popular resort location, noted for its numerous hot springs amenable to bathing and a turbulent inner tube run through part of the town."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the third-largest city in the northern Idaho region, behind Post Falls and Coeur d'Alene, and the twelfth-largest in the state."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lewiston is the principal city of the Lewiston, ID-WA Metropolitan Statistical Area, which includes all of Nez Perce County and Asotin County, Washington."
+    },
+    {
+      "cityName": "Lewiston Orchards",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the third-largest city in the northern Idaho region, behind Post Falls and Coeur d'Alene, and the twelfth-largest in the state."
+    },
+    {
+      "cityName": "Lewiston Orchards",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lewiston is the principal city of the Lewiston, ID-WA Metropolitan Statistical Area, which includes all of Nez Perce County and Asotin County, Washington."
+    },
+    {
+      "cityName": "Mackay",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mackay is a town in Custer County, Idaho, United States."
+    },
+    {
+      "cityName": "Mackay",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is pronounced \"Mackie\" with the accent on the first syllable."
+    },
+    {
+      "cityName": "Malta",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Marsing",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "McCall",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McCall is a resort town on the western edge of Valley County, Idaho, United States."
+    },
+    {
+      "cityName": "McCall",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Named after its founder, Tom McCall, it is situated on the southern shore of Payette Lake, near the center of the Payette National Forest."
+    },
+    {
+      "cityName": "McCammon",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pocatello, Idaho Metropolitan Statistical Area'."
+    },
+    {
+      "cityName": "McCammon",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1892, McCammon became the junction point between the Oregon Short Line Railroad and Utah and Northern Railway, and city gained the nickname Junction City."
+    },
+    {
+      "cityName": "Melba",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melba is a village in Canyon County, Idaho."
+    },
+    {
+      "cityName": "Melba",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Menan",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Idaho Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Meridian is considered the state's fastest-growing city and among the fastest-growing cities in the United States."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boise City\u2013Nampa, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Minidoka",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the largest community in the Bear Lake Valley, a farming region north of Bear Lake in southeastern Idaho along the Utah border."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was settled in 1863 by Mormon pioneers on the route of the Oregon Trail."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nearby to the east is the border with Wyoming."
+    },
+    {
+      "cityName": "Moscow",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moscow is the home of the University of Idaho, the state's land-grant institution and primary research university."
+    },
+    {
+      "cityName": "Mountain Home",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population in 2024 is projected to be 16,921."
+    },
+    {
+      "cityName": "Mountain Home",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Mountain Home Micropolitan Statistical Area, which includes Elmore County."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are several lakes named Mud Lake within the U.S. state of Idaho.Mud Lake, Bear Lake County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "42\u00b007\u203258\u2033N 111\u00b017\u203250\u2033W\nMud Lake, Blaine County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "43\u00b012\u203252\u2033N 114\u00b010\u203236\u2033W\nMud Lake, Boise County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "44\u00b008\u203227\u2033N 116\u00b008\u203231\u2033W\nMud Lake, Bonner County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "48\u00b011\u203235\u2033N 116\u00b023\u203259\u2033W\nMud Lake, Idaho County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "45\u00b056\u203207\u2033N 114\u00b059\u203212\u2033W\nMud Lake, Idaho County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "46\u00b015\u203237\u2033N 115\u00b014\u203210\u2033W\nMud Lake, Jefferson County, Idaho 43\u00b052\u203251\u2033N 112\u00b023\u203253\u2033W\nMud Lake, Nez Perce County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "46\u00b013\u203203\u2033N 116\u00b050\u203246\u2033W\nMud Lake, Shoshone County, Idaho."
+    },
+    {
+      "cityName": "Mud Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "46\u00b057\u203227\u2033N 115\u00b036\u203226\u2033W\nMud Lake, Valley County, Idaho."
+    },
+    {
+      "cityName": "Mullan",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mullan is a city in the northwest United States, located in the Silver Valley mining district of northern Idaho."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nampa is the most populous city in Canyon County, Idaho, United States."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is Idaho's third-most populous city."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nampa is about 20 miles (32\u00a0km) west of Boise along Interstate 84, and 6 miles (9.7\u00a0km) west of Meridian."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the second principal city of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The name \"Nampa\" may have come from a Shoshoni word meaning 'moccasin' or 'footprint'."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Bright, the name comes from the Shoshoni word /nampai/, meaning \"foot\"."
+    },
+    {
+      "cityName": "Nampa",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city has a prominent student population, home to the College of Western Idaho and Northwest Nazarene University."
+    },
+    {
+      "cityName": "New Meadows",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Meadows is a rural city in Adams County, Idaho, United States, at the southern and upper end of the Meadows Valley, on the Little Salmon River."
+    },
+    {
+      "cityName": "New Meadows",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Meadows is located at the junction of the primary north\u2013south highway in the state, U.S. Route 95, and State Highway 55, which connects it with McCall and Boise."
+    },
+    {
+      "cityName": "New Plymouth",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the host of the annual Payette County Fair and rodeo."
+    },
+    {
+      "cityName": "Newdale",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rexburg, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Nezperce",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nezperce is named for the local Nez Perce tribe of Native Americans."
+    },
+    {
+      "cityName": "Nezperce",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is one school district, Nezperce School District #302."
+    },
+    {
+      "cityName": "Notus",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boise metropolitan area."
+    },
+    {
+      "cityName": "Oakley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Oldtown",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Pend Oreille River, just east of Newport."
+    },
+    {
+      "cityName": "Oldtown",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There are no natural or physical barriers, and it is strictly a political division, separated by the straight-line state boundary."
+    },
+    {
+      "cityName": "Oldtown",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Oldtown is squeezed between this boundary to the west and the river to the east, leaving the main business district on U.S. Route 2 with only 700 feet of space in which to operate on the Idaho side."
+    },
+    {
+      "cityName": "Oldtown",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Many homes are located in the south end on the other side of the railroad, as the Pend Oreille is somewhat further away here."
+    },
+    {
+      "cityName": "Orofino",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the major city within the Nez Perce Indian Reservation."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oxford is a cathedral city and non-metropolitan district in Oxfordshire, England, of which it is the county town."
+    },
+    {
+      "cityName": "Paris",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paris was settled on September 26, 1863, by pioneer settlers of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Parma",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the fourth largest city in the county and the largest in the rural western portion."
+    },
+    {
+      "cityName": "Parma",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Boise City\u2013Nampa, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Paul",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Payette",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Ontario, OR\u2212ID Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Peck",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lewiston, ID-WA Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Peck",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many residents of Peck work in nearby Orofino, Idaho."
+    },
+    {
+      "cityName": "Peck",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Additionally, Peck residents attend high school in Orofino since Peck does not have a high school."
+    },
+    {
+      "cityName": "Pingree",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pingree is located on Idaho State Highway 39 southwest of Blackfoot and northwest of Pocatello."
+    },
+    {
+      "cityName": "Plummer",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest city within the Coeur d'Alene Reservation, and is accessed by U.S. Route 95, the state's primary north\u2013south highway."
+    },
+    {
+      "cityName": "Pocatello",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the principal city of the Pocatello metropolitan area, which encompasses all of Bannock County in the southeastern part of the U.S. state of Idaho."
+    },
+    {
+      "cityName": "Ponderay",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ponderay's city motto is \"Little City with the Big Future\"."
+    },
+    {
+      "cityName": "Ponderay",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name is an English phonetic spelling of the French words \u201cPend d'Oreille\u201d, the name of a local indigenous people that live in the region."
+    },
+    {
+      "cityName": "Ponderay",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name of the lake the city sits on, Lake Pend Oreille, is also a corruption of the Pend d'Orielles."
+    },
+    {
+      "cityName": "Post Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the gateway city to Northern Idaho off Interstate 90, just west of Coeur d'Alene, and east of Spokane, Washington."
+    },
+    {
+      "cityName": "Potlatch",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Potlatch is the gift-giving feast practiced among others by Indigenous peoples of the Pacific Northwest Coast of Canada and the United States, among whom it is traditionally the primary governmental institution, legislative body, and economic system."
+    },
+    {
+      "cityName": "Potlatch",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This includes the Heiltsuk, Haida, Nuxalk, Tlingit, Makah, Tsimshian, Nuu-chah-nulth, Kwakwaka'wakw, and Coast Salish cultures."
+    },
+    {
+      "cityName": "Potlatch",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Potlatches are also a common feature of the peoples of the Interior and of the Subarctic adjoining the Northwest Coast, although mostly without the elaborate ritual and gift-giving economy of the coastal peoples."
+    },
+    {
+      "cityName": "Preston",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the seat of government of Franklin County."
+    },
+    {
+      "cityName": "Preston",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Logan metropolitan area."
+    },
+    {
+      "cityName": "Priest River",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Idaho Panhandle region of the state, the city is at the mouth of the Priest River on the Pend Oreille River."
+    },
+    {
+      "cityName": "Rathdrum",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Coeur d'Alene Metropolitan Statistical Area, which includes the entire county."
+    },
+    {
+      "cityName": "Rathdrum",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after Rathdrum, a village in County Wicklow, Ireland."
+    },
+    {
+      "cityName": "Rexburg",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rexburg is the principal city of the Rexburg micropolitan area, which includes Fremont and Madison counties."
+    },
+    {
+      "cityName": "Rexburg",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Brigham Young University\u2013Idaho (BYU-Idaho), a private institution operated by the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Riggins",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nestled deep in a canyon at the confluence of the Salmon and Little Salmon rivers in west central Idaho, it is approximately 150 highway miles (240\u00a0km) north of Boise, and 120 highway miles (190\u00a0km) south-southeast of Lewiston."
+    },
+    {
+      "cityName": "Ririe",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ririe is a city in Bonneville and Jefferson counties in the eastern part of the U.S. state of Idaho."
+    },
+    {
+      "cityName": "Ririe",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Idaho Falls metropolitan area."
+    },
+    {
+      "cityName": "Roberts",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Idaho Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rupert",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sagle",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sagle has a post office with ZIP code 83860."
+    },
+    {
+      "cityName": "Saint Anthony",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rexburg, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sandpoint",
+      "state": "ID",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Sarah Palin was born in Sandpoint."
+    },
+    {
+      "cityName": "Shoshone",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In contrast to the Shoshone Native American tribe for which it is named, the city's name is correctly pronounced \"Show-shown\", with a silent \"e\"."
+    },
+    {
+      "cityName": "Soda Springs",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 1860s, Soda Springs served as the seat of Oneida County."
+    },
+    {
+      "cityName": "South Meridian",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Meridian is a city located in Ada County, Idaho, United States."
+    },
+    {
+      "cityName": "South Meridian",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Meridian is considered the state's fastest-growing city and among the fastest-growing cities in the United States."
+    },
+    {
+      "cityName": "Spirit Lake",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Coeur d'Alene Metropolitan Statistical Area, which includes the entire county."
+    },
+    {
+      "cityName": "St. Anthony",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rexburg, Idaho Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanley is a town in the Sawtooth Valley in Custer County, Idaho, United States."
+    },
+    {
+      "cityName": "Star",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Star is a city in northwestern Ada County, Idaho, with parts stretching into neighboring Canyon County."
+    },
+    {
+      "cityName": "Star",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named in the 19th century by travelers on their way to Middleton and Boise who used the star on the school house to find east and west."
+    },
+    {
+      "cityName": "Star",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name stuck and it became Star, Idaho."
+    },
+    {
+      "cityName": "Star",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today, it is a rapidly growing suburb of Boise and its schools are shared with Middleton School District and West Ada School District."
+    },
+    {
+      "cityName": "Stites",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the lower canyon of the South Fork of the Clearwater River, it is about four miles (6\u00a0km) upstream and south of Kooskia on State Highway 13."
+    },
+    {
+      "cityName": "Sugar City",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rexburg Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Swan Valley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Idaho Falls, Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tensed",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is within the Coeur d'Alene Reservation, and is accessed by U.S. Route 95, the state's primary north\u2013south highway."
+    },
+    {
+      "cityName": "Tensed",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located about 1 mile\u00a0(0.6\u00a0km) from the north entrance of McCroskey State Park."
+    },
+    {
+      "cityName": "Terreton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at an altitude of 4,790 feet, east of Mud Lake."
+    },
+    {
+      "cityName": "Terreton",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The ZIP Code for Terreton is 83450."
+    },
+    {
+      "cityName": "Tetonia",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tetonia is a city in Teton County, Idaho, United States, about 50 miles (80\u00a0km) northeast of Idaho Falls, Idaho and about 425 miles (684\u00a0km) northwest of Denver, Colorado."
+    },
+    {
+      "cityName": "Twin Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the Magic Valley region, Twin Falls is the largest city in a 100-mile (160\u00a0km) radius, and is the regional commercial center for south-central Idaho and northeastern Nevada."
+    },
+    {
+      "cityName": "Twin Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Twin Falls metropolitan statistical area, which officially includes the entirety of Twin Falls and Jerome Counties."
+    },
+    {
+      "cityName": "Twin Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The border town resort community of Jackpot, Nevada, 50\u00a0mi (80\u00a0km) south at the state line, is unofficially considered part of the greater Twin Falls area."
+    },
+    {
+      "cityName": "Victor",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Victor is the largest city in Teton County, Idaho, United States."
+    },
+    {
+      "cityName": "Victor",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson, WY\u2013ID Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wallace",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1884, Wallace sits alongside the South Fork of the Coeur d'Alene River."
+    },
+    {
+      "cityName": "Weippe",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In September 1805, the starving Lewis and Clark Expedition first met the Nez Perce on the Weippe Prairie, south of the city."
+    },
+    {
+      "cityName": "Weiser",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city supports farm, orchard, and livestock industries."
+    },
+    {
+      "cityName": "Weiser",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city sits at the confluence of the Weiser River with the Snake River, which marks the border with Oregon."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies at the heart of the wider City of Winchester, a local government district, at the western end of the South Downs National Park, on the River Itchen."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 60 miles (97\u00a0km) south-west of London and 14 miles (23\u00a0km) from Southampton, its nearest major city."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The wider City of Winchester district includes towns such as Alresford and Bishop's Waltham and had a population of 127,439 in 2021."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Winchester is the county town of Hampshire and contains the head offices of Hampshire County Council."
+    },
+    {
+      "cityName": "Worley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is within the Coeur d'Alene Indian Reservation."
+    }
+  ]
+}

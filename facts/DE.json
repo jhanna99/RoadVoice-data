@@ -1,0 +1,935 @@
+{
+  "facts": [
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arden is a village in New Castle County, Delaware, United States, founded in 1900 as a radical Georgist single-tax community by sculptor Frank Stephens and architect William Lightfoot Price."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village occupies approximately 160 acres, with half kept as open land."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1973, the entire village was listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ardencroft is a village in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Ardentown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ardentown is a village in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Bellefonte",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bellefonte is a town in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Salisbury, MD-DE Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bethel is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Blades",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blades is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Blades",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bowers",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowers is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Bowers",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Bridgeville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgeville is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Bridgeville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Camden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Camden is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Camden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Cheswold",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cheswold is a town in Kent County in the U.S. state of Delaware."
+    },
+    {
+      "cityName": "Cheswold",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Christiana",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Christiana Hospital and the Christiana Mall and is the location of the northern terminus of Delaware Route 1 at an interchange with Interstate 95."
+    },
+    {
+      "cityName": "Christiana",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Despite sharing a name with Christiana Hundred, the community of Christiana is located in White Clay Creek Hundred."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is centered, more or less, along Delaware Route 26."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many tourists from the Baltimore\u2013Washington metropolitan area pass through the town on their way to and from the Delaware Beaches."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clayton is a town in Kent and New Castle counties in the U.S. state of Delaware."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located almost entirely in Kent County, it is part of the Dover, Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dagsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dagsboro is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Dagsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Delaware City",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a small port town on the eastern terminus of the Chesapeake and Delaware Canal and is the location of the Forts Ferry Crossing to Fort Delaware on Pea Patch Island."
+    },
+    {
+      "cityName": "Delmar",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delmar is a town in Sussex County, Delaware, United States, on the Maryland border along the Transpeninsular Line."
+    },
+    {
+      "cityName": "Delmar",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area and a suburb of Salisbury, MD."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the rapidly growing Cape Region and lies within the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2011, the NRDC awarded Dewey Beach with a 5-Star rating in water quality."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This award was given only to 12 other locations, one being neighboring Rehoboth Beach."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Out of the 30 states with coastline, the Delaware Beaches ranked number 1 in water quality in 2011."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dover is the capital and the second-most populous city of the U.S. state of Delaware, after Wilmington."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on the St. Jones River in the Delaware River coastal plain."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named by William Penn for Dover in Kent, England."
+    },
+    {
+      "cityName": "Ellendale",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellendale is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Ellendale",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elsmere",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elsmere is a town in New Castle County, Delaware, United States, bordering the city of Wilmington along Wilmington's western border."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmington is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Felton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Felton is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Felton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Fenwick",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fenwick Island is a coastal resort town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Fenwick",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland\u2013Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fenwick",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located on Fenwick Island, a barrier spit."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frankford is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frederica is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "ILC Dover, the company which manufactured the spacesuits for the Apollo and Skylab astronauts of the 1960s and 1970s, along with fabricating the suit component of the Space Shuttle's Extravehicular Mobility Unit (EMU), is located nearby."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenville is a bedroom community in New Castle County, Delaware, United States, and a suburb of Wilmington."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is also home to the private residence of Joe Biden, the 46th president of the United States, and many Du Pont family descendants."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenwood is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Harbeson",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 36\u00a0feet (11\u00a0m)."
+    },
+    {
+      "cityName": "Harbeson",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has a post office with the ZIP code 19951."
+    },
+    {
+      "cityName": "Harrington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Harrington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harrington hosts the annual Delaware State Fair each July."
+    },
+    {
+      "cityName": "Hartly",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartly is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Hartly",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Henlopen Acres",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Historic New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Castle is a city in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Historic New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located six miles (10\u00a0km) south of Wilmington and is situated on the Delaware River."
+    },
+    {
+      "cityName": "Historic New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Castle constitutes part of the Delaware Valley or Philadelphia metropolitan area."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Houston is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was named after John W."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Houston who was Delaware's Secretary of State from 1841 to 1844."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kenton is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Laurel is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It once hosted the Laurel Blue Hens of the Eastern Shore Baseball League."
+    },
+    {
+      "cityName": "Leipsic",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leipsic is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Leipsic",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Along with neighboring Rehoboth Beach, Lewes is one of the principal cities of Delaware's rapidly growing Cape Region."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city lies within the Salisbury, Maryland\u2013Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lewes proudly claims to be \"The First Town in The First State.\""
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Seaford, Delaware, Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lincoln lies on U.S. Route 113 between Ellendale and Milford."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lincoln was formerly the headquarters of the Delaware Coast Line Railroad."
+    },
+    {
+      "cityName": "Long Neck",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Seaford, Delaware, Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Magnolia is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metro area."
+    },
+    {
+      "cityName": "Marshallton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was founded in 1836 and is named for John Marshall, mill owner."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middletown is a town in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Millsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Millsboro is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Millsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Millsboro is part of the Salisbury metropolitan area."
+    },
+    {
+      "cityName": "Millville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Millville is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Milton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milton is a town in Sussex County, Delaware, United States, on the Delmarva Peninsula."
+    },
+    {
+      "cityName": "Milton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on the Broadkill River, which empties into Delaware Bay."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located six miles (10\u00a0km) south of Wilmington and is situated on the Delaware River."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Castle constitutes part of the Delaware Valley or Philadelphia metropolitan area."
+    },
+    {
+      "cityName": "Newark",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to the University of Delaware, it is located 8 miles (13\u00a0km) west-southwest of Wilmington and 28 miles (45\u00a0km) southwest of Philadelphia."
+    },
+    {
+      "cityName": "Newark",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It constitutes part of the Delaware Valley, and the Philadelphia metropolitan area."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newport is a town in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is best known for being the home of colonial inventor Oliver Evans."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Four limited access highways, I-95, I-295, I-495, and Delaware Route 141 intersect within one mile (1.6\u00a0km) of the town."
+    },
+    {
+      "cityName": "Ocean View",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ocean View is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Ocean View",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area and lies in Baltimore Hundred."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Odessa is a town in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded as Cantwell's Bridge in the 18th century, the name was changed in the 19th century, after the Ukrainian port city of the same name."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today a significant part of the town is a historic district list on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2007, CNN's Money Magazine ranked Pike Creek number 1 on its list of the 100 Best Places to Live in the United States."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pike Creek was the only community in Delaware to appear on the list."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Local attractions include Middle Run Natural Area, White Clay Creek State Park, Carousel Farm Park and Equestrian Center, Golf and Restaurants."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pike Creek is approximately five miles from downtown Newark, which contains the University of Delaware."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Pike Creek is connected to the University of Delaware campus and the Newark downtown area by several bike trails."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Pike Creek is approximately 10 miles (16\u00a0km) west of the state's largest city, Wilmington, which is a national financial center."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rehoboth Beach is a city on the Atlantic Ocean along the Delaware Beaches in eastern Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with the neighboring coastal town of Lewes, Rehoboth Beach is one of the principal cities of Delaware's rapidly growing Cape Region."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rehoboth Beach lies within the Salisbury metropolitan area."
+    },
+    {
+      "cityName": "Seaford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Seaford, Delaware, Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Seaford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the largest city fully within Sussex County."
+    },
+    {
+      "cityName": "Selbyville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Selbyville is a town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Selbyville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Slaughter Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slaughter Beach is a town in Sussex County, Delaware, United States, located on the southwest shore of Delaware Bay."
+    },
+    {
+      "cityName": "Slaughter Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Smyrna is a town in Kent and New Castle counties in the U.S. state of Delaware."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Townsend is a town in New Castle County, Delaware, United States."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The center of population of Delaware is located in Townsend."
+    },
+    {
+      "cityName": "Viola",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Viola is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Viola",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilmington is the most populous city in the U.S. state of Delaware."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies at the confluence of the Christina River and Brandywine Creek, near where the Christina flows into the Delaware River."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodside is a town in Kent County, Delaware, United States."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dover, Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wyoming",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wyoming is a landlocked state in the Mountain West subregion of the Western United States."
+    },
+    {
+      "cityName": "Wyoming",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It borders Montana to the north and northwest, South Dakota and Nebraska to the east, Idaho to the west, Utah to the southwest, and Colorado to the south."
+    },
+    {
+      "cityName": "Wyoming",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The state capital and most populous city is Cheyenne."
+    }
+  ]
+}

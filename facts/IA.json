@@ -1,0 +1,4295 @@
+{
+  "facts": [
+    {
+      "cityName": "Adel",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the North Raccoon River."
+    },
+    {
+      "cityName": "Agency",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the historic site of an Indian trading post and the grave of Chief Wapello."
+    },
+    {
+      "cityName": "Ainsworth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ainsworth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Highland Community School District."
+    },
+    {
+      "cityName": "Alburnett",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids metropolitan area."
+    },
+    {
+      "cityName": "Algona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Call State Park is located two miles southwest of the city."
+    },
+    {
+      "cityName": "Alleman",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Allman is an English surname from the Norman French aleman \"German\"."
+    },
+    {
+      "cityName": "Alleman",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In North American usage, the spelling Allman likely also stands in for the cognate Spanish name Aleman\n(to avoid the reading /e\u026alm\u00e6n/ as in \"ale-man\")."
+    },
+    {
+      "cityName": "Allison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Allison is home to the Butler County Fair."
+    },
+    {
+      "cityName": "Allison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named for U.S. Senator William B."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Altoona is a city in Polk County, Iowa, United States, and part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Adventureland amusement park and Prairie Meadows horse racing track and casino."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The villages were built and settled by German Radical Pietists, who were persecuted in their homeland by the German state government and the Lutheran Church."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Calling themselves the True Inspiration Congregations, they first settled in New York near Buffalo in what is now the town of West Seneca."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, seeking more isolated surroundings, they moved to Iowa in 1856."
+    },
+    {
+      "cityName": "Amana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "They lived a communal life until 1932."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ames is a city in Story County, Iowa, United States, located approximately 30 miles (48\u00a0km) north of Des Moines in central Iowa."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of Iowa State University (ISU)."
+    },
+    {
+      "cityName": "Ames",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Iowa State University was home to 30,177 students as of fall 2023, which make up approximately one half of the city's population."
+    },
+    {
+      "cityName": "Andrew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Andrew is the English form from the Old French name Andreu / Andrieu, themselves from Latin Andreas, from Greek-derived given name Andreas."
+    },
+    {
+      "cityName": "Andrew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is related to Ancient Greek: \u1f00\u03bd\u03ae\u03c1/\u1f00\u03bd\u03b4\u03c1\u03cc\u03c2 aner/andros, \"man\", thus meaning \"manly\" and, as consequence, \"brave\", \"strong\", \"courageous\", and \"warrior\"."
+    },
+    {
+      "cityName": "Andrew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the King James Bible, the Greek \"\u1f08\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2\" is translated as Andrew."
+    },
+    {
+      "cityName": "Ankeny",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ankeny is a city in Polk County, Iowa, United States and a suburb of the state capital of Des Moines."
+    },
+    {
+      "cityName": "Ankeny",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ankeny",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of the fastest-growing cities in Iowa."
+    },
+    {
+      "cityName": "Anthon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Archer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Archery is the sport, practice, or skill of using a bow to shoot arrows."
+    },
+    {
+      "cityName": "Archer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The word comes from the Latin arcus, meaning bow."
+    },
+    {
+      "cityName": "Archer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Historically, archery has been used for hunting and combat."
+    },
+    {
+      "cityName": "Archer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In modern times, it is mainly a competitive sport and recreational activity."
+    },
+    {
+      "cityName": "Archer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A person who practices archery is typically called an archer, bowman, or toxophilite."
+    },
+    {
+      "cityName": "Arthur",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arthur is a masculine given name of uncertain etymology."
+    },
+    {
+      "cityName": "Arthur",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its popularity derives from it being the name of the legendary hero King Arthur."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Asbury is a city in Dubuque County, Iowa, United States, and adjacent to the westside of the city of Dubuque."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is largely a bedroom community, made up of subdivisions whose residents work in Dubuque or Peosta."
+    },
+    {
+      "cityName": "Atalissa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Atkins",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An aurora is a natural light display in Earth's sky, predominantly observed in high-latitude regions around the Arctic and Antarctic."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The terms northern lights and southern lights are used in the Northern and Southern Hemispheres respectively."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Auroras display dynamic patterns of radiant light that appear as curtains, rays, spirals or dynamic flickers covering the entire sky."
+    },
+    {
+      "cityName": "Ayrshire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ayrshire is an historic county and registration county, in south-west Scotland, located on the shores of the Firth of Clyde."
+    },
+    {
+      "cityName": "Ayrshire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The lieutenancy area of Ayrshire and Arran covers the entirety of the historic county as well as the island of Arran, formerly part of the historic county of Buteshire."
+    },
+    {
+      "cityName": "Ayrshire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its principal towns include Ayr, Kilmarnock and Irvine and it borders the counties of Renfrewshire and Lanarkshire to the north-east, Dumfriesshire to the south-east, and Kirkcudbrightshire and Wigtownshire to the south."
+    },
+    {
+      "cityName": "Ayrshire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Like many other counties of Scotland, it currently has no administrative function, instead being sub-divided into the council areas of East Ayrshire, North Ayrshire and South Ayrshire."
+    },
+    {
+      "cityName": "Ayrshire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has a population of approximately 366,800."
+    },
+    {
+      "cityName": "Badger",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Badger is a Town in Webster County, Iowa, United States."
+    },
+    {
+      "cityName": "Badger",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town got its name from Badger Creek, which itself got its name when a group of soldiers from Fort Dodge in the early 1850s saw a badger for the first time."
+    },
+    {
+      "cityName": "Battle Creek",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Battle Creek is a city in northwestern Calhoun County, Michigan, United States, at the confluence of the Kalamazoo and Battle Creek rivers."
+    },
+    {
+      "cityName": "Battle Creek",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Battle Creek metropolitan statistical area, which encompasses all of Calhoun County."
+    },
+    {
+      "cityName": "Battle Creek",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nicknamed \"Cereal City\", it is best known as the home of WK Kellogg Co and the founding city of Post Consumer Brands."
+    },
+    {
+      "cityName": "Battle Creek",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In Battle Creek, the Kellogg brothers invented the first cereal by accident in an attempt to make granola."
+    },
+    {
+      "cityName": "Baxter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baxter is located 33 miles (53\u00a0km) northeast of Des Moines."
+    },
+    {
+      "cityName": "Beacon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A beacon is an intentionally conspicuous device designed to attract attention to a specific location."
+    },
+    {
+      "cityName": "Beacon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A common example is the lighthouse, which draws attention to a fixed point that can be used to navigate around obstacles or into port."
+    },
+    {
+      "cityName": "Beacon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "More modern examples include a variety of radio beacons that can be read on radio direction finders in all weather, and radar transponders that appear on radar displays."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake of Three Fires State Park is located several miles northeast of Bedford."
+    },
+    {
+      "cityName": "Belle Plaine",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies along the Mississippi River and next to Bellevue State Park."
+    },
+    {
+      "cityName": "Bettendorf",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bettendorf is one of the five cities that comprise the Quad Cities region along the Mississippi River."
+    },
+    {
+      "cityName": "Bettendorf",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located adjacent to Davenport, Iowa, and across the river from Moline, East Moline, and Rock Island in Illinois."
+    },
+    {
+      "cityName": "Bevington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Blairstown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bondurant",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines metropolitan statistical area."
+    },
+    {
+      "cityName": "Bouton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Boxholm",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boxholm is a locality and the seat of Boxholm Municipality, \u00d6sterg\u00f6tland County, Sweden with 3,194 inhabitants in 2010."
+    },
+    {
+      "cityName": "Brighton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It's part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Britt",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Britt is a city in Hancock County, Iowa, United States, and is the home of the National Hobo Convention and the Hobo Museum."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located just off U.S. Route 6 and a few miles north of Interstate 80."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Near the center of town, Brooklyn boasts a large display of flags from each of the fifty states, branches of the military, and a smattering of other sources."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city bills itself as \"Brooklyn: Community of Flags.\""
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buffalo is located on the Mississippi River."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a part of the Quad Cities Metropolitan Area."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burlington is the center of a micropolitan area, which includes West Burlington and Middletown, Iowa, and Gulfport, Illinois."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Burlington is the home of Snake Alley, the crookedest street on earth."
+    },
+    {
+      "cityName": "Calmar",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the junction of U.S. Route 52 and State highways 150 and 24, with both state routes terminating in Calmar."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county town of Cambridgeshire and is located on the River Cam, 55 miles (89\u00a0km) north of London."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is archaeological evidence of settlement in the area as early as the Bronze Age, and Cambridge became an important trading centre during the Roman and Viking eras."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first town charters were granted in the 12th century, although modern city status was not officially conferred until 1951."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carbon is a chemical element; it has symbol C and atomic number 6."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is nonmetallic and tetravalent\u2014meaning that its atoms are able to form up to four covalent bonds due to its valence shell exhibiting 4 electrons."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It belongs to group 14 of the periodic table."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Carbon makes up about 0.025 percent of Earth's crust."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Three isotopes occur naturally, 12C and 13C being stable, while 14C is a radionuclide, decaying with a half-life of 5,700\u00a0years."
+    },
+    {
+      "cityName": "Carbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Carbon is one of the few elements known since antiquity."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Carter Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Omaha, Nebraska, it sits surrounding the south and west sides of the region's major airport, Eppley Airfield."
+    },
+    {
+      "cityName": "Carter Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is separated from the rest of Iowa by the Missouri River, effectively making it an exclave."
+    },
+    {
+      "cityName": "Cascade",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Dubuque County portion is part of Dubuque metropolitan area, while the Jones County section is part of Cedar Rapids metropolitan area."
+    },
+    {
+      "cityName": "Cascade",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located within southwestern of Dubuque County and north-central Jones County."
+    },
+    {
+      "cityName": "Cedar Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cedar Falls is home to the University of Northern Iowa (UNI), a public university."
+    },
+    {
+      "cityName": "Cedar Rapids",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies on both banks of the Cedar River, 20 miles (32\u00a0km) north of Iowa City and 128 miles (206\u00a0km) northeast of Des Moines, the state's capital."
+    },
+    {
+      "cityName": "Center Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Centerville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "After the turn of the 20th century Centerville's coal mining industry attracted European immigrants from Sweden, Italy, Croatia, and Albania."
+    },
+    {
+      "cityName": "Centerville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Centerville is also home of the largest town square in the state of Iowa and a campus of Indian Hills Community College."
+    },
+    {
+      "cityName": "Central City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Chariton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chariton is the primary distribution center for and the former corporate headquarters of the Hy-Vee supermarket chain."
+    },
+    {
+      "cityName": "Charles City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U.S. Routes 18 and 218, Iowa Highway 14, and the Canadian National and Canadian Pacific railroads serve the city."
+    },
+    {
+      "cityName": "Clarinda",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located in Nodaway Township."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Clarksville in 1861."
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for the large natural lake on which it is located."
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clear Lake is known for its rock and roll heritage, water sports, nearby state parks, and as a sailing destination."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clermont is home to Montauk, the mansion of former Iowa governor William Larrabee, along with much historic architecture."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It borders the Mississippi River."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clive is known for its Greenbelt Park and trail system running through the community."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clive serves as the axis of the western Des Moines suburbs, between Urbandale, Waukee and West Des Moines along the major transportation corridors of I-35, I-80 and I-235."
+    },
+    {
+      "cityName": "Clive",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The City of Urbandale is to the north to northwest, the City of West Des Moines is to the southeast to southwest, the City of Waukee in Dallas County is to the west."
+    },
+    {
+      "cityName": "Coburg",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Leopold I of Belgium was born in Coburg."
+    },
+    {
+      "cityName": "Coggon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Coin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Wabash Trace\u2014a railroad converted to a bicycle trail\u2014passes through here."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colfax is located approximately 24 miles east of Des Moines."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was founded in 1866, and was named after Schuyler Colfax, vice president under Ulysses S."
+    },
+    {
+      "cityName": "Collins",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Colo",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Colo include Konrad Adenauer, Heinrich B\u00f6ll, and Jacques Offenbach."
+    },
+    {
+      "cityName": "Colo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the \"Crossroads of the Nation\" as Lincoln Highway and Jefferson Highway intersect at Colo."
+    },
+    {
+      "cityName": "Colo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Columbus Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Conrad",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Conrad",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Conrad holds the honor of being known as the \"Black Dirt Capital of the World.\""
+    },
+    {
+      "cityName": "Coon Rapids",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The small portion of Coon Rapids that lies in Guthrie County is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Coralville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Iowa City and part of the Iowa City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corning is located just north of the intersection of U.S. Route 34 and Iowa Highway 148."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Corning is perhaps best known as the birthplace of Johnny Carson."
+    },
+    {
+      "cityName": "Corning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Daniel Webster Turner, who was governor of Iowa from 1931 to 1933, was born in Corning on March 17, 1877."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City metropolitan area."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name comes from the original survey of the town."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Correctionville has been noted for its unusual place name."
+    },
+    {
+      "cityName": "Correctionville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is supposedly the longest single-word place name in the state of Iowa."
+    },
+    {
+      "cityName": "Council Bluffs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the east bank of the Missouri River, it sits across from Omaha, Nebraska."
+    },
+    {
+      "cityName": "Crescent",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Crescent include Louis Armstrong, Truman Capote, Reese Witherspoon, Richard Simmons, and Lil Wayne."
+    },
+    {
+      "cityName": "Creston",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Creston is a regional hub for southwest Iowa and is home to Southwestern Community College."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oliver Cromwell was an English statesman, farmer and soldier, widely regarded as one of the most important figures in British history."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He came to prominence during the Wars of the Three Kingdoms, initially as a senior commander in the Parliamentarian army and latterly as a politician."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A leading advocate of the execution of Charles I in January 1649, which led to the establishment of the Commonwealth of England, Cromwell ruled as Lord Protector from December 1653 until his death."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cumberland's sister community is Massena, Iowa."
+    },
+    {
+      "cityName": "Curlew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The curlews are a group of nine species of birds in the genus Numenius, characterised by their long, slender, downcurved bills and mottled brown plumage."
+    },
+    {
+      "cityName": "Curlew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The English name is imitative of the Eurasian curlew's call, but may have been influenced by the Old French corliu, \"messenger\", from courir, \"to run\"."
+    },
+    {
+      "cityName": "Curlew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was first recorded in 1377 in Langland's Piers Plowman \"Fissch to lyue in \u00fee flode..\u00dee corlue by kynde of \u00fee eyre\"."
+    },
+    {
+      "cityName": "Curlew",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In Europe, \"curlew\" usually refers to one species, the Eurasian curlew."
+    },
+    {
+      "cityName": "Dakota City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dakota City shares its western border with the much larger city of Humboldt."
+    },
+    {
+      "cityName": "Dallas Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Danbury has two churches, St. Mary's Catholic Church and the United Methodist Church."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Danbury holds a fall celebration called Corn Days during harvest."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated along the Mississippi River on the eastern border of the state."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Together with Bettendorf, Iowa; Rock Island, Illinois; Moline, Illinois; and East Moline, Illinois, Davenport is one of the five Quad Cities in Iowa and Illinois."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the largest city in the Quad Cities area, which has a metropolitan area population of 384,324 and a combined statistical area population of 474,019."
+    },
+    {
+      "cityName": "Dawson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "De Witt",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "DeWitt is a city in Clinton County, Iowa, United States."
+    },
+    {
+      "cityName": "DeSoto",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "De Soto is a city in Dallas County, Iowa, United States."
+    },
+    {
+      "cityName": "DeSoto",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Decorah is the home of Luther College, a private liberal arts college."
+    },
+    {
+      "cityName": "Decorah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is known for its Norwegian-American heritage and the corresponding Vesterheim Norwegian-American Museum."
+    },
+    {
+      "cityName": "Delhi",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delhi DEL-hy is a city in Delaware County, Iowa, United States."
+    },
+    {
+      "cityName": "Denison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Denison is a city in Crawford County, Iowa, United States, along the Boyer River, and located in both Denison Township and East Boyer Township."
+    },
+    {
+      "cityName": "Denver",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Derby",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Derbyshire is named after Derby, which was its original county town."
+    },
+    {
+      "cityName": "Derby",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As a unitary authority, Derby is administratively independent from Derbyshire County Council."
+    },
+    {
+      "cityName": "Derby",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population of Derby is 274,149 (2024)."
+    },
+    {
+      "cityName": "Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Des Moines is the capital and most populous city in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after the Des Moines River, likely derived from the French Rivi\u00e8re des Moines meaning 'River of the Monks'."
+    },
+    {
+      "cityName": "Diagonal",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In geometry, a diagonal is a line segment joining two vertices of a polygon or polyhedron, when those vertices are not on the same edge."
+    },
+    {
+      "cityName": "Diagonal",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Informally, any sloping line is called diagonal."
+    },
+    {
+      "cityName": "Diagonal",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The word diagonal derives from the ancient Greek \u03b4\u03b9\u03b1\u03b3\u03ce\u03bd\u03b9\u03bf\u03c2 diagonios, \"from corner to corner\" ; it was used by both Strabo and Euclid to refer to a line connecting two vertices of a rhombus or cuboid, and later adopted into Latin as diagonus."
+    },
+    {
+      "cityName": "Dickens",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Charles John Huffam Dickens was an English novelist, journalist, short story writer and social critic."
+    },
+    {
+      "cityName": "Dickens",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He created some of literature's best-known fictional characters, and is regarded by many as the greatest novelist of the Victorian era."
+    },
+    {
+      "cityName": "Dickens",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "His works enjoyed unprecedented popularity during his lifetime and, by the 20th century, critics and scholars had recognised him as a literary genius."
+    },
+    {
+      "cityName": "Dickens",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "His novels and short stories are widely read today."
+    },
+    {
+      "cityName": "Donnellson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Fort Madison-Keokuk Micropolitan Statistica Area."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies along the Mississippi River at the junction of Iowa, Illinois, and Wisconsin, a region locally known as the Tri-State Area."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It serves as the main commercial, industrial, educational, and cultural center for the area."
+    },
+    {
+      "cityName": "Dubuque",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Geographically, it is part of the Driftless Area, a portion of North America that escaped all three phases of the Wisconsin Glaciation, resulting in a hilly topography unlike most of the Midwestern United States."
+    },
+    {
+      "cityName": "Dunkerton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dyersville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dyersville is a city in eastern Delaware County and western Dubuque County in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "Dyersville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Dubuque, Iowa, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dyersville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Dyersville is known as the home of the Field of Dreams movie site, the National Farm Toy Museum, and the Basilica of St. Francis Xavier."
+    },
+    {
+      "cityName": "Dysart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mayor of Dysart is currently Tim Glenn."
+    },
+    {
+      "cityName": "Eagle Grove",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eagle Grove is the largest city in Wright County."
+    },
+    {
+      "cityName": "East Peru",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highway 3, which runs through the center of town, is the dividing line between the two counties."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Edgewood post office was established in 1852 on the Clayton side of the town."
+    },
+    {
+      "cityName": "Eldon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the small Carpenter Gothic style house that served as the backdrop for Grant Wood's 1930 painting, American Gothic."
+    },
+    {
+      "cityName": "Elk Horn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elk Horn is known as an enclave of Danish ethnicity and is home to the Museum of Danish America."
+    },
+    {
+      "cityName": "Elk Run Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elkader",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the site of Iowa's lowest recorded minimum temperature, \u221244\u00a0\u00b0C (\u221247\u00a0\u00b0F) on February 3, 1996."
+    },
+    {
+      "cityName": "Elkhart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elliott",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elliott is a city in Sherman Township, Montgomery County, Iowa, United States, along the East Nishnabotna River."
+    },
+    {
+      "cityName": "Emmetsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Emmetsburg is located around the southern bay of Five Island Lake."
+    },
+    {
+      "cityName": "Epworth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Evansdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Everly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ocheyedan River flows to the south and west of the city."
+    },
+    {
+      "cityName": "Exira",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Exira is a city in Audubon County, Iowa, United States, along the East Nishnabotna River and U.S. Route 71."
+    },
+    {
+      "cityName": "Fairfax",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairfield is known as an international center for Transcendental Meditation and is home of Maharishi International University."
+    },
+    {
+      "cityName": "Farley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Farley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Farley is the seventh-largest town in Dubuque County, recently passed by Peosta, Iowa."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the Marquis de la Fayette, French hero of the American Revolutionary War."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fayette is the home of Upper Iowa University, a small private college."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Volga River State Recreation Area is located just north of Fayette, and many other parks and natural areas are nearby."
+    },
+    {
+      "cityName": "Fertile",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Forest City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forest City is the home of Waldorf University, a private university, and the primary manufacting center for Winnebago Industries."
+    },
+    {
+      "cityName": "Fort Atkinson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the historic Fort Atkinson State Preserve and hosts a large annual fur-trapper rendezvous each September."
+    },
+    {
+      "cityName": "Fort Atkinson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Atkinson holds the largest regional hay auction every Wednesday."
+    },
+    {
+      "cityName": "Fort Dodge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Dodge is a major commercial center for North Central and Northwest Iowa."
+    },
+    {
+      "cityName": "Fort Dodge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on U.S. Routes 20 and 169."
+    },
+    {
+      "cityName": "Fort Madison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Mississippi River in the state's southeast corner, it lies between small bluffs along one of the widest portions of the river."
+    },
+    {
+      "cityName": "Fort Madison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Madison is also the home of the Iowa State Penitentiary."
+    },
+    {
+      "cityName": "Fraser",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boone, Iowa Micropolitan Statistical Area, which is a part of the larger Ames\u2013Boone Combined Statistical Area."
+    },
+    {
+      "cityName": "Fraser",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located along the Des Moines River."
+    },
+    {
+      "cityName": "Ft. Dodge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Dodge is a major commercial center for North Central and Northwest Iowa."
+    },
+    {
+      "cityName": "Ft. Dodge",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on U.S. Routes 20 and 169."
+    },
+    {
+      "cityName": "Geneva",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Geneva is the second-most populous city in Switzerland and the most populous in French-speaking Romandy."
+    },
+    {
+      "cityName": "Geneva",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated in the southwest of the country, where the Rh\u00f4ne exits Lake Geneva, it is the capital of the Republic and Canton of Geneva."
+    },
+    {
+      "cityName": "Geneva",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Geneva is a global city, an international financial centre, and a worldwide centre for diplomacy, which has led to it being called the \"Peace Capital\"."
+    },
+    {
+      "cityName": "George",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The ZIP Code for George is 51237."
+    },
+    {
+      "cityName": "Gilbertville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was originally founded by Mormons, before they left for Utah."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the Second World War, Glenwood became a center for meatpacking, particularly kosher meatpacking."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Glenwood was impacted by significant flooding in 2019."
+    },
+    {
+      "cityName": "Glidden",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glidden is a town in Carroll County, Iowa, United States."
+    },
+    {
+      "cityName": "Graf",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Graf is a historical title of the German nobility and later also of the Russian nobility, usually translated as \"count\"."
+    },
+    {
+      "cityName": "Graf",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Considered to be intermediate among noble ranks, the title is often treated as equivalent to the British title of \"earl\"."
+    },
+    {
+      "cityName": "Grand Mounds",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Mound is a city in Clinton County, Iowa, United States."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Granger",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gray",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gray is a city in Audubon County, Iowa, United States, along the East Branch of the West Nishnabotna River."
+    },
+    {
+      "cityName": "Greene",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greene is a city in Butler County, Iowa, United States, along the Shell Rock River, and along Butler County's northern border, where Butler and Floyd counties meet."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenfield is located in Greenfield and Lee Townships."
+    },
+    {
+      "cityName": "Grimes",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grimes is part of the Des Moines-West Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Grinnell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known for being the home of Grinnell College, a liberal arts college."
+    },
+    {
+      "cityName": "Grundy Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grundy Center is part of the Waterloo-Cedar Falls metropolitan area."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hamburg is a city in Fremont County, Iowa, United States, that is the most southwestern city in Iowa, hugging the borders of Missouri to the south and Nebraska to the west."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is situated between the Nishnabotna and Missouri rivers."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It derives its name from the German city of Hamburg."
+    },
+    {
+      "cityName": "Hampton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located two miles southeast of Beeds Lake State Park."
+    },
+    {
+      "cityName": "Hanlontown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hawarden",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Big Sioux River."
+    },
+    {
+      "cityName": "Hiawatha",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb located in the northwestern side of Cedar Rapids and is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hills",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A hill is a landform that extends above the surrounding terrain."
+    },
+    {
+      "cityName": "Hills",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It often has a distinct summit, and is usually applied to peaks which are above elevation compared to the relative landmass, though not as prominent as mountains."
+    },
+    {
+      "cityName": "Hills",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hills fall under the category of slope landforms."
+    },
+    {
+      "cityName": "Holland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Houghton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Fort Madison-Keokuk Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural community of Hudson has grown in recent years and is included as a part of the Waterloo-Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Huxley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Indianola",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Indianola is home to the National Balloon Classic, a nine-day hot air balloon festival held annually in the summer, the Des Moines Metro Opera, a major American Summer Opera Festival, and Simpson College."
+    },
+    {
+      "cityName": "Ionia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ionia post office opened in 1870."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Iowa City metropolitan area, which encompasses Johnson and Washington counties, has a population of over 171,000."
+    },
+    {
+      "cityName": "Iowa City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The metro area is also a part of a combined statistical area with the Cedar Rapids metro area known as the Iowa City\u2013Cedar Rapids region; collectively, this region has a population of nearly 500,000."
+    },
+    {
+      "cityName": "Iowa Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iowa Falls is the home of Ellsworth Community College."
+    },
+    {
+      "cityName": "Iowa Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also a regional transportation center, located along U.S. Routes 20 and 65 and the Canadian National and Union Pacific Railroads."
+    },
+    {
+      "cityName": "Jamaica",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Mahanay Memorial Bell Tower, 168 feet (51\u00a0m) tall, located on the town square, and visible for miles."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The tower is named for Floyd Mahanay, a businessman, philanthropist, and former resident."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Jefferson is bisected east to west by the old Lincoln Highway."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A new U.S. Route 30 is located approximately one mile to the north."
+    },
+    {
+      "cityName": "Jesup",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Morris Ketchum Jesup, president of the Dubuque and Sioux City Railroad."
+    },
+    {
+      "cityName": "Jewell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jewell Junction, better known as Jewell, is a city in Hamilton County, Iowa, United States."
+    },
+    {
+      "cityName": "Jewell Junction",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jewell Junction, better known as Jewell, is a city in Hamilton County, Iowa, United States."
+    },
+    {
+      "cityName": "Johnston",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Joice",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area and is typically considered a part of Bristol Township."
+    },
+    {
+      "cityName": "Kalona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City metropolitan area."
+    },
+    {
+      "cityName": "Kalona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kalona is the second-largest city in Washington County."
+    },
+    {
+      "cityName": "Kellogg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally named Manning's Station, then carried the names Jasper City, Kimball, and then finally Kellogg, named for the pioneer settler Judge Abel Avery Kellogg."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is Iowa's southernmost city."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named after the Sauk chief Keokuk."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is in the extreme southeast corner of Iowa, where the Des Moines River meets the Mississippi."
+    },
+    {
+      "cityName": "Keokuk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Keokuk is also the home of Keokuk National Cemetery."
+    },
+    {
+      "cityName": "Keomah Village",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keomah Village is located adjacent to Lake Keomah State Park."
+    },
+    {
+      "cityName": "Keosauqua",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keosauqua was settled by the Meskwaki and Sauk people until it became US territory in 1832 as Black Hawk Purchase and was \"laid out\" by European settlers in 1839."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kingsley is a city in Plymouth County, Iowa, United States, which is located within Garfield Township."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was originally known as the village Quorn, which was founded by two brothers, Frederick and William B."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Quorn was named after the Quorn Hunt in England."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village was later relocated to a different part of Iowa and named Kingsley due to a railroad not running through the original area."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The railroad was designed by the Chicago and North Western Transportation Company."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Kingsley was founded on January 15, 1884, and the centennial celebration was held in June 1984."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Kingsley includes organizations, recreational activities, and a local government consisting of a mayor and a city council."
+    },
+    {
+      "cityName": "Kingsley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The schools are an elementary school and a high school, with the middle school being located in Pierson."
+    },
+    {
+      "cityName": "Kinross",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after Kinross in Scotland."
+    },
+    {
+      "cityName": "Knoxville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knoxville is home of the National Sprint Car Hall of Fame & Museum, located next to the Knoxville Raceway dirt track."
+    },
+    {
+      "cityName": "Knoxville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Knoxville is located 4 miles south of Lake Red Rock and Elk Rock State Park."
+    },
+    {
+      "cityName": "La Porte City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lacona",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The sign coming into town proudly proclaims that Lake City has \"Everything but a Lake.\""
+    },
+    {
+      "cityName": "Lake Park",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trappers Bay State Park is located just west of the town."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the most densely populated city in Iowa."
+    },
+    {
+      "cityName": "Lamoni",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lamoni is the home of Graceland University, affiliated with the Community of Christ, a denomination of the Latter Day Saint movement."
+    },
+    {
+      "cityName": "Lamoni",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was the church's headquarters from 1880 to 1920, after which it moved to Independence, Missouri."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City metropolitan area."
+    },
+    {
+      "cityName": "Le Claire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "LeClaire is a city in Scott County, Iowa, United States."
+    },
+    {
+      "cityName": "Le Claire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "LeClaire is considered a suburb and part of the Quad Cities Metropolitan Area, which includes the area of Davenport and Bettendorf, Iowa, and Rock Island, Moline, and East Moline, Illinois."
+    },
+    {
+      "cityName": "Le Mars",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Floyd River northeast of Sioux City."
+    },
+    {
+      "cityName": "Le Mars",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Le Mars is located within America Township and is part of the Sioux City metropolitan area."
+    },
+    {
+      "cityName": "LeClaire",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "LeClaire is considered a suburb and part of the Quad Cities Metropolitan Area, which includes the area of Davenport and Bettendorf, Iowa, and Rock Island, Moline, and East Moline, Illinois."
+    },
+    {
+      "cityName": "LeMars",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Floyd River northeast of Sioux City."
+    },
+    {
+      "cityName": "LeMars",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Le Mars is located within America Township and is part of the Sioux City metropolitan area."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Letts",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is taken from that of local benefactor, Nehemiah Madison Letts."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids metropolitan area."
+    },
+    {
+      "cityName": "Little Sioux",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is most known for Little Sioux Scout Ranch of the Boy Scouts of America."
+    },
+    {
+      "cityName": "Lone Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after a large boulder."
+    },
+    {
+      "cityName": "Lone Tree",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Luther",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boone, Iowa Micropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Luxemburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Luxemburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The White Pine Hollow State Forest is located four miles to the northwest of Luxemburg."
+    },
+    {
+      "cityName": "Luzerne",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Macksburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Madrid",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boone, Iowa Micropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maharishi Vedic City (MVC) is a city in Jefferson County, Iowa, United States."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the first city to incorporate in Iowa since 1982."
+    },
+    {
+      "cityName": "Maharishi Vedic City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Maharishi Vedic City consists of approximately one square mile, located about four miles north of Fairfield, the home of Maharishi University of Management."
+    },
+    {
+      "cityName": "Malcom",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for an early Scotch settler."
+    },
+    {
+      "cityName": "Malcom",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's major businesses include BASF, The Pour House Bar and Grill, and Dayton Meat Products."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Wabash Trace\u2014a railroad converted to a bicycle trail\u2014passes through Malvern."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Malvern is the largest town in the eastern half of the county."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manchester is located at the intersection of U.S. Route 20 and State Highway 13 and is the largest community in Delaware County."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Delaware County Fair."
+    },
+    {
+      "cityName": "Manilla",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manilla is a city in Crawford County, Iowa, United States, along the West Branch of the West Nishnabotna River."
+    },
+    {
+      "cityName": "Manly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Manning",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Orlando Harrison Manning, a Lieutenant Governor of Iowa."
+    },
+    {
+      "cityName": "Marathon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The food writer Richard Olney grew up in Marathon."
+    },
+    {
+      "cityName": "Marble Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marble Rock has a city park, historical museums, a powerhouse on the river, and a veterans' memorial."
+    },
+    {
+      "cityName": "Marble Rock",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Marble Rock Historical Society has a website with information about the museums."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "James Dean was born in Marion."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located next to Cedar Rapids and part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Marion",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Today, Marion is a primarily suburban community with a historic downtown center, and is one of the fastest-growing cities in Iowa."
+    },
+    {
+      "cityName": "Marquette",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city, which is located on the Mississippi River, is named after Jesuit missionary Jacques Marquette, who along with Louis Joliet discovered the Mississippi River just southeast of the city on June 17, 1673."
+    },
+    {
+      "cityName": "Marshalltown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshalltown is home to the Iowa Veterans Home and Marshalltown Community College."
+    },
+    {
+      "cityName": "Martelle",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Martelle, Iowa is a city in Jones County, Iowa, United States."
+    },
+    {
+      "cityName": "Martelle",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Martensdale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mason City is known for its musical and masonry heritage, as well as being home to a significant collection of Prairie School style architecture."
+    },
+    {
+      "cityName": "Mason City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city forms a regional hub for north-central Iowa with nearby Clear Lake."
+    },
+    {
+      "cityName": "Masonville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located on the western border between Delaware and Buchanan counties."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Massena's motto is: \"The Home of Friendly People\"."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Massena's sister community is Cumberland, Iowa."
+    },
+    {
+      "cityName": "Massena",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Massena is named after Massena, New York."
+    },
+    {
+      "cityName": "Maurice",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Sioux County Regional Airport and the \"Famous Maurice Fire Escape Slide\" in the town park."
+    },
+    {
+      "cityName": "Maxwell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "McCallsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "McClelland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1903 after the Great Western Railroad was extended to include Council Bluffs."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McGregor is located on the Mississippi River across from Prairie du Chien, Wisconsin."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pike's Peak State Park is located just south of the city."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Just to the north of McGregor is the city of Marquette."
+    },
+    {
+      "cityName": "McGregor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community of McGregor Heights lies in the southern parts of the city limits."
+    },
+    {
+      "cityName": "Mediapolis",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burlington, IA\u2013IL Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Melbourne",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Melbourne include Cate Blanchett, Kylie Minogue, Chris Hemsworth, Rupert Murdoch, and Lisa Gerrard."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melrose is a community in Monroe County, Iowa, United States."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Melrose is known as Iowa's \"Little Ireland\"."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As such, the majority of the 110 population are Irish Catholics."
+    },
+    {
+      "cityName": "Melrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Melrose is part of Iowa\u2019s 3rd congressional district."
+    },
+    {
+      "cityName": "Menlo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burlington, IA\u2013IL Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Milford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes many businesses related to its location in the Iowa Great Lakes region and is often referred to as the southern gateway to the Iowa Great Lakes."
+    },
+    {
+      "cityName": "Minburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This city is another one of those Dallas County cities that is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mingo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mingo people are an Iroquoian group of Native Americans, primarily Seneca and Cayuga, who migrated west from New York to the Ohio Country in the mid-18th century, and their descendants."
+    },
+    {
+      "cityName": "Mingo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some Susquehannock survivors also joined them, and assimilated."
+    },
+    {
+      "cityName": "Mingo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Anglo-Americans called these migrants mingos, a corruption of mingwe, an Eastern Algonquian name for Iroquoian-language groups in general."
+    },
+    {
+      "cityName": "Mingo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Mingo have also been called \"Ohio Iroquois\" and \"Ohio Seneca\"."
+    },
+    {
+      "cityName": "Monmouth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monmouth is a market town and community in Monmouthshire, Wales, situated on where the River Monnow joins the River Wye, two miles from the Wales\u2013England border."
+    },
+    {
+      "cityName": "Monmouth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Monmouth was the county town of historic Monmouthshire, although Abergavenny is the largest settlement and Monmouthshire County Council has its main offices at Rhadyr, just outside Usk."
+    },
+    {
+      "cityName": "Monmouth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Monmouth is in the UK Parliament constituency of Monmouthshire and the Senedd constituency of Monmouth."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is located on the Mississippi River."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Madison-Keokuk Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Morning Sun",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the 2025 election, the electorate of Morrison reelected Mayor David Hach to his sixth term, garnering over 80% of the vote in the first contested election in several years."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He has brought significant reforms to the city, including paving roads, flood water mitigation and leading through reconstruction following a devastating derecho in 2020 which caused damage to numerous homes and trees throughout the community."
+    },
+    {
+      "cityName": "Mount Ayr",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Ayr is a rural community in southwestern Iowa, 22 miles west of Interstate 35 on State Highway 2."
+    },
+    {
+      "cityName": "Mount Ayr",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Ayr was founded in 1875 and the community was named in honor of poet Robert Burns\u2019 birthplace in Ayr, Scotland."
+    },
+    {
+      "cityName": "Mount Ayr",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The \u201cmount\u201d was added to indicate its location on the highest point of land in the area."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1835 by pioneer Presley Saunders."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Vernon is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Vernon is home of Cornell College, a private liberal arts college."
+    },
+    {
+      "cityName": "Moville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mt Pleasant",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1835 by pioneer Presley Saunders."
+    },
+    {
+      "cityName": "Mt. Pleasant",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1835 by pioneer Presley Saunders."
+    },
+    {
+      "cityName": "Muscatine",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Mississippi River."
+    },
+    {
+      "cityName": "Muscatine",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The local business association states that the name Muscatine is not used by any other community."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The famed Little Brown Church featured in the song \"The Church in the Wildwood\" is located in Nashua."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nevada is part of the Ames, Iowa Metropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nevada is the second-most populous city in Story County."
+    },
+    {
+      "cityName": "Nevada",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city\u2019s name is pronounced different from the state of Nevada, which is usually pronounced nuh-VAD-uh, instead the city\u2019s name is pronounced nuh-VAY-duh."
+    },
+    {
+      "cityName": "New Albin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the northeastern-most town in Iowa, located on the Mississippi River and the Minnesota border."
+    },
+    {
+      "cityName": "New Sharon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first building was erected in 1856 by Edward Quaintance."
+    },
+    {
+      "cityName": "New Vienna",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "New Vienna",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Vienna is the home to the Saint Boniface Catholic Church."
+    },
+    {
+      "cityName": "New Vienna",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city promotes itself with the slogan The eNVy of Iowa."
+    },
+    {
+      "cityName": "New Virginia",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Newhall",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Newton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located 30 miles (48\u00a0km) east of Des Moines, Newton is in Central Iowa."
+    },
+    {
+      "cityName": "Newton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of Iowa Speedway and Maytag Dairy Farms."
+    },
+    {
+      "cityName": "Nichols",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Nora Springs",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nora Springs is a city that is partially in Cerro Gordo and Floyd counties in the U.S. state of Iowa, along the Shell Rock River."
+    },
+    {
+      "cityName": "North English",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North English is a city located mainly in Iowa county with a small portion in Keokuk county in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "North English",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named for the English River."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Iowa City and part of the Iowa City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "From 2000 to 2010, North Liberty was the second fastest-growing city in Iowa."
+    },
+    {
+      "cityName": "North Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A 2017 LendEDU poll named North Liberty the ninth most educated city in the United States and the most educated city in the Midwest."
+    },
+    {
+      "cityName": "Norwalk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norwalk is a city in Warren County, with some small portions extending into Polk County, in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "Norwalk",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is part of the Des Moines metropolitan area and is located just south of the Des Moines International Airport."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Zendaya was born in Oakland."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakland is a city located along the West Nishnabotna River in Pottawattamie County, Iowa, United States."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Formerly named Big Grove, Oakland is home to Nishna Heritage Museum and a number of historical buildings."
+    },
+    {
+      "cityName": "Oakville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Oelwein",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The largest community in Fayette County, it is located at the junction of State Highways 3 and 150."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Boone, Iowa Micropolitan Statistical Area, which is a part of the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Okoboji",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Okoboji is a city in Dickinson County, Iowa, United States, along the eastern shore of West Okoboji Lake in the Iowa Great Lakes region."
+    },
+    {
+      "cityName": "Olin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ollie",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as Hemingford, the town voted to change the name to Ollie in 1892."
+    },
+    {
+      "cityName": "Onawa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest town on the Iowa side of the Missouri River between Council Bluffs and Sioux City."
+    },
+    {
+      "cityName": "Onslow",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids metropolitan area."
+    },
+    {
+      "cityName": "Orange City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after William of Orange, the community maintains its Dutch settler traditions visibly, with Dutch storefront architecture and an annual Tulip Festival."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orleans is part of the Iowa Great Lakes region, located along Spirit Lake."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Numerous state parks are located within a few miles of the town, including Marble Beach and Mini-Wakan."
+    },
+    {
+      "cityName": "Oskaloosa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the late nineteenth and early twentieth century, Oskaloosa was a national center of bituminous coal mining."
+    },
+    {
+      "cityName": "Oskaloosa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Today, Oskaloosa is home to William Penn University, a private university, and Lake Keomah State Park which is located four miles east of the city."
+    },
+    {
+      "cityName": "Ossian",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ossian is the narrator and purported author of a cycle of epic poems published by the Scottish poet James Macpherson, originally as Fingal (1761) and Temora (1763), and later combined under the title The Poems of Ossian."
+    },
+    {
+      "cityName": "Ossian",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Macpherson claimed to have collected word-of-mouth material in Scottish Gaelic, said to be from ancient sources, and that the work was his translation of that material."
+    },
+    {
+      "cityName": "Ossian",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ossian is based on Ois\u00edn, son of Fionn mac Cumhaill, a legendary bard in Irish mythology."
+    },
+    {
+      "cityName": "Ossian",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Contemporary critics were divided in their view of the work's authenticity, but the current consensus is that Macpherson largely composed the poems himself, drawing in part on traditional Gaelic poetry he had collected."
+    },
+    {
+      "cityName": "Otho",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otho was Roman emperor, ruling for three months from 15 January to 16 April 69."
+    },
+    {
+      "cityName": "Otho",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was the second emperor of the Year of the Four Emperors."
+    },
+    {
+      "cityName": "Oto",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ottumwa",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the state's southeastern section, the city is split into northern and southern halves by the Des Moines River."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oxford is a cathedral city and non-metropolitan district in Oxfordshire, England, of which it is the county town."
+    },
+    {
+      "cityName": "Packwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Burlington and Western Railway arrived in Packwood in late 1882."
+    },
+    {
+      "cityName": "Packwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This was a narrow gauge line, widened to standard gauge in 1902 and taken over by the Chicago, Burlington and Quincy, and then sold to the Minneapolis and St. Louis in 1934."
+    },
+    {
+      "cityName": "Palo",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "James Franco was born in Palo."
+    },
+    {
+      "cityName": "Panora",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Panorama Park",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is surrounded by Bettendorf, and is part of the Quad Cities metro area."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pella",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded by immigrants from the Netherlands, it is forty miles southeast of Des Moines."
+    },
+    {
+      "cityName": "Pella",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pella is the home of Central College, as well as several manufacturing companies, including Pella Corporation and Vermeer Manufacturing Company."
+    },
+    {
+      "cityName": "Peosta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dubuque, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Peosta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Peosta experienced a 70% increase in population (estimated) from 2000 to 2007, making it the state's 10th fastest-growing city during that period."
+    },
+    {
+      "cityName": "Peosta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Peosta is currently the sixth-largest city in Dubuque County."
+    },
+    {
+      "cityName": "Peosta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is home to the 2015 ASA D Northern Nationals Men's Slow Pitch Champions, Kass & Company, a large industrial park, the largest campus of Northeast Iowa Community College, and a handful of new commercial businesses."
+    },
+    {
+      "cityName": "Peosta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "However, the city is increasingly becoming a bedroom community, much like nearby Asbury, made up of suburban subdivisions."
+    },
+    {
+      "cityName": "Perry",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pisgah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located in the midst of the Loess Hills."
+    },
+    {
+      "cityName": "Pleasant Hill",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines metropolitan area."
+    },
+    {
+      "cityName": "Pleasant Hill",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of July 2005, Pleasant Hill was assigned a ZIP code, 50327."
+    },
+    {
+      "cityName": "Pleasantville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasantville is most famous for being the corporate headquarters of Smokey Row Coffee."
+    },
+    {
+      "cityName": "Plover",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plovers are members of a widely distributed group of wading birds of the subfamily Charadriinae."
+    },
+    {
+      "cityName": "Plover",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The term \"plover\" applies to all the members of the subfamily, though only about half of them include it in their name."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on Devon's south coast between the rivers Plym and Tamar, about 36 miles (58\u00a0km) southwest of Exeter and 193 miles (311\u00a0km) southwest of London."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the most populous city in Devon."
+    },
+    {
+      "cityName": "Polk City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies near the junction of four counties and at the intersection of U.S. Routes 18 and 52 and Iowa Highway 51, with airport facilities in the neighboring communities of Waukon, Decorah, Monona and Prairie du Chien."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is in Allamakee County's southwestern corner and Clayton County's northwestern corner in a quad county, or four-corner region, where four counties intersect."
+    },
+    {
+      "cityName": "Postville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Winneshiek County is just to the west and Fayette County is just to the southwest of Postville."
+    },
+    {
+      "cityName": "Prairie City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is twenty-two miles east of Des Moines."
+    },
+    {
+      "cityName": "Prairieburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Protivin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Early settlers named the city after the Bohemian town of Protiv\u00edn in what is now the south of the Czech Republic."
+    },
+    {
+      "cityName": "Quasqueton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Just northwest of the town is Cedar Rock, a home designed by Frank Lloyd Wright, which is maintained by the state as a museum."
+    },
+    {
+      "cityName": "Rake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rake is a town in Winnebago County, Iowa, United States."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Reinbeck",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area and is in the Cedar Valley."
+    },
+    {
+      "cityName": "Rembrandt",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rembrandt Harmenszoon van Rijn, mononymously known as Rembrandt, was a Dutch Golden Age painter, printmaker, and draughtsman."
+    },
+    {
+      "cityName": "Rembrandt",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He is generally considered one of the greatest visual artists in the history of Western art."
+    },
+    {
+      "cityName": "Rembrandt",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is estimated that Rembrandt's surviving works amount to about three hundred paintings, three hundred etchings, and several hundred drawings."
+    },
+    {
+      "cityName": "Rhodes",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rhodes is the largest of Greece's Dodecanese islands and their historical capital; it is the ninth largest island in the Mediterranean Sea."
+    },
+    {
+      "cityName": "Rhodes",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Administratively, Rhodes constitutes a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region."
+    },
+    {
+      "cityName": "Rhodes",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "By 2022, the island\u2019s population had grown to 125,113 people."
+    },
+    {
+      "cityName": "Ridgeway",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ridgeway's post office was established in 1867."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riverside is a city in rural Washington County, Iowa, United States, along the English River on Iowa Highway 22."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Highland Community School District."
+    },
+    {
+      "cityName": "Robins",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Cedar Rapids and part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rock Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rock Falls",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office named Shell Rock Falls opened in 1855; in 1872 this was changed to Rock Falls."
+    },
+    {
+      "cityName": "Rock Valley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rock Valley is a city in Sioux County, Iowa, the North Western corner of Iowa, United States, along the Rock River."
+    },
+    {
+      "cityName": "Rockford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rockford is a city in Floyd County, Iowa, United States, at the confluence of the Shell Rock and Winnebago rivers."
+    },
+    {
+      "cityName": "Rockford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rockford's post office opened in 1855."
+    },
+    {
+      "cityName": "Rockwell",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2020, it was speculated that the city is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Roland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roland was a Frankish military leader under Charlemagne who became an epic hero and one of the principal figures in the literary cycle known as the Matter of France."
+    },
+    {
+      "cityName": "Roland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The historical Roland was military governor of the Breton March, responsible for defending Francia's frontier against the Bretons."
+    },
+    {
+      "cityName": "Roland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "His only historical attestation is in Einhard's Vita Karoli Magni, which notes he was part of the Frankish rearguard killed in retribution by the Basques in Iberia at the Battle of Roncevaux Pass."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rome is the capital city and most populated comune (municipality) of Italy."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Metropolitan City of Rome Capital, with a population of 4,223,885 residents, is the most populous metropolitan city in Italy."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its metropolitan area is the third-most populous within Italy."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Vatican City is an independent country inside the city boundaries of Rome, the only existing example of a country within a city."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Rome is often referred to as the City of Seven Hills due to its geography, and also as the \"Eternal City\"."
+    },
+    {
+      "cityName": "Rome",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church."
+    },
+    {
+      "cityName": "Rowan",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rowans or mountain-ashes are shrubs or trees in the genus Sorbus of the rose family, Rosaceae."
+    },
+    {
+      "cityName": "Rowan",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "They are native throughout the cool temperate regions of the Northern Hemisphere, with the highest species diversity in the Himalaya, southern Tibet and parts of western China, where numerous apomictic microspecies occur."
+    },
+    {
+      "cityName": "Rowan",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name rowan was originally applied to the species Sorbus aucuparia and is also used for other species in the genus Sorbus."
+    },
+    {
+      "cityName": "Rudd",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office opened in Rudd in 1869."
+    },
+    {
+      "cityName": "Runnells",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Runnells",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Runnells has its own Post Office, located at 112 Brown Street."
+    },
+    {
+      "cityName": "Rutland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rutland is a ceremonial county in the East Midlands of England."
+    },
+    {
+      "cityName": "Rutland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It borders Leicestershire to the north and west, Lincolnshire to the north-east, and Northamptonshire to the south-west."
+    },
+    {
+      "cityName": "Sac City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is one of 45 designated Main Street Iowa communities through the Main Street Iowa development program."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Donatus or Saint Donatus is a city in Jackson County, Iowa, United States."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. Donatus is known for its status as a Luxembourgish village, with historic architecture and views along U.S. Route 52."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the home of a historic Catholic church, which is dedicated to Saint Donatus of Muenstereifel, the town's namesake."
+    },
+    {
+      "cityName": "Saint Donatus",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was formerly named Tete Des Morts, which is the name of a creek that flows through the village."
+    },
+    {
+      "cityName": "Saint Paul",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Paul or Saint Paul is a city in Lee County, Iowa, United States."
+    },
+    {
+      "cityName": "Saint Paul",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Madison-Keokuk Micropolitan Statistical Area"
+    },
+    {
+      "cityName": "Salix",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "IA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Joe Biden was born in Scranton."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wyoming Valley metropolitan area, which includes five cities and more than 40 boroughs forming a contiguous urban corridor with an estimated 574,000 residents."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located 56 miles (90\u00a0km) north of Allentown, 104 miles (167\u00a0km) north-northwest of Philadelphia, and 99 miles (159\u00a0km) west-northwest of New York City."
+    },
+    {
+      "cityName": "Sergeant Bluff",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Shellsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Shenandoah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once referred to as the \"seed and nursery center of the world,\" Shenandoah is the home to Earl May Seed Company and the radio station KMA, founded by Earl E."
+    },
+    {
+      "cityName": "Shenandoah",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The early live radio stations gave many performers their start, including The Everly Brothers and Charlie Haden."
+    },
+    {
+      "cityName": "Shueyville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hawkeye Point, the highest point in the State of Iowa, is also nearby."
+    },
+    {
+      "cityName": "Sigourney",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keokuk County Courthouse is located in the Public Square Historic District."
+    },
+    {
+      "cityName": "Sigourney",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both are on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Silver City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Iowa City metropolitan area, which encompasses Johnson and Washington counties, has a population of over 171,000."
+    },
+    {
+      "cityName": "Silver City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The metro area is also a part of a combined statistical area with the Cedar Rapids metro area known as the Iowa City\u2013Cedar Rapids region; collectively, this region has a population of nearly 500,000."
+    },
+    {
+      "cityName": "Sioux Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sioux Center is notable for its Dutch heritage, agribusiness, and as the location of Dordt University."
+    },
+    {
+      "cityName": "Sioux City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sioux City and the surrounding areas of northwestern Iowa, northeastern Nebraska and southeastern South Dakota are sometimes referred to collectively as Siouxland."
+    },
+    {
+      "cityName": "Slater",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A slater, or slate mason, is a tradesperson who covers buildings with slate."
+    },
+    {
+      "cityName": "Sloan",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Soldier",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A soldier is a person who is a member of an army."
+    },
+    {
+      "cityName": "Soldier",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A soldier can be a conscripted or volunteer enlisted person, a non-commissioned officer, a warrant officer, or an officer."
+    },
+    {
+      "cityName": "Solon",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Iowa City, Iowa Metropolitan Statistical Area, it is located a few miles from Lake MacBride State Park and the larger cities of Coralville and Iowa City."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the confluence of the Little Sioux and Ocheyedan rivers."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Spencer hosts the Clay County Fair, held annually in September and averaging more than 300,000 visitors."
+    },
+    {
+      "cityName": "Spring Hill",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Springville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "St. Ansgar",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Ansgar or Saint Ansgar is a city in Mitchell County, Iowa, United States."
+    },
+    {
+      "cityName": "St. Charles",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Charles or Saint Charles is a city in Madison County, Iowa, United States."
+    },
+    {
+      "cityName": "St. Charles",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "St. Lucas",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Lucas or Saint Lucas is a city in Fayette County, Iowa, United States."
+    },
+    {
+      "cityName": "State Center",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "State Center is known as the Rose Capital of Iowa."
+    },
+    {
+      "cityName": "Storm Lake",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buena Vista University, a private university, is located in Storm Lake."
+    },
+    {
+      "cityName": "Story City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located within the Ames, Iowa Metropolitan Statistical Area which envelops Story County and combined with the Boone, Iowa Micropolitan Statistical Area makes up the larger Ames-Boone, Iowa Combined Statistical Area."
+    },
+    {
+      "cityName": "Strawberry Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Strawberry Point is home to the world's largest strawberry, and the Franklin Hotel, which was listed on the National Register of Historic Places in 1999."
+    },
+    {
+      "cityName": "Strawberry Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Backbone State Park, Iowa's oldest state park, is located a few miles from the town."
+    },
+    {
+      "cityName": "Struble",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Struble is a city in Plymouth County, Iowa, United States, along the West Branch of the Floyd River."
+    },
+    {
+      "cityName": "Stuart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stuart is a city in Lincoln Township, Adair County, and in Stuart Township, Guthrie County, in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "Stuart",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "That part of the city within Guthrie County is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sully",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sully is a city located in Jasper County, Iowa, United States, named after railroad man Alfred Sully."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located along the county's eastern border, between Bremer and Fayette counties."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Bremer County portion of Sumner is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Swaledale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mason City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Swisher",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tabor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tabor is a city in Fremont County and extends northward into Mills County in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "Thor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thor is a prominent god in Germanic paganism."
+    },
+    {
+      "cityName": "Thor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In Norse mythology, he is a hammer-wielding god associated with thunder, storms, strength, protection, fertility, and farmers."
+    },
+    {
+      "cityName": "Thor",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Besides Old Norse \u00de\u00f3rr, the deity occurs in Old English as Thunor, in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theonym *\u00deun(a)raz, meaning 'Thunder'."
+    },
+    {
+      "cityName": "Tiffin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tiffin",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kent County Park is located just to the west of Tiffin, and is a popular site for outdoor recreation in Johnson County, being noted for its lake, camping facilities, resident whitetail deer herd and wild turkeys, and its cross-country ski trails through rolling acres of oak and hickory forest."
+    },
+    {
+      "cityName": "Tipton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tipton (/\u02c8t\u026apt\u0259n/) is a city in Cedar County, Iowa, United States."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toronto is a town in Clinton County, Iowa, United States."
+    },
+    {
+      "cityName": "Tripoli",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tripoli",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Tripoli Post Office opened in 1860."
+    },
+    {
+      "cityName": "Truro",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Truro is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Underwood",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Underwood is a town in Pottawattamie County, Iowa, United States."
+    },
+    {
+      "cityName": "University Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "University Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is an enclave surrounded by Iowa City, located near the campus of the University of Iowa."
+    },
+    {
+      "cityName": "University Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The University Heights city border is approximately 0.1 miles from Kinnick Stadium."
+    },
+    {
+      "cityName": "Urbana",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Urbandale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area and is the 12th largest city in Iowa."
+    },
+    {
+      "cityName": "Van Horne",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Van Meter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Van Meter, VanMeter, Van Metre, Van Mater and Van Matre are American surnames derived from the Dutch surname Van Meteren."
+    },
+    {
+      "cityName": "Van Meter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most are descendants of Jan Joosten van Meteren (1626\u20131704) who in 1662 settled in Wiltwijck, New Netherlands, now Kingston, New York."
+    },
+    {
+      "cityName": "Van Meter",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The surname is a toponym, meaning \"from Meteren\" in Gelderland, the Netherlands."
+    },
+    {
+      "cityName": "Villisca",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is most notable for the unsolved axe murders that took place in the town on June 9, 1912."
+    },
+    {
+      "cityName": "Vinton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also part of the Cedar Rapids metropolitan area."
+    },
+    {
+      "cityName": "W. Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Des Moines is the capital and most populous city in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "W. Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after the Des Moines River, likely derived from the French Rivi\u00e8re des Moines meaning 'River of the Monks'."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walcott's interchange on Interstate 80 is home to an enormous complex of restaurants, motels and truck stops, including the Iowa 80 truck stop, which is the world's largest."
+    },
+    {
+      "cityName": "Walford",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Walnut",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walnut is located on Interstate 80 and is famous for its many antique stores."
+    },
+    {
+      "cityName": "Walnut",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In recent years Walnut has become a regional center of wind turbine electrical generation."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washburn lies south of Waterloo on U.S. Route 218."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other towns near Washburn are Gilbertville and La Porte City."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Washington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City metropolitan area."
+    },
+    {
+      "cityName": "Washta",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is called \"The Coldest Spot in Iowa\", recording a temperature of \u221247\u00a0\u00b0F (\u221244\u00a0\u00b0C) without wind chill on January 12, 1912."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waterloo comprises a twin conurbation with neighboring municipality Cedar Falls, and is the larger of the two cities."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Waterloo \u2013 Cedar Falls metropolitan area has an estimated 170,000 residents."
+    },
+    {
+      "cityName": "Waukee",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waverly is situated along the Cedar River and is accessible via the Avenue of the Saints for transportation."
+    },
+    {
+      "cityName": "Wayland",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wayland is a village in Jefferson Township, Henry County, Iowa, United States."
+    },
+    {
+      "cityName": "Webster City",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Webster City is known as 'Boone River Country', as the Boone River meanders along the east side of the city."
+    },
+    {
+      "cityName": "Wellman",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Iowa City, Iowa Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wellsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Waterloo\u2013Cedar Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wellsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named for George Wells, an early settler in the region."
+    },
+    {
+      "cityName": "West Bend",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Bend is a village in Kossuth and Palo Alto (originally) counties in the U.S. state of Iowa."
+    },
+    {
+      "cityName": "West Branch",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the birthplace of the only American president born in Iowa, Herbert Hoover."
+    },
+    {
+      "cityName": "West Burlington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Burlington is a city in Des Moines County, Iowa, United States, adjacent to the Mississippi River city of Burlington."
+    },
+    {
+      "cityName": "West Burlington",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Burlington, IA\u2013IL Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "West Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the city is in Polk County, some of it is in Dallas County, and small portions extend into Warren and Madison Counties."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Muscatine micropolitan area."
+    },
+    {
+      "cityName": "West Okoboji",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Okoboji is a village in Dickinson County, Iowa, United States."
+    },
+    {
+      "cityName": "West Okoboji",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located on West Okoboji Lake, from which it takes its name."
+    },
+    {
+      "cityName": "West Okoboji",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Iowa Great Lakes region."
+    },
+    {
+      "cityName": "West Point",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Fort Madison\u2013Keokuk, IA-MO Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the westernmost point in Iowa, this being due to a bend in the Big Sioux River."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearby Broken Kettle wildlife refuge is one of the few places in Iowa where prairie rattlesnakes are commonly found."
+    },
+    {
+      "cityName": "What Cheer",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a former coal town, and from the 1870s to the early 1900s was one of the major coal-producing centers of Iowa."
+    },
+    {
+      "cityName": "Williams",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williams is a regional center of wind power generation."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williamsburg is known for Holden's Foundation Seeds, a foundation seed corn company, and Kinze Manufacturing, Inc., a farm implement manufacturer."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Muscatine County portion of Wilton is part of the Muscatine Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Windsor Heights",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Woodward is also home to the Woodward-Granger Community School District's middle school and high school, the elementary school being located in Granger."
+    },
+    {
+      "cityName": "Wyoming",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cedar Rapids Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Yale",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Des Moines\u2013West Des Moines Metropolitan Statistical Area."
+    }
+  ]
+}

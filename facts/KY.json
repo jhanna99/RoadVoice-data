@@ -1,0 +1,3413 @@
+{
+  "facts": [
+    {
+      "cityName": "Albany",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on U.S. Route 127, about 6 miles (10\u00a0km) north of the Tennessee border."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Along with Newport, it is one of the dual seats of the county."
+    },
+    {
+      "cityName": "Almo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "No one knows when the community was founded, but a rail center was established in the early 1890s by the Nashville, Chattanooga & St. Louis Railway."
+    },
+    {
+      "cityName": "Almo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office was opened on February 11, 1891, and given the name Buena, Kentucky."
+    },
+    {
+      "cityName": "Almo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name of the post office was changed to Almo on November 18, 1892."
+    },
+    {
+      "cityName": "Almo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The new name may have been a shortening of the name Alamo from the Texas Revolution."
+    },
+    {
+      "cityName": "Almo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The post office closed on August 15, 2022."
+    },
+    {
+      "cityName": "Annville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was established in 1878 and named for local resident Nancy Ann Johnson."
+    },
+    {
+      "cityName": "Annville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community offers a few services such as a post office, grocery store, gas station, medical clinic, nursing home, restaurants, and other locally owned businesses."
+    },
+    {
+      "cityName": "Argillite",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits at the southern end of the confluence of Kentucky Routes 1 and 207."
+    },
+    {
+      "cityName": "Argillite",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name refers to argillite, a type of stone, related to shale."
+    },
+    {
+      "cityName": "Arlington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arlington is included in the Paducah, KY-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the southern bank of the Ohio River at the state border with Ohio and near West Virginia."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a principal city of the Huntington\u2013Ashland metropolitan area, referred to locally as the \"Tri-State area\" and home to 376,155 residents in 2020."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ashland serves as an important economic and medical center for northeastern Kentucky."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located upon the southern bank of the Ohio River."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1839, a new county courthouse was built at a more central location in Brooksville."
+    },
+    {
+      "cityName": "Barbourville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was formally established by the state assembly in 1812."
+    },
+    {
+      "cityName": "Barlow",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Paducah, KY-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Beattyville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Samuel Beatty, a pioneer settler."
+    },
+    {
+      "cityName": "Beaver Dam",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the Beaver Dam Baptist Church which predates the town by several decades."
+    },
+    {
+      "cityName": "Belfry",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The belfry is a structure enclosing bells for ringing as part of a building, usually as part of a bell tower or steeple."
+    },
+    {
+      "cityName": "Belfry",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It can also refer to the entire tower or building, particularly in continental Europe for such a tower attached to a city hall or other civic building."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the southern bank of the Ohio River."
+    },
+    {
+      "cityName": "Benton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The current mayor of this city is Rita Dotson."
+    },
+    {
+      "cityName": "Berea",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is best known for its art festivals, historic restaurants and buildings, and as the home to Berea College, a private liberal arts college."
+    },
+    {
+      "cityName": "Berea",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the fastest-growing cities in Kentucky, having increased by 27.4% since 2000."
+    },
+    {
+      "cityName": "Berea",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Berea is a principal city of the Richmond\u2212Berea Micropolitan Statistical Area, which includes Madison and Rockcastle counties."
+    },
+    {
+      "cityName": "Betsy Layne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1875 along the Levisa Fork."
+    },
+    {
+      "cityName": "Betsy Layne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The post office opened on May 1, 1908, with Clayton S."
+    },
+    {
+      "cityName": "Betsy Layne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Stage actress Bette Henritze was a native of Betsy Layne."
+    },
+    {
+      "cityName": "Blackey",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located near the early settlement of Indian Bottom."
+    },
+    {
+      "cityName": "Blackey",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Blackey is thought to have been named after Blackey Brown, one of its citizens."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blaine was a former home rule-class city and dissolved its government in 2022."
+    },
+    {
+      "cityName": "Bonnieville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a home rule-class city from 1955 to 2024, when residents voted to dissolve Bonnieville into Hart County."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the junction of Kentucky Route 11 and Kentucky Route 30 on the South Fork of the Kentucky River."
+    },
+    {
+      "cityName": "Boston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boston is the capital and most populous city of the U.S. state of Massachusetts."
+    },
+    {
+      "cityName": "Boston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It serves as the cultural and financial center of New England, a region of the Northeastern United States."
+    },
+    {
+      "cityName": "Boston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The larger Greater Boston metropolitan statistical area had a population of 4.9 million in 2023, making it the largest metropolitan area in New England and the eleventh-largest in the United States."
+    },
+    {
+      "cityName": "Bowling Green",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bowling Green metropolitan area is the fourth-largest in the state and had a population of 179,639 in 2020."
+    },
+    {
+      "cityName": "Brandenburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brandenburg is a home rural-class city on the Ohio River in Meade County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Brandenburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is 40 miles (64\u00a0km) southwest of Louisville."
+    },
+    {
+      "cityName": "Breeding",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 1001\u00a0feet (305\u00a0m)."
+    },
+    {
+      "cityName": "Breeding",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located at the northern terminus of Kentucky Route 533."
+    },
+    {
+      "cityName": "Bromley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Bronston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bronston is located on Lake Cumberland along Kentucky Route 90, 7.5 miles (12.1\u00a0km) south of Somerset."
+    },
+    {
+      "cityName": "Bronston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bronston has a post office with ZIP code 42518."
+    },
+    {
+      "cityName": "Brooks",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brooks was struck by a tornado in 1996."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Bowling Green metropolitan area."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is just outside Mammoth Cave National Park."
+    },
+    {
+      "cityName": "Bryantsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 942\u00a0feet (287\u00a0m)."
+    },
+    {
+      "cityName": "Bryantsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has a post office with the ZIP code 40410."
+    },
+    {
+      "cityName": "Buckhorn",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is centered on the Buckhorn Presbyterian Church, a log structure listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Buckhorn",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Buckhorn Children's Center and Buckhorn Lake State Resort Park are also located here."
+    },
+    {
+      "cityName": "Buechel",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buechel is now a neighborhood within the city limits of Louisville."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 748\u00a0feet (228\u00a0m), and it is located at 37\u00b030\u203243\u2033N 85\u00b041\u203255\u2033W."
+    },
+    {
+      "cityName": "Burkesville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nestled among the rolling foothills of Appalachia and bordered by the Cumberland River to the south and east, it is the seat of its county."
+    },
+    {
+      "cityName": "Burnside",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2004, Burnside became the only town in Pulaski County or any adjoining county to allow the sale of alcoholic beverages in qualified establishments."
+    },
+    {
+      "cityName": "Burnside",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since then, Burnside has annexed about eight miles of shoreline along Lake Cumberland in order to include Lee's Ford Marina on Fishing Creek, allowing it to sell alcohol."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A butler is a person who works in a house serving and is a domestic worker in a large household."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In great houses, the household is sometimes divided into departments, with the butler in charge of the dining room, wine cellar, and pantry."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Some also have charge of the entire parlour floor and housekeepers caring for the entire house and its appearance."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A butler is usually male and in charge of male servants, while a housekeeper is usually female and in charge of female servants."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Traditionally, male servants were better-paid and of higher status than female servants."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The butler, as the senior male servant, has the highest servant status."
+    },
+    {
+      "cityName": "Butler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "He can also sometimes function as a chauffeur."
+    },
+    {
+      "cityName": "Cadiz",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Clarksville metropolitan area."
+    },
+    {
+      "cityName": "California",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "California is a state in the Western United States that lies on the Pacific Coast."
+    },
+    {
+      "cityName": "California",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It borders Oregon to the north, Nevada and Arizona to the east, and shares an international border with the Mexican state of Baja California to the south."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county town of Cambridgeshire and is located on the River Cam, 55 miles (89\u00a0km) north of London."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is archaeological evidence of settlement in the area as early as the Bronze Age, and Cambridge became an important trading centre during the Roman and Viking eras."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first town charters were granted in the 12th century, although modern city status was not officially conferred until 1951."
+    },
+    {
+      "cityName": "Campbellsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known for Campbellsville University, Taylor Regional Hospital health care system, its historic downtown, and the proximity to Green River Lake State Park."
+    },
+    {
+      "cityName": "Campbellsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Campbellsville celebrated its bicentennial on July 4, 2017."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest settlement and only city in Cumbria."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2021 it had a population of 77,730."
+    },
+    {
+      "cityName": "Carrsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carrsville is a home rule-class city beside the Ohio River in Livingston County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Carrsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Paducah, KY-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Carrsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is situated just west of the junction of where Buck Creek empties into the Ohio River."
+    },
+    {
+      "cityName": "Catlettsburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Huntington\u2013Ashland metropolitan area."
+    },
+    {
+      "cityName": "Cave City",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Glasgow Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Central City",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest city in the county and the principal community in the Central City Micropolitan Statistical Area, which includes all of Muhlenberg County."
+    },
+    {
+      "cityName": "Clay",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clay is a type of fine-grained natural soil material containing clay minerals."
+    },
+    {
+      "cityName": "Clay",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most pure clay minerals are white or light-coloured, but natural clays show a variety of colours from impurities, such as a reddish or brownish colour from small amounts of iron oxide."
+    },
+    {
+      "cityName": "Clearfield",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along Kentucky Route 519 1.5 miles (2.4\u00a0km) south of Morehead."
+    },
+    {
+      "cityName": "Clearfield",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clearfield has a post office with ZIP code 40313."
+    },
+    {
+      "cityName": "Cloverport",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cloverport is a home rule-class city in Breckinridge County, Kentucky, United States, on the banks of the Ohio River."
+    },
+    {
+      "cityName": "Coal Run Village",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the fastest-growing city in Kentucky from 2007 to 2008, with a population increase of 17.3%."
+    },
+    {
+      "cityName": "Cold Spring",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cincinnati-Northern Kentucky metropolitan area."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia is a home rule-class city just above Russell Creek in Adair County, Kentucky, United States."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Columbia is the seat of its county."
+    },
+    {
+      "cityName": "Concord",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Maysville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Corbin",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corbin is a home rule-class city in Whitley, Knox and Laurel counties in the southeastern portion of the U.S. state of Kentucky."
+    },
+    {
+      "cityName": "Corinth",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The successor to the ancient city of Corinth, it is the capital of the Corinthia regional unit and the seat of the municipality of Corinth, of which it is a municipal unit."
+    },
+    {
+      "cityName": "Corydon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corydon is a home rule-class city and former coal town in Henderson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Covington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the confluence of the Ohio and Licking rivers, across from Cincinnati to the north and Newport to the east."
+    },
+    {
+      "cityName": "Covington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Covington is part of the Cincinnati metropolitan area and is one of Kenton County's two seats, along with Independence."
+    },
+    {
+      "cityName": "Coxs Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Colonel Isaac Cox of Pennsylvania, who established a fortified station on Coxs Creek."
+    },
+    {
+      "cityName": "Coxs Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some sources state construction began as early as April 1775, while contemporaneous depositions and early county tax records indicate that the Cox family's Kentucky migration and settlement were underway by 1780, including Isaac's brother David Cox."
+    },
+    {
+      "cityName": "Crab Orchard",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Danville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Crestwood",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "D. W. Griffith was born in Crestwood."
+    },
+    {
+      "cityName": "Crestwood",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crestwood is a home rule-class city in Oldham County, Kentucky, United States just outside Louisville's Northeast End."
+    },
+    {
+      "cityName": "Crestwood",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "CNN listed it as the 52nd best place to live in America in 2005."
+    },
+    {
+      "cityName": "Cub Run",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was also known as The Crossroads."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city sits at the confluence of Looney Creek and the Poor Fork Cumberland River."
+    },
+    {
+      "cityName": "Danville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danville is the principal city of the Danville Micropolitan Statistical Area, which includes all of the Boyle and Lincoln counties."
+    },
+    {
+      "cityName": "Danville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2001, Danville received a Great American Main Street Award from the National Trust for Historic Preservation."
+    },
+    {
+      "cityName": "Danville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2011, Money magazine placed Danville as the fourth-best place to retire in the United States."
+    },
+    {
+      "cityName": "Danville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Centre College in Danville was selected to host U.S. vice-presidential debates in 2000 and 2012."
+    },
+    {
+      "cityName": "David",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It bears the postal ZIP code 41616."
+    },
+    {
+      "cityName": "Dawson Springs",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dawson Springs is a home rule-class city in Hopkins and Caldwell counties in the U.S. state of Kentucky."
+    },
+    {
+      "cityName": "Dawson Springs",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was a spa and resort town visited by tourists."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Dayton, Kentucky, is a home rule-class city along a bend of the Ohio River in Campbell County, Kentucky, United States."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is less than 3 miles (5\u00a0km) from downtown Cincinnati, Ohio."
+    },
+    {
+      "cityName": "Debord",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Guy-Ernest Debord was a French Marxist theorist, philosopher, filmmaker, critic of work, member of the Letterist International, founder of a Letterist faction, and founding member of the Situationist International."
+    },
+    {
+      "cityName": "Debord",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was also briefly a member of Socialisme ou Barbarie."
+    },
+    {
+      "cityName": "Debord",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Debord is best known for his 1967 work, The Society of the Spectacle, alongside his direction to the Letterist and Situationist Magazines."
+    },
+    {
+      "cityName": "Dixon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dixon is located at the junction of US 41A and KY 132."
+    },
+    {
+      "cityName": "Dixon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was established with a courthouse and post office in 1860 when the county was formed."
+    },
+    {
+      "cityName": "Dorton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dorton is a village and civil parish in the Buckinghamshire district of the county of Buckinghamshire, England."
+    },
+    {
+      "cityName": "Dorton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the Aylesbury Vale area in the western part of the county, about 5 miles (8\u00a0km) north of the Oxfordshire market town of Thame."
+    },
+    {
+      "cityName": "Dover",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dover is a town and major ferry port in Kent, England."
+    },
+    {
+      "cityName": "Dover",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It faces France across the Strait of Dover, the narrowest part of the English Channel at 33 kilometres (21\u00a0mi) from Cap Gris Nez in France."
+    },
+    {
+      "cityName": "Dover",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It lies southeast of Canterbury and east of Maidstone."
+    },
+    {
+      "cityName": "Dover",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is the administrative centre of the Dover District and home of the Port of Dover."
+    },
+    {
+      "cityName": "Druid Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Atlanta-city section of Druid Hills is one of Atlanta's most affluent neighborhoods with a mean household income in excess of $238,500."
+    },
+    {
+      "cityName": "Dry Ridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "From around 1910 to 1960, the city's economy was dominated by business related to its mineral water wells, purported to have healing properties."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 640\u00a0feet (195\u00a0m)."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dubre had a post office, with the ZIP code of 42731."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hazel Anderson Alexander, died November 18, 2010."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The post office, which had been open only two hours a day was suspended by the USPS several weeks after her death, on December 3, 2010."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Alexander began her tenure with the Dubre post office March 31, 1970."
+    },
+    {
+      "cityName": "Dubre",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Post Office was located inside of the Anderson Grocery, which also closed after Alexander's death."
+    },
+    {
+      "cityName": "Dunnville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Virginian James Richard Dunn, who settled the area in the 1840s and operated a mill."
+    },
+    {
+      "cityName": "Edgewood",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for an early homestead in Walker Estates."
+    },
+    {
+      "cityName": "Edmonton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Glasgow Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elizabethtown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the principal city of the Elizabethtown metropolitan area, which is included in the Louisville/Jefferson County\u2013Elizabethtown\u2013Madison, Kentucky-Indiana combined statistical area."
+    },
+    {
+      "cityName": "Elizabethtown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Elizabethtown metropolitan area had a population of 125,569 in 2020."
+    },
+    {
+      "cityName": "Erlanger",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Erlanger is part of the Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fairdale",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairdale is now a neighborhood within the city limits of Louisville."
+    },
+    {
+      "cityName": "Fairdale",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The ZIP Code for Fairdale is 40118."
+    },
+    {
+      "cityName": "Fern Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fern Creek is a historic community in southeastern Jefferson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Fern Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is now considered a neighborhood of Louisville."
+    },
+    {
+      "cityName": "Fern Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located about 12 miles (19\u00a0km) from Downtown Louisville."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fisherville is a neighborhood of Louisville, Kentucky, United States, which is centered along Taylorsville Road and Finchville Road."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was originally named Curreys after Edward Currey, who opened a post office in 1833."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1847, it was renamed after Robert Fisher who had died two years earlier and operated a mill on Floyds Fork with his father, John."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The area became more commercial in the late 19th and early 20th centuries due to the opening of railroad tracks and the discovery of a mineral water well."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Visitors came for the therapeutic value of the mineral water, but when the well went dry in 1914 the area began its reversion to being a primarily residential area."
+    },
+    {
+      "cityName": "Fisherville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Fisherville was also home of one of Louisville's great Basketball coaches, Denny Crum, who coached for the University of Louisville for 30 years attaining 2 Men's Basketball Championships."
+    },
+    {
+      "cityName": "Flatwoods",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Flatwoods is a part of the Huntington\u2013Ashland metropolitan area."
+    },
+    {
+      "cityName": "Flatwoods",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Locally, Flatwoods is considered to be a bedroom community, as it has no large employer within the city."
+    },
+    {
+      "cityName": "Flatwoods",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many residents work for CSX Transportation, Marathon Petroleum, or King's Daughters Medical Center."
+    },
+    {
+      "cityName": "Fleming-Neon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fleming-Neon also known as Neon, is a home rule-class city in Letcher County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Florence",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Florence is a city in Boone County, Kentucky, United States, part of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Florence",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Like all but the state's two most populous cities, Florence is a home rule-class city under Kentucky state law."
+    },
+    {
+      "cityName": "Fort Campbell",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Campbell is a United States Army installation located between the Kentucky\u2013Tennessee border between Hopkinsville, Kentucky and Clarksville, Tennessee."
+    },
+    {
+      "cityName": "Fort Campbell",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Though the base's postal address is nominally listed as being in Kentucky, the majority of the post itself is physically located across the state line in Tennessee."
+    },
+    {
+      "cityName": "Fort Campbell",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Campbell is home to the 101st Airborne Division and the 160th Special Operations Aviation Regiment."
+    },
+    {
+      "cityName": "Fort Campbell",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The fort is named in honor of Union Army Brigadier General William Bowen Campbell, the last Whig Governor of Tennessee."
+    },
+    {
+      "cityName": "Fort Campbell North",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It contains most of the housing for the Fort Campbell Army base within the Kentucky portion of the base."
+    },
+    {
+      "cityName": "Fort Knox",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Knox is a United States Army installation in Kentucky, south of Louisville and north of Elizabethtown."
+    },
+    {
+      "cityName": "Fort Knox",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjacent to the United States Bullion Depository, which is used to house a large portion of the United States' official gold reserves, and with which it is often conflated."
+    },
+    {
+      "cityName": "Fort Mitchell",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Fort Thomas",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Thomas is a home rule-class city in Campbell County, Kentucky, United States, on the southern bank of the Ohio River and the site of an 1890 US Army post."
+    },
+    {
+      "cityName": "Fort Thomas",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Cincinnati \u2013 Northern Kentucky metropolitan area."
+    },
+    {
+      "cityName": "Fort Wright",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Francisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the northernmost community in the state."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frankfort is the capital city of the U.S. state of Kentucky."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a home rule-class city and the seat of Franklin County."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located along the Kentucky River in the Upland South, Frankfort is the principal city of the Frankfort, Kentucky micropolitan area, which includes all of Franklin and Anderson counties."
+    },
+    {
+      "cityName": "Frenchburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the junction of U.S. Route 460 and Kentucky Route 36."
+    },
+    {
+      "cityName": "Frenchburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Logging is the primary industry."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was once known as the \"Banana Capital of the World\", because 70% of imported bananas to the U.S. used to be shipped through the city."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fulton is part of the Union City-Hickman, TN\u2013KY Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gamaliel",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gamaliel the Elder, or Rabban Gamaliel I, was a leading authority in the Sanhedrin in the early first century CE."
+    },
+    {
+      "cityName": "Gamaliel",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was the son of Simeon ben Hillel and grandson of the great Jewish teacher Hillel the Elder."
+    },
+    {
+      "cityName": "Gamaliel",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He fathered Simeon ben Gamliel, who was named for Gamaliel's father, and a daughter, who married a priest named Simon ben Nathanael."
+    },
+    {
+      "cityName": "Garrard",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Garrard is a coal town in Clay County, Kentucky, United States on the junction of United States Highway 421 and Kentucky Highway 80, 2.5 miles (4.0\u00a0km) south of Manchester."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A garrison is a body of troops stationed in a particular location, originally to guard it and/or facilities that constitute a military base or fortified military headquarters."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A garrison is usually in a city, town, fort, castle, ship, or similar site."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "\"Garrison town\" is a common expression for any town that has a military base nearby."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the sixth-most populous city in Kentucky."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was originally called Lebanon when founded by Rev."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Elijah Craig and was renamed in 1790 in honor of President George Washington."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Historically, settlers were drawn to Georgetown for its Royal Spring."
+    },
+    {
+      "cityName": "Ghent",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ghent is a home rule-class city along the south bank of the Ohio River in Carroll County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Girdler",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Girdler is a surname of professional origin."
+    },
+    {
+      "cityName": "Glasgow",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glasgow is the principal city of the Glasgow micropolitan area, which comprises Barren and Metcalfe counties."
+    },
+    {
+      "cityName": "Goody",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its post office closed in August 1996."
+    },
+    {
+      "cityName": "Grand Rivers",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Paducah, KY-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gravel Switch",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along Kentucky Route 243, just south of its intersection with U.S. Route 68, southwest of Perryville and northeast of Bradfordsville."
+    },
+    {
+      "cityName": "Gray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along US 25E 4.9 miles (7.9\u00a0km) East of Corbin."
+    },
+    {
+      "cityName": "Gray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gray has a post office with ZIP code 40734, which opened on January 25, 1888."
+    },
+    {
+      "cityName": "Gray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There was also a radio station, WKYZ 1590 AM, that began broadcasting in 1984, but the license was deleted in 1998."
+    },
+    {
+      "cityName": "Graymoor-Devondale",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the result of the merger of the former cities of Graymoor and Devondale."
+    },
+    {
+      "cityName": "Grayson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 21 miles west of Ashland."
+    },
+    {
+      "cityName": "Grayson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with Carter County, the city is closely associated with the nearby Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area and is often erroneously included in the MSA being just 9 miles west of the MSA's western boundary."
+    },
+    {
+      "cityName": "Greenup",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Huntington\u2013Ashland metropolitan area."
+    },
+    {
+      "cityName": "Happy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Happiness is a complex and multifaceted emotion that encompasses a range of positive feelings, from contentment to intense joy."
+    },
+    {
+      "cityName": "Happy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is often associated with positive life experiences, such as achieving goals, spending time with loved ones, or engaging in enjoyable activities."
+    },
+    {
+      "cityName": "Happy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, happiness can also arise spontaneously, without any apparent external cause."
+    },
+    {
+      "cityName": "Hardinsburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hardinsburg was named after Captain William Hardin."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartford is the capital city of the U.S. state of Connecticut."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hartford is the most populous city in the Capitol Planning Region and the core city of the Greater Hartford metropolitan area with 1.17 million residents."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Hebron Lutheran Church."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Evansville\u2013Henderson, Indiana\u2013Kentucky Combined Statistical Area, locally known as the \"Tri-State Area,\" and is considered the southernmost suburb of Evansville, Indiana."
+    },
+    {
+      "cityName": "Highview",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highview is now a neighborhood within the city limits of Louisville."
+    },
+    {
+      "cityName": "Hillview",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The primary road through the area is Kentucky Route 61, known as Preston Highway in both Jefferson and Bullitt counties."
+    },
+    {
+      "cityName": "Hitchins",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hitchins is a surname of early medieval English origin."
+    },
+    {
+      "cityName": "Hodgenville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hodgenville sits along the North Fork of the Nolin River."
+    },
+    {
+      "cityName": "Hodgenville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Elizabethtown metropolitan area and is best known for being the birthplace of the 16th United States president Abraham Lincoln."
+    },
+    {
+      "cityName": "Horse Cave",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Randall Curry currently serves as mayor of the city and is assisted by a city council that is composed of six members."
+    },
+    {
+      "cityName": "Huddy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Huddy is located at the junction of U.S. Route 119 and Kentucky Route 199 15.5 miles (24.9\u00a0km) east-northeast of Pikeville."
+    },
+    {
+      "cityName": "Huddy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Huddy had a post office, which closed on January 22, 2011."
+    },
+    {
+      "cityName": "Hurstbourne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Louisville Metro Government."
+    },
+    {
+      "cityName": "Independence",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of its county's two seats of government."
+    },
+    {
+      "cityName": "Independence",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the third largest city in Northern Kentucky after Covington and Florence, and is part of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Indian Hills",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Jennifer Lawrence was born in Indian Hills."
+    },
+    {
+      "cityName": "Indian Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Indian Hills is a home rule-class city along the Ohio River in Jefferson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Indian Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Indian Hills and the nearby cities of Mockingbird Valley, Glenview, and Anchorage have been cited as Louisville's most prosperous suburbs since the mid-20th century."
+    },
+    {
+      "cityName": "Ironville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Due to its proximity to Ashland, Ironville is often considered to be a part of Ashland, although officially it is separate from the city and serves as a suburb to the city."
+    },
+    {
+      "cityName": "Ironville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It shares its ZIP code with Ashland as well."
+    },
+    {
+      "cityName": "Island",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An island or isle is a piece of land, distinct from a continent, completely surrounded by water."
+    },
+    {
+      "cityName": "Island",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There are continental islands, which were formed by being split from a continent by plate tectonics, and oceanic islands, which have never been part of a continent."
+    },
+    {
+      "cityName": "Island",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Oceanic islands can be formed from volcanic activity, grow into atolls from coral reefs, and form from sediment along shorelines, creating barrier islands."
+    },
+    {
+      "cityName": "Island",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "River islands can also form from sediment and debris in rivers."
+    },
+    {
+      "cityName": "Island",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Artificial islands are those made by humans, including small rocky outcroppings built out of lagoons and large-scale land reclamation projects used for development."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the home of the Jackson Academy, which became Lees College."
+    },
+    {
+      "cityName": "Jeffersonville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mount Sterling micropolitan area."
+    },
+    {
+      "cityName": "Kirksey",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established on July 14, 1871, by Stephen Franklin Kirksey."
+    },
+    {
+      "cityName": "Kirksey",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Post Master Kirksey used the same building for a post office that had served as a post office from 1857 to 1860 that was known at the time as Radford, Kentucky."
+    },
+    {
+      "cityName": "Kirksey",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Post Master Kirksey submitted his own name to the U.S. Post Office instead of the names Reedville and Rosedale which were preferred by the residents in the area."
+    },
+    {
+      "cityName": "Knifley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 718\u00a0feet (219\u00a0m)."
+    },
+    {
+      "cityName": "Knottsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first house was built by Leonard Knott in the fall of 1827, for which the town was named."
+    },
+    {
+      "cityName": "Knottsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was laid out in 1836 by William R."
+    },
+    {
+      "cityName": "La Grange",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A unique feature of the city is the CSX Transportation street-running mainline track on Main Street that sees multiple trains in both directions."
+    },
+    {
+      "cityName": "Lawrenceburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawrenceburg is part of the Frankfort, Kentucky, micropolitan statistical area."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lebanon is located in central Kentucky, 63 miles (101\u00a0km) southeast of Louisville."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A national cemetery is nearby."
+    },
+    {
+      "cityName": "Ledbetter",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Paducah, KY-IL Metropolitan Statistical Area, laying directly across the Tennessee River from Paducah."
+    },
+    {
+      "cityName": "Ledbetter",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the largest community in Livingston County, but the village of Salem is less than two times the population of Ledbetter."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "George Clooney and Thomas Hunt Morgan were born in Lexington."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "By area, it is the country's 33rd-largest city."
+    },
+    {
+      "cityName": "Lexington-Fayette",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "George Clooney and Thomas Hunt Morgan were born in Lexington-Fayette."
+    },
+    {
+      "cityName": "Lexington-Fayette",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "By area, it is the country's 33rd-largest city."
+    },
+    {
+      "cityName": "Livingston",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Richmond-Berea micropolitan area."
+    },
+    {
+      "cityName": "London",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "London is home to the annual World Chicken Festival that celebrates the life of Colonel Sanders and features the world's largest skillet."
+    },
+    {
+      "cityName": "Lone Oak",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of the Paducah, KY-IL Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lost Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lost Creek is a creek that is mainly in Breathitt County, Kentucky in the United States."
+    },
+    {
+      "cityName": "Lost Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It a tributary of the Troublesome Creek tributary of the North Fork Kentucky River that it joins over the county line in Perry County slightly more than 1 mile (1.6\u00a0km) upstream of the mouth of Troublesome, at an altitude of 810 feet (250\u00a0m)."
+    },
+    {
+      "cityName": "Lost Creek",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The junction of Kentucky Route 476 with Kentucky Route 15 about 6 miles (9.7\u00a0km) south-southeast of Jackson is nearby."
+    },
+    {
+      "cityName": "Louisa",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the merger of the Levisa and Tug Forks into the Big Sandy River, which forms part of the state's border with West Virginia."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Muhammad Ali was born in Louisville."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Louisville is the most populous city in the U.S. state of Kentucky, sixth-most populous city in the Southeast, and the 27th-most-populous city in the United States."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By land area, it is the country's 24th-largest city; however, by population density, it is the 265th most dense city."
+    },
+    {
+      "cityName": "Lovelaceville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Elias and Andrew Lovelace who settled and raised their families there back around 1830."
+    },
+    {
+      "cityName": "Lovelaceville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lovelace family came from North and South Carolina, after immigrating from England."
+    },
+    {
+      "cityName": "Lucas",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its post office opened in 1888 and closed in May 1996."
+    },
+    {
+      "cityName": "Ludlow",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Ludlow",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It received its greatest period of early growth as a rail station."
+    },
+    {
+      "cityName": "Madisonville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madisonville is a commercial center of the region and is home to Madisonville Community College."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Magnolia is a large genus of about 210 to 340 flowering plant species in the subfamily Magnolioideae of the family Magnoliaceae."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The natural range of Magnolia species is disjunct, with a main center in east, south and southeast Asia and a secondary center in eastern North America, Central America, the West Indies, and some species in South America."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manchester is part of the Corbin KY Micropolitan statistical area, as is the entirety of Clay County, and is the seat of its county and the home of a minimum- and medium-security federal prison."
+    },
+    {
+      "cityName": "Mayking",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mayking has a post office with ZIP code 41837, which opened on January 25, 1894."
+    },
+    {
+      "cityName": "Mayking",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U.S. Route 119 passes through the community."
+    },
+    {
+      "cityName": "Maysville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maysville is on the Ohio River, 66 miles (106\u00a0km) northeast of Lexington."
+    },
+    {
+      "cityName": "Maysville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Two bridges cross the Ohio from Maysville to Aberdeen, Ohio: the Simon Kenton Memorial Bridge built in 1931 and the William H."
+    },
+    {
+      "cityName": "Meadowbrook Farm",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Meadowbrook Farm is a neighborhood of Louisville, Kentucky, United States."
+    },
+    {
+      "cityName": "Meads",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the U.S. Highway 60 corridor south of Ashland."
+    },
+    {
+      "cityName": "Melbourne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melbourne is the capital and most populous city of the Australian state of Victoria, and the second most-populous city in Australia, after Sydney."
+    },
+    {
+      "cityName": "Melbourne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's name generally refers to a 2,453-square-kilometre (947\u00a0sq\u00a0mi) area, comprising an urban agglomeration of 31 local government areas."
+    },
+    {
+      "cityName": "Melbourne",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name is also used to specifically refer to the local government area named City of Melbourne, whose area is centred on the Melbourne central business district and some immediate surrounds."
+    },
+    {
+      "cityName": "Mentor",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mentorship is the patronage, influence, guidance, or direction given by a mentor."
+    },
+    {
+      "cityName": "Mentor",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A mentor is someone who teaches or gives help and advice to a less experienced and often younger person."
+    },
+    {
+      "cityName": "Mentor",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In an organizational setting, a mentor influences the personal and professional growth of a mentee."
+    },
+    {
+      "cityName": "Mentor",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Most traditional mentorships involve having senior employees mentor more junior employees, but mentors do not necessarily have to be more senior than the people they mentor."
+    },
+    {
+      "cityName": "Mentor",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "What matters is that mentors have experience that others can learn from."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middletown is an independent, home rule-class city in Jefferson County, Kentucky, United States, and a suburb of Louisville."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the main campus of the largest church in the state, the Southeast Christian Church."
+    },
+    {
+      "cityName": "Milton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milton is a home rule-class city along the south bank of the Ohio River in Trimble County, Kentucky, United States."
+    },
+    {
+      "cityName": "Milton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Milton-Madison Bridge connects it to Madison, Indiana, and is the only road link between the two states for 40 miles (64\u00a0km) in either direction."
+    },
+    {
+      "cityName": "Mockingbird Valley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since incorporation, there has been some interest in making it a historic preservation district, largely to prevent unwanted development."
+    },
+    {
+      "cityName": "Mockingbird Valley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has the highest per capita income of any location in Kentucky and the tenth-highest of any location in the United States."
+    },
+    {
+      "cityName": "Morehead",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morehead is a home rule-class city located along US 60 and Interstate 64 in Rowan County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Mount Eden",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along Kentucky Route 636 10.6 miles (17.1\u00a0km) east of Taylorsville."
+    },
+    {
+      "cityName": "Mount Olivet",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mount of Olives or Mount Olivet is a mountain ridge in East Jerusalem, east of and adjacent to Jerusalem's Old City."
+    },
+    {
+      "cityName": "Mount Olivet",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named for the olive groves that once covered its slopes."
+    },
+    {
+      "cityName": "Mount Olivet",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The southern part of the mount was the Silwan necropolis, attributed to the elite of the ancient Kingdom of Judah."
+    },
+    {
+      "cityName": "Mount Olivet",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The western slopes of the mount, those facing Jerusalem, have been used as a Jewish cemetery for over 3,000 years and holds approximately 150,000 graves, making it central in the tradition of Jewish cemeteries."
+    },
+    {
+      "cityName": "Mount Olivet",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Atop the hill lies the Palestinian neighbourhood of At-Tur, a former village that is now part of East Jerusalem."
+    },
+    {
+      "cityName": "Mount Sterling",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Sterling, often written as Mt."
+    },
+    {
+      "cityName": "Mount Sterling",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sterling, is a home rule-class city in Montgomery County, Kentucky, United States."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The intersection of U.S. Routes 25 and 150 is located here."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Vernon is part of the Richmond-Berea micropolitan area."
+    },
+    {
+      "cityName": "Mount Washington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Washington is a home rule-class city in northeast Bullitt County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Mount Washington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is one of several surrounding Louisville that have experienced a sharp rise in population in the past three decades, becoming a commuter town."
+    },
+    {
+      "cityName": "Mouthcard",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the Levisa Fork River of the Big Sandy River in the heart of the Appalachians."
+    },
+    {
+      "cityName": "Mt Sterling",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Sterling, often written as Mt."
+    },
+    {
+      "cityName": "Mt Sterling",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sterling, is a home rule-class city in Montgomery County, Kentucky, United States."
+    },
+    {
+      "cityName": "Mt Vernon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Vernon is the former residence and plantation of George Washington, a Founding Father, commander of the Continental Army in the Revolutionary War, and the first president of the United States, and his wife, Martha."
+    },
+    {
+      "cityName": "Mt Vernon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An American landmark, the estate lies on the banks of the Potomac River in Fairfax County, Virginia, approximately 15 miles (25\u00a0km) south of Washington, D.C."
+    },
+    {
+      "cityName": "Mt Washington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Washington is an ultra-prominent mountain in the state of New Hampshire."
+    },
+    {
+      "cityName": "Mt Washington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the highest peak in the Northeastern United States at 6,288.2\u00a0ft (1,916.6\u00a0m) and the most topographically prominent mountain east of the Mississippi River."
+    },
+    {
+      "cityName": "Muldraugh",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on U.S. Route 31W north of Elizabethtown."
+    },
+    {
+      "cityName": "Muldraugh",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city limits are completely encompassed by the Fort Knox army base."
+    },
+    {
+      "cityName": "Muldraugh",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is part of the Elizabethtown\u2013Fort Knox Metropolitan Area."
+    },
+    {
+      "cityName": "Murray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the seat of Calloway County and the 19th-largest city in Kentucky."
+    },
+    {
+      "cityName": "Murray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Murray is a college town and is the home of Murray State University."
+    },
+    {
+      "cityName": "Neon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Neon is a chemical element; it has symbol Ne and atomic number 10."
+    },
+    {
+      "cityName": "Neon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second noble gas in the periodic table."
+    },
+    {
+      "cityName": "Neon",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Neon is a colorless, odorless, inert monatomic gas under standard conditions, with approximately two-thirds the density of air."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "African Americans attended New Castle Colored School prior to integration."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on New Haven Harbor on the northern shore of Long Island Sound."
+    },
+    {
+      "cityName": "Newburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newburg is now thought to be a neighborhood within the now merged city of Louisville."
+    },
+    {
+      "cityName": "Newport",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the confluence of the Ohio and Licking rivers across from Cincinnati."
+    },
+    {
+      "cityName": "Newport",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newport is an urban center of Northern Kentucky and is part of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "North Middletown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Middletown is part of the Lexington-Fayette Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Oak Grove",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Grove is a home rule-class city adjacent to the Fort Campbell army base in Christian County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Oak Grove",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Clarksville, Tennessee metropolitan area."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakland is a city in the East Bay region of the San Francisco Bay Area in the U.S. state of California."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A major West Coast port, Oakland is the most populous city in the East Bay, the third most populous city in the Bay Area, and the eighth most populous city in California."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It serves as the Bay Area's trade center: the Port of Oakland is the busiest port in Northern California, and the fifth- or sixth-busiest in the United States."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is centered on the intersection of Preston Highway and the Outer Loop."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When the government of Jefferson County merged with the city of Louisville, Kentucky in 2003, residents of Okolona also became citizens of Louisville Metro."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As a result, Okolona is said to be a neighborhood within the city limits of Louisville."
+    },
+    {
+      "cityName": "Old Brownsboro Place",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Old Brownsboro Place is a home rule-class city in Jefferson County, Kentucky, United States, and a part of the united Metro government."
+    },
+    {
+      "cityName": "Olive Hill",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Olive Hill is a home rule-class city along Tygarts Creek in Carter County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Owensboro",
+      "state": "KY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Johnny Depp was born in Owensboro."
+    },
+    {
+      "cityName": "Owensboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the fourth-most populous city in the state."
+    },
+    {
+      "cityName": "Owensboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Owensboro is located on U.S. Route 60 and Interstate 165 about 107 miles (172\u00a0km) southwest of Louisville, and is the principal city of the Owensboro metropolitan area."
+    },
+    {
+      "cityName": "Owenton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at the junction of U.S. Route 127 and Kentucky Route 22, about halfway between Louisville and Cincinnati."
+    },
+    {
+      "cityName": "Owingsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mount Sterling micropolitan area."
+    },
+    {
+      "cityName": "Paducah",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The most populous city in the Jackson Purchase region, it is located in the Southeastern United States at the confluence of the Tennessee and the Ohio rivers, halfway between St. Louis, Missouri, to the northwest and Nashville, Tennessee, to the southeast."
+    },
+    {
+      "cityName": "Paducah",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Twenty blocks of the city's downtown have been designated as a historic district and listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Paint Lick",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2015, a new route for KY 52 opened, bypassing the town."
+    },
+    {
+      "cityName": "Paint Lick",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 820\u00a0feet (250\u00a0m)."
+    },
+    {
+      "cityName": "Paint Lick",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has a post office with the ZIP code 40461."
+    },
+    {
+      "cityName": "Paint Lick",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Historic sites within the community include Paint Lick Presbyterian Church (1879)."
+    },
+    {
+      "cityName": "Paris",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies 18 miles (29\u00a0km) northeast of Lexington on the Stoner Fork of the Licking River."
+    },
+    {
+      "cityName": "Paris",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lexington\u2013Fayette Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Park Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of the Cincinnati metropolitan area."
+    },
+    {
+      "cityName": "Park Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the city was listed on the National Register of Historic Places in 2008 as the Park Hills Historic District."
+    },
+    {
+      "cityName": "Pikeville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pikeville serves as a regional economic, educational, and entertainment hub for the surrounding areas of eastern Kentucky, Virginia, and West Virginia."
+    },
+    {
+      "cityName": "Pikeville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the University of Pikeville and the Pikeville Cut-Through, the second-largest earthmoving project in the Western Hemisphere."
+    },
+    {
+      "cityName": "Pine Ridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 1,266\u00a0feet (386\u00a0m)."
+    },
+    {
+      "cityName": "Pine Ridge",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community has a ZIP code of 41360."
+    },
+    {
+      "cityName": "Pineville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on a small strip of land between the Cumberland River and Pine Mountain."
+    },
+    {
+      "cityName": "Pioneer Village",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pioneer Village was struck by a tornado in 1996."
+    },
+    {
+      "cityName": "Pippa Passes",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its formal name was chosen to honor benefactors of Alice Lloyd College."
+    },
+    {
+      "cityName": "Pippa Passes",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Residents commonly call the community \"Caney\" or \"Caney Creek\"."
+    },
+    {
+      "cityName": "Pippa Passes",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The small city is located in the mountainous Appalachia region, an area of coal mining."
+    },
+    {
+      "cityName": "Plantation",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plantation is a home rule-class city in Jefferson County, Kentucky, United States, and a part of the Louisville Metro government."
+    },
+    {
+      "cityName": "Pleasure Ridge Park",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasure Ridge Park is now said to be a neighborhood within the city limits of Louisville by local media."
+    },
+    {
+      "cityName": "Plum Springs",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Bowling Green metropolitan area."
+    },
+    {
+      "cityName": "Plum Springs",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named for its location on Plum Springs Road."
+    },
+    {
+      "cityName": "Prestonsburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the eastern part of the state in the valley of the Big Sandy River."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Princeton is home to several notable attractions such as Adsmore Museum, Champion-Shepherdson House, University of Kentucky Research and Education Center Botanical Garden, and the Annual Black Patch Festival."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Jefferson County portion is a part of the Louisville Metro government."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the wealthiest communities in Kentucky."
+    },
+    {
+      "cityName": "Raceland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Raceland is a home rule-class city in Greenup County, Kentucky, United States, in the Ohio River valley."
+    },
+    {
+      "cityName": "Raceland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington\u2013Ashland metropolitan area."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the principal city of the Richmond\u2013Berea micropolitan area, which includes all of Madison and Rockcastle counties and had 123,000 residents in 2020."
+    },
+    {
+      "cityName": "Rochester",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rochester is a home rule-class city in Butler County, Kentucky, United States, at the confluence of the Green and Mud rivers."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is descriptively named for the large rocks on a nearby river bank."
+    },
+    {
+      "cityName": "Royalton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 879\u00a0feet (268\u00a0m)."
+    },
+    {
+      "cityName": "Sadieville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lexington-Fayette Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Saint Dennis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This is a list of official neighborhoods in Louisville, Kentucky."
+    },
+    {
+      "cityName": "Saint Dennis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Like many older American cities, Louisville has well-defined neighborhoods, many with well over a century of history as a neighborhood."
+    },
+    {
+      "cityName": "Saint Mary",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Mary is a home rule-class city in Marion County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Saint Matthews",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Matthews is a city in Jefferson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Saint Matthews",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the 23rd-largest city in the state."
+    },
+    {
+      "cityName": "Saint Matthews",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "St. Matthews is one of the state's major shopping areas, home to the fifth-largest mall in Kentucky along with many smaller shopping centers along Shelbyville Road."
+    },
+    {
+      "cityName": "Salem",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salem is part of the Paducah, KY-IL metropolitan statistical area."
+    },
+    {
+      "cityName": "Salvisa",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salvisa is located at the junction of U.S. Route 127 and Kentucky Route 1987, 10.7 miles (17.2\u00a0km) north of Harrodsburg."
+    },
+    {
+      "cityName": "Salvisa",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Salvisa has a post office with ZIP code 40372, which opened on April 4, 1825."
+    },
+    {
+      "cityName": "Salyersville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salyersville is a home rule-class city on the Licking River in Magoffin County, Kentucky, United States."
+    },
+    {
+      "cityName": "Sandy Hook",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sandy Hook is a barrier spit in Middletown Township, Monmouth County, New Jersey, United States."
+    },
+    {
+      "cityName": "Sandy Hook",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The barrier spit, approximately 6 miles (9.7\u00a0km) in length and varying from 0.1 to 1.0 mile wide, is located at the north end of the Jersey Shore."
+    },
+    {
+      "cityName": "Sandy Hook",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It encloses the southern entrance of Lower New York Bay south of New York City, protecting it from the open waters of the Atlantic Ocean to the east."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sardis or Sardes was an ancient city best known as the capital of the Lydian Empire."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the fall of the Lydian Empire, it became the capital of the Persian satrapy of Lydia and later a major center of Hellenistic and Byzantine culture."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Now an active archaeological site, it is located in modern day Turkey, in Manisa Province, near the town of Sart."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sardis was also mentioned as the campsite of Brutus and Cassius in William Shakespeare's play, Julius Caesar (1599)."
+    },
+    {
+      "cityName": "Science Hill",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Science Hill is an area of the Yale University campus primarily devoted to physical and biological sciences."
+    },
+    {
+      "cityName": "Science Hill",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located in the Prospect Hill neighborhood of New Haven, Connecticut."
+    },
+    {
+      "cityName": "Sedalia",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sedalia is the name of several places:"
+    },
+    {
+      "cityName": "Seneca Gardens",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Seneca Gardens is a home rule-class city in Jefferson County, Kentucky, United States, and a part of the Louisville Metro government."
+    },
+    {
+      "cityName": "Seneca Gardens",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With the single exception of the Keneseth Israel Synagogue, all buildings within city limits are residential."
+    },
+    {
+      "cityName": "Sharpsburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Mount Sterling micropolitan area."
+    },
+    {
+      "cityName": "Shepherdsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shepherdsville is a home rule-class city on the Salt River in Bullitt County, Kentucky, United States."
+    },
+    {
+      "cityName": "Shepherdsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second largest city and seat of its county, located just south of Louisville."
+    },
+    {
+      "cityName": "Shively",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shively is a home rule-class city in Jefferson County, Kentucky, United States, and a suburb of Louisville within the Louisville Metro government."
+    },
+    {
+      "cityName": "Silver Grove",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silver Grove is a home rule-class city along the Ohio River in Campbell County, Kentucky, in the United States."
+    },
+    {
+      "cityName": "Simpsonville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 8 miles west of Shelbyville, Kentucky and 23 miles east of Louisville situated along U.S. 60."
+    },
+    {
+      "cityName": "Smithfield",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The mayor of Smithfield is Greg Gephart."
+    },
+    {
+      "cityName": "Smiths Grove",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Bowling Green, Kentucky Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sonora",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Elizabethtown, Kentucky Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "South Carrollton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded as \"Randolph Old Farm\" in 1838, an early pioneer changed the name of the city to honor his son, Carroll."
+    },
+    {
+      "cityName": "South Carrollton",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name was prefixed with \"South\" in order to distinguish it from the city of Carrollton."
+    },
+    {
+      "cityName": "South Portsmouth",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Portsmouth is located on the Ohio River across from Portsmouth, Ohio and 3 miles (4.8\u00a0km) west of South Shore, Kentucky."
+    },
+    {
+      "cityName": "South Portsmouth",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kentucky Route 8 passes through the community."
+    },
+    {
+      "cityName": "South Shore",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Ohio River across from Portsmouth, Ohio, at the mouth of Tygarts Creek."
+    },
+    {
+      "cityName": "South Shore",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "South Shore is a part of the Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "South Williamson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is separated from Williamson, West Virginia by the Tug Fork River."
+    },
+    {
+      "cityName": "South Williamson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located near U.S. Route 119 about 23 miles (37\u00a0km) east of Pikeville, Kentucky and 28 miles (45\u00a0km) southwest of Logan, West Virginia."
+    },
+    {
+      "cityName": "Sparta",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sparta was a prominent city-state in Laconia in ancient Greece."
+    },
+    {
+      "cityName": "Sparta",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In antiquity, the state was known as Lacedaemon, while \"Sparta\" referred to its capital, a group of villages in the valley of the Evrotas River in Laconia, in southeastern Peloponnese."
+    },
+    {
+      "cityName": "Sparta",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Around 650 BC, it rose to become one of the major military powers in Greece, a status it retained until 371 BC."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At that time, the City of Spring Valley was established to provide services."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The current mayor is Gerri Willis."
+    },
+    {
+      "cityName": "St. Matthews",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the 23rd-largest city in the state."
+    },
+    {
+      "cityName": "St. Matthews",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. Matthews is one of the state's major shopping areas, home to the fifth-largest mall in Kentucky along with many smaller shopping centers along Shelbyville Road."
+    },
+    {
+      "cityName": "Staffordsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was originally named Frew and the first post office was established on July 14, 1882, with Millard F."
+    },
+    {
+      "cityName": "Staffordsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rule as postmaster but in 1893, postmistress Jessie Stafford changed the post office's name to \"Staffordsville\" in order to honor her family."
+    },
+    {
+      "cityName": "Staffordsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Staffordsville's ZIP code is 41256."
+    },
+    {
+      "cityName": "Stanford",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the oldest settlements in Kentucky, having been founded in 1775."
+    },
+    {
+      "cityName": "Stanford",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stanford is part of the Danville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Stanville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 415 in 2000."
+    },
+    {
+      "cityName": "Stearns",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded by Justus Smith Stearns."
+    },
+    {
+      "cityName": "Strunk",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community's post office was established as Strunk Lane on February 18, 1892, and was probably named for George W."
+    },
+    {
+      "cityName": "Strunk",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Strunk, who owned a local coal mine."
+    },
+    {
+      "cityName": "Strunk",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "By 1894, the post office's name was simplified to Strunk."
+    },
+    {
+      "cityName": "Sweeden",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Bowling Green, Kentucky Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sweeden",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The ZIP Code for Sweeden is 42285."
+    },
+    {
+      "cityName": "Tollesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the western edge of the county and borders Mason County."
+    },
+    {
+      "cityName": "Tollesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is part of the Maysville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tollesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the birthplace of Lucille P."
+    },
+    {
+      "cityName": "Tollesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Markey, a racehorse breeder and philanthropist."
+    },
+    {
+      "cityName": "Tompkinsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after Vice President Daniel D."
+    },
+    {
+      "cityName": "Tompkinsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tompkins who served under President James Monroe, for whom the county was named."
+    },
+    {
+      "cityName": "Topmost",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Topmost was a Finnish rock band founded in 1964, becoming the most popular band in Finland in 1967."
+    },
+    {
+      "cityName": "Topmost",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its members were Heimo \"Holle\" Holopainen, Kristian \"Kisu\" Jernstr\u00f6m, Vasilij \"Gugi\" Kokljuschkin (vocals), Eero Lupari, Harri Saksala, Arto \"Poku\" Tarkkonen (keyboards)."
+    },
+    {
+      "cityName": "Union",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area was rural until residential growth in the 1990s and 2000s."
+    },
+    {
+      "cityName": "Union",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Union is located 17 miles (27\u00a0km) southwest of Cincinnati, Ohio."
+    },
+    {
+      "cityName": "Uniontown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Myers Locks and Dam, once known as Uniontown Locks and Dam, is located downriver 3\u00bd miles."
+    },
+    {
+      "cityName": "Valley Station",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "When the government of Jefferson County merged with the city of Louisville, Kentucky in 2003, residents of Valley Station also became citizens of Louisville Metro."
+    },
+    {
+      "cityName": "Valley Station",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As a result, Valley Station is said to be a neighborhood within the city limits of Louisville by local media."
+    },
+    {
+      "cityName": "Valley Station",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named for its location in the valley between Muldraugh Hill and the Knobs."
+    },
+    {
+      "cityName": "Verona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Verona is the largest city in the region of Veneto in Italy, with 255,131 inhabitants."
+    },
+    {
+      "cityName": "Verona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the seven provincial capitals of the region, and is the largest city municipality in the region and in northeastern Italy."
+    },
+    {
+      "cityName": "Verona",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of the main tourist destinations in Northern Italy because of its artistic heritage and several annual fairs and shows as well as the opera season in the Arena, an ancient Roman amphitheater."
+    },
+    {
+      "cityName": "Versailles",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies 13 miles by road west of Lexington and is part of the Lexington-Fayette Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Versailles",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's name is pronounced v\u0259r-SAYLZ, an anglicization different from the French pronunciation of the royal city of the same name near Paris."
+    },
+    {
+      "cityName": "Vine Grove",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Elizabethtown-Fort\u2013Fort Knox Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Virgie",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Virgie's post office was established as Clintwood on April 3, 1890, with James M."
+    },
+    {
+      "cityName": "Virgie",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was later renamed \"Virgie\" after the daughter of local resident, W.O.B."
+    },
+    {
+      "cityName": "Virgie",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ratliff, who was a lawyer and lumber dealer in Pikeville."
+    },
+    {
+      "cityName": "Waco",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated along the Brazos River and I-35, halfway between Dallas and Austin."
+    },
+    {
+      "cityName": "Waco",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Waco metropolitan statistical area consists of McLennan, Falls, and Bosque Counties, which had a 2020 population of 295,782."
+    },
+    {
+      "cityName": "Waco",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bosque County was added to the Waco MSA in 2023."
+    },
+    {
+      "cityName": "Waddy",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This place lies along the intersection of Kentucky Routes 395 and 2867, approximately one mile (1.6\u00a0km) south of Interstate 64 off exit 43."
+    },
+    {
+      "cityName": "Warfield",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warfield is a village and civil parish in the Bracknell Forest district, in the ceremonial county of Berkshire, England."
+    },
+    {
+      "cityName": "Warfield",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2021 it had a population of 11,260."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warsaw, officially the Capital City of Warsaw, is the capital and largest city of Poland."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The metropolis stands on the River Vistula in east-central Poland."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population is officially estimated at 1.86\u00a0million residents within a greater metropolitan area of 3.27\u00a0million residents, which makes Warsaw the 6th most-populous city in the European Union."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city area measures 517 square kilometres and comprises 18 districts, while the metropolitan area covers 6,100 square kilometres."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Warsaw is classified as an alpha global city, a major political, economic and cultural hub, and the country's seat of government."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is also the capital of the Masovian Voivodeship."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1870, the city was named for founder Hugh McElroy's nephew."
+    },
+    {
+      "cityName": "Waynesburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waynesburg is located Lincoln County, Kentucky along U.S. Route 27, Kentucky Route 328 and the Norfolk Southern Railway 18 miles (29\u00a0km) north of downtown Somerset."
+    },
+    {
+      "cityName": "Waynesburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waynesburg has a post office with ZIP code 40489."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wellington is a home rule-class city in metro Louisville, Jefferson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is considered to be part of the Upper Highlands section of Louisville."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Licking River at the junction of Kentucky Route 7 and U.S. Route 460."
+    },
+    {
+      "cityName": "West Point",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The United States Military Academy (USMA), commonly known as West Point, is a United States service academy in West Point, New York, that educates cadets for service as commissioned officers in the United States Army."
+    },
+    {
+      "cityName": "West Point",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The academy was founded in 1802, and it is the oldest of the five American service academies."
+    },
+    {
+      "cityName": "West Point",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Army has occupied the site since establishing a fort there in 1780 during the American Revolutionary War, as it sits on strategic high ground overlooking the Hudson River 50 miles (80\u00a0km) north of New York City."
+    },
+    {
+      "cityName": "Wheelwright",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A wheelwright is a craftsman who builds or repairs wooden wheels."
+    },
+    {
+      "cityName": "Wheelwright",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The word is the combination of \"wheel\" and the word \"wright\"."
+    },
+    {
+      "cityName": "Wheelwright",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This occupational name became the English surname Wright, and also appears in surnames like Cartwright and Wainwright."
+    },
+    {
+      "cityName": "Whitesburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "White, a state politician and Speaker of the United States House."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Developed along the Cumberland River, the city was founded in 1818 and named after William Whitley."
+    },
+    {
+      "cityName": "Willisburg",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Kentucky is located in Willisburg."
+    },
+    {
+      "cityName": "Wilmore",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lexington\u2013Fayette Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lexington-Fayette, KY Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winchester is located roughly halfway between Lexington and Mt."
+    },
+    {
+      "cityName": "Wittensville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has a United States Postal Service and its ZIP code is 41274."
+    },
+    {
+      "cityName": "Woodburn",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Bowling Green, Kentucky Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Worthington Hills",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "City of Worthington Hills is a home rule-class city in Jefferson County, Kentucky, United States."
+    },
+    {
+      "cityName": "Wurtland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wurtland is a home rule-class city in Greenup County, Kentucky, United States, along the Ohio River."
+    },
+    {
+      "cityName": "Wurtland",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington\u2013Ashland metropolitan area."
+    },
+    {
+      "cityName": "Yosemite",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Their Post Office was closed in September 2011."
+    },
+    {
+      "cityName": "Yosemite",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was established in the 1870s for logging facilities owned by Cincinnati businessman Eugene Zimmerman."
+    },
+    {
+      "cityName": "Yosemite",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was named by his daughter Helena, who said the hilly area reminded her of the Yosemite valley in California."
+    }
+  ]
+}

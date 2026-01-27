@@ -1,0 +1,5688 @@
+{
+  "facts": [
+    {
+      "cityName": "Abbeville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 21 miles (34\u00a0km) southwest of Lafayette."
+    },
+    {
+      "cityName": "Abita Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Abita Springs is a town in St. Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Abita Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Addis",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Addis is a town in West Baton Rouge Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Addis",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Albany",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Albany is a town in eastern Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Albany",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alexandria is the ninth-largest city in the state of Louisiana and is the parish seat of and the largest city in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies on the south bank of the Red River in almost the exact geographic center of the state."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the principal city of the Alexandria metropolitan area which encompasses all of Rapides and Grant parishes."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its neighboring city is Pineville."
+    },
+    {
+      "cityName": "Algiers",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Algiers is a historic neighborhood of New Orleans and is the only Orleans Parish community located on the West Bank of the Mississippi River."
+    },
+    {
+      "cityName": "Algiers",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Algiers is known as the 15th Ward, one of the 17 wards of New Orleans."
+    },
+    {
+      "cityName": "Algiers",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was once home to many jazz musicians."
+    },
+    {
+      "cityName": "Amelia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Amite",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amite City is a town in and the parish seat of Tangipahoa Parish in southeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Amite",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Anacoco",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Anacoco is a village in Vernon Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Anacoco",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Angie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Angie is a village in Washington Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Angie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bogalusa Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Arabi",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the eastern bank of the Mississippi River, between the Lower 9th Ward of New Orleans and Chalmette within the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Arcadia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arcadia is a town in and the parish seat of Bienville Parish in northern Louisiana, United States."
+    },
+    {
+      "cityName": "Arcadia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Arcadia's name commemorates the Ancient Greek region of Arcadia."
+    },
+    {
+      "cityName": "Arnaudville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arnaudville is a town in St. Landry and St. Martin parishes in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Arnaudville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The St. Martin Parish portion of Arnaudville is part of the Lafayette metropolitan statistical area, while the St. Landry Parish portion is part of the Opelousas\u2013Eunice micropolitan statistical area."
+    },
+    {
+      "cityName": "Arnaudville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At the 2020 population estimates program, it had a population of 1,041."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashland is a village in the northernmost portion of Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A few residences and a convenience store to the north spill over into neighboring Bienville Parish."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The median age was 45.7 years."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Ashland is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Athens",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Kim Basinger was born in Athens."
+    },
+    {
+      "cityName": "Athens",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is a village in Claiborne Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Atlanta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Atlanta is a village in Winn Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Avondale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baldwin is a town in St. Mary Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population is majority African American."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town has been home to educational institutions for white and \"colored\" students."
+    },
+    {
+      "cityName": "Ball",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ball is a town in Rapides Parish, just north of Pineville, Louisiana, United States."
+    },
+    {
+      "cityName": "Ball",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Established in 1972, it is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Barksdale AFB",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barksdale Air Force Base is a United States Air Force (USAF) base in Bossier Parish, Louisiana, in northwest Louisiana."
+    },
+    {
+      "cityName": "Barksdale AFB",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the base is within the city limits of Bossier City, Louisiana, along the base's western and northwestern edge."
+    },
+    {
+      "cityName": "Barksdale AFB",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "More than 15,000 active-duty and Air Force Reserve Command (AFRC) members serve at Barksdale."
+    },
+    {
+      "cityName": "Basile",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Basile is a town in Acadia and Evangeline parishes in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Baskin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baskin is a village in Franklin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Baskin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Baskin is located north of the parish seat of Winnsboro."
+    },
+    {
+      "cityName": "Bastrop",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the parish seat of Morehouse Parish."
+    },
+    {
+      "cityName": "Bastrop",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of Bastrop is 76 percent African American."
+    },
+    {
+      "cityName": "Bastrop",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in the Monroe Metropolitan Statistical Area and is part of the Monroe\u2013Ruston Combined Statistical Area."
+    },
+    {
+      "cityName": "Batchelor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is named for Charles Batchelor, who is mentioned in Felix Flugel's diary of his voyage down the Mississippi River in 1817."
+    },
+    {
+      "cityName": "Batchelor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located at the intersection of Louisiana highways 1 and 419 near the south bank of the Mississippi River, and runs north-northwest up from the village of Morganza."
+    },
+    {
+      "cityName": "Batchelor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Batchelor has a post office with ZIP code 70715, which opened on July 26, 1902."
+    },
+    {
+      "cityName": "Batchelor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the rural area of Batchelor is Raccourci Island and Old River, an oxbow lake in the Mississippi River System."
+    },
+    {
+      "cityName": "Baton Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baton Rouge is the capital city of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Baton Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the seat of Louisiana's most populous parish, East Baton Rouge Parish, and the center of Louisiana's second-largest metropolitan area, Greater Baton Rouge, which had 870,569 residents in 2020."
+    },
+    {
+      "cityName": "Bayou Boeuf",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also known as Bayou Boeuf."
+    },
+    {
+      "cityName": "Bayou Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located just north of Houma and had a population of 19,770 in 2020."
+    },
+    {
+      "cityName": "Bayou Vista",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Belcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belcher is a village in Caddo Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Belcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport- Bossier city metropolitan statistical area."
+    },
+    {
+      "cityName": "Belle Chase",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belle Chasse is part of the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Belle Chase",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Belle Chasse is the largest community in Plaquemines Parish."
+    },
+    {
+      "cityName": "Belle Chase",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to Naval Air Station Joint Reserve Base New Orleans, a Naval Air Station for the U.S. Navy Reserve."
+    },
+    {
+      "cityName": "Belle Chasse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belle Chasse is part of the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Belle Chasse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Belle Chasse is the largest community in Plaquemines Parish."
+    },
+    {
+      "cityName": "Belle Chasse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to Naval Air Station Joint Reserve Base New Orleans, a Naval Air Station for the U.S. Navy Reserve."
+    },
+    {
+      "cityName": "Belle Rose",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pierre Part micropolitan statistical area."
+    },
+    {
+      "cityName": "Bentley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bentley Motors Limited is a British designer, manufacturer and marketer of luxury cars and SUVs."
+    },
+    {
+      "cityName": "Bentley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Headquartered in Crewe, England, the company was founded by W."
+    },
+    {
+      "cityName": "Bentley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bentley (1888\u20131971) in 1919 in Cricklewood, North London, and became widely known for winning the 24 Hours of Le Mans in 1924, 1927, 1928, 1929, 1930 and 2003."
+    },
+    {
+      "cityName": "Bentley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bentley has been a subsidiary of the Volkswagen Group since 1998 and consolidated under VW's premium brand arm Audi since 2022."
+    },
+    {
+      "cityName": "Benton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Benton is a town in, and the parish seat of, Bossier Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Benton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named for 19th century U.S. Senator Thomas Hart Benton, a Democrat from Missouri and an ally of U.S. President Andrew Jackson."
+    },
+    {
+      "cityName": "Bernice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bernice is a town in Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Bernice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Berwick",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berwick is a town in St. Mary Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Berwick",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bienville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bienville is a village in Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blanchard is the suburban town in, and the second-largest municipality by population of Caddo Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Bogalusa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the principal city of the Bogalusa Micropolitan Statistical Area, which includes all of Washington Parish and is also part of the larger New Orleans\u2013Metairie\u2013Slidell combined statistical area."
+    },
+    {
+      "cityName": "Bonita",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bonita is a village in Morehouse Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Bossier City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the eastern bank of the Red River, Bossier City is closely tied economically and socially to its sister city, Shreveport, on the western bank."
+    },
+    {
+      "cityName": "Bossier City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second-most populous city in the Shreveport\u2013Bossier City metropolitan area."
+    },
+    {
+      "cityName": "Bossier City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The parish operates its own community college, Bossier Parish Community College."
+    },
+    {
+      "cityName": "Bourg",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Boyce",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boyce is a town in northern Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Boyce",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Boyce",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is nearly 70 percent African American."
+    },
+    {
+      "cityName": "Braithwaite",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Braithwaite is located on the Mississippi River and Louisiana Highway 39 in northern Plaquemines Parish, 9.6 miles (15.4\u00a0km) southeast of New Orleans."
+    },
+    {
+      "cityName": "Braithwaite",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Braithwaite has a post office operating under ZIP code 70040, which opened on September 19, 1902."
+    },
+    {
+      "cityName": "Braithwaite",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Notably, two of the first recorded deaths in the United States caused by Hurricane Isaac occurred in Braithwaite, where a couple drowned in their home on August 30, 2012."
+    },
+    {
+      "cityName": "Breaux Bridge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Bridge City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in the 1930s during the construction of the Huey P."
+    },
+    {
+      "cityName": "Bridge City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Long Bridge over the Mississippi River."
+    },
+    {
+      "cityName": "Bridge City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located on the south side of the river."
+    },
+    {
+      "cityName": "Bridge City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Broussard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Broussard is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Brownsfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The East Baton Rouge Parish School System, also known as East Baton Rouge Schools or the East Baton Rouge Parish School Board, is a public school district headquartered in Baton Rouge, Louisiana, United States."
+    },
+    {
+      "cityName": "Brownsfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The district serves most of East Baton Rouge Parish; it contains 54 elementary schools, 16 middle schools, and 18 high schools."
+    },
+    {
+      "cityName": "Brownsfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The EBR Public Schools district is the second largest in the state."
+    },
+    {
+      "cityName": "Brusly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brusly is a town in West Baton Rouge Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Brusly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bryceland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bryceland is a village in Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Bush",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bush is on Louisiana Highway 21 south of Sun connecting to Bogalusa."
+    },
+    {
+      "cityName": "Bush",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bush",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Highway 21 crosses the Bogue Chitto River approximately 1.45 miles (2.33\u00a0km) north of town."
+    },
+    {
+      "cityName": "Calhoun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Archibald Calhoun, who was an original settler and landowner."
+    },
+    {
+      "cityName": "Calvin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calvin is a village in Winn Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lake Charles Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Campti",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Campti is a town in the northern part of Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Campti",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Campti",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Campti is a flat area of mostly farmland."
+    },
+    {
+      "cityName": "Campti",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is located on the eastern bank of the Red River."
+    },
+    {
+      "cityName": "Campti",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Considerable herds of cattle are also raised in the general area."
+    },
+    {
+      "cityName": "Cankton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cankton is a village in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cankton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Carencro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of the nearby city of Lafayette."
+    },
+    {
+      "cityName": "Carencro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name of the city is derived from the Cajun French word for buzzard; the spot where the community was settled was one where large flocks of American black vultures roosted in the bald cypress trees."
+    },
+    {
+      "cityName": "Carencro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name means \"carrion crow.\" Carencro is part of the Lafayette metropolitan area."
+    },
+    {
+      "cityName": "Carlyss",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Castor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castor is a village in Bienville Parish in north Louisiana, United States."
+    },
+    {
+      "cityName": "Castor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The median age was 32.2 years."
+    },
+    {
+      "cityName": "Castor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village was established in 1900."
+    },
+    {
+      "cityName": "Castor",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name \"Castor\" refers to the genus Castoridae or beaver, a Latin term, contrary to an oral tradition of the word being Native American in origin."
+    },
+    {
+      "cityName": "Cecilia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community lies within the region of Acadiana, and the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Central",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Central is a city in the U.S. state of Louisiana, third largest city in East Baton Rouge Parish, and part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Chackbay",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Chalmette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chalmette is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Chalmette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Chalmette is located east of downtown New Orleans and south of Arabi, towards Lake Borgne."
+    },
+    {
+      "cityName": "Chataignier",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chataignier is a village in Evangeline Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Chatham",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chatham is a town in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Chatham",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston micropolitan statistical area."
+    },
+    {
+      "cityName": "Chauvin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Cheneyville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cheneyville is a town in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cheneyville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Choudrant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Choudrant is a village in Lincoln Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Choudrant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Church Point",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Church Point is a town in Acadia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Church Point",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Church Point",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Church Point is known as the Buggy Capital of the World as it used to be host to the annual Buggy Festival which has since gone defunct."
+    },
+    {
+      "cityName": "Claiborne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clarence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarence is a village in Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Clarence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located some seven miles east of the parish seat of Natchitoches and is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clarks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarks is a rural village in Caldwell Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Clarks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clarks is the largest community by population in Caldwell Parish."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clayton is a town in northern Concordia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cotton is a principal commodity in the area."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clayton is located on the Tensas River, important for fishing and boating, promoted through a U.S. Army Corps of Engineers-maintained boat launch."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Tensas River merges with the Black River in Jonesville in Catahoula Parish."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clinton is a town in, and the parish seat of, East Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for New York Governor DeWitt Clinton."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colfax is a town in and the parish seat of Grant Parish, Louisiana, United States, founded in 1869."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Colfax is part of the Alexandria, Louisiana metropolitan area."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was the site of the 1873 Colfax massacre."
+    },
+    {
+      "cityName": "Collinston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Collinston is a village in Morehouse Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia is a town in and the parish seat of Caldwell Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Convent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has been the parish seat since 1869."
+    },
+    {
+      "cityName": "Convent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Converse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Converse is a village in Sabine Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cotton Valley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cotton Valley is a town in central Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cottonport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cottonport is a town in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Coushatta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coushatta is a town in, and the parish seat of, rural Red River Parish in north Louisiana, United States."
+    },
+    {
+      "cityName": "Coushatta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is situated on the east bank of the Red River."
+    },
+    {
+      "cityName": "Coushatta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is approximately 45 miles south of Shreveport on U.S. Highway 71."
+    },
+    {
+      "cityName": "Coushatta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is named after the Coushatta, a Native American nation indigenous to the region."
+    },
+    {
+      "cityName": "Covington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located at a fork of the Bogue Falaya and the Tchefuncte River."
+    },
+    {
+      "cityName": "Covington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Covington is part of the Slidell-Mandeville-Covington statistical area."
+    },
+    {
+      "cityName": "Creola",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An incorporation election was held in October 2000 with 36 people (97.3%) voting in favor of the measure and 1 (2.7%) voting against."
+    },
+    {
+      "cityName": "Crowley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crowley is the principal city of the Crowley micropolitan statistical area, which includes all of Acadia Parish."
+    },
+    {
+      "cityName": "Crowley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also part of the larger Lafayette\u2013Acadiana combined statistical area."
+    },
+    {
+      "cityName": "Cullen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cullen is a town just south of Springhill in northern Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cullen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cut Off",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Cut Off",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cut Off's ZIP code is 70345, the area code is 985 and local telephone prefixes are 325, 632 and 693."
+    },
+    {
+      "cityName": "Cutoff",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The following is a list of state highways in the U.S. state of Louisiana designated in the 3200-3249 range."
+    },
+    {
+      "cityName": "DeQuincy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "DeQuincy is the northernmost city in Calcasieu Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "DeQuincy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "DeQuincy is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "DeRidder",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small portion of the city extends into Vernon Parish."
+    },
+    {
+      "cityName": "Delcambre",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delcambre is a town in Iberia and Vermilion parishes in the U.S. state of Louisiana, located 9 miles (14\u00a0km) east of Abbeville on Louisiana Highway 14 in the Cajun Heartland of Acadiana."
+    },
+    {
+      "cityName": "Delcambre",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bayou Carlin, also known as the Delcambre Canal, passes through the town and is home for much of the local fishing industry."
+    },
+    {
+      "cityName": "Delhi",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delhi, originally called Deerfield, is a town in Richland Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Delta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delta is a village in Madison Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Delta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tallulah Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Denham Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the largest area of commercial and residential development in Livingston Parish."
+    },
+    {
+      "cityName": "Denham Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Denham Springs and Walker are the only parish municipalities classified as cities."
+    },
+    {
+      "cityName": "Denham Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area has been known as Amite Springs, Hill's Springs, and Denham Springs."
+    },
+    {
+      "cityName": "Des Allemands",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, known as the \"Catfish Capital of the Universe\", is along the Bayou des Allemands, which is the boundary of Lafourche and St. Charles parishes."
+    },
+    {
+      "cityName": "Des Allemands",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lac des Allemands is located northwest of the town."
+    },
+    {
+      "cityName": "Des Allemands",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The ZIP Code for Des Allemands is 70030."
+    },
+    {
+      "cityName": "Destrehan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the east bank of the Mississippi River."
+    },
+    {
+      "cityName": "Destrehan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Destrehan is part of the New Orleans\u2014Metairie\u2014Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Deville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dixie Inn",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dixie Inn is a village in Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Dixie Inn",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located off Interstate 20 at the old Shreveport Road, some twenty-six miles east of Shreveport."
+    },
+    {
+      "cityName": "Dixie Inn",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Minden, the seat of Webster Parish, is located some three miles to the east."
+    },
+    {
+      "cityName": "Dixie Inn",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Dixie Inn is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dodson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dodson is a village in Winn Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Donaldsonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Donaldsonville is a city in, and the parish seat of Ascension Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Donaldsonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the River Road of the west bank of the Mississippi River, it is a part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Downsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Downsville is a village in Lincoln and Union parishes in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Doyline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Doyline is a village in southwestern Webster Parish in northwestern Louisiana, United States."
+    },
+    {
+      "cityName": "Doyline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dry Prong",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dry Prong is a village in central Grant Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Dry Prong",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dubach",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dubach is a town in Lincoln Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Dubach",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dubach is part of the Ruston micropolitan statistical area."
+    },
+    {
+      "cityName": "Dubberly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dubberly is a village in Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Dubberly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Duson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Duson is a town in Acadia and Lafayette parishes in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Duson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after Curley Duson, a sheriff of St. Landry Parish."
+    },
+    {
+      "cityName": "Duson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Lafayette Parish portion of Duson is part of the Lafayette metropolitan statistical area, while the Acadia Parish portion is part of the Crowley micropolitan statistical area."
+    },
+    {
+      "cityName": "Duson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Duson also has a ghost town affiliated with it, a tiny neighborhood that was made but never finished."
+    },
+    {
+      "cityName": "Duson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is currently blocked off by the town's police."
+    },
+    {
+      "cityName": "East Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Hodge is a village in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "East Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Eden Isle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Edgard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Edgard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Edgard is part of the German Coast of Louisiana."
+    },
+    {
+      "cityName": "Edgefield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edgefield is a village in Red River Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Egan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is a part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elmwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The ZIP Code serving Elmwood is 70123."
+    },
+    {
+      "cityName": "Elton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elton is a town in Jefferson Davis Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Elton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jennings Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Epps",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Epps is a village in West Carroll Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Erath",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Erath is a town in Vermilion Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Erath",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Abbeville micropolitan statistical area and the Lafayette metropolitan area."
+    },
+    {
+      "cityName": "Eros",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eros is a town in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Erwinville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U.S. Route 190 passes through the community."
+    },
+    {
+      "cityName": "Estelle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Estherwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Estherwood is a village in Acadia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Estherwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Evergreen is a town in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Evergreen is located east of Bunkie."
+    },
+    {
+      "cityName": "Farmersville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmerville is a town in and the parish seat of Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Farmersville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has also been known as Farmersville."
+    },
+    {
+      "cityName": "Farmersville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Farmersville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is spread about Lake D'Arbonne, a popular fishing and boating waterway."
+    },
+    {
+      "cityName": "Farmerville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmerville is a town in and the parish seat of Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Farmerville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has also been known as Farmersville."
+    },
+    {
+      "cityName": "Farmerville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Farmerville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is spread about Lake D'Arbonne, a popular fishing and boating waterway."
+    },
+    {
+      "cityName": "Fenton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fenton is a village in Jefferson Davis Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Fenton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is notable for being a speed trap along U.S. Route 165."
+    },
+    {
+      "cityName": "Ferriday",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ferriday is a town in Concordia Parish, which borders the Mississippi River and is located on the central eastern border of Louisiana, United States."
+    },
+    {
+      "cityName": "Fisher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fisher is a village in Sabine Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Florien",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Florien is a village in Sabine Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Florien",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is home to the annual Sabine Free State Festival, celebrating the village's history as part of the Sabine Neutral Strip."
+    },
+    {
+      "cityName": "Folsom",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Folsom is a village in St. Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Folsom",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named after the wife of Grover Cleveland, Frances Folsom."
+    },
+    {
+      "cityName": "Folsom",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Fordoche",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fordoche is a town in Pointe Coupee Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Fordoche",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Forest",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forest is a village in West Carroll Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Fort Johnson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Polk, formerly Fort Johnson, is a United States Army installation located in Vernon Parish, Louisiana, about 10 miles (15\u00a0km) east of Leesville and 30 miles (50\u00a0km) north of DeRidder in Beauregard Parish."
+    },
+    {
+      "cityName": "Fort Polk",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Polk, formerly Fort Johnson, is a United States Army installation located in Vernon Parish, Louisiana, about 10 miles (15\u00a0km) east of Leesville and 30 miles (50\u00a0km) north of DeRidder in Beauregard Parish."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is located on Bayou Teche, southeast of the cities of Lafayette, 47 miles (76\u00a0km) and New Iberia, 28 miles (45\u00a0km), and 22 miles (35\u00a0km) northwest of Morgan City."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area and the larger Lafayette-Acadiana combined statistical area."
+    },
+    {
+      "cityName": "Franklin Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklin Parish is a parish located in the northeastern part of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Franklin Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The parish seat and the most populous municipality is Winnsboro."
+    },
+    {
+      "cityName": "Franklin Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The parish was founded in 1843 and named for Benjamin Franklin."
+    },
+    {
+      "cityName": "Franklinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklinton is a town in, and the parish seat of Washington Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Franklinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The elevation is an average of 155 feet (47\u00a0m) above sea level."
+    },
+    {
+      "cityName": "Franklinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Franklinton is located 61 miles (98\u00a0km) north of New Orleans."
+    },
+    {
+      "cityName": "French Settlement",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "French Settlement is a village in Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "French Settlement",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Frierson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located approximately 3 miles (5\u00a0km) north of Interstate 49 along Louisiana State Highway 175."
+    },
+    {
+      "cityName": "Galliano",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Galvez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Galveztown, or Villa de G\u00e1lvez, is a ghost town located at the confluence of Bayou Manchac and the Amite River in Ascension Parish, Louisiana."
+    },
+    {
+      "cityName": "Galvez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Galveztown was established in 1778 with the settlement of Canary Islanders colonists and Anglo-Americans fleeing the American Revolutionary War."
+    },
+    {
+      "cityName": "Galvez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Due to deplorable conditions and disease, the settlement was eventually abandoned and many residents fled to Spanish Town in 1806."
+    },
+    {
+      "cityName": "Galvez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Some former residents remained in the area and established the community of G\u00e1lvez, Louisiana during the first half of the nineteenth century."
+    },
+    {
+      "cityName": "Gardere",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is also known as Riverland."
+    },
+    {
+      "cityName": "Gardere",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gardner is part of the Alexandria Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located at the junction of Louisiana highways 28 and 121, 15 miles (24\u00a0km) west-southwest of Alexandria."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gardner has a population of 1,965."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Gardner's post office ZIP code 71431."
+    },
+    {
+      "cityName": "Gardner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "China Grove, a house listed on the National Register of Historic Places, is located in Gardner."
+    },
+    {
+      "cityName": "Garyville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Geismar",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Geismar",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Geismar is south of Prairieville and west of Gonzales."
+    },
+    {
+      "cityName": "Geismar",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community has Three schools, Dutchtown Primary School, Dutchtown Middle School and Dutchtown High School, which are ranked among the top schools in the state of Louisiana."
+    },
+    {
+      "cityName": "Geismar",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Mississippi River flows to the southeast along the southwest side of the community."
+    },
+    {
+      "cityName": "Geismar",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The area is vulnerable to hurricanes and tropical systems due to its low elevation and its proximity to the coast of southeast Louisiana."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Georgetown is a village in Grant Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gibsland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gibsland is a town in Bienville Parish in northern Louisiana, United States."
+    },
+    {
+      "cityName": "Gibsland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is best known for its connecting railroads, as the birthplace of the defunct historically black Coleman College, and for being the place where notorious criminals Bonnie Parker and Clyde Barrow were ambushed and killed by Texas Rangers on May 23, 1934."
+    },
+    {
+      "cityName": "Gibson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilbert is a village in Franklin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Gilliam",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilliam is a village in Caddo Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Gilliam",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Glenmora",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenmora is a town in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Glenmora",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Golden Meadow is a town along Bayou Lafourche in Lafourche Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its main source of revenue is the oil and gas industry."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The fishing and seafood industries also have strong economic impacts, with charter fishing, restaurants, and lodging actively serving patrons."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was once known as a speed trap, but it has since been bypassed by Hwy 3235 and city traffic has been reduced to mostly locals; however, the speed limit is reduced to 50\u00a0mph on Hwy 3235 and said highway is still patrolled heavily."
+    },
+    {
+      "cityName": "Golden Meadow",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As in other places in Louisiana, there is a noticeable presence of Cajun culture, music, and cuisine."
+    },
+    {
+      "cityName": "Goldonna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goldonna is a village in Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Goldonna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Goldonna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "South of Goldonna along Louisiana Highway 156, one may access Saline Bayou, popular for blackwater canoeing."
+    },
+    {
+      "cityName": "Gonzales",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known as the \"Jambalaya Capital of the World\", it is famous for its annual Jambalaya Festival, which was first held in 1968."
+    },
+    {
+      "cityName": "Grambling",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Grambling State University and is part of the Ruston micropolitan statistical area."
+    },
+    {
+      "cityName": "Gramercy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gramercy is a town in the U.S. state of Louisiana, in St. James Parish."
+    },
+    {
+      "cityName": "Gramercy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans Metropolitan Area."
+    },
+    {
+      "cityName": "Grand Bayou Mobile Home Park",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Orleans is a consolidated city-parish located along the Mississippi River in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Grand Bayou Mobile Home Park",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Orleans serves as a major port and commercial hub for the broader Gulf Coast region."
+    },
+    {
+      "cityName": "Grand Bayou Mobile Home Park",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is coextensive with Orleans Parish."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Cane is a village in DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the hometown of women's basketball pioneer Linda Gamble."
+    },
+    {
+      "cityName": "Grand Coteau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Coteau is a town in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Grand Coteau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grand Coteau is on Interstate 49 south of Opelousas and is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Grand Coteau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is a center for local farming."
+    },
+    {
+      "cityName": "Grand Isle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Isle is a town in Jefferson Parish in the U.S. state of Louisiana, located on a barrier island of the same name in the Gulf of Mexico."
+    },
+    {
+      "cityName": "Grand Isle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The island is at the mouth of Barataria Bay where it meets the Gulf."
+    },
+    {
+      "cityName": "Grand Isle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town of Grand Isle is statistically part of the New Orleans\u2212Metairie\u2212Kenner metropolitan statistical area, though it is not connected to New Orleans' continuous urbanized area."
+    },
+    {
+      "cityName": "Gray",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Grayson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grayson is a village in Caldwell Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greensburg is a town in, and the parish seat of, St. Helena Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Greensburg",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Greenwell Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenwell Springs is an area of Central, Louisiana, United States, a city in the Baton Rouge metropolitan area."
+    },
+    {
+      "cityName": "Greenwell Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The ZIP code for this area is 70739."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenwood is a suburban town in southern Caddo Parish, which is located in the northwest corner of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Part of the Shreveport-Bossier City metropolitan statistical area, it is located 15 miles west of downtown Shreveport."
+    },
+    {
+      "cityName": "Gretna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gretna is the second-largest city in, and parish seat of, Jefferson Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Gretna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gretna lies on the west bank of the Mississippi River, just east and across the river from uptown New Orleans."
+    },
+    {
+      "cityName": "Gretna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Grosse Tete",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grosse T\u00eate is a village in Iberville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Grosse Tete",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village name is French for \"Big Head\"."
+    },
+    {
+      "cityName": "Grosse Tete",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Grosse T\u00eate is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Gueydan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gueydan is a town in Vermilion Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Gueydan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 population estimates program, its population decreased to 1,328."
+    },
+    {
+      "cityName": "Gueydan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Abbeville micropolitan statistical area."
+    },
+    {
+      "cityName": "Hackberry",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The losses were due to extensive damage from hurricanes Rita and Ike in 2005 and 2008, respectively."
+    },
+    {
+      "cityName": "Hackberry",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lake Charles Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hahnville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded by former governor Michael Hahn."
+    },
+    {
+      "cityName": "Hall Summit",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hall Summit is a village in Red River Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hammond is the largest city in Tangipahoa Parish, Louisiana, United States, located 45 miles (72\u00a0km) east of Baton Rouge and 45 miles (72\u00a0km) northwest of New Orleans."
+    },
+    {
+      "cityName": "Harrisonburg",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrisonburg is a village in and the parish seat of Catahoula Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Harvey",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harvey is on the south side of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Haughton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haughton is a town in Bossier Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Haughton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport-Bossier City metropolitan area."
+    },
+    {
+      "cityName": "Hayes",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lake Charles Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Haynesville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haynesville is a town in northern Claiborne Parish, Louisiana, United States, located just south of the Arkansas border."
+    },
+    {
+      "cityName": "Heflin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Heflin is a village in southern Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Heflin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Henderson is a town in St. Martin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hessmer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hessmer is a village in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hodge is a village in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Holden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holden is in a section of land awarded to Micajah \"Cage\" Spiller by a Spanish land grant."
+    },
+    {
+      "cityName": "Holden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "LA Hwy 441 which runs through Holden in a northwest\u2013southeast direction is the road that connected Springfield with Baton Rouge to the west and points in Mississippi to the east."
+    },
+    {
+      "cityName": "Holden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1907, the east\u2013west line of the Baton Rouge, Hammond & Eastern Railroad was constructed."
+    },
+    {
+      "cityName": "Homer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Homer is a town in and the parish seat of Claiborne Parish in northern Louisiana, United States."
+    },
+    {
+      "cityName": "Homer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Named for the Greek poet Homer, the town was laid out around the Courthouse Square in 1850 by Frank Vaughn."
+    },
+    {
+      "cityName": "Homer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The present-day brick courthouse, built in the Greek Revival style of architecture, is one of only four pre-Civil War courthouses in Louisiana still in use."
+    },
+    {
+      "cityName": "Homer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The building, completed in 1860, was accepted by the Claiborne Parish Police Jury on July 20, 1861, at a cost of $12,304.36, and is on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Homer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The other courthouses are in St. Francisville, St. Martinville and Thibodaux."
+    },
+    {
+      "cityName": "Hornbeck",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hornbeck is a town in Vernon Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hornbeck",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hosston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hosston is a village in Caddo Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Hosston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Houma",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Houma is the largest city in and the parish seat of Terrebonne Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Houma",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the largest principal city of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Houma",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's government was absorbed by the parish in 1984, which currently operates as the Terrebonne Parish Consolidated Government."
+    },
+    {
+      "cityName": "Ida",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ida is a village in Caddo Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Ida",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City metropolitan area."
+    },
+    {
+      "cityName": "Ida",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ida and nearby Rodessa are the most northwesterly communities in Louisiana."
+    },
+    {
+      "cityName": "Independence",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Ginger Rogers was born in Independence."
+    },
+    {
+      "cityName": "Independence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Independence, originally known as Uncle Sam, is a town in Tangipahoa Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Independence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Inniswold",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Iota",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iota is a town in Acadia Parish, Louisiana."
+    },
+    {
+      "cityName": "Iota",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Iota is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Iowa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iowa is a town in Calcasieu Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Iowa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jackson is a town in East Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jamestown is a village in Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Jean Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jean Lafitte is a town on Bayou Barataria in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Jean Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Jefferson Parish, it is named after the privateer Jean Lafitte."
+    },
+    {
+      "cityName": "Jean Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Jeanerette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is two-thirds African American, many of them Creoles of color."
+    },
+    {
+      "cityName": "Jeanerette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jeanerette is the part of the Lafayette metropolitan statistical area; its parish is also one of the 22 included in the Acadiana region, which has had a high proportion of francophones."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jefferson is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is often known by locals as \"Old Jefferson\", but should not be confused with Old Jefferson in East Baton Rouge Parish, Louisiana."
+    },
+    {
+      "cityName": "Jena",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jena is a town in, and the parish seat of, La Salle Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Jennings",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jennings is a city in, and the parish seat of, Jefferson Davis Parish, Louisiana, United States, near Lake Charles."
+    },
+    {
+      "cityName": "Joaquin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Joaqu\u00edn or Joaquin is a male given name, the Spanish version of Joachim."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jonesboro is a town in and the parish seat of Jackson Parish in the northern portion of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Jonesville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jonesville is the largest town in Catahoula Parish, Louisiana, United States, at the confluence of the Ouachita, Tensas, and Little rivers."
+    },
+    {
+      "cityName": "Jonesville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The three rivers become the Black River at Jonesville."
+    },
+    {
+      "cityName": "Junction City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Junction City is a village in Claiborne and Union parishes in Louisiana, United States, and is the twin city of neighboring Junction City, Arkansas."
+    },
+    {
+      "cityName": "Kaplan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Abbeville micropolitan statistical area in Acadiana."
+    },
+    {
+      "cityName": "Keachi",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keachi is a town in DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Keachi",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Keithville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies to the south of Shreveport along U.S. Route 171."
+    },
+    {
+      "cityName": "Kentwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kentwood is a rural town in Tangipahoa Parish, Louisiana, United States, near the Mississippi state line."
+    },
+    {
+      "cityName": "Kentwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Kentwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kentwood is best known as the hometown of singer Britney Spears."
+    },
+    {
+      "cityName": "Kilbourne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kilbourne is a village in West Carroll Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Killian",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Killian is a town in Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Killian",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kinder",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kinder is a small town in Allen Parish, Louisiana, in the United States."
+    },
+    {
+      "cityName": "Krotz Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Krotz Springs is a town in St. Landry Parish, Louisiana, United States, on the Atchafalaya River."
+    },
+    {
+      "cityName": "Krotz Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "La Place",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2020, it had a population of 28,841."
+    },
+    {
+      "cityName": "Labadieville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along Bayou Lafourche in the southeastern part of the state, approximately 60 miles (97\u00a0km) west of New Orleans and 13 miles (21\u00a0km) south of Donaldsonville."
+    },
+    {
+      "cityName": "Labadieville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is part of the Pierre Part Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lafayette is the most populous city in and the parish seat of Lafayette Parish in the U.S. state of Louisiana, located along the Vermilion River."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Acadiana region containing Lafayette is the largest population and economic corridor between Houston, Texas and New Orleans."
+    },
+    {
+      "cityName": "Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2020, its population increased to 1,014 people."
+    },
+    {
+      "cityName": "Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Lafitte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lafitte is located at the southern end of Louisiana Highway 45 along Bayou Barataria, and fishing is a major part of the local economy and culture."
+    },
+    {
+      "cityName": "Lake Arthur",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Arthur is a town in Jefferson Davis Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Lake Arthur",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jennings Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lake Arthur",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The current mayor is Sampson \u201cponcho\u201d Lejeune."
+    },
+    {
+      "cityName": "Lake Charles",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Charles is the fifth-most populous city in the U.S. state of Louisiana, and the parish seat of Calcasieu Parish, located on Lake Charles, Prien Lake, and the Calcasieu River."
+    },
+    {
+      "cityName": "Lake Charles",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1861 in Calcasieu Parish, it is a major industrial, cultural, and educational center in the southwest region of the state."
+    },
+    {
+      "cityName": "Lake Providence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Providence is a town in, and the parish seat of, East Carroll Parish in northeastern Louisiana."
+    },
+    {
+      "cityName": "Lake Providence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's poverty rate is approximately 55 percent; the average median household income is $16,500, and the average age is 31."
+    },
+    {
+      "cityName": "Lakeland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lakeland, is a village in southeastern Pointe Coupee Parish, Louisiana United States."
+    },
+    {
+      "cityName": "Lakeland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area is home to several former slave plantations."
+    },
+    {
+      "cityName": "Laplace",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2020, it had a population of 28,841."
+    },
+    {
+      "cityName": "Larose",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Lawtell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name is a portmanteau of the names of its two founders: Lawler and Littell."
+    },
+    {
+      "cityName": "Lecompte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lecompte is a town in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Lecompte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lecompte is situated along the banks of Bayou Boeuf in central Louisiana."
+    },
+    {
+      "cityName": "Lecompte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "US Highway 71, Louisiana\u2019s major north-south route which connects Baton Rouge and Shreveport, runs through Lecompte."
+    },
+    {
+      "cityName": "Lecompte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lecompte is named after the famous race horse called LeComte, which was named after horse breeder Ambrose LeComte."
+    },
+    {
+      "cityName": "Lecompte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is part of the Alexandria, Louisiana metropolitan area."
+    },
+    {
+      "cityName": "Leesville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Fort Polk South micropolitan area and is additionally served by the Leesville Airport."
+    },
+    {
+      "cityName": "Leesville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Fort Polk U.S. Army installation."
+    },
+    {
+      "cityName": "Leonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leonville is a town in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Leonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lettsworth",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the east bank of the Atchafalaya River near its intersection with the Mississippi and Red rivers at the Old River Control Structure."
+    },
+    {
+      "cityName": "Lillie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lillie is a village in Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Lillie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lincoln Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lincoln Parish is a parish located in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Lincoln Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The parish was created on February 24, 1873, from parts of Bienville, Claiborne, Union, and Jackson parishes, and its boundaries have changed only once."
+    },
+    {
+      "cityName": "Lincoln Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This makes Lincoln Parish one of the Reconstruction parishes."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lisbon is a village in Claiborne Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lisbon is located east of the parish seat of Homer."
+    },
+    {
+      "cityName": "Livingston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Livingston is the parish seat of Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Livonia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Livonia is a town in Pointe Coupee Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Livonia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lockport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lockport is a town on Bayou Lafourche in Lafourche Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Lockport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Logansport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Logansport is a town in western DeSoto Parish adjacent to the Sabine River in western Louisiana, United States."
+    },
+    {
+      "cityName": "Logansport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City metropolitan statistical area."
+    },
+    {
+      "cityName": "Longstreet",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Longstreet is a village in DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Longstreet",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Longville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Longville has four schools: South Beauregard Lower Elementary, South Beauregard Upper Elementary, South Beauregard Junior High, and South Beauregard High School, which are all on one campus."
+    },
+    {
+      "cityName": "Loranger",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loranger is located East of Hammond, Louisiana, at the junction of LA 40 and LA 1062."
+    },
+    {
+      "cityName": "Loreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loreauville is a village in Iberia Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Loreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Iberia micropolitan statistical area, and the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Lottie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The zip code in this town is 70756."
+    },
+    {
+      "cityName": "Lucky",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lucky is a village in Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Luling",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the west bank of the Mississippi River."
+    },
+    {
+      "cityName": "Luling",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Luling is part of the New Orleans\u2014Metairie\u2014Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Lutcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lutcher is a town in St. James Parish, Louisiana, United States, on the east bank of the Mississippi River."
+    },
+    {
+      "cityName": "Lutcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Lydia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Iberia Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Madisonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madisonville is a town in St. Tammany Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Madisonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Mamou",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mamou is a town in Evangeline Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mandeville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mandeville is located on the north shore of Lake Pontchartrain, south of Interstate 12."
+    },
+    {
+      "cityName": "Mandeville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located directly across the lake from the city of New Orleans and its southshore suburbs."
+    },
+    {
+      "cityName": "Mandeville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mandeville is part of the New Orleans-Metairie metropolitan statistical area."
+    },
+    {
+      "cityName": "Mangham",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mangham is a village in Richland Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Mangham",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mangham was established in 1890."
+    },
+    {
+      "cityName": "Mangham",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mangham, the publisher of the Richland Beacon-News, a weekly newspaper in Rayville, the seat of Richland Parish."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mansfield is part of the Shreveport\u2013Bossier City metropolitan statistical area, with a 2020 population of 4,714."
+    },
+    {
+      "cityName": "Mansura",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mansura is a town in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mansura",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mansura is home to the Cochon de Lait Festival, and claims to be the Cochon de Lait capital of the world."
+    },
+    {
+      "cityName": "Many",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Many is a town in and the parish seat of Sabine Parish in western Louisiana, United States."
+    },
+    {
+      "cityName": "Maringouin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maringouin is a town in Iberville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Maringouin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Marion",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marion is a town in Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Marion",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This population includes the village of Truxno in the northwestern corner of the city limits."
+    },
+    {
+      "cityName": "Marion",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Marrero",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marrero is on the south side of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Martin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Martin is a village in Red River Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mathews",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Maurepas",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Louisiana Highway 22 passes through the community and Whitehall lies two miles to the east."
+    },
+    {
+      "cityName": "Maurepas",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lake Maurepas is six miles to the east and the Amite River lies approximately one half mile to the north."
+    },
+    {
+      "cityName": "Maurepas",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The ZIP Code for Maurepas is 70449."
+    },
+    {
+      "cityName": "Maurice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maurice is a town in Vermilion Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Maurice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Abbeville micropolitan statistical area."
+    },
+    {
+      "cityName": "McNary",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McNary is a village in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "McNary",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Melville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melville is a town in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Melville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2212Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Melville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was founded in 1889 and is known as the Atchafalaya River Catfish Capital of Louisiana."
+    },
+    {
+      "cityName": "Melville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is directly across the river from the ghost town Red Cross, Louisiana."
+    },
+    {
+      "cityName": "Mer Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mer Rouge is a village in Morehouse Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mer Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is French for \"Red Sea\"."
+    },
+    {
+      "cityName": "Meraux",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie metropolitan statistical area."
+    },
+    {
+      "cityName": "Mermentau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mermentau is a village in Acadia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mermentau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Merrydale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Merryville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Merryville is a town in Beauregard Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Merryville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the DeRidder Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Metaire",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Youngsville is a city in Lafayette Parish, Louisiana, United States, and is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Metairie",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Ellen DeGeneres was born in Metairie."
+    },
+    {
+      "cityName": "Metairie Terrace",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kenner is a city in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Minden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located twenty-eight miles east of Shreveport."
+    },
+    {
+      "cityName": "Minden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Main Street district of Minden is recognized as a Louisiana Main Street Community, a Louisiana Cultural Products District, and is sited on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Minden",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Minden is the core and principal city of the Minden Micropolitan Statistical Area, consisting of all of Webster Parish, which is part of the Shreveport\u2013Bossier City\u2013Minden CSA."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is the ninth-largest city in the U.S. state of Louisiana, and is the parish seat and largest city of Ouachita Parish."
+    },
+    {
+      "cityName": "Montegut",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Montegut",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Montegut was the primary filming location for the 2012 film Beasts of the Southern Wild."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Nat King Cole was born in Montgomery."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montgomery is a town in the far northwestern portion of Grant Parish, which is located in north-central Louisiana, United States."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has a poverty rate of 37 percent and a median household income of just under $22,000."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montpelier is a village in St. Helena Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Moreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moreauville is a village in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Morgan City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morgan City is a small city in St. Mary Parish, Louisiana, United States, located in the Acadiana region."
+    },
+    {
+      "cityName": "Morgan City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Known for being \"right in the middle of everywhere\", Morgan City is located 68 miles (109\u00a0km) southeast of Lafayette, 64 miles (103\u00a0km) south of Baton Rouge, and 86 miles (138\u00a0km) west of New Orleans."
+    },
+    {
+      "cityName": "Morganza",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Morganza",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village's zip code is 70759."
+    },
+    {
+      "cityName": "Morganza",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Morganza Spillway, a flood control structure between the Mississippi River and the Atchafalaya Basin, is located nearby."
+    },
+    {
+      "cityName": "Morse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morse is a village in Acadia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Morse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Moss Bluff",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located just north of the city of Lake Charles, it is considered a suburb of that city."
+    },
+    {
+      "cityName": "Moss Bluff",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Moss Bluff is a burgeoning community, and is one of the communities in Calcasieu Parish besides Lake Charles and Sulphur experiencing growth."
+    },
+    {
+      "cityName": "Mound",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mound is a village in Madison Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Mound",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tallulah Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mount Hermon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Yellow Jackets of Mount Hermon High School."
+    },
+    {
+      "cityName": "Mount Hermon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Mile Branch Settlement at the Washington Parish Free Fair is the current home of the old one room school house that was originally built by the pioneers of Mount Hermon, Louisiana."
+    },
+    {
+      "cityName": "Mount Hermon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The ZIP Code for Mount Hermon is 70450."
+    },
+    {
+      "cityName": "Mount Lebanon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Lebanon is a town in Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Napoleonville is a village and the parish seat of Assumption Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pierre Part Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is best known as the location where the film Because of Winn-Dixie, based on Kate DiCamillo's Newbery Prize-winning novel, was shot."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The book was set in (fictional) Naomi, Florida."
+    },
+    {
+      "cityName": "Natalbany",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Natchez is a village in Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village and parish are part of the Cane River National Heritage Area and located on Isle Brevelle."
+    },
+    {
+      "cityName": "Natchitoches",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Established in 1714 by Louis Juchereau de St. Denis as part of French Louisiana, the community was named after the indigenous Natchitoches people."
+    },
+    {
+      "cityName": "Natchitoches",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Natchitoches is home to Northwestern State University of Louisiana."
+    },
+    {
+      "cityName": "Natchitoches",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its sister city is Nacogdoches, Texas."
+    },
+    {
+      "cityName": "New Iberia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Iberia is the largest city in and the parish seat of Iberia Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "New Iberia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of New Iberia is located approximately 21 miles southeast of Lafayette, and forms part of the Lafayette metropolitan statistical area in the region of Acadiana."
+    },
+    {
+      "cityName": "New Iberia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Iberia is served by Amtrak\u2019s Sunset Limited, operating between Los Angeles and New Orleans."
+    },
+    {
+      "cityName": "New Iberia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "New Iberia has a major four lane highway, being U.S. 90, and has its own general aviation airfield, Acadiana Regional Airport."
+    },
+    {
+      "cityName": "New Iberia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Scheduled passenger and cargo airline service is available via the nearby Lafayette Regional Airport located adjacent to U.S. 90 in Lafayette."
+    },
+    {
+      "cityName": "New Llano",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Llano is a town in Vernon Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "New Llano",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "New Orleans",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from New Orleans include Louis Armstrong, Truman Capote, Reese Witherspoon, Richard Simmons, and Lil Wayne."
+    },
+    {
+      "cityName": "New Orleans",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Orleans is a consolidated city-parish located along the Mississippi River in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "New Orleans",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Orleans serves as a major port and commercial hub for the broader Gulf Coast region."
+    },
+    {
+      "cityName": "New Orleans",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is coextensive with Orleans Parish."
+    },
+    {
+      "cityName": "New Roads",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Newellton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newellton is a town in northern Tensas Parish in the northeastern part of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Noble",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Noble is a village in Sabine Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Norco",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is home to a major Shell/Valero manufacturing complex."
+    },
+    {
+      "cityName": "North Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Hodge is a village in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "North Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norwood is a village in East Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Oak Grove",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Grove is the parish seat of West Carroll Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Oak Grove, West Carroll Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Grove is the parish seat of West Carroll Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Oak Hills Place",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area, and one of the most affluent suburbs of Baton Rouge."
+    },
+    {
+      "cityName": "Oak Ridge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Ridge is a village in Morehouse Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Oberlin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oberlin is a town in and the parish seat of Allen Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Oberlin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named after Johann Friedrich Oberlin."
+    },
+    {
+      "cityName": "Oil City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oil City is located on Louisiana Highway 1, north of Caddo Lake."
+    },
+    {
+      "cityName": "Oil City",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Old Jefferson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area, within the city of St. George."
+    },
+    {
+      "cityName": "Opelousas",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Interstate 49 and U.S. Route 190 were constructed with a junction here."
+    },
+    {
+      "cityName": "Opelousas",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Opelousas is also the fourth largest city in the Lafayette-Acadiana Combined Statistical Area, which has a population of 537,947."
+    },
+    {
+      "cityName": "Palmetto",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palmetto is a village in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Palmetto",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Parks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parks is a village in St. Martin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Parks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Paulina",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located on the east bank of the Mississippi River in the eastern part of the parish, west of Lutcher and across the river from Vacherie."
+    },
+    {
+      "cityName": "Paulina",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Paulina has a post office with ZIP code 70763."
+    },
+    {
+      "cityName": "Pearl River",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pearl River is a town in St. Tammany Parish in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Pearl River",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Pierre Part",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With 39.3 percent of the population speaking French at home, Pierre Part is the most French town in the United States outside of Maine."
+    },
+    {
+      "cityName": "Pierre Part",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pierre Part is known locally for its prominent French influence and ancestry, which have become significant aspects of its contemporary local culture."
+    },
+    {
+      "cityName": "Pierre Part",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated near Lake Verret, Pierre Part is a popular local destination for water sports and fishing during the summer."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Pine Junior/Senior High School, a K-12 school with approximately 600 students."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pine utilizes the zip code from the neighboring town of Franklinton."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pine is accessed be either LA highway 62 (N-S) or LA highway 436 (E-W)."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pine has several small, family owned businesses."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In September 2010 the first, and only retail chain store opened."
+    },
+    {
+      "cityName": "Pine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The businesses surround the 62-436 intersection and flow north on Hwy 62 toward the \"New\" High School."
+    },
+    {
+      "cityName": "Pineville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located across the Red River from the larger Alexandria, and is part of the Alexandria Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pineville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It had been 13,829 in 2000; population hence grew by 5 percent over the preceding decade."
+    },
+    {
+      "cityName": "Pioneer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pioneer is a village in West Carroll Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Plain Dealing",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plain Dealing is a town in Bossier Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Plain Dealing",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City metropolitan statistical area."
+    },
+    {
+      "cityName": "Plaquemine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Plaucheville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plaucheville is a village in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Pleasant Hill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasant Hill is a village in Sabine Parish in western Louisiana, United States."
+    },
+    {
+      "cityName": "Pleasant Hill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is best known for the Battle of Pleasant Hill, a significant battle during the American Civil War on April 9, 1864."
+    },
+    {
+      "cityName": "Pollock",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pollock is a small town in Grant Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Pollock",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ponchatoula",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ponchatoula is the second-largest city in Tangipahoa Parish, Louisiana."
+    },
+    {
+      "cityName": "Port Allen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the west bank of the Mississippi River, it is bordered by Interstate 10 and US Highway 190."
+    },
+    {
+      "cityName": "Port Allen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Port Barre",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Port Barre (BAH-ree) is a town in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Port Barre",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town began in 1760 as an Indian trading post at the place where Bayou Teche flows out of Bayou Courtableau."
+    },
+    {
+      "cityName": "Port Barre",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Port Vincent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Port Vincent is a village in Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Port Vincent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Powhatan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Powhatan is a village in Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Powhatan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Prairieville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is south of Baton Rouge and north of Gonzales."
+    },
+    {
+      "cityName": "Prien",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Prien",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some of the area has been annexed into the city of Lake Charles."
+    },
+    {
+      "cityName": "Provencal",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Provencal is a village in Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Provencal",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Quitman",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Quitman is a village in Jackson Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Quitman",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Quitman is 15 miles (24\u00a0km) south of Ruston on U.S. Highway 167, and 9 miles (14\u00a0km) north of Jonesboro, the parish seat of Jackson Parish."
+    },
+    {
+      "cityName": "Quitman",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also adjacent to the Jackson Bienville Wildlife Area."
+    },
+    {
+      "cityName": "Raceland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Ragley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located at the junction of U.S. routes 171 and 190, 20 miles (32\u00a0km) north of Lake Charles."
+    },
+    {
+      "cityName": "Ragley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ragley has a post office with ZIP code 70657."
+    },
+    {
+      "cityName": "Rayne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rayne is a town in Acadia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Rayne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in an agricultural area where rice and sugarcane have been grown."
+    },
+    {
+      "cityName": "Rayne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rayne is part of the Crowley micropolitan statistical area, and within the Lafayette metropolitan statistical area in Acadiana."
+    },
+    {
+      "cityName": "Rayville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rayville is a town in and the parish seat of Richland Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Red Chute",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Reeves",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reeves is a village in Allen Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Reserve",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the east bank of the Mississippi River."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond is a village in Madison Parish, Louisiana, United States, located on Brushy Bayou."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tallulah Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richwood is a town in Ouachita Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town provides garbage collection, street maintenance, drainage maintenance, and other health and welfare services, in addition to the administrative services provided to its residents."
+    },
+    {
+      "cityName": "Ridgecrest",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ridgecrest is a small town in Concordia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Ringgold",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ringgold is a town in the U.S. state of Louisiana, in the western half of Bienville Parish."
+    },
+    {
+      "cityName": "Ringgold",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Ringgold is named for United States Army Major Samuel Ringgold."
+    },
+    {
+      "cityName": "River Ridge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of New Orleans."
+    },
+    {
+      "cityName": "Robeline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Robeline is a village in western Natchitoches Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Robeline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Robert",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies east of Hammond, at the intersection of US 190 and LA 445, from which it has a signed exit on Interstate 12."
+    },
+    {
+      "cityName": "Robert",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Robert is the largest settlement in Tangipahoa Parish's rural 8th ward."
+    },
+    {
+      "cityName": "Rodessa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rodessa is a village in Caddo Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Rodessa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rosedale is a village in Iberville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Roseland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roseland is a town in Tangipahoa Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Roseland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the birthplace of Cajun chef and storyteller Justin Wilson."
+    },
+    {
+      "cityName": "Roseland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Roseland is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Rosepine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rosepine is a town in Vernon Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Rosepine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ruston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ruston is near the eastern border of the Ark-La-Tex region and is the home of Louisiana Tech University."
+    },
+    {
+      "cityName": "Ruston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ruston is the principal city of the Ruston micropolitan statistical area, which includes all of Lincoln Parish."
+    },
+    {
+      "cityName": "Saint Amant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated about 25 miles south-east of Baton Rouge and 50 miles northwest of New Orleans."
+    },
+    {
+      "cityName": "Saint Amant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after the St. Amant family, some of the early settlers in the region."
+    },
+    {
+      "cityName": "Saint Amant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area was originally known to the Native Americans and early French settlers as Duckroost, or Cabanocey."
+    },
+    {
+      "cityName": "Saint Amant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Saint Amant post office has the ZIP code of 70774."
+    },
+    {
+      "cityName": "Saint Bernard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in the 18th century during Louisiana's Spanish colonial era as the center of Isle\u00f1o settlers."
+    },
+    {
+      "cityName": "Saint Bernard",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located on Louisiana State Highway 300, east of the Mississippi River and 8 miles (13\u00a0km) southeast of Chalmette."
+    },
+    {
+      "cityName": "Saint Francisville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Francisville is a town in and the parish seat of West Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Saint Francisville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Saint Gabriel",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Gabriel is a city in Iberville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Saint Gabriel",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of St. Gabriel includes the Carville neighborhood and portions of Sunshine."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saint George, also George of Lydda, was an early Christian martyr, born in Cappadocia in Anatolia, who is venerated as a saint."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Saint George\u2019s mother Saint Polychronia is believed to have come from Syria Palaestina and his father Saint Gerontios is believed to be of Syrian Cappadocian origin."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He became a member of the Praetorian Guard for Roman emperor Diocletian, but was executed as part of the Diocletianic persecution."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He is one of the most venerated saints, heroes, and megalomartyrs in Christianity, and he has been especially venerated as a military saint since the Crusades."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "He is also prominently venerated by the Druze, and by some Muslim groups, as a martyr of monotheistic faith."
+    },
+    {
+      "cityName": "Saint James",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Saint James Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. James Parish is a parish located in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Saint James Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The parish was created in 1807."
+    },
+    {
+      "cityName": "Saint James Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "St. James Parish is a part of the New Orleans\u2013Metairie, Louisiana metropolitan statistical area, sitting between New Orleans and Baton Rouge on the Mississippi River."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Joseph is a town in, and the parish seat of, rural Tensas Parish in northeastern Louisiana, United States, in the delta of the Mississippi River."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town had an African-American majority of 77.4 percent in 2010."
+    },
+    {
+      "cityName": "Saint Martinville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Martinville is a city in and the parish seat of St. Martin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Saint Martinville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies on Bayou Teche, 13 miles (21\u00a0km) south of Breaux Bridge, 16 miles (26\u00a0km) southeast of Lafayette, and 9 miles (14\u00a0km) north of New Iberia."
+    },
+    {
+      "cityName": "Saint Martinville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Saint Mary Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Mary Parish is a parish located in the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Saint Mary Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The parish was created in 1811."
+    },
+    {
+      "cityName": "Saint Rose",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Rose is on the east bank of the Mississippi River, two miles (3\u00a0km) north of the Jefferson Parish border and is part of the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Saline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saline is a village in southeastern Bienville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Saline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Saline is pronounced \"Suh-LEEN\"."
+    },
+    {
+      "cityName": "Saline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cotton has been grown in the area and a watermelon festival is hosted."
+    },
+    {
+      "cityName": "Sarepta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sarepta is a town in Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sarepta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Schriever",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Scott",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scott is the fourth largest municipality in Lafayette Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Scott",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Scott is a suburban community of Lafayette and is part of the Lafayette metropolitan statistical area in Acadiana."
+    },
+    {
+      "cityName": "Shenandoah",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Shenandoah",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Shenandoah consists of a number of residential subdivisions, including Shenandoah Estates, Shenandoah Park, White Oak Landing, White Oak Estates, The Woods and The Lake at White Oak."
+    },
+    {
+      "cityName": "Shongaloo",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shongaloo is a village in Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Shreveport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the third-most populous city in Louisiana after New Orleans and Baton Rouge."
+    },
+    {
+      "cityName": "Shreveport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The bulk of Shreveport is in Caddo Parish, of which it is the parish seat."
+    },
+    {
+      "cityName": "Shreveport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It extends along the west bank of the Red River into neighboring Bossier Parish."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sibley is a town in south Webster Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sicily Island",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sicily Island is a village in Catahoula Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sikes",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sikes is a village in Winn Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Simmesport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Simmesport is a town in Avoyelles Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Simmesport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the northernmost town on the Atchafalaya River, located near the Old River which connects the Red and Atchafalaya rivers with the Mississippi River."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Simpson is a village in Vernon Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Simsboro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Simsboro is a village in western Lincoln Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Simsboro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Slaughter",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slaughter is a town in East Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Slaughter",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Slaughter is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Slidell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slidell is a city on the northeast shore of Lake Pontchartrain in St. Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Slidell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2212Metairie\u2212Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sorrento is a town in Ascension Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "South Mansfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Mansfield is a village in DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "South Mansfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "South lake Charles",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Charles is the fifth-most populous city in the U.S. state of Louisiana, and the parish seat of Calcasieu Parish, located on Lake Charles, Prien Lake, and the Calcasieu River."
+    },
+    {
+      "cityName": "South lake Charles",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1861 in Calcasieu Parish, it is a major industrial, cultural, and educational center in the southwest region of the state."
+    },
+    {
+      "cityName": "Spearsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spearsville is a village in Union Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Spearsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springfield is a town in Livingston Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Springhill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springhill is part of the Minden Micropolitan Statistical Area though it is thirty miles north of Minden, the seat of government of Webster Parish."
+    },
+    {
+      "cityName": "Springhill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Springhill population is 34 percent African American, compared to 25 percent minority in 2000."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanley is a village in DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Starks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located approximately 30 miles (48\u00a0km) northwest of Lake Charles and about 5 miles (8\u00a0km) from the Texas and Louisiana border."
+    },
+    {
+      "cityName": "Starks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Starks is known for its annual Mayhaw Festival to celebrate the fruit that grows in the bayous along the Texas/Louisiana border."
+    },
+    {
+      "cityName": "Sterlington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sterlington is a town in northern Ouachita Parish, Louisiana, United States, near the boundary with Union Parish."
+    },
+    {
+      "cityName": "Sterlington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2014, Sterlington was the fastest-growing community in Northeast Louisiana."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "LA",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Lyndon B. Johnson was born in Stonewall."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stonewall is a town in northern DeSoto Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport\u2013Bossier City metropolitan statistical area."
+    },
+    {
+      "cityName": "Sulphur",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sulphur is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Sun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sun is a village in the northeastern corner of St. Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunset is a town in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Talisheek",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Talisheek is located on Louisiana Highway 435, 14 miles (23\u00a0km) east-northeast of Covington."
+    },
+    {
+      "cityName": "Talisheek",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Talisheek has a post office with ZIP code 70464."
+    },
+    {
+      "cityName": "Tallulah",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tallulah is a city in, and the parish seat of, Madison Parish in northeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Tangipahoa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tangipahoa is a village in Tangipahoa Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Tangipahoa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after the Tangipahoa Native American tribe."
+    },
+    {
+      "cityName": "Tangipahoa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tangipahoa is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Terrebonne Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Terrebonne Parish is a parish located in the southern part of the U.S. state of Louisiana."
+    },
+    {
+      "cityName": "Terrebonne Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The parish was founded in 1822."
+    },
+    {
+      "cityName": "Terrebonne Parish",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Terrebonne Parish is part of the Houma-Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Terrytown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is on the \"Westbank\" of the Mississippi River."
+    },
+    {
+      "cityName": "Terrytown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Thibodaux",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thibodaux is a city in and the parish seat of Lafourche Parish, Louisiana, United States, along the banks of Bayou Lafourche in the northwestern part of the parish."
+    },
+    {
+      "cityName": "Tickfaw",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tickfaw was founded in 1852 and is a village in Tangipahoa Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Tickfaw",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tickfaw is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Tickfaw",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was originally inhabited by Italian-American immigrants and continues to have a distinct Italian-American heritage."
+    },
+    {
+      "cityName": "Timberlane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Tullos",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tullos is a town in LaSalle and Winn parishes in the U.S. state of Louisiana, along Castor Creek."
+    },
+    {
+      "cityName": "Turkey Creek",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Turkey Creek is a village in Evangeline Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Urania",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Urania is a town in La Salle Parish, Louisiana United States."
+    },
+    {
+      "cityName": "Vacherie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans Metropolitan Area."
+    },
+    {
+      "cityName": "Vacherie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name of the place derives from the French word for cowshed."
+    },
+    {
+      "cityName": "Vacherie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On the SW side of the community used to be the 1,969\u00a0ft (600\u00a0m) WZRH/KVDU-Tower, a guyed mast noted as the tallest tower in the state of Louisiana."
+    },
+    {
+      "cityName": "Vacherie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It fell in 2021 after being damaged by Hurricane Ida."
+    },
+    {
+      "cityName": "Varnado",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Varnado is a village in Washington Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Varnado",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bogalusa Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Venice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the southern tip of the Mississippi River Delta, it lies about 77 miles south of New Orleans on the west bank of the Mississippi River."
+    },
+    {
+      "cityName": "Ventress",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of the area is approximately 1,100."
+    },
+    {
+      "cityName": "Ventress",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Hunter Fabre Post 248 American Legion Hall on Legion Road."
+    },
+    {
+      "cityName": "Vidalia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vidalia is the largest city in and the parish seat of Concordia Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vienna is a town in Lincoln Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Village Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bossier City is a city in Bossier Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Village Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the eastern bank of the Red River, Bossier City is closely tied economically and socially to its sister city, Shreveport, on the western bank."
+    },
+    {
+      "cityName": "Village Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the second-most populous city in the Shreveport\u2013Bossier City metropolitan area."
+    },
+    {
+      "cityName": "Village Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The parish operates its own community college, Bossier Parish Community College."
+    },
+    {
+      "cityName": "Ville Platte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ville Platte is the largest city in, and the parish seat of, Evangeline Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Ville Platte",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's name is of French origin, roughly translating to \"flat town\", in reference to its relatively flat topography in contrast to the more hilly terrain north of the area."
+    },
+    {
+      "cityName": "Vinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vinton is a town in Calcasieu Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Vinton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Violet",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Violet is located on the east bank of the Mississippi River, approximately 7.5 miles (12.1\u00a0km) southeast of New Orleans and is part of the Greater New Orleans area."
+    },
+    {
+      "cityName": "Vivian",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vivian is a town in Caddo Parish, Louisiana, United States and is home to the Redbud Festival."
+    },
+    {
+      "cityName": "Waggaman",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waggaman is on the West Bank of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Waggaman",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area was named for U.S. Senator George Augustus Waggaman (1782\u20131843)."
+    },
+    {
+      "cityName": "Washington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washington is a village in St. Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Washington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Opelousas\u2013Eunice Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Washington",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Washington was the largest inland port between New Orleans and St. Louis for much of the 19th century."
+    },
+    {
+      "cityName": "Waterproof",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some 24 percent of Waterproof residents in 2010 were aged sixty or above."
+    },
+    {
+      "cityName": "Welsh",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Welsh is a town in Jefferson Davis Parish, Louisiana."
+    },
+    {
+      "cityName": "Welsh",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jennings Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "West Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Monroe is the second largest city in Ouachita Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "West Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is situated on the Ouachita River, across from the neighboring city of Monroe."
+    },
+    {
+      "cityName": "West Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The two cities are often referred to as the Twin Cities of northeast Louisiana."
+    },
+    {
+      "cityName": "Westlake",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westlake is an industrial city in Calcasieu Parish, in western Louisiana, United States, and is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Westlake",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There are many chemical plants and oil refineries situated around the Westlake area."
+    },
+    {
+      "cityName": "Westwego",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburban community of New Orleans in the Greater New Orleans metropolitan area and lies along the west bank of the Mississippi River."
+    },
+    {
+      "cityName": "White Castle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "White Castle is a town in Iberville Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "White Castle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan area."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilson is a village in East Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Winnfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three governors of the state of Louisiana were from Winnfield: Huey Long, Earl K."
+    },
+    {
+      "cityName": "Winnsboro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winnsboro is a town in, and the parish seat of Franklin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Wisner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wisner is a town in Franklin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Woodmere",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Woodworth",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodworth is a town in Rapides Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Woodworth",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Youngsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Youngsville is a city in Lafayette Parish, Louisiana, United States, and is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Zwolle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zwolle is a small town in Sabine Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Zwolle",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after Zwolle, a Dutch city and the capital of the province Overijssel."
+    },
+    {
+      "cityName": "de Quincy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "DeQuincy is the northernmost city in Calcasieu Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "de Quincy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "DeQuincy is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "de Ridder",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "DeRidder is a city in, and the parish seat of, Beauregard Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "de Ridder",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A small portion of the city extends into Vernon Parish."
+    }
+  ]
+}

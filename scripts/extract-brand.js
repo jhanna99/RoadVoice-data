@@ -724,6 +724,22 @@ function normalizeCity(city, state) {
     if (city === 'St. Mary' || city === 'St Mary' || city === 'Saint Mary') return 'St. Marys';
   }
 
+  // SC-specific normalizations
+  if (state === 'SC') {
+    if (city === 'N Augusta' || city === 'N. Augusta') return 'North Augusta';
+    if (city === "Lady's Island") return 'Ladys Island';
+  }
+
+  // NC-specific normalizations
+  if (state === 'NC') {
+    if (city === 'Ashboro') return 'Asheboro';
+    if (city === 'Fuquay') return 'Fuquay-Varina';
+    if (city === 'Fort Mills') return 'Fort Mill';
+    if (city === 'Mt Pleasant' || city === 'Mt. Pleasant') return 'Mount Pleasant';
+    if (city === 'N Topsail Beach' || city === 'N. Topsail Beach') return 'North Topsail Beach';
+    if (city === 'Winston -Salem' || city === 'Winston- Salem' || city === 'Winston Salem') return 'Winston-Salem';
+  }
+
   // TX-specific normalizations
   if (state === 'TX') {
     if (city === 'Bee Caves') return 'Bee Cave';

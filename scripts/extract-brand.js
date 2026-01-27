@@ -120,7 +120,8 @@ function isHotelOrResortName(name) {
     'beach resort', 'golf course', 'country club',
     'the pearl', 'the bower', 'the estate', 'the laurel', 'the shay',
     'dream hollywood', 'gaige house', 'sparrows lodge', 'terra vita',
-    'wild palms', 'pioneertown', 'mar monte', 'marina riviera'
+    'wild palms', 'pioneertown', 'mar monte', 'marina riviera',
+    'apartments', 'byward market', 'the june', 'the walper', 'the wilfrid'
   ];
 
   for (const keyword of hotelKeywords) {
@@ -666,10 +667,15 @@ function normalizeCity(city, state) {
     if (city === 'St George') return 'St. George';
   }
 
-  // Ontario-specific normalizations (Toronto neighborhoods)
+  // Ontario-specific normalizations (Toronto neighborhoods and city variations)
   if (state === 'ON') {
     if (city === 'Scarborough' || city === 'North York') return 'Toronto';
-    if (city === 'St Catharines') return 'St. Catharines';
+    if (city === 'Barrhaven' || city === 'Orleans' || city === 'Orléans') return 'Ottawa';
+    if (city === 'St Catharines' || city === 'Saint Catharines') return 'St. Catharines';
+    if (city === 'St Thomas' || city === 'Saint Thomas') return 'St. Thomas';
+    if (city === 'Sudbury') return 'Greater Sudbury';
+    if (city === 'Bradford') return 'Bradford West Gwillimbury';
+    if (city === 'Rockland') return 'Clarence-Rockland';
   }
 
   // Alberta-specific normalizations
@@ -875,10 +881,15 @@ function normalizeCity(city, state) {
     if (city === 'Spokane City') return 'Spokane';
   }
 
-  // Quebec - Montreal variations
+  // Quebec - accent and hyphen handling
   if (state === 'QC') {
-    if (city === 'Montréal' || city === 'Montreal') return 'Montréal';
-    if (city === 'Québec' || city === 'Quebec') return 'Québec';
+    if (city === 'Montreal') return 'Montréal';
+    if (city === 'Quebec') return 'Québec';
+    if (city === 'Levis') return 'Lévis';
+    if (city === 'St-Eustache' || city === 'St. Eustache' || city === 'St Eustache') return 'Saint-Eustache';
+    if (city === 'Saint-Bruno' || city === 'St-Bruno' || city === 'St. Bruno') return 'Saint-Bruno-de-Montarville';
+    if (city === 'Lasalle' || city === 'La Salle' || city === 'LaSalle') return 'Montréal';  // LaSalle merged with Montreal in 2002
+    if (city === 'Beauport' || city === 'Sainte-Foy') return 'Québec';  // Merged with Quebec City in 2002
   }
 
   // General normalizations for abbreviated directional prefixes

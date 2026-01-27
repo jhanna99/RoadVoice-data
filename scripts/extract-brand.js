@@ -792,6 +792,16 @@ function normalizeCity(city, state) {
     if (city === 'Hazlet Twsp' || city === 'Hazlet Twsp.') return 'Hazlet Township';
   }
 
+  // CT-specific normalizations
+  if (state === 'CT') {
+    if (city === 'W Hartford' || city === 'W. Hartford') return 'West Hartford';
+    if (city === 'Stafford Springs') return 'Stafford';
+    if (city === 'Mansfield Center') return 'Mansfield';
+    if (city === 'Pomfret Center') return 'Pomfret';
+    if (city === 'Killingworth Village') return 'Killingworth';
+    if (city === 'Woodstock Valley') return 'Woodstock';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

@@ -726,10 +726,14 @@ function normalizeCity(city, state) {
 
   // General normalizations for abbreviated directional prefixes
   // E Brunswick -> East Brunswick, N Augusta -> North Augusta, etc.
-  if (city.match(/^E /)) city = 'East' + city.substring(1);
-  if (city.match(/^N /)) city = 'North' + city.substring(1);
-  if (city.match(/^S /)) city = 'South' + city.substring(1);
-  if (city.match(/^W /)) city = 'West' + city.substring(1);
+  if (city.match(/^E\.?\s+/)) city = 'East ' + city.replace(/^E\.?\s+/, '');
+  if (city.match(/^N\.?\s+/)) city = 'North ' + city.replace(/^N\.?\s+/, '');
+  if (city.match(/^S\.?\s+/)) city = 'South ' + city.replace(/^S\.?\s+/, '');
+  if (city.match(/^W\.?\s+/)) city = 'West ' + city.replace(/^W\.?\s+/, '');
+
+  // Common abbreviations
+  if (city.match(/\sHgts?$/i)) city = city.replace(/\sHgts?$/i, ' Heights');
+  if (city.match(/\sSpgs?$/i)) city = city.replace(/\sSpgs?$/i, ' Springs');
 
   // Fix "Mc " with space to "Mc" without space (Mc Allen -> McAllen)
   if (city.match(/^Mc /)) city = 'Mc' + city.substring(3);

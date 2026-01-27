@@ -4,6 +4,14 @@
       "factCount": 417,
       "checksum": "9b86638e654bf1a9b4847c2ee0884655"
     },
+    "AZ": {
+      "factCount": 558,
+      "checksum": "47aa68749da51d9ca0d3063e9f91e99c"
+    },
+    "CA": {
+      "factCount": 2670,
+      "checksum": "7209efe480d0e57f6ed44c319890876c"
+    },
     "CO": {
       "factCount": 624,
       "checksum": "ac57b1d3638965704bd18ffeb48d01c4"
@@ -19,6 +27,10 @@
     "IA": {
       "factCount": 495,
       "checksum": "e42fefc7e59f2d190411eeecd3d72c53"
+    },
+    "ID": {
+      "factCount": 280,
+      "checksum": "124fbacdd8be2437e6139fac060533ce"
     },
     "IL": {
       "factCount": 3,
@@ -40,6 +52,10 @@
       "factCount": 775,
       "checksum": "ccf84274754ad60740d9bce390d422e7"
     },
+    "MT": {
+      "factCount": 260,
+      "checksum": "8fb5b9b4a045a979e7c729795602a357"
+    },
     "NE": {
       "factCount": 187,
       "checksum": "db686467c738fc430dde3e22759c32b0"
@@ -47,6 +63,10 @@
     "NJ": {
       "factCount": 2422,
       "checksum": "1de88859e725799d7a66c08d0ebfa355"
+    },
+    "NM": {
+      "factCount": 359,
+      "checksum": "1be40a2d602c09f400d1c832e6c11dae"
     },
     "NY": {
       "factCount": 3358,
@@ -56,6 +76,10 @@
       "factCount": 1033,
       "checksum": "9bc94a0372591411f3835741bc5189be"
     },
+    "OR": {
+      "factCount": 567,
+      "checksum": "d008f63a3db8cd9e0b1b1d3d91fc40b2"
+    },
     "PA": {
       "factCount": 2128,
       "checksum": "f6a5a18a5d5406ac84762f11d42938fd"
@@ -63,6 +87,10 @@
     "SD": {
       "factCount": 295,
       "checksum": "888479ea10cda16cfe12d0f86e93355f"
+    },
+    "WA": {
+      "factCount": 820,
+      "checksum": "622e5646406062e4cbdbf186208f3c94"
     },
     "WY": {
       "factCount": 148,

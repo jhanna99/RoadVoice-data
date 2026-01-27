@@ -1,0 +1,1824 @@
+{
+  "facts": [
+    {
+      "cityName": "Anaconda",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the foot of the Anaconda Range (known locally as the \"Pintlers\"), the Continental Divide passes within 8 mi (13 km) south of the community."
+    },
+    {
+      "cityName": "Anaconda",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census the population of the consolidated city-county was 9421."
+    },
+    {
+      "cityName": "Anaconda",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As a consolidated city-county area, it ranks as the ninth most populous city in Montana, but as only a city is far smaller."
+    },
+    {
+      "cityName": "Arlee",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Alee, a Salish chief."
+    },
+    {
+      "cityName": "Arlee",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The chief's name has no \"r\", as the Salish alphabet has no letter \"r\"."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the St. Labre Indian Catholic High School, established in 1884 as a boarding school by a Catholic mission to the Cheyenne."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was established in 1881 and called Straders after the first postmaster."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ashland is immediately east of the boundary of the Northern Cheyenne Indian Reservation and also along the Tongue River."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name was changed to Ashland in 1886."
+    },
+    {
+      "cityName": "Bainville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Charles M. Bain, an early resident and the town's first postmaster."
+    },
+    {
+      "cityName": "Bainville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bainville celebrated its centennial on July 4, 2006."
+    },
+    {
+      "cityName": "Baker",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after A. G. Baker, an engineer with the Chicago, Milwaukee, St. Paul and Pacific Railroad."
+    },
+    {
+      "cityName": "Bearcreek",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bearcreek is an incorporated town in Carbon County, Montana, United States."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belgrade is part of the Bozeman, MT Metropolitan statistical area."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Belgrade and the surrounding areas experienced a significant population growth from 2010 to 2020."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2010 city population from the US Census was 7389, over 3000 fewer than in 2020."
+    },
+    {
+      "cityName": "Belt",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Belt Butte, a nearby mountain which has a dark layer resembling a belt."
+    },
+    {
+      "cityName": "Big Sandy",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Big Bud 747, claimed to be the largest farm tractor in the world, was located here from 1997 until 2009, and returned in 2020."
+    },
+    {
+      "cityName": "Big Sandy",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lewis and Clark Trail, following U S Route 87, goes through Big Sandy."
+    },
+    {
+      "cityName": "Big Sandy",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Sandy native Jeff Ament, Pearl Jam bassist, built the town a skatepark with his Montana Pool Service non-profit organization in 2010."
+    },
+    {
+      "cityName": "Big Sky",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The primary industry of the area is tourism."
+    },
+    {
+      "cityName": "Big Sky",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 3591, up from 2308 in 2010."
+    },
+    {
+      "cityName": "Big Sky",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is 45 miles (72 km) by road southwest of Bozeman."
+    },
+    {
+      "cityName": "Big Timber",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established in 1880, closed, then reopened in 1882 with Ella Burns as postmaster."
+    },
+    {
+      "cityName": "Big Timber",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As a stop on the Northern Pacific Railroad, Big Timber became a major wool-shipping depot."
+    },
+    {
+      "cityName": "Big Timber",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Timber takes its name from Big Timber Creek, which was named by William Clark because of the large cottonwood trees."
+    },
+    {
+      "cityName": "Big Timber",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It became the county seat in 1895."
+    },
+    {
+      "cityName": "Big Timber",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A fire in 1908 destroyed half the commercial buildings and a third of the residential homes."
+    },
+    {
+      "cityName": "Bigfork",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is within Montana's Rocky Mountains."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Attractions in and around Billings include ZooMontana, the Yellowstone Art Museum, Pompey's Pillar, Pictograph Cave, Chief Plenty Coups State Park, Little Bighorn Battlefield, Bighorn Canyon, Red Lodge Mountain, and the Beartooth Highway."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The northeast entrance to Yellowstone National Park is a little over 100 miles (160 km) from Billings."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Billings was nicknamed the \"Magic City\" because of its rapid growth from its founding as a railroad town in March 1882."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Billings is the trade and distribution center for much of Montana east of the Continental Divide and has one of the largest trade areas in the United States."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is also the largest retail destination for much of the same area."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located in the south-central portion of the state, it is the seat of Yellowstone County."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The nearby Crow and Cheyenne peoples call the city Ammalap\u00e1shkuua and \u00c9'\u00eaxov\u00e1ht\u00f3va respectively, meaning 'where they cut wood', named as such because of a sawmill built in the area by early white settlers."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city has experienced rapid growth and maintains a strong economy."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "From 1969 to 2021, the Billings area population growth was 89%, compared to Montana's overall increase of 59%."
+    },
+    {
+      "cityName": "Billings",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "With more hotel accommodations than any area within a five-state region, the city hosts a variety of conventions, concerts, sporting events, and other rallies."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three buildings in Boulder are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the north bank of the Boulder River between Butte and Helena, slightly east of the Continental Divide, at the intersection of Interstate 15 and Montana Highway 69."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Established in the 19th century as a stagecoach station, Boulder grew into a regional trading center for farmers, ranchers, and miners and, by the end of that century, home to state schools for the deaf, blind and developmentally disabled."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 21st century, it is the center of government in Jefferson County, and institutions based in the town offer services for disabled adults and troubled youths."
+    },
+    {
+      "cityName": "Bozeman",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 United States census put Bozeman's population at 53293, making it Montana's fourth-largest city."
+    },
+    {
+      "cityName": "Bozeman",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second-largest of Montana's statistical areas."
+    },
+    {
+      "cityName": "Bridger",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Bridger was named for the scout Jim Bridger."
+    },
+    {
+      "cityName": "Bridger",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Residents originally wanted to name the town after George Town, one of the original settlers, but Town encouraged residents to name the newly founded town after his old friend Jim Bridger."
+    },
+    {
+      "cityName": "Bridger",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Bridger Trail passes to the southeast of the town of Bridger."
+    },
+    {
+      "cityName": "Broadview",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established in 1908 and the town was incorporated in 1917."
+    },
+    {
+      "cityName": "Browning",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established in 1895."
+    },
+    {
+      "cityName": "Browning",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the headquarters for the Blackfeet Indian Reservation and was the only incorporated town on the Reservation."
+    },
+    {
+      "cityName": "Browning",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was named in 1885 for Commissioner of Indian Affairs Daniel M. Browning."
+    },
+    {
+      "cityName": "Browning",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town was disincorporated on September 26, 2018, after the town's government collapsed financially."
+    },
+    {
+      "cityName": "Cascade",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cascade was incorporated in 1911."
+    },
+    {
+      "cityName": "Chinook",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Points of interest are the Bear Paw Battlefield Museum located in the small town's center and the Bear Paw Battlefield, located 20 miles (32 km) south of Chinook."
+    },
+    {
+      "cityName": "Choteau",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Choteau is named after French fur merchant, trader and explorer Pierre Chouteau Junior, who is also the namesake of Chouteau County, Montana."
+    },
+    {
+      "cityName": "Choteau",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Pierre, South Dakota, and Pierre, South Dakota, are also named after Chouteau."
+    },
+    {
+      "cityName": "Choteau",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Originally a trading post established by A. B. Hamilton in 1873, the town was platted in 1883."
+    },
+    {
+      "cityName": "Circle",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was so named because a rancher there branded his cattle with the image of a circle."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally established in 1883 as a stage stop and post office with the name \"Betters' Station\", the town name was changed in 1892 to honor C. L. Clinton, an official of the Northern Pacific Railroad."
+    },
+    {
+      "cityName": "Clyde Park",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as Sunnyside, the town was renamed in the 1890s."
+    },
+    {
+      "cityName": "Colstrip",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Established in 1924 and incorporated as a city in 1998, Colstrip is the largest city in Rosebud County with 25.2% of the total population in 2020."
+    },
+    {
+      "cityName": "Colstrip",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Colstrip's primary industries are coal mining and electricity production."
+    },
+    {
+      "cityName": "Colstrip",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It had 4 coal fired plants from 1975 and 1976, and 1984 and 1986 respectively."
+    },
+    {
+      "cityName": "Colstrip",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The former two were shut down in 2020, while the latter two are still operating without modern pollution controls."
+    },
+    {
+      "cityName": "Colstrip",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of 2025, these are the most particulate matter polluting plants in the US."
+    },
+    {
+      "cityName": "Columbia Falls",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia Falls has been ranked as one of the best and safest places to live in Montana."
+    },
+    {
+      "cityName": "Conrad",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Each June, the Whoop Up Days, a town wide celebration that includes a parade and rodeo, takes place in Conrad."
+    },
+    {
+      "cityName": "Conrad",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was incorporated in 1908."
+    },
+    {
+      "cityName": "Cooke City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community sits northeast of Yellowstone National Park on the Beartooth Highway, which leads east to Red Lodge, Montana, on a scenic route climbing to 10947 feet (3337 m) in elevation through the Beartooth Mountains and across the Beartooth Plateau."
+    },
+    {
+      "cityName": "Cooke City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named for Jay Cooke, financier of the Northern Pacific Railroad."
+    },
+    {
+      "cityName": "Cooke City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's chief industry is tourism, which during the winter includes skiing and snowmobiling."
+    },
+    {
+      "cityName": "Cooke City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, it had a population of 77."
+    },
+    {
+      "cityName": "Cooke City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Prior to 2010, it was part of the Cooke City-Silver Gate CDP."
+    },
+    {
+      "cityName": "Crow Agency",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The ending scenes in the film Little Big Man (1970) were filmed in Crow Agency."
+    },
+    {
+      "cityName": "Crow Agency",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the governmental headquarters of the Crow Nation Native Americans."
+    },
+    {
+      "cityName": "Crow Agency",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also the location of the \"agency offices\" where the federal Superintendent of the Crow Indian Reservation and his staff (part of the Bureau of Indian Affairs, United States Department of the Interior) interacts with the Crow Tribe, pursuant to federal treaties and statutes."
+    },
+    {
+      "cityName": "Darby",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Officially established in 1889, the town was named after James W. Darby who signed the post office application."
+    },
+    {
+      "cityName": "Darby",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Darby is located near the southwestern border of Montana and Idaho, along the Continental Divide."
+    },
+    {
+      "cityName": "Deer Lodge",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2938 at the 2020 census."
+    },
+    {
+      "cityName": "Denton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Central Montana Rail, Inc."
+    },
+    {
+      "cityName": "Denton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "is headquartered in Denton."
+    },
+    {
+      "cityName": "Dillon",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for Sidney Dillon (1812\u20131892), president of Union Pacific Railroad."
+    },
+    {
+      "cityName": "Dutton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Charles E. Dutton, a general agent for Great Northern Railway."
+    },
+    {
+      "cityName": "Dutton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was originally a station on the branch line between Great Falls and Conrad."
+    },
+    {
+      "cityName": "Ennis",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Route 287 runs through town, following the Madison River as it descends from the town of West Yellowstone."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 8149 at the 2020 census, up from 7616 at the 2010 census, and 6215 in 2000."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Evergreen is a suburb of Kalispell, the county seat."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Companies located there include Busch Agricultural Resources, 3 Rivers Telephone Cooperative and Sun River Electric Cooperative."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fairfield is the self-proclaimed \"Malting Barley Capital of the World\" due to their large crops each year of malt barley."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fairfield is a trade center for the farming community."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1913, the town lies on the North Dakota border."
+    },
+    {
+      "cityName": "Florence",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "County Line Rd is on the northern edge of the city limits dividing it from Missoula County, Montana."
+    },
+    {
+      "cityName": "Forsyth",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has long been a transportation nexus, starting with steamboats on the river and progressing to the Northern Pacific Railway and Interstate 94."
+    },
+    {
+      "cityName": "Forsyth",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Forsyth was established in 1876 as the first settlement on the Yellowstone River, and in 1882 residents named the town after General James William Forsyth who commanded Fort Maginnis, Montana during the Indian Wars and the 7th Cavalry at the Wounded Knee Massacre."
+    },
+    {
+      "cityName": "Fort Benton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's waterfront area, the most important aspect of its 19th century growth, was designated the Fort Benton Historic District, a National Historic Landmark, in 1961."
+    },
+    {
+      "cityName": "Fort Benton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Established in 1846, Fort Benton is the oldest continuously occupied settlement in Montana."
+    },
+    {
+      "cityName": "Fort Benton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Benton was the most upstream navigable port on the Mississippi River System, and is considered \"the world\u2019s innermost port\"."
+    },
+    {
+      "cityName": "Froid",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Froid was named for the French word for \"cold\"."
+    },
+    {
+      "cityName": "Fromberg",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 392."
+    },
+    {
+      "cityName": "Gallatin Gateway",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 856."
+    },
+    {
+      "cityName": "Gallatin Gateway",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elevation is 4953 ft (1510 m)."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yellowstone National Park Heritage and Research Center, which opened May 18, 2005, is located in Gardiner and houses National Park Service archives, Yellowstone museum collections and reference libraries."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area has served as a main entrance to Yellowstone National Park since its creation in 1872."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gardiner was officially founded in 1880."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the community and nearby areas was 833."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Gardiner was impacted by the 2022 Montana floods."
+    },
+    {
+      "cityName": "Geraldine",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area around the town is an agricultural, largely wheat-producing, region."
+    },
+    {
+      "cityName": "Glasgow",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite being just the 23rd most populous city in Montana, Glasgow is the most populous city for over 110 mi (177 km), thus making it an important economic hub for a large region in Eastern Montana."
+    },
+    {
+      "cityName": "Glasgow",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both Amtrak and the National Weather Service operate facilities in Glasgow that link the city to the surrounding region."
+    },
+    {
+      "cityName": "Glendive",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Makoshika State Park is located just east of Glendive."
+    },
+    {
+      "cityName": "Glendive",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Glendive was established by the Northern Pacific Railway during the building of the railroad line."
+    },
+    {
+      "cityName": "Glendive",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town of Glendive is an agricultural and ranching hub of eastern Montana sited between the Yellowstone River and the Badlands."
+    },
+    {
+      "cityName": "Harlem",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Like other towns along the Hi-Line, Great Northern Railway officials chose the name of a European city for this new town."
+    },
+    {
+      "cityName": "Harlem",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Fort Belknap Indian Reservation is just south of the town, across the Milk River."
+    },
+    {
+      "cityName": "Harlem",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In this case it was Haarlem, in the Netherlands."
+    },
+    {
+      "cityName": "Harlem",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A. A. Cecil platted the townsite in 1889."
+    },
+    {
+      "cityName": "Harlowton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harlowton was founded in 1900 as a station stop on the Montana Railroad, a predecessor to the Milwaukee, and was named for Richard A. Harlow, the Montana Railroad's president."
+    },
+    {
+      "cityName": "Harlowton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Here, steam or diesel locomotives were changed or hooked up to electric locomotives for 438-mile (705 km) trip through the Rocky Mountains to Avery, Idaho."
+    },
+    {
+      "cityName": "Harlowton",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was once the eastern terminus of electric operations (1914\u201374) for the \"Pacific Extension\" of the Chicago, Milwaukee, St. Paul and Pacific Railroad (\"Milwaukee Road\")."
+    },
+    {
+      "cityName": "Haugan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The St. Regis River flows through the community."
+    },
+    {
+      "cityName": "Haugan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Haugan is situated 16 miles (26 km) east of the Idaho border and 90 miles (140 km) west of Missoula on Interstate 90 at the Haugan Exit #16."
+    },
+    {
+      "cityName": "Haugan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of Haugan was 58."
+    },
+    {
+      "cityName": "Havre",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Havre is nicknamed the crown jewel of the Hi-Line."
+    },
+    {
+      "cityName": "Havre",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is said to be named after the city of Le Havre in France."
+    },
+    {
+      "cityName": "Havre",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census the population was 9362."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Helena was founded as a gold camp during the Montana gold rush, and established on October 30, 1864."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Due to the gold rush, Helena became a wealthy city, with approximately 50 millionaires inhabiting the area by 1888."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The concentration of wealth contributed to the city's prominent, elaborate Victorian architecture."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The local daily newspaper is the Independent Record."
+    },
+    {
+      "cityName": "Helena",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is served by Helena Regional Airport (HLN)."
+    },
+    {
+      "cityName": "Hingham",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its economy is largely agricultural."
+    },
+    {
+      "cityName": "Hobson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As the freight-wagon crossing of the Judith River between Fort Benton, Montana and the Musselshell River country, the community was once known as the \u201cGateway to the Judith Basin.\u201d In 1881, the post office opened under the name Philbrook."
+    },
+    {
+      "cityName": "Hobson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1908, however, the Great Northern Railway\u2019s Billings and Northern branch line established another town four miles west."
+    },
+    {
+      "cityName": "Hobson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "After some dispute the railroad decided on the town name Hobson, after the owner of the new townsite."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hot Springs (Montana Salish: nayy\u00e1k\u02b7, Kutenai: Kutmi\u0294k) is a town on the Flathead Indian Reservation in Sanders County, Montana, United States."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Previously it was known as both Camas and Camas Hot Springs for the camas plant that grows abundantly in the region as part of the camas prairie habitat."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Founded as the settlements of Pineville and Camas in the 1890s, the town was incorporated in 1929."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's name is an amalgamation of Isabella and May, the names of the daughters of Albert J. Earling, division superintendent (later president) of the Chicago, Milwaukee and St. Paul Railway."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is the least-populous incorporated municipality in the state of Montana."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Other communities with related names include Earling, Iowa; Marmarth, North Dakota; and Alberton, Montana."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As a publicity stunt coordinated by Kansas City radio station KYYS in 1993, the town unofficially took the name of Joe, Montana, after the NFL quarterback Joe Montana."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's history and contemporary state (circa 1995) is discussed at length in travel writer Jonathan Raban's book, Bad Land: An American Romance."
+    },
+    {
+      "cityName": "Ismay",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "According to Raban, Ismay's story is emblematic of the settlement and depopulation of the northern Great Plains."
+    },
+    {
+      "cityName": "Jordan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is Garfield County's only incorporated community."
+    },
+    {
+      "cityName": "Kalispell",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Among cities in Montana, it is the 8th largest by area, 7th most populous, and 8th fastest growing from 2010 to 2020."
+    },
+    {
+      "cityName": "Kalispell",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Kalispell is a Salish word meaning \"flat land above the lake\"."
+    },
+    {
+      "cityName": "Kalispell",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2020 census put Kalispell's population at 24558."
+    },
+    {
+      "cityName": "Kalispell",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The latest estimates put the population at 31296."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1892 the town was called Stoner, named after John J. Stoner, proprietor of a hotel near the shores of Flathead Lake."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "West Shore State Park is 5 miles south of town."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A community named Lakeside already existed in Roosevelt County."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "With its demise in 1920, this town changed its name."
+    },
+    {
+      "cityName": "Lame Deer",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after Miniconjou Lakota chief Lame Deer, who was killed by the U S Army in 1877 under a flag of truce south of the town."
+    },
+    {
+      "cityName": "Lame Deer",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This is the location of the Chief Dull Knife College and the annual Northern Cheyenne Powwow."
+    },
+    {
+      "cityName": "Lame Deer",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was the site of a trading post from the late 1870s."
+    },
+    {
+      "cityName": "Lame Deer",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the tribal and government agency headquarters of the Northern Cheyenne Indian Reservation."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel is located in the Yellowstone Valley as an east\u2013west terminal division point of the BNSF Railway."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Laurel is home to a Cenex Harvest States oil refinery and BNSF's Laurel Yard, the largest rail yard between St. Paul, Minnesota and Pasco, Washington."
+    },
+    {
+      "cityName": "Lavina",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town became a stage stop in 1882."
+    },
+    {
+      "cityName": "Lavina",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town incorporated in 1920."
+    },
+    {
+      "cityName": "Lewistown",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "First planned in 1882, it was the site of an 1880s gold rush, and served as an important railway destination, supplying surrounding communities with bricks via rail."
+    },
+    {
+      "cityName": "Lewistown",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lewistown is located in the geographic center of the state, southeast of Great Falls and northwest of Billings."
+    },
+    {
+      "cityName": "Lima",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 212."
+    },
+    {
+      "cityName": "Livingston",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in southwestern Montana, on the Yellowstone River, north of Yellowstone National Park."
+    },
+    {
+      "cityName": "Livingston",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 8040."
+    },
+    {
+      "cityName": "Lockwood",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is not an organized city or town."
+    },
+    {
+      "cityName": "Lodge Grass",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the confluence of Lodge Grass Creek and the Little Bighorn River, on the Crow Indian Reservation."
+    },
+    {
+      "cityName": "Lolo",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Travelers' Rest State Park, a site where Lewis and Clark camped in 1805 and again in 1806."
+    },
+    {
+      "cityName": "Medicine Lake",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On July 5, 1937, Medicine Lake recorded a temperature of 117 \u00b0F (47 \u00b0C), setting the record for the highest temperature ever recorded in Montana."
+    },
+    {
+      "cityName": "Melstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "He happened to be on a train where the person sitting next to him, the railroad president, asked his name and impulsively decided to name the community after him."
+    },
+    {
+      "cityName": "Melstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was established in 1908 as a base for operating crews on the Chicago, Milwaukee, St. Paul and Pacific Railroad, then under construction in Montana."
+    },
+    {
+      "cityName": "Melstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although the railroad was abandoned in 1980, Melstone survives as a community center for farmers and ranchers in the lower Musselshell River valley."
+    },
+    {
+      "cityName": "Melstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Melstone was named for Melvin Stone, a journalist for the Chicago Tribune."
+    },
+    {
+      "cityName": "Melstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Melstone Oil Field west of town developed in the 1950s and saw renewed production in the 1990s."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "By the 1990s, Missoula's lumber industry had gradually disappeared, and as of 2009, the city's largest employers were the University of Montana, Missoula County Public Schools, and Missoula's two hospitals."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to both of Montana's largest and its oldest active breweries, as well as the Montana Grizzlies."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The arrival of the Northern Pacific Railway in 1883 brought rapid growth and the maturation of the local lumber industry."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Along with the U S Forest Service headquarters founded in 1908, lumber and the university remained the basis of the local economy for the next 100 years."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Missoula is home to the University of Montana, a public research university."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Missoula was founded in 1860 as Hellgate Trading Post while still part of Washington Territory."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In 1893, the Montana Legislature chose Missoula as the site for the state's first university."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Missoula area was settled by people of European descent from 1858, including William T. Hamilton, who set up a trading post along the Rattlesnake Creek; Captain Richard Grant, who settled near Grant Creek; and David Pattee, who settled near Pattee Canyon."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "By 1866, the settlement had moved east, 5 miles (8 km) upstream, and had been renamed \"Missoula Mills\", later shortened to Missoula."
+    },
+    {
+      "cityName": "Missoula",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The mills provided supplies to western settlers traveling along the Mullan Road."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was established as a station on the St. Paul, Minneapolis & Manitoba Railway in 1888."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nashua had a brief economic boom during the building of Fort Peck Dam in the 1930s."
+    },
+    {
+      "cityName": "Outlook",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village includes a post office which services Outlook and the hamlet of Raymond, as well as the surrounding countryside."
+    },
+    {
+      "cityName": "Pablo",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Salish Kootenai College and the seat of government of the Flathead Indian Reservation."
+    },
+    {
+      "cityName": "Philipsburg",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after the famous mining engineer Philip Deidesheimer, who designed and supervised the construction of the ore smelter around which the town originally formed."
+    },
+    {
+      "cityName": "Philipsburg",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He platted the townsite in 1867."
+    },
+    {
+      "cityName": "Pinesdale",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated in 1980."
+    },
+    {
+      "cityName": "Pinesdale",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was settled in the early 1960s by fundamentalist Mormons, who selected its secluded location for the privacy."
+    },
+    {
+      "cityName": "Plains",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was established in 1883 as a Northern Pacific Railroad station."
+    },
+    {
+      "cityName": "Plains",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded as Horse Plains and sometimes called Wild Horse Plains, as the local Native Americans would winter their horses here to feed on the grasses in the valley."
+    },
+    {
+      "cityName": "Plains",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name was later shortened to Plains when the US Postal Service established a presence in 1905."
+    },
+    {
+      "cityName": "Plevna",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plevna was founded in 1909 along the Milwaukee Road transcontinental rail line known as the Pacific Extension."
+    },
+    {
+      "cityName": "Plevna",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bulgarian railroad workers named the town after the city of Pleven in Bulgaria."
+    },
+    {
+      "cityName": "Polson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1898 the city was named after pioneer rancher David Polson."
+    },
+    {
+      "cityName": "Polson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Polson (Montana Salish: n\u010dmqn\u00e9tk\u02b7, Kutenai: kwataqnuk) (, POHL-s\u0259n) is a city in Lake County, Montana, United States, on the southern shore of Flathead Lake and within the Flathead Indian Reservation."
+    },
+    {
+      "cityName": "Polson",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated in 1910."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the tribal headquarters for the Fort Peck Indian Reservation, though Wolf Point is the most populous."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The reservation is home to both the Assiniboine and Sioux Tribes, two distinct American Indian Nations."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The U S Army constructed Camp Poplar here in the 1870s to oversee the reservation."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Poplar became reservation headquarters after the military abandoned the camp in 1893."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Poplar hosts a Native American Pow Wow called Poplar Indian Days every year, the first weekend in September that is well attended by locals and traveling dancers with prizes for dancers and drummers."
+    },
+    {
+      "cityName": "Red Lodge",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 2257."
+    },
+    {
+      "cityName": "Rexford",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town began with the construction of the Great Northern Railway\u2019s branch line from Jennings to Fernie, British Columbia in 1901."
+    },
+    {
+      "cityName": "Rexford",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rexford incorporated in 1966 in order to negotiate with the U S Army Corps of Engineers during construction of the Libby Dam."
+    },
+    {
+      "cityName": "Richey",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has a strong agriculture economy with wheat, oats and barley as the main crops as well as significant cattle and sheep ranches."
+    },
+    {
+      "cityName": "Richey",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clyde Richey opened a post office in 1911."
+    },
+    {
+      "cityName": "Ronan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is on the Flathead Indian Reservation."
+    },
+    {
+      "cityName": "Roundup",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in 1909."
+    },
+    {
+      "cityName": "Ryegate",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ryegate is situated on the north bank of the Musselshell River."
+    },
+    {
+      "cityName": "Ryegate",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Milwaukee Road established Ryegate in 1908 as a depot and station stop."
+    },
+    {
+      "cityName": "Saint Ignatius",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Ignatius (Salish: sny\u00e9l\u0313mn, Ktunaxa: \u0294a\u00b7kikq\u01c2a\u01c2a\u01c2uk\u0313p\u01c2i\u0294it) or Saint Ignatius is a town in Lake County, Montana, United States."
+    },
+    {
+      "cityName": "Saint Regis",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Northern Pacific Railway built a railroad through the town in the early 1900's, boosting the economy."
+    },
+    {
+      "cityName": "Saint Regis",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He named the river, after which the town takes its name, after a fellow Jesuit priest."
+    },
+    {
+      "cityName": "Saint Regis",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pierre-Jean De Smet travelled extensively in this area of Montana."
+    },
+    {
+      "cityName": "Saint Regis",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The post office opened in 1896."
+    },
+    {
+      "cityName": "Scobey",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scobey is known for its bird and big game hunting."
+    },
+    {
+      "cityName": "Scobey",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearby Mansfield A. Daniels House is listed on the NRHP."
+    },
+    {
+      "cityName": "Seeley Lake",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town contains a site listed on the National Register of Historic Places, Double Arrow Lodge."
+    },
+    {
+      "cityName": "Seeley Lake",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town sits beside the 1030-acre (420 ha) Seeley Lake."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sheridan is a town in Madison County, Montana, United States named after the Civil War general Philip Sheridan."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sheridan is known as the \"heart of the Ruby Valley.\" Seven mountain ranges surround the town: Tobacco Root Mountains, Highland Mountains, McCartney Mountain, The Pioneers, The Ruby Range, The Gravelly Range and the Snowcrest Range."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Ruby River winds through the valley just west of the town."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sheridan traces its beginnings to the construction of a sawmill on Mill Creek by James Gammell in 1863."
+    },
+    {
+      "cityName": "Sidney",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies along the Yellowstone River."
+    },
+    {
+      "cityName": "Sidney",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sidney is approximately midway between Glendive, Montana and Williston, North Dakota."
+    },
+    {
+      "cityName": "Stanford",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanford was frequented by C M Russell and is featured in some of his landscape paintings."
+    },
+    {
+      "cityName": "Stevensville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stevensville is officially recognized as the first permanent settlement of non-indigenous peoples in the state of Montana."
+    },
+    {
+      "cityName": "Stevensville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Forty-eight years before Montana became the nation's 41st state, Stevensville was settled by Jesuit Missionaries at the request of the Bitterroot Salish tribe."
+    },
+    {
+      "cityName": "Sunburst",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is roughly 30 miles north of Shelby and is near the Canada\u2013US border."
+    },
+    {
+      "cityName": "Twin Bridges",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies at the confluence of the Ruby, Beaverhead and Big Hole rivers which form the Jefferson River."
+    },
+    {
+      "cityName": "Twin Bridges",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Twin Bridges is a well-known fly fishing mecca for trout anglers."
+    },
+    {
+      "cityName": "Vaughn",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Montana pioneer Robert Vaughn, whose homestead on the Vaughn Ranch encompassed part of the town."
+    },
+    {
+      "cityName": "Virginia City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1961 the town and the surrounding area were designated a National Historic Landmark District, the Virginia City Historic District."
+    },
+    {
+      "cityName": "Virginia City",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Virginia City was the territorial capital of Montana from 1865 to 1875."
+    },
+    {
+      "cityName": "Walkerville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of Walkerville is included in the Butte-Anaconda Historic District."
+    },
+    {
+      "cityName": "Walkerville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Walkerville represents some of the earliest mines in the district and preserves the early mining camp flavor present in the 1890s to 1910s."
+    },
+    {
+      "cityName": "Walkerville",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Walkerville is a suburb of Butte, and the only other incorporated community in the county, as well as the only part of the county that is not part of Butte."
+    },
+    {
+      "cityName": "West Glacier",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is at the west entrance to Glacier National Park and is located on U S Route 2 and a main line of the BNSF Railway."
+    },
+    {
+      "cityName": "West Glacier",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The headquarters complex for Glacier National Park is located nearby."
+    },
+    {
+      "cityName": "West Glacier",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census it had a population of 221."
+    },
+    {
+      "cityName": "West Yellowstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Yellowstone offers lodging, gift shops, and other services to travelers visiting nearby Yellowstone National Park."
+    },
+    {
+      "cityName": "West Yellowstone",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "West Yellowstone is served by Yellowstone Airport."
+    },
+    {
+      "cityName": "Whitefish",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 United States census, there were 7751 people in the city."
+    },
+    {
+      "cityName": "Winifred",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1913 and provides services for its region's populace."
+    },
+    {
+      "cityName": "Winifred",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town population was 172 at the 2020 census."
+    },
+    {
+      "cityName": "Winnett",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In addition to county government offices, Winnett's businesses and services include a general store, two filling/service stations, a post office, a school system with grades K-12, an event venue completed in 2023, a motel, 2 RV parks, a campground, and a bar-and-grill."
+    },
+    {
+      "cityName": "Winnett",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Local news is reported from the Roundup Record Tribune & Winnett Times."
+    },
+    {
+      "cityName": "Winnett",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is published weekly and also available online."
+    },
+    {
+      "cityName": "Winnett",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The nearest medical facilities are in Lewistown."
+    },
+    {
+      "cityName": "Wisdom",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes three tourist lodgings, service station, grocery, school (K-8), post office and a Forest Service office."
+    },
+    {
+      "cityName": "Wisdom",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It rose to 104 in 2020."
+    },
+    {
+      "cityName": "Wolf Creek",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1887, the Montana Central Railway built its line through the narrow Prickly Pear Canyon, and the town of Wolf Creek, named for the creek, grew to serve the railroad."
+    },
+    {
+      "cityName": "Wolf Creek",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It later served workers building the Holter Dam from 1908\u20131910."
+    },
+    {
+      "cityName": "Wolf Creek",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Interstate 15 split the town in half, nearly obliterating it."
+    },
+    {
+      "cityName": "Wolf Point",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wolf Point is the home of the annual Wild Horse Stampede, and the Wadopana Pow-wow, the oldest traditional pow wow in Montana."
+    }
+  ]
+}

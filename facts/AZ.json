@@ -1,0 +1,3910 @@
+{
+  "facts": [
+    {
+      "cityName": "Aguila",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Major economic activities include cantaloupe farming and formerly included mining."
+    },
+    {
+      "cityName": "Aguila",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It uses the same street numbering system as Phoenix."
+    },
+    {
+      "cityName": "Aguila",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of Aguila was 565, down from 798 in 2010."
+    },
+    {
+      "cityName": "Ajo",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ajo is located on State Route 85 just 43 miles (69 km) from the Mexican border."
+    },
+    {
+      "cityName": "Alhambra",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The campus is located at 3839 West Camelback Road, northwest of downtown Phoenix, Arizona, United States."
+    },
+    {
+      "cityName": "Alhambra",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Alhambra High School is a high school that forms part of the Phoenix Union High School District in Phoenix, Arizona."
+    },
+    {
+      "cityName": "Alhambra",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The school predominantly serves students from partner elementary districts Alhambra, Isaac and Phoenix Elementary, although students from across the district come to Alhambra for its Phoenix Union Magnet Program\u2014Medical and Health Studies."
+    },
+    {
+      "cityName": "Anthem",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of Anthem was 23190."
+    },
+    {
+      "cityName": "Apache Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the junction of the Apache Trail and Old West Highway."
+    },
+    {
+      "cityName": "Apache Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Superstition Mountain, the westernmost peak of the Superstition Mountains, is to the east."
+    },
+    {
+      "cityName": "Apache Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 38499, most of whom lived in Pinal County."
+    },
+    {
+      "cityName": "Apache Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The area where Apache Junction is located used to be known as Youngberg."
+    },
+    {
+      "cityName": "Arizona City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arizona City is a rural, primarily residential community that features a 48-acre (19 ha) man-made lake."
+    },
+    {
+      "cityName": "Arizona City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is estimated to be approximately 11030 as of a 2017 U S Census estimate."
+    },
+    {
+      "cityName": "Arizona City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "These attributes make the community a popular snowbird destination, with the population increasing by as much as 5000 people in the winter months to reach the census figure of 11030."
+    },
+    {
+      "cityName": "Ash Fork",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 396 at the 2010 U S census, down from 457 in 2000."
+    },
+    {
+      "cityName": "Avondale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 89334, up from 76238 in 2010 and 35883 in 2000."
+    },
+    {
+      "cityName": "Avondale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Avondale, incorporated in 1946, has experienced rapid residential and commercial growth in the years since 1980."
+    },
+    {
+      "cityName": "Avondale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Once primarily a sparsely populated farming community with many acres of alfalfa and cotton fields, Avondale has transformed into a major bedroom suburb for Phoenix."
+    },
+    {
+      "cityName": "Bapchule",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bapchule locality is geographically situated at a southern coordinate to the Gila River Valley."
+    },
+    {
+      "cityName": "Bapchule",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Bapchule is unincorporated, it has a post office (P O Boxes only) with the ZIP code of 85121."
+    },
+    {
+      "cityName": "Bapchule",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most of Bapchule is located in Pinal County, while a portion of it in the north is in Maricopa County."
+    },
+    {
+      "cityName": "Bellemont",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a known water stop due to its local springs."
+    },
+    {
+      "cityName": "Bellemont",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of June 2012, it had an estimated population of 893."
+    },
+    {
+      "cityName": "Benson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 5355."
+    },
+    {
+      "cityName": "Benson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded as a rail terminal for the area, and is located approximately 45 miles (72 km) east-southeast of the city of Tucson."
+    },
+    {
+      "cityName": "Big Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bell Rock scenic area adjoins the north end of VOC, and the town is surrounded by the Coconino National Forest."
+    },
+    {
+      "cityName": "Big Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Big Park is the name of the CDP while the community is more commonly known as the Village of Oak Creek (VOC), and is a bedroom community for Sedona, located seven miles away."
+    },
+    {
+      "cityName": "Big Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Park, the pioneers' name for the large open area that became the Village of Oak Creek in the early 1960s, is set among scenic red-rock buttes and canyons."
+    },
+    {
+      "cityName": "Big Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A Forest Service Visitor Center is located at the south end of VOC."
+    },
+    {
+      "cityName": "Big Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Tourism and service to retirees and second-home owners are the basis for the local economy."
+    },
+    {
+      "cityName": "Bisbee",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the town was 4923, down from 5575 in the 2010 census."
+    },
+    {
+      "cityName": "Bowie",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 U S Census the population of Bowie was 449."
+    },
+    {
+      "cityName": "Buckeye",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 91502, up from 50876 in 2010, and 6537 in 2000."
+    },
+    {
+      "cityName": "Buckeye",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the fastest-growing city in the United States for 2017, 2018, and 2021."
+    },
+    {
+      "cityName": "Bullhead City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The nearby communities of Laughlin, Needles, Fort Mohave and Mohave Valley bring the Bullhead area's total population to over 77000, making it the largest economic region in Mohave County."
+    },
+    {
+      "cityName": "Bullhead City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bullhead City is located at the southern end of Lake Mohave."
+    },
+    {
+      "cityName": "Bullhead City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of Bullhead City was 41348."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the town's economy is tourist food and craft stalls, restaurants, and other services for north\u2013south traffic from Flagstaff and Page."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after Ralph H. Cameron, one of the two senators first appointed (Henry F. Ashurst being the other) to U S Congress for Arizona, upon its federal recognition of statehood."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There is a ranger station supplying information and hiking permits for the Navajo Nation."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There is also a large craft store run by the Nation itself."
+    },
+    {
+      "cityName": "Camp Verde",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Other annual local events include the Pecan, Wine and Antiques Festival (February), the Crawdad Festival (June), and Fort Verde Days (October)."
+    },
+    {
+      "cityName": "Camp Verde",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Camp Verde (Yavapai: \u02bcMatthi:wa; Western Apache: Gamb\u00fadih) is a town in Yavapai County, Arizona, United States."
+    },
+    {
+      "cityName": "Camp Verde",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, the population of the town is 10873."
+    },
+    {
+      "cityName": "Camp Verde",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Every summer, the downtown area of Camp Verde is the site of the annual Corn Fest; held each year on the third Saturday in July, the popular event is sponsored and organized by local growers, Hauser and Hauser Farms."
+    },
+    {
+      "cityName": "Carefree",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 United States census, the population of the town was 3690."
+    },
+    {
+      "cityName": "Casa Grande",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the Casa Grande Ruins National Monument which is actually located in Coolidge."
+    },
+    {
+      "cityName": "Casa Grande",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Casa Grande is Spanish for \"big house\"."
+    },
+    {
+      "cityName": "Casa Grande",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Among resident English speakers, there is no consensus on how to pronounce the city's name.As of 2025 the population of Casa Grande is 70156."
+    },
+    {
+      "cityName": "Casas Adobes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Casas Adobes is situated south and southwest of the town of Oro Valley, and west of the community of Catalina Foothills."
+    },
+    {
+      "cityName": "Casas Adobes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The attempted assassination of Representative Gabby Giffords, and the murders of chief judge for the U S District Court for Arizona, John Roll, and five other people on January 8, 2011, took place at a Safeway supermarket in Casas Adobes."
+    },
+    {
+      "cityName": "Catalina",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Catalina continues to experience increasing population growth, while attempting to maintain its rural character."
+    },
+    {
+      "cityName": "Catalina Foothills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the southern foothills of the Santa Catalina Mountains, Catalina Foothills had a population of 50796 at the 2010 census."
+    },
+    {
+      "cityName": "Cave Creek",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 4892."
+    },
+    {
+      "cityName": "Chambers",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chambers is located at the junction of Interstate 40 and U S Route 191, 45 miles (72 km) northeast of Holbrook."
+    },
+    {
+      "cityName": "Chinle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name in Navajo means 'flowing out' and is a reference to the location where the water flows out of the Canyon de Chelly."
+    },
+    {
+      "cityName": "Chino Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 United States census, the population of the town is 13020."
+    },
+    {
+      "cityName": "Clarkdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarkdale, formerly a mining town, is now largely a retirement community and arts community."
+    },
+    {
+      "cityName": "Clarkdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Verde River flows through the town as does Bitter Creek, an intermittent tributary of the river."
+    },
+    {
+      "cityName": "Clarkdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2021 census, the population of the town was 4419."
+    },
+    {
+      "cityName": "Claypool",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after W. D. Claypool, a member of both the State House of Representatives and State Senate in the 1910s and 1920s."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a place of the Arizona copper mine strike of 1983."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clifton and Morenci are thought to be an economic area by the Arizona Department of Commerce."
+    },
+    {
+      "cityName": "Colorado City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Colorado City, Arizona, incorporated in September 1985, was established by residents seeking local self-government and essential services."
+    },
+    {
+      "cityName": "Colorado City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is notable as a colony of Mormon polygamists, together with neighboring Hildale, Utah."
+    },
+    {
+      "cityName": "Congress",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once a gold-mining center for the Congress Mine and then a ghost town, Congress now serves as a retirement and bedroom community for nearby Wickenburg."
+    },
+    {
+      "cityName": "Coolidge",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coolidge is home of the Casa Grande Ruins National Monument."
+    },
+    {
+      "cityName": "Coolidge",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The monument was the first historic site to receive protected status by the United States Government in 1892."
+    },
+    {
+      "cityName": "Coolidge",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Coolidge is also home to both Central Arizona College and the Central Arizona Valley Institute of Technology."
+    },
+    {
+      "cityName": "Cordes Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Agua Fria National Monument lies to the east and south of the community and Arcosanti is to the north."
+    },
+    {
+      "cityName": "Cordes Junction",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cordes Junction, at the intersection of Arizona State Route 69 and I-17, is located within the CDP of Cordes Lakes."
+    },
+    {
+      "cityName": "Cordes Lakes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Agua Fria National Monument lies to the east and south of the community and Arcosanti is to the north."
+    },
+    {
+      "cityName": "Cordes Lakes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cordes Junction, at the intersection of Arizona State Route 69 and I-17, is located within the CDP of Cordes Lakes."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornville and Page Springs are rapidly growing suburban areas that serve as bedroom communities for nearby Sedona and Cottonwood."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both communities are located along Oak Creek, a tributary of the Verde River."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Page Springs hosts a large fish hatchery operated by the Arizona Game and Fish Department."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lower Oak Creek has been designated an Important Bird Area by the National Audubon Society."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Adjacent to the hatchery are creekside hiking trails and bird-watching areas."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Cornville's best-known resident was U S Senator and 2008 Republican presidential nominee John McCain."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "McCain's home in the community, referred to in the media as his \"Sedona Cabin,\" is where he and his running-mate, Alaska governor Sarah Palin, prepared for their debates."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "On August 25, 2018, McCain died in his home in Cornville."
+    },
+    {
+      "cityName": "Cottonwood",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population of the city is 11265."
+    },
+    {
+      "cityName": "Dateland",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in an area well known for date palm dates."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1925 as Davis\u2013Monthan Landing Field."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The base is best known as the location of the Air Force Materiel Command's 309th Aerospace Maintenance and Regeneration Group (309 AMARG), the Aircraft graveyard for all excess military and U S government aircraft and aerospace vehicles."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Davis\u2013Monthan Air Force Base (DM AFB) (IATA: DMA, ICAO: KDMA, FAA LID: DMA) is a United States Air Force base 5 miles (4 nmi; 8 km) southeast of downtown Tucson, Arizona."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The host unit for Davis\u2013Monthan AFB is the 355th Wing (355 WG) assigned to Twelfth Air Force (12AF), part of Air Combat Command (ACC)."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Davis\u2013Monthan Air Force Base is a key ACC installation."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The 355th Wing (355 WG) provides A-10 Thunderbolt II close air support and OA-10 forward air controllers to ground forces worldwide."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The 355 WG is the host unit, providing medical, logistical, mission, and operational support to assigned units."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The 355 WG is the sole formal training unit for the A-10 aircraft, providing initial and recurrent training to all U S Air Force A-10 and OA-10 pilots, to include those in the Air Force Reserve Command (AFRC) and the Air National Guard (ANG)."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The 355th is ACC's executive agent for INF and START treaty compliance."
+    },
+    {
+      "cityName": "Davis-Monthan AFB",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In October 2018, the 563rd Rescue Group, previously a geographically separated unit of the 23rd Wing at Moody AFB, Georgia, was transferred to the 355th Wing, along with its HC-130J COMBAT KING II and HH-60G Pave Hawk aircraft."
+    },
+    {
+      "cityName": "Deer Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Deer Valley is located in the city of Phoenix, Arizona, United States."
+    },
+    {
+      "cityName": "Deer Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The origin of the name is unclear; it first appeared on a 1921 United States General Land Office map of the area describing the valley created by Skunk Creek."
+    },
+    {
+      "cityName": "Deer Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2010, the population was 165656, 25% of whom were under 18 years of age."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Douglas has a border crossing with Mexico at Agua Prieta and a history of mining."
+    },
+    {
+      "cityName": "Dragoon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 209."
+    },
+    {
+      "cityName": "Dragoon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dragoon is 17 miles (27 km) east-northeast of the city of Benson, and about 57 miles (92 km) southeast of Tucson, Arizona."
+    },
+    {
+      "cityName": "Drexel Heights",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is said to be named after financier Francis Anthony Drexel, the father of Saint Katharine Drexel (who established missions to Blacks and Native Americans throughout the United States)."
+    },
+    {
+      "cityName": "Drexel Heights",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Drexel Road was likely named after Saint Katharine Drexel."
+    },
+    {
+      "cityName": "Drexel Heights",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Drexel is said to have owned property in the Drexel Heights area and eastward during the late 19th century, although no proof has ever been found that he owned land in the area."
+    },
+    {
+      "cityName": "Drexel Heights",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Francis A. Drexel died in 1885."
+    },
+    {
+      "cityName": "Drexel Heights",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "However, her father Francis A. Drexel didn't own land in the area as has been claimed in the past."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Duncan High School (mascot: Wildkat; school colors: red, grey, and white) competes in many sports, Fall- Mens \"8 Man\" Football AIA Div 1, Ladies VolleyBall, M/W Cross-country; Winter - M/W Basketball; Spring - Mens Baseball, Womens Softball, M/W Tennis, M/W Golf, M/W Track & Field."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Supreme Court Justice Sandra Day O'Connor was born in El Paso, Texas, but grew up near Duncan on the Lazy B ranch, which straddles the border between Arizona and New Mexico."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Duncan is in the Gila River valley, four miles (6 km) west of the Arizona\u2013New Mexico border."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town limits are on both sides of the Gila River, but the primary portion of the town and the entire downtown area lies on the south side of the river."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2010 census, the population of the town was 696."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 2018 the estimated population was 789."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Duncan was founded in the mid-19th century, and the land was added to the United States as a part of the Mexican Cession, and the Gadsden Purchase."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town of Duncan has been destroyed twice by flood and once by fire."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "(Freeport-McMoRan Inc., Morenci & Safford copper mines in southeastern Arizona and Chino & Tyrone in southwestern New Mexico)."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Day family ran the ranch for many years until selling it; it continues to be run as a ranch."
+    },
+    {
+      "cityName": "Eagar",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area was the home of the Apache people."
+    },
+    {
+      "cityName": "Eagar",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the population of the town was 4885."
+    },
+    {
+      "cityName": "Eagar",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town of Eagar was first settled by European Americans in 1871."
+    },
+    {
+      "cityName": "East Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the largest relief airport in the Phoenix area, Phoenix\u2013Mesa Gateway Airport, located in the southeastern corner of the city."
+    },
+    {
+      "cityName": "East Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At least ten colleges and universities were located in Mesa, as is the Mesa Arizona Temple, one of the first LDS temples constructed outside of Utah."
+    },
+    {
+      "cityName": "East Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It borders Tempe on the west, the Salt River Pima\u2013Maricopa Indian Community on the north, Chandler and Gilbert on the south along with Queen Creek, and Apache Junction on the east."
+    },
+    {
+      "cityName": "Ehrenberg",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ehrenberg is named for its founder, Herman Ehrenberg."
+    },
+    {
+      "cityName": "Ehrenberg",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ehrenberg is located on the Colorado River, which forms the border with Riverside County, California, near the city of Blythe."
+    },
+    {
+      "cityName": "El Mirage",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 35805, up from 31797 in 2010."
+    },
+    {
+      "cityName": "Eloy",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the city is 15635."
+    },
+    {
+      "cityName": "Encanto",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village, centered along Central Avenue, is home to the popular Midtown and Melrose Districts, as well as many historic neighborhoods, including Encanto, its namesake."
+    },
+    {
+      "cityName": "Encanto",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Encanto Village is one of the 15 Urban villages that make up the City of Phoenix, in Arizona."
+    },
+    {
+      "cityName": "Encanto",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2010, Encanto had a population of 54614 residents."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Flagstaff has a strong tourism sector, due to its proximity to Grand Canyon National Park, Oak Creek Canyon, the Arizona Snowbowl, Meteor Crater, and Historic Route 66."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Flagstaff lies near the southwestern edge of the Colorado Plateau and within the San Francisco volcanic field, along the western side of the largest contiguous ponderosa pine forest in the continental United States."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The geology of the area includes exposed rock from the Mesozoic and Paleozoic eras, with Moenkopi Formation red sandstone having once been quarried in the city; many of the historic downtown buildings were constructed with it."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1930, Pluto was discovered from Flagstaff."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Local businessmen lobbied for Route 66 to pass through the city, which it did, turning the local industry from lumber to tourism and developing downtown Flagstaff."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city remains an important distribution hub for companies such as Nestl\u00e9 Purina PetCare, and is home to the U S Naval Observatory Flagstaff Station, the U S Geological Survey, and Northern Arizona University."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city sits at around 7000 feet (2100 m) and is next to Mount Elden, just south of the San Francisco Peaks, the highest mountain range in the state of Arizona."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Rio de Flag river runs through the city, but only flows in response to rain or snowmelt."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "As of the 2020 United States census, the city's population was 76831."
+    },
+    {
+      "cityName": "Flagstaff",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Humphreys Peak, the highest point in Arizona at 12637 feet (3852 m), is about 10 miles (16 km) north of Flagstaff in Kachina Peaks Wilderness."
+    },
+    {
+      "cityName": "Flowing Wells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Tucson."
+    },
+    {
+      "cityName": "Flowing Wells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Flowing Wells community was given an All-America City Award by the National Civic League in 2007."
+    },
+    {
+      "cityName": "Fort McDowell",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort McDowell is 23 miles northeast of Phoenix."
+    },
+    {
+      "cityName": "Fort Mohave",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The largest single employer in Fort Mohave is Valley View Medical Center."
+    },
+    {
+      "cityName": "Fort Mohave",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2013, Fort Mohave became the home of a 200+ acre photovoltaic solar generating plant."
+    },
+    {
+      "cityName": "Fort Mohave",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is named for a nearby fort that was used during the Mohave War."
+    },
+    {
+      "cityName": "Fort Mohave",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of Fort Mohave was 16190, up from 14364 in 2010 and 8919 in 2000."
+    },
+    {
+      "cityName": "Fort Mohave",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The plant was built east of Vanderslice Road between Joy Lane and Lipan Boulevard."
+    },
+    {
+      "cityName": "Fortuna Foothills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Development of the area began in the 1960s, when local developer Hank Schechert purchased 3000 acres east of Yuma."
+    },
+    {
+      "cityName": "Fortuna Foothills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fortuna Foothills serves as a bedroom community for Yuma, Yuma Proving Ground, and Marine Corps Air Station Yuma."
+    },
+    {
+      "cityName": "Fortuna Foothills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fortuna Foothills is also an area with a large amount of seasonal residents."
+    },
+    {
+      "cityName": "Fountain Hills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its impressive fountain, which can shoot water to a height of 560 feet (170 m), it borders the Fort McDowell Yavapai Nation, Salt River Pima-Maricopa Indian Community, and Scottsdale."
+    },
+    {
+      "cityName": "Fountain Hills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Between the 1990 and 2000 censuses it was the eighth-fastest-growing place among cities and towns in Arizona."
+    },
+    {
+      "cityName": "Fountain Hills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The median value of an owner-occupied housing during the period 2016\u20132020 was estimated at $402100."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 1314."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fredonia is the gateway to the North Rim of the Grand Canyon."
+    },
+    {
+      "cityName": "Ganado",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Hubbell Trading Post National Historic Site in Ganado is maintained as an example of a 19th-century trading post."
+    },
+    {
+      "cityName": "Ganado",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ganado is part of the Fort Defiance Agency, of the Bureau of Indian Affairs; and is the delegate seat for the district that encompasses the Jeddito, Cornfields, Ganado, Kinlichee, and Steamboat communities at the Navajo Nation Council."
+    },
+    {
+      "cityName": "Gila Bend",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for an approximately 90-degree bend in the Gila River, which is near the community's current location."
+    },
+    {
+      "cityName": "Gila Bend",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gila Bend (; O'odham: Hila Wi:n), founded in 1872, is a town in Maricopa County, Arizona, United States."
+    },
+    {
+      "cityName": "Gila Bend",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of the town was 1892."
+    },
+    {
+      "cityName": "Gila Bend",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Just outside the town is the San Lucy district (O'odham: Weco Cek\u1e63an\u012d) of the Tohono O'odham Nation, with a small settlement, San Lucy (O'odham: Si:l Mek) bordering the town itself."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilbert is the most populous incorporated town in the United States and has been described as the \u201clargest town in America.\u201d Incorporated on July 6, 1920, Gilbert was once known as the \"Hay Shipping Capital of the World\"."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located southeast of Phoenix, Gilbert is home to 293630 residents."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the fourth-most populous municipality in Arizona and is considered a suburb of Phoenix."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located about nine miles northwest of the state capital, as a suburb of Phoenix, Glendale is known for State Farm Stadium, which is the home of the Arizona Cardinals football team."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city also contains the Arrowhead Towne Center shopping mall."
+    },
+    {
+      "cityName": "Glendale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Glendale had a population of 248325."
+    },
+    {
+      "cityName": "Globe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Globe Downtown Historic District was added to the National Register of Historic Places in 1987."
+    },
+    {
+      "cityName": "Globe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "1875 as a mining camp."
+    },
+    {
+      "cityName": "Globe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mining, tourism, government and retirees are most important in the present-day Globe economy."
+    },
+    {
+      "cityName": "Globe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 7249."
+    },
+    {
+      "cityName": "Gold Camp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is sometimes incorrectly called Gold Camp."
+    },
+    {
+      "cityName": "Gold Camp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name is referred to as Gold Camp on weather statements issued by the National Weather Service (as seen in citation)."
+    },
+    {
+      "cityName": "Gold Camp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The closest city to Gold Canyon is Apache Junction, Arizona."
+    },
+    {
+      "cityName": "Gold Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is sometimes incorrectly called Gold Camp."
+    },
+    {
+      "cityName": "Gold Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name is referred to as Gold Camp on weather statements issued by the National Weather Service (as seen in citation)."
+    },
+    {
+      "cityName": "Gold Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The closest city to Gold Canyon is Apache Junction, Arizona."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The canyon and adjacent rim are contained within Grand Canyon National Park, the Kaibab National Forest, Grand Canyon\u2013Parashant National Monument, the Hualapai Indian Reservation, the Havasupai Indian Reservation and the Navajo Nation."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "President Theodore Roosevelt was a major proponent of the preservation of the Grand Canyon area and visited it on numerous occasions to hunt and enjoy the scenery."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Nearly two billion years of Earth's geological history have been exposed as the Colorado River and its tributaries cut their channels through layer after layer of rock while the Colorado Plateau was uplifted."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "While some aspects about the history of incision of the canyon are debated by geologists, several recent studies support the hypothesis that the Colorado River established its course through the area about 5 to 6 million years ago."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Since that time, the Colorado River has driven the down-cutting of the tributaries and retreat of the cliffs, simultaneously deepening and widening the canyon."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6093 feet or 1857 meters)."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "For thousands of years, the area has been continuously inhabited by Native Americans, who built settlements within the canyon and its many caves."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The Pueblo people considered the Grand Canyon a holy site, and made pilgrimages to it."
+    },
+    {
+      "cityName": "Grand Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The first European known to have viewed the Grand Canyon was Garc\u00eda L\u00f3pez de C\u00e1rdenas from Spain, who arrived in 1540."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since its founding, Guadalupe has been known as a center of Yaqui culture, and it is home to many religious festivals."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The cemetery of Guadalupe was established in 1904, in the original townsite."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town motto, \"where three cultures flourish\", recognizes the town's roots in the Yaquis, Mexicans and descendants of the original farmers."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Nestled between Phoenix and Tempe, the 2020 census listed the population of the town as 5322."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Guadalupe was founded around 1900 by Yaqui Indians, who fled their homeland in Sonora to avoid oppression by the Mexican government of Porfirio D\u00edaz."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The cemetery is now officially located in Tempe, due to that city's annexation of the land surrounding the cemetery; however, it is still administered by the Guadalupe Clerk's Office."
+    },
+    {
+      "cityName": "Guadalupe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Guadalupe is primarily a residential area; most residents commute to other parts of the Phoenix area to work."
+    },
+    {
+      "cityName": "Hayden",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population of the town was 662."
+    },
+    {
+      "cityName": "Heber",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Heber was settled in 1883 by members of the Church of Jesus Christ of Latter-day Saints (LDS Church), and the town is named after either Heber J. Grant or Heber C. Kimball, both prominent members of the LDS church."
+    },
+    {
+      "cityName": "Heber",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "1936 and was named after the owner of the first sawmill, Kristen Kristensen (Chris) Overgaard."
+    },
+    {
+      "cityName": "Heber",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Heber\u2013Overgaard's early economy was founded on dry farming and ranching while tourism, retirement and timbering are the basis for present day industry."
+    },
+    {
+      "cityName": "Heber",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Heber and Overgaard are technically two unincorporated communities, but as of the 1990 census, their proximity led to the merged name of \"Heber\u2013Overgaard\"."
+    },
+    {
+      "cityName": "Heber",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Overgaard, adjoining Heber, was settled ca."
+    },
+    {
+      "cityName": "Hereford",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hereford Station Post Office is located at the far western end of Nicksville, at the foot of the Huachuca Mountains."
+    },
+    {
+      "cityName": "Hereford",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hereford is a populated place in Cochise County along the San Pedro Riparian National Conservation Area in the southern part of the U S state of Arizona."
+    },
+    {
+      "cityName": "Hereford",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The elevation is 4193 feet at the location of the original townsite at the far eastern end of the unincorporated area; the residential area runs for another 8 miles west from this location, blending into the unincorporated area of Nicksville at an elevation of approximately 4800 feet."
+    },
+    {
+      "cityName": "Higley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2010, almost all of Higley has been annexed into Gilbert or the neighboring cities of Mesa and Queen Creek."
+    },
+    {
+      "cityName": "Higley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "All that officially remains of Higley as an independent community is the school district, Higley Unified School District, however, some remaining commercial buildings in and around the original townsite are still standing and operate as small businesses."
+    },
+    {
+      "cityName": "Holbrook",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holbrook was founded in 1881 or 1882, when the railroad was built, and named to honor the first chief engineer of the Atlantic and Pacific Railroad, Henry Randolph Holbrook."
+    },
+    {
+      "cityName": "Holbrook",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 census, the population of the city was 5053."
+    },
+    {
+      "cityName": "Huachuca City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 1626."
+    },
+    {
+      "cityName": "Huachuca City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Huachuca, a U S Army base, is located just south of the municipality."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jerome became a National Historic Landmark in 1967."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By the early 21st century, it had art galleries, coffeehouses, restaurants, a state park, and a local museum devoted to mining history."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In total, the copper deposits discovered in Jerome's vicinity were among the richest ever found."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Production at the mines, always subject to fluctuations, boomed during World War I, fell thereafter, rose again, then fell again during and after the Great Depression."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Founded in the late 19th century on Cleopatra Hill overlooking the Verde Valley, Jerome is approximately 100 miles (160 km) north of Phoenix along State Route 89A between Sedona and Prescott."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Supported in its heyday by rich copper mines, it was home to more than 10000 people in the 1920s."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of the 2020 census, its population was 464."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town owes its existence mainly to two ore bodies that formed about 1.75 billion years ago along a ring fault in the caldera of an undersea volcano."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Tectonic plate movements, plate collisions, uplift, deposition, erosion, and other geologic processes eventually exposed the tip of one of the ore bodies and pushed the other close to the surface, both near Jerome."
+    },
+    {
+      "cityName": "Jerome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In the late 19th century, the United Verde Mine, developed by William A. Clark, extracted ore bearing copper, gold, silver, and other metals from the larger of the two."
+    },
+    {
+      "cityName": "Joseph City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2010, there were 1386 inhabitants."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kayenta is located 25 miles (40 km) south of Monument Valley and contains a number of hotels and motels which serve visitors to Monument Valley."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kayenta (Navajo: T\u00f3 D\u00edn\u00e9eshzhee\u02bc meaning \"Fingers of Water\" because of how water runs down the rocks when it rains) is a U S town which is part of the Navajo Nation and is in Navajo County, Arizona, United States."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Established November 13, 1986, the Kayenta Township is unique in currently being the only \"township\" existing under the laws of the Navajo Nation."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Like other places on the Navajo Nation, it is illegal to serve alcohol."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Arizona does not observe Daylight Time; however, the Navajo Nation does."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Kayenta Township is the only municipal-style government on the Navajo Nation."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is regarded as a political sub-division of the Navajo Nation."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It is managed by a five-member elected town board, which hires the township manager."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Kayenta is the name for the Chapter, as well as the township."
+    },
+    {
+      "cityName": "Kayenta",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Kayenta Chapter (a political division within the Navajo Nation that is analogous to a county within a state) encompasses land in both Utah and Arizona."
+    },
+    {
+      "cityName": "Keams Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pongsikya is a narrow box canyon that is named after a plant of edible greens that survived along the seasonal stream that drains from Antelope Mesa and flows through the 3 mi (5 km) long canyon."
+    },
+    {
+      "cityName": "Keams Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Here William Keam, and then his cousin Thomas Keam, operated a trading post during the last quarter of the nineteenth century."
+    },
+    {
+      "cityName": "Keams Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "They served the Navajo Indians and opened the door to commercial trade for the Hopi Indians."
+    },
+    {
+      "cityName": "Keams Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The nearest trading post was some 50 mi (80 km) away and Keam's trading post was 13 mi (21 km) east of the Hopi Indian's settlements on First Mesa."
+    },
+    {
+      "cityName": "Keams Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "With the opportunity for full year round trade nearby, the regional Indians quickly identified the canyon with the traders and the name Keams Canyon took hold."
+    },
+    {
+      "cityName": "Kearny",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after General Stephen Watts Kearny, who passed through the area on November 7, 1846, while leading 100 dragoons to California."
+    },
+    {
+      "cityName": "Kearny",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 census, the population of the town is 1950."
+    },
+    {
+      "cityName": "Kearny",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The economic base of Kearny and nearby towns is the Ray mine and Hayden Smelter, both owned and operated by ASARCO."
+    },
+    {
+      "cityName": "Kingman",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Lewis Kingman, an engineer for the Atlantic and Pacific Railroad."
+    },
+    {
+      "cityName": "Lake Havasu",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is served by Lake Havasu City Airport."
+    },
+    {
+      "cityName": "Lake Havasu",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 57144, up from 52527 in 2010."
+    },
+    {
+      "cityName": "Lake Havasu City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is served by Lake Havasu City Airport."
+    },
+    {
+      "cityName": "Lake Havasu City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 57144, up from 52527 in 2010."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1984 when the neighboring towns of Pinetop and Lakeside merged."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pinetop\u2013Lakeside is a popular summer resort and second-home area for Arizona desert residents."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to 2020 census, the population of the town is 4030."
+    },
+    {
+      "cityName": "Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2002, a large forest fire, the Rodeo\u2013Chediski Fire, threatened the town and forced an evacuation."
+    },
+    {
+      "cityName": "Laveen",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laveen Village is split between District 7 and District 8, both notable as minority-majority districts for the city."
+    },
+    {
+      "cityName": "Laveen",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Laveen has been home to \"pastoral alfalfa, cotton, and dairy farms\" since the 1880s, housing and commercial developments have been increasingly urbanizing the area."
+    },
+    {
+      "cityName": "Leupp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had been closed before the US entry into World War II."
+    },
+    {
+      "cityName": "Leupp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1902 an Indian boarding school was constructed here, administered by the Bureau of Indian Affairs."
+    },
+    {
+      "cityName": "Leupp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1942 the facility was converted for use as the Leupp Isolation Center, designed to detain Japanese and Japanese-American internees from the several larger internment camps established by the War Relocation Authority to hold citizens and immigrants from the West Coast."
+    },
+    {
+      "cityName": "Leupp",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "They were sent here if characterized as troublemakers; some were men trying to regain their rights as American citizens."
+    },
+    {
+      "cityName": "Litchfield Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 6847, up from 5476 in 2010."
+    },
+    {
+      "cityName": "Littlefield",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies just south of Interstate 15, next to the Virgin River, approximately 10 miles (16 km) northeast of Mesquite, Nevada."
+    },
+    {
+      "cityName": "Littlefield",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 256, a decline from the figure of 308 tabulated in 2010."
+    },
+    {
+      "cityName": "Mammoth",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 1076."
+    },
+    {
+      "cityName": "Marana",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 51908."
+    },
+    {
+      "cityName": "Marble Canyon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is partially located within the Glen Canyon National Recreation Area and the Grand Canyon National Park."
+    },
+    {
+      "cityName": "Maricopa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With 76654 residents as of 2024, Maricopa is the largest incorporated municipality in Pinal County."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maryvale is a comprehensive high school known for maintaining the best attendance and graduation rate (91.4%) in the district."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Students also have the opportunity to be dual enrolled with Phoenix College earning college credit alongside their high school credit."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Maryvale High School is part of the Phoenix Union High School District."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The school opened in 1963 and is located at 3415 North 59th Avenue northwest of downtown Phoenix."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The first graduating class was in 1964."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Maryvale's enrollment is 2861 students."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The school predominantly serves students from partner elementary districts Cartwright and Isaac."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Maryvale's curriculum consists of over 60 AP and Honors sections in all academic and elective classes."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Maryvale seniors consistently receive scholarships totaling over $1000000."
+    },
+    {
+      "cityName": "Maryvale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Maryvale's staff includes six National Board Certified Teachers."
+    },
+    {
+      "cityName": "Mayer",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mayer includes three sites listed on the National Register of Historic Places: the Mayer Apartments, the Mayer Business Block, and the Mayer Red Brick Schoolhouse."
+    },
+    {
+      "cityName": "Meadview",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in the 1960s as a retirement community and is still largely one, as well as a vacation spot for people coming to enjoy Lake Mead."
+    },
+    {
+      "cityName": "Meadview",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Meadview had 1420 residents, up from 1224 as of 2010."
+    },
+    {
+      "cityName": "Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the largest relief airport in the Phoenix area, Phoenix\u2013Mesa Gateway Airport, located in the southeastern corner of the city."
+    },
+    {
+      "cityName": "Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At least ten colleges and universities were located in Mesa, as is the Mesa Arizona Temple, one of the first LDS temples constructed outside of Utah."
+    },
+    {
+      "cityName": "Mesa",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It borders Tempe on the west, the Salt River Pima\u2013Maricopa Indian Community on the north, Chandler and Gilbert on the south along with Queen Creek, and Apache Junction on the east."
+    },
+    {
+      "cityName": "Miami",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Miami's old downtown has been partly renovated, and the Bullion Plaza Museum features the cultural, mining and ranching history of the Miami area."
+    },
+    {
+      "cityName": "Miami",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Miami is a classic Western copper boom-town."
+    },
+    {
+      "cityName": "Miami",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2010 Census, the population of the town was 1837."
+    },
+    {
+      "cityName": "Mohave Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is geographically connected to Needles, California, Fort Mohave and Bullhead City."
+    },
+    {
+      "cityName": "Munds Park",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The year round population was 631 at the 2010 census."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nogales forms Arizona's largest transborder agglomeration with its adjacent, much larger twin Nogales, Sonora, across the Mexican border."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named for the black walnut trees which once grew abundantly in the mountain pass between the cities of Nogales, Arizona, and Nogales, Sonora, and can still be found around the town."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nogales forms part of the larger Tucson\u2013Nogales combined statistical area, with a total population of 1027683 as of the 2010 Census."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The southern terminus of Interstate 19 is located in Nogales at the U.S.\u2013Mexico border; the highway continues south into Mexico as Mexico Federal Highway 15."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The highways meeting in Nogales are a major road intersection in the CANAMEX Corridor, connecting Canada, the United States, and Mexico."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Nogales is home to four international ports of entry, including the Morley Pedestrian Port of Entry, Dennis Deconcini Pedestrian and Passenger Vehicle Port of Entry, Union Pacific rail, Nogales International Airport, and the Mariposa Port of Entry."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Nogales-Mariposa Port of Entry has twelve passenger vehicle inspection lanes and eight commercial inspection lanes."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Due to its location on the border and its major ports of entry, Nogales funnels an estimated $30 billion worth of international trade into Arizona and the United States, per year, in fresh produce and manufactured goods from Mexico and the world through the deep sea port in Guaymas, Sonora, Mexico."
+    },
+    {
+      "cityName": "Nogales",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "This trade helps to support tens of thousands of jobs and the overall economies in Ambos Nogales and throughout the American state of Arizona and the Mexican state of Sonora."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oracle State Park is adjacent."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prior to the construction of the Catalina Highway on the opposite side of the Santa Catalina range, the Oracle Control Road was the only road access to the mountain community of Summerhaven."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This route is now popular mainly with off-road 4x4 drivers and with off-road or dual-purpose motorcyclists, and should not be attempted by regular passenger cars or street motorcycles."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Arizona Trail passes through the Park and community."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Oracle is the gateway to the road up the north face of Mount Lemmon, which starts off of American Avenue and currently offers a secondary route to the top."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The term \"control road\" derives from the fact that the direction of traffic was restricted to one-way only, either up or down at alternate times of day, to prevent motorists from having to pass one another on the narrow, steep road."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "This road ends at the Catalina Highway near Loma Linda."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The community is the location of the Biosphere 2 experiment."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Oracle was also the postal address for environmentalist author Edward Abbey, who never lived in the town but visited often."
+    },
+    {
+      "cityName": "Oracle",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Buffalo Bill Cody owned the High Jinks Gold Mine in Oracle briefly and, in 1911, appeared as \"Santa\" for a group of local children."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town hosted the 2006 Pac-10 Women's Golf Championships at the Oro Valley Country Club which was also the site for the 2006 Girls' Junior America's Cup, a major amateur golf tournament for the Western United States."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Annual events in Oro Valley include the Oro Valley Festival of the Arts, El Tour de Tucson, the Oro Valley Music Festival, the Tucson Marathon, the Cactus Speed Classic for inline skaters, the Oro Valley Triathlon, and the Arizona Distance Classic."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Oro Valley is situated in the western foothills of the Santa Catalina Mountains at the base of Pusch Ridge."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Tortolita Mountains are located north of the town and vistas of the Tucson valley are to the south."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Oro Valley, incorporated in 1974, is a suburban town located 6 miles (9.7 km) north of Tucson, Arizona, United States, in Pima County."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Dubbed the \"Upscale Tech Mecca\" of Southern Arizona by the Arizona Daily Star, Oro Valley is home to over 10 high tech firms and has a median household income nearly 50% higher than the U S median."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town occupies the middle Ca\u00f1ada del Oro Valley."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Oro Valley hosts a large number of residents from around the US who maintain second or winter homes in the town."
+    },
+    {
+      "cityName": "Oro Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "According to the 2020 census, the population of the town is 47070, an increase from 29700 in 2000."
+    },
+    {
+      "cityName": "Overgaard",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Heber was settled in 1883 by members of the Church of Jesus Christ of Latter-day Saints (LDS Church), and the town is named after either Heber J. Grant or Heber C. Kimball, both prominent members of the LDS church."
+    },
+    {
+      "cityName": "Overgaard",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "1936 and was named after the owner of the first sawmill, Kristen Kristensen (Chris) Overgaard."
+    },
+    {
+      "cityName": "Overgaard",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Heber\u2013Overgaard's early economy was founded on dry farming and ranching while tourism, retirement and timbering are the basis for present day industry."
+    },
+    {
+      "cityName": "Overgaard",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Heber and Overgaard are technically two unincorporated communities, but as of the 1990 census, their proximity led to the merged name of \"Heber\u2013Overgaard\"."
+    },
+    {
+      "cityName": "Overgaard",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Overgaard, adjoining Heber, was settled ca."
+    },
+    {
+      "cityName": "Page",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of the city was 7247."
+    },
+    {
+      "cityName": "Paradise Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is known for its golf courses, resorts and restaurants, the workshop of Paolo Soleri, and close proximity to Scottsdale and Phoenix."
+    },
+    {
+      "cityName": "Paradise Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's name comes from the expansive area known as Paradise Valley that spreads from north of the Phoenix Mountains to Cave Creek and Carefree on the north and the McDowell Mountains to the east."
+    },
+    {
+      "cityName": "Paradise Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2020 census, its population was 12658."
+    },
+    {
+      "cityName": "Paradise Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Resident children in the majority of the municipality attend schools in the Scottsdale Unified School District."
+    },
+    {
+      "cityName": "Parker",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 3417."
+    },
+    {
+      "cityName": "Patagonia",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 21st century, it is a tourist destination, retirement community, and arts and crafts center."
+    },
+    {
+      "cityName": "Patagonia",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, it had a population of 913."
+    },
+    {
+      "cityName": "Patagonia",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It developed in the mid-19th century as a trading and supply center for nearby mines and ranches."
+    },
+    {
+      "cityName": "Paulden",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paulden is a census designated place (CDP) in Yavapai County, Arizona, United States."
+    },
+    {
+      "cityName": "Payson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Payson boasts a lively festival calendar, including The World's Oldest Continuous Rodeo established in 1884, as well as the Arizona State Old Time Fiddlin' Championship, which celebrates the area's musical heritage."
+    },
+    {
+      "cityName": "Payson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is surrounded by the Tonto National Forest, the largest of the six national forests in Arizona\u2014and the ninth largest national forest in the United States."
+    },
+    {
+      "cityName": "Payson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Due to Payson's location being very near to the geographic center of Arizona, it has been called \"The Heart of Arizona.\" Payson is also considered part of the colloquially defined Northern Arizona region, and the town serves as a gateway to the vast wilderness of the Colorado Plateau."
+    },
+    {
+      "cityName": "Payson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of Payson was 16361."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At 4400 feet of elevation, the area is also known for its milder summers which make it ideal for quality grapes and vineyards (recognized as an American Viticultural Area)."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pearce is best known as a historic ghost town."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pearce is located between the Cochise Stronghold, Chiricahua National Monument, and the winter Sandhill Crane refuge of Whitewater Draw making it popular for birders, history buffs, hikers, and climbers alike."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sunsites, founded in 1961, adjoins Pearce, and the Sunizona and Richland developments are nearby."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The two communities are often referred to as Pearce\u2013Sunsites, Pearce/Sunsites, or Pearce Sunsites."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Pearce\u2013Sunsites economy is based on retirees and tourism."
+    },
+    {
+      "cityName": "Pearce",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fittsburg was the site of the Commonwealth Mine and is located about one mile east of Pearce."
+    },
+    {
+      "cityName": "Peeples Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peeples Valley is named for prospector A. H. Peeples, who was the leader of the group that discovered Rich Hill, a gold deposit at Weaver, Arizona, in 1863."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the spring training home of the San Diego Padres and Seattle Mariners, who share Peoria Sports Complex."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after Peoria, Illinois."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most of the city is located in Maricopa County, while a portion of it in the north is in Yavapai County."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is a major suburb of Phoenix."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, the population of Peoria was 190985, up from 154065 in 2010."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The word peoria is a corruption of the Miami-Illinois word for \"prairie fire\"."
+    },
+    {
+      "cityName": "Peridot",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peridot is named for the mineral peridot, found in basalt flows nearby."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The site, the northern part of which extends into the Painted Desert, was declared a national monument in 1906 and a national park in 1962."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The park's headquarters is about 26 miles (42 km) east of Holbrook along Interstate 40 (I-40), which parallels the BNSF Railway's Southern Transcon, the Puerco River, and historic U S Route 66, all crossing the park roughly east\u2013west."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Petrified Forest National Park is a national park of the United States in Navajo and Apache counties in northeastern Arizona."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Petrified Forest is known for its fossils, especially fallen trees that lived in the Late Triassic Epoch, about 225 million years ago."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "More than 1000 archeological sites, including petroglyphs, have been discovered in the park."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Named for its large deposits of petrified wood, the park covers about 346 square miles (900 square kilometers), encompassing semi-desert shrub steppe as well as highly eroded and colorful badlands."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In the 16th century, Spanish explorers visited the area, and by the mid-19th century a U S team had surveyed an east\u2013west route through the area where the park is now located and noted the petrified wood."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Later, roads and a railway followed similar routes and gave rise to tourism and, before the park was protected, to large-scale removal of fossils."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The park received 644922 recreational visitors in 2018."
+    },
+    {
+      "cityName": "Petrified Forest",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Averaging about 5400 feet (1600 m) in elevation, the park has a dry windy climate with temperatures that vary from summer highs of about 100 \u00b0F (38 \u00b0C) to winter lows well below freezing."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "These remained the driving forces of the city until after World War II, when high-tech companies began to move into the valley and air conditioning made Phoenix's hot summers more bearable."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the northeastern reaches of the Sonoran Desert and is known for its hot desert climate."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Phoenix is also one of the largest plurality Hispanic cities in the United States, with 42% of its population being Hispanic."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Phoenix was settled in 1867 as an agricultural community near the confluence of the Salt and Gila Rivers and was incorporated as a city in 1881."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Phoenix ( FEE-niks) is the capital and most populous city of the U S state of Arizona."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "With over 1.6 million residents at the 2020 census, Phoenix is the fifth-most populous city in the United States and the most populous state capital."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It became the capital of Arizona Territory in 1889."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Its canal system led to a thriving farming community with the original settlers' crops, such as alfalfa, cotton, citrus, and hay, remaining important parts of the local economy for decades."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Cotton, cattle, citrus, climate, and copper were known locally as the \"Five C's\" anchoring Phoenix's economy."
+    },
+    {
+      "cityName": "Phoenix",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Phoenix is the cultural center of Arizona."
+    },
+    {
+      "cityName": "Picacho",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Picacho is located near Interstate 10, 4.5 miles (7.2 km) southeast of Eloy and 7 miles (11 km) northwest of Picacho Peak State Park."
+    },
+    {
+      "cityName": "Picacho",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community's name is Spanish for \"peak\" and is derived from the Picacho Mountains."
+    },
+    {
+      "cityName": "Picacho",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "By late 2012, parts of Picacho were to be removed under Arizona eminent domain law on account of Interstate 10 expansion."
+    },
+    {
+      "cityName": "Pima",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of the town was 2387, up from 1989 in 2000."
+    },
+    {
+      "cityName": "Pima",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The estimated population in 2018 was 2512."
+    },
+    {
+      "cityName": "Pima",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Despite its name, it is not located in nearby Pima County."
+    },
+    {
+      "cityName": "Pine",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pine's elevation is 5369 feet (1636 m), and the Pine post office was established in 1884."
+    },
+    {
+      "cityName": "Pine",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pine was established by four Mormon families in 1879."
+    },
+    {
+      "cityName": "Pine",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pine and the adjacent community of Strawberry are rapidly growing vacation and retirement centers in north-central Arizona, below the Mogollon Rim."
+    },
+    {
+      "cityName": "Pinetop",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1984 when the neighboring towns of Pinetop and Lakeside merged."
+    },
+    {
+      "cityName": "Pinetop",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pinetop\u2013Lakeside is a popular summer resort and second-home area for Arizona desert residents."
+    },
+    {
+      "cityName": "Pinetop",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to 2020 census, the population of the town is 4030."
+    },
+    {
+      "cityName": "Pinetop",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2002, a large forest fire, the Rodeo\u2013Chediski Fire, threatened the town and forced an evacuation."
+    },
+    {
+      "cityName": "Pinetop-Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1984 when the neighboring towns of Pinetop and Lakeside merged."
+    },
+    {
+      "cityName": "Pinetop-Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pinetop\u2013Lakeside is a popular summer resort and second-home area for Arizona desert residents."
+    },
+    {
+      "cityName": "Pinetop-Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to 2020 census, the population of the town is 4030."
+    },
+    {
+      "cityName": "Pinetop-Lakeside",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2002, a large forest fire, the Rodeo\u2013Chediski Fire, threatened the town and forced an evacuation."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is host to the self-proclaimed \"World's Oldest Rodeo\", running continuously since 1888."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The towns of Prescott Valley, 7 miles (11 km) east; Chino Valley, 16 miles (26 km) north; Dewey-Humboldt, 13 miles (21 km) east, and Prescott comprise what is locally known as the \"Quad-City\" area."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Prescott has a rich history as a frontier gold and silver mining town."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mining and settlers brought frequent conflict with native American tribes in the area, including the Yavapai and Apache."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The rodeo, one of the most famous in the United States, draws some 35000 tourists a year."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "This also sometimes refers to central Yavapai County in general, which would include the towns of: Mayer, Paulden, Wilhoit, and Williamson Valley."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of 2020 Census, the city's population was 45827."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "In 1864, Prescott was designated as the capital of the Arizona Territory, replacing the temporary capital of Fort Whipple."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The territorial capital was moved to Tucson in 1867."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Prescott again became the territorial capital in 1877, until Phoenix became the capital in 1889."
+    },
+    {
+      "cityName": "Prescott Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 United States census, Prescott Valley has a population of 46785 residents."
+    },
+    {
+      "cityName": "Quartzsite",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population was 2413."
+    },
+    {
+      "cityName": "Quartzsite",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 10 runs directly through Quartzsite which is at the intersection of U S Route 95 and Arizona State Route 95 with I-10."
+    },
+    {
+      "cityName": "Rimrock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along Interstate 17, it is 20 miles (32 km) south of Sedona and 8 miles (13 km) north of Camp Verde in central Arizona's Verde Valley."
+    },
+    {
+      "cityName": "Rimrock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The CDP includes the communities of Rimrock and McGuireville."
+    },
+    {
+      "cityName": "Rio Rico",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Rio Rico CDP replaced the former CDPs of Rio Rico Northwest, Rio Rico Northeast, Rio Rico Southwest, and Rio Rico Southeast."
+    },
+    {
+      "cityName": "Sacaton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the capital of the Gila River Indian Community."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "SaddleBrooke, Arizona is located just north of Oro Valley, AZ."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the foothills of the Catalina Mountains."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eagle Crest is a smaller all age subdivision that is part of the SaddleBrooke (CDP)."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "and close to Tucson AZ."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The 3400 ft elevation in the foothills results in cooler year round temperatures compared to many other Arizona locations."
+    },
+    {
+      "cityName": "Saddlebrooke",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It has rolling and changing in topography and elevation changes"
+    },
+    {
+      "cityName": "Safford",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 Census, the population of the city is 10129."
+    },
+    {
+      "cityName": "Sahuarita",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sahuarita is located south of the Tohono O'odham Nation and abuts the north end of Green Valley, 15 miles (24 km) south of Tucson."
+    },
+    {
+      "cityName": "Sahuarita",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2022 population estimate was 35638."
+    },
+    {
+      "cityName": "Saint Johns",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of the city was 3480."
+    },
+    {
+      "cityName": "Saint Michaels",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Navajo Nation Government Campus is located within the chapter at Window Rock."
+    },
+    {
+      "cityName": "Salome",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1904 by Dick Wick Hall, Ernest Hall and Charles Pratt, and was named after Pratt's wife, Grace Salome Pratt."
+    },
+    {
+      "cityName": "San Carlos",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "San Carlos' economy is underdeveloped and is based mainly on retail service industries, construction trades, and public administration."
+    },
+    {
+      "cityName": "San Luis",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "San Luis, located in the southwest corner of the state directly adjacent to Mexico's Federal Highway 2 at San Luis Rio Colorado, was the second fastest-growing city or town in Arizona from 1990 to 2000."
+    },
+    {
+      "cityName": "San Luis",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to 2022 Census Bureau estimates, the population of the city is 35770."
+    },
+    {
+      "cityName": "San Simon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, it had a population of 165."
+    },
+    {
+      "cityName": "San Simon",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "San Simon is located along Interstate 10, 40 miles (64 km) east of Willcox."
+    },
+    {
+      "cityName": "San Tan Valley",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Proposition 495, a measure to incorporate San Tan Valley as a municipality, passed in 2025."
+    },
+    {
+      "cityName": "Sanders",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sanders is located at the junction of U S Route 191 and Interstate 40."
+    },
+    {
+      "cityName": "Sanders",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 575."
+    },
+    {
+      "cityName": "Scottsdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is bordered by the city of Phoenix to the west, Tonto National Forest to the north, the McDowell Mountains to the east, and the Salt River to the south."
+    },
+    {
+      "cityName": "Scottsdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Named Scottsdale in 1894 after its founder Winfield Scott, a retired U S Army chaplain, the city was incorporated in 1951 with a population of 2000."
+    },
+    {
+      "cityName": "Scottsdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its slogan is \"The West's Most Western Town\"."
+    },
+    {
+      "cityName": "Scottsdale",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Over the past two decades, it has been one of the fastest growing cities and housing markets in the United States."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is within the Coconino National Forest."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sedona's main attraction is its array of pink sandstone formations."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sedona was named after Sedona Schnebly, whose husband, Theodore Carlton Schnebly, was the city's first postmaster."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The pink rocks form a popular backdrop for many activities, ranging from spiritual pursuits to the hundreds of hiking and mountain biking trails."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2010 census, its population was 10031."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The formations appear to glow in pink when illuminated by the rising or setting sun."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "She was celebrated for her hospitality and industriousness."
+    },
+    {
+      "cityName": "Sedona",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Her mother, Amanda Miller, claimed to have made the name up because \"it sounded pretty\"."
+    },
+    {
+      "cityName": "Seligman",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the stops on historic U S Route 66."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the capital of the Tohono O'odham Nation and the home of several tribal businesses, such as Tohono O'Odham Ki:Ki Association."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was originally named Indian Oasis by cattle-ranchers/businessmen brothers Joseph and Louis M\u00e9nager in 1912."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The M\u00e9nager brothers also built and ran the Indian Oasis Mercantile Store."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The settlement took its present English name in 1918 to honor Indian Commissioner Cato Sells."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The O'odham name means \"tortoise got wedged\"."
+    },
+    {
+      "cityName": "Sells",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Sells is near the Kitt Peak National Observatory."
+    },
+    {
+      "cityName": "Show Low",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was established in 1870 and incorporated in 1953."
+    },
+    {
+      "cityName": "Show Low",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 United States census, the population of the city was 11732."
+    },
+    {
+      "cityName": "Sierra Vista Southeast",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the neighborhoods Ramsey Canyon, and Sierra Vista Estates within its boundaries."
+    },
+    {
+      "cityName": "Snowflake",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1878 by Erastus Snow and William Jordan Flake, Mormon pioneers."
+    },
+    {
+      "cityName": "Snowflake",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Apache Railway provides freight service."
+    },
+    {
+      "cityName": "Snowflake",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Snowflake is 25 miles (40 km) south of Interstate 40 (formerly U S Route 66) via Highway 77."
+    },
+    {
+      "cityName": "Somerton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Somerton was established in 1898 and incorporated in 1918."
+    },
+    {
+      "cityName": "Somerton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census the population was 14287."
+    },
+    {
+      "cityName": "Somerton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Somerton's economy is based on agriculture, medical services, and tourism."
+    },
+    {
+      "cityName": "Sonoita",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The origin of the name of the CDP is the O'odham \u1e62on \u02bcOidag, which may be best translated as \"spring field\"."
+    },
+    {
+      "cityName": "South Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Tucson is known for being heavily influenced by Hispanic, and especially Mexican, culture; restaurants and shops which sell traditional Mexican food and other goods can be found throughout the city."
+    },
+    {
+      "cityName": "South Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, the population of the city is 4613."
+    },
+    {
+      "cityName": "Springerville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Along with its neighbor Eagar, the communities make up the place known as Round Valley, which is in the central-eastern part of Arizona close to the New Mexico border."
+    },
+    {
+      "cityName": "Springerville",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the population of the town was 1961."
+    },
+    {
+      "cityName": "Stanfield",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shamrock Farms operates a farm in Stanfield."
+    },
+    {
+      "cityName": "Sun City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its adjoining sister city is Sun City West."
+    },
+    {
+      "cityName": "Sun City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both Sun Cities are retirement communities popular with snowbirds."
+    },
+    {
+      "cityName": "Sun Lakes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sun Lakes is an active adult community comprising five country club communities in three homeowner associations."
+    },
+    {
+      "cityName": "Sun Lakes",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "These include the gated communities of Oakwood and IronWood (IronOaks), the gated and non-gated communities of Palo Verde and Cottonwood (Cottonwood Palo Verde), and the non-gated community of Sun Lakes 1."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At 4400 feet of elevation, the area is also known for its milder summers which make it ideal for quality grapes and vineyards (recognized as an American Viticultural Area)."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pearce is best known as a historic ghost town."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pearce is located between the Cochise Stronghold, Chiricahua National Monument, and the winter Sandhill Crane refuge of Whitewater Draw making it popular for birders, history buffs, hikers, and climbers alike."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sunsites, founded in 1961, adjoins Pearce, and the Sunizona and Richland developments are nearby."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The two communities are often referred to as Pearce\u2013Sunsites, Pearce/Sunsites, or Pearce Sunsites."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Pearce\u2013Sunsites economy is based on retirees and tourism."
+    },
+    {
+      "cityName": "Sunsites",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fittsburg was the site of the Commonwealth Mine and is located about one mile east of Pearce."
+    },
+    {
+      "cityName": "Superior",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Superior was founded as a mining town for the Silver King and the later Magma mines; silver was mined at first, and then transitioned to copper."
+    },
+    {
+      "cityName": "Superior",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, the population of the town was 2407."
+    },
+    {
+      "cityName": "Superior",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Currently, exploitation of the huge Resolution Copper deposit is being explored."
+    },
+    {
+      "cityName": "Surprise",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Surprise is the spring training location of the Kansas City Royals and the Texas Rangers baseball teams."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for John Taylor, the third president of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded by settlers of The Church of Jesus Christ of Latter-day Saints in January 1878, several months before the neighboring community of Snowflake."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Taylor straddles Silver Creek, flowing from the nearby White Mountains to the Little Colorado River on Arizona's Colorado Plateau."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "According to the 2010 census, the population of the town is 4112."
+    },
+    {
+      "cityName": "Taylor",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "There is no postal home delivery in Taylor; residents within a certain radius of the Post Office who produce proof of Taylor residency are allocated a small PO box free of charge."
+    },
+    {
+      "cityName": "Tempe",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the main campus of Arizona State University, one of the largest public universities by enrollment in the United States."
+    },
+    {
+      "cityName": "Thatcher",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Eastern Arizona College (EAC)."
+    },
+    {
+      "cityName": "Thatcher",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 Census, the population of the town is 4865."
+    },
+    {
+      "cityName": "Tolleson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the U S Census Bureau, the population of the city was 7216 as of the 2020 census, up from 6545 in 2010."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town grew significantly into the mid-1880s as the local mines produced $40 to $85 million in silver bullion, the largest productive silver district in Arizona."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tombstone is a city in Cochise County, Arizona, United States, founded in 1879 by prospector Ed Schieffelin in what was then Pima County, Arizona Territory."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is best known as the site of the Gunfight at the O K Corral and draws most of its revenue from tourism."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It became one of the last boomtowns in the American frontier."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its population grew from 100 to around 14000 in less than seven years."
+    },
+    {
+      "cityName": "Tombstone",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city had a permanent population of 1308, according to the 2020 census."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is near the Palo Verde Nuclear Generating Station, the largest power producer in the country, nuclear or otherwise."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of Tonopah was 23, down from 60 at the 2010 census."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many wells in Tonopah are warm, in the 70 \u00b0F (21 \u00b0C) to 95 \u00b0F (35 \u00b0C) range, and many are hot; 110 \u00b0F (43 \u00b0C) to 120 \u00b0F (49 \u00b0C) wells are common."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Prior to being called Tonopah, the settlement was known as \"Lone Peak\"."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The area is also known to have been inhabited by groups of people for resource gathering, including the Hohokam, Patayan, and Yavapai."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tuba City is located approximately 50 miles (80 km) from the eastern entrance to Grand Canyon National Park and approximately 78 miles (126 km) from Flagstaff."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It likely refers to the many below-ground springs that are the source of several reservoirs."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Hopi village of Moenkopi lies directly to its southeast."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A Hopi minority also live in Tuba City; the majority are Navajo."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "European Americans associated with The Church of Jesus Christ of Latter-day Saints named the town in honor of chief Tuuvi, a Hopi man from Oraibi."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "He converted to the Mormon faith and allowed their migrants to settle in this area."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Navajo name for this community, T\u00f3 Naneesdiz\u00ed, translates as \"tangled waters\"."
+    },
+    {
+      "cityName": "Tuba City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Tuba City is located within the Painted Desert near the western edge of the Navajo Nation."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tucson was Arizona's largest city by population during the territorial period and early statehood, until it was surpassed by Phoenix by 1920."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the University of Arizona."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Major incorporated suburbs of Tucson include Oro Valley and Marana northwest of the city, Sahuarita south of the city, and South Tucson in an enclave south of downtown."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Tucson is sometimes referred to as the Old Pueblo and Optics Valley, the latter referring to its optical science and telescopes known worldwide."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is 108 miles (174 km) southeast of Phoenix and 60 mi (100 km) north of the United States\u2013Mexico border."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Communities in the vicinity of Tucson (some within or overlapping the city limits) include Casas Adobes, Catalina Foothills, Flowing Wells, Midvale Park, Tanque Verde, Tortolita, and Vail."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Tucson was founded as a military fort by the Spanish when Hugo O'Conor authorized the construction of Presidio San Agust\u00edn del Tucs\u00f3n in 1775."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It was included in the state of Sonora after Mexico gained independence from the Spanish Empire in 1821."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Tucson served as the capital of the Arizona Territory from 1867 to 1877."
+    },
+    {
+      "cityName": "Tucson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Nevertheless, its population growth remained strong during the late 20th century."
+    },
+    {
+      "cityName": "Tusayan",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 2010."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is known for the nearby Colossal Cave, a large cave system, and the Rincon Mountains District of Saguaro National Park, a top tourism spot within Arizona."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Vail was originally a siding and water stop on the Southern Pacific Railroad."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Vail was named after pioneer ranchers Edward and Walter Vail, who established ranches in the area in the late 19th century."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Vail deeded a right of way across his ranch to the railroad."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is 24 miles (39 km) southeast of Tucson."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It was located on the last section of flat land before the train tracks followed the old wagon road into the Cienega Creek bed."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Vail owned the Vail Ranch, his brother Walter Vail owned the nearby Empire Ranch, now part of the Las Cienegas National Conservation Area."
+    },
+    {
+      "cityName": "Vail",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Attempts to incorporate the town were defeated in 2013 and 2023."
+    },
+    {
+      "cityName": "Verde Village",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a retirement and bedroom community for Cottonwood."
+    },
+    {
+      "cityName": "Village of Oak Creek (Big Park)",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bell Rock scenic area adjoins the north end of VOC, and the town is surrounded by the Coconino National Forest."
+    },
+    {
+      "cityName": "Village of Oak Creek (Big Park)",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Big Park is the name of the CDP while the community is more commonly known as the Village of Oak Creek (VOC), and is a bedroom community for Sedona, located seven miles away."
+    },
+    {
+      "cityName": "Village of Oak Creek (Big Park)",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Park, the pioneers' name for the large open area that became the Village of Oak Creek in the early 1960s, is set among scenic red-rock buttes and canyons."
+    },
+    {
+      "cityName": "Village of Oak Creek (Big Park)",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A Forest Service Visitor Center is located at the south end of VOC."
+    },
+    {
+      "cityName": "Village of Oak Creek (Big Park)",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Tourism and service to retirees and second-home owners are the basis for the local economy."
+    },
+    {
+      "cityName": "Wellton",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the town is 2375."
+    },
+    {
+      "cityName": "White Hills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 12.5 miles (20.1 km) northwest of Dolan Springs."
+    },
+    {
+      "cityName": "White Hills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, White Hills had a population of 345."
+    },
+    {
+      "cityName": "Wikieup",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of Wikieup was 135."
+    },
+    {
+      "cityName": "Willcox",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded by Arizona's most prominent mountain ranges, including the Pinale\u00f1o Mountains and the Chiricahua Mountains."
+    },
+    {
+      "cityName": "Willcox",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A very large dry lakebed, the Willcox Playa, is located five miles south of the city."
+    },
+    {
+      "cityName": "Willcox",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the remnant of the Ice Age-era Lake Cochise."
+    },
+    {
+      "cityName": "Willcox",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Scores of birds, including sandhill cranes, winter in the area, with some migrating from as far away as Siberia."
+    },
+    {
+      "cityName": "Willcox",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Willcox's high desert climate gives it large diurnal temperature variation, making it ideal for wine cultivation."
+    },
+    {
+      "cityName": "Williams",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also known as the \"Gateway to the Grand Canyon\", Williams was the last city on Historic Route 66 to be bypassed by Interstate 40."
+    },
+    {
+      "cityName": "Williams",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies on the routes of Historic Route 66 and Interstate 40."
+    },
+    {
+      "cityName": "Williams",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also the southern terminus of the Grand Canyon Railway, which takes visitors to Grand Canyon Village."
+    },
+    {
+      "cityName": "Williams",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Historic Downtown District covers six square blocks."
+    },
+    {
+      "cityName": "Williams",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its population was 3023 at the 2010 census."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name \"Wiliamson\" is a misnomer, perhaps propagated by federal bureaucratic error; the area has long been known as \"Williamson Valley\" after the major road through the area, Williamson Valley Road."
+    },
+    {
+      "cityName": "Willow Beach",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both lakes are part of the Lake Mead National Recreation Area administered by the U S National Park Service."
+    },
+    {
+      "cityName": "Willow Beach",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Willow Beach is located on the Arizona side of the Colorado River between Lake Mead and Lake Mohave."
+    },
+    {
+      "cityName": "Willow Beach",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Willow Beach was a major trade center for Mojave and Virgin Ancestral Pueblo people along the routes between Coastal California and the American Southwest between 500 and 1200 CE."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Navajo Nation Museum, the Navajo Nation Zoological and Botanical Park, and the Navajo Nation Code Talkers World War II memorial are tribal attractions located in Window Rock."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Window Rock is the site of the Navajo Nation governmental campus, which contains the Navajo Nation Council, Navajo Nation Supreme Court, the offices of the Navajo Nation President and Vice President, and many Navajo government buildings."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Window Rock's main natural attraction is the window formation of sandstone, after which the community is named."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The capital lies within the boundaries of the St. Michaels Chapter, adjacent to the Arizona and New Mexico state line."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Window Rock's population was 2500 at the 2020 census."
+    },
+    {
+      "cityName": "Window Rock",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is estimated to reach around 20000 during weekdays when tribal offices are open."
+    },
+    {
+      "cityName": "Winkelman",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population of the town was 353, all of whom lived in Gila County."
+    },
+    {
+      "cityName": "Winslow",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the city is 9005."
+    },
+    {
+      "cityName": "Winslow",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is approximately 57 miles (92 km) southeast of Flagstaff, 240 miles (390 km) west of Albuquerque, New Mexico, and 329 miles (529 km) southeast of Las Vegas."
+    },
+    {
+      "cityName": "Yarnell",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yarnell's economy is based on ranching, mining and services to travelers and retirees."
+    },
+    {
+      "cityName": "Yarnell",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Peeples Valley, three miles north, is closely linked to Yarnell."
+    },
+    {
+      "cityName": "Youngtown",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 7056, up from 6156 in 2010."
+    },
+    {
+      "cityName": "Yucca",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along Interstate 40, it lies southwest of Kingman, just east of the southern section of the Black Mountains and west of the Hualapai and McCracken Mountains in the Sacramento Valley."
+    },
+    {
+      "cityName": "Yucca",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census it had a population of 96, down from 126 at the 2010 census."
+    },
+    {
+      "cityName": "Yucca",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Students in Yucca attend elementary school in the one-school Yucca Elementary School District, and high school in the Kingman Unified School District."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Cesar Chavez was born in Yuma."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yuma's weather also makes it an agricultural powerhouse, growing over 175 types of crops, the largest of which is lettuce."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Yuma is also known for its large military population due to several military bases, including the Marine Corps Air Station."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's population was 95548 at the 2020 census, up from the 2010 census population of 93064."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "According to the United States Census Bureau, the 2020 estimated population of the Yuma MSA is 203247."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Colloquially known by many as \"The Winter Lettuce Capital of The World\", Yuma County provides 90% of all leafy vegetables grown from November to March in the United States."
+    },
+    {
+      "cityName": "Yuma",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Yuma is in the state's southwestern corner, in the Sonoran Desert, Yuma Desert sub-region."
+    }
+  ]
+}

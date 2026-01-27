@@ -715,7 +715,13 @@ function normalizeCity(city, state) {
     if (city === 'Alpheretta') return 'Alpharetta';
     if (city === 'Tocooa') return 'Toccoa';
     if (city === 'Bryon') return 'Byron';
-    if (city === 'Warner Robbins') return 'Warner Robins';
+    if (city === 'Warner Robbins' || city === 'Warner-Robins') return 'Warner Robins';
+    if (city === 'Carralton') return 'Carrollton';
+    if (city === 'Mc Caysville') return 'McCaysville';
+    if (city === 'Mc Rae') return 'McRae';
+    if (city === 'McRae Helena') return 'McRae-Helena';
+    if (city === 'St. Simons Island' || city === 'St Simons Island') return 'Saint Simons Island';
+    if (city === 'St. Mary' || city === 'St Mary' || city === 'Saint Mary') return 'St. Marys';
   }
 
   // TX-specific normalizations

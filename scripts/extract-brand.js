@@ -802,6 +802,12 @@ function normalizeCity(city, state) {
     if (city === 'Woodstock Valley') return 'Woodstock';
   }
 
+  // MO-specific normalizations
+  if (state === 'MO') {
+    if (city === 'Lee Summit' || city === 'Lees Summit') return "Lee's Summit";
+    if (city === 'St.Louis' || city === 'St.louis') return 'St. Louis';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

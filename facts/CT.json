@@ -1,0 +1,4169 @@
+{
+  "facts": [
+    {
+      "cityName": "Ashford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1714."
+    },
+    {
+      "cityName": "Ashford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Ashford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eastford was a part of Ashford until 1847, when the former split off to organize its own town."
+    },
+    {
+      "cityName": "Ashford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "For this reason, North Ashford is located in northeast Eastford."
+    },
+    {
+      "cityName": "Avon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, the town had a population of 19795."
+    },
+    {
+      "cityName": "Baltic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Baltic Historic District is a historic district that was listed on the National Register of Historic Places in 1987, encompassing virtually the entire extent of the village."
+    },
+    {
+      "cityName": "Baltic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Sprague town hall is in Baltic."
+    },
+    {
+      "cityName": "Barkhamsted",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It contains seven villages: West Hill, Mallory, Barkhamsted Center, Center Hill, Washington Hill, Pleasant Valley, and Riverton."
+    },
+    {
+      "cityName": "Barkhamsted",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Barkhamsted was first incorporated in 1779, and named after Berkhamsted, Hertfordshire, England."
+    },
+    {
+      "cityName": "Barkhamsted",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Beacon Falls",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region and is approximately six miles from Waterbury."
+    },
+    {
+      "cityName": "Beacon Falls",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies in the southwestern part of the state, and is bisected by the Naugatuck River."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has major manufacturers such as Plastic Molding Manufacturing, PYC manufacturing, and Budney Industries."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1785."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The geographic center of Connecticut is located in the town."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Berlin is residential and industrial, and is served by the Amtrak station of the same name."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Berlin also has two hamlets: Kensington and East Berlin."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Berlin has 1 high school 1 middle school and 3 elementary schools."
+    },
+    {
+      "cityName": "Bethany",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 20358."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's name has prompted thousands of visitors each December to mail their Christmas cards at the renowned local post office, situated at 34 East Street, in order to get a \"Bethlehem\" postmark."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The post office also has nearly 100 Christmas-related stamps for customers to decorate their envelopes during the holiday season."
+    },
+    {
+      "cityName": "Bolton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bolton was named after a town of the same name in England, located near Manchester."
+    },
+    {
+      "cityName": "Bolton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bolton was incorporated in October 1720 and is governed by town meeting, with a first selectman and board of selectman as well as other boards serving specific functions."
+    },
+    {
+      "cityName": "Bozrah",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Bozrah",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bozrah contains three villages: Fitchville, the town center; Leffingwell, a crossroads on Route 82; and Gilman, a mill village along Fitchville Road."
+    },
+    {
+      "cityName": "Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Branford borders East Haven to the west, Guilford to the east, and North Branford to the north."
+    },
+    {
+      "cityName": "Branford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP encompasses the traditional town center area (roughly the area bounded by U S Route 1, the Amtrak railroad tracks, and the Branford River) and the area known as Branford Point (the portion of the CDP south of the railroad tracks)."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgewater is well known as being a weekend getaway for wealthy New Yorkers, due to its scenic wooded areas, location on the banks of Lake Lillinonah and proximity to New York City."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Bridgewater Country Fair is a popular annual event held every August, attracting visitors from all over New England and the Tri-state area."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bridgewater was one of the last remaining dry towns (Eastford is still a dry town) in Connecticut until voters approved the sale of alcohol in a 2014 referendum, by a 660\u2013246 vote."
+    },
+    {
+      "cityName": "Broad Brook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the CDP population was 4069."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The parish later was renamed and incorporated as the town of Brookfield in 1788, named for Rev. Thomas Brooks, the first minister of the parish's Congregational church."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sachem Pocono's village was in an enormous palisade along the Still River."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In July 2013, Money magazine ranked Brookfield the 26th-best place to live in the United States, and the best place to live in Connecticut."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Colonists settled in what is now known as Brookfield in 1710, led by John Muirwood and other colonial founders including Hawley, Peck and Merwin."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "They bartered for the land from the Wyantenuck and the Potatuck Nations who were ruled under the Sachems Waramaug and Pocono."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Colonists first established the area as the Parish of Newbury, incorporating parts of neighboring Newtown and Danbury."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated at the foot of the Berkshires and bordering the Farmington River, it is a scenic hill town, rural in nature, located 20 miles (32 km) west of Hartford."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated in 1806, the population was 9519 at the 2020 census."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Canaan is often referred to locally by the name of its principal settlement, Falls Village."
+    },
+    {
+      "cityName": "Canterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Canton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canton is a town, incorporated in 1806, located in the Farmington Valley of Connecticut in the United States."
+    },
+    {
+      "cityName": "Canton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Running through it is the Farmington River."
+    },
+    {
+      "cityName": "Canton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town includes the villages of North Canton, Canton Center, Canton (Canton Valley), and Collinsville."
+    },
+    {
+      "cityName": "Canton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is bordered by Granby on the north, Simsbury on the east, Avon and Burlington on the south, New Hartford on the west, and Barkhamsted on the northwest."
+    },
+    {
+      "cityName": "Canton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In September 2007, Collinsville was ranked in Budget Travel magazine as one of the \"Ten Coolest Small Towns In America\"."
+    },
+    {
+      "cityName": "Chaplin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Deacon Benjamin Chaplin, an early settler."
+    },
+    {
+      "cityName": "Chaplin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the time of the 2020 census, the population of Cheshire was 28733."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The center of population of Connecticut is located in Cheshire."
+    },
+    {
+      "cityName": "Cheshire Village",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the center of the town, surrounding the intersections of Connecticut Routes 10, 70, and 68."
+    },
+    {
+      "cityName": "Cheshire Village",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the CDP had a population of 5786, out of 29261 in the entire town of Cheshire."
+    },
+    {
+      "cityName": "Chester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Chester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is a transfer from Chester, in England."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Colchester Historical Society operates a local history museum."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2010 Colchester became the first town in Connecticut, and the 36th in the country, to be certified with the National Wildlife Federation as a Community Wildlife Habitat."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The villages of Westchester and North Westchester are located within Colchester."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town center village, which was previously incorporated as a borough, is a census-designated place, with a population of 4700 at the 2020 census."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Colchester area was part of the Mohegan territory at the time of European settlement."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Several members of the Paugussett tribe currently reside in Colchester, where the tribe (which also has a heritage property in Trumbull) has a larger and more recently acquired 106-acre (0.43 km2) reservation."
+    },
+    {
+      "cityName": "Colebrook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colebrook was named after Colebrooke in the English county of Devon; the reason is now unknown."
+    },
+    {
+      "cityName": "Colebrook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally a part of Lebanon, known as the North Society or Lebanon's Crank, Columbia was incorporated in May 1804."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for patriotic reasons after the national symbol \"Columbia\"."
+    },
+    {
+      "cityName": "Conning Towers-Nautilus Park",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The statistical area consists of the portion of the town in the vicinity of Route 12 and includes Naval Submarine Base New London."
+    },
+    {
+      "cityName": "Cornwall",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cos Cob is located on the western side of the mouth of the Mianus River."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Greenwich is one political and taxing body, but consists of several distinct sections or neighborhoods, such as Banksville, Byram, Cos Cob, Glenville, Mianus, Old Greenwich, Riverside and Greenwich (sometimes referred to as central, or downtown, Greenwich)."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It had a population of 6873 at the 2020 census."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The American Impressionist Cos Cob Art Colony flourished in the late 19th and early 20th centuries."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "An offshoot of the group, the Greenwich Art Society, continues to support local artists in town."
+    },
+    {
+      "cityName": "Cos Cob",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "From 1883 to 1885, the official post office name of Cos Cob was Bayport."
+    },
+    {
+      "cityName": "Coventry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The birthplace of Captain Nathan Hale, Coventry is home to the Nathan Hale Homestead, which is now a museum open to the public."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danbury is nicknamed the \"Hat City\", because it was once the center of the American hat industry, during the nineteenth and early twentieth centuries."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The mineral danburite is named after Danbury, while the city itself is named for Danbury in Essex, England."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Danbury is home to Danbury Hospital, Western Connecticut State University, Danbury Fair Mall, and Danbury Municipal Airport."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Danbury's population as of 2020 was 86518."
+    },
+    {
+      "cityName": "Darien",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are two railroad stations in Darien, Noroton Heights and Darien, linking the town to Grand Central Terminal."
+    },
+    {
+      "cityName": "Darien",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated on the Long Island Sound between the cities of Stamford and Norwalk, Darien is a commuter town for New York City."
+    },
+    {
+      "cityName": "Deep River",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Deep River",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Deep River is part of what the locals call the \"Tri-town Area\", made up of the towns of Deep River, Chester, and Essex."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Derby, England, in 1675."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locomotive, built in 1888, is still kept in running condition by the Shore Line Trolley Museum."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It shares borders with the cities of Ansonia to the north and Shelton to the southwest, and the towns of Orange to the south, Seymour to the northwest, and Woodbridge to the east."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Derby was settled in 1642 as an Indian trading post under the name Paugasset."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It included what are now Ansonia, Seymour, Oxford, and parts of Beacon Falls."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Derby is home to the first electric trolley system in New England, only the second in the United States."
+    },
+    {
+      "cityName": "Derby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is also home to the first electric locomotive in U S history to be built and successfully used commercially for hauling freight."
+    },
+    {
+      "cityName": "Durham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Every autumn, the town hosts the Durham Fair, the largest volunteer agricultural fair in New England."
+    },
+    {
+      "cityName": "Durham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The core of the town center has also been listed as a historic district on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Durham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "East Haddam",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes summer resorts, historical sites, and natural areas."
+    },
+    {
+      "cityName": "East Haddam",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Chatham Historical Society Museum and the Joseph N. Goff House Museum and Cultural Center are located in the town."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 884-acre (358 ha) Hurd State Park, Meshomasic State Forest, and Salmon River State Forest are located in town."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The southern trailhead of the Shenipsit Trail is in Cobalt, and the Airline State Park (a rail trail) has its southern trailhead in East Hampton, at Main Street in the Village Center."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Comstock's Bridge, more commonly known as the Comstock Covered Bridge and the only remaining covered bridge in eastern Connecticut, spans the Salmon River near Route 16 in East Hampton."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "East Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "East Hampton includes the communities of Cobalt, Middle Haddam, and Lake Pocotopaug."
+    },
+    {
+      "cityName": "East Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also home to Pratt & Whitney Stadium at Rentschler Field, a stadium used mainly for soccer and football with a capacity of 40000 people."
+    },
+    {
+      "cityName": "East Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to aerospace manufacturer Pratt & Whitney."
+    },
+    {
+      "cityName": "East Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 27923."
+    },
+    {
+      "cityName": "East Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "East Haven is 35 miles (56 km) from Hartford, 82 miles (132 km) from New York City, 99 miles (159 km) from Providence, Rhode Island, and 140 miles (230 km) from Boston."
+    },
+    {
+      "cityName": "East Killingly",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It consists of the borough of Danielson and the villages of Attawaugan, Ballouville, Dayville, East Killingly, Rogers, and South Killingly."
+    },
+    {
+      "cityName": "East Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "East Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The villages of Niantic and Flanders are located in the town."
+    },
+    {
+      "cityName": "East Norwalk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Norwalk is a neighborhood of Norwalk, Connecticut, United States."
+    },
+    {
+      "cityName": "East Norwalk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As one of the earliest settlements of Norwalk, it was so marked with a block of 'suitably inscribed' 'native granite' formally located on the corner of Fitch Street and East Avenue."
+    },
+    {
+      "cityName": "East Windsor",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "East Windsor",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has five villages: Broad Brook, Melrose, Scantic, Warehouse Point and Windsorville."
+    },
+    {
+      "cityName": "Eastford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Easton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 7605."
+    },
+    {
+      "cityName": "Easton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a part of the Greater Bridgeport Planning Region, the New York metropolitan statistical area, and is bordered by the towns of Fairfield to the south, Newtown and Redding to the north, Weston to the west, and Monroe and Trumbull to the east."
+    },
+    {
+      "cityName": "Easton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In March 2023, Easton established a sister city relationship with Sviatohirsk, Donetsk, Ukraine."
+    },
+    {
+      "cityName": "Ellington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellington was incorporated in May 1786, from East Windsor."
+    },
+    {
+      "cityName": "Ellington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Ellington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town population was 16426."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bordered by Longmeadow, Massachusetts, and East Longmeadow, Massachusetts, to the north, Somers to the east, East Windsor and Ellington to the south, and the Connecticut River (towns of Suffield and Windsor Locks) to the west."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Enfield is a town in Hartford County, Connecticut, United States, first settled by John and Robert Pease of Salem, Massachusetts Bay Colony."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Essex",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Essex",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is made up of three villages: Essex Village, Centerbrook, and Ivoryton."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairfield is a hub of higher education, enrolling more than 17000 students between Sacred Heart University and Fairfield University."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It borders the city of Bridgeport and towns of Trumbull, Easton, Weston, and Westport along the Gold Coast of Connecticut."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2020, the town had a population of 61512."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is part of the Greater Bridgeport Planning Region."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the village of North Franklin."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The two historic districts are irregularly shaped, and are separated by a railroad cut and some non-contributing buildings."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the core of the original settlement at the site of the former ferry has been included in two separate historic districts, each with several farmstead buildings from the late colonial and early national periods (late 18th and early 19th century)."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Several farmsteads that are individually listed on the National Register of Historic Places are located close to Gales Ferry."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community developed as a result of having a ferry to Uncasville located at this site, and from which the village was named."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "These are the Nathan Lester House on Vinegar Hill Road, the Perkins-Bill House at 1040 Long Cove Road, and the Capt."
+    },
+    {
+      "cityName": "Gales Ferry",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Mark Stoddard Farmstead at 24 Vinegar Hill Road."
+    },
+    {
+      "cityName": "Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glastonbury ( GLAST-\u0259n-berr-ee) is a town in the Capitol Planning Region, Connecticut, United States, officially founded in 1693 and first settled in 1636."
+    },
+    {
+      "cityName": "Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after Glastonbury in Somerset, England."
+    },
+    {
+      "cityName": "Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Glastonbury is on the banks of the Connecticut River, 7 miles (11 km) southeast of Hartford."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Granby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Granby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other areas in town include North Granby and West Granby."
+    },
+    {
+      "cityName": "Granby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "From the 1890s to the 1920s, many immigrants from Sweden came to reside in the town."
+    },
+    {
+      "cityName": "Greenwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Greenwich, a royal borough of London in the United Kingdom."
+    },
+    {
+      "cityName": "Greenwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 63518."
+    },
+    {
+      "cityName": "Greenwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Greenwich is home to many hedge funds and financial services firms due to its residential setting and proximity to Manhattan."
+    },
+    {
+      "cityName": "Griswold",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Griswold",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Griswold contains the borough of Jewett City and the villages of Doaneville, Kaalmanville, Rixtown, Glasgo, Hopeville, Nathanieltown, and Pachaug."
+    },
+    {
+      "cityName": "Groton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Groton is a dependent political subdivision of the town of Groton, Connecticut, United States."
+    },
+    {
+      "cityName": "Groton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was settled in 1655 as Groton Bank, and the area developed into the principal village of the town of Groton."
+    },
+    {
+      "cityName": "Groton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village of Groton incorporated as a borough in 1903, and the residents of the borough of Groton reincorporated as the city of Groton in 1964."
+    },
+    {
+      "cityName": "Guilford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It borders Madison, Branford, North Branford, and Durham."
+    },
+    {
+      "cityName": "Guilford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Haddam",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Haddam",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was also home to the now-decommissioned Connecticut Yankee Nuclear Power Plant."
+    },
+    {
+      "cityName": "Hamden",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's nickname is \"The Land of the Sleeping Giant\"."
+    },
+    {
+      "cityName": "Hamden",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Hampton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1635, Hartford is among the oldest cities in the United States of America."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nicknamed the \"Insurance Capital of the World\" and \"America's filing cabinet\", the city holds high sufficiency as a global city, as home to the headquarters of many insurance companies, the region's major industry."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hartford was the richest city in the United States for several decades following the American Civil War."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He wrote in 1868, \"Of all the beautiful towns it has been my fortune to see this is the chief.\" Hartford alternated with New Haven as dual capitals of Connecticut from 1664, and Hartford has been the sole capital since 1875."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city, located in Hartford County, had a population of 121054 at the 2020 census and was estimated at 124006 in 2025."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is the location of the Mark Twain House, in which the author Mark Twain wrote his most famous works and raised his family."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Since 2015, it has been one of the poorest cities in the country, with three out of ten families living below the poverty threshold."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Other prominent industries include the services, education and healthcare industries."
+    },
+    {
+      "cityName": "Hartland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural town is part of the Northwest Hills Planning Region and forms the northwestern border of Hartford County."
+    },
+    {
+      "cityName": "Hartland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A third area, Hartland Hollow (also referred to as Hartland Center), was flooded when the reservoir was completed in 1940."
+    },
+    {
+      "cityName": "Harwinton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Harwinton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is served by Regional School District 10."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The site of the latter is now Gay City State Park."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hebron was incorporated May 26, 1708."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2010, Hebron was rated #6 in Top Towns in Connecticut with population between 6500 and 10000, according to Connecticut Magazine."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The villages of Hebron Center, Gilead and Amston, are located within Hebron."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The remnants of two long since abandoned communities, Grayville and Gay City, are also located in Hebron."
+    },
+    {
+      "cityName": "Jewett City",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The borough was named for Eliezer Jewett, who founded a settlement there in 1771."
+    },
+    {
+      "cityName": "Jewett City",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The borough is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Henry Hooker House is a historic home in Kensington."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Berlin town offices are located in Kensington."
+    },
+    {
+      "cityName": "Kent",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located alongside the border with New York, the town's population was 3019 according to the 2020 census."
+    },
+    {
+      "cityName": "Kent",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Kent",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kent is home to three boarding schools: Kent School, the Marvelwood School, and South Kent School."
+    },
+    {
+      "cityName": "Kent",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Schaghticoke Indian Reservation is also located within town borders."
+    },
+    {
+      "cityName": "Kent",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was also home to former U S Secretary of State Henry Kissinger."
+    },
+    {
+      "cityName": "Killingly",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It consists of the borough of Danielson and the villages of Attawaugan, Ballouville, Dayville, East Killingly, Rogers, and South Killingly."
+    },
+    {
+      "cityName": "Killingly Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It consists of the borough of Danielson and the villages of Attawaugan, Ballouville, Dayville, East Killingly, Rogers, and South Killingly."
+    },
+    {
+      "cityName": "Killingworth",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Lakeville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Hotchkiss School is in Lakeville, and the Indian Mountain School is nearby."
+    },
+    {
+      "cityName": "Lakeville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, Lakeville's population was 928, out of 3741 in the town of Salisbury."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known for its role in the American Revolution, when it was a major base of American operations, and for its historic town green, which is one of the largest in the nation and the only one still used partially for agriculture."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town lies just to the northwest of Norwich, directly south of Willimantic, 20 miles (32 km) north of New London, and 20 miles (32 km) east of Hartford."
+    },
+    {
+      "cityName": "Ledyard",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Colonel William Ledyard, a Revolutionary War officer who was killed at the Battle of Groton Heights."
+    },
+    {
+      "cityName": "Ledyard",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Foxwoods Resort Casino, owned and operated by the Mashantucket Pequot Tribe, is located in the northeastern section of Ledyard, on the reservation owned by the tribe."
+    },
+    {
+      "cityName": "Ledyard",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town center is also known as the village of Newent."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town school is Lisbon Central School."
+    },
+    {
+      "cityName": "Litchfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Litchfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The boroughs of Bantam and Litchfield are located within the town."
+    },
+    {
+      "cityName": "Litchfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Northfield, located in the southeastern corner of Litchfield, is home to a high percentage of the Litchfield population."
+    },
+    {
+      "cityName": "Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lyme is the eponym of Lyme disease."
+    },
+    {
+      "cityName": "Madison",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Manchester, in England."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town had a total population of 59713."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Mansfield contains the community of Storrs, which is home to the main campus of the University of Connecticut and the associated Connecticut Repertory Theatre."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named after Major Moses Mansfield, a part-owner of the town site."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pequot and Mohegan people lived in this region for centuries before the arrival of English settler-immigrants in the late 17th century."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "By 1692, English settlers put down roots in the area that is now Mansfield Center."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Mansfield was incorporated in October 1702, separating from the Town of Windham, in Hartford County."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "When Windham County was formed on May 12, 1726, Mansfield then became part of that county."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "A century later, at a town meeting on April 3, 1826, selectmen voted to ask the General Assembly to annex Mansfield to Tolland County."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "That occurred the following year."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Villages within the town include Gurleyville and Mansfield Center, Mansfield Hollow, and Atwoodville."
+    },
+    {
+      "cityName": "Marion",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The neighborhood includes the Marion Historic District, which is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Marion",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is generally the area in the vicinity of the intersection of Route 322 and Marion Avenue, just North of the Cheshire Town line."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's population was 6133 at the 2020 census."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The local high school is RHAM High School."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2013, Marlborough ranked third (of 24) in Connecticut Magazine's biannual ranking of Connecticut small towns."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Educationally, RHAM High School, which serves Marlborough, Hebron, and Andover students, is one of the top-ranked regional high schools in the state on the SAT in 2017, and 11th highest-performing school in the state on the test."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town is home to Elmer Theines-Mary Hall elementary school which serves Pre-K through 6th grade."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The school scores above state average on standardized testing and student progress."
+    },
+    {
+      "cityName": "Mashantucket",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Foxwoods Resort Casino is in the northeast part of the CDP, along Connecticut Route 2."
+    },
+    {
+      "cityName": "Mashantucket",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It consists of land held by the Mashantucket Pequot Tribe."
+    },
+    {
+      "cityName": "Mashantucket",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, the CDP had a population of 299."
+    },
+    {
+      "cityName": "Meriden",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2020, the population of the city was 60850."
+    },
+    {
+      "cityName": "Middlebury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Middlefield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Middlefield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the village of Rockfall in the northeastern section."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middletown is largely a politically progressive city, and is home to one of the largest pride events in all of Connecticut."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its downtown, based on Main Street, serves as a popular retail, dining, and bar district near Wesleyan University."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Originally developed as a sailing port and then an industrial center on the Connecticut River, it is now largely residential."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Middletown, Connecticut, is considered the southernmost city in the Hartford-Springfield Knowledge Corridor Metropolitan Region, which features a combined metro population of 1.9 million."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1650, it was incorporated by English settlers as a town under its original Native American name, Mattabeseck, after the local Wangunk village of the same name."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "They were among many tribes along the Atlantic coast who spoke Algonquian languages."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The colonists renamed the settlement in 1653."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "When Hartford County was organized on May 10, 1666, Middletown was included within its boundaries."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In 1784, the central settlement was incorporated as a city distinct from the town."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Both were included within newly formed Middlesex County in May 1785."
+    },
+    {
+      "cityName": "Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city includes the village of Devon and the borough of Woodmont."
+    },
+    {
+      "cityName": "Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Milford is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Milldale",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milldale is a neighborhood in the incorporated town of Southington, Hartford County, Connecticut, United States."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is part of the Greater Bridgeport Planning Region."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is largely considered a bedroom community of New York City, New Haven, Stamford and Bridgeport."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Monroe contains the villages of Stepney, Stevenson and Monroe Center."
+    },
+    {
+      "cityName": "Montville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mohegan Sun casino resort is located in the village of Uncasville."
+    },
+    {
+      "cityName": "Montville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Montville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Town residents often identify with these villages more than the Town of Montville as a whole."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It also encompasses much of Bantam Lake, originally called the Great Pond, which covers approximately 947 acres (383 ha) and is the largest natural lake in the state."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Morris is home to one of the oldest state parks in Connecticut, as well as to one of the newest."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Designated a separate Congregational parish in 1767 and incorporated as a town in 1859, it was named after native son James Morris, a Yale graduate, Revolutionary War officer, and founder of one of the first co-educational secondary schools in the nation."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In addition to the two state parks and Bantam Lake, the 4000-acre (1600 ha) White Memorial Conservation Center offers a range of opportunities for outdoor sports and recreation."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Originally part of the town of Litchfield, it was called the South Farms because of its location 5 miles (8 km) south of the center."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In the early 1900s, local water mills, manufactories and other small businesses encountered similar challenges and gave way to industry in nearby Waterbury, Torrington and beyond."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The traditional Town of Morris seal features the pine on Lone Tree Hill, which overlooks the lake."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Children attend the local James Morris elementary school, the Region 20 Middle School, and Lakeview Regional High School, which serves students from Goshen, Litchfield, Morris, and Warren."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Morris",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Europeans first began to settle the area that became Morris circa 1723."
+    },
+    {
+      "cityName": "Mystic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mystic Seaport, located in the village, is the largest maritime museum in the United States and has preserved a number of sailing ships, such as the whaling ship Charles W. Morgan."
+    },
+    {
+      "cityName": "Mystic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Mystic River Bascule Bridge crosses the river in the center of the village."
+    },
+    {
+      "cityName": "Mystic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name \"Mystic\" is derived from the Pequot term \"missi-tuk\" describing a large river whose waters are driven into waves by tides or wind."
+    },
+    {
+      "cityName": "Mystic",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mystic was a significant Connecticut seaport with more than 600 ships built over 135 years starting in 1784."
+    },
+    {
+      "cityName": "Naugatuck",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, part of the Naugatuck Valley Planning Region, had a population of 31519 as of the 2020 census."
+    },
+    {
+      "cityName": "Naugatuck",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town spans both sides of the Naugatuck River just south of Waterbury and includes the communities of Union City on the east side of the river, Straitsville on the southeast (along Route 63), and Millville on the west (along Rubber Avenue)."
+    },
+    {
+      "cityName": "New Britain",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Among the southernmost of the communities encompassed within the Hartford-Springfield Knowledge Corridor metropolitan region, New Britain is home to Central Connecticut State University and Charter Oak State College."
+    },
+    {
+      "cityName": "New Britain",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was noted for its industry during the 19th and early 20th centuries, and notable sites listed on the National Register of Historic Places include Walnut Hill Park, developed by the landscape architect Frederick Law Olmsted and Downtown New Britain."
+    },
+    {
+      "cityName": "New Britain",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2020 Census, the population of the city is 74135."
+    },
+    {
+      "cityName": "New Britain",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Because of its large Polish population, the city is often playfully referred to as \"New Britski\"."
+    },
+    {
+      "cityName": "New Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Canaan is known for its architecture and public parks such as Waveny Park, and a town center with boutiques."
+    },
+    {
+      "cityName": "New Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "New Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "About an hour from New York City by train, the town is considered part of Connecticut's Gold Coast."
+    },
+    {
+      "cityName": "New Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is bounded on the south by Darien, to the west by Stamford, on the east by Wilton, on the southeast by Norwalk, and on the north by Lewisboro and Pound Ridge in Westchester County, New York."
+    },
+    {
+      "cityName": "New Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Residents sing carols on God's Acre every Christmas Eve, a town tradition since 1916."
+    },
+    {
+      "cityName": "New Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Fairfield is one of five towns that surround Candlewood Lake, the largest lake in Connecticut."
+    },
+    {
+      "cityName": "New Fairfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "New Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "New Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is mainly a rural community consisting of farms, homes, and parks."
+    },
+    {
+      "cityName": "New Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Brodie Park and Ski Sundown are located in New Hartford."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "George W. Bush was born in New Haven."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Green is now a National Historic Landmark, and the \"Nine Square Plan\" is recognized by the American Planning Association as a National Planning Landmark."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Haven is the home of Yale University, New Haven's biggest taxpayer and employer, and an integral part of the city's economy."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Haven has since billed itself as the \"Cultural Capital of Connecticut\" for its many theaters, museums, and music venues."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "New Haven had the first public tree planting program in the U.S., producing a canopy of mature trees (including some large elms) that gave the city the nickname \"The Elm City\"."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "New Haven was one of the first planned cities in the U S A year after its founding by English Puritans in 1638, eight streets were laid out in a three-by-three grid, creating the \"Nine Square Plan\"."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The central common block is the New Haven Green, a 16-acre (6 ha) square at the center of Downtown New Haven."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Health care, professional and financial services, and retail trade also contribute to the city's economic activity."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city served as co-capital of Connecticut from 1701 to 1873, when sole governance was transferred to the more centrally located city of Hartford."
+    },
+    {
+      "cityName": "New London",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New London is home to the United States Coast Guard Academy, Connecticut College, Mitchell College, and The Williams School."
+    },
+    {
+      "cityName": "New London",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Coast Guard Station New London and New London Harbor is home port to both the Coast Guard's cutter Coho and their tall ship Eagle."
+    },
+    {
+      "cityName": "New London",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city had a population of 27367 at the 2020 census."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Milford lies 14 miles (23 km) north of Danbury on the banks of the Housatonic River, and shares its border with the northeastern shore of Candlewood Lake."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Milford is located within the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Milford is located roughly 50 miles (80 km) west of Hartford, 63 miles (101 km) northeast of New York City proper, and 80 miles from Midtown Manhattan."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "New Milford consists of a number of town sub-divisions (i.e."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "boroughs, districts, communities, or neighborhoods), including Chimney Point, Gaylordsville, Merryall, and Northville."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town's infrastructure largely branches off of either side of the highway routes U S 7 and U S 202, which intersect and split within the town and together form its main thoroughfare."
+    },
+    {
+      "cityName": "New Milford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The area constituting contemporary New Milford was originally inhabited by the indigenous Wawyachtonoc people, while the town of New Milford itself was formally established by English colonists in the early 18th century."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is celebrated each fall during the Waterfall Festival."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located 8 miles (13 km) south of downtown Hartford, Newington is an older, mainly residential suburb located in Greater Hartford."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2023, the population is 30527."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Connecticut Department of Transportation has its headquarters in Newington."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Newington is home to Mill Pond Falls, near the center of town."
+    },
+    {
+      "cityName": "Newington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The American Radio Relay League is headquartered in Newington, with a call sign of W1AW."
+    },
+    {
+      "cityName": "Newtown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newtown was founded in 1705, and later incorporated in 1711."
+    },
+    {
+      "cityName": "Newtown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 27173."
+    },
+    {
+      "cityName": "Newtown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Norfolk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norfolk is the home of the Norfolk Chamber Music Festival, an annual chamber music concert series hosted by the Yale School of Music."
+    },
+    {
+      "cityName": "Norfolk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The festival takes place in the Music Shed, a performance hall located on the Ellen Battell Stoeckel estate to the west of the village green."
+    },
+    {
+      "cityName": "Norfolk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "1888/1889); and over thirty buildings, in a wide variety of styles, designed by Alfredo S. G. Taylor (of the New York firm Taylor & Levi) in the four decades before the Second World War."
+    },
+    {
+      "cityName": "Norfolk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Norfolk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Norfolk has important examples of regional architecture, including the Village Hall (now Infinity Hall, a shingled 1880s Arts-and-Crafts confection, with an opera house upstairs and storefronts at street level); the Norfolk Library (a shingle-style structure, designed by George Keller, c."
+    },
+    {
+      "cityName": "North Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is primarily known for agriculture and for other points of interest including Lake Gaillard and Northford Ice Pavilion."
+    },
+    {
+      "cityName": "North Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has the neighborhoods of Totoket, Wood Chase, Sea Hill, Twin Lakes, Ashley Park, and Doral Farms."
+    },
+    {
+      "cityName": "North Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "North Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Wallingford, Durham, and North Haven border it to the north, East Haven to the west, Guilford to the east, and Branford to the south."
+    },
+    {
+      "cityName": "North Branford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "North Branford also includes the village of Northford."
+    },
+    {
+      "cityName": "North Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "North Canaan",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town center is still called \"Canaan\", being the main town center of the old town of Canaan prior to North Canaan splitting off as its own town."
+    },
+    {
+      "cityName": "North Grosvenordale",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The historic area around the cotton mill was listed in 1993 and is located on Riverside Drive (Route 12), Buckley Hill Road, Floral Avenue, Market Lane, and Marshall, Central, River, and Holmes Streets."
+    },
+    {
+      "cityName": "North Grosvenordale",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The core of the village is listed as the North Grosvenordale Mill Historic District on the National Register of Historic Places."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Haven is home of the Quinnipiac University School of Health Sciences, the School of Nursing, School of Law, School of Education, and School of Medicine on Bassett Road."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is near Sleeping Giant State Park and less than 10 miles (16 km) from downtown New Haven and Yale University."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, it had a population of 24253."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "North Haven has easy access to Interstate 91 and the Wilbur Cross Parkway (Route 15)."
+    },
+    {
+      "cityName": "North Stonington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "North Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It contains the former city of Willimantic as well as the communities of Windham Center, North Windham, and South Windham."
+    },
+    {
+      "cityName": "North Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Willimantic, an incorporated city since 1893, was consolidated with the town in 1983."
+    },
+    {
+      "cityName": "North Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Northford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2002, 230 acres (93 ha) of the central village of Northford were designated as the Northford Center Historic District."
+    },
+    {
+      "cityName": "Northford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the northern part of the town, bordered to the west by the town of North Haven, to the east by the town of Guilford, and to the north by the town of Wallingford, all in New Haven County."
+    },
+    {
+      "cityName": "Northford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is bordered to the northeast by the town of Durham in Middlesex County."
+    },
+    {
+      "cityName": "Northford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Northford was first listed as a CDP prior to the 2020 census."
+    },
+    {
+      "cityName": "Norwalk",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norwalk is on the northern shore of Long Island Sound and was first settled in 1649."
+    },
+    {
+      "cityName": "Norwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Yantic, Shetucket, and Quinebaug Rivers flow into the city and form its harbor, from which the Thames River flows south to Long Island Sound."
+    },
+    {
+      "cityName": "Old Greenwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Greenwich is one political and taxing body, but consists of several distinct sections or neighborhoods, such as Byram, Cos Cob, Glenville, Mianus, Old Greenwich, Riverside, and Greenwich (sometimes referred to as central, or downtown, Greenwich)."
+    },
+    {
+      "cityName": "Old Greenwich",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census it had a population of 6611."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region.The main street of the town, Lyme Street, is a historic district with several homes once owned by sea captains."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its principal institutions include the Florence Griswold Museum, the Lyme Art Association, and the Lyme Academy of Fine Arts."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is named after Lyme Regis, England."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Several seasonal beach communities are in Old Lyme, such as Point O' Woods, Hawk's Nest, and Miami Beach."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Several hundred people rent seasonal cottages and beach front homes from late May through mid October in Old Lyme."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Hartford Avenue, the main street through beach area, features several small stores and a carousel for young children."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town has had for many years a thriving art community."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town of Old Lyme contains several villages, including Black Hall, Laysville, Soundview, and South Lyme."
+    },
+    {
+      "cityName": "Old Lyme",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The total population of the town was 7628 at the 2020 census."
+    },
+    {
+      "cityName": "Old Saybrook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Lower Connecticut River Valley Planning Region, the population was 10481 at the 2020 census."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Distinct settled areas in the town include Oxford Center, Quaker Farms, and Riverside."
+    },
+    {
+      "cityName": "Pawcatuck",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Mechanic Street Historic District of Pawcatuck is listed on the National Register of Historic Places and includes sites of shipbuilding, mills, and worker housing in a 147-acre (0.59 km2) area."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Each village has their own respective United States Post Office and fire department."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Plantsville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is centered at the merger between South Main Street (road from the Milldale section) and West Main Street (road from the Marion section)."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Plymouth, Devon, England."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Plymouth includes the villages of Plymouth Center, Terryville and Pequabuck."
+    },
+    {
+      "cityName": "Pomfret",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1713 and was named after Pontefract in West Yorkshire, England."
+    },
+    {
+      "cityName": "Pomfret",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The land was purchased from local Indians in 1686 in a deal known as the \"Mashmuket Purchase\" or \"Mashamoquet Purchase\"."
+    },
+    {
+      "cityName": "Pomfret",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The vast majority of the brownstone buildings in Connecticut (see College Row at Wesleyan University and the Long Walk at Trinity College) as well as the famous brownstones in New York City were built with brownstone from Portland's quarries."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town has eight marinas and boat clubs as well as three 18-hole golf courses."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "About half of the town's perimeter is made up of the Connecticut River."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Brownstone quarried in Portland was used in the construction of Hartford's Old State House in 1796."
+    },
+    {
+      "cityName": "Portland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Later, one of the quarries was transformed into an adventure park in the summer months featuring zip lines, cliff diving and scuba locations."
+    },
+    {
+      "cityName": "Preston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut planning region."
+    },
+    {
+      "cityName": "Preston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 4788 at the 2020 census."
+    },
+    {
+      "cityName": "Preston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town includes the villages of Long Society, Preston City, and Poquetanuck."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prospect is part of the Waterbury NECTA and of the historical New Haven County."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prospect is also a member of the regional health district Chesprocott, along with Cheshire and Wolcott."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Prospect was incorporated as a town in 1827 from the South Farms part of Waterbury and the West Rocks part of Cheshire."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Prospect is an exurban town, with residents often traveling to other major cities and employment centers across the state."
+    },
+    {
+      "cityName": "Putnam",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Quaker Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village center is included in the Quaker Hill Historic District, a historic district that is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Quaker Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The historic district is the area around Old Norwich Road, extending as far south as the village of Thames View and as far north as Route 32."
+    },
+    {
+      "cityName": "Redding",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Redding is an incorporated town in Fairfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Redding",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Ridgefield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the foothills of the Berkshire Mountains and on the New York state border, Ridgefield had a population of 25033 as of the 2020 census."
+    },
+    {
+      "cityName": "Ridgefield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Ridgefield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was settled then quickly incorporated by 1709."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riverside is a neighborhood/section in the town of Greenwich in Fairfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Greenwich is one political and taxing body, but consists of several distinct sections or neighborhoods, such as Banksville, Byram, Cos Cob, Glenville, Mianus, Old Greenwich, Riverside, and Greenwich (sometimes referred to as central, or downtown, Greenwich)."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, it had a population of 8843."
+    },
+    {
+      "cityName": "Rockville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Rockville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated as a city in 1889, it has been consolidated with the town of Vernon since 1965."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rocky Hill is the home to the Dinosaur State Park."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rocky Hill\u2019s location on the Connecticut River made it a natural port for Wethersfield and an early center for shipbuilding, agriculture, and trade."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was originally land of the Wangunks (a tribe of Native Americans)."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Europeans began to settle the area of Rocky Hill in 1650, as part of Wethersfield, the neighboring town to the north."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1722, the area became known as Stepney Parish, until it was independently incorporated in 1843."
+    },
+    {
+      "cityName": "Rocky Hill",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Rocky Hill also was once the headquarters of Ames Department Stores, which ceased business operations in 2002."
+    },
+    {
+      "cityName": "Salem",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is the northwesternmost in the state of Connecticut; the Connecticut-Massachusetts-New York tri-state marker is located at the northwestern corner of the town."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Sandy Hook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sandy Hook is a village in the town of Newtown, Connecticut, United States, founded in 1711."
+    },
+    {
+      "cityName": "Sandy Hook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the United States Census Bureau in 2021, it has a population of 9114."
+    },
+    {
+      "cityName": "Scotland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Scotland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 1576."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Seymour",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Seymour is bordered by the towns of Oxford and Beacon Falls to the north, Bethany and Woodbridge to the east, Ansonia and Derby to the south, and Shelton to the west."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2020 census, the town had a total population of 2680."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for Founding Father Roger Sherman."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sherman is the northernmost and least populous town of Fairfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Before 1802, the town was incorporated as part of New Fairfield."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sherman is a popular weekend retreat for New York City residents, with about a third of its residents weekenders."
+    },
+    {
+      "cityName": "Simsbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Simsbury is a town in Hartford County, Connecticut, United States, incorporated as Connecticut's 21st town in May 1670."
+    },
+    {
+      "cityName": "Simsbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Simsbury Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The core area of the CDP is listed as the Simsbury Center Historic District on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Simsbury Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the CDP had a population of 5836."
+    },
+    {
+      "cityName": "Somers",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2007, Money Magazine listed Somers 53rd on its \"100 Best Places to Live\", based on \"economic opportunity, good schools, safe streets, things to do and a real sense of community.\" Bordering Massachusetts, Somers is considered part of the city of Springfield NECTA."
+    },
+    {
+      "cityName": "Somers",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Somers is 13 miles (21 km) southeast of Springfield and considered more oriented toward it than the city of Hartford, which lies 22 miles (35 km) to the southwest."
+    },
+    {
+      "cityName": "Somers",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "South Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The South Glastonbury Historic District is a historic district in Glastonbury, Connecticut, United States."
+    },
+    {
+      "cityName": "South Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It encompasses the historic village center of South Glastonbury, which was first settled in the 17th century."
+    },
+    {
+      "cityName": "South Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The district was listed on the National Register of Historic Places in 1984, and enlarged in 2009 to include properties further along Main Street as far as Chestnut Hill Road."
+    },
+    {
+      "cityName": "South Glastonbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Locals refer to it as SoG."
+    },
+    {
+      "cityName": "South Windsor",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southbury comprises sprawling rural country areas, suburban neighborhoods, and historic districts."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is north of Oxford and Newtown, and east of Brookfield."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 19879 at the 2020 census."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is a short distance from major business and commercial centers."
+    },
+    {
+      "cityName": "Southbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is 67 miles (107 km) north of New York City, and 34 miles (54 km) west of Hartford."
+    },
+    {
+      "cityName": "Southington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Southington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 United States census, it had a population of 43501."
+    },
+    {
+      "cityName": "Southington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Southington contains the villages of Marion, Milldale, and Plantsville."
+    },
+    {
+      "cityName": "Southport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settled in 1639, Southport center has been designated a local historic district since 1967."
+    },
+    {
+      "cityName": "Southport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1971, it was listed on the National Register of Historic Places as the Southport Historic District."
+    },
+    {
+      "cityName": "Southport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, it had a population of 1710."
+    },
+    {
+      "cityName": "Southwood Acres",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southwood Acres is a suburban neighborhood within the town of Enfield in northern Hartford County, Connecticut, United States."
+    },
+    {
+      "cityName": "Sprague",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after William Sprague III, who laid out the industrial section."
+    },
+    {
+      "cityName": "Sprague",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Sprague",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sprague includes three villages: Baltic, Hanover, and Versailles."
+    },
+    {
+      "cityName": "Stafford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community consists of the downtown area of Stafford Springs and the more rural villages of Crystal Lake, Ellithorpe, Hydeville, Orcuttsville, Staffordville, Stafford Hollow, Village Hill, and West Stafford."
+    },
+    {
+      "cityName": "Stafford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stafford is a town in Tolland County, Connecticut, United States, settled in 1719."
+    },
+    {
+      "cityName": "Stafford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural town is home to two villages: Oneco (named for Oneco, Sachem of the Mohegans) and Sterling village."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Each contains a post office, a church, and a fire station."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town hall and public library are located in Oneco, and the town's one public school is in Sterling village."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The municipal limits of the town include the borough of Stonington, the villages of Pawcatuck, Lords Point, and Wequetequock, and the eastern halves of the villages of Mystic and Old Mystic."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stonington is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is home to many restored homes and preserves its long nautical history."
+    },
+    {
+      "cityName": "Storrs",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Storrs is dominated economically and demographically by the main campus of the University of Connecticut and the associated Connecticut Repertory Theatre."
+    },
+    {
+      "cityName": "Storrs",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stratford has a historical legacy in aviation, the military, and theater."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bordered on the west by Bridgeport, to the north by Trumbull and Shelton, and on the east by Milford (across the Housatonic River)."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Greater Bridgeport Planning Region, and the Bridgeport\u2013Stamford\u2013Norwalk Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was settled by Puritans in 1639."
+    },
+    {
+      "cityName": "Suffield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region, and located in the Connecticut River Valley."
+    },
+    {
+      "cityName": "Suffield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bordering Massachusetts, Suffield is part of the Springfield, Massachusetts NECTA."
+    },
+    {
+      "cityName": "Suffield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 15752."
+    },
+    {
+      "cityName": "Suffield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was once within the boundaries of Massachusetts."
+    },
+    {
+      "cityName": "Taftville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The National Park Service will oversee the historic preservation of the structure, to ensure the historic elements are sustained."
+    },
+    {
+      "cityName": "Taftville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is listed on the National Register of Historic Places as Taftville and as alternative name Taftville/Ponemah Mill National Register Historic District."
+    },
+    {
+      "cityName": "Taftville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was established in 1866 as site for the large Taftville Mill, later Ponemah Mill."
+    },
+    {
+      "cityName": "Taftville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Currently redevelopment of the large mill is being conducted by The O'Neill Group in conjunction with OneKey LLC."
+    },
+    {
+      "cityName": "Taftville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The 430000-square-foot (40000 m2) Ponemah Mill is being converted into luxury apartments and commercial space."
+    },
+    {
+      "cityName": "Terryville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is named for Eli Terry Junior, the son of the well-known clockmaker Eli Terry Senior Terryville is also home to the Lock Museum of America."
+    },
+    {
+      "cityName": "Terryville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the 2010 census, Terryville had a population of 5387, out of 12243 in the entire town of Plymouth."
+    },
+    {
+      "cityName": "Terryville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There is a water wheel located in downtown Terryville that is dedicated to the son of Eli Terry Senior"
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Sir Robert Thompson, an English landholder."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Thompson is located in the northeastern corner of the state and is bordered on the north by Webster, Massachusetts and Dudley, Massachusetts, on the east by Douglas, Massachusetts and Burrillville, Rhode Island, on the west by Woodstock, Connecticut, and on the south by Putnam, Connecticut."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Thompson has the highest-banked race track (Thompson Speedway Motorsports Park, a 5/8 mile oval and a restored 1.7 mile road course) in New England."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "This speedway holds one of the biggest race programs in New England, The World Series of Auto Racing, where 16 divisions and about 400 cars show up each fall."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Another claim to fame is that the Tri-State Marker is located just on the border of Thompson."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The term \"Swamp Yankee\" is thought to have originated in Thompson during the American Revolution in 1776."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "In colonial times, the town was the site of an Indian village, known as Maanexit."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Thompson was the site of the Great East Thompson Train Wreck in 1891, one of the worst train wrecks in American history and the only one to involve four trains."
+    },
+    {
+      "cityName": "Tolland",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Torrington",
+      "state": "CT",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "John Brown was born in Torrington."
+    },
+    {
+      "cityName": "Trumbull",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Trumbull area was the home of the Golden Hill Paugussett Indian Nation for thousands of years before the English settlement was made in 1639."
+    },
+    {
+      "cityName": "Trumbull",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Greater Bridgeport Planning Region, and borders on the cities of Bridgeport and Shelton, as well as the towns of Stratford, Fairfield, Easton and Monroe."
+    },
+    {
+      "cityName": "Trumbull",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "After independence, the successful American Yankees named the town after one of their own, Jonathan Trumbull (1710\u20131785), a merchant, Patriot (American soldier) and statesman."
+    },
+    {
+      "cityName": "Trumbull",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Aviation pioneer Igor Sikorsky lived in Trumbull during his active years, when he designed, built, and flew fixed-wing aircraft and put the helicopter into mass production for the first time."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1994, the federal government officially recognized the Mohegan Indian Tribe of Connecticut, which had historically occupied this area as part of its traditional territory."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since gaining a reservation, in 1996 the tribe developed the Mohegan Sun casino resort."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "That year Congress passed the Mohegan Nation (Connecticut) Land Claim Settlement Act."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Act authorized the United States to take land into trust in northeastern Montville for the Mohegan tribe's use as a reservation."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has also built the Mohegan Sun Arena on their land."
+    },
+    {
+      "cityName": "Uncasville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Mohegan are one of the Native American peoples who speak Algonquian languages."
+    },
+    {
+      "cityName": "Union",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Union includes the village of Mashapaug located in the Eastern Uplands at the Massachusetts state line."
+    },
+    {
+      "cityName": "Union",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Union is located 33 miles (53 kilometers) northeast of the state capital, Hartford and 67 mi (108 km) southwest of Boston, as well as 153 mi (246 km) northeast of New York City."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Vernon contains the smaller villages of Talcottville and Dobsonville, as well as the former City of Rockville."
+    },
+    {
+      "cityName": "Voluntown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Voluntown was part of Windham County from 1726 to 1881, after which it became part of New London County."
+    },
+    {
+      "cityName": "Wallingford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Wallingford, in England."
+    },
+    {
+      "cityName": "Wallingford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wallingford Center is a historic district in the heart of Wallingford comprising the primary community in the town of Wallingford, New Haven County, Connecticut, United States."
+    },
+    {
+      "cityName": "Wallingford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It features a walkable downtown area lined with boutique shops, local eateries, and historic estates spanning Colonials, Victorians, and Cape Cods."
+    },
+    {
+      "cityName": "Wallingford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wallingford Center also benefits from transit connectivity, with the Wallingford Train Station serving the Hartford Line for commutes to New Haven, Hartford, along with access to New York City and Boston."
+    },
+    {
+      "cityName": "Wallingford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its location along I-91 and the Wilbur Cross Parkway provides residents with access to the broader Connecticut region, whether for work or recreation."
+    },
+    {
+      "cityName": "Wallingford Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2010 census, the Wallingford Center CDP had a population of 18209, out of 45135 in the entire town of Wallingford."
+    },
+    {
+      "cityName": "Warren",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Revolutionary War General Joseph Warren."
+    },
+    {
+      "cityName": "Warren",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Warren",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On July 1, 2006, businessman Joseph Cicio placed most of Warren's commercial district on eBay for $5000000."
+    },
+    {
+      "cityName": "Washington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washington is known for its picturesque countryside, historic architecture, and active civic and cultural life."
+    },
+    {
+      "cityName": "Washington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has strong ties to New York City, and is home to many cultural and business elites."
+    },
+    {
+      "cityName": "Washington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waterbury is also home to Post University and the regional campuses of the University of Connecticut, University of Bridgeport, and Western Connecticut State University, as well as Naugatuck Valley Community College."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Throughout the first half of the 20th century, Waterbury had large industrial interests and was the leading center in the United States for the manufacture of brassware (including castings and finishings), as reflected in the nickname the \"Brass City\" and the city's motto, Quid Aere Perennius?"
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is alongside Interstate 84 (Yankee Expressway) and Route 8 and has a Metro-North railroad station with connections to Grand Central Terminal."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Waterbury had a population of 114403 as of the 2020 Census."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is 33 miles (53 km) southwest of Hartford and 77 miles (124 km) northeast of New York City."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "(\"What Is More Lasting Than Brass?\")."
+    },
+    {
+      "cityName": "Waterbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It was also noted for the manufacture of watches and clocks (Timex)."
+    },
+    {
+      "cityName": "Waterford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Waterford, Ireland."
+    },
+    {
+      "cityName": "Waterford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb of Waterbury."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Among the southernmost of the communities in the Hartford-Springfield Knowledge Corridor metropolitan region, West Hartford is home to University of Hartford and the University of Saint Joseph."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated as a town in 1854, West Hartford was previously a parish of Hartford, founded in 1672."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West Hartford is home to regular events that draw large crowds from neighboring towns, including the Elizabeth Park Concert Series, and the annual Celebrate West Hartford event, which includes fairground rides, food vendors, musical performances, and stalls by local businesses."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's popular downtown area is colloquially known as \"West Hartford Center,\" or simply \"The Center,\" and is centered on Farmington Avenue and South/North Main Street."
+    },
+    {
+      "cityName": "West Hartford",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "West Hartford Center has been the community's main commercial hub since the late 17th century."
+    },
+    {
+      "cityName": "Westbrook",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is served by Route 57 and Route 53, both of which run through the town center."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Approximately 19% of the town's workforce commutes to New York City, about 45 miles (72 km) to the southwest."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2017, SafeWise ranked Weston the safest town in Connecticut and the sixth safest town in the country."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Aside from a handful of stores that form the town's center, Weston has little commercial development and residential development is limited by two-acre zoning."
+    },
+    {
+      "cityName": "Weston",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Most of Devil's Den Preserve, a 1746-acre (707 ha) nature reserve, which gets 40000 visits a year, is located in the town."
+    },
+    {
+      "cityName": "Westport",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Gold Coast along the Long Island Sound, it is 48 miles (77 km) northeast of New York City and is part of the Western Connecticut Planning Region."
+    },
+    {
+      "cityName": "Wethersfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The neighborhood known as Old Wethersfield is the state's largest historic district, spanning 2 sq mi (5.2 km2) and containing 1100 buildings, dating to the 17th, 18th and 19th centuries."
+    },
+    {
+      "cityName": "Wethersfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Wethersfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many records from colonial times spell the name \"Weathersfield\" and \"Wythersfield\", while Native Americans called it Pyquag."
+    },
+    {
+      "cityName": "Wethersfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "\"Watertown\" is a variant name."
+    },
+    {
+      "cityName": "Wethersfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is primarily served by Interstate 91."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The University of Connecticut is located in adjacent Mansfield."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Willimantic River borders the town on the west."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Willington is approximately 25 miles northeast of Hartford on Interstate 84, which also provides a connection to Boston, via the Massachusetts Turnpike."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Providence, RI is accessible via U S Route 44."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Larger communities nearby include Coventry, Stafford, Tolland, and Willimantic."
+    },
+    {
+      "cityName": "Willington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "A new public library (formerly located within Hall Memorial School) opened in autumn 2006."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city of Winsted is located in Winchester."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Winchester Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city of Winsted is located in Winchester."
+    },
+    {
+      "cityName": "Winchester Center",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It contains the former city of Willimantic as well as the communities of Windham Center, North Windham, and South Windham."
+    },
+    {
+      "cityName": "Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Willimantic, an incorporated city since 1893, was consolidated with the town in 1983."
+    },
+    {
+      "cityName": "Windham",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Southeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the northern border of Connecticut's capital, Hartford."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located beside the Connecticut River and equidistant from the densely populated cities of Springfield, Massachusetts, and Hartford, Connecticut, Windsor Locks is named for a set of canal locks that opened in 1829."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Windsor Locks is also the site of the New England Air Museum."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the site of Bradley International Airport, which serves the Greater Hartford-Springfield region and occupies approximately a third of the town."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Windsor Locks is situated just south of the first large falls in the Connecticut River, the Enfield Falls, which is the head of navigation (the farthest point that seagoing vessels can reach) of the Connecticut River."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 census, its population was 12613."
+    },
+    {
+      "cityName": "Windsor Locks",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Enfield Falls Canal circumvents the Enfield Falls and its nearby shallows."
+    },
+    {
+      "cityName": "Winsted",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It comprises the majority of the town of Winchester's 10224 population."
+    },
+    {
+      "cityName": "Winsted",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winsted is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Wolcott",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Wolcott",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is primarily residential, with a population of 16142 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Wolcott",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was settled in the 1730s by English settlers of the Connecticut Colony and was known as Farmingbury."
+    },
+    {
+      "cityName": "Wolcott",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was renamed as Wolcott after being incorporated in 1796, following the United States' gaining independence."
+    },
+    {
+      "cityName": "Wolcott",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Some early records spell it as Wolcutt."
+    },
+    {
+      "cityName": "Woodbridge",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town center is listed on the National Register of Historic Places as Woodbridge Green Historic District."
+    },
+    {
+      "cityName": "Woodbridge",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Woodbridge",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Woodbridge is part of the Amity Regional School District #5, rated the #1 school district in New Haven County and the 10th best school district in Connecticut by Niche in 2021."
+    },
+    {
+      "cityName": "Woodbridge",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2019, Woodbridge had the seventh highest median household income in Connecticut."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town is famous for the Woodbury Softball league incorporated in 1969 by Rich Geraci."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The public buildings in the National Register Historic District include the First Congregational Church (1818), the Old Town Hall (1846), the United Methodist Church, the St. Paul's Episcopal Church (1785), and the North Congregational Church (1816)."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Originally, the many historic houses on the street were residential."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Woodbury was founded in 1673."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The center of Woodbury is distinctive for its mile-long stretch of older buildings lining both sides of the road."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The most eye-catching of the public buildings is the Masonic Temple (1839)."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It is a modest, clapboard, Greek Revival temple, notable less for its architecture than for its dramatic location, situated atop a high cliff accessed by a long flight of steps (there is a modern road at the rear)."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It is visible from a distance and is especially dramatic at night, when it is illuminated by spotlights."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Woodbury Temple echoes the many temples of the Greek world that were perched at the edge of high places from which they could be seen from miles around and from far out at sea."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Northeastern Connecticut Planning Region."
+    },
+    {
+      "cityName": "Yalesville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village was founded in 1677, and was originally called \"First Falls\"."
+    },
+    {
+      "cityName": "Yalesville",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was renamed Yalesville in 1808."
+    }
+  ]
+}

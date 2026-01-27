@@ -1635,8 +1635,29 @@ try {
     locations: locations
   };
 
-  // Write brand file with readable formatting
+  // Check if existing file has more data - protect against bad ATP releases
   const outPath = path.join(DATA_DIR, `${brandKey}.json`);
+  if (fs.existsSync(outPath)) {
+    try {
+      const existingData = JSON.parse(fs.readFileSync(outPath, 'utf-8'));
+      const existingCount = existingData.locations ? existingData.locations.length : 0;
+      const newCount = locations.length;
+      const ratio = existingCount > 0 ? newCount / existingCount : 1;
+
+      if (ratio < 0.5) {
+        console.error(`\n⚠️  WARNING: New ATP data has significantly fewer locations!`);
+        console.error(`   Existing: ${existingCount} locations`);
+        console.error(`   New data: ${newCount} locations (${Math.round(ratio * 100)}% of existing)`);
+        console.error(`   Skipping update to preserve existing data.`);
+        console.error(`   To force update, delete brands/${brandKey}.json first.`);
+        process.exit(1);
+      }
+    } catch (e) {
+      // If we can't read existing file, proceed with write
+    }
+  }
+
+  // Write brand file with readable formatting
   let jsonStr = JSON.stringify(brandData)
     .replace(/"locations":\[/, '"locations":[\n  ')
     .replace(/\},\{/g, '},\n  {');

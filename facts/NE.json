@@ -31,13 +31,6 @@
     {
       "cityName": "Alexandria",
       "state": "NE",
-      "source": "Wikidata",
-      "factNumber": 1,
-      "fact": "Umberto Eco was born in Alexandria."
-    },
-    {
-      "cityName": "Alexandria",
-      "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Alexandria is a village in Thayer County, Nebraska, United States."

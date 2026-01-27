@@ -1,0 +1,1033 @@
+{
+  "facts": [
+    {
+      "cityName": "Afton",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Afton is home to the world's largest arch made of elk antlers."
+    },
+    {
+      "cityName": "Afton",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Spanning 75 feet (23 m) across the four lanes of U S Highway 89, the arch, completed in 1958, consists of 3011 naturally shed elk antlers and weighs 15 tons."
+    },
+    {
+      "cityName": "Arapahoe",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A Catholic mission was founded here in 1884."
+    },
+    {
+      "cityName": "Arapahoe",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St Stephen's Mission Church, located near Arapahoe, is part of the Catholic mission."
+    },
+    {
+      "cityName": "Baggs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baggs is home to the Outlaw Stop, a branch of the Little Snake River Museum, which is headquartered in Savery."
+    },
+    {
+      "cityName": "Bar Nunn",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of the Casper, Wyoming Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bar Nunn",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1980."
+    },
+    {
+      "cityName": "Bar Nunn",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was constructed around the runways of Wardwell Field, Casper's original airport, which was later replaced by Casper\u2013Natrona County International Airport."
+    },
+    {
+      "cityName": "Basin",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Basin's post office, built in 1919, is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Basin",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located near the center of the Bighorn Basin with the Big Horn River east of the town."
+    },
+    {
+      "cityName": "Bear River",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bear River is a town in Uinta County, Wyoming, United States, incorporated in 2001."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city had experienced an economic boom due to methane production from the Coal Bed Methane Extraction method used in the Powder River Basin and surrounding areas."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Buffalo is located at the foot of the Bighorn Mountains."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With the decline of methane production, Buffalo's population has stabilized since the 2010 Census."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Even though energy is a vital part of its economy, agriculture, tourism, and recreation are three other major components."
+    },
+    {
+      "cityName": "Casper",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Casper is nicknamed \"The Oil City\" and has a long history of oil boomtown and cowboy culture, dating back to the development of the nearby Salt Creek Oil Field."
+    },
+    {
+      "cityName": "Casper",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Casper is located in east central Wyoming on the North Platte River."
+    },
+    {
+      "cityName": "Casper",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Casper is the second-most populous city in the state after Cheyenne, with the population at 59038 as of the 2020 census."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cheyenne hosts cultural institutions such as the Wyoming State Museum and Cheyenne Frontier Days Old West Museum, and is known for the annual Cheyenne Frontier Days, a longstanding rodeo and cultural event."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cheyenne was established within the Dakota Territory in 1867 as a junction along the Union Pacific Railroad."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cheyenne is the northern terminus of the extensive Southern Rocky Mountain Front."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cheyenne ( shy-AN or shy-EN) is the capital and most populous city of the U S state of Wyoming."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Cheyenne is situated on Crow Creek and Dry Creek."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Local residents named the town for the Cheyenne people."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Its economy is anchored by government services, transportation, and military operations, notably Francis E. Warren Air Force Base, with emerging growth in data centers and renewable energy."
+    },
+    {
+      "cityName": "Chugwater",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 175."
+    },
+    {
+      "cityName": "Chugwater",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The High Plains town is located 45 miles north of Cheyenne and 25 miles south of Wheatland."
+    },
+    {
+      "cityName": "Cody",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Buffalo Bill Cody for his part in the founding of Cody in 1896."
+    },
+    {
+      "cityName": "Cody",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cody is served by Yellowstone Regional Airport."
+    },
+    {
+      "cityName": "Cokeville",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is known for the Cokeville Elementary School hostage crisis."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town lies on U S Route 189, in the Green River valley as the water flows out of the Gros Ventre Range to Daniel's north and the Wind River Range to the town's east."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Horse Creek, a Green River tributary that joins just west of Daniel, has its headwaters west in the Salt River Range."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Thus bordered on three sides by nearby mountains, Daniel lies in the very northern, highest part of the large basin that defines much of southern Wyoming."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Wyoming Highway 354 is a west-east road that intersects US Highways 189 and 191 north of town."
+    },
+    {
+      "cityName": "Devils Tower",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Devils Tower National Monument was the first United States national monument, established on September 24, 1906, by President Theodore Roosevelt."
+    },
+    {
+      "cityName": "Devils Tower",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The monument's boundary encloses an area of 1347 acres (545 ha)."
+    },
+    {
+      "cityName": "Devils Tower",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Devils Tower (also known as Mat\u021f\u00f3 Th\u00edpila or Bear Lodge) is a laccolithic butte, composed of igneous rock in the Bear Lodge Ranger District of the Black Hills, near Hulett and Sundance in Crook County, northeastern Wyoming, above the Belle Fourche River."
+    },
+    {
+      "cityName": "Devils Tower",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It rises 1267 feet (386 m) above the Belle Fourche River, standing 867 feet (264 m) from summit to base."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Wyoming State Fair."
+    },
+    {
+      "cityName": "Dubois",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dubois : /\u02c8du\u02d0 b\u0254\u026az/ ) is a town in Fremont County, Wyoming, United States."
+    },
+    {
+      "cityName": "Elk Mountain",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town shares its name with a mountain 7 miles (11 km) to its southwest."
+    },
+    {
+      "cityName": "Evansville",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Evansville is the location of the Oregon Trail State Veterans Cemetery."
+    },
+    {
+      "cityName": "Fort Bridger",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community takes its name from the eponymous Fort Bridger, established in 1842, which is located within the boundaries of the CDP."
+    },
+    {
+      "cityName": "Fort Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after historic Fort Laramie, an important stop on the Oregon, California and Mormon trails, as well as a staging point for various military excursions and treaty signings."
+    },
+    {
+      "cityName": "Fort Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The old fort was located south of town across the North Platte River, at the mouth of the Laramie River."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1891 as a major railway town on the Chicago, Burlington and Quincy Railroad."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gillette's population had increased 48% in the ten years after the 2000 census, which counted 19646 residents, after a boom in its local fossil fuel industries."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gillette is centrally located in an area devoted to the development of vast quantities of coal, oil, and coalbed methane gas."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city calls itself the \"Energy Capital of the Nation\", because Wyoming provides nearly 35% of the nation's coal."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "However, a decline in coal use in the U S in the first quarter of the 21st century has affected the state economy."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Some local officials are seeking other industries or employment opportunities."
+    },
+    {
+      "cityName": "Gillette",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As a major economic hub for the county, the city is also a regional center for media, education, health, and arts."
+    },
+    {
+      "cityName": "Granger",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The geography of the area is flat with semi-arid scrub."
+    },
+    {
+      "cityName": "Guernsey",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for C. A. Guernsey, a cattle rancher."
+    },
+    {
+      "cityName": "Hanna",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was started as a coal supply location for the Union Pacific Railroad."
+    },
+    {
+      "cityName": "Hanna",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the old town is built on top of the former workings of the Hanna No."
+    },
+    {
+      "cityName": "Hanna",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On December 18, 1979, the Town of Hanna annexed the adjacent Town of Elmo."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jackson is a popular tourist destination due to its proximity to the ski resorts Jackson Hole Mountain, Snow King Mountain, and Grand Targhee."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jackson also acts as a gateway community for Grand Teton National Park and Yellowstone National Park."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is Teton County's only incorporated municipality and its county seat, and it is the largest incorporated town in Wyoming."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is often called Jackson Hole, which is the name of the valley in which it is located."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Western music star and rodeo champion Chris LeDoux resided on a ranch near Kaycee, although he was born in Biloxi, Mississippi."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to a museum that preserves the cattle ranching heritage of the area, especially the history of the Johnson County War."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was named after the brand \"KC\" used by its earliest homesteader, John Nolan."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is now home to three churches, two bars, two restaurants, one store, one museum, one K-12 school, and zero stoplights."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Kaycee was incorporated in 1906 after the establishment of a small post office and general store."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The government required the name to be spelled out resulting in \"Kaycee\"."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Former NCAA Division III track and field athlete Noah Elm was born and raised in Kaycee."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Wyoming Governor Mark Gordon grew up on the Gordon Ranch near Kaycee."
+    },
+    {
+      "cityName": "Kaycee",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Gordon is owner of the Merlin Ranch east of Buffalo and is affiliated with the 48 Ranch Partnership in Kaycee."
+    },
+    {
+      "cityName": "Kemmerer",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2415 at the 2020 census."
+    },
+    {
+      "cityName": "La Barge",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 22.5 miles from Big Piney."
+    },
+    {
+      "cityName": "Lander",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a tourism center with several nearby guest ranches."
+    },
+    {
+      "cityName": "Lander",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 7546 at the 2020 census."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the University of Wyoming, WyoTech, and a branch of Laramie County Community College."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After 12000 years or more of Indigenous populations living in the area, Laramie was settled by European Americans in 1868 with the completion of the Union Pacific Railroad line to the area, which crosses the Laramie River at Laramie."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The river and several creeks fed by freshwater springs made the area an attractive place for settlement."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located on the Laramie River in southeastern Wyoming, the city is west of Cheyenne and 25 miles (40 km) north of the Colorado state line, at the junction of Interstate 80 and U S Route 287."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located in the Laramie Valley between the Snowy Range and the Laramie Range, the city draws outdoor enthusiasts with its abundance of outdoor activities."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Laramie Regional Airport serves Laramie."
+    },
+    {
+      "cityName": "Laramie",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The ruins of Fort Sanders, an army fort predating Laramie, lie just south of the city along Route 287."
+    },
+    {
+      "cityName": "Lost Springs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 6, making it the least populated municipality in Wyoming."
+    },
+    {
+      "cityName": "Manderson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is widely regarded as a speed trap for tourists heading to Yellowstone National Park."
+    },
+    {
+      "cityName": "Manderson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was originally called Alamo, but it was renamed in 1889 in honor of Charles F. Manderson, chief counsel for Burlington Railroad."
+    },
+    {
+      "cityName": "Medicine Bow",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 284 at the 2010 census."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ranch was designated a National Historic Landmark in 2006."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The National Park Service maintains the Grand Teton National Park headquarters in Moose, as well as the park visitor center."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most of the ranches and residences along the Moose\u2013Wilson Road have been turned over to the national park, including John D. Rockefeller Junior's JY Ranch and the Murie Ranch."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Given its central location in the Jackson Hole valley, Moose has been the setting for several motion pictures, including The Far Horizons in 1955."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is populated mostly by families with inholdings within the borders of the park."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The name Moose can also refer to the small community of Park Service houses located immediately behind administration offices."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "These houses are exclusively inhabited by Park Service employees and their families."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "A local non-profit, the Grand Teton Association, also maintains some facilities in the area to help further the NPS mission."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Olaus and Margaret Murie and Olaus' brother Adolph lived in Moose for much of their lives."
+    },
+    {
+      "cityName": "Moose",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Today the Murie Ranch is administered by the Teton Science Schools."
+    },
+    {
+      "cityName": "Moran",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moran (also Moran Junction) is an unincorporated village in south central Teton County, Wyoming, United States: as the community has had two different names, the Board on Geographic Names officially ruled in favor of \"Moran\" in 1970."
+    },
+    {
+      "cityName": "Moran",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 6749 feet (2057 m) and includes one of the principal entrance-fee collection stations for the Park."
+    },
+    {
+      "cityName": "Moran",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The high altitude at which the village is located, as well as the effects of radiational cooling, cause particularly severe conditions in the winter."
+    },
+    {
+      "cityName": "Pine Bluffs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first known as Rock Ranch, but the name was changed by railroad officials for the pines on the nearby bluffs."
+    },
+    {
+      "cityName": "Pine Bluffs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pine Bluffs is part of the Cheyenne, Wyoming, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pine Haven",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded by a number of families, but Coop and Betty Waters are believed to have made the Pine Haven community take form."
+    },
+    {
+      "cityName": "Pinedale",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Attractions include the Museum of the Mountain Man, Green River Rendezvous Days, White Pine Ski Area, the Pinedale Aquatic Center and the Town Park System along the Pine Creek Corridor in the middle of town."
+    },
+    {
+      "cityName": "Pinedale",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pinedale is an important hunting outfitting town and a gateway to the Wind River Range."
+    },
+    {
+      "cityName": "Pinedale",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Additionally, Pinedale is near several large natural gas fields, including the Pinedale Anticline and Jonah Field."
+    },
+    {
+      "cityName": "Powell",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Powell is an All-America City and home to Northwest College."
+    },
+    {
+      "cityName": "Rawlins",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Union General John Aaron Rawlins, who camped in the locality in 1867."
+    },
+    {
+      "cityName": "Riverton",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population was 10682 at the 2020 census, making it the most populous city in the county."
+    },
+    {
+      "cityName": "Rock River",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the town population was 245."
+    },
+    {
+      "cityName": "Rock Springs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rock Springs is the site of Western Wyoming Community College and Wyoming's Big Show, a yearly event with a carnival and concerts which is held at the Sweetwater County Events Complex."
+    },
+    {
+      "cityName": "Rock Springs",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rock Springs is located in an energy-rich region with many oil and natural gas wells."
+    },
+    {
+      "cityName": "Rolling Hills",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a planned community (Zip code: 82637) incorporated as a town in 1984."
+    },
+    {
+      "cityName": "Saratoga",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saratoga is the home of the Steinley Cup microbrew festival and competition, usually held in August at Veterans Island Park, a playground and picnic facility on a small island in the North Platte River, which is designated a Blue Ribbon Stream by the Wyoming Game and Fish Department."
+    },
+    {
+      "cityName": "Saratoga",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its two largest employers are the United States Forest Service and Carbon County School District No."
+    },
+    {
+      "cityName": "Saratoga",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Saratoga also has a public pool heated by a hot spring."
+    },
+    {
+      "cityName": "Saratoga",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "2, both public sector employers."
+    },
+    {
+      "cityName": "Saratoga",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's motto is \"Where The Trout Leap In Main Street.\" The local newspaper is the Saratoga Sun."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 census put the city's population at 18737, making it the 6th most populous city in Wyoming."
+    },
+    {
+      "cityName": "Star Valley Ranch",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated on November 8, 2005; at the 2000 census, it was only a census-designated place (CDP)."
+    },
+    {
+      "cityName": "Sundance",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after the Sun Dance ceremony practiced by several American Indian tribes."
+    },
+    {
+      "cityName": "Sundance",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1032 at the 2020 census."
+    },
+    {
+      "cityName": "Teton Village",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village surrounds the base of the Jackson Hole Mountain Resort."
+    },
+    {
+      "cityName": "Teton Village",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is accessed from nearby Jackson and the surrounding area via the Moose-Wilson Road (WYO 390)."
+    },
+    {
+      "cityName": "Thermopolis",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town claims the world's largest mineral hot spring, \"The Big Spring\", as part of Hot Springs State Park."
+    },
+    {
+      "cityName": "Thermopolis",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Thermopolis, Greek for \"hot city\", is the location of numerous natural hot springs, in which mineral-laden waters are heated by geothermal processes."
+    },
+    {
+      "cityName": "Thermopolis",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The springs are open to the public for free as part of an 1896 treaty signed with the Shoshone and Arapaho Indian tribes."
+    },
+    {
+      "cityName": "Thermopolis",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 U S census, the town population was 2725."
+    },
+    {
+      "cityName": "Torrington",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Eastern Wyoming College, and is the surrounding region's center of commercial activity."
+    },
+    {
+      "cityName": "Torrington",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Within this primarily agricultural community, there are several fertilizer plants, a former sugar beet factory which closed in 2019, and numerous tourist facilities and retail businesses that serve the local and nearby rural populations."
+    },
+    {
+      "cityName": "Upton",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The slogan of the town is: \"The best town on earth\"."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Frank Wolcott, an officer in the Union Army, a law man and a rancher."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1868, the Union Pacific Railroad arrived at Walcott as part of the first transcontinental railroad."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Hanna Basin is bounded to the north by the Shirley Mountains and Seminole mountains, to the east by Simpson Ridge, to the south by the Medicine Bow Mountains and Park Range, and to the west by the Rawlins Uplift."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its elevation is 6627 feet (2020 m)."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Walcott is located on the southern part of the Hanna Basin."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The second track, put along the first track, which was laid in 1968, was installed in 1912."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Public education in the community of Walcott is provided by Carbon County School District #2."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wamsutter is the largest settlement, and the only incorporated town in the Great Divide Basin."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Westerners only began to settle in the county with the coming of the railroad in the 1860s."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The natural gas industry has exerted great influence on Wamsutter in recent years, through employment opportunities in the area, and by contributing to the community directly."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town, which bills itself as \"The Gateway to the Red Desert\" is located along Interstate 80 between Rawlins and Rock Springs, on the easternmost border of Sweetwater County."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The original inhabitants of the area were the Shoshone and Ute tribes."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Originally, the town was known as Washakie."
+    },
+    {
+      "cityName": "Wamsutter",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Confusion with nearby Fort Washakie prompted an 1884 name change to Wamsutter, after a Union Pacific bridge engineer."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilson was pioneered in 1889 by Elijah Nicholas Wilson, known for having lived with the Shoshone Indians as a boy in the 1850s."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "His book, The White Indian Boy, describes his experiences, including his time as a rider for the Pony Express."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was later named in his honor."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "WY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It sits at the base of Teton Pass, just northwest of Jackson on State Highway 22."
+    }
+  ]
+}

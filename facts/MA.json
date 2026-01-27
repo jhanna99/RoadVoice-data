@@ -1079,6 +1079,20 @@
       "fact": "The town shares the village of Shelburne Falls with neighboring Shelburne."
     },
     {
+      "cityName": "Burlington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burlington is a town in Middlesex County, Massachusetts."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 26,377 at the 2020 census."
+    },
+    {
       "cityName": "Buzzards Bay",
       "state": "MA",
       "source": "Wikipedia",

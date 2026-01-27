@@ -749,6 +749,26 @@ function normalizeCity(city, state) {
     if (city === 'Mt. Penn') return 'Mount Penn';
   }
 
+  // NY-specific normalizations
+  if (state === 'NY') {
+    if (city === 'Averne') return 'Arverne';
+    if (city === 'Brumswick') return 'Brunswick';
+    if (city === 'Castleton On' || city === 'Castleton on') return 'Castleton-on-Hudson';
+    if (city === 'Croton' || city === 'Croton On' || city === 'Croton on') return 'Croton-on-Hudson';
+    if (city === 'E Meadow' || city === 'E. Meadow') return 'East Meadow';
+    if (city === 'E Northport' || city === 'E. Northport') return 'East Northport';
+    if (city === 'Hasting') return 'Hastings-on-Hudson';
+    if (city === 'Port Jefferson Stati' || city === 'Port Jefferson Stn') return 'Port Jefferson Station';
+    if (city === 'Rockville Ctr' || city === 'Rockville Ctr.') return 'Rockville Centre';
+    if (city === 'S Farmingdale' || city === 'S. Farmingdale') return 'South Farmingdale';
+    if (city === 'S Ozone Park' || city === 'S. Ozone Park') return 'South Ozone Park';
+    if (city === 'S Richmond Hill' || city === 'S. Richmond Hill') return 'South Richmond Hill';
+    if (city === 'Saratoga Spgs' || city === 'Saratoga Spgs.') return 'Saratoga Springs';
+    if (city === 'Wappinger Falls') return 'Wappingers Falls';
+    if (city === 'Wyndanch') return 'Wyandanch';
+    if (city === 'NYC' || city === 'Nyc') return 'New York';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

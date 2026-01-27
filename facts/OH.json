@@ -38,6 +38,13 @@
     {
       "cityName": "Akron",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "LeBron James was born in Akron."
+    },
+    {
+      "cityName": "Akron",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "During the late 19th and early 20th centuries, Akron became a center of rubber and tire manufacturing; it was the headquarters of B F Goodrich, Firestone, General Tire, and Goodyear (which is still based in the city) and was nicknamed the \"Rubber Capital of the World\"."
@@ -1009,6 +1016,13 @@
       "fact": "Telephone service is provided through the Butlerville exchange and mail is delivered through the Pleasant Plain post office."
     },
     {
+      "cityName": "Cadiz",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Clark Gable was born in Cadiz."
+    },
+    {
       "cityName": "Cairo",
       "state": "OH",
       "source": "Wikipedia",
@@ -1063,6 +1077,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Much of the area is now occupied by the adjacent West Branch State Park and Michael J. Kirwan Reservoir, which were created in 1965."
+    },
+    {
+      "cityName": "Canton",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Marilyn Manson was born in Canton."
     },
     {
       "cityName": "Canton",
@@ -1319,6 +1340,13 @@
     {
       "cityName": "Cinncinati",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Cinncinati include Steven Spielberg, William Howard Taft, Doris Day, Charles Manson, and IShowSpeed."
+    },
+    {
+      "cityName": "Cinncinati",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Institutions of higher education in Cincinnati include Xavier University and the University of Cincinnati, which is among the largest universities in the nation by enrollment."
@@ -1441,6 +1469,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city was named after John Clayton, a War of 1812 veteran."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Famous people from Cleveland include Halle Berry, Hal Holbrook, Judith Butler, and Donald Arthur Glaser."
     },
     {
       "cityName": "Cleveland",
@@ -2001,6 +2036,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Deersville Historic District is located along Main Street."
+    },
+    {
+      "cityName": "Delaware",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Rutherford B Hayes was born in Delaware."
     },
     {
       "cityName": "Delaware",
@@ -3685,6 +3727,13 @@
     {
       "cityName": "Lorain",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Toni Morrison was born in Lorain."
+    },
+    {
+      "cityName": "Lorain",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "With a population of 65211 at the 2020 census, Lorain is the ninth-most populous city in Ohio, the most populous in Lorain County and the third-most populous in Greater Cleveland."
@@ -4187,6 +4236,13 @@
       "fact": "Because of its central location, home of the areas' public schools and prominent business and retail presence, Middlefield village is considered the hub community for Huntsburg, Parkman, and Middlefield Townships."
     },
     {
+      "cityName": "Middletown",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "JD Vance was born in Middletown."
+    },
+    {
       "cityName": "Midway",
       "state": "OH",
       "source": "Wikipedia",
@@ -4320,6 +4376,13 @@
       "fact": "A post office called Montville has been in operation since 1825."
     },
     {
+      "cityName": "Moreland Hills",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "James A Garfield was born in Moreland Hills."
+    },
+    {
       "cityName": "Morral",
       "state": "OH",
       "source": "Wikipedia",
@@ -4444,6 +4507,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The 1930s-era Mohawk Dam, a dry dam built for flood control, is just to the north and west of the village."
+    },
+    {
+      "cityName": "Nelsonville",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Sarah Jessica Parker was born in Nelsonville."
     },
     {
       "cityName": "Nelsonville",
@@ -4644,6 +4714,13 @@
     {
       "cityName": "Niles",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "William McKinley was born in Niles."
+    },
+    {
+      "cityName": "Niles",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Niles is best known as the birthplace of William McKinley, the 25th president of the United States."
@@ -4668,6 +4745,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Located in the Rust Belt, the city's economy focused initially on iron manufacturing but later diversified to include steel and glass production."
+    },
+    {
+      "cityName": "North Bend",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Benjamin Harrison was born in North Bend."
     },
     {
       "cityName": "North Bend",
@@ -5610,6 +5694,13 @@
     {
       "cityName": "Shaker Heights",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Paul Newman was born in Shaker Heights."
+    },
+    {
+      "cityName": "Shaker Heights",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Shaker Heights is an inner-ring streetcar suburb of Cleveland, abutting the eastern edge of the city's limits."
@@ -5841,6 +5932,13 @@
     {
       "cityName": "Springfield",
       "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Lillian Gish was born in Springfield."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "OH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Springfield is home to Wittenberg University, a liberal arts college, and Clark State College, a community college."
@@ -5858,6 +5956,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The Little Miami Scenic Trail, a paved rail-trail that is nearly 80 miles (130 kilometers) long, extends from the Buck Creek Scenic Trail head in Springfield south to Newtown, Ohio."
+    },
+    {
+      "cityName": "Steubenville",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Dean Martin was born in Steubenville."
     },
     {
       "cityName": "Steubenville",
@@ -6509,6 +6614,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Wapakoneta (, locally, commonly shortened to \u201cWapak\u201d) is a city in Auglaize County, Ohio, United States, and its county seat."
+    },
+    {
+      "cityName": "Warren",
+      "state": "OH",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Dave Grohl was born in Warren."
     },
     {
       "cityName": "Warren",

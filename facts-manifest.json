@@ -32,13 +32,17 @@
       "factCount": 1,
       "checksum": "467354fd71ba3887b79d2923bca9aa3f"
     },
+    "IA": {
+      "factCount": 495,
+      "checksum": "c8bb1b36df2ae15514de6d3a9b2ad75a"
+    },
     "IL": {
       "factCount": 3,
       "checksum": "ec9bce976f06c182ac85876d896547f8"
     },
     "IN": {
-      "factCount": 1,
-      "checksum": "e631839148fdd0a5c8a70411531c1627"
+      "factCount": 531,
+      "checksum": "15f4b655296ffe331faa21b78bfae1b0"
     },
     "KS": {
       "factCount": 1,
@@ -97,16 +101,16 @@
       "checksum": "2ee9082870ce69c2d42f7a0d0d5e48ed"
     },
     "OH": {
-      "factCount": 1017,
-      "checksum": "95fcc2741d15fc61fa7102716c004591"
+      "factCount": 1033,
+      "checksum": "dd1e73ca0a60d3739b1011ad471c831a"
     },
     "OK": {
       "factCount": 1,
       "checksum": "ecc4755683ce6d0b8a8cc90b5f0e0d4b"
     },
     "PA": {
-      "factCount": 1,
-      "checksum": "1191fa49765e568fbc29292111c9a9b6"
+      "factCount": 2128,
+      "checksum": "874d247dcfb00b95f4de2d77ceb8c905"
     },
     "TX": {
       "factCount": 3,
@@ -125,8 +129,8 @@
       "checksum": "8393ed8ba406997b6c5814159ccdead1"
     },
     "WY": {
-      "factCount": 147,
-      "checksum": "11088a1e922ff8f7d99ce07b54aae064"
+      "factCount": 148,
+      "checksum": "a5a0d2d51ef11f52406ea46619dbe30a"
     }
   }
 }

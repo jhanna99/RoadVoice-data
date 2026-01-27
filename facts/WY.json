@@ -192,6 +192,13 @@
     {
       "cityName": "Cody",
       "state": "WY",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Jackson Pollock was born in Cody."
+    },
+    {
+      "cityName": "Cody",
+      "state": "WY",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is named after Buffalo Bill Cody for his part in the founding of Cody in 1896."

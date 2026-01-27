@@ -1,5 +1,9 @@
 {
   "states": {
+    "AK": {
+      "factCount": 413,
+      "checksum": "f5d00e56d1b8346584669bd43c174b3a"
+    },
     "CT": {
       "factCount": 595,
       "checksum": "206d82301956e5656185f7532dd86aa8"

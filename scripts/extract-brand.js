@@ -769,6 +769,29 @@ function normalizeCity(city, state) {
     if (city === 'NYC' || city === 'Nyc') return 'New York';
   }
 
+  // NJ-specific normalizations
+  if (state === 'NJ') {
+    if (city === 'E Brunswick' || city === 'E. Brunswick') return 'East Brunswick';
+    if (city === 'E Rutherford' || city === 'E. Rutherford') return 'East Rutherford';
+    if (city === 'E Windsor' || city === 'E. Windsor') return 'East Windsor';
+    if (city === 'N Brunswick' || city === 'N. Brunswick') return 'North Brunswick';
+    if (city === 'Kearney') return 'Kearny';
+    if (city === 'Passiac') return 'Passaic';
+    if (city === 'Princeton Jct' || city === 'Princeton Jct.') return 'Princeton Junction';
+    if (city === 'Saddlebrook') return 'Saddle Brook';
+    if (city === 'West Patterson') return 'West Paterson';
+    if (city === 'Woodcliff') return 'Woodcliff Lake';
+    if (city === 'Egg Hbr Twp' || city === 'Egg Harbor Twsp' || city === 'Egg Harbor Twsp.') return 'Egg Harbor Township';
+    if (city === 'Mt Laurel Twp' || city === 'Mt Laurel Township' || city === 'Mt. Laurel Township') return 'Mount Laurel Township';
+    if (city === 'Green Brook Twp' || city === 'Green Brook Twp.') return 'Green Brook Township';
+    if (city === 'Ocean Twp' || city === 'Ocean Twp.') return 'Ocean Township';
+    if (city === 'Monroe Twp' || city === 'Monroe Twp.') return 'Monroe Township';
+    if (city === 'Hamilton Twp' || city === 'Hamilton Twp.') return 'Hamilton Township';
+    if (city === 'Ewing Twp' || city === 'Ewing Twp.') return 'Ewing Township';
+    if (city === 'Evesham Twp' || city === 'Evesham Twp.') return 'Evesham Township';
+    if (city === 'Hazlet Twsp' || city === 'Hazlet Twsp.') return 'Hazlet Township';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

@@ -713,6 +713,9 @@ function normalizeCity(city, state) {
       return 'Saint Simons Island';
     }
     if (city === 'Alpheretta') return 'Alpharetta';
+    if (city === 'Tocooa') return 'Toccoa';
+    if (city === 'Bryon') return 'Byron';
+    if (city === 'Warner Robbins') return 'Warner Robins';
   }
 
   // Quebec - Montreal variations
@@ -735,6 +738,12 @@ function normalizeCity(city, state) {
   if (city === 'O Fallon') return "O'Fallon";
   if (city === 'O Neill') return "O'Neill";
   if (city === 'D Iberville') return "D'Iberville";
+
+  // Coeur d'Alene variations
+  if (city === 'Coeur D Alene' || city === "Coeur D' Alene" || city === 'Coeur dAlene' ||
+      city === 'Coeur d'Alene') {  // Unicode apostrophe
+    return "Coeur d'Alene";
+  }
 
   // Fix Ft/Ft. -> Fort (general)
   if (city.match(/^Ft\s+/)) city = 'Fort' + city.substring(2);
@@ -761,6 +770,26 @@ function normalizeCity(city, state) {
   if (city === 'Pheonix') return 'Phoenix';
   if (city === 'Queens Creek') return 'Queen Creek';
   if (city === 'Alpheretta') return 'Alpharetta';
+
+  // Double-letter typo fixes
+  if (city === 'Chattanoooga') return 'Chattanooga';
+  if (city === 'Milsboro') return 'Millsboro';
+  if (city === 'Belle Chase') return 'Belle Chasse';
+  if (city === 'Hyatsville') return 'Hyattsville';
+  if (city === 'Rulleville') return 'Ruleville';
+  if (city === 'Pfaftown') return 'Pfafftown';
+  if (city === 'Bayone') return 'Bayonne';
+  if (city === 'Hewlet') return 'Hewlett';
+  if (city === 'Halstead' || city === 'Hallsted') return 'Hallstead';
+  if (city === 'Bennetsville') return 'Bennettsville';
+  if (city === 'Murells Inlet') return 'Murrells Inlet';
+  if (city === 'Moristown') return 'Morristown';
+  if (city === 'Carollton') return 'Carrollton';
+  if (city === 'Jarrel') return 'Jarrell';
+  if (city === 'Creedmor') return 'Creedmoor';
+  if (city === 'Mezeppa') return 'Mazeppa';
+  if (city === 'Hohokus') return 'Ho-Ho-Kus';
+  if (city === 'Frankinton') return 'Franklinton';
 
   // Fix vile -> ville typos
   if (city.endsWith('vile') && !city.endsWith('ville')) {

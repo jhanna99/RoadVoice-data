@@ -3130,6 +3130,27 @@
       "fact": "Also, one of its popular mottos is \"Three Harbors, One Port,\" referencing to Saquatucket, Wychmere, and Allen Harbor, which are all located in Harwich Port."
     },
     {
+      "cityName": "Haverhill",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haverhill is a city in Essex County, Massachusetts."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Haverhill is located 35 miles north of Boston on the New Hampshire border and about 17 miles from the Atlantic Ocean."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 67,787 at the 2020 United States census."
+    },
+    {
       "cityName": "Hingham",
       "state": "MA",
       "source": "Wikipedia",
@@ -4346,6 +4367,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It\u2019s also home to 4 commuter rail stations along the Needham Line."
+    },
+    {
+      "cityName": "New Bedford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Bedford is a city in Bristol County, Massachusetts."
+    },
+    {
+      "cityName": "New Bedford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on the Acushnet River in what is known as the South Coast region, abutting Buzzards Bay."
+    },
+    {
+      "cityName": "New Bedford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At the 2020 census, New Bedford had a population of 101,079, making it the state's ninth-largest city and the largest of the South Coast region."
+    },
+    {
+      "cityName": "New Bedford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the second-largest city in the Providence metropolitan area and included in the greater Boston combined statistical area."
     },
     {
       "cityName": "New Marlboro",
@@ -6586,6 +6635,41 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Walpole was first settled in 1659 and was considered a part of Dedham until officially incorporated in 1724."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waltham is a city in Middlesex County, Massachusetts, and was an early center for the labor movement as well as a major contributor to the American Industrial Revolution."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The original home of the Boston Manufacturing Company, the city was a prototype for 19th century industrial city planning, spawning what became known as the Waltham-Lowell system of labor and production."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is now a center for research and higher education as home to Brandeis University and Bentley University."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The population was 65,218 at the 2020 United States census."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Waltham is part of the Greater Boston area and lies 9 miles west of Downtown Boston."
     },
     {
       "cityName": "Ware",

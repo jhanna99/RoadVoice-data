@@ -31,19 +31,26 @@ const [brandKey, spiderName, displayName, category, filterBrand] = args;
 
 const DATA_DIR = path.join(__dirname, '..', 'brands');
 const ZIP_FILE = '/Users/johnhanna/Documents/RoadVoice/data/output.zip';
+// Support extracted ATP folder (set ATP_DIR env var or use default)
+const ATP_DIR = process.env.ATP_DIR || path.join(__dirname, '..', 'ATP2026-01-27', 'output');
 const MANIFEST_FILE = path.join(__dirname, '..', 'manifest.json');
 const ZIPCODE_FILE = path.join(__dirname, 'us-zipcodes.csv');
 
-// Load ZIP code to city mapping
+// Load ZIP code to city and state mapping
 const zipcodeToCity = new Map();
+const zipcodeToState = new Map();
 try {
   const zipData = fs.readFileSync(ZIPCODE_FILE, 'utf-8');
   const lines = zipData.split('\n').slice(1); // Skip header
   for (const line of lines) {
     const parts = line.split(',');
     if (parts.length >= 6) {
+      const stateAbbr = parts[2];
       const zipcode = parts[3];
       const city = parts[5];
+      if (zipcode && stateAbbr) {
+        zipcodeToState.set(zipcode, stateAbbr);
+      }
       if (zipcode && city && !city.startsWith('Zcta')) {
         zipcodeToCity.set(zipcode, city);
       }
@@ -93,6 +100,16 @@ function getCityFromPostcode(postcode) {
 }
 
 /**
+ * Look up state from postal code
+ */
+function getStateFromPostcode(postcode) {
+  if (!postcode) return '';
+  // Normalize to 5-digit ZIP
+  const zip5 = postcode.toString().replace(/[^0-9]/g, '').substring(0, 5);
+  return zipcodeToState.get(zip5) || '';
+}
+
+/**
  * Extract property from ATP GeoJSON feature, trying multiple name variations
  */
 function getProperty(props, ...keys) {
@@ -127,7 +144,7 @@ function isHotelOrResortName(name) {
     'richard rindge', 'summercamp', 'salt house inn', 'christopher\'s by the bay',
     'awol', 'pell hotel', 'block island beach', 'lodge at spruce', 'park hyatt',
     'convention center', 'conference center', 'dunton town', 'vail residences',
-    'austria haus', 'cheyenne mountain resort', 'fogo de', 'gold\'s gym',
+    'austria haus', 'cheyenne mountain resort', 'fogo de',
     'rio all suite', 'palazzo', 'venetian', 'the row'
   ];
 
@@ -1277,7 +1294,7 @@ function normalizeCity(city, state) {
 
   // Coeur d'Alene variations
   if (city === 'Coeur D Alene' || city === "Coeur D' Alene" || city === 'Coeur dAlene' ||
-      city === 'Coeur d'Alene') {  // Unicode apostrophe
+      city === "Coeur d'Alene") {  // Unicode apostrophe
     return "Coeur d'Alene";
   }
 
@@ -1446,22 +1463,49 @@ function extractCityFromName(name, brandDisplayName) {
 console.log(`Extracting ${brandKey} from ${spiderName}${filterBrand ? ` (filtering for brand: ${filterBrand})` : ''}...`);
 
 try {
-  // Extract GeoJSON from zip
-  const geojsonFile = `output/${spiderName}.geojson`;
+  // Try to read GeoJSON from extracted folder first, then fall back to ZIP
+  const geojsonFile = `${spiderName}.geojson`;
+  const extractedPath = path.join(ATP_DIR, geojsonFile);
+  const zipGeojsonPath = `output/${spiderName}.geojson`;
   const tmpFile = `/tmp/${spiderName}.geojson`;
 
-  try {
-    execSync(`unzip -p "${ZIP_FILE}" "${geojsonFile}" > "${tmpFile}"`, { stdio: 'pipe' });
-  } catch (err) {
-    console.error(`Spider "${spiderName}" not found in ATP data`);
-    console.log('\nSearching for similar names...');
-    const searchResult = execSync(`unzip -l "${ZIP_FILE}" | grep -i "${brandKey}" | head -10`, { encoding: 'utf-8' });
-    console.log(searchResult || 'No matches found');
+  let raw;
+  if (fs.existsSync(extractedPath)) {
+    // Read from extracted folder
+    console.log(`  Reading from extracted folder: ${extractedPath}`);
+    raw = fs.readFileSync(extractedPath, 'utf-8');
+  } else if (fs.existsSync(ZIP_FILE)) {
+    // Fall back to ZIP file
+    try {
+      execSync(`unzip -p "${ZIP_FILE}" "${zipGeojsonPath}" > "${tmpFile}"`, { stdio: 'pipe' });
+      raw = fs.readFileSync(tmpFile, 'utf-8');
+    } catch (err) {
+      console.error(`Spider "${spiderName}" not found in ATP data`);
+      console.log('\nSearching for similar names...');
+      try {
+        const searchResult = execSync(`unzip -l "${ZIP_FILE}" | grep -i "${brandKey}" | head -10`, { encoding: 'utf-8' });
+        console.log(searchResult || 'No matches found');
+      } catch (e) {
+        // Search failed too
+      }
+      // Also search extracted folder
+      if (fs.existsSync(ATP_DIR)) {
+        console.log('\nSearching extracted folder...');
+        try {
+          const files = fs.readdirSync(ATP_DIR).filter(f => f.toLowerCase().includes(brandKey.toLowerCase()));
+          console.log(files.slice(0, 10).join('\n') || 'No matches found');
+        } catch (e) {
+          // Search failed
+        }
+      }
+      process.exit(1);
+    }
+  } else {
+    console.error(`Spider "${spiderName}" not found - no extracted folder or ZIP file available`);
     process.exit(1);
   }
 
-  const raw = fs.readFileSync(tmpFile, 'utf-8');
-  if (raw.length === 0) {
+  if (!raw || raw.length === 0) {
     console.error('Empty GeoJSON file');
     process.exit(1);
   }
@@ -1482,15 +1526,21 @@ try {
       if (country !== 'US' && country !== '') return false;
 
       // Filter out known test data entries
-      const city = getProperty(f.properties, 'addr:city', 'city');
+      let city = getProperty(f.properties, 'addr:city', 'city');
       const state = getProperty(f.properties, 'addr:state', 'state');
       if (city === 'Test' && state === 'AL') return false;
+
+      // Try to extract city from addr:full if missing (for filtering purposes)
+      if (!city && f.properties['addr:full']) {
+        city = extractCityFromFull(f.properties['addr:full']);
+      }
 
       // Filter out hotel/resort names that appear in city field
       if (isHotelOrResortName(city)) return false;
 
-      // Filter out obviously invalid city names
-      if (isInvalidCityName(city)) return false;
+      // Filter out obviously invalid city names (but allow empty if we have sources to derive city from)
+      const canDeriveCityFromName = f.properties['name'] && f.properties['name'].includes(' of ');
+      if (isInvalidCityName(city) && !f.properties['addr:full'] && !f.properties['addr:postcode'] && !f.properties['postcode'] && !canDeriveCityFromName) return false;
 
       return true;
     })
@@ -1531,10 +1581,13 @@ try {
         }
       }
 
-      // Fallback 4: look up city from postal code
+      // Fallback 4: look up city and state from postal code
+      const postcode = getProperty(props, 'addr:postcode', 'postcode');
       if (!city) {
-        const postcode = getProperty(props, 'addr:postcode', 'postcode');
         city = getCityFromPostcode(postcode);
+      }
+      if (!state) {
+        state = getStateFromPostcode(postcode);
       }
 
       // Fallback 5: extract from URL (for brands like Rita's that have location in URL)

@@ -49,7 +49,6 @@
   {"lat":40.031788,"lon":-75.052578,"city":"Philadelphia","state":"PA","address":"6725 Frankford Ave","name":""},
   {"lat":40.043998,"lon":-75.227439,"city":"Philadelphia","state":"PA","address":"6901 Ridge Avenue","name":""},
   {"lat":40.036415,"lon":-75.120672,"city":"Philadelphia","state":"PA","address":"101 East Olney Ave","name":""},
-  {"lat":40.102705,"lon":-75.008939,"city":"Philadelphia","state":"PA","address":"11000 Roosevelt Blvd","name":""},
   {"lat":40.824064,"lon":-73.855307,"city":"The Bronx","state":"NY","address":"1994 Bruckner Blvd","name":""},
   {"lat":40.781684,"lon":-73.846859,"city":"College Point","state":"NY","address":"133-11 20th Ave","name":""},
   {"lat":40.626733,"lon":-73.977121,"city":"Brooklyn","state":"NY","address":"1080 Mcdonald Ave","name":""},
@@ -311,4 +310,5 @@
   {"lat":40.554727,"lon":-74.14641,"city":"Staten Island","state":"NY","address":"100 Greaves Lane","name":""},
   {"lat":39.813083,"lon":-75.029871,"city":"Clementon","state":"NJ","address":"1468 Blackwood Clementon Rd, Suite 325","name":""},
   {"lat":40.8387,"lon":-74.27,"city":"West Caldwell","state":"NJ","address":"900 Bloomfield Ave","name":""},
-  {"lat":40.862192,"lon":-74.139813,"city":"Passaic","state":"NJ","address":"503 Paulison Avenue","name":""}]}
+  {"lat":40.862192,"lon":-74.139813,"city":"Passaic","state":"NJ","address":"503 Paulison Avenue","name":""},
+  {"lat":40.102705,"lon":-75.008939,"city":"Philadelphia","state":"PA","address":"11000 Roosevelt Blvd","name":""}]}

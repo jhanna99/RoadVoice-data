@@ -117,7 +117,6 @@
   {"lat":28.436304,"lon":-81.473203,"city":"Orlando","state":"FL","address":"8986 International Drive","name":""},
   {"lat":38.768221,"lon":-121.270229,"city":"Roseville","state":"CA","address":"1174 Roseville Parkway","name":""},
   {"lat":33.977587,"lon":-118.391176,"city":"Los Angeles","state":"CA","address":"6081 Center Drive","name":""},
-  {"lat":40.892239,"lon":-73.821134,"city":"Pelham Manor","state":"NY","address":"881 Pelham Parkway","name":""},
   {"lat":33.17866,"lon":-117.32955,"city":"Carlsbad","state":"CA","address":"2501 El Camino Real","name":""},
   {"lat":34.24054,"lon":-118.555637,"city":"Northridge","state":"CA","address":"9301 Tampa Avenue, Suite 212","name":""},
   {"lat":47.299627,"lon":-122.243508,"city":"Auburn","state":"WA","address":"1101 Outlet Collection Drive SW","name":""},
@@ -173,4 +172,5 @@
   {"lat":34.241813,"lon":-77.832216,"city":"Wilmington","state":"NC","address":"953 Town Center Drive, Suite #D150","name":""},
   {"lat":31.078485,"lon":-97.688869,"city":"Killeen","state":"TX","address":"5500 Martin Luther King Jr Boulevard","name":""},
   {"lat":39.405039,"lon":-119.748513,"city":"Reno","state":"NV","address":"13969 South Virginia Street","name":""},
-  {"lat":47.677012,"lon":-117.213978,"city":"Spokane","state":"WA","address":"13921 East Mansfield Avenue","name":""}]}
+  {"lat":47.677012,"lon":-117.213978,"city":"Spokane","state":"WA","address":"13921 East Mansfield Avenue","name":""},
+  {"lat":41.572236,"lon":-90.530759,"city":"Davenport","state":"IA","address":"5248 Elmore Avenue","name":""}]}

@@ -832,6 +832,14 @@ function normalizeCity(city, state) {
     if (city === 'Milwaukee') return 'Milwaukie';  // Oregon spelling
   }
 
+  // WA-specific normalizations
+  if (state === 'WA') {
+    if (city === 'E.Wenatchee' || city === 'E. Wenatchee' || city === 'E Wenatchee') return 'East Wenatchee';
+    if (city === 'Lynwood') return 'Lynnwood';  // Double n
+    if (city === 'Mt.Vernon' || city === 'Mt. Vernon' || city === 'Mt Vernon') return 'Mount Vernon';
+    if (city === 'Spokane City') return 'Spokane';
+  }
+
   // Quebec - Montreal variations
   if (state === 'QC') {
     if (city === 'Montréal' || city === 'Montreal') return 'Montréal';

@@ -2878,6 +2878,20 @@
       "fact": "As of the 2020 census, the population of the city was 31."
     },
     {
+      "cityName": "Lawrence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawrence is a city in and the county seat of Douglas County, Kansas, United States, and the sixth-largest city in the state. It is in the northeastern sector of the state, astride Interstate 70, between the Kansas and Wakarusa rivers. As of the 2020 census, the population of the city was 94,934."
+    },
+    {
+      "cityName": "Lawrence",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a college town with a significant student population, because it is home to both the University of Kansas (KU) and Haskell Indian Nations University (HINU).."
+    },
+    {
       "cityName": "LeRoy",
       "state": "KS",
       "source": "Wikipedia",
@@ -3275,6 +3289,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population of the city was 47."
+    },
+    {
+      "cityName": "Manhattan",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manhattan is a city in and the county seat of Riley County, Kansas, United States, although the city extends into Pottawatomie County. It is located in northeastern Kansas at the junction of the Kansas River and Big Blue River. As of the 2020 census, the population of the city was 54,100.."
     },
     {
       "cityName": "Mankato",
@@ -3933,6 +3954,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population of the city was 64."
+    },
+    {
+      "cityName": "Olathe",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Olathe is a city in and the county seat of Johnson County, Kansas, United States. It is the fourth-most populous city in both the Kansas City metropolitan area and the state of Kansas, with a 2020 population of 141,290.."
     },
     {
       "cityName": "Olivet",
@@ -4654,6 +4682,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population of the city was 614."
+    },
+    {
+      "cityName": "Salina",
+      "state": "KS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salina is a city in and the county seat of Saline County, Kansas, United States. As of the 2020 census, the population was 46,889.."
     },
     {
       "cityName": "Satanta",

@@ -211,6 +211,13 @@
       "fact": "Known as the \"Trout Capital of the World,\" Buhl is the location of numerous hatcheries in the immediate surrounding area, which produce a majority of the rainbow trout consumed in the United States."
     },
     {
+      "cityName": "Caldwell",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caldwell is a city in and the county seat of Canyon County, Idaho, United States. Caldwell is the 5th most populous city in Idaho.."
+    },
+    {
       "cityName": "Carey",
       "state": "ID",
       "source": "Wikipedia",
@@ -272,6 +279,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is adjacent to the Salmon River."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coeur d'Alene is a city in and the county seat of Kootenai County, Idaho, United States. It is the most populous city in North Idaho with a population of 54,628 at the 2020 census, while the Coeur d'Alene metropolitan statistical area has an estimated 188,000 people."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Coeur d'Alene is located about 30 miles (50\u00a0km) east of Spokane, Washington, with which it forms the bi-state Spokane\u2013Coeur d'Alene combined statistical area. The city is situated on the north shore of the 25-mile (40\u00a0km) long Lake Coeur d'Alene and to the west of the Coeur d'Alene Mountains."
+    },
+    {
+      "cityName": "Coeur d'Alene",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Locally, Coeur d'Alene is known as the \"Lake City\", or simply called by its initials, \"CDA\".."
     },
     {
       "cityName": "Conda",
@@ -1504,6 +1532,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Placerville is a populated place in Boise County, Idaho, United States."
+    },
+    {
+      "cityName": "Pocatello",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pocatello is the county seat of and the largest city in Bannock County, with a small portion on the Fort Hall Indian Reservation in neighboring Power County, containing the city's airport."
+    },
+    {
+      "cityName": "Pocatello",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Pocatello metropolitan area, which encompasses all of Bannock County in the southeastern part of the U.S. state of Idaho.."
     },
     {
       "cityName": "Ponderay",

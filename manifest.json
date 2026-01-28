@@ -1812,21 +1812,13 @@
       "fileSize": 39284,
       "checksum": "0c81ca4ec23b86916041024901d47ec7"
     },
-    "roller_skating_rink": {
-      "displayName": "Roller Skating Rinks",
-      "category": "entertainment",
-      "useLocationName": true,
-      "locationCount": 3,
-      "fileSize": 509,
-      "checksum": "91785e054870b750e78941d0729c700e"
-    },
     "roller_skating_rinks": {
       "displayName": "Roller Skating Rinks",
       "category": "entertainment",
-      "locationCount": 246,
-      "fileSize": 27,
-      "checksum": "e68e8db3bb87ed8705aa93e8976eb6bf",
-      "source": "osm"
+      "useLocationName": true,
+      "locationCount": 481,
+      "fileSize": 99413,
+      "checksum": "f6742e9fe407bba28f0fd08590b760fd"
     },
     "royal_farms": {
       "displayName": "Royal Farms",

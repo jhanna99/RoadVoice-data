@@ -1,0 +1,760 @@
+{
+  "facts": [
+    {
+      "cityName": "Abram-Village",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the \"Evangeline Region\", a collection of Francophone Acadian communities in the central part of Prince County, Abram-Village is famous for its Acadian Festival during late August and early September."
+    },
+    {
+      "cityName": "Abram-Village",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Commission scolaire de langue fran\u00e7aise, which administers the province's six French public schools, is headquartered in Abram-Village."
+    },
+    {
+      "cityName": "Abram-Village",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is home to the Western Red Wings of the Island Junior Hockey League."
+    },
+    {
+      "cityName": "Alberton",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alberton is a service centre for local fishing and farming communities, and is adjacent to the community and harbour of Northport."
+    },
+    {
+      "cityName": "Annandale-Little Pond-Howe Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1975."
+    },
+    {
+      "cityName": "Belfast",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the island's south shore along the Northumberland Strait, Belfast is predominantly an agricultural area."
+    },
+    {
+      "cityName": "Borden-Carleton",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was originally incorporated as a community on April 12, 1995, through the amalgamation of the town of Borden and the community of Carleton."
+    },
+    {
+      "cityName": "Borden-Carleton",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Borden opted to demote its status to a community in light of a declining tax base with the pending completion of the Confederation Bridge and the closure of the Marine Atlantic ferry service."
+    },
+    {
+      "cityName": "Borden-Carleton",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Borden-Carleton became a town on July 31, 2012."
+    },
+    {
+      "cityName": "Brackley",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brackley originally incorporated in 1983."
+    },
+    {
+      "cityName": "Brackley",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It absorbed the adjacent former municipality of Winsloe South via amalgamation on December 15, 2017."
+    },
+    {
+      "cityName": "Breadalbane",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in Queens County, Prince Edward Island, its population as of 2021 is 170."
+    },
+    {
+      "cityName": "Central Prince",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Central Prince is a rural municipality within Prince County in Prince Edward Island that was incorporated on September 28, 2018 through an amalgamation of two municipalities."
+    },
+    {
+      "cityName": "Central Prince",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipalities that amalgamated were the rural municipalities of Ellerslie-Bideford and Lady Slipper."
+    },
+    {
+      "cityName": "Charlottetown",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "From this, the city adopted as its motto Cunabula Foederis, \"Birthplace of Confederation\"."
+    },
+    {
+      "cityName": "Charlottetown",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Named after Queen Charlotte, Charlottetown was an unincorporated town until it was incorporated as a city in 1855."
+    },
+    {
+      "cityName": "Charlottetown",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was the site of the famous Charlottetown Conference in 1864, the first gathering of Canadian and Maritime statesmen to discuss the proposed Maritime Union."
+    },
+    {
+      "cityName": "Charlottetown",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "This conference led, instead, to the union of British North American colonies in 1867, which was the beginning of the Canadian Confederation."
+    },
+    {
+      "cityName": "Charlottetown",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Prince Edward Island, however, did not join Confederation until 1873."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the River Clyde in Scotland."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clyde River is located in Queens County in the central part of Prince Edward Island and just 15 minutes away from Charlottetown."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The original community name was Dog River (changed to Clyde River sometime around 1864)."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Heritage is predominantly Scottish and English."
+    },
+    {
+      "cityName": "Eastern Kings",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1974."
+    },
+    {
+      "cityName": "Hampshire",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1974 and has a population of 339."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Hunter River, informally nicknamed the \"River Clyde\", is a Canadian river in northwestern Queens County, Prince Edward Island."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The local Hunter-Clyde Watershed Group was established in 2000 to improve and maintain the health of the watershed's ecosystem."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "From its source near Hartsville, the river flows northerly, becoming a tidal estuary at New Glasgow, an arm of Rustico Bay which gradually widens to approximately 750 metres (2460 ft) wide."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The river's total meander length is about 13 kilometres (8 mi), with an additional 8 kilometres (5 mi) of estuary."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The river runs through the communities of Hunter River, New Glasgow and North Rustico."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "There was at one time a ferry at Hunter River and the river was dammed in at least two locations to power mills."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It discharges into the Gulf of St Lawrence."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The headponds are still in existence."
+    },
+    {
+      "cityName": "Hunter River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The watershed covers approximately 9000 hectares (22000 acres)."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 15 km (9.3 mi) northeast of the city of Summerside."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2021, its population was 1812 and is seeing rapid growth thanks in part to a recently opened business park."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is mainly farms with a small residential area."
+    },
+    {
+      "cityName": "Linkletter",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after settler George Linkletter, who arrived from Greenwich, Connecticut in 1783 after receiving a royal land grant."
+    },
+    {
+      "cityName": "Linkletter",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "His son George Linkletter II would have his estate as the namesake of the community of Summerside."
+    },
+    {
+      "cityName": "Linkletter",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "When George Linkletter settled on Prince Edward Island, he and his family also began Linkletter farms which still operates as a potato farm today."
+    },
+    {
+      "cityName": "Linkletter",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although George Linkletter began the farm in 1783 after settling, it was not till the 1940s before they specialized in potato farming."
+    },
+    {
+      "cityName": "Malpeque Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The municipality derives its name from Malpeque Bay, the second largest bay in the province which forms the municipality's western boundary."
+    },
+    {
+      "cityName": "Malpeque Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality straddles several levels of geographic hierarchy in the province, including the townships of Lot 18 and Lot 20, the parishes of St. David's Parish and Grenville Parish, as well as the counties of Prince County and Queens County."
+    },
+    {
+      "cityName": "Malpeque Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The municipality's seat is in the riding of Malpeque."
+    },
+    {
+      "cityName": "Miltonvale Park",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1974."
+    },
+    {
+      "cityName": "Miminegash",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This area is often associated with Tignish due to the shared Acadian roots between these areas."
+    },
+    {
+      "cityName": "Miscouche",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Miscouche is east to the Evangeline Region, the province's largest francophone area comprising numerous Acadian settlements; 15% of Miscouche's population is considered francophone."
+    },
+    {
+      "cityName": "Miscouche",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Miscouche also serves as a service centre for some nearby rural communities, including Belmont, Central Lot 16, Southwest Lot 16, Grand River, St. Nicolas, and Linkletter."
+    },
+    {
+      "cityName": "Miscouche",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Incorporated in 1957, Miscouche is located 10 kilometres west of the City of Summerside."
+    },
+    {
+      "cityName": "Miscouche",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its name is derived from the Mi'kmaq term for \"Little grassy island\"."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Local attractions include the nearby Rodd Crowbush Golf & Beach Resort."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named for Jean Francois Morel who settled in the area in 1720-21, having arrived from Saint-Malo, France."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Morell River was known to the Mi'kmaq as Pogooseemkekseboo, meaning \"clam ground river\"."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Morell is located on St. Peter's Bay, two kilometres inland from St. Peter's Bay, a sub-basin of the Gulf of St. Lawrence."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The local economy is centred on farming (wild blueberry farms), fishing (Lobster), aquaculture (Mussels), and tourism."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It was incorporated in 1953."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Most of the area residents are of Scottish, English, Irish, or French descent."
+    },
+    {
+      "cityName": "Morell",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The first inhabitants of the community of Morell were Maritime Archaic Indians followed by the Mi'kmaq Nation."
+    },
+    {
+      "cityName": "Mount Stewart",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community played an important role in the province's early transportation history, being the site of a bridge over the river along the route between the capital at Charlottetown and the shire town of Kings County at Georgetown."
+    },
+    {
+      "cityName": "Mount Stewart",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Stewart had a population of 226 at the time of the 2021 Census."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Community Centre hosts many events throughout the year, including plays, music and comedy shows - including Small Halls Festival - ceilidhs, suppers, painting classes, seniors' events and more."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the township of Lot 64, the community is named after General the Honourable James Murray, (1721\u201394), Governor of Quebec (1764\u201366)."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With an area of 3.89 km2 and an extensive waterfront facing a large natural harbour (also named Murray Harbour), the community's primary industry is fishing, most notably lobster and scallops."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It also hosts some secondary industry in the form of fish processing and a growing tertiary service economy centred on tourism."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Other wharves include the Murray Harbour wharf, Machon Point wharf, and Beach Point wharf, as well as the Nellie\u2019s Landing."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The majority of the community's fishing fleet is berthed at the South River Harbour facility which is operated by Fisheries and Oceans Canada."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The community has a car repair station, a fire station, a grocery, two restaurants, a number of churches, a marina and a number of wharves."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Behind the Community Centre is a large double dog park and an outdoor rink/ball hockey rink."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In summer 2017 a huge playground (for ages 5 to 13) and a skate park will be added."
+    },
+    {
+      "cityName": "Murray Harbour",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In recent years, Murray Harbour has attracted many retirees."
+    },
+    {
+      "cityName": "Murray River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the southeast corner of the province, Murray River is bisected by a river of the same name."
+    },
+    {
+      "cityName": "Murray River",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located at the end of navigation on the river and hosts a small wharf for fishing and recreational vessel."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Rustico is well known for its Canada Day celebration every year on July 1."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated on the north shore, North Rustico became an incorporated municipality in 1954."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "North Rustico changed its status to a town on November 16, 2013."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is known to locals, as well as many others as \"The Crick\"."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its population as of the 2021 Census was 648 people."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The event usually attracts in excess of 10000 people, which packs the town quite full."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It includes festivities in the park, a parade down main street, as well as a boat parade on Rustico Harbour."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The celebration is popular among families, teenagers and adults."
+    },
+    {
+      "cityName": "North Rustico",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The day is completed by a fireworks display over the bay."
+    },
+    {
+      "cityName": "North Shore",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Shore is a rural municipality within Queens County in Prince Edward Island that was incorporated on September 28, 2018, through an amalgamation of three municipalities."
+    },
+    {
+      "cityName": "North Shore",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipalities that amalgamated were the rural municipalities of Grand Tracadie, North Shore, and Pleasant Grove."
+    },
+    {
+      "cityName": "North Wiltshire",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1974."
+    },
+    {
+      "cityName": "O'Leary",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population in the 2021 Canadian Census was 876 people."
+    },
+    {
+      "cityName": "O'Leary",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "O'Leary was incorporated as a village in 1951, and as a community in 1983."
+    },
+    {
+      "cityName": "Saint Peters Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Peters Bay is well known for its annual Blueberry Festival and Parade, which draws in tourists and locals alike."
+    },
+    {
+      "cityName": "Saint Peters Bay",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1953."
+    },
+    {
+      "cityName": "Souris West",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1972."
+    },
+    {
+      "cityName": "Souris West",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Contains the Locality of Souris West and part of the Locality of Lower Rollo Bay."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated immediately southeast of the city of Charlottetown, Stratford recorded a population of 10927 in the 2021 census."
+    },
+    {
+      "cityName": "Three Rivers",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three Rivers is a town within Kings County in Prince Edward Island, Canada, that was incorporated on September 28, 2018, through an amalgamation of seven municipalities and adjacent unincorporated areas."
+    },
+    {
+      "cityName": "Three Rivers",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipalities that were amalgamated included two towns \u2013 Georgetown and Montague \u2013 and five rural municipalities \u2013 Brudenell, Cardigan, Lorne Valley, Lower Montague, and Valleyfield."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has a population of 719."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name \"Tignish\" is derived from the Mi'kmaq \"Mtagunich\", meaning \"paddle\"."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name is also believed to come from a Gaelic phrase meaning \"Home Place\"."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Tignish was founded in the late 1790s by nine francophone Acadian families, with further immigrants (mostly Irish) arriving in the 19th century and settling mostly in the nearby smaller locality of Anglo\u2013Tignish (meaning \"English Tignish\")."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Many of Tignish residents today are either of Acadian or Irish heritage."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "One of the town's most popular and defining structures is the local Catholic church, St. Simon & St. Jude Catholic Church, which was among the first major structures built in Tignish, constructed between 1857 and 1860."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Tignish was designated a community or village in 1952."
+    },
+    {
+      "cityName": "Tignish",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It changed its status to a town in 2017."
+    },
+    {
+      "cityName": "Tyne Valley",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1966, the community is located in the township of Lot 13 at the intersection of Routes 12 and 167."
+    },
+    {
+      "cityName": "Union Road",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the township of Lot 33, Union Road is one of several communities comprising a green belt surrounding the City of Charlottetown."
+    },
+    {
+      "cityName": "Victoria",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A historic seaport, the community is situated at the extreme southwestern edge of Queens County in the township of Lot 29."
+    },
+    {
+      "cityName": "Warren Grove",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1985."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the \"Evangeline Region,\" a cluster of Acadian communities in the central part of Prince County, Wellington is served by Route 2 and until 1989 was served by the Prince Edward Island Railway."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wellington is home to the head office of Coll\u00e8ge Acadie \u00ce.-P.-\u00c9."
+    },
+    {
+      "cityName": "York",
+      "state": "PE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1986."
+    }
+  ]
+}

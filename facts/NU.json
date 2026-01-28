@@ -1,0 +1,676 @@
+{
+  "facts": [
+    {
+      "cityName": "Arctic Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arctic Bay is notable for being the birthplace of the former Premier of Nunavut and, as of 2021, the Commissioner of Nunavut, Eva Aariak."
+    },
+    {
+      "cityName": "Arctic Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There is also a road connecting it to Nanisivik, a former mining community just inland that is now closed."
+    },
+    {
+      "cityName": "Arctic Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arctic Bay (Inuktitut syllabics: \u1403\u1483\u1431\u140a\u1550\u152a\u1483, Ikpiarjuk, \"the pocket\") is an Inuit hamlet located in the northern part of the Borden Peninsula on Baffin Island in the Qikiqtaaluk Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Arctic Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The predominant languages are Inuktitut and English."
+    },
+    {
+      "cityName": "Arctic Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community is served by annual supply sealift, and by Arctic Bay Airport."
+    },
+    {
+      "cityName": "Arviat",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arviat is a predominantly Inuit hamlet located on the western shore of Hudson Bay in the Kivalliq Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Arviat",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Arviat (\"place of the bowhead whale\") is derived from the Inuktitut word arviq meaning \"Bowhead whale\"."
+    },
+    {
+      "cityName": "Arviat",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Earlier in history, its name was Tikirajualaaq (\"a little long point\"), and Ittaliurvik (\"a place where the people make tents\")."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest of the two settlements on Victoria Island, the other being Ulukhaktok in the Northwest Territories."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cambridge Bay is the largest stop for passenger and research vessels traversing the Arctic Ocean's Northwest Passage, a disputed area which the Government of Canada claims are Canadian Internal Waters, while other nations state they are either territorial waters or international waters."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cambridge Bay is named for Prince Adolphus, Duke of Cambridge, while the traditional Inuinnaqtun name for the area is Ikaluktutiak (old orthography) or Iqaluktuuttiaq (new orthography) meaning \"good fishing place\"."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cambridge Bay (Inuinnaqtun: Iqaluktuuttiaq Inuktitut: \u1403\u1583\u14d7\u1483\u1451\u1466\u144e\u140a\u1585; 2021 population 1760; population centre 1403) is a hamlet located on Victoria Island in the Kitikmeot Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The traditional language of the area is Inuinnaqtun and is written using the Latin alphabet rather than the syllabics of the Inuktitut writing system."
+    },
+    {
+      "cityName": "Cambridge Bay",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Like Kugluktuk, Bathurst Inlet and Umingmaktok, syllabics are rarely seen and used mainly by the Government of Nunavut."
+    },
+    {
+      "cityName": "Chesterfield Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Igluligaarjuk is the Inuktitut word for \"place with few houses\", it is the oldest community in Nunavut."
+    },
+    {
+      "cityName": "Chesterfield Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Chesterfield Inlet (Inuktitut: Igluligaarjuk, syllabics: \u1403\u14a1\u14d7\u14d5\u1491\u1550\u152a\u1483) is a hamlet located on the western shore of Hudson Bay, Kivalliq Region, in Nunavut, Canada, at the mouth of Chesterfield Inlet."
+    },
+    {
+      "cityName": "Chesterfield Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is served by air, Chesterfield Inlet Airport, and by an annual supply known as sealift."
+    },
+    {
+      "cityName": "Chesterfield Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Inuit from the Chesterfield Inlet region are called Qaernermiut, though previously, they were referred to as Kenepitic, Kenepetu or Kenepitu."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clyde River (Syllabics: \u1472\u158f\u1585\u1450\u1491\u1431\u1483, Inuktitut: Kangiqtugaapik \"nice little inlet\") is an Inuit hamlet located on the shore of Baffin Island's Patricia Bay, off Kangiqtugaapik, an arm of Davis Strait in the Qikiqtaaluk Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies in the Baffin Mountains which in turn form part of the Arctic Cordillera mountain range."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is served by Quluaq School, the Northern Stores, an arena, a community hall, an Anglican church (the Church of the Redeemer), a health centre, hotel and Clyde River Airport with regular flights to Iqaluit and Pond Inlet."
+    },
+    {
+      "cityName": "Clyde River",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is served by air and by annual supply sealift."
+    },
+    {
+      "cityName": "Coral Harbour",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coral Harbour (Inuktitut: Salliq / Salliit, Syllabics: \u14f4\u14ea\u14d5\u1585 / \u14f4\u14ea\u14d6\u1466, formerly Southampton Island) is a small Inuit community that is located on Southampton Island, Kivalliq Region, in the Canadian territory of Nunavut."
+    },
+    {
+      "cityName": "Coral Harbour",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name is derived from the fossilized coral that can be found around the waters of the community which is situated at the head of South Bay."
+    },
+    {
+      "cityName": "Coral Harbour",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name of the settlement in Inuktitut is Salliq, sometimes used to refer to all of Southampton Island."
+    },
+    {
+      "cityName": "Coral Harbour",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The plural Salliit, means large flat island(s) in front of the mainland."
+    },
+    {
+      "cityName": "Gjoa Haven",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Kitikmeot Region, 1093 km (679 mi) northeast of Yellowknife, Northwest Territories and 1330 km (830 mi) northwest of Nunavut's capital, Iqaluit."
+    },
+    {
+      "cityName": "Grise Fiord",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of three populated places on the island; despite its low population (144 residents at the 2021 Canadian census), it is the largest community (and only public community) on Ellesmere Island."
+    },
+    {
+      "cityName": "Grise Fiord",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also one of the coldest inhabited places in the world, with an average yearly temperature of \u221216.5 \u00b0C (2.3 \u00b0F)."
+    },
+    {
+      "cityName": "Grise Fiord",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Grise Fiord (; Inuktitut: \u140a\u1405\u152a\u1403\u1466\u1450\u1585, romanized: Aujuittuq, lit."
+    },
+    {
+      "cityName": "Grise Fiord",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "'place that never thaws') is an Inuit hamlet on the southern tip of Ellesmere Island, in the Qikiqtaaluk Region, Nunavut, Canada."
+    },
+    {
+      "cityName": "Grise Fiord",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Created by the Canadian Government in 1953 through a relocation of Inuit families from Inukjuak, Quebec, it is Canada's northernmost public community."
+    },
+    {
+      "cityName": "Igloolik",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Igloolik is an Inuit hamlet in Foxe Basin, Qikiqtaaluk Region in Nunavut, northern Canada."
+    },
+    {
+      "cityName": "Igloolik",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because its location on Igloolik Island is close to Melville Peninsula, it is often mistakenly thought to be on the peninsula."
+    },
+    {
+      "cityName": "Igloolik",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name \"Igloolik\" means \"there is a house here\"."
+    },
+    {
+      "cityName": "Igloolik",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It derives from iglu meaning house or building, and refers to the sod houses that were originally in the area, not to snow igloos."
+    },
+    {
+      "cityName": "Igloolik",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In Inuktitut the residents are called Iglulingmiut (the suffix miut means \"people of\")."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Before this event, Iqaluit was a small city and not well known outside the Canadian Arctic or Canada, with population and economic growth highly limited."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Iqaluit is the capital of the Canadian territory of Nunavut."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was known as Frobisher Bay from 1942 to 1987, after the large bay on the coast on which the city is situated."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its traditional Inuktitut name was restored in 1987."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1999, Iqaluit was designated the capital of Nunavut after the division of the Northwest Territories into two separate territories."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "This is due to Iqaluit's isolation and heavy dependence on expensive imported supplies, as the city, like the rest of Nunavut, has no road or rail connections to the rest of Canada, and has ship connections for only part of the year."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Iqaluit has a polar climate, influenced by the cold deep waters of the Labrador Current just off Baffin Island, which makes the city cold, although it is well south of the Arctic Circle."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "As of the 2021 Canadian census, the population was 7429 (population centre: 6991), a decrease of 4.0 per cent from the 2016 census."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Iqaluit has the lowest population of any capital city in Canada."
+    },
+    {
+      "cityName": "Iqaluit",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Inhabitants of Iqaluit are called Iqalummiut (singular: Iqalummiuq)."
+    },
+    {
+      "cityName": "Kugaaruk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Access is by air at the Kugaaruk Airport, by annual supply sealift, and by sea ice."
+    },
+    {
+      "cityName": "Kugaaruk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kugaaruk means \"little stream\", the traditional name of the brook that flows through the hamlet."
+    },
+    {
+      "cityName": "Kugaaruk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Near the hamlet is CAM-4, a North Warning System site that was once part of the Distant Early Warning Line."
+    },
+    {
+      "cityName": "Kugluktuk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "'the place of moving water'; Inuktitut syllabics: \u1581\u1550\u14d7\u1585\u1450\u1585; Inuktitut pronunciation: ), known as Coppermine until 1 January 1996, is a hamlet at the mouth of the Coppermine River in the Kitikmeot Region of Nunavut, Canada, on Coronation Gulf, southwest of Victoria Island."
+    },
+    {
+      "cityName": "Kugluktuk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kugluktuk (Qurluqtuq, lit."
+    },
+    {
+      "cityName": "Kugluktuk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is Nunavut's westernmost community, near the border with the Northwest Territories."
+    },
+    {
+      "cityName": "Kugluktuk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The area's traditional language is Inuinnaqtun, which is written in the Latin alphabet, rather than the syllabics of the Inuktitut writing system."
+    },
+    {
+      "cityName": "Kugluktuk",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Like Cambridge Bay, Bathurst Inlet, and Umingmaktok, syllabics are rarely seen and are used mainly by the Government of Nunavut."
+    },
+    {
+      "cityName": "Naujaat",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Naujaat (Inuktitut: \u14c7\u1405\u152e\u1466, lit."
+    },
+    {
+      "cityName": "Naujaat",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "'seagulls' nesting place'), officially known until 2 July 2015 as Repulse Bay, is an Inuit hamlet situated on the Arctic Circle."
+    },
+    {
+      "cityName": "Pangnirtung",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pangnirtung (or Pang, also Pangniqtuuq, in syllabics: \u1438\u1595\u14c2\u1585\u1451\u1585 ) is an Inuit hamlet in the Qikiqtaaluk Region of the Canadian territory of Nunavut, located on Baffin Island."
+    },
+    {
+      "cityName": "Pangnirtung",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located about 45 km (28 mi) south of the Arctic Circle, and about 2700 km (1700 mi) from the North Pole."
+    },
+    {
+      "cityName": "Pangnirtung",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pangnirtung is situated on a coastal plain at the coast of Pangnirtung Fjord, a fjord which eventually merges with Cumberland Sound."
+    },
+    {
+      "cityName": "Pangnirtung",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of October 2024, the mayor is Stevie Komoartok."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community serves as the northern access point for Auyuittuq National Park with Pangnirtung as the southern access point."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The island is known for Arctic wildlife (ringed seals, polar bears, bowhead whales, narwhals), and bird watching at the Qaqulluit National Wildlife Area (qaqulluit is the Inuktitut word for northern fulmar)."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Near Qikiqtarjuaq was the home of FOX-5, a Distant Early Warning Line and now a North Warning System site."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Visitors are warmly welcomed and encouraged to join the festivities and games."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Qikiqtarjuaq is a community located on Broughton Island in the Qikiqtaaluk Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Qikiqtarjuaq hosts an annual Suicide Prevention Walk."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Local participants would walk a total distance of 60 km (37 mi) across the tundra from Kivitoo, an old whaling station."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Today the walk is much shorter than the original two and a half days, but it is still meant to promote hope among the community."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The community hosts a two-week celebration over the Christmas and New Year period every year."
+    },
+    {
+      "cityName": "Qikiqtarjuaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In July 2011, Qikiqtarjuaq was featured in the BBC Radio 4 comedy series Cabin Pressure."
+    },
+    {
+      "cityName": "Rankin Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest hamlet and second-largest settlement in Nunavut after the territorial capital, Iqaluit."
+    },
+    {
+      "cityName": "Rankin Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the largest settlement in mainland Nunavut."
+    },
+    {
+      "cityName": "Rankin Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rankin Inlet, which fronts to Hudson Bay, is an Inuit hamlet on the Kudlulik Peninsula in Nunavut, Canada."
+    },
+    {
+      "cityName": "Rankin Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Rankin Inlet is the regional centre for the Kivalliq Region."
+    },
+    {
+      "cityName": "Rankin Inlet",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the 1995 Nunavut capital plebiscite, voters chose Iqaluit over Rankin Inlet to become the territorial capital of Nunavut."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also one of the coldest inhabited places in the world, with an average yearly temperature of \u221215.1 \u00b0C (4.8 \u00b0F)."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the closest transit location to Devon Island, the largest uninhabited island in the world, which contains the best-preserved crater on Earth \u2013 the Haughton impact crater, formed about 31 million years ago."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Resolute or Resolute Bay (Inuktitut: \u1583\u1405\u14f1\u1403\u1466\u1450\u1585, romanized: Qausuittuq, lit."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "'place with no dawn') is an Inuit hamlet on Cornwallis Island in Nunavut, Canada."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is at the northern end of Resolute Bay and the Northwest Passage and is part of the Qikiqtaaluk Region."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Resolute is one of Canada's northernmost communities and is second only to Grise Fiord on Ellesmere Island (Alert and Eureka are more northerly but are not considered towns; rather, military outposts and weather stations)."
+    },
+    {
+      "cityName": "Resolute",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As in most other northern communities, the roads and most of the terrain are all gravel."
+    },
+    {
+      "cityName": "Sanikiluaq",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite being geographically much closer to the shores of Ontario and Quebec, the community and the Belcher Islands lie within the Qikiqtaaluk Region of Nunavut, Canada."
+    },
+    {
+      "cityName": "Sanirajak",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sanirajak (Inuktitut meaning the shoreline), Syllabics: \u14f4\u14c2\u154b\u152d\u1483), formerly known as Hall Beach until 27 February 2020, is an Inuit settlement within the Qikiqtaaluk Region of Nunavut, Canada, approximately 69 km (43 mi) south of Igloolik."
+    },
+    {
+      "cityName": "Taloyoak",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is served only by air and by annual supply sealift."
+    },
+    {
+      "cityName": "Taloyoak",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Taloyoak, the northernmost community in mainland Canada, in Inuktitut means \"large blind\", referring to a stone caribou blind or a screen used for caribou hunting."
+    },
+    {
+      "cityName": "Taloyoak",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is situated 460 km (290 mi) east of the regional centre of Cambridge Bay, 1224 km (761 mi) northeast of Yellowknife, Northwest Territories."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named for the many beluga whales which congregate off the coast."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Whale Cove (\u144e\u146d\u154b\u1550\u152a\u140a\u1585 in Inuktitut syllabics) (Tikirarjuaq, meaning \"long point\"), is a hamlet in the Kivalliq Region, Nunavut, Canada, on the western shore of Hudson Bay."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many of the inhabitants hunt these whales every fall and use their by-products for their oil and food."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Whale Cove, initially settled by three distinct Inuit groups (one inland and two coastal), is a relatively traditional community: 95% Inuit, who wear fur, hunt, fish, eat raw meat and fish."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Several bowhead whales may appear in the area as well."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Whale Cove is on the polar bear migration route."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Local Inuit regularly travel by snowmobile in the winter or by boat in summer months between the hamlet of Rankin Inlet and Whale Cove, a distance of 100 km (62 mi)."
+    },
+    {
+      "cityName": "Whale Cove",
+      "state": "NU",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The terrain is Arctic tundra, this consists mostly of rocks, mosses and lichens."
+    }
+  ]
+}

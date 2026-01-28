@@ -132,6 +132,14 @@
       "factCount": 359,
       "checksum": "1be40a2d602c09f400d1c832e6c11dae"
     },
+    "NT": {
+      "factCount": 88,
+      "checksum": "8bf683be32732a6ada3f37f48f1c1f02"
+    },
+    "NU": {
+      "factCount": 96,
+      "checksum": "e1736fee33ebca3e596106e437422489"
+    },
     "NV": {
       "factCount": 210,
       "checksum": "9f90701900146ce46a88efca4bf30701"
@@ -155,6 +163,14 @@
     "PA": {
       "factCount": 2128,
       "checksum": "f6a5a18a5d5406ac84762f11d42938fd"
+    },
+    "PE": {
+      "factCount": 108,
+      "checksum": "fe5beceb97f770ab2a12696ce94e09f1"
+    },
+    "QC": {
+      "factCount": 2607,
+      "checksum": "f4d9973084b933f50a4924a71909be22"
     },
     "RI": {
       "factCount": 152,
@@ -203,6 +219,10 @@
     "WY": {
       "factCount": 148,
       "checksum": "fc5d546da5b0dc5849680b60f3018bf4"
+    },
+    "YT": {
+      "factCount": 32,
+      "checksum": "0037e91865f1785ceda2fb4ab8ca9edf"
     }
   }
 }

@@ -1,0 +1,620 @@
+{
+  "facts": [
+    {
+      "cityName": "Aklavik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aklavik (Inuvialuktun: Ak\u0142arvik) (from the Inuvialuktun meaning barrenground grizzly place) is a hamlet located in the Inuvik Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Aklavik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because of repeated flooding in this area, the government developed Inuvik 63 km (39 mi) to the east."
+    },
+    {
+      "cityName": "Aklavik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was meant to entirely replace Aklavik, but many of the residents of the original community persevered and kept Aklavik going."
+    },
+    {
+      "cityName": "Aklavik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its 2018 population was 623."
+    },
+    {
+      "cityName": "Aklavik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The hamlet's mayor is Andrew Charlie."
+    },
+    {
+      "cityName": "Behchok\u01eb\u0300",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Behchok\u01eb\u0300 is located on the Yellowknife Highway (Great Slave Highway), on the northwest tip of Great Slave Lake, approximately 110 km (70 mi) northwest of Yellowknife."
+    },
+    {
+      "cityName": "Behchok\u01eb\u0300",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Behchok\u01eb\u0300 ( or ; English: ) (from the T\u0142\u0131\u0328ch\u01eb meaning \"Behcho's place\"), officially the T\u0142\u0131\u0328ch\u01eb Community Government of Behchok\u01eb\u0300, is a community in the North Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a significant point on the Northwest Territories highway system, as all traffic that heads to the two largest population centres, Yellowknife to the north, and the nearby town of Hay River to the northeast, must pass through."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Enterprise is a hamlet in the South Slave Region of the Northwest Territories, Canada, located between Great Slave Lake and the Alberta border on the Hay River."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As such, a tourism centre/visitors centre is located right in the heart of town, where the old weigh station used to be."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Enterprise is at an important junction of the Mackenzie Highway and the road to Yellowknife and was established when two service stations were built to take advantage of traffic along these highways."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has since grown to include a weigh station, Winnie's Restaurant, and a motel to accommodate travellers."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Most of the remaining commercial region, however, is currently closed for business and looking for buyers."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In August 2023, most buildings in Enterprise were destroyed by wildfires."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Church of Our Lady of Good Hope, a National Historic Site, is located in the community."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Good Hope (formerly Fort Hope, Fort Charles, also now known as the Charter Community of K'asho Got'ine) is a charter community in the Sahtu Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population is about 500, mainly indigenous."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The two principal languages are North Slavey and English."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Hunting and trapping are two major sources of income."
+    },
+    {
+      "cityName": "Fort Good Hope",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The church, completed in 1885, was once home to Father \u00c9mile Petitot."
+    },
+    {
+      "cityName": "Fort Providence",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located west of Great Slave Lake, it has all-weather road connections by way of the Yellowknife Highway (Great Slave Highway) branch off the Mackenzie Highway, and the Deh Cho Bridge opened November 30, 2012, near Fort Providence over the Mackenzie."
+    },
+    {
+      "cityName": "Fort Providence",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The bridge replaced the ice bridge and ferry, enabling year-round crossing of the river."
+    },
+    {
+      "cityName": "Fort Providence",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Providence (Slave: Zhahti Koe, Zhahti Kue, lit."
+    },
+    {
+      "cityName": "Fort Providence",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "'mission house') is a hamlet in the South Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Fort Providence",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Fort Providence hosts the annual Mackenzie Days celebrations in August each year."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Resolution is designated as a National Historic Site of Canada as the oldest continuously occupied place in the Northwest Territories with origins in the fur trade and the principal fur trade post on Great Slave Lake."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The oldest building in town is the historic Roman Catholic Church, built in the early 19th century; there is also a Protestant church in the hamlet."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Little Buffalo River Crossing is a nearby territorial park, with historical and natural attractions, accessible by road and featuring a campground with 12 sites."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the Headquarters of the Fort Resolution Metis Government, whose President is Arthur Beck."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is the oldest documented European community in the Northwest Territories, built in 1819, and was a key link in the fur trade's water route north."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The beach along Great Slave Lake is a prime spot for summer swimming, bird watching, fishing or relaxing."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The community is situated at the mouth of the Slave River, on the shores of Great Slave Lake, and at the end of the Fort Resolution Highway (Highway 6)."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Pine Point houses were sold cheaply, and many of the buildings were then moved to Fort Resolution (including the hockey arena), Hay River and Northern Alberta."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Fort Resolution (Den\u0131\u0301nu K\u0173\u0301\u0119\u0301 (pronounced \"deh-nih-noo-kwenh\") \"moose island place\") is a hamlet in the South Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Fort Resolution",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "It is the headquarters of the Deninu K\u0173\u0119\u0301 First Nation, whose Chief is Louis Balsillie."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Smith (Chipewyan: Thebacha \"beside the rapids\") is a town in the South Slave Region of the Northwest Territories (NWT), Canada."
+    },
+    {
+      "cityName": "Gam\u00e8ti",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gam\u00e8t\u00ec (; formerly known as Rae Lakes until 4 August 2005), officially the T\u0142\u0131\u0328ch\u01eb Community Government of Gam\u00e8t\u00ec is a community in the North Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Gam\u00e8ti",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gam\u00e8t\u00ec, according to the Prince of Wales Northern Heritage Centre means \"rabbit-net lake\"."
+    },
+    {
+      "cityName": "Gam\u00e8ti",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "'Gah means 'rabbit', and \"mi\" means net, \"t\u00ec\" means lake, or water."
+    },
+    {
+      "cityName": "Gam\u00e8ti",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is one of the four T\u0142\u0131\u0328ch\u01eb communities which form part of the Tlicho Government."
+    },
+    {
+      "cityName": "Hay River",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hay River (South Slavey: X\u00e1t\u0142\u2019odehchee ), known as \"the Hub of the North\", is a town in the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Hay River",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Hay River/Merlyn Carter Airport is located between the two sections."
+    },
+    {
+      "cityName": "Hay River",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is separated into two sections: A new town and an old town."
+    },
+    {
+      "cityName": "Inuvik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is on the east side of the enormous Mackenzie River delta."
+    },
+    {
+      "cityName": "Inuvik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Inuvik is home to federal, territorial, and Indigenous government offices, along with a regional hospital and airport."
+    },
+    {
+      "cityName": "Inuvik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Inuvik is located on the northern edge of a boreal forest just before it begins to transition to tundra."
+    },
+    {
+      "cityName": "Inuvik",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town lies within the Gwich'in Settlement Region and the Inuvialuit Settlement Region."
+    },
+    {
+      "cityName": "Norman Wells",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, which hosts the Sahtu Regional office, is situated on the north side of the Mackenzie River and provides a view down the valley of the Franklin and Richardson mountains."
+    },
+    {
+      "cityName": "Norman Wells",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Norman Wells (Slavey language: T\u0142eg\u01eb\u0301h\u0142\u0131\u0328 \"where there is oil\") is a town located in the Sahtu Region, Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Paulatuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for the coal that was found in the area in the 1920s, and the Siglitun spelling is Paulatuuq, \"place of coal\"."
+    },
+    {
+      "cityName": "Paulatuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Paulatuk () is a hamlet located in the Inuvik Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Sachs Harbour",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sachs Harbour ( SAKS; Inuinnaqtun: Ikaahuk) is a hamlet located in the Inuvik Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Sachs Harbour",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated on the southwestern coast of Banks Island in the Inuvialuit Settlement Region, the population according to the 2021 census count was 104 people."
+    },
+    {
+      "cityName": "Sachs Harbour",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sachs Harbour is the only permanent settlement on Banks Island."
+    },
+    {
+      "cityName": "Tsiigehtchic",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tsiigehtchic ( TSEE-getch-ik; \"mouth of the iron river\"), officially the Hamlet of Tsiigehtchic, is a Gwich\u02bcin community located at the confluence of the Mackenzie and the Arctic Red Rivers, in the Inuvik Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Tsiigehtchic",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was formerly known as Arctic Red River, until 1 April 1994."
+    },
+    {
+      "cityName": "Tsiigehtchic",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Gwichya Gwich'in First Nation is located in Tsiigehtchic."
+    },
+    {
+      "cityName": "Tuktoyaktuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies north of the Arctic Circle on the Arctic Ocean, and is the only place on the Arctic Ocean connected to the rest of Canada by road."
+    },
+    {
+      "cityName": "Tuktoyaktuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "'it looks like a caribou') is an Inuvialuit hamlet near the Mackenzie River delta in the Inuvik Region of the Northwest Territories, Canada, at the northern terminus of the Inuvik\u2013Tuktoyaktuk Highway."
+    },
+    {
+      "cityName": "Tuktoyaktuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tuktoyaktuk ( TUK-t\u0259-YAK-tuk; Inuvialuktun: Tuktuyaaqtuuq, lit."
+    },
+    {
+      "cityName": "Tuktoyaktuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "One of six Inuvialuit communities in the Inuvialuit Settlement Region, it is commonly known by its first syllable, Tuk ()."
+    },
+    {
+      "cityName": "Tuktoyaktuk",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Known as Port Brabant after British colonization, in 1950 it became Canada's first Indigenous settlement to reclaim its traditional name."
+    },
+    {
+      "cityName": "Tulita",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tulita, which in Slavey means \"where the rivers or waters meet\", is a hamlet in the Sahtu Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Tulita",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tulita is surrounded by mountains, the latter renowned for Dall sheep, and faces the Mackenzie Mountains to the west, which has mountain goats."
+    },
+    {
+      "cityName": "Tulita",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was formerly known as Fort Norman, until 1 January 1996."
+    },
+    {
+      "cityName": "Tulita",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Tulita is in an area that is forested and well south of the tree line."
+    },
+    {
+      "cityName": "Tulita",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Permafrost underlies the area, more or less continuous in distribution."
+    },
+    {
+      "cityName": "Ulukhaktok",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village has the world's most northerly golf course."
+    },
+    {
+      "cityName": "Ulukhaktok",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ulukhaktok ((Kangiryuarmiutun (Inuit): Ulukhaqtuuq, pronounced ) and known until 1 April 2006 as Holman or Holman Island) is a small Inuvialuit Settlement Region hamlet on the west coast of Victoria Island, in the Inuvik Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Ulukhaktok",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Like other small traditional communities in the territories, hunting, trapping, and fishing are major sources of income, but printmaking has taken over as the primary source of income in recent years."
+    },
+    {
+      "cityName": "Ulukhaktok",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The two principal languages in Ulukhaktok are the Kangiryuarmiutun dialect of Inuinnaqtun, which is part of the Inuvialuktun group, and English."
+    },
+    {
+      "cityName": "Ulukhaktok",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community was covered in the Inuvialuit Final Agreement as part of their land claims and is in the Inuvialuit Settlement Region."
+    },
+    {
+      "cityName": "Wekwe\u00e8t\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wekwe\u00e8t\u00ec (; from the Dogrib language meaning \"rock lakes\"), officially the T\u0142\u0131\u0328ch\u01eb Community Government of Wekwe\u00e8t\u00ec is a community in the North Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "Wekwe\u00e8t\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wekwe\u00e8t\u00ec is a T\u0142\u0131\u0328ch\u01eb (Dogrib Dene) aboriginal community and is located 195 km (121 mi) north of Yellowknife."
+    },
+    {
+      "cityName": "Wekwe\u00e8t\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has no year-round road access but does have a winter ice road connection; the majority of transportation to and from the community is through the Wekwe\u00e8t\u00ec Airport."
+    },
+    {
+      "cityName": "Wekwe\u00e8t\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Wekwe\u00e8t\u00ec is part of the Tlicho Government."
+    },
+    {
+      "cityName": "What\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "What\u00ec (; from the Dogrib language meaning \"Marten Lakes\"), officially the T\u0142\u0131\u0328ch\u01eb Community Government of What\u00ec is a First Nations community in the North Slave Region of the Northwest Territories, Canada."
+    },
+    {
+      "cityName": "What\u00ec",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "What\u00ec is located by Lac La Martre, about 164 km (102 mi) northwest of the territorial capital of Yellowknife."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Yellowknife and its surrounding water bodies were named after a local Dene tribe, who were known as the \"Copper Indians\" or \"Yellowknife Indians\", today incorporated as the Yellowknives Dene First Nation."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the northern shore of Great Slave Lake, about 400 km (250 mi) south of the Arctic Circle, on the west side of Yellowknife Bay near the outlet of the Yellowknife River."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Yellowknife settlement is considered to have been founded in 1934, after gold was found in the area, although commercial activity in the present-day waterfront area did not begin until 1936."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As gold production began to decrease, Yellowknife shifted from being a mining town to a centre of government services in the 1980s."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "They traded tools made from copper deposits near the Arctic Coast."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Modern Yellowknives members can be found in the city as well as in the adjoining, primarily Indigenous communities of Ndil\u01eb and Dettah."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city's population was 20340 per the 2021 Canadian census."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Of the eleven official languages of the Northwest Territories, five are spoken in significant numbers in Yellowknife: Dene Suline, Dogrib, South and North Slavey, English, and French."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "In the Dogrib language, the city is known as S\u01eb\u01eb\u0300mbak\u2019\u00e8."
+    },
+    {
+      "cityName": "Yellowknife",
+      "state": "NT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Yellowknife quickly became the centre of economic activity in the NWT, and was named the capital of the Northwest Territories in 1967."
+    }
+  ]
+}

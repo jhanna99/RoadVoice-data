@@ -190,6 +190,13 @@
       "fact": "It had a population of 5746 as of the 2020 census."
     },
     {
+      "cityName": "Aspen Hill",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aspen Hill is a census-designated place and an unincorporated area in Montgomery County, Maryland, United States. It is located 6 miles north of Washington D.C. Its population as of the 2020 census was 51,063.."
+    },
+    {
       "cityName": "Ballenger Creek",
       "state": "MD",
       "source": "Wikipedia",
@@ -1364,6 +1371,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The school also educated famous contemporary artist Eric Fischl."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia is a planned community in Howard County, Maryland, United States, consisting of 10 self-contained villages. With a population of 104,681 at the 2020 census, it is the second-most-populous community in Maryland, after Baltimore."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Columbia, located between Baltimore and Washington, D.C., is part of the Baltimore metropolitan area and is tracked by the United States Census Bureau as a census-designated place. Columbia proper consists only of territory governed by the Columbia Association, a not-for-profit management company."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The United States Postal Service also uses the name for other communities that predate Columbia, including Simpsonville and Atholton; the Census Bureau also counts part of Clarksville as Columbia.."
     },
     {
       "cityName": "Conowingo",
@@ -5039,6 +5067,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Robinwood is home to Hagerstown Community College."
+    },
+    {
+      "cityName": "Rockville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rockville is a city in and the county seat of Montgomery County, Maryland, United States, and is part of the Washington metropolitan area. The 2020 census tabulated Rockville's population at 67,117, making it the fourth-largest incorporated city in Maryland.."
     },
     {
       "cityName": "Rosaryville",

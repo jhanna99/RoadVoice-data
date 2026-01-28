@@ -4523,6 +4523,20 @@
       "fact": "The city lies mostly within Eaton County, though a small portion extends into Clinton County to the north (no residents live in that portion)."
     },
     {
+      "cityName": "Grand Rapids",
+      "state": "MI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Rapids is a city in and the county seat of Kent County, Michigan, United States. It is the second-most populous city in Michigan, with a population of 198,917 at the 2020 census."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Grand Rapids metropolitan area, with over 1.18 million residents, is the 49th-largest metropolitan area in the U.S. Grand Rapids is situated along the Grand River approximately 25 miles (40\u00a0km) east of Lake Michigan and is the economic and cultural hub of West Michigan.."
+    },
+    {
       "cityName": "Grandville",
       "state": "MI",
       "source": "Wikipedia",

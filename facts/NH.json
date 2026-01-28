@@ -890,6 +890,13 @@
       "fact": "Hampstead, which includes the village of East Hampstead, is home to a portion of the Rockingham Recreational Trail."
     },
     {
+      "cityName": "Hampton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On the Atlantic coast, Hampton is home to Hampton Beach, a summer tourist destination, and part of the census-designated place of Seabrook Beach."
+    },
+    {
       "cityName": "Hancock",
       "state": "NH",
       "source": "Wikipedia",
@@ -1098,6 +1105,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town has three distinct communities: Hopkinton village, mainly a residential area in the center of the town; Contoocook, the town's business hub, located in the north; and West Hopkinton, within the more agricultural portion of the town."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the tenth-largest municipality (town or city) in the state, by population."
     },
     {
       "cityName": "Jackson",

@@ -121,8 +121,8 @@
       "checksum": "6202130c0769bbfa45bbcbb47ae980e0"
     },
     "NH": {
-      "factCount": 324,
-      "checksum": "d0fe75ccd4b6c07caf481c2fb4685d63"
+      "factCount": 340,
+      "checksum": "277c35ee8e440c41b41bedf7b494ee04"
     },
     "NJ": {
       "factCount": 2422,
@@ -223,10 +223,6 @@
     "YT": {
       "factCount": 32,
       "checksum": "0037e91865f1785ceda2fb4ab8ca9edf"
-    },
-    "manifest": {
-      "factCount": 0,
-      "checksum": "9d24e8c2d02d919462c02e74ccde044c"
     }
   }
 }

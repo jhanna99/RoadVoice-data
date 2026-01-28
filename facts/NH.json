@@ -414,6 +414,27 @@
       "fact": "It includes the villages of Spofford and West Chesterfield."
     },
     {
+      "cityName": "Claremont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Claremont is the only city in Sullivan County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Claremont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 12,949 at the 2020 census."
+    },
+    {
+      "cityName": "Claremont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Claremont is a core city of the Lebanon\u2013Claremont micropolitan area, a bi-state, four-county region in the upper Connecticut River valley."
+    },
+    {
       "cityName": "Colebrook",
       "state": "NH",
       "source": "Wikipedia",
@@ -601,6 +622,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town also includes the village of East Derry."
+    },
+    {
+      "cityName": "Dover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dover is a city in Strafford County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Dover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 32,741 at the 2020 census, making it the most populous city in the New Hampshire Seacoast region and the fifth most populous city in New Hampshire."
     },
     {
       "cityName": "Dublin",
@@ -1296,6 +1331,41 @@
       "fact": "Madison includes the village of Silver Lake and the village district of Eidelweiss."
     },
     {
+      "cityName": "Manchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manchester is the most populous city in the U.S."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the banks of the Merrimack River, it had a population of 115,644 at the 2020 census."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Manchester is the tenth-most populous city in New England."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Along with the city of Nashua, it is one of two seats of New Hampshire's most populous county, Hillsborough County."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Manchester\u2013Nashua metropolitan area has approximately 423,000 residents and lies near the northern end of the Northeast megalopolis."
+    },
+    {
       "cityName": "Marlow",
       "state": "NH",
       "source": "Wikipedia",
@@ -1364,6 +1434,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Moultonborough is bounded in large part by Lake Winnipesaukee in the southwest and to a lesser extent by Squam Lake in the northwestern corner."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nashua is a city in southern New Hampshire, United States."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, it had a population of 91,322, the second-largest in northern New England after nearby Manchester."
+    },
+    {
+      "cityName": "Nashua",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of two county seats of New Hampshire's most populous county, Hillsborough; the other being Manchester."
     },
     {
       "cityName": "Nelson",
@@ -2211,6 +2302,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town also includes the village of Ashuelot and part of Pisgah State Park."
+    },
+    {
+      "cityName": "Windham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windham is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Windham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population at the 2020 census was 15,817, up from 13,592 in 2010."
+    },
+    {
+      "cityName": "Windham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area."
     },
     {
       "cityName": "Windsor",

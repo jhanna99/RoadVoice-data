@@ -1114,6 +1114,20 @@
       "fact": "The town was named for one of the early pioneers to the area, William Jesse Cornett, whose log cabin and burial site can still be seen today."
     },
     {
+      "cityName": "Covington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Covington is a home rule-class city in Kenton County, Kentucky, United States. It is located at the confluence of the Ohio and Licking rivers, across from Cincinnati to the north and Newport to the east."
+    },
+    {
+      "cityName": "Covington",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the largest city in Northern Kentucky and the fifth-most populous city in the state with a population of 40,691 at the 2020 census. Covington is part of the Cincinnati metropolitan area and is one of Kenton County's two seats, along with Independence.."
+    },
+    {
       "cityName": "Coxs Creek",
       "state": "KY",
       "source": "Wikipedia",
@@ -1504,6 +1518,20 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "The new city government began operation on January 1, 1969."
+    },
+    {
+      "cityName": "Elizabethtown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elizabethtown is a home rule-class city in Hardin County, Kentucky, United States, and its county seat. The population was 31,394 at the 2020 census, making it the ninth-most populous city in the state."
+    },
+    {
+      "cityName": "Elizabethtown",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Elizabethtown metropolitan area, which is included in the Louisville/Jefferson County\u2013Elizabethtown\u2013Madison, Kentucky-Indiana combined statistical area. The Elizabethtown metropolitan area had a population of 125,569 in 2020.."
     },
     {
       "cityName": "Emmalena",
@@ -2680,6 +2708,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is the seat of its county."
+    },
+    {
+      "cityName": "Hopkinsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hopkinsville is a home rule-class city in and the county seat of Christian County, Kentucky, United States. The population at the 2020 census was 31,180.."
     },
     {
       "cityName": "Horse Cave",

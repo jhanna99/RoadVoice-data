@@ -1,0 +1,1166 @@
+{
+  "facts": [
+    {
+      "cityName": "Albro Lake",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The streets are named for aircraft used by the Royal Canadian Air Force."
+    },
+    {
+      "cityName": "Albro Lake",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Albro Lake is a neighbourhood in the North End of the community of Dartmouth in Nova Scotia's Halifax Regional Municipality."
+    },
+    {
+      "cityName": "Albro Lake",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Albro Lake is bounded by Leaman Drive to the west, Lancaster Ridge to the east, Highway 111 to the north, and Albro Lake Road to the south."
+    },
+    {
+      "cityName": "Albro Lake",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The neighbourhood includes the Highfield Park and Crystal Heights."
+    },
+    {
+      "cityName": "Albro Lake",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A newer development Lancaster Ridge is built on the former Department of National Defence housing lands."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town sits on a height of land at the eastern boundary of the Isthmus of Chignecto and Tantramar Marshes, 3 km (1.9 mi) east of the interprovincial border with New Brunswick and 65 km (40 mi) southeast of the city of Moncton."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 60 km (37 mi) southwest of the New Brunswick abutment of the Confederation Bridge to Prince Edward Island at Cape Jourimain."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This district anchors a significant heritage landscape that includes Canada's oldest National Historic Site, Fort Anne, six provincially recognized heritage properties, and over 135 municipal heritage properties."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally established by the French as Port Royal in 1605, the community is historically significant as one of the oldest European settlements in North America."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1994, the town's core was designated the Annapolis Royal Historic District National Historic Site of Canada."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Historically driven by military command and shipping, the town\u2019s economy has since transitioned to a focus on tourism, heritage preservation, and the service sector."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its founding predates the English settlement at Jamestown (1607), the French settlement at Quebec City (1608), and the Pilgrims' arrival at Plymouth (1620)."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Renamed as Annapolis Royal in honour of Queen Anne following the Siege of Port Royal in 1710, the town served as capital of Acadia and subsequently Nova Scotia, until the capital was transferred to Halifax in 1749."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "While the original 1605 French settlement was centred at the nearby Habitation, the modern town developed around the site of Charles Fort, established by Scottish settlers in 1629."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Situated on the boundary between rival French and British colonial empires, the strategic settlement changed hands seven times and withstood thirteen military sieges\u2014more than any other location in North America."
+    },
+    {
+      "cityName": "Annapolis Royal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The town is also situated within the Southwest Nova Biosphere Reserve, a UNESCO-designated region."
+    },
+    {
+      "cityName": "Antigonish",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to St. Francis Xavier University and the oldest continuous Highland games outside Scotland."
+    },
+    {
+      "cityName": "Antigonish",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Antigonish ( AN-tig-\u0259-NISH; Canadian Gaelic: Am Baile M\u00f2r ) is a town in Antigonish County, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Antigonish",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is approximately 160 kilometres (100 miles) northeast of Halifax, the provincial capital."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Argyle, officially named the Municipality of the District of Argyle, is a district municipality in Yarmouth County, Nova Scotia."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Statistics Canada classifies the district municipality as a municipal district."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The district municipality occupies the eastern portion of the county and is one of three municipal units - the other two being the Town of Yarmouth and the Municipality of the District of Yarmouth."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2016, 60% of the population speaks both French and English, one of the highest rates of bilingualism in Canada."
+    },
+    {
+      "cityName": "Armdale",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Armdale is a neighbourhood of the community of Halifax, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Barrington",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barrington is the name of several places in Nova Scotia, a Canadian Atlantic province, and may refer to:"
+    },
+    {
+      "cityName": "Bedford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It borders the neighbouring communities of Hammonds Plains to the west, Sackville to the north, Dartmouth to the east, and mainland Halifax to the south."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bedford was named in honour of John Russell, 4th Duke of Bedford, Secretary of State for the colonies in 1749."
+    },
+    {
+      "cityName": "Berwick",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town site stretches south from the river and Exit 15 of Highway 101 to Highway 1."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cape Breton Island (French: \u00eele du Cap-Breton, formerly \u00eele Royale; Scottish Gaelic: Ceap Breatainn or Eilean Cheap Bhreatainn; Mi'kmaq: Unama'ki) is a rugged and irregularly shaped island on the Atlantic coast of North America and part of the province of Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 10311 km2 (3981 sq mi) island accounts for 18.7% of Nova Scotia's total area."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although the island is physically separated from the Nova Scotia peninsula by the Strait of Canso, the 1385 m (4544 ft) long Canso Causeway connects it to mainland Nova Scotia."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The island is east-northeast of the mainland with its northern and western coasts fronting on the Gulf of Saint Lawrence with its western coast forming the eastern limits of the Northumberland Strait."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The eastern and southern coasts front the Atlantic Ocean with its eastern coast also forming the western limits of the Cabot Strait."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Its landmass slopes upward from south to north, culminating in the highlands of its northern cape."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "A large body of saltwater, the Bras d'Or (\"Golden Arm\" in French), dominates the island's centre."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The total population from 2020 data numbered 134850 Cape Bretoners, which is approximately 15% of the provincial population."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Cape Breton Island has experienced a decline in population of approximately 2.9% since the 2011 census."
+    },
+    {
+      "cityName": "Cape Breton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Approximately 75% of the island's population is in the Cape Breton Regional Municipality (CBRM), which includes all of Cape Breton County and is often referred to as Industrial Cape Breton."
+    },
+    {
+      "cityName": "Clare",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clare, officially named the Municipality of the District of Clare, is a district municipality in south Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Clare",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Statistics Canada classifies the district municipality as a municipal district."
+    },
+    {
+      "cityName": "Clark's Harbour",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Owing to this as well as the town's history as a fishing community, the town is noted as the birthplace of the Cape Islander fishing boat."
+    },
+    {
+      "cityName": "Clark's Harbour",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The main industry is lobster fishing."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to 1872 it was called \"Chiganois\", the name taken from the nearby river."
+    },
+    {
+      "cityName": "Colchester",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was part of the Onslow Township that received New England Planters in the 1760s after the expulsion of the Acadians."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The historic county was founded in 1759 when the English system of administration was installed to complement settlement during the Charles Lawrence governorship, and was later divided at the partitioning of the province and in 1840."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county spans an area of 4271.23 km2 making it Nova Scotia's second largest county, with resources including extensive forest land, several mineral resources, and agricultural areas that concentrate on wild blueberry harvesting."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area thrived in the 19th century with the development of lumbering, shipbuilding, and coal mining, but rural outmigration and deforestation led to some communities being abandoned in the 20th century."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cumberland County is a county in the Canadian province of Nova Scotia."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Cumberland was named in 1755 in honour of the Duke of Cumberland to replace Beausejour."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2021 census, Cumberland County had a population of 30538, with the majority residing in the Municipality of the County of Cumberland."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the eastern shore of Halifax Harbour, Dartmouth has 72139 residents as of 2021."
+    },
+    {
+      "cityName": "Digby",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the historical county of Digby and a separate municipality from the Municipality of the District of Digby."
+    },
+    {
+      "cityName": "Digby",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Named after Admiral Robert Digby, the town has a scallop fishing fleet."
+    },
+    {
+      "cityName": "Digby",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The MV Fundy Rose ferry service connects the town to Saint John, New Brunswick."
+    },
+    {
+      "cityName": "East Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its most settled area is in the Shubenacadie Valley."
+    },
+    {
+      "cityName": "East Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "East Hants, officially named the Municipality of the District of East Hants, is a district municipality in Hants County, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "East Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Statistics Canada classifies the district municipality as a municipal district."
+    },
+    {
+      "cityName": "East Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was made in 1861 from the former townships of Uniacke, Rawdon, Douglas, Walton, Shubenacadie and Maitland."
+    },
+    {
+      "cityName": "Eastern Passage",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eastern Passage has historically been tied to the fishing industry."
+    },
+    {
+      "cityName": "Eastern Passage",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its waterfront has several small wharves and piers."
+    },
+    {
+      "cityName": "Eastern Passage",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New highway connections have resulted in the majority of area residents commuting to Downtown Halifax or Dartmouth."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Enfield is situated along the Shubenacadie River and its source at Grand Lake, and is directly adjacent to the community of Elmsdale."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area encompassing Enfield, Elmsdale, Lantz, and Milford is colloquially referred to as \"The Corridor\"."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fall River's name is derived from a stream running between Miller Lake and Lake Thomas which had a waterfall."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The waterfall was demolished in the late 1950s as a result of the construction of the Bicentennial Highway leading to Halifax; the waterfall was located where the 4-lane expressway currently runs up the hill from the crossing of Lake Thomas to the interchange with Highway 118 at Miller Lake."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hydro-electric power is now generated by a tunnel that carries the water from Miller Lake which once flowed through this stream and down the waterfall."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "These falls supplied water power for several mills during the 19th century as well as a local electrical utility during the early 20th century."
+    },
+    {
+      "cityName": "Fall River",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Turbines produce electricity for the main grid, during peak periods."
+    },
+    {
+      "cityName": "Glace Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to amalgamation, Glace Bay had been the province's fourth largest urban area and the largest town in Nova Scotia by population."
+    },
+    {
+      "cityName": "Glace Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It forms part of the general area referred to as Industrial Cape Breton."
+    },
+    {
+      "cityName": "Glace Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Formerly an incorporated town (1901\u20131995), the municipal government in Glace Bay was dissolved and the community was amalgamated into the larger regional municipality."
+    },
+    {
+      "cityName": "Glace Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Neighbouring communities include Reserve Mines, Dominion, and Tower Road."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Major employers include the Department of National Defence, Dalhousie University, Nova Scotia Health Authority, Saint Mary's University, the Halifax Shipyard, various levels of government, and the Port of Halifax."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Resource industries found in rural areas of the municipality include agriculture, fishing, mining, forestry, and natural gas extraction."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Halifax, officially the Halifax Regional Municipality (HRM), is the capital and most populous municipality of the Canadian province of Nova Scotia, and the most populous municipality in Atlantic Canada."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It consists of four former municipalities that were amalgamated in 1996: Halifax, Dartmouth, Bedford, and Halifax County."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Halifax is an economic centre of Atlantic Canada, home to a concentration of government offices and private companies."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of 2024, it is estimated that the population of the Halifax CMA was 530167, with 348634 people in its urban area."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Imperoyal is a small neighbourhood on the eastern side of Halifax Harbour in the community of Dartmouth, Nova Scotia."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area is mostly taken up by the former Dartmouth Refinery and by petroleum storage and transfer facility owned by Irving Oil Limited."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A book on the topic is written by John D. Hartley entitled Imperoyal Village."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Most of the houses are owned by workers of the oil refinery or by the Canadian Forces in CFB Halifax and nearby Shearwater."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The main road is Pleasant Street which is part of Route 322 which is also part of Marine Drive."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The area is also known as South Woodside."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fort Clarence, a part of the \"Halifax Defence Complex\" was located in the present area of the Imperial Oil Refinery."
+    },
+    {
+      "cityName": "Imperoyal",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "A small display along Pleasant Street marks the place where the fort was."
+    },
+    {
+      "cityName": "Inverness",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is about an hour's drive north from the Canso Causeway and about an hour south from Cape Breton Highlands National Park."
+    },
+    {
+      "cityName": "Inverness",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2021, its population was 1228, down 1.6% from 2016."
+    },
+    {
+      "cityName": "Kentville",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kentville is an incorporated town in Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Kentville",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2021, the town's population was 6630."
+    },
+    {
+      "cityName": "Kentville",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its census agglomeration is 26929."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The county benefits from the profile, prestige and population gained from hosting both Acadia University in Wolfville and the NSCC Kingstec campus in Kentville."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kings' economy and identity are tied into its current and historical role as the province's agricultural heartland."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Canadian Forces Base Greenwood (the largest Royal Canadian Air Force base on Canada's East Coast) and the Michelin tire plant in Waterville both provide significant positive economic impact in the county."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A strong agricultural base has been bolstered by the farm-to-table movement and a growing and acclaimed Nova Scotia wine industry, and the success of both has also bolstered the area's tourism industry."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Kings County is a county in the Canadian province of Nova Scotia."
+    },
+    {
+      "cityName": "Kings",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "With a population of 62914 in the 2021 Census, Kings County is the third most populous county in the province."
+    },
+    {
+      "cityName": "Lockeport",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is connected to the mainland by the Crescent Beach causeway."
+    },
+    {
+      "cityName": "Lockeport",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area that surrounds the bay is known as the \"Ragged Islands.\""
+    },
+    {
+      "cityName": "Lockeport",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a traditional Nova Scotian fishing town, situated on a peninsula in Allendale Bay."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically, Lunenburg's economy relied on the offshore fishery, and today it hosts Canada's largest secondary fish-processing plant."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The historic core of the town is also a National Historic Site of Canada."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Founded in 1753, the town was one of the first British attempts to settle Protestants in Nova Scotia."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town experienced prosperity in the late 1800s, and many of its architectural gems date back to that era."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1995, UNESCO designated it a World Heritage Site."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "UNESCO considers the site the best example of planned British colonial settlement in North America, as it retains its original layout and appearance of the 1800s, including local wooden vernacular architecture."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "UNESCO considers the town in need of protection because the future of its traditional economic underpinnings, the Atlantic fishery, is now very uncertain."
+    },
+    {
+      "cityName": "Mahone Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A long-standing picturesque tourism destination, the town has recently enjoyed a growing reputation as a haven for entrepreneurs and business startups."
+    },
+    {
+      "cityName": "Mahone Bay",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has the fastest growing population of any municipality in Nova Scotia according to the 2016 census, experiencing 9.9% population growth."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The park, named after Dan Brownlow, a former Mayor of Dartmouth, includes two tennis courts, a basketball court, a soccer field, a children's playground, and a pathway for joggers."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A secondary entrance, from the west, is by way of Celtic Drive, rising from the low-lying area around Lake Banook."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area also abuts Oathill Lake, which is surrounded by a wooded area with a walking trail."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "This lake is enjoyed by many including fishermen and swimmers."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Manor Park is a neighbourhood of Dartmouth, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The main entrance to the neighbourhood is from the east on Portland Street (Route 207)."
+    },
+    {
+      "cityName": "Manor Park",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Within this neighbourhood is Brownlow Park, one of Dartmouth's local parks."
+    },
+    {
+      "cityName": "Membertou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Membertou First Nation (Mi'kmawi'simk: Maupeltu) is a Mi'kmaq First Nation band government in the tribal district of Unama'ki, also known as Cape Breton Island, Nova Scotia."
+    },
+    {
+      "cityName": "Membertou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2012, the Mi'kmaq population is 814 on-Reserve, and approximately 481 off-Reserve."
+    },
+    {
+      "cityName": "Membertou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It operates a community radio station CJIJ-FM."
+    },
+    {
+      "cityName": "Membertou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Currently, Membertou has become the most well-off First Nation in Atlantic Canada."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the north bank of the Annapolis River, it is located close to the centre of the Annapolis Valley, from which it gets its nickname, \"The Heart of the Valley\"."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The early industry of the community relied on ferry service between the Nova Scotia mainland and Cape Breton Island."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mulgrave is an incorporated town on the Strait of Canso in Guysborough County, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located along the Marine Drive, Route 344 traverses the community."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town's current name was adopted in 1859 to honour the colonial Lieutenant Governor, the Earl of Mulgrave."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lying opposite to the town of Port Hawkesbury, the community is located along the western shore of the Canso Strait."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It was established as McNair's Cove in the early 19th century, and the name Port Mulgrave was adopted in 1859, later shortening to its current form."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Ferry service began in the 1810s and rail service reached the area in the 1880s."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The ferry services lasted until the opening of the Canso Causeway in 1955, dealing a major blow to the local economy."
+    },
+    {
+      "cityName": "Mulgrave",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "As of 2021, Mulgrave has a population of 627 and a population density of 35.2/km2 (91.1/sq mi), within an area of 17.83 km2 (6.88 sq mi)."
+    },
+    {
+      "cityName": "New Glasgow",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Glasgow is at the centre of the province's fourth largest urban area; the population of the New Glasgow census agglomeration in the 2021 census was 34397."
+    },
+    {
+      "cityName": "New Glasgow",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's population was 9471 in the 2021 census."
+    },
+    {
+      "cityName": "New Glasgow",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The New Glasgow census agglomeration includes the smaller adjacent towns of Stellarton, Westville, and Trenton as well as adjacent rural areas of the county."
+    },
+    {
+      "cityName": "New Waterford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Waterford (Scottish Gaelic: Port Lairge \u00d9r) is an urban community in the Cape Breton Regional Municipality, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite its small size and demographic, Oxford is the world's largest processor and distributor of individually quick frozen (IQF) wild blueberries."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 32 km (20 mi) east of Amherst."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is directly serviced by Routes 104, 204, 301, and 321."
+    },
+    {
+      "cityName": "Pictou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once an active shipping port and the shire town of the county, today Pictou is primarily a local service centre for surrounding rural communities and the primary tourist destination in this region of Nova Scotia."
+    },
+    {
+      "cityName": "Pictou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Pictou derives from the Mi'kmaq name Piktuk, meaning 'explosive place', a reference to the river of pitch that was found in the area, or perhaps from methane bubbling up from coal seams below the harbour."
+    },
+    {
+      "cityName": "Pictou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pictou ( PIK-toh; Canadian Gaelic: Baile Phiogto; Mi'kmaq: Piktuk) is a town in Pictou County, in the Canadian province of Nova Scotia."
+    },
+    {
+      "cityName": "Pictou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located on the north shore of Pictou Harbour, the town is approximately 10 km (6 miles) north of the larger town of New Glasgow."
+    },
+    {
+      "cityName": "Pictou",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The surrounding region formed one part of the Mi'kmaw district Epekwitk aq Piktuk, one of the seven districts of Mi'kma'ki."
+    },
+    {
+      "cityName": "Port Hawkesbury",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "While within the historical county of Inverness, it is not part of the Municipality of Inverness County."
+    },
+    {
+      "cityName": "Port Hawkesbury",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Port Hawkesbury (Scottish Gaelic: Baile a' Chlamhain) is a municipality in southern Cape Breton Island, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Port Wallace",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shubie Park is a local municipal park which preserves part of the historic Shubenacadie Canal between the two lakes."
+    },
+    {
+      "cityName": "Port Wallace",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Port Wallace is an urban locality within Halifax Regional Municipality, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "Port Wallace",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its main street is Route 318, with portions being named Waverley Road and Braemar Drive."
+    },
+    {
+      "cityName": "Queens",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Campgrounds at Kejimukujik National Park and National Historic Site, Thomas H. Raddall Provincial Park, and several other locations offer hiking, biking, canoeing, kayaking, cross-country skiing and snowshoeing."
+    },
+    {
+      "cityName": "Queens",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the northern gateway of the UNESCO Southwest Nova Biosphere Reserve, a centre of outdoor activities."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond was a Canadian urban community occupying the northern extremity of the peninsular City of Halifax."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the epicentre of the Halifax Explosion of 6 December 1917, the worst disaster in Canadian history, in which as many as 2000 people died and thousands more were injured."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "From the 1770s Richmond was home to Fort Needham, and in 1819 Richmond Grove (lower Duffus Street) was the site of the famous fatal duel between Richard John Uniacke Jr and William Bowie."
+    },
+    {
+      "cityName": "Stellarton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is adjacent and to the south of the larger town of New Glasgow."
+    },
+    {
+      "cityName": "Stellarton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In pioneer times the area was called Coal Mines Station, and from 1833 until 1889, it was known as Albion Mines."
+    },
+    {
+      "cityName": "Stellarton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was incorporated as Stellarton in 1889 and owes its name to a specific type of torbanite which came to be known as \"stellarite\" because of the \"stars of fire\" given off by its sparky flame."
+    },
+    {
+      "cityName": "Stewiacke",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated on August 30, 1906."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1786, it is situated on the east bank of the East River of Pictou."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community gained its name in 1882 at the suggestion of a prominent citizen, Harvey Graham, after he visited Trenton, New Jersey."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated as a town on 11 March 1911."
+    },
+    {
+      "cityName": "West Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Hants, officially named the West Hants Regional Municipality, is a regional municipality in Hants County, Nova Scotia, Canada."
+    },
+    {
+      "cityName": "West Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It occupies the western half of Hants County, running from the Minas Basin to the boundary with Halifax County, sharing this boundary with the Municipality of the District of East Hants."
+    },
+    {
+      "cityName": "West Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Municipality of the District of West Hants amalgamated with Windsor on April 1, 2020, becoming the Region of Windsor and West Hants Municipality."
+    },
+    {
+      "cityName": "West Hants",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was renamed as West Hants Regional Municipality on October 6, 2020."
+    },
+    {
+      "cityName": "Woodlawn",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodlawn is an area of eastern Dartmouth, Nova Scotia in the Halifax Regional Municipality, Nova Scotia that is mainly residential and retail."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is divided into North Woodside and South Woodside."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "NS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Woodside is home to two hospitals: the Dartmouth General Hospital and the Nova Scotia Hospital."
+    }
+  ]
+}

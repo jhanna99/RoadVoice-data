@@ -1,0 +1,2188 @@
+{
+  "facts": [
+    {
+      "cityName": "Alexander",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alexander, Manitoba, is a local urban district in the Rural Municipality of Whitehead, situated on Highway 1, west of Brandon."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community's closest city is Brandon, Manitoba, and their school is part of the Brandon School Division."
+    },
+    {
+      "cityName": "Altona",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Old Altona was founded in 1880 by Plautdietsch-speaking Mennonites from the Russian Empire."
+    },
+    {
+      "cityName": "Altona",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is surrounded by the Municipality of Rhineland."
+    },
+    {
+      "cityName": "Altona",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Much of the surrounding area is devoted to farming and agriculture-based business."
+    },
+    {
+      "cityName": "Arborg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located 103 kilometres north of Winnipeg, at the junction of Manitoba Highways 7 and 68, in the Interlake Region of Manitoba, Canada."
+    },
+    {
+      "cityName": "Arborg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is surrounded by the Municipality of Bifrost - Riverton and has a population of 1279 as of the 2021 Canadian census."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The major industry is agriculture, where mixed farming prevails."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Argyle is in Manitoba's Interlake Region."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nearby are the towns of Stonewall, Balmoral, Teulon, Grosse Isle, Gunton, Rosser, Stony Mountain and Selkirk."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Argyle is a small hamlet located in the Canadian province of Manitoba."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is approximately 30 km from Manitoba's capital, Winnipeg."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Many residents work in Winnipeg or surrounding towns."
+    },
+    {
+      "cityName": "Armstrong",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies in the southern area of the Interlake and was named after James William Armstrong, a Manitoba politician."
+    },
+    {
+      "cityName": "Beausejour",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The French name Beaus\u00e9jour means \"beautiful stay\"."
+    },
+    {
+      "cityName": "Beausejour",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 46 kilometres northeast of Winnipeg, just west of the Canadian Shield and Whiteshell Provincial Park."
+    },
+    {
+      "cityName": "Beausejour",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is surrounded by the Rural Municipality of Brokenhead."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brandon's Keystone Centre, is one of the largest consolidated entertainment, recreation, convention, and agriculture complexes in Canada and is the home of the Brandon Wheat Kings and the Royal Manitoba Winter Fair."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Known as The Wheat City, Brandon's economy is predominantly associated with agriculture, as well as health care, manufacturing, food processing, education, business services, and transportation."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Brandon's post-secondary institutions include Brandon University, Assiniboine College, and the Manitoba Emergency Services College."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The City of Brandon was incorporated in 1882, having a history rooted in the Assiniboine River fur trade as well as its role as a major junction on the Canadian Pacific Railway."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is the primary hub of trade and commerce for the Westman Region and parts of southeastern Saskatchewan, an area with a population of more than 190000 people."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Canadian Forces Base Shilo is located 30 km (19 mi) east of Brandon and maintains close ties with the city."
+    },
+    {
+      "cityName": "Brokenhead",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Beausejour, a separate urban municipality, lies within the borders of Brokenhead."
+    },
+    {
+      "cityName": "Carman",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carman is an agricultural town of about 3000 people in the Pembina Valley Region of southern Manitoba, Canada."
+    },
+    {
+      "cityName": "Carman",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Boyne River passes through Carman."
+    },
+    {
+      "cityName": "Carman",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Carman is at the junction of Highways 3 and 13, 40 minutes southwest of Winnipeg."
+    },
+    {
+      "cityName": "Carman",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is surrounded by the Rural Municipality of Dufferin, in the heart of a rich prairie agricultural belt, 60 km (37 mi) north of the American state of North Dakota."
+    },
+    {
+      "cityName": "Cartier",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Sir George-\u00c9tienne Cartier who was a leader in bringing Quebec into Confederation."
+    },
+    {
+      "cityName": "Cartier",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality is bordered on the west by the RM of Portage la Prairie, to the east by the RM of Headingley, and to the north by the Assiniboine River."
+    },
+    {
+      "cityName": "Cartier",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is mainly flat rich farmland."
+    },
+    {
+      "cityName": "Cartier",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its main town is Elie."
+    },
+    {
+      "cityName": "Cartier",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Until 1914, it was part of the larger municipality of St. Fran\u00e7ois Xavier."
+    },
+    {
+      "cityName": "Coldwell",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The principal community within the boundaries is Lundar."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It surrounds the east, south and west sides of Brandon, Manitoba."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most of the land comprising the municipality is farmland, but it contains a few settlements."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "One of the larger settlements, Sprucewoods, sits at the north gate of Canadian Forces Base Shilo and contains a large portion of the municipal population."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the past, there has been friction between the community and the farming base that make up much of Cornwallis."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The municipality is divided into six wards, each represented by one councillor."
+    },
+    {
+      "cityName": "Cornwallis",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The council is made up of the six councillors and the reeve, or head of council."
+    },
+    {
+      "cityName": "Dauphin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dauphin is Manitoba's ninth largest community and serves as a hub to the province's Parkland Region."
+    },
+    {
+      "cityName": "Dauphin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dauphin hosts several summer festivals, including Dauphin's Countryfest and Canada's National Ukrainian Festival."
+    },
+    {
+      "cityName": "Dauphin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city takes its name from Lake Dauphin and Fort Dauphin (first built 1741), which were named by explorer Pierre Gaultier de La V\u00e9rendrye in honour of the Dauphin of France, the heir to the French throne."
+    },
+    {
+      "cityName": "Dauphin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is surrounded by the Rural Municipality of Dauphin."
+    },
+    {
+      "cityName": "Dauphin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Dauphin is served by Provincial Trunk Highways 5, 10 and 20."
+    },
+    {
+      "cityName": "De Salaberry",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The municipality is named after Charles de Salaberry."
+    },
+    {
+      "cityName": "De Salaberry",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "De Salaberry is a rural municipality in the province of Manitoba in western Canada."
+    },
+    {
+      "cityName": "Dufferin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The R M was named after Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava who was Governor General of Canada (1872\u201378)."
+    },
+    {
+      "cityName": "Dufferin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The separately administered town of Carman lies near its centre."
+    },
+    {
+      "cityName": "Dufferin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The now rural municipality was described as a new settlement in 1874."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known for its beaches which are frequented by many summer residents and visitors."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As part of the Interlake and Metro regions, the municipality is located on the shores of Lake Winnipeg, just off Highway 9, south of Winnipeg Beach."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "These centres grew around Canadian Pacific Railway stations."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is on the southwest shore of Lake Winnipeg."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It encompasses the communities of Ponemah, Whytewold, and Matlock."
+    },
+    {
+      "cityName": "Dunnottar",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It borders the Rural Municipality of St. Andrews, which surrounds it in three directions."
+    },
+    {
+      "cityName": "East Saint Paul",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The municipality was formed on November 3, 1915, when the municipality of St. Paul (1888\u20131914) was subdivided into West St. Paul and East St. Paul, with the Red River acting as the dividing line."
+    },
+    {
+      "cityName": "East Saint Paul",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It encompasses 41 square kilometres (16 mi2)."
+    },
+    {
+      "cityName": "East Saint Paul",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2016, there were 9372 persons living in the RM of East St. Paul, making it the most densely-populated RM in Manitoba at 223.2 inhabitants per square kilometre (578/sq mi)."
+    },
+    {
+      "cityName": "Elton",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was incorporated in 1883, and its first officials took office the following year."
+    },
+    {
+      "cityName": "Elton",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population in 2001 was 1321."
+    },
+    {
+      "cityName": "Ethelbert",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located near Duck Mountain Provincial Park on PTH 10, the community is 370 km (230 mi) northwest of Winnipeg and 60 km (37 mi) north of Dauphin, Manitoba."
+    },
+    {
+      "cityName": "Ethelbert",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally incorporated as a village in 1950, the community was re-classified as an unincorporated urban community on 1 January 2015, following the municipal amalgamations in Manitoba."
+    },
+    {
+      "cityName": "Ethelbert",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The primary industries of Ethelbert are agriculture, logging and tourism."
+    },
+    {
+      "cityName": "Flin Flon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "5185 in 2016 census; 4982 in Manitoba and 203 in Saskatchewan) is a mining city, located on a correction line on the border of the Canadian provinces of Manitoba and Saskatchewan, with the majority of the city located within Manitoba."
+    },
+    {
+      "cityName": "Flin Flon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Residents thus travel southwest into Saskatchewan, and northeast into Manitoba."
+    },
+    {
+      "cityName": "Flin Flon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is incorporated in, and is jointly administered by, both provinces."
+    },
+    {
+      "cityName": "Gilbert Plains",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilbert Plains is an unincorporated urban community in the Gilbert Plains Municipality, Manitoba, Canada, that was classified as a town prior to January 1, 2015."
+    },
+    {
+      "cityName": "Gilbert Plains",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gilbert Plains was featured during season 3 of the CBC program Still Standing."
+    },
+    {
+      "cityName": "Gilbert Plains",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The episode originally aired on September 5, 2017."
+    },
+    {
+      "cityName": "Gillam",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located within Gillam's boundaries, Hydro has four hydro dams\u2014Kettle Generating Station, Long Spruce Generating Station, Limestone Generating Station (the largest in Manitoba) and Keeyask (in construction)\u2014three HVDC stations\u2014Radisson, Henday, and Keewatinohk\u2014and a few support groups."
+    },
+    {
+      "cityName": "Gillam",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many residents of Gillam are employed by Manitoba Hydro at one of their many facilities or support groups."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gimli Beach is popular in the summer, while Gimli Harbour is the largest harbour on Lake Winnipeg and in Western Canada between Ontario and the Pacific Coast."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community maintains a strong connection to Iceland and Icelandic culture today, including the annual Icelandic Festival."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gimli maintains a strong connection to the lake today, tourism has played a part in the town's current economic sustainability."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community's first European settlers were Icelanders who were part of the New Iceland settlement in Manitoba."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Gimli was incorporated as a village on March 6, 1908, and held town status between December 31, 1946, and January 1, 2003, when it amalgamated with the RM of Gimli."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Census Canada now recognizes the community as a population centre for census purposes."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The 2021 Canadian census recorded a population of 2345 in the population centre of Gimli."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town's settlers sustained themselves primarily from agriculture and fishing."
+    },
+    {
+      "cityName": "Gimli",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Gimli held one of the sporting events (rowing) in the 2017 Canada Games."
+    },
+    {
+      "cityName": "Grahamdale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies in the Interlake Region."
+    },
+    {
+      "cityName": "Grahamdale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated as a Local Government District (LGD) on 1 January 1945, and became a Rural Municipality in 1997."
+    },
+    {
+      "cityName": "Grahamdale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The municipality exists in two sections that are separated by a part of the Fairford 50 Indian reserve."
+    },
+    {
+      "cityName": "Grahamdale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It extends from Gypsumville to Mulvihill and incorporates the former RM of Woodlea within its present boundaries."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cedar Lake, a short distance upriver, provides a natural water source for the plant."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The steamboat Colvile also caught fire and was destroyed."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As the name implies, the river had a significant drop at this point: more than 75 ft (23 m) in less than 3 mi (4.8 km)."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Provincial Trunk Highway 6, the region's primary roadway, crosses the Saskatchewan River at the Grand Rapids Bridge."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is also across the river from the Misipawistik Cree Nation."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In modern days, a large hydroelectric plant has been built there."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Grand Rapids was on the main canoe route toward the West, where Fort Bourbon once stood."
+    },
+    {
+      "cityName": "Grand Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "In 1894, fire destroyed a number of buildings in the Grand Rapids docks."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for the picturesque views of both the Duck Mountains to the north and the Riding Mountains to the south."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grandview railway station is served by Via Rail."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The local economy is agriculturally and service industry based."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Grandview is an unincorporated urban community in the Grandview Municipality within the Canadian province of Manitoba that held town status prior to January 1, 2015."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Grandview Manitoba is home to NHL's Ryan Pulock."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The main access to the community is Provincial Highway 5."
+    },
+    {
+      "cityName": "Grandview",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "However, at one time a thriving economy was also based on a local wood mill."
+    },
+    {
+      "cityName": "Grey",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Albert Grey, 4th Earl Grey, the former Governor General of Canada."
+    },
+    {
+      "cityName": "Grey",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Rural Municipality of Grey is a rural municipality in the Canadian province of Manitoba."
+    },
+    {
+      "cityName": "Hamiota",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hamiota is an unincorporated urban community in the Hamiota Municipality within the Canadian province of Manitoba that held town status prior to January 1, 2015."
+    },
+    {
+      "cityName": "Hamiota",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The trading area radius of 20 kilometres has approximately 10000 people."
+    },
+    {
+      "cityName": "Hamiota",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "First known as Hamilton, for Thomas Hamilton, one of the first settlers, the town name was changed to avoid confusion with Hamilton, Ontario."
+    },
+    {
+      "cityName": "Hamiota",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The new name contracted Hamilton with the Sioux word ota, \"much\"."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is Manitoba's most populous rural municipality and fourth-most populous municipality overall (behind the cities of Winnipeg, Brandon, and Steinbach) as of the 2021 census."
+    },
+    {
+      "cityName": "Headingley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Trans-Canada Highway and the Assiniboine River run through the municipality."
+    },
+    {
+      "cityName": "Headingley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Headingley (sometimes incorrectly spelled Headingly) is a rural municipality in Manitoba, Canada."
+    },
+    {
+      "cityName": "Headingley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The municipality takes its name from the suburb of Headingley in the city of Leeds in West Yorkshire, England."
+    },
+    {
+      "cityName": "Kelsey",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For the municipality, see: the Rural Municipality of Kelsey Kelsey is a locality south of Split Lake, Manitoba, on the Nelson River."
+    },
+    {
+      "cityName": "Kelsey",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is served by Kelsey Airport (IATA code KES) and the Hudson Bay Railway (reporting mark HBRY)."
+    },
+    {
+      "cityName": "Kelsey",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has a strong association with the hydro electric generation in the area."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The St. Joachim Museum contains historic artifacts pertaining to the history of the French and Belgian settlers since 1877."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community also has a golf course, La Verendrye Golf, named after the family of 18th century explorers."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "For most of the community's history, La Broquerie has been ranked as Manitoba's largest dairy producer."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "La Broquerie is a local urban district in the Rural Municipality of La Broquerie, Manitoba, Canada."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is a predominantly Francophone community located approximately 10 kilometres east of Steinbach, Manitoba and 70 kilometres southeast of the provincial capital Winnipeg, at the confluence of Highways 52, 210, and 302."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The area's geography makes it attractive to winter sports."
+    },
+    {
+      "cityName": "La Broquerie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "One can snowmobile and cross-country ski along the nature trails in the town as well as throughout the entire Sandilands Provincial Forest area."
+    },
+    {
+      "cityName": "Lac du Bonnet",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is surrounded by the Rural Municipality of Lac du Bonnet."
+    },
+    {
+      "cityName": "Lac du Bonnet",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The word \"Bonnet\" is pronounced by locals as \"bonny.\""
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since the establishment of the community, Leaf Rapids has witnessed a number of significant changes directly related to mining operations."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community have invested considerable time and effort examining possible transitions."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is located approximately 1000 km north of Winnipeg along the Churchill River."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "An all-weather road connects the community to Thompson, Lynn Lake, and South Indian Lake."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was developed as using an experimental model that emphasized modern convenience and luxury in a northern environment."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The original (urban) community of Leaf Rapids is on Manitoba Provincial Road 391, although most of the large official town created later lies east of this community."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "This town is as large as a typical Rural Municipality in the more southern parts of Manitoba."
+    },
+    {
+      "cityName": "Leaf Rapids",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Population declines, service provision declines, and a changing employment have all occurred since the mine's closure in 2002."
+    },
+    {
+      "cityName": "Lorne",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Municipality of Lorne is a rural municipality (RM) in the Canadian province of Manitoba."
+    },
+    {
+      "cityName": "Lynn Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Lynn Smith, chief engineer of Sherritt Gordon Mines Ltd."
+    },
+    {
+      "cityName": "Lynn Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is centred on the original urban community of Lynn Lake."
+    },
+    {
+      "cityName": "Lynn Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are many outfitters in the Lynn Lake area, offering services for most wilderness experiences, including sport fishing and bear and moose hunting."
+    },
+    {
+      "cityName": "Macdonald",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Post Office opened in 1884 on section 33, township 12, range 8 west of the Prime Meridian."
+    },
+    {
+      "cityName": "Macdonald",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally known as Drumconner, it changed to its present name in 1895 (commemorating Sir John A. Macdonald, first Prime Minister of Canada) and is located on section 35, township 8, range 12 west of the Prime Meridian."
+    },
+    {
+      "cityName": "Macdonald",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is in the Rural Municipality of Portage la Prairie."
+    },
+    {
+      "cityName": "Macdonald",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is mostly agricultural, with a small residential area along Main Street/Centre Street and Cream Street."
+    },
+    {
+      "cityName": "McCreary",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settled as early as the 19th century, it was incorporated in 1964 as a village\u2014a status it lost upon amalgamating with the Municipality of McCreary on 1 January 2015."
+    },
+    {
+      "cityName": "McCreary",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "McCreary covers an area of 1.70 km2, and has a population of 472."
+    },
+    {
+      "cityName": "McCreary",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As the self-proclaimed \"Ski Capital of Manitoba,\" the former village previously held significance as the closest settlement to the former Mount Agassiz Ski Area."
+    },
+    {
+      "cityName": "Melita",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Melita is known as the \"Grasslands Bird Capital of Manitoba\" and is located in Manitoba's banana belt."
+    },
+    {
+      "cityName": "Melita",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is surrounded by the Municipality of Two Borders and occupies a bend of the Souris River."
+    },
+    {
+      "cityName": "Melita",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Graham Creek runs along the west side of town and into the Souris River."
+    },
+    {
+      "cityName": "Melita",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It sits at the junction of Highways 3 and 83, approximately 320 km southwest of Winnipeg."
+    },
+    {
+      "cityName": "Minnedosa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's name means \"flowing water\" in the Dakota language."
+    },
+    {
+      "cityName": "Minnedosa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is surrounded by the Rural Municipality of Minto \u2013 Odanah."
+    },
+    {
+      "cityName": "Montcalm",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Rural Municipality of Montcalm is a rural municipality (RM) in the Pembina Valley Region of Manitoba in Western Canada."
+    },
+    {
+      "cityName": "Montcalm",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2021, Montcalm has a population of 1278 people."
+    },
+    {
+      "cityName": "Montcalm",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Three Francophone towns are located in Montcalm: St. Joseph, Letellier, and St. Jean Baptiste."
+    },
+    {
+      "cityName": "Morden",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morden, which is surrounded by the Rural Municipality of Stanley, is the eighth largest and fastest-growing city in Manitoba."
+    },
+    {
+      "cityName": "Morden",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is about 11 km (6.8 mi) west of the neighbouring city of Winkler and they are often referred to as Manitoba's Twin Cities."
+    },
+    {
+      "cityName": "Morden",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to Statistics Canada, the city had a population of 9929 in 2021, an increase of 14.5% from 2016, making it Manitoba's fastest growing city."
+    },
+    {
+      "cityName": "Morris",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Alexander Morris, the second Lieutenant Governor of Manitoba."
+    },
+    {
+      "cityName": "Morris",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Morris is mostly surrounded by the Rural Municipality of Morris, except for a relatively small eastern border with the northwest corner of the Rural Municipality of Montcalm, across the Red River of the North."
+    },
+    {
+      "cityName": "Morris",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Morris is home to 1885 people (2016)."
+    },
+    {
+      "cityName": "Morris",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Highway 75, which turns into Interstate 29, is the major highway which runs from Winnipeg to Missouri."
+    },
+    {
+      "cityName": "Morris",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Morris is host to the annual Manitoba Stampede and Exhibition."
+    },
+    {
+      "cityName": "Mossey River",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the Mossey River, a river that flows through the municipality."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its largest communities are the local urban districts of Pine River, Birch River, and Mafeking."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality, which was named for the nearby Porcupine and Duck Mountains, sits along the east side of both the Porcupine Provincial Forest in the north and the Duck Mountain Provincial Forest in the south."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its 2607 square kilometres (1007 sq mi) is split geographically into two large sections\u2014Mountain (North) at 52\u00b034\u203248\u2033N 101\u00b000\u203254\u2033W, and Mountain (South) at 51\u00b058\u203221\u2033N 100\u00b023\u203231\u2033W\u2014separated by approximately 10 km (6.2 mi) at the northeast corner of Municipality of Minitonas \u2013 Bowsman."
+    },
+    {
+      "cityName": "Mystery Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Mystery Lake, a lake located in the northeast section of the LGD, northeast of Thompson."
+    },
+    {
+      "cityName": "Mystery Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mystery Lake is a local government district (LGD) in northern Manitoba."
+    },
+    {
+      "cityName": "Mystery Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It surrounds the city of Thompson, although most of its territory lies to the southwest and south of the city."
+    },
+    {
+      "cityName": "Neepawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Neepawa is the self-proclaimed lily capital of the world in part because of its Lily Festival."
+    },
+    {
+      "cityName": "Neepawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lily Festival ran for 18 years beginning in 1996 and ending in 2014."
+    },
+    {
+      "cityName": "Neepawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2021 its population was 5685."
+    },
+    {
+      "cityName": "Neepawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Neepawa was incorporated as a town in 1883."
+    },
+    {
+      "cityName": "Neepawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located in western Manitoba, it is bordered by the Municipality of North Cypress \u2013 Langford and Rural Municipality of Rosedale."
+    },
+    {
+      "cityName": "Niverville",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Niverville's population as of the 2021 census is 5947, making it the largest town and 10th-largest community in Manitoba."
+    },
+    {
+      "cityName": "Niverville",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town lies between the northwest corner of the Rural Municipality of Hanover and the southeastern portion of the Rural Municipality of Ritchot."
+    },
+    {
+      "cityName": "North Norfolk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally incorporated as a rural municipality on January 1, 1882."
+    },
+    {
+      "cityName": "North Norfolk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It ceased on January 1, 2015 as a result of its provincially mandated amalgamation with the Town of MacGregor to form the Municipality of North Norfolk."
+    },
+    {
+      "cityName": "Pinawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community lies on the north bank of the Winnipeg River in the southeastern part of the Local Government District."
+    },
+    {
+      "cityName": "Pinawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pinawa is a local government district and small community of 1331 residents (2016 census) located in southeastern Manitoba, Canada."
+    },
+    {
+      "cityName": "Pinawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is 110 kilometres north-east of Winnipeg."
+    },
+    {
+      "cityName": "Pinawa",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Except for a small eastern border with the unorganized area of the Eastman Region, it is surrounded by the Rural Municipalities of Lac du Bonnet to the north and Whitemouth to the south, but is independent of either one."
+    },
+    {
+      "cityName": "Piney",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 130 kilometers from Winnipeg and within five kilometres of the Canada\u2013US border."
+    },
+    {
+      "cityName": "Piney",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was served by the Piney Pinecreek Border Airport, unusual in that its runway lied across the international border, along the Pinecreek\u2013Piney Border Crossing."
+    },
+    {
+      "cityName": "Pipestone",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the corner of Highways 2 and 83, Pipestone is approximately 35 kilometres (22 mi) from either Virden or Melita, approximately 70 kilometres (43 mi) to the United States border and approximately 36 kilometres (22 mi) to the Saskatchewan border."
+    },
+    {
+      "cityName": "Pipestone",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is mainly an agricultural area with some oil drilling nearby."
+    },
+    {
+      "cityName": "Pipestone",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pipestone is part of the Rural Municipality of Pipestone."
+    },
+    {
+      "cityName": "Portage la Prairie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits on the Assiniboine River, which flooded the town persistently until a diversion channel north to Lake Manitoba (the Portage Diversion) was built to divert the flood waters."
+    },
+    {
+      "cityName": "Portage la Prairie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Portage la Prairie is approximately 75 kilometres (47 mi) west of Winnipeg, alongside the Trans-Canada Highway (exactly halfway between the provincial boundaries of Saskatchewan and Ontario)."
+    },
+    {
+      "cityName": "Portage la Prairie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is surrounded by the Rural Municipality of Portage la Prairie."
+    },
+    {
+      "cityName": "Portage la Prairie",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "According to Environment Canada, Portage la Prairie has the most sunny days during the warm months in Canada."
+    },
+    {
+      "cityName": "Powerview-Pine Falls",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town borders the Rural Municipality of Alexander and the Sagkeeng First Nation Indian reserve."
+    },
+    {
+      "cityName": "Powerview-Pine Falls",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Manitoba Highway 11 and Manitoba Provincial Road 304 are the major roads connecting Powerview with other nearby communities."
+    },
+    {
+      "cityName": "Reynolds",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of Manitoba's Sandilands and Agassiz Provincial Forests are located here, as are parts of Whiteshell Provincial Forest and Whiteshell Provincial Park."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The RM had a population of 5945 as of the 2016 Canada Census."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The average age in the municipality is 31."
+    },
+    {
+      "cityName": "Rhineland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It surrounds, but does not include, the Town of Altona."
+    },
+    {
+      "cityName": "Ritchot",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Rural Municipality of Ritchot is a rural municipality (RM) in the Winnipeg Capital Region, bordering the south side of Winnipeg in Manitoba, Canada."
+    },
+    {
+      "cityName": "Ritchot",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The separately-administered town of Niverville lies adjacent to its southeast, between it and the Rural Municipality of Hanover."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2010, the Town of Roblin and the former Rural Municipalities of Hillsburg and Shell River had a total population of 3284."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Roblin is an incorporated urban community located within the Municipality of Roblin in Manitoba, Canada."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated approximately 400 kilometres (250 miles) northwest of Winnipeg, Manitoba."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Prior to 1 January 2015, Roblin was designated as a town."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "About 40% of the population is involved in agriculture and other resource-based industries."
+    },
+    {
+      "cityName": "Roblin",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Services, tourism and the processing of wood and agricultural products largely contribute to the local economy."
+    },
+    {
+      "cityName": "Rockwood",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The independently governed towns of Stonewall and Teulon are both enclaved within Rockwood."
+    },
+    {
+      "cityName": "Roland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roland is the birthplace of the Canadian 4-H Council and the Canadian 4-H Club."
+    },
+    {
+      "cityName": "Roland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Roland is home to the world's largest pumpkin, a fibreglass structure built as a tribute to Edgar VanWyck, a local resident who made the Guinness Book of World Records in 1977 for growing the largest pumpkin."
+    },
+    {
+      "cityName": "Roland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is named for Roland McDonald, a farmer and lumber merchant, who settled there in 1880 when the post office was opened."
+    },
+    {
+      "cityName": "Roland",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Juno nominated international children's musicians, LuLu and the TomCat, make their home in Roland."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The southeast corner of Riding Mountain National Park overlaps the northwest corner of the RM, and comprises about one-sixth of Rosedale's territory."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Town of Neepawa borders the municipality."
+    },
+    {
+      "cityName": "Rossburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to 1 January 2015, Rossburn was designated as a town."
+    },
+    {
+      "cityName": "Rossburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is near Waywayseecappo First Nation."
+    },
+    {
+      "cityName": "Rossburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There is an elementary school and a high school."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Water sourced from the Assiniboine River is treated at Headingley before being sent out through distribution channels."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Near the community of Rosser is the Dorsey Converter Station and the large static inverter plant for the Nelson River Bipole HVDC power transmission project."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population as of the 2016 Census was 1372."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "CentrePort Canada lies primarily in the eastern part of the RM, inside the Perimeter Highway."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A small portion of Winnipeg James Armstrong Richardson International Airport also lies within the RM of Rosser."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Water services are provided by the Cartier Regional Water Cooperative."
+    },
+    {
+      "cityName": "Rosser",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The CentrePort distribution line serves CentrePort development and the RM of Rosser."
+    },
+    {
+      "cityName": "Saint Laurent",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A historically-M\u00e9tis settlement, St. Laurent is one of the few remaining places in which the Michif French language is still spoken."
+    },
+    {
+      "cityName": "Saint Laurent",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies within the boundaries of the Rural Municipality of St. Laurent, 70 km (43 mi) from Winnipeg."
+    },
+    {
+      "cityName": "Selkirk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is connected to Winnipeg via Highway 9 and is served by the Canadian Pacific Railway."
+    },
+    {
+      "cityName": "Selkirk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A vertical lift bridge over the Red River connects Selkirk with the smaller town of East Selkirk."
+    },
+    {
+      "cityName": "Selkirk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was named in honour of the Scotsman Thomas Douglas, 5th Earl of Selkirk, who obtained the grant to establish a colony in the Red River area in 1813."
+    },
+    {
+      "cityName": "Selkirk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It has a population of 10504 as of the 2021 census."
+    },
+    {
+      "cityName": "Selkirk",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The mainstays of the local economy are tourism, a steel mill, and a psychiatric hospital."
+    },
+    {
+      "cityName": "Snow Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main industry is, and always has been, mining; currently with one mine producing Zinc, and another lithium."
+    },
+    {
+      "cityName": "Snow Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Possibly named for a local family (Rudnyckyj) or because early settlers \"found the water in the lake as soft as the melted snow\" (Files, Manitoba Department of Natural Resources)."
+    },
+    {
+      "cityName": "Snow Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The official Town of Snow Lake is a very large, overwhelmingly rural area that is centered about the urban community of Snow Lake, which lies very near its geographical center."
+    },
+    {
+      "cityName": "Snow Lake",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Town is as large in area as a typical rural municipality in the more southern parts of Manitoba."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Birds Hill Provincial Park nestles into the north-western corner of Springfield."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Springfield's population was 16142 as of the 2021 census, making it the second most populous RM in the province (slightly behind the RM of Hanover) and fifth most populous municipality overall (behind the cities of Winnipeg, Brandon, and Steinbach, and RM of Hanover)."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It stretches from urban industrial development on the eastern boundary of the city of Winnipeg, through urban, rural residential, agricultural and natural landscapes, to the Agassiz Provincial Forest on the municipality's eastern boundary."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Agriculture is the dominant industry: primarily dairy farming and livestock."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St-Pierre-Jolys (formerly Rivi\u00e8re-aux-Rats/Rat River, St-Pierre/St. Pierre) is a village in the Canadian province of Manitoba, located 50 km (31 mi) southeast of Winnipeg on Highway 59 near the Rat River."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is surrounded by the Rural Municipality of De Salaberry, and the nearest communities to it are Steinbach, St. Malo, Morris and Niverville."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Being important sectors for the life of the community, the local businesses, services, and hospitality are strong."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "There are 3 schools, a hospital, and a sizable Royal Canadian Mounted Police detachment in the village."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Bilingual St-Pierre-Jolys has collaborated with the nearby St. Malo on several ventures, including a trade show and a hockey league."
+    },
+    {
+      "cityName": "St-Pierre-Jolys",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The dramatic sequences for the 2012 documentary We Were Children were shot there."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1876, the area made up part of the Mennonite West Reserve."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality has a population of 8969 as of the 2016 Canada Census."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The cities of Winkler and Morden lie geographically within the municipality but are separate urban municipalities."
+    },
+    {
+      "cityName": "Steinbach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city, located about 58 km (36 mi) southeast of the provincial capital of Winnipeg, is bordered by the Rural Municipality of Hanover to the north, west, and south, and the Rural Municipality of La Broquerie to the east."
+    },
+    {
+      "cityName": "Steinbach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Steinbach was first settled by Plautdietsch-speaking Mennonites from Ukraine in 1874, whose descendants continue to have a significant presence in the city today."
+    },
+    {
+      "cityName": "Steinbach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Steinbach is found on the eastern edge of the Canadian Prairies, while Sandilands Provincial Forest is a short distance east of the city."
+    },
+    {
+      "cityName": "Steinbach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city had a population growth of 11.1% between 2016 and 2021 and has gained national recognition as an immigration destination of Canada and a model for immigrant integration in the country."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known for its limestone quarries."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The local festival is the Quarry Days which is usually held over three days in August on Main Street."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is surrounded by the R M of Rockwood."
+    },
+    {
+      "cityName": "Stuartburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stuartburn is a small, primarily Ukrainian community in southeastern Manitoba, Canada and situated in the Rural Municipality of Stuartburn."
+    },
+    {
+      "cityName": "Stuartburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stuartburn is considered to be the first Ukrainian community in western Canada."
+    },
+    {
+      "cityName": "Stuartburn",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It borders the rural municipalities of Emerson-Franklin, Hanover, La Broquerie, and Piney, as well as Kittson and Roseau Counties in Minnesota in the United States."
+    },
+    {
+      "cityName": "Swan River",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2021 Canadian Census, Swan River had a population of 4049, making it Manitoba's 18th largest in population."
+    },
+    {
+      "cityName": "Swan River",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is surrounded by the Municipality of Swan Valley West in the Swan River Valley region."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after the Bishop Tach\u00e9 (one of the first bishops in Manitoba), it is located to the south-east of Winnipeg, stretching from the Red River Floodway in the west to the beginning of the Canadian Shield in the east."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lorette and Landmark are the main residential and commercial hubs of the municipality with Ste-Genevieve, Dufresne, Ross, and Linden as other noteworthy communities."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Trees line the Seine River as it meanders through the centre of the municipality and acts as an oasis of oak and elm trees in the primarily agricultural fields of the area."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is also home to the municipal office and to the board offices of the Seine River School Division and the Franco-manitoban School Division."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Tach\u00e9 is a rural municipality in Manitoba, Canada, incorporated in 1880."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1998 a new high school, Coll\u00e8ge Lorette Collegiate, was completed in the town of Lorette."
+    },
+    {
+      "cityName": "Tach\u00e9",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As per Statistics Canada, Tach\u00e9's population in 2016 was 11568."
+    },
+    {
+      "cityName": "Teulon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located between Stonewall and Gimli, Teulon is commonly referred to as \"The Gateway to the Interlake\"."
+    },
+    {
+      "cityName": "Teulon",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Teulon is surrounded by the Rural Municipality of Rockwood."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Pas contains one of the two main campuses of the University College of the North."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Known as \"The Gateway to the North\", The Pas is a multi-industry northern Manitoba town serving the surrounding region."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Pasquia River begins in the Pasquia Hills in east central Saskatchewan."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The French in 1795 knew the river as Basquiau."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Across the river on the neighbouring Opaskwayak Cree Nation, the Otineka Mall serves as the area's principal enclosed shopping centre."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is approximately 520 kilometres (320 mi) northwest of the provincial capital, Winnipeg, and 35 kilometres (22 mi) from the border of Saskatchewan."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is sometimes still called Paskoyac by locals after the first trading post, called Fort Paskoya, constructed in the 1740s by French and Canadian traders."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The main components of the region's economy are agriculture, forestry, commercial fishing, tourism, transportation, and services (especially health and education)."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The main employer is a paper mill operated by Canadian Kraft Paper Industries Ltd."
+    },
+    {
+      "cityName": "The Pas",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Pas is bordered by the Rural Municipality of Kelsey, as well as part of the Opaskwayak Cree Nation."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally founded in 1956 as a mining town, it is one of the largest fully planned communities in Canada."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The largest marina in Manitoba is 38 km (24 mi) south in Paint Lake Provincial Park."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated along the Burntwood River, Thompson is located 210 kilometres (130 mi) north of Lake Winnipeg and 761 km (473 mi) north of the City of Winnipeg."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It now primarily serves as the \"Hub of the North\", providing goods and services such as health care and retail trade to the surrounding communities."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Thompson has fewer than 15000 residents, with many of the smaller communities accessible only by air or winter road."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Despite its isolated location in the heart of Canada's boreal forest, the city is served by an all-weather road and Manitoba Highway 6, Thompson station (served by the Winnipeg\u2013Churchill train), and by the Thompson Airport."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Thompson's natural and undisturbed surroundings make it popular with outdoor enthusiasts."
+    },
+    {
+      "cityName": "Victoria",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The RM was established in 1902 and named for Queen Victoria."
+    },
+    {
+      "cityName": "Victoria",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In its westernmost part, the RM contains parts of Manitoba's Spruce Woods Provincial Forest and Spruce Woods Provincial Park."
+    },
+    {
+      "cityName": "Victoria Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Unlike other resort areas, (such as Grand Beach) the municipality has no campgrounds, picnic areas, or tourist attractions."
+    },
+    {
+      "cityName": "Victoria Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2021 Canadian census, Victoria Beach had a permanent population of 689 residents, but during the summer season the population swells to over 5000 people."
+    },
+    {
+      "cityName": "Victoria Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It lies on a small peninsula that extends into Lake Winnipeg, and is almost completely surrounded by the lake, but does share a small southern land border with the Rural Municipality of Alexander."
+    },
+    {
+      "cityName": "Victoria Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is slightly less than half the size of the next-smallest Rural Municipality of East St. Paul."
+    },
+    {
+      "cityName": "Victoria Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Elk Island Provincial Park lies on an island in the north end of the municipality."
+    },
+    {
+      "cityName": "Virden",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oil was first discovered in 1951, and Virden has since come to be known as the \"Oil Capital of Manitoba\"."
+    },
+    {
+      "cityName": "Whitehead",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It became a municipality on 22 December 1883 and was named for Joseph Whitehead, a railway contractor who was active in the area during the 1880s."
+    },
+    {
+      "cityName": "Whitehead",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is west of Brandon and the principle communities within its boundaries are Kemnay and Alexander."
+    },
+    {
+      "cityName": "Whitemouth",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1905 along the main Canadian Pacific Railway line."
+    },
+    {
+      "cityName": "Whitemouth",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is named after the Whitemouth River."
+    },
+    {
+      "cityName": "Winkler",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As the largest city in the Pembina Valley, it serves as a regional hub for commerce, agriculture and industry."
+    },
+    {
+      "cityName": "Winkler",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winkler is the third-fastest growing city in the province after Morden and Steinbach."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A settlement was later founded by the Selkirk settlers of the Red River Colony in 1812, the nucleus of which was incorporated as the City of Winnipeg in 1873."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Known as the \"Gateway to the West\", Winnipeg is a railway and transportation hub with a diversified economy."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is named after the nearby Lake Winnipeg; the name \"Winnipeg\" comes from the Western Cree words for \"muddy water\" \u2013 winip\u012bhk."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The region was a trading centre for Indigenous peoples long before the arrival of Europeans; it is the traditional territory of the Anishinaabe (Ojibway), Ininew (Cree), Oji-Cree, Dene, and Dakota, and is the birthplace of the M\u00e9tis Nation."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It hosts numerous annual festivals, including the Festival du Voyageur, the Winnipeg Folk Festival, the Jazz Winnipeg Festival, the Winnipeg Fringe Theatre Festival, and Folklorama."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is centred on the confluence of the Red and Assiniboine rivers."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "French traders built the first fort, Fort Rouge, on the site in 1738."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Being far inland, the city's climate is extremely seasonal (continental) even by Canadian standards, with average January highs of around \u221211 \u00b0C (12 \u00b0F) and average July highs of 26 \u00b0C (79 \u00b0F)."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Winnipeg was the first Canadian host of the Pan American Games in 1967."
+    },
+    {
+      "cityName": "Winnipeg",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "It is home to several professional sports franchises, including the Winnipeg Blue Bombers (Canadian football), Winnipeg Jets (ice hockey), Manitoba Moose (ice hockey), Winnipeg Sea Bears (basketball), and the Winnipeg Goldeyes (baseball)."
+    },
+    {
+      "cityName": "Winnipeg Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1900 by Sir William Whyte and is located at the junction of Highway 9 and Highway 229 on the southwestern shore of Lake Winnipeg, about 56 kilometres (35 mi) north of Winnipeg."
+    },
+    {
+      "cityName": "Winnipeg Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bordered by the Rural Municipality of Gimli, the Rural Municipality of St. Andrews, and Dunnottar as well as Lake Winnipeg."
+    },
+    {
+      "cityName": "Winnipeg Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nearby towns are Ponemah, Whytewold, and Matlock (all to the south), Gimli, and Sandy Hook, (located to the north), as well as Teulon, and Selkirk."
+    },
+    {
+      "cityName": "Winnipeg Beach",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its permanent population is 1439 (as of 2021)"
+    },
+    {
+      "cityName": "Woodlands",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The post office was established in 1874."
+    },
+    {
+      "cityName": "Woodlands",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Woodlands is also home to the Woodlands Pioneer Museum."
+    },
+    {
+      "cityName": "Woodlands",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Woodlands was named by D. Porteous, for the surrounding lands to the north, west and east which are wooded."
+    },
+    {
+      "cityName": "Woodlands",
+      "state": "MB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Environment Canada's weather radar station that serves the Winnipeg area is located in Woodlands."
+    }
+  ]
+}

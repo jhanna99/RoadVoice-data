@@ -1,0 +1,2272 @@
+{
+  "facts": [
+    {
+      "cityName": "Albany",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of Albany is within the southeastern corner of the White Mountain National Forest, including Mount Chocorua and Mount Paugus."
+    },
+    {
+      "cityName": "Albany",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Albany is the entrance to the Mount Washington Valley, and features a 120-foot (37 m) covered bridge that spans the Swift River just north of the Kancamagus Highway."
+    },
+    {
+      "cityName": "Albany",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Albany is also home to the World Fellowship Center, an intergenerational camp and conference retreat center founded in 1941 by and for peace activists."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Another attraction is Mowglis Mountain, named for Rudyard Kipling's Jungle Book hero."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newfound Lake is in the northeast corner, with Wellington State Park on the western shore."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cardigan Mountain State Park, with Mount Cardigan, is in the west."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is home to Welton Falls State Forest."
+    },
+    {
+      "cityName": "Allenstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Just over one-half of the town's area is covered by Bear Brook State Park."
+    },
+    {
+      "cityName": "Allenstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Allenstown includes a portion of the village of Suncook."
+    },
+    {
+      "cityName": "Alstead",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alstead is home to Feuer State Forest."
+    },
+    {
+      "cityName": "Alton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also includes the village of Alton Bay, a long-time resort located beside Lake Winnipesaukee."
+    },
+    {
+      "cityName": "Alton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Alton Bay State Forest and Mount Major State Forest."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amherst is home to Ponemah Bog Wildlife Sanctuary, Hodgman State Forest, the Joe English Reservation and Baboosic Lake."
+    },
+    {
+      "cityName": "Andover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Ragged Mountain State Forest and Proctor Academy, a private coeducational preparatory school."
+    },
+    {
+      "cityName": "Andover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Andover includes the villages of Cilleyville, Potter Place, East Andover, and West Andover, in addition to the town center."
+    },
+    {
+      "cityName": "Antrim",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Antrim also includes the villages of Antrim Center, North Branch, and Clinton Village."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located near the geographical center of the state, Ashland is home to Scribner-Fellows State Forest."
+    },
+    {
+      "cityName": "Barnstead",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to the Suncook Lakes, Barnstead includes the villages of Center Barnstead, Barnstead Parade (identified as \"Barnstead\" on topographic maps) and South Barnstead."
+    },
+    {
+      "cityName": "Barrington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is a woodland, farm and commuter town."
+    },
+    {
+      "cityName": "Bartlett",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is set in the White Mountains and is surrounded by the White Mountain National Forest."
+    },
+    {
+      "cityName": "Bartlett",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Attitash Mountain Resort and the Story Land theme park."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Now a tourist destination and commuter town for Littleton, the town is noted for its historic architecture, including the Brick Store and three covered bridges."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bath includes the village of Swiftwater and part of the district known as Mountain Lakes."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was granted in 1761, by Governor Benning Wentworth, who named it for the politician William Pulteney, 1st Earl of Bath."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was first settled in 1765 by John Herriman from Haverhill, Massachusetts."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "But the terms of the original grant were unfulfilled, so Bath was regranted on March 29, 1769, by Governor John Wentworth."
+    },
+    {
+      "cityName": "Bath",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The first census, taken in 1790, recorded 493 residents."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bedford is a suburb of Manchester, New Hampshire's largest city."
+    },
+    {
+      "cityName": "Benton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the White Mountains, Benton is largely surrounded by the White Mountain National Forest."
+    },
+    {
+      "cityName": "Benton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is crossed by the Appalachian Trail."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berlin is home to the Berlin and Coos County Historical Society's Moffett House Museum & Genealogy Center, Service Credit Union Heritage Park, the Berlin Fish Hatchery, and the White Mountains Community College, member of the Community College System of New Hampshire."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in New Hampshire's Great North Woods Region or \"North Country\", Berlin sits at the edge of the White Mountains, and the city's boundaries extend into the White Mountain National Forest."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The pronunciation of Berlin was changed to BUR-lin, instead of Ber-LIN (as in Berlin, Germany), during World War I as a patriotic stand against Germany."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It includes the village of Cascade in the south part of the city."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Because Quebec is less than 60 miles (100 km) away, Berlin has many people of French Canadian descent in its population."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Around 65% of its residents speak a variant of New England French, which is known locally as \"Berlin French\"."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The eastern half of the town is within the White Mountain National Forest."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Cushman and Strawberry Hill state forests."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Appalachian Trail crosses a small portion of the town in the south."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town also includes the villages of Maplewood and Pierce Bridge."
+    },
+    {
+      "cityName": "Bradford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also includes the village of Bradford Center."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Wellington State Park, Sugar Hill State Forest, and Profile Falls on the Smith River."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Surrounded by hills and lakes, Bristol includes the lower two-thirds of Newfound Lake, a resort area."
+    },
+    {
+      "cityName": "Brookline",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookline is home to the Talbot-Taylor Wildlife Sanctuary, Potanipo Pond, and the Brookline Covered Bridge."
+    },
+    {
+      "cityName": "Campton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Campton, which includes the villages of Blair, Campton Hollow, Lower Campton and West Campton, is home to Blair State Forest and Livermore Falls State Forest."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canaan is home to the Cardigan Mountain School, the town's largest employer."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the location of Mascoma State Forest."
+    },
+    {
+      "cityName": "Candia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Candia, Candia Four Corners and East Candia."
+    },
+    {
+      "cityName": "Canterbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Canterbury Shaker Village is in the eastern part of the town."
+    },
+    {
+      "cityName": "Carroll",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The two largest villages are Twin Mountain and Bretton Woods."
+    },
+    {
+      "cityName": "Carroll",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Carroll is an important access point for recreational areas in the White Mountains, including many 4000-footers, the Zealand River area, the Presidential Range, and the Presidential Dry River Wilderness."
+    },
+    {
+      "cityName": "Carroll",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is home to the Mount Washington Hotel at Bretton Woods and to the Highland Center at Crawford Notch, the Appalachian Mountain Club's four-season lodge."
+    },
+    {
+      "cityName": "Center Harbor",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 1040."
+    },
+    {
+      "cityName": "Charlestown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Hubbard State Forest and the headquarters of the Student Conservation Association."
+    },
+    {
+      "cityName": "Charlestown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town also includes the villages of North Charlestown, South Charlestown and Hemlock Center."
+    },
+    {
+      "cityName": "Chatham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the Cold River national forest campgrounds."
+    },
+    {
+      "cityName": "Chester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was home to the now defunct Chester College (formerly White Pines College)."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chesterfield is home to Spofford Lake, Chesterfield Gorge Natural Area, and parts of Pisgah State Park and Wantastiquet Mountain State Forest."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the villages of Spofford and West Chesterfield."
+    },
+    {
+      "cityName": "Colebrook",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the Great North Woods Region, it is bounded on the west by the Connecticut River and home to Beaver Brook Falls Natural Area."
+    },
+    {
+      "cityName": "Colebrook",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town also includes the villages of Kidderville, Upper Kidderville, and Factory Village."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically, the Boston and Maine Railroad served the city."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Concord is home to the University of New Hampshire School of Law, New Hampshire's only law school; St. Paul's School, a private preparatory school; NHTI, a two-year community college; the New Hampshire Police Academy; and the New Hampshire Fire Academy."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1808, Concord was named the official seat of state government, and the State House was completed in 1819; it remains the oldest U S state capitol wherein the legislature meets in its original chambers."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2020, the top employer in the city was the State of New Hampshire, and the largest private employer was Concord Hospital."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Concord's Old North Cemetery is the final resting place of Franklin Pierce, 14th President of the United States."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Concord is entirely within the Merrimack River watershed and the city is centered on the river."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city's eastern boundary is formed by the Soucook River, which separates Concord from the town of Pembroke."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Turkey River passes through the southwestern quarter of the city."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Penacook sits along the Contoocook River, just before it flows into the Merrimack."
+    },
+    {
+      "cityName": "Concord",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "As of the 2020 United States census the population was 43976, making it the 3rd most populous city in New Hampshire after Manchester and Nashua."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is on the southeastern edge of the White Mountain National Forest."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tourism remains Conway's biggest economic engine, with numerous lodging and rental properties serving visitors to the eastern White Mountains and the Mount Washington Valley, while the technology sector makes up the second largest source of employment."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sites of interest in the town include natural sites such as Cathedral Ledge (popular with climbers), Echo Lake and Conway Lake, as well as several nearby ski resorts."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Conway Scenic Railroad provides day trips to various locations."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "There are five villages in the town: Conway, North Conway, Center Conway, Redstone and Kearsarge."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Additionally, it shares a portion of the village of Intervale with the neighboring town of Bartlett."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Conway serves as the main economic and commercial hub for Carroll County."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The village of North Conway features a popular outlet shopping district."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornish has four covered bridges."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Each August, it is home to the Cornish Fair."
+    },
+    {
+      "cityName": "Danville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danville is part of the Timberlane Regional School District, with students attending Danville Elementary School, Timberlane Regional Middle School, and Timberlane Regional High School."
+    },
+    {
+      "cityName": "Deerfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Deerfield is the location of the annual Deerfield Fair."
+    },
+    {
+      "cityName": "Derry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's nickname, \"Spacetown\", derives from the fact that Derry is the birthplace of Alan Shepard, the first astronaut from the United States in space."
+    },
+    {
+      "cityName": "Derry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Derry was also for a time the home of the poet Robert Frost and his family."
+    },
+    {
+      "cityName": "Derry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town also includes the village of East Derry."
+    },
+    {
+      "cityName": "Dublin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Dublin School and Yankee magazine."
+    },
+    {
+      "cityName": "Dummer",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dummer is home to the Pontook Reservoir, popular with canoeists, kayakers and birdwatchers."
+    },
+    {
+      "cityName": "Dummer",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the western part of Dummer lies the village of Paris."
+    },
+    {
+      "cityName": "Durham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The University of New Hampshire (UNH) is located in Durham."
+    },
+    {
+      "cityName": "Eaton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eaton includes the villages of Eaton Center and Snowville."
+    },
+    {
+      "cityName": "Effingham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pine River State Forest is in the south."
+    },
+    {
+      "cityName": "Effingham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Effingham includes the villages of Effingham Falls, Effingham (Lord's Hill), Center Effingham (Drake's Corner), and South Effingham."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Enfield, Enfield Center, Upper Shaker Village, Lower Shaker Village, Lockehaven, and Montcalm."
+    },
+    {
+      "cityName": "Errol",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has a municipal airport with a single, unpaved runway (airport code ERR)."
+    },
+    {
+      "cityName": "Exeter",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to Phillips Exeter Academy, a private university-preparatory school, Exeter is situated where the Exeter River becomes the tidal Squamscott River."
+    },
+    {
+      "cityName": "Exeter",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 16049 at the 2020 census, up from 14306 at the 2010 census."
+    },
+    {
+      "cityName": "Exeter",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Exeter was the county seat until 1997, when county offices were moved to neighboring Brentwood."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmington is home to Blue Job State Forest, the Tebbetts Hill Reservation, and Baxter Lake."
+    },
+    {
+      "cityName": "Fitzwilliam",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fitzwilliam is home to Rhododendron State Park, a 16-acre (6.5 ha) grove of native rhododendrons that bloom in mid-July."
+    },
+    {
+      "cityName": "Francestown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Francestown, population 201 in 2020, is in the center of the town."
+    },
+    {
+      "cityName": "Franconia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parts of the White Mountain National Forest are in the eastern and southern portions of the town."
+    },
+    {
+      "cityName": "Franconia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Set in the White Mountains, Franconia is home to the northern half of Franconia Notch State Park."
+    },
+    {
+      "cityName": "Franconia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Appalachian Trail crosses the town."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklin includes the village of West Franklin."
+    },
+    {
+      "cityName": "Freedom",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ossipee Lake, with a resort and camps, is in the southwest of the town."
+    },
+    {
+      "cityName": "Freedom",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's eastern boundary runs along the Maine state border."
+    },
+    {
+      "cityName": "Fremont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fremont is crossed by the Rockingham Recreation Trail (a rail trail) and NH Route 107."
+    },
+    {
+      "cityName": "Gilford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on Lake Winnipesaukee, Gilford is home to Governors Island, Ellacoya State Beach, Belknap Mountain State Forest, Gunstock Mountain Resort, and the Bank of New Hampshire Pavilion, a seasonal outdoor concert venue."
+    },
+    {
+      "cityName": "Gilford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The lakeside village of Glendale lies within Gilford's borders."
+    },
+    {
+      "cityName": "Gilmanton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town became well known in the 1950s after it was rumored that the popular novel Peyton Place, written by resident Grace Metalious, was based on the town."
+    },
+    {
+      "cityName": "Gilmanton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gilmanton includes the villages of Gilmanton Corners and Gilmanton Ironworks."
+    },
+    {
+      "cityName": "Gilsum",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to Bear's Den Natural Area, Gilsum includes Gilsum Lower Village."
+    },
+    {
+      "cityName": "Goffstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Saint Anselm College (and its New Hampshire Institute of Politics), the Goffstown Giant Pumpkin Regatta, and was the location of the New Hampshire State Prison for Women, prior to the prison's relocation to Concord in 2018."
+    },
+    {
+      "cityName": "Goffstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Goffstown also includes the villages of Grasmere and Pinardville."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gorham is located in the White Mountains, and parts of the White Mountain National Forest are in the south and northwest."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Moose Brook State Park is in the west."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tourism is a principal business."
+    },
+    {
+      "cityName": "Grantham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The planned community of Eastman is in the eastern part of the town."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenfield is home to the Crotched Mountain Rehabilitation Center, to Greenfield State Park, and to part of the Wapack Trail."
+    },
+    {
+      "cityName": "Greenland",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is drained by the Winnicut River and bounded on the northwest by Great Bay."
+    },
+    {
+      "cityName": "Hampstead",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hampstead, which includes the village of East Hampstead, is home to a portion of the Rockingham Recreational Trail."
+    },
+    {
+      "cityName": "Hancock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hancock is home to the Welch Family Farm Forest."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the Ivy League university Dartmouth College, the U S Army Corps of Engineers Cold Regions Research and Engineering Laboratory, and Hanover High School."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 11870."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Appalachian Trail crosses the town, connecting with a number of trails and nature preserves."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located at the junctions of New Hampshire routes 10, 10A, and 120, the Hanover CDP recorded a population of 9078 people at the 2020 census."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Besides the town center, it also includes the villages of Chesham and Eastview."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the town was 984."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a preserved 19th-century mill town located in the Monadnock region of southern New Hampshire."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There are nine bodies of water in the town, many back roads and trails to explore, and two original train depots at Harrisville and Chesham."
+    },
+    {
+      "cityName": "Hart's Location",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to Crawford Notch State Park, which is noted for its rugged mountain beauty, the town is crossed by the Appalachian Trail."
+    },
+    {
+      "cityName": "Hart's Location",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since 1948, the town has frequently been one of the first places to declare its results for the New Hampshire presidential primary and U S presidential elections."
+    },
+    {
+      "cityName": "Hart's Location",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated in 1795."
+    },
+    {
+      "cityName": "Hart's Location",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Hart's Location maintains a board of selectmen, but is otherwise dependent on the town of Bartlett and Carroll County for services."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located here are Bedell Bridge State Park, Black Mountain State Forest, Kinder Memorial Forest, and Oliverian Valley Wildlife Preserve."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Haverhill includes the villages of Woodsville, Pike, and North Haverhill, the historic town center at Haverhill Corner, and the district of Mountain Lakes."
+    },
+    {
+      "cityName": "Haverhill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to the annual North Haverhill Fair."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settlements include the town center and the village of East Hebron."
+    },
+    {
+      "cityName": "Henniker",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Henniker is home to New England College and Pats Peak Ski Area."
+    },
+    {
+      "cityName": "Henniker",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the reported total population of the town was 6185, although the figure, 27.9% greater than the 2010 population, has been questioned by local officials."
+    },
+    {
+      "cityName": "Henniker",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town also includes the village of West Henniker."
+    },
+    {
+      "cityName": "Hill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to William Thomas State Forest."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also includes the villages of Hillsborough Center, Hillsborough Upper Village, Hillsborough Lower Village, and Emerald Lake Village."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to Fox State Forest and part of Low State Forest."
+    },
+    {
+      "cityName": "Hinsdale",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hinsdale is home to part of Pisgah State Park in the northeast, and part of Wantastiquet Mountain State Forest in the northwest."
+    },
+    {
+      "cityName": "Holderness",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An agricultural and resort area, Holderness is home to the Squam Lakes Natural Science Center and is located on Squam Lake."
+    },
+    {
+      "cityName": "Holderness",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Holderness is also home to Holderness School, a co-educational college-preparatory boarding school."
+    },
+    {
+      "cityName": "Hollis",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town center village is listed on the National Register of Historic Places as Hollis Village Historic District."
+    },
+    {
+      "cityName": "Hooksett",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A prominent landmark is Robie's Country Store, a National Historic Landmark and a frequent stop for presidential candidates during the New Hampshire primary."
+    },
+    {
+      "cityName": "Hopkinton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the Hopkinton State Fair, adjacent to Contoocook village, and to the historic Contoocook Railroad Depot and the Contoocook Railroad Bridge, the oldest covered railroad bridge in the United States."
+    },
+    {
+      "cityName": "Hopkinton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has three distinct communities: Hopkinton village, mainly a residential area in the center of the town; Contoocook, the town's business hub, located in the north; and West Hopkinton, within the more agricultural portion of the town."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parts of the White Mountain National Forest are in the west, north and east."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jackson is a resort area in the White Mountains."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to parts of the White Mountain National Forest in the south and northeast and to Santa's Village, a Christmas-themed amusement park."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There are also several private campgrounds, motels and inns."
+    },
+    {
+      "cityName": "Keene",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keene is home to Keene State College and Antioch University New England."
+    },
+    {
+      "cityName": "Keene",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It hosted the state's annual pumpkin festival from 1991 to 2014, several times setting a world record for most jack-o'-lanterns on display."
+    },
+    {
+      "cityName": "Laconia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laconia, situated between Lake Winnipesaukee and Lake Winnisquam, includes the villages of Lakeport and Weirs Beach."
+    },
+    {
+      "cityName": "Laconia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Each June, the city hosts Laconia Motorcycle Week, also known as \"Bike Week,\" one of the country's largest motorcycle rallies."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the White Mountain National Forest is in the eastern portion."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 3218, the second largest in the county after Berlin."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lancaster, which includes the villages of Grange and South Lancaster, is home to Weeks State Park and the Lancaster Fair."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lancaster is the site of the Porcupine Freedom Festival, an annual liberty-themed festival of the Free State Project that draws thousands of visitors each year."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is named after the city of Lancaster in England."
+    },
+    {
+      "cityName": "Landaff",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 446."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home to Dartmouth\u2013Hitchcock Medical Center and Dartmouth College's Geisel School of Medicine, together comprising the largest medical facility between Boston, Massachusetts, and Burlington, Vermont."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lebanon is in western New Hampshire, south of Hanover, near the Connecticut River."
+    },
+    {
+      "cityName": "Lee",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is a rural farm and bedroom community, being close to the University of New Hampshire."
+    },
+    {
+      "cityName": "Lempster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settlements include the town center (Lempster village) and the village of East Lempster."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Set in the White Mountains, large portions of the town are within the White Mountain National Forest."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town also includes the former village sites of Stillwater and Zealand (sometimes known as Pullman) in the town's remote eastern and northern sections respectively, which are now within the White Mountain National Forest."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is home to the New Hampshire Highland Games and to a portion of Franconia Notch State Park."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lincoln is the location of Loon Mountain Ski Resort and associated recreation-centered development."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Appalachian Trail crosses the western and northeastern parts of the town."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lisbon hosts an annual lilac festival on Memorial Day weekend."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated at the northern edge of the White Mountains, Littleton is bounded on the northwest by the Connecticut River."
+    },
+    {
+      "cityName": "Londonderry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits between Manchester and Derry, the largest and fourth-largest communities in the state."
+    },
+    {
+      "cityName": "Londonderry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Londonderry is known for its apple orchards and is home to the headquarters of Stonyfield Farm and part of Manchester\u2013Boston Regional Airport."
+    },
+    {
+      "cityName": "Londonderry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The more densely settled portion of town, where 11645 people lived at the 2020 census, is defined as the Londonderry census-designated place (CDP) and roughly occupies the southeastern and southern parts of town, around New Hampshire Route 102."
+    },
+    {
+      "cityName": "Loudon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loudon is the home of New Hampshire Motor Speedway."
+    },
+    {
+      "cityName": "Lyme",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyme is home to the Chaffee Natural Conservation Area."
+    },
+    {
+      "cityName": "Lyme",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Dartmouth Skiway is in the eastern part of town, near the village of Lyme Center."
+    },
+    {
+      "cityName": "Lyme",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Appalachian Trail passes through the town's heavily wooded eastern end."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madison includes the village of Silver Lake and the village district of Eidelweiss."
+    },
+    {
+      "cityName": "Marlow",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marlow is home to Honey Brook State Forest."
+    },
+    {
+      "cityName": "Mason",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mason, together with Wilton, is home to Russell-Abbott State Forest."
+    },
+    {
+      "cityName": "Meredith",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Meredith is situated in the state's Lakes Region and serves as a major resort town."
+    },
+    {
+      "cityName": "Meredith",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Stonedam Island Natural Area and the Winnipesaukee Scenic Railroad, and it serves as one of the ports of call for the MS Mount Washington."
+    },
+    {
+      "cityName": "Meredith",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Meredith Village, the commercial center of the town, lies along the shores of Lake Winnipesaukee, and several other large lakes lie partially or completely within the town borders."
+    },
+    {
+      "cityName": "Merrimack",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are four villages in the town: Merrimack Village (formerly known as Souhegan Village), Thorntons Ferry, Reeds Ferry, and South Merrimack."
+    },
+    {
+      "cityName": "Milford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the retail and manufacturing center of a multi-town area known informally as the Souhegan Valley."
+    },
+    {
+      "cityName": "Milton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A manufacturing, resort and residential town, Milton includes the village of Milton Mills."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally chartered as part of Lyman."
+    },
+    {
+      "cityName": "Moultonboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moultonborough is bounded in large part by Lake Winnipesaukee in the southwest and to a lesser extent by Squam Lake in the northwestern corner."
+    },
+    {
+      "cityName": "Nelson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nelson includes the village of Munsonville."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Fort Constitution Historic Site, Fort Stark Historic Site, and the New Castle Common, a 31-acre (13 ha) recreation area on the Atlantic Ocean."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Castle is also home to a United States Coast Guard station, as well as the historic Wentworth by the Sea hotel."
+    },
+    {
+      "cityName": "New Durham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is drained by the Merrymeeting, Cocheco and Ela rivers, and is known for Merrymeeting Lake."
+    },
+    {
+      "cityName": "New Durham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Durham is home to the Powder Mill Fish Hatchery, located on Merrymeeting Road."
+    },
+    {
+      "cityName": "New Durham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Also located here is the Lions Club's Camp Pride, a camp for children and adults with special needs."
+    },
+    {
+      "cityName": "New Hampton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A winter sports resort area, New Hampton is home to George Duncan State Forest and to the New Hampton School, a private preparatory school established in 1821."
+    },
+    {
+      "cityName": "New Ipswich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Ipswich, situated on the Massachusetts border, includes the villages of Bank, Davis, Gibson Four Corners, Highbridge, New Ipswich Center, Smithville, and Wilder, though these village designations no longer hold the importance they did in the past."
+    },
+    {
+      "cityName": "New Ipswich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Wapack Trail passes through the community."
+    },
+    {
+      "cityName": "New London",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is the home of Colby\u2013Sawyer College, site of the Gordon Research Conferences since 1947."
+    },
+    {
+      "cityName": "Newbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Newbury, Blodgett Landing and South Newbury, as well as a portion of Mount Sunapee Resort, a ski area, and a portion of Lake Sunapee, including the beach at Mount Sunapee State Park."
+    },
+    {
+      "cityName": "Newfields",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newfields is one of New Hampshire's wealthiest towns, with a median household income of $154375 for the period 2015-19."
+    },
+    {
+      "cityName": "Newington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 110-acre (45 ha) Old Town Center Historic District is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Newington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bounded to the west by Great Bay, to the northwest by Little Bay and to the northeast by the Piscataqua River."
+    },
+    {
+      "cityName": "Newington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Newington is home to Portsmouth International Airport at Pease (formerly Pease Air Force Base) and to the New Hampshire Air National Guard."
+    },
+    {
+      "cityName": "Newmarket",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some residents are students and employees at the nearby University of New Hampshire in Durham."
+    },
+    {
+      "cityName": "Newmarket",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The densely settled center of town, where 5797 people resided at the 2020 census, is defined as the Newmarket census-designated place and is located at the junction of New Hampshire routes 108 and 152, along the Lamprey River."
+    },
+    {
+      "cityName": "Newport",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 43 miles (69 km) west-northwest of Concord, the state capital."
+    },
+    {
+      "cityName": "Newport",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A covered bridge is in the northwest."
+    },
+    {
+      "cityName": "Newport",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area is noted for maple sugar and apple orchards."
+    },
+    {
+      "cityName": "Newport",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Prior to county division in 1827, Newport was in Cheshire County."
+    },
+    {
+      "cityName": "Newport",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town also includes the villages of Kelleyville, Guild, and North Newport."
+    },
+    {
+      "cityName": "North Hampton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "While the majority of the town is inland, North Hampton includes a part of New Hampshire's limited Atlantic seacoast."
+    },
+    {
+      "cityName": "Northumberland",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 2126, of whom 1068 lived in the village of Groveton."
+    },
+    {
+      "cityName": "Nottingham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of Pawtuckaway State Park."
+    },
+    {
+      "cityName": "Orford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Appalachian Trail crosses in the east."
+    },
+    {
+      "cityName": "Ossipee",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ossipee, which includes several villages, is a resort area and home to part of Pine River State Forest."
+    },
+    {
+      "cityName": "Pelham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pelham is a part of the Merrimack Valley."
+    },
+    {
+      "cityName": "Pembroke",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pembroke includes part of the village of Suncook."
+    },
+    {
+      "cityName": "Pembroke",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The center of population of New Hampshire is close to the Pembroke town center."
+    },
+    {
+      "cityName": "Peterboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peterborough is 38 miles (61 km) west of Manchester and 72 miles (116 km) northwest of Boston."
+    },
+    {
+      "cityName": "Piermont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Camp Walt Whitman and Kingswood Camp for Boys."
+    },
+    {
+      "cityName": "Pittsburg",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Route 3 is the only major highway in the town, although the northern terminus of New Hampshire Route 145 also lies within Pittsburg."
+    },
+    {
+      "cityName": "Pittsfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1981, Pittsfield has hosted the annual Suncook Valley Rotary Hot Air Balloon Rally, the \"Balloon Rally,\" in the first weekend of August."
+    },
+    {
+      "cityName": "Pittsfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It consists of the built-up village centered on the intersections of Barnstead Road, Catamount Road, Carroll Street, and Depot Street."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the time of the 2020 census, the town had a population of 2459."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to the Helen Woodruff Smith Bird Sanctuary and Annie Duncan State Forest."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Plainfield also includes the village of Meriden, home to Kimball Union Academy, a private preparatory school."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plymouth is located at the confluence of the Pemigewasset and Baker rivers and sits at the foot of the White Mountains."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Plymouth State University, Speare Memorial Hospital, and Plymouth Regional High School."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Plymouth State University, in the center of town, has a total undergraduate population of 3336 students and a total graduate population of 503 students as of the 2023/2024 academic year."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It has a unique role as the economic, medical, commercial, and cultural center for the predominantly rural Plymouth, NH Labor Market Area."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's population was 6682 at the 2020 census."
+    },
+    {
+      "cityName": "Portsmouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A historic seaport and popular summer tourist destination on the Piscataqua River bordering the state of Maine, Portsmouth was formerly the home of the Pease Air Force Base, since converted to Portsmouth International Airport at Pease."
+    },
+    {
+      "cityName": "Portsmouth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It had a population of 21956 at the 2020 census."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The northern and southern parts of Randolph are within the White Mountain National Forest and the Ice Gulch Town Forest, while the central part is the settled portion of town."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town had a population of 328."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of Pawtuckaway State Park is in the north."
+    },
+    {
+      "cityName": "Rindge",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rindge is home to Franklin Pierce University, the Cathedral of the Pines and part of Annett State Forest."
+    },
+    {
+      "cityName": "Rochester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rochester is home to Skyhaven Airport and part of Baxter Lake."
+    },
+    {
+      "cityName": "Rochester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In addition to the downtown area, the city contains the villages of East Rochester, Gonic, and North Rochester."
+    },
+    {
+      "cityName": "Rochester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rochester was one of New Hampshire's fastest growing cities between 2010 and 2020."
+    },
+    {
+      "cityName": "Rollinsford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main village in town was once known as \"Salmon Falls Village\"."
+    },
+    {
+      "cityName": "Rye",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to several state parks along the Atlantic coastline."
+    },
+    {
+      "cityName": "Salem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the former home of Rockingham Park, a horse racetrack."
+    },
+    {
+      "cityName": "Salem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other major sites include Canobie Lake Park, a large amusement park; and America's Stonehenge, a stone structure of disputed origins."
+    },
+    {
+      "cityName": "Salem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Salem is a suburb of Boston and Manchester located on Interstate 93."
+    },
+    {
+      "cityName": "Salem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As the first town along I-93 northbound in New Hampshire, Salem has grown into a regional commercial hub for the northern section of Greater Boston, anchored by the Mall at Rockingham Park and Tuscan Village."
+    },
+    {
+      "cityName": "Salem",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Sununu political family hails from Salem, including former New Hampshire governor and White House Chief of Staff John H. Sununu, and his sons John E. Sununu, a former U S senator, and Chris Sununu, former New Hampshire governor."
+    },
+    {
+      "cityName": "Sanbornton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of North Sanbornton and Gaza."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the White Mountain National Forest is in the north, and part of Squam Lake is in the southwestern corner of the town."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As such, Sandwich lies on the boundary between New Hampshire's Lakes Region and White Mountains Region."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Sandwich Range of the White Mountains lies partially within the town, as does the namesake Sandwich Mountain."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 1466 at the 2020 census."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Sandwich includes the villages of Center Sandwich and North Sandwich."
+    },
+    {
+      "cityName": "Sandwich",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town is home to the Sandwich Fair, a popular agricultural fair that occurs every October."
+    },
+    {
+      "cityName": "Seabrook",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the southern end of the coast of New Hampshire, on the border with Massachusetts, Seabrook is noted as the location of the Seabrook Station Nuclear Power Plant, the third-most recently constructed nuclear power plant in the United States."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the long-time home to the Sharon Arts Center, a nonprofit which has ceased operations."
+    },
+    {
+      "cityName": "Shelburne",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shelburne is home to Leadmine State Forest."
+    },
+    {
+      "cityName": "Shelburne",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Appalachian Trail crosses the town."
+    },
+    {
+      "cityName": "Somersworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Somersworth has the smallest area and third-lowest population of New Hampshire's 13 cities."
+    },
+    {
+      "cityName": "South Hampton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Hampton is home to Cowden State Forest and Powwow River State Forest."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gile State Forest is located within the town."
+    },
+    {
+      "cityName": "Stark",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of the town is within the boundaries of the White Mountain National Forest."
+    },
+    {
+      "cityName": "Stark",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the villages of Percy and Crystal as well as the village of Stark, located on the Upper Ammonoosuc River."
+    },
+    {
+      "cityName": "Stark",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has a famous covered bridge."
+    },
+    {
+      "cityName": "Stark",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "New Hampshire Route 110 runs through Stark, east from U S Highway 3 in Groveton and northwest from Route 16 in Berlin."
+    },
+    {
+      "cityName": "Stoddard",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Between 1842 and 1873, the town was home to four glass manufacturers."
+    },
+    {
+      "cityName": "Stoddard",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The glass produced by these works, now known as Stoddard glass, is noted for its deep amber colors and design."
+    },
+    {
+      "cityName": "Stoddard",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Stoddard glass products are highly prized by collectors."
+    },
+    {
+      "cityName": "Strafford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The two main settlements in town are Center Strafford and Bow Lake Village."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Route 3 passes through the center of town, as does the St. Lawrence and Atlantic Railroad, formerly a part of the Grand Trunk Railway."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Within the town are the villages of North Stratford, Stratford Hollow, and Beatties."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Janice Peaslee Bridge connects Stratford to Maidstone, Vermont."
+    },
+    {
+      "cityName": "Sugar Hill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town overlooks the White Mountain National Forest, with views of the Presidential, Franconia, Kinsman and Dalton ranges."
+    },
+    {
+      "cityName": "Sugar Hill",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sugar Hill was incorporated as a town in 1962, the most recent in New Hampshire."
+    },
+    {
+      "cityName": "Sullivan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of East Sullivan and Ellisville."
+    },
+    {
+      "cityName": "Sunapee",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to part of Lake Sunapee and includes the village of Georges Mills."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Sutton is home to Wadleigh State Park on Kezar Lake."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sutton includes the villages of Sutton Mills (shown as \"Sutton\" on topographic maps), North Sutton, South Sutton and East Sutton."
+    },
+    {
+      "cityName": "Swanzey",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In addition to the town center, Swanzey includes the villages of East Swanzey, West Swanzey, North Swanzey and Westport."
+    },
+    {
+      "cityName": "Tamworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The White Mountain National Forest is to the north."
+    },
+    {
+      "cityName": "Tamworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to Hemenway State Forest in the north and White Lake State Park in the southeast."
+    },
+    {
+      "cityName": "Tamworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tamworth includes the villages of Chocorua, South Tamworth, Wonalancet, and Whittier."
+    },
+    {
+      "cityName": "Temple",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Temple Mountain State Reservation, formerly the Temple Mountain Ski Area."
+    },
+    {
+      "cityName": "Temple",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1382 at the 2020 census."
+    },
+    {
+      "cityName": "Tilton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tilton is home to the Tilton School, a private preparatory school."
+    },
+    {
+      "cityName": "Troy",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of the CDP is listed on the National Register of Historic Places as the Troy Village Historic District."
+    },
+    {
+      "cityName": "Tuftonboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bounded on the southwest by Lake Winnipesaukee, Tuftonboro includes the villages of Tuftonboro Corner, Center Tuftonboro, Melvin Village and Mirror Lake."
+    },
+    {
+      "cityName": "Unity",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Unity, East Unity, Quaker City, and West Unity."
+    },
+    {
+      "cityName": "Wakefield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Wakefield Corner (the original town center), East Wakefield, North Wakefield, Sanbornville, Union, Woodman and Province Lake."
+    },
+    {
+      "cityName": "Wakefield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The state of Maine forms the eastern border of Wakefield."
+    },
+    {
+      "cityName": "Walpole",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also includes the villages of North Walpole and Drewsville."
+    },
+    {
+      "cityName": "Warner",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Rollins State Park and Mount Kearsarge State Forest."
+    },
+    {
+      "cityName": "Warner",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town also includes the communities of Davisville, Lower Village, Melvin Mills, and Waterloo."
+    },
+    {
+      "cityName": "Warren",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warren includes the village of Glencliff."
+    },
+    {
+      "cityName": "Warren",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Appalachian Trail crosses the town in the west."
+    },
+    {
+      "cityName": "Warren",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the smallest by population of the six towns named Warren in New England (one in each state)."
+    },
+    {
+      "cityName": "Washington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in a hilly, rocky, forested area, and with 26 lakes and ponds, Washington is a picturesque resort area."
+    },
+    {
+      "cityName": "Washington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to Pillsbury State Park."
+    },
+    {
+      "cityName": "Waterville Valley",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the summer, attractions include a golf course, tennis courts, and a variety of hiking options."
+    },
+    {
+      "cityName": "Waterville Valley",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Mad River flows through the town, providing great views all year round."
+    },
+    {
+      "cityName": "Weare",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is close to two important New Hampshire cities, Manchester and Concord."
+    },
+    {
+      "cityName": "Wentworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Plummer's Ledge Natural Area, and part of the White Mountain National Forest is in the northeast."
+    },
+    {
+      "cityName": "Wentworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has a picturesque common, presided over by a Federal-style church and bordered by antique homes."
+    },
+    {
+      "cityName": "Westmoreland",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westmoreland is historically an agricultural town, with much arable farmland."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the northern edge of the White Mountains, Whitefield is home to the Mount Washington Regional Airport and the White Mountains Regional High School."
+    },
+    {
+      "cityName": "Wilmot",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the communities of Wilmot, Wilmot Flat, and North Wilmot."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Like many small New England towns, it grew up around water-powered textile mills, but is now a rural bedroom community with some manufacturing and service employment."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wilton is home to the High Mowing School, a private preparatory school."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also includes the village of Ashuelot and part of Pisgah State Park."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the Wediko Children's Services Summer Program and of Windsor Mountain International, a summer adventure and travel camp founded in 1961."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the home of Windsor Hills Camp and Retreat Center, a ministry of the Church of the Nazarene."
+    },
+    {
+      "cityName": "Wolfeboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A resort area on Lake Winnipesaukee, the town includes the villages of Wolfeboro, East Wolfeboro, North Wolfeboro, South Wolfeboro, Wolfeboro Center, and Wolfeboro Falls."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parts of the White Mountain National Forest are in the east and west."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "West of North Woodstock is the Lost River Reservation."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Woodstock includes the village of North Woodstock, the commercial center."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Appalachian Trail crosses the town's northwestern corner."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Russell Pond Campground is in the east."
+    }
+  ]
+}

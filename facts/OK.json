@@ -1,0 +1,5534 @@
+{
+  "facts": [
+    {
+      "cityName": "Achille",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 398 residents."
+    },
+    {
+      "cityName": "Achille",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's name is derived from a Cherokee language word, atsila, meaning fire."
+    },
+    {
+      "cityName": "Ada",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for Ada Reed, the daughter of an early settler, and was incorporated in 1901."
+    },
+    {
+      "cityName": "Ada",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ada is home to East Central University, and is the capital of the Chickasaw Nation."
+    },
+    {
+      "cityName": "Ada",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ada is an Oklahoma Main Street City, an Oklahoma Certified City, and a Tree City USA member."
+    },
+    {
+      "cityName": "Adair",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named for two prominent Cherokee brothers, the town was established in 1883."
+    },
+    {
+      "cityName": "Adair",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It opened a Cherokee school."
+    },
+    {
+      "cityName": "Agra",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An early real estate developer coined the town's name from the word \"agriculture\"."
+    },
+    {
+      "cityName": "Albion",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "When Albion was established, before Oklahoma became a state, the community was located in Wade County, Choctaw Nation, in what was then known as Indian Territory."
+    },
+    {
+      "cityName": "Altus",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also home to Western Oklahoma State College and Southwest Technology Center."
+    },
+    {
+      "cityName": "Altus",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Altus is home to Altus Air Force Base, the United States Air Force training base for C-17, KC-46 and KC-135 aircrews."
+    },
+    {
+      "cityName": "Alva",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main campus of Northwestern Oklahoma State University is in Alva."
+    },
+    {
+      "cityName": "Amber",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Established in the early 1900s as a railroad community, Amber was incorporated in 1970 and had a population of 413 at the 2020 census."
+    },
+    {
+      "cityName": "Ames",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ames is best known for being located within the boundary of a geological structure that is called the Ames crater or the Ames Astrobleme."
+    },
+    {
+      "cityName": "Ames",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Ames Astrobleme Museum is located in the town."
+    },
+    {
+      "cityName": "Anadarko",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is 50 miles (80.5 km) southwest of Oklahoma City."
+    },
+    {
+      "cityName": "Antlers",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for a kind of tree that becomes festooned with antlers shed by deer, and is taken as a sign of the location of a spring frequented by deer."
+    },
+    {
+      "cityName": "Arapaho",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town lies long U S Route 183 and is named for the Arapaho Native American tribe."
+    },
+    {
+      "cityName": "Ardmore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ardmore was named after the affluent Philadelphia suburb and historic Pennsylvania Railroad stop of Ardmore, Pennsylvania, which was named after Ardmore in County Waterford, Ireland, by the Pennsylvania Railroad in 1873."
+    },
+    {
+      "cityName": "Ardmore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ardmore is situated about 9 miles (14 km) south of the Arbuckle Mountains and is located at the eastern margin of the Healdton Basin, one of the most oil-rich regions of the United States."
+    },
+    {
+      "cityName": "Ardmore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also a part of the Texoma region."
+    },
+    {
+      "cityName": "Ardmore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name \"Ardmore\" is Irish for high grounds or hill."
+    },
+    {
+      "cityName": "Arkoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name of the town is a portmanteau of Arkansas and Oklahoma."
+    },
+    {
+      "cityName": "Arkoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Throughout its history, Arkoma has served as a \"bedroom community\" because many residents commuted to work in Fort Smith."
+    },
+    {
+      "cityName": "Armstrong",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Frank C. Armstrong, a member of the Dawes Commission."
+    },
+    {
+      "cityName": "Atoka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was settled by the Choctaw and named in 1867 by a Baptist missionary for Chief Atoka, whose name means \"ball ground\" in English."
+    },
+    {
+      "cityName": "Avant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avant is an incorporated community in eastern Osage County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Avant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the community had 301 residents."
+    },
+    {
+      "cityName": "Barnsdall",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 1034."
+    },
+    {
+      "cityName": "Bearden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "it is the birthplace of Benjamin Roden, a religious leader & founder of the Branch Davidians"
+    },
+    {
+      "cityName": "Bearden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is host to the annual World Cow Chip Throwing Championship."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is in the Oklahoma Panhandle."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town\u2019s population was 1280."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Held in August, \"Cow Chip\" brings attention from nearby cities with a parade, carnival, and cowchip throwing."
+    },
+    {
+      "cityName": "Beggs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beggs was named for Charles Hoffman Beggs (1865\u20131942), vice president of the St. Louis-San Francisco (Frisco) Railway."
+    },
+    {
+      "cityName": "Bennington",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bennington is an incorporated town in Bryan County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Bernice",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on Grand Lake o' the Cherokees, the town is now primarily a vacation and retirement area."
+    },
+    {
+      "cityName": "Bernice",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It claims to be the \"Crappie Fishing Capital of the World.\""
+    },
+    {
+      "cityName": "Bethany",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was founded in 1909 by followers of the Church of the Nazarene from Oklahoma City."
+    },
+    {
+      "cityName": "Bethany",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bethany has a population of 20831 at the 2020 census, a 9.3% increase from 2010."
+    },
+    {
+      "cityName": "Bethel Acres",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is primarily a bedroom community for people who work in the three nearby larger cities of Shawnee, Tecumseh and Oklahoma City."
+    },
+    {
+      "cityName": "Billings",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the childhood home of Oklahoma governor Henry Bellmon."
+    },
+    {
+      "cityName": "Binger",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the headquarters of the Caddo Nation of Oklahoma, who were settled in the area during the 1870s."
+    },
+    {
+      "cityName": "Bixby",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is nicknamed \"The Garden Spot of Oklahoma\" for its rich agrarian heritage."
+    },
+    {
+      "cityName": "Bixby",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although it is one of the fastest-growing communities in Oklahoma, it remains a sod-growing center and a popular location for purchasing fresh vegetables."
+    },
+    {
+      "cityName": "Blackburn",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 12 miles (19 km) east of the city of Pawnee."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blackwell was established following the September 16, 1893 Cherokee Outlet land run by A. J. Blackwell."
+    },
+    {
+      "cityName": "Blackwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Blackwell has an agricultural and fossil fuel based economy."
+    },
+    {
+      "cityName": "Blair",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blair is located south of the Quartz Mountain State Park and offers scenic views of the mountains."
+    },
+    {
+      "cityName": "Blanchard",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blanchard is part of a rapidly growing area of northern McClain and Grady counties known as the \"Tri-City Area\" with Newcastle and Tuttle."
+    },
+    {
+      "cityName": "Boise City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1166 at the 2020 census, a decline of 7.9% from 1266 in 2010."
+    },
+    {
+      "cityName": "Bokchito",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 574 residents."
+    },
+    {
+      "cityName": "Bokoshe",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bokoshe is a Choctaw word meaning \"little creek\"."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Boley Historic District is a National Historic Landmark."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Currently Boley hosts The Annual Boley Rodeo & Bar-B-Que Festival."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Boley was incorporated in 1905 as a predominantly Black pioneer town with persons having Native American ancestry among its citizens."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Of the 50 identifiable Black towns established in Oklahoma between 1865 to 1920, Boley is one of only 13 still in existence."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Boley is currently home to barbeque equipment maker, Smokaroma, Inc, and the John Lilley Correctional Center."
+    },
+    {
+      "cityName": "Boley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Boley Public School District closed the high school in 2007 and the elementary in 2010 due to declining enrollment."
+    },
+    {
+      "cityName": "Braggs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known as the site of Camp Gruber, a World War II military cantonment that was the home base of the 42nd Infantry Division (Rainbow Division) and the 88th Infantry Division (Blue Devil Division)."
+    },
+    {
+      "cityName": "Bray",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 952 residents."
+    },
+    {
+      "cityName": "Bray",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Bridge Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 336, a 0% change from 2010."
+    },
+    {
+      "cityName": "Broken Bow",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Broken Bow, Nebraska, the former hometown of the city's founders, the Dierks brothers."
+    },
+    {
+      "cityName": "Bromide",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area around Bromide was noted for its mineral springs, and the bromide content of the water gave the town its name."
+    },
+    {
+      "cityName": "Bromide",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was also noted for limestone quarrying and the potential to produce manganese."
+    },
+    {
+      "cityName": "Bromide",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Proposals to promote economic growth from these assets never materialized."
+    },
+    {
+      "cityName": "Brooksville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the thirteen existing all-black towns in Oklahoma."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the Buffalo Creek valley, in which it is located."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town's population was 1039."
+    },
+    {
+      "cityName": "Burneyville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for David C. Burney, father of Benjamin Crooks Burney, who had been Governor of the Chickasaw Nation from 1878 through 1880."
+    },
+    {
+      "cityName": "Burneyville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Burneyville is located on State Highway 96 and reaches south to the north bank of the Red River."
+    },
+    {
+      "cityName": "Burneyville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The post office was established May 5, 1879."
+    },
+    {
+      "cityName": "Cache",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of Star House, the home of the Comanche chief Quanah Parker, the major leader of the Quahadi Comanche in the years of Indian Wars and transition to reservation life."
+    },
+    {
+      "cityName": "Cache",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is an exurb included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Caddo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to Encyclopedia of Oklahoma History and Culture, the town was named for the nearby Caddo Hills."
+    },
+    {
+      "cityName": "Caddo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is derived from a Caddo word, ka do hada\u2019 cho, meaning \"real chief\" in English."
+    },
+    {
+      "cityName": "Calumet",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calumet is a variant term for Ceremonial pipe."
+    },
+    {
+      "cityName": "Calumet",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated in 1942, the town's land was settled in the Land Run of 1892."
+    },
+    {
+      "cityName": "Canadian",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 143 residents."
+    },
+    {
+      "cityName": "Carlton Landing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carlton Landing is a master-planned resort town in Pittsburg County, Oklahoma, United States, conceived and built by real estate developer Grant Humphreys."
+    },
+    {
+      "cityName": "Carlton Landing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was established on October 21, 2013, and had a population of 94 as of 2020."
+    },
+    {
+      "cityName": "Carney",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 545."
+    },
+    {
+      "cityName": "Cashion",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Logan County portion of Cashion is part of the Oklahoma City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Castle",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office was established February 25, 1903, and the town was named for the first postmaster, Manford B. Castle."
+    },
+    {
+      "cityName": "Cedar Valley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main attraction is Cedar Valley Golf Club, which is by far the largest business in town."
+    },
+    {
+      "cityName": "Cedar Valley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is primarily a bedroom community, since more than 90 percent of the employed inhabitants commute to work in other towns."
+    },
+    {
+      "cityName": "Cement",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for its early cement industry."
+    },
+    {
+      "cityName": "Chandler",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chandler is located northeast of Oklahoma City on SH-66 and I-44, and north of Shawnee on SH-18."
+    },
+    {
+      "cityName": "Chattanooga",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Comanche County portion of Chattanooga is included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Checotah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Checotah is home to numerous antique malls, a Civil War battle site, and a downtown historic district."
+    },
+    {
+      "cityName": "Checotah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for Samuel Checote, the first chief of the Creek Nation elected after the Civil War."
+    },
+    {
+      "cityName": "Checotah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 3018 at the 2020 census, down from 3335 in 2010."
+    },
+    {
+      "cityName": "Checotah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Checotah claims to be the steer wrestling capital of the world."
+    },
+    {
+      "cityName": "Checotah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Early boosters called Checotah \"The Gem of the Prairie\"."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chelsea was named after the area in London, England, by Charles Peach, a railroad official who was a native of London."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was the site of the Chelsea-Alluwe Oil Field, which produced a significant amount of oil from circa 1910 until the early 1920s, before it played out."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Will Rogers attended a subscription school on Cherokee Land in Chelsea."
+    },
+    {
+      "cityName": "Cheyenne",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town's population was 771."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Before Choctaw was chartered, the area included a part of William McClure's 7C Ranch and was known for a trading post and a camping spot near a spring."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Despite its name, the town has no cultural, historical or governmental ties to the Choctaw Nation of Oklahoma."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The tribal headquarters and casino are located in the southeastern part of the state in Durant, Oklahoma, and the Choctaw Capitol Building and annual Labor Day Festival are in Tuskahoma, Oklahoma."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Choctaw became a community in 1890, but was not given actual status as a town until 1893 when a territorial governor was appointed for Oklahoma."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It officially celebrated its 100th anniversary in 1993."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1950, Choctaw was in an agricultural area."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It had a population of 355 in that year."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "A community emerged on the east 80 acres (32 ha) of land John S. Muzzy claimed in the 1889 land run and received a postal designation in early 1890."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The town incorporated in April 1904."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "When Oklahoma became a state in 1907, the town had 230 residents, four churches, a school, a bank, a newspaper and telephone service."
+    },
+    {
+      "cityName": "Cimarron City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cimarron City is a combination bedroom and retirement community."
+    },
+    {
+      "cityName": "Claremore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This was within what was known as the Cherokees' Cooweescoowee District."
+    },
+    {
+      "cityName": "Claremore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 19580 at the 2020 census, a 5.4% increase over the 18581 recorded in 2010."
+    },
+    {
+      "cityName": "Claremore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This area was part of the territory of the Osage, but they were forced out under a treaty with the United States."
+    },
+    {
+      "cityName": "Claremore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During the Indian Removal period and until statehood, this area was a reserve of the Cherokee Nation, which had been removed from its territory in the Southeast United States."
+    },
+    {
+      "cityName": "Cleora",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Cleora Ann Lunday, sister of the postmaster, Ed Lunday."
+    },
+    {
+      "cityName": "Cleora",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cleora Post Office existed from November 28, 1900, until October 15, 1954."
+    },
+    {
+      "cityName": "Cleora",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cleora was established in District 2 of the old Indian Territory."
+    },
+    {
+      "cityName": "Coalgate",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1889 in the Choctaw Nation, Indian Territory as a coal mining camp named Liddle."
+    },
+    {
+      "cityName": "Coalgate",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name changed to Coalgate on January 23, 1890."
+    },
+    {
+      "cityName": "Colbert",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1939."
+    },
+    {
+      "cityName": "Colcord",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community lies in the northeastern part of the state in a region known as Green Country."
+    },
+    {
+      "cityName": "Collinsville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Doctor A. H. Collins, an engineer and surveyor who first surveyed the land that became this community."
+    },
+    {
+      "cityName": "Colony",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the Seger Colony, founded in 1886, which taught modern agricultural techniques to the Arapaho and Cheyenne tribes that would be resettled in the vicinity."
+    },
+    {
+      "cityName": "Colony",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Colony is 16 miles (26 km) east and 4 miles (6.4 km) north of Cordell."
+    },
+    {
+      "cityName": "Cookson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is said to have been named for the first postmaster, John H. Cookson."
+    },
+    {
+      "cityName": "Cookson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The post office opened April 11, 1895."
+    },
+    {
+      "cityName": "Cooperton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Making it the second least populated municipality in the U.S State of Oklahoma."
+    },
+    {
+      "cityName": "Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for a U S Postal Service employee in Washington D. C., Wayne W. Cordell."
+    },
+    {
+      "cityName": "Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies along U S Route 183."
+    },
+    {
+      "cityName": "Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was previously established a few miles from the current site, but was moved about 1900."
+    },
+    {
+      "cityName": "Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The official name is New Cordell, though it is now commonly called Cordell."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornish is an incorporated town in eastern Jefferson County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Coweta",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2010, its population was 9943."
+    },
+    {
+      "cityName": "Coweta",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Part of the Creek Nation in Indian Territory before Oklahoma became a U S state, the town was first settled in 1840."
+    },
+    {
+      "cityName": "Coyle",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "However, the demand for the area's principal crop, cotton, declined sharply after World War I. Rail service ended during the 1950s."
+    },
+    {
+      "cityName": "Coyle",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for William Coyle, an influential Guthrie business man."
+    },
+    {
+      "cityName": "Coyle",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Founded in Oklahoma Territory before statehood, Coyle initially prospered as an agricultural town and because of the arrival of the railroad."
+    },
+    {
+      "cityName": "Coyle",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "By 2000, it was estimated that 95 percent of the employed residents commuted to work in larger towns nearby."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for oilman Joe I. Cromwell, who platted the original town in 1923."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Retired legendary Old West lawman Bill Tilghman was hired as Town Marshal to restore order."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tilghman was shot to death the following year, the most notable event in Cromwell's history."
+    },
+    {
+      "cityName": "Crowder",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 306 residents."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Marshall Cushing, private secretary to U S Postmaster General John Wanamaker."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Today, Cushing is a major trading hub for crude oil and a price settlement point for West Texas Intermediate on the New York Mercantile Exchange and is known as the \"Pipeline Crossroads of the World.\""
+    },
+    {
+      "cityName": "Cushing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cushing (Meskwaki: Koshineki, Iowa-Oto: Am\u00edna P^\u00f3p^oye Ch\u00edna, meaning: \"Soft-seat town\") is a city in Payne County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cushing was established after the Land Run of 1891 by William \"Billy Rae\" Little."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A 1912 oil boom led to the city's development as a refining center, with over 50 refineries operating in Cushing over its history."
+    },
+    {
+      "cityName": "Custer City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Custer City is northeast of Clinton and northwest of Weatherford along Oklahoma 33."
+    },
+    {
+      "cityName": "Custer City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Custer City was originally known as Graves, and a post office was established there on January 22, 1894."
+    },
+    {
+      "cityName": "Custer City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The post office changed its name to Custer City on September 28, 1904, in honor of Lt."
+    },
+    {
+      "cityName": "Custer City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "George Armstrong Custer."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 809 residents."
+    },
+    {
+      "cityName": "Davis",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small portion of the city extends into Garvin County."
+    },
+    {
+      "cityName": "Deer Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after a nearby stream, itself a tributary of the Salt Fork of the Arkansas River."
+    },
+    {
+      "cityName": "Deer Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Deer Creek is an incorporated community in Grant County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Delaware",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for the Eastern Delaware tribe that moved into this area from Kansas after signing a treaty with the Cherokee Nation in 1867."
+    },
+    {
+      "cityName": "Delaware",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 267 at the 2020 census, a decline of 35.9% from the 417 recorded in 2010."
+    },
+    {
+      "cityName": "Depew",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 41 miles southwest of Tulsa."
+    },
+    {
+      "cityName": "Depew",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named in honor of New York Senator Chauncey Depew."
+    },
+    {
+      "cityName": "Devol",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for J. Fiske Devol, who owned the land on which it stands."
+    },
+    {
+      "cityName": "Dover",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "a 26.4 percent gain over the figure of 367 in 2000."
+    },
+    {
+      "cityName": "Drumright",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Now Drumright is home to a festival called The Drumright Monthly Market, where hundreds of visitors come on the first Saturday of every month, seeking crafts and delicacies from all over the region."
+    },
+    {
+      "cityName": "Drumright",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It began as an oil boom town."
+    },
+    {
+      "cityName": "Drumright",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, the population has declined as oil production has waned in the area."
+    },
+    {
+      "cityName": "Drumright",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Drumright and nearby Cushing were at the center of the large, productive Cushing-Drumright Oil Field in the 1910s and 1920s."
+    },
+    {
+      "cityName": "Durant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the headquarters of the Choctaw Nation, and is the largest settlement on the reservation, ranking ahead of McAlester and Poteau."
+    },
+    {
+      "cityName": "Durant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was founded by Dixon Durant, a Choctaw who lived in the area, after the MK&T railroad came through the Indian Territory in the early 1870s."
+    },
+    {
+      "cityName": "Durant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Durant is home to Southeastern Oklahoma State University and the headquarters of the Choctaw Nation."
+    },
+    {
+      "cityName": "Durant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is officially known as the Magnolia Capital of Oklahoma."
+    },
+    {
+      "cityName": "Durant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Durant is also part of the Dallas\u2013Fort Worth Combined Statistical Area, anchoring the northern edge."
+    },
+    {
+      "cityName": "Eagletown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the Mountain Fork River, approximately 6 miles (10 km) west of the Oklahoma-Arkansas border, it was the first permanent Choctaw settlement in the Indian Territory, who called it o\u0331ssi tamaha (\"Eagle\")."
+    },
+    {
+      "cityName": "Eagletown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eagletown was an important town from 1834 to 1906, and after 1850, served as county seat for the Choctaw Nation's Eagle County."
+    },
+    {
+      "cityName": "Eagletown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town name was officially changed to \"Eagle Town\" in 1850, then changed to the present Eagletown in 1892."
+    },
+    {
+      "cityName": "Earlsboro",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was once called \"...the town that whisky built and oil broke.\""
+    },
+    {
+      "cityName": "Edmond",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 94428 at the 2020 United States census, a 16% increase from 2010, making it the 5th most populous city in Oklahoma."
+    },
+    {
+      "cityName": "Edmond",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city borders the northern boundary of Oklahoma City."
+    },
+    {
+      "cityName": "Edmond",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Public transportation is provided by Citylink Edmond bus service."
+    },
+    {
+      "cityName": "El Reno",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was begun shortly after the 1889 land rush and named for the nearby Fort Reno."
+    },
+    {
+      "cityName": "El Reno",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 16989, marking a change of 1.55% from 16729, recorded in the 2010 census."
+    },
+    {
+      "cityName": "Eldorado",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Southern Baptist pastor, W. A. Criswell, was born in Eldorado in 1909."
+    },
+    {
+      "cityName": "Eldorado",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was the long-term pastor of the First Baptist Church of Dallas, Texas."
+    },
+    {
+      "cityName": "Elgin",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Elgin",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the site of Fort Sill National Cemetery."
+    },
+    {
+      "cityName": "Elk City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elk City is located on Interstate 40 and Historic U S Route 66 in western Oklahoma, approximately 110 miles (180 km) west of Oklahoma City and 150 miles (240 km) east of Amarillo, Texas."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after J. O. Elmore."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This town is 58 miles (93 kilometers) south of Oklahoma City."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are two main highways running through Elmore City."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "One of the Highways is Oklahoma State Highway 29, running west\u2013east."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The other is Oklahoma State Highway 74, running north\u2013south."
+    },
+    {
+      "cityName": "Elmore City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is about 12 miles (19 km) west of Wynnewood, 25+1\u20442 miles (41 km) south of Purcell, and 23 miles (37 km) west of U S Highway 177."
+    },
+    {
+      "cityName": "Enid",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1991, the Oklahoma state legislature designated Enid the \"purple martin capital of Oklahoma.\" Enid holds the nickname of \"Queen Wheat City\" and \"Wheat Capital\" of Oklahoma and the United States for its immense grain storage capacity, and has the third-largest grain storage capacity in the world."
+    },
+    {
+      "cityName": "Enid",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Enid was founded during the opening of the Cherokee Outlet in the Land Run of 1893, and is named after Enid, a character in Alfred, Lord Tennyson's Idylls of the King."
+    },
+    {
+      "cityName": "Enid",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 2020 census, the population was 51308."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eucha, well known for its Indian culture, often has Indian taco sales."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eucha Lake, named for the town, is noted for the Delaware County Gigging Tournament every year in April."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was named for Oochelata, a principal chief of the Cherokees."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is north of Lake Eucha, east of Spavinaw Lake, west of Lake Eucha Park, and southeast of Grand Lake o' the Cherokees."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Eucha Post Office was established November 20, 1900, in District 5 of the old Indian Territory."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Gigging is an old-fashioned method of fishing that utilizes gigs, a long pole that has been tipped with a multi-pronged spear."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fishermen use these trident-like gigs to spear fish while on flat boats."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The use of gigging spears reflects the area's Cherokee heritage and keeps the fishing tradition alive."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The average household income for a Eucha family is $30268."
+    },
+    {
+      "cityName": "Eucha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Picture in Scripture Amphitheater has an Eucha address but is north of the town."
+    },
+    {
+      "cityName": "Eufaula",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the southern part of the county, north of McAlester and south of Muskogee."
+    },
+    {
+      "cityName": "Eufaula",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name \"Eufaula\" comes from the Eufaula people, part of the Muscogee Creek confederacy."
+    },
+    {
+      "cityName": "Fair Oaks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Tulsa."
+    },
+    {
+      "cityName": "Fairfax",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the home of the ballerinas Maria and Marjorie Tallchief."
+    },
+    {
+      "cityName": "Fairfax",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Osage Nation reservation is coterminous with the county."
+    },
+    {
+      "cityName": "Fairland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is in the historic Cherokee Nation."
+    },
+    {
+      "cityName": "Fanshawe",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census, the town had a total population of 317."
+    },
+    {
+      "cityName": "Fargo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fargo, like many towns in the region, has never fully recovered from the Dust Bowl years."
+    },
+    {
+      "cityName": "Faxon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fletcher",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Foraker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Ohio Senator Joseph B. Foraker."
+    },
+    {
+      "cityName": "Foraker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Tallgrass Prairie Preserve is southeast of town."
+    },
+    {
+      "cityName": "Foraker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The official population peaked at 415 in 1910 and has declined steadily since 1930."
+    },
+    {
+      "cityName": "Foraker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Foraker was listed as a ghost town in the 1977 book Ghost Towns of Oklahoma."
+    },
+    {
+      "cityName": "Foraker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The author, John Wesley Morris, quoted one long-time resident as saying: \"Stores gone, post office gone, train gone, school gone, oil gone, boys and girls gone \u2013 only thing not gone is graveyard and it git bigger.\""
+    },
+    {
+      "cityName": "Forgan",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town\u2019s population was 450."
+    },
+    {
+      "cityName": "Fort Coffee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally constructed as a U. S. Army fort in 1834, it was named for U. S. General John Coffee, a veteran of the Seminole Wars."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of Fort Gibson Historical Site and Fort Gibson National Cemetery and is located near the end of the Cherokees' Trail of Tears at Tahlequah."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A recreation of the fort stands at the historic site, which was built as a Works Progress Administration project between 1935 and 1939, at a different location from the original fort."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town calls itself \"The Oldest Town in Oklahoma.\""
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A small portion extends north into Cherokee County."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town population was 3814 as of the 2020 census, down from 4154 in 2010."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Colonel Matthew Arbuckle of the United States Army established Fort Gibson in 1824."
+    },
+    {
+      "cityName": "Fort Gibson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Army abandoned the fort in 1890."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Sill is a major United States Army post north of Lawton, Oklahoma, approximately 85 miles (137 km) southwest of Oklahoma City, established in 1869 during the Indian Wars."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It covers almost 94000 acres (38000 ha) in southwestern Oklahoma and serves as headquarters of the U S Army Fires Center of Excellence."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The installation is a Basic Combat Training facility, training over 20000 personal annually in field artillery, air defense artillery, and electronic warfare."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Fort Sill has participated in every major U S conflict since its founding, evolving from a frontier cavalry outpost to a modern training hub."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It houses key units including the United States Army Field Artillery School, 75th Field Artillery Brigade (United States), and the 31st Air Defense Artillery Brigade (United States)."
+    },
+    {
+      "cityName": "Fort Sill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The post also supports a United States Marine Corps detachment for joint artillery training."
+    },
+    {
+      "cityName": "Fort Towson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Fort Towson was established in 1902, after the Arkansas and Choctaw Railway reached eastern Choctaw County."
+    },
+    {
+      "cityName": "Fort Towson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for nearby Fort Towson, which had been established in May 1824 and named for General Nathan Towson, a hero of the War of 1812."
+    },
+    {
+      "cityName": "Foss",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the town population was 151, an 18.9 percent increase from 127 at the 2000 census."
+    },
+    {
+      "cityName": "Foster",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 2002 and had a population of 161 at the 2010 census."
+    },
+    {
+      "cityName": "Foster",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Foster is served by State Highway 29A, a spur of State Highway 29."
+    },
+    {
+      "cityName": "Foster",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office was first established at Foster on August 12, 1891."
+    },
+    {
+      "cityName": "Foyil",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Alfred Foyil, a local landowner and the first postmaster of the town."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frederick is home to three dairies, a 1400-acre industrial park, and Frederick Regional Airport, which includes restored World War II hangars which house the World War II Airborne Demonstration Team."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frederick was visited in April 1905 by then U S President Theodore Roosevelt while he was on a wolf hunt."
+    },
+    {
+      "cityName": "Frederick",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is an agriculture-based community that primarily produces wheat, cotton, and cattle."
+    },
+    {
+      "cityName": "Freedom",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies twenty-five miles west of Alva, on the banks of the Cimarron River."
+    },
+    {
+      "cityName": "Friendship",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Friendship is an incorporated town in Jackson County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Gans",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 312 at the 2010 census, an increase of 50% over the 208 recorded in 2000."
+    },
+    {
+      "cityName": "Garber",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after Martin Garber, father of Milton C. Garber, former U S congressman, Enid mayor, newspaper editor, and judge."
+    },
+    {
+      "cityName": "Garber",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The land was previously part of the Cherokee Outlet, until the U S government declared it open to non-Indian settlement in 1893."
+    },
+    {
+      "cityName": "Gate",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for the fact it was the \"gateway\" to a ranching area."
+    },
+    {
+      "cityName": "Geary",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Edmund Guerrier, a scout and an interpreter for the U S Army."
+    },
+    {
+      "cityName": "Geary",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On October 31, 2024 the entire Geary Police Department resigned."
+    },
+    {
+      "cityName": "Geary",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Police Chief Alicia Ford along with three other officers."
+    },
+    {
+      "cityName": "Gene Autry",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 154 at the time of the 2020 census, down just slightly from the 158 reported in the 2010 census."
+    },
+    {
+      "cityName": "Geronimo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Lawton, Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Glencoe",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glencoe is a midway point between Pawnee County and Stillwater, which is the county seat."
+    },
+    {
+      "cityName": "Glenpool",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, the population was 14040, which represented an increase of 29.9% since the 2010 census, which reported the total population as 10808."
+    },
+    {
+      "cityName": "Glenpool",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Glenpool is notable because the discovery of oil in 1905, which caused an economic boom that propelled the growth of Tulsa and its surroundings."
+    },
+    {
+      "cityName": "Glenpool",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although the Glenn Pool Oil Reserve, for which the city was named, still produces a small amount of oil; the city is now primarily a commuter town for Tulsa."
+    },
+    {
+      "cityName": "Goldsby",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies within the Washington public school district and is home to the second largest casino in Oklahoma."
+    },
+    {
+      "cityName": "Goldsby",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 2694, up from 1801 in 2010."
+    },
+    {
+      "cityName": "Goodwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goodwell is home to Oklahoma Panhandle State University."
+    },
+    {
+      "cityName": "Goodwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town's population was 951."
+    },
+    {
+      "cityName": "Gore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gore claims to be the \"trout capital of Oklahoma\", with great fishing in Lake Tenkiller, the Illinois River, and the Arkansas River."
+    },
+    {
+      "cityName": "Gotebo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after the notable Kiowa Indian named Gotebo (1847 - 1927) (in Kiowa, )."
+    },
+    {
+      "cityName": "Gracemont",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town moniker is a portmanteau of 'Grace' and 'Montgomery,' the names of two friends of the first postmaster, Alice L. Bailey."
+    },
+    {
+      "cityName": "Grainola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town name was invented in March 1910."
+    },
+    {
+      "cityName": "Grainola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The main industry of the area is cattle ranching."
+    },
+    {
+      "cityName": "Grant",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 289."
+    },
+    {
+      "cityName": "Grove",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grove is surrounded by Grand Lake o\u2019 the Cherokees, a professional bass fishing tournament lake and recreational hotspot during the travel season of Memorial Day to Labor Day."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Guthrie Historic District includes more than 2000 buildings and is designated as a National Historic Landmark."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Historic tourism is important to the city, and its Victorian architecture provides a backdrop for Wild West and territorial-style entertainment, carriage tours, replica trolley cars, specialty shops, and art galleries."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "First known as a railroad station stop, after the Land Run of 1889, Guthrie immediately gained 10000 new residents, who began to develop the town."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 10191 at the 2010 census, a 2.7% increase from 9925 in the 2000 census."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It was rapidly improved and was designated as the territorial capital, and in 1907 as the first state capital of Oklahoma."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1910, state voters chose the larger Oklahoma City as the new capital in a special election."
+    },
+    {
+      "cityName": "Guthrie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Guthrie is nationally significant for its collection of late 19th- and early 20th-century commercial architecture."
+    },
+    {
+      "cityName": "Guymon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 12965, an increase of 13.3% from 11442 in 2010, and represents more than half of the population of the county, along with being the largest city in the Oklahoma Panhandle."
+    },
+    {
+      "cityName": "Guymon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Guymon was the only town or city in Oklahoma in 2010 and 2020 in which the majority of the population was Hispanic."
+    },
+    {
+      "cityName": "Guymon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cattle feedlots, corporate pork farms, and natural gas production dominate its economy, with wind energy production and transmission recently diversifying landowners' farms."
+    },
+    {
+      "cityName": "Hanna",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Hanna Bullett, the daughter of a prominent early resident."
+    },
+    {
+      "cityName": "Hanna",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 102 at the time of the 2020 census, down from 138 in 2010."
+    },
+    {
+      "cityName": "Hardesty",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town\u2019s population was 205."
+    },
+    {
+      "cityName": "Harrah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located 25 miles (40 km) east of downtown Oklahoma City, Harrah had a population of 6245 people as of the 2020 Census, a 22.6% increase from 2010."
+    },
+    {
+      "cityName": "Harrah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first settler of the area, who was Potawatomi, arrived in the 1870s, but the town was not incorporated until 1908."
+    },
+    {
+      "cityName": "Harrah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was settled by Americans, Polish immigrants, and other groups and had a cotton ginning center."
+    },
+    {
+      "cityName": "Haskell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haskell was established in 1904 on the Midland Valley Railroad."
+    },
+    {
+      "cityName": "Haskell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for townsite developer Charles N. Haskell, who became the first governor of the state of Oklahoma in 1907."
+    },
+    {
+      "cityName": "Healdton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2788 at the 2010 census."
+    },
+    {
+      "cityName": "Heavener",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Heavener is notable for the Heavener Runestone just outside the city limits."
+    },
+    {
+      "cityName": "Helena",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Residents pronounce the town's name with a long E: \"Heh-LEE'-nuh.\" The population was 1403 at the 2010 census."
+    },
+    {
+      "cityName": "Hendrix",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the Bryan County Genealogy Society, Hendrix was originally known as Kemp City."
+    },
+    {
+      "cityName": "Hendrix",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This led to it often being confused with the neighboring town that is simply named Kemp."
+    },
+    {
+      "cityName": "Hendrix",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hendrix was largely destroyed by a 1916 tornado."
+    },
+    {
+      "cityName": "Hickory",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hickory was the birthplace and childhood home of Zack Mosley, the creator of the comic strip The Adventures of Smilin' Jack, an adventurous aviator, inspired by Mosley witnessing an early plane crash in Hickory."
+    },
+    {
+      "cityName": "Hickory",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Hinton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 50 miles (80 km) west of Oklahoma City."
+    },
+    {
+      "cityName": "Hitchita",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Encyclopedia of Oklahoma History and Culture says that the town was named for a band of Muskhogean Indians that had been absorbed into the Creek tribe."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Garret Hobart, the 24th Vice President of the United States."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It also has two museums: General Tommy Franks Museum and Kiowa County Museum."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is west-southwest of Oklahoma City, and northwest of Lawton."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 3413 at the 2020 Census."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is served by Hobart Regional Airport."
+    },
+    {
+      "cityName": "Hochatown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town lies within the Little Dixie region of Oklahoma, an area originally settled largely by Southerners seeking a new start following the Civil War."
+    },
+    {
+      "cityName": "Hochatown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 242."
+    },
+    {
+      "cityName": "Hollis",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2060 at the 2010 census."
+    },
+    {
+      "cityName": "Hominy",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was the home of an all-Native American football team in the 1920s."
+    },
+    {
+      "cityName": "Hominy",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hominy (Osage: \ud801\udcb9\ud801\udcd8\u0301\u0358\ud801\udce8\ud801\udcd8\u0358\ud801\udcf5\ud801\udce3\u0358, romanized: H\u0105\u0301m\u0105\u00f0\u012f \u2013 night-walker) is a city in Osage County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Hominy",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the community had 3329 residents."
+    },
+    {
+      "cityName": "Hominy",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Parts of a docudrama on the Hominy Indians were shot in the area in 2013."
+    },
+    {
+      "cityName": "Hooker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city\u2019s population was 1802."
+    },
+    {
+      "cityName": "Hoot Owl",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Making it the least populated municipality in the U.S State of Oklahoma."
+    },
+    {
+      "cityName": "Howe",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was once noted for producing coal and coke, but today is chiefly supported by agriculture."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1901 and named for the French novelist Victor Hugo."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nearby is one of the oldest boarding schools west of the Mississippi: Goodland Academy, begun in 1848 as a Presbyterian mission, school and orphanage for Native American children."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is within the tourist area designated as Choctaw Country by the Oklahoma Department of Tourism."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the city population was 5166."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the postwar 20th century, the city served as winter quarters for some circus companies and performers."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "A cemetery has a section for circus personnel."
+    },
+    {
+      "cityName": "Hugo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town is located in a cultural area of the state known as Little Dixie, as it was settled by Native American tribes, African Americans and European Americans from the southeastern United States."
+    },
+    {
+      "cityName": "Hulbert",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hulbert is a town in Cherokee County, Oklahoma, United States, named after Ben H. Hulbert, a prominent Cherokee man."
+    },
+    {
+      "cityName": "Hulbert",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Our Lady of the Annunciation of Clear Creek Monastery is a Benedictine monastery located in Hulbert."
+    },
+    {
+      "cityName": "Hulbert",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Clear Creek Monastery, recently elevated to the status of an abbey, is a foundation abbey of France's Notre Dame de Fontgombault, which is itself a foundation abbey of Saint Pierre de Solesmes, also in France."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "IXL (or I.X.L.) is an historical freedmen's town in Okfuskee County, Oklahoma, United States."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Okemah Lake is to its east."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "While founded perhaps as early as 1900, it was only incorporated in 2001 and had an estimated population of 59 in 2007."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The source of IXL's unusual name is disputed."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A 2012 article on the town's website explained that the name derived from Indian Exchange Land, a reference to the town being on Mvskoke land."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Other sources claim that the letters were taken from the names of three men."
+    },
+    {
+      "cityName": "IXL",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Some people think it\u2019s an onomatopoeic boast suggesting \"I excel.\" This town should not be confused with Oklahoma towns in Kay County and Tillman County which also bears the \"IXL\" name."
+    },
+    {
+      "cityName": "Idabel",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in Oklahoma's southeast corner, a tourist region known as Choctaw Country."
+    },
+    {
+      "cityName": "Indiahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also home to the Treasure Lake Job Corp."
+    },
+    {
+      "cityName": "Indiahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included as an exurb in the Lawton, Oklahoma, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Inola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Inola is also a spider genus (Pisauridae)."
+    },
+    {
+      "cityName": "Inola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Tulsa Metropolitan Statistical Area (TMSA)."
+    },
+    {
+      "cityName": "Inola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Inola is a Cherokee word meaning \"Black Fox.\" The town styles itself as \"The Hay Capital of the World.\""
+    },
+    {
+      "cityName": "Jay",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is celebrated as the Huckleberry Capital of the World and has been host to the annual Huckleberry Festival each July 4 weekend since 1967."
+    },
+    {
+      "cityName": "Jay",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Almost 40% of its residents are Native American, thus Jay is home to numerous Cherokee tribal offices and a health clinic for the Delaware District of the Cherokee Nation."
+    },
+    {
+      "cityName": "Jay",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Jay has a council-manager system of government."
+    },
+    {
+      "cityName": "Jay",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Becki Farley is the mayor with Kyle Stump serving as Vice Mayor."
+    },
+    {
+      "cityName": "Jenks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jenks is one of the fastest-growing cities in Oklahoma."
+    },
+    {
+      "cityName": "Jenks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's population was 16924 in the 2010 census, but by 2020, this had grown to 25949."
+    },
+    {
+      "cityName": "Jones",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Charles G. Jones, a three-time mayor of Oklahoma City."
+    },
+    {
+      "cityName": "Katie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is 69 miles (111 km) south of Oklahoma City."
+    },
+    {
+      "cityName": "Katie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 2004 and had a population of 348 at the 2010 census."
+    },
+    {
+      "cityName": "Katie",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On May 9, 2016, an EF4 tornado touched down in the southern part of Katie, and tracked to the east, causing one death and several injuries."
+    },
+    {
+      "cityName": "Kaw City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kaw City was named for the Kanza Indians, called the Kaw by locals."
+    },
+    {
+      "cityName": "Kenefic",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for William Kenefick, president of the Missouri, Oklahoma and Gulf Railroad (MO&G), which had constructed a rail line through the region."
+    },
+    {
+      "cityName": "Kenefic",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name has been spelled both Kenefic and Kenefick throughout its history."
+    },
+    {
+      "cityName": "Keyes",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town\u2019s population was 276."
+    },
+    {
+      "cityName": "Kingfisher",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the former home and namesake of Kingfisher College."
+    },
+    {
+      "cityName": "Kingfisher",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the Encyclopedia of Oklahoma History and Culture, Kingfisher is now primarily a bedroom community for people employed in Enid and Oklahoma City."
+    },
+    {
+      "cityName": "Kiowa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 595 residents."
+    },
+    {
+      "cityName": "Konawa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Konawa is a Seminole word meaning, \"string of beads.\""
+    },
+    {
+      "cityName": "Krebs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its nickname is \"Little Italy.\" Krebs was founded before Oklahoma statehood as a coal-mining town in the Choctaw Nation of Indian Territory."
+    },
+    {
+      "cityName": "Lahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name was formed from the last three syllables of Oklahoma."
+    },
+    {
+      "cityName": "Lahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Until the 1960s, Lahoma was a farm town."
+    },
+    {
+      "cityName": "Lahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Later, it became primarily a bedroom community for people who commuted to work in Enid."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A post office was established at Lane, Indian Territory on October 6, 1902."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name reflects the fact the new post office was located in a building which was at the end of lane bounded by rail fencing."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At the time of its founding, Lane was located in Atoka County, Choctaw Nation, a territorial-era government unit."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lane is located along the State Highway 3, 10 miles (16 km) southeast of Atoka."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "McGee Creek Reservoir, which impounds the waters of McGee Creek, lies northeast of Lane."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "McGee Creek is a tributary of Muddy Boggy Creek, which flows east of Lane."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The famous rodeo world champion Lane Frost (1963-1989) once lived in Lane, as do his parents."
+    },
+    {
+      "cityName": "Lane",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Frost graduated from high school in Atoka."
+    },
+    {
+      "cityName": "Langley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits in the foothills of the Ozark Mountains on the coast of Grand Lake o' the Cherokees."
+    },
+    {
+      "cityName": "Langston",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Langston is home to Langston University, the only historically black college in Oklahoma."
+    },
+    {
+      "cityName": "Lawrence Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated March 15, 1983, it is primarily a bedroom community whose employed residents work in Sapulpa and Tulsa."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Major General Henry Ware Lawton, who served in the Civil War, where he earned the Medal of Honor, and was killed in action in the Philippine\u2013American War."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, Lawton's population was 90381, making it the sixth-largest city in the state, and the largest in Western Oklahoma."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although Lawton's economy is still largely dependent on Fort Sill, it has grown to encompass manufacturing, higher education, health care, and retail."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lawton's landscape is typical of the Great Plains, with flat topography and gently rolling hills, while the area north of the city is marked by the Wichita Mountains."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Developed on former reservation lands of the Kiowa, Comanche, and Apache peoples, Lawton was incorporated in 1901."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city's proximity to the Fort Sill Military Reservation, formerly the base of the Apache territory before statehood, gave Lawton economic and population stability throughout the 20th century."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "They hire a professional city manager to direct daily operations."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Interstate 44 and three major United States highways serve the city, Lawton-Fort Sill Regional Airport connects Lawton by air, while Greyhound Lines and the Lawton Area Transit System provide intercity and local bus service respectively."
+    },
+    {
+      "cityName": "LeFlore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although the legal town name is spelled in the two-word form, the official federal name for the place and the postal name used is Leflore."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 210."
+    },
+    {
+      "cityName": "Lehigh",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 356 at the 2010 census."
+    },
+    {
+      "cityName": "Lenapah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name is an adaptation of Lenape, the name of a Delaware Tribe of Indians."
+    },
+    {
+      "cityName": "Leon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 74 residents."
+    },
+    {
+      "cityName": "Leon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city population was 2010 at the 2020 census, a 6.6% decrease from 2010."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population is 153."
+    },
+    {
+      "cityName": "Lima",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the thirteen remaining historically All-Black towns in the state."
+    },
+    {
+      "cityName": "Lindsay",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It once promoted itself as \"The Broomcorn Capital of the World\" but no longer uses that slogan, as broomcorn is no longer raised in the area."
+    },
+    {
+      "cityName": "Loco",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 99 residents."
+    },
+    {
+      "cityName": "Loco",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town appeared on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Lone Grove",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city, located 7 miles (11 km) west of Ardmore on U S Route 70, is a bedroom community, with many residents employed in Ardmore."
+    },
+    {
+      "cityName": "Lone Wolf",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Chief Lone Wolf (1843\u20131923), a warrior chief of the Kiowa who fought to preserve his people's autonomy and way of life."
+    },
+    {
+      "cityName": "Lookeba",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lookeba is old enough to appear on a 1911 Rand McNally map of the county, located along the route of the old Rock Island railway."
+    },
+    {
+      "cityName": "Lookeba",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name is a portmanteau of the names of three founding fathers: Lowe, Kelley and Baker."
+    },
+    {
+      "cityName": "Lotsee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "and in an article on \u201cThe Tiniest Town in Every State\u201d by House Beautiful in November 2023, it was cited as the tiniest town in Oklahoma as it had only two people."
+    },
+    {
+      "cityName": "Lotsee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the fourth smallest incorporated municipality in Oklahoma, tied with the town of Knowles, Oklahoma."
+    },
+    {
+      "cityName": "Lotsee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The entire town is a 2000 acres (8.1 km2) family-owned cattle and pecan ranch, the Flying G Ranch, whose owner, George Campbell, incorporated it in 1963."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loveland once had a post office that has since closed."
+    },
+    {
+      "cityName": "Loveland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The post office was popular around Valentine's Day, when people often drove many miles to have their valentines postmarked \"Loveland\"."
+    },
+    {
+      "cityName": "Luther",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Luther would be named after Charles Gasham \"Gristmill\" Jones's son from his first marriage."
+    },
+    {
+      "cityName": "Luther",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Luther owes its existence to Charles Gasham \"Gristmill\" Jones, who platted the land and sold it for a profit."
+    },
+    {
+      "cityName": "Madill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known as the site of the annual National Sand Bass Festival."
+    },
+    {
+      "cityName": "Madill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named in honor of George Alexander Madill, an attorney for the St. Louis-San Francisco Railway."
+    },
+    {
+      "cityName": "Mangum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for A. S. Mangum, who owned the land on which the town was founded in 1882."
+    },
+    {
+      "cityName": "Mangum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mangum was originally part of Old Greer County in the Texas panhandle."
+    },
+    {
+      "cityName": "Mangum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It became part of the Oklahoma Territory in 1896, and thus part of the state of Oklahoma on November 16, 1907."
+    },
+    {
+      "cityName": "Manitou",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The site includes the former town of Siboney, absorbed on January 28, 1907."
+    },
+    {
+      "cityName": "Mannford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city sits next to Keystone Lake and claims to be the \"Striped Bass Capital of the World\"."
+    },
+    {
+      "cityName": "Mannford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Small strips of land that are within the city limits extend into Osage, Pawnee, and Tulsa counties."
+    },
+    {
+      "cityName": "Mannsville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Maramec",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits just north of the Cimarron Turnpike (a/k/a U S Route 412) at N3550 Rd."
+    },
+    {
+      "cityName": "Maramec",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "(a/k/a Cedar Tree Corner, a/k/a Ash Street)."
+    },
+    {
+      "cityName": "Marietta",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For tourism purposes, the Oklahoma Department of Tourism includes it in 'Chickasaw Country'."
+    },
+    {
+      "cityName": "Marietta",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also a part of the Texoma region."
+    },
+    {
+      "cityName": "Marland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Ernest W. Marland, an oilman from nearby Ponca City who later became a governor of Oklahoma."
+    },
+    {
+      "cityName": "Marland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Marland is on SH-156, south-southwest of Ponca City."
+    },
+    {
+      "cityName": "Marlow",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marlow is located 10 miles north of Duncan, Oklahoma, and 30 miles east of Lawton, Oklahoma."
+    },
+    {
+      "cityName": "Maud",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for Maud Stearns, a sister to the wives of two men who owned the first general store."
+    },
+    {
+      "cityName": "Maud",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 867 by the 2020 United States census."
+    },
+    {
+      "cityName": "May",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town received a significant boost in the Spring of 1912 when the Wichita Falls and Northwestern Railway was built through, making May a wheat-shipping point."
+    },
+    {
+      "cityName": "May",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "But the town significantly declined after World War II and the rail line was abandoned in 1972."
+    },
+    {
+      "cityName": "May",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town\u2019s population was 29."
+    },
+    {
+      "cityName": "May",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A store was created at the site of the town in 1893 after the Cherokee Outlet Opening; a post office was opened in July of 1896; and, the town was platted in July of 1902, although it was not formally incorporated until November of 1913."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McAlester is the home of the Oklahoma State Penitentiary, the former site of an \"inside the walls\" prison rodeo that ESPN's SportsCenter once broadcast."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1998 McAlester became the home of the Defense Ammunition Center (DAC), which moved from Savanna, Illinois, to McAlester Army Ammunition Plant."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The prison's nickname, Big Mac, was derived from its location in the town."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town gets its name from James Jackson McAlester, an early settler and businessman who later became lieutenant governor of Oklahoma."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Known as \"J. J.\", McAlester married Rebecca Burney, the daughter of a full-blood Chickasaw family, which made him a citizen of the Chickasaw Nation."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "McAlester is home to many of the employees of the McAlester Army Ammunition Plant."
+    },
+    {
+      "cityName": "McAlester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "This facility makes the majority of the bombs used by the United States military."
+    },
+    {
+      "cityName": "McCurtain",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A coal mine disaster in 1912 killed 73 miners and ended McCurtain's prosperity."
+    },
+    {
+      "cityName": "McCurtain",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The mine explosion remains one of the worst disasters in Oklahoma history."
+    },
+    {
+      "cityName": "McLoud",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in 1895 and named for John W. McLoud, attorney for the Choctaw, Oklahoma and Gulf Railroad."
+    },
+    {
+      "cityName": "Mead",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mead was originally named for C W Meade, the first postmaster, but the town later dropped the final \"e\" of the name."
+    },
+    {
+      "cityName": "Medford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 996."
+    },
+    {
+      "cityName": "Medicine Park",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Medicine Park has a long history as a vintage cobblestone resort town."
+    },
+    {
+      "cityName": "Medicine Park",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many of the original structures are constructed of naturally formed cobblestones\u2014these red granite cobblestones are unique to the Wichita Mountains."
+    },
+    {
+      "cityName": "Medicine Park",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Medicine Park is located near the city of Lawton and Fort Sill."
+    },
+    {
+      "cityName": "Medicine Park",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is an exurb, part of the Lawton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Meeker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 1004 residents."
+    },
+    {
+      "cityName": "Meeker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Meeker",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was prominently featured in the documentary Will & Harper."
+    },
+    {
+      "cityName": "Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Miami ( my-AM-\u0259) is a city in and the county seat of Ottawa County, Oklahoma, United States, founded in 1891."
+    },
+    {
+      "cityName": "Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lead and zinc mining were established by 1918, causing the area's economy to boom."
+    },
+    {
+      "cityName": "Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This area was part of Indian Territory."
+    },
+    {
+      "cityName": "Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Miami is the capital of the federally recognized Miami Tribe of Oklahoma (after which it is named), the Modoc Tribe of Oklahoma, the Ottawa Tribe of Oklahoma, the Peoria Tribe of Indians, and the Shawnee Tribe."
+    },
+    {
+      "cityName": "Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, its population was 12969."
+    },
+    {
+      "cityName": "Midwest City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 58409, making it the eighth largest city in the state."
+    },
+    {
+      "cityName": "Midwest City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city suffered damage during two tornadoes, the first in May 1999 and the second on May 8, 2003."
+    },
+    {
+      "cityName": "Midwest City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was developed in response to talk of an air field being located nearby and named for the Tinker Air Force Base's original designation as the Midwest Air Depot."
+    },
+    {
+      "cityName": "Milburn",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is notable as the location of the Chickasaw White House, the former home of Chickasaw Governor Douglas H. Johnston."
+    },
+    {
+      "cityName": "Milburn",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This home is now a museum and is listed on the NRHP."
+    },
+    {
+      "cityName": "Mill Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Local residents consider the town as the focal point of the community."
+    },
+    {
+      "cityName": "Millerton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The oldest church building in Oklahoma, Wheelock Church, is located near Millerton."
+    },
+    {
+      "cityName": "Monkey Island",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a popular tourism and recreation destination in the area, suppling resort hotels, a golf course, sporting facilities, and a marina."
+    },
+    {
+      "cityName": "Monkey Island",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Residents and tourists of the peninsula are supported by the towns of Bernice and Copeland."
+    },
+    {
+      "cityName": "Monkey Island",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Monkey Island is a peninsula on the northern shore of Grand Lake o' the Cherokees, located 8 miles (13 km) southwest of Grove, Oklahoma."
+    },
+    {
+      "cityName": "Monkey Island",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Monkey Island is also home to the Grand Lake Regional Airport."
+    },
+    {
+      "cityName": "Monkey Island",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is 6 miles (9.7 km) long from north to south and State Highway 125 runs through the peninsula to its southern end."
+    },
+    {
+      "cityName": "Moore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located between Oklahoma City and Norman, the city has been the site of several devastating tornadoes, with those occurring in 1999 and 2013 receiving international attention."
+    },
+    {
+      "cityName": "Moore",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 3 costliest tornadoes in Oklahoma history all occurred in Moore."
+    },
+    {
+      "cityName": "Mooreland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mooreland lies in a valley approximately 5 miles (8.0 km) north of the North Canadian River."
+    },
+    {
+      "cityName": "Mooreland",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This area of shallow-water land lies at an altitude of 1900 feet (580 m)."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 740 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Mule Barn",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mule Barn was a small former town in Pawnee County, Oklahoma, United States, located on the west side of Keystone Lake west-northwest of Tulsa."
+    },
+    {
+      "cityName": "Mule Barn",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was recorded as zero in both the 1990 and 2000 enumerations."
+    },
+    {
+      "cityName": "Muskogee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies approximately 48 miles (77 km) southeast of Tulsa."
+    },
+    {
+      "cityName": "Mustang",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mustang's population was 19879 at the 2020 census, a 14.3% increase from 17398 in 2010."
+    },
+    {
+      "cityName": "Mustang",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is now primarily known as a bedroom community for Oklahoma City."
+    },
+    {
+      "cityName": "Mutual",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1908, the town suffered under the agricultural depression after World War I and saw only minimal growth during the 1970s and 1980s."
+    },
+    {
+      "cityName": "New Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for a U S Postal Service employee in Washington D. C., Wayne W. Cordell."
+    },
+    {
+      "cityName": "New Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies along U S Route 183."
+    },
+    {
+      "cityName": "New Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was previously established a few miles from the current site, but was moved about 1900."
+    },
+    {
+      "cityName": "New Cordell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The official name is New Cordell, though it is now commonly called Cordell."
+    },
+    {
+      "cityName": "New Woodville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Listed erroneously by the Census Bureau as \"Woodville\" from 1980 to 2000, the town's name was corrected in Census Bureau listings in 2005."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This is an historically black two-room schoolhouse with a poured-in-place concrete, partial, two-room basement constructed circa 1936."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newalla is an adaption of the Osage name for the Canadian River."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The post office was opened June 22, 1904."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Portions of Newalla are also within Oklahoma City Limits."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "School districts that provide educational services to the community are the following: McLoud Public Schools, Harrah Public School, Choctaw Public Schools, Little Axe Public Schools, Mid-Del Public Schools, as well as Norman and Moore Public Schools."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The estimated population of Newalla, Oklahoma is currently at 9514."
+    },
+    {
+      "cityName": "Newalla",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Newalla has a site on the NRHP, being the Union School District 19 1/2 building."
+    },
+    {
+      "cityName": "Nicoma Park",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Nicoma is a portmanteau of the first three letters of Nichols, for G A Nichols, and the last three letters of Oklahoma."
+    },
+    {
+      "cityName": "Noble",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Noble is Cleveland County's third-largest city behind Norman and Moore."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The university is well known for its sporting events by teams under the banner of the nickname \"Sooners\", with over 85000 people routinely attending football games."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The university is home to several museums, including the Fred Jones Junior Museum of Art, which contains the largest collection of French Impressionist art ever given to an American university, as well as the Sam Noble Oklahoma Museum of Natural History."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Norman has prominent higher education and related research industries, as it is home to the University of Oklahoma, the largest university in the state, with nearly 32000 students."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Norman lies within Tornado Alley, a geographic region colloquially known for frequent and intense tornadic activity."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Norman's National Weather Center houses a unique collection of university, state, federal, and private-sector organizations that work together to improve the understanding of events related to the Earth's atmosphere."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city was settled during the Land Run of 1889, which opened the former Unassigned Lands of Indian Territory to American pioneer settlement."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It was named in honor of Abner Norman, the area's initial land surveyor, and was formally incorporated on May 13, 1891."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Storm Prediction Center, a branch of the National Oceanic and Atmospheric Administration that delivers forecasts for severe thunderstorms, tornadoes, and other high-impact hazardous weather in the contiguous United States, is located at the National Weather Center."
+    },
+    {
+      "cityName": "Norman",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Additionally, research is conducted at the co-located National Severe Storms Laboratory, which operates various experimental weather radars and develops innovative tools, applications, and techniques aimed at improving forecasts and warnings of severe weather."
+    },
+    {
+      "cityName": "North Enid",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Enid was the original railroad town site in the Enid\u2013Pond Creek Railroad War."
+    },
+    {
+      "cityName": "North Enid",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is served by the Chisholm school district."
+    },
+    {
+      "cityName": "North Miami",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is primarily a bedroom community for several larger towns in the county."
+    },
+    {
+      "cityName": "Nowata",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area where it was established was then part of the Cherokee Nation in Indian Territory."
+    },
+    {
+      "cityName": "Oaks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It's a crucial role for survival not only for animals, but to the members of the surrounding communities."
+    },
+    {
+      "cityName": "Oaks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Come through and take a tour of the town."
+    },
+    {
+      "cityName": "Oaks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A local female resident has even caught a 13 pound large mouth bass at a secluded pond on boogeyman road."
+    },
+    {
+      "cityName": "Okeene",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name was created by combining the last letters of Cherokee and Cheyenne."
+    },
+    {
+      "cityName": "Okemah",
+      "state": "OK",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Woody Guthrie was born in Okemah."
+    },
+    {
+      "cityName": "Okemah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the birthplace of folk music legend Woody Guthrie."
+    },
+    {
+      "cityName": "Okemah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Thlopthlocco Tribal Town, a federally recognized Muscogee Indian tribe, is headquartered in Okemah."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the 20th-most populous U S city and 8th largest in the Southern United States, with a population of 681054 at the 2020 census."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oklahoma City ranks as the tenth-largest city by area in the United States when including consolidated city-counties, and second-largest when such consolidations are excluded."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also the second-largest state capital by area, after Juneau, Alaska."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Oklahoma City has one of the world's largest livestock markets."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Oil, natural gas, petroleum products, and related industries are its economy's largest sector."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located in the state's Frontier Country region, the city's northeast section lies in an ecological region known as the Cross Timbers."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Oklahoma City ( OH-kl\u0259-HOH-m\u0259 -\u2060), often shortened to OKC, is the capital and most populous city of the U S state of Oklahoma."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city is in the middle of an active oil field, and oil derricks dot the capitol grounds."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Oklahoma City is on the I-35 and I-40 corridors, one of the primary travel corridors south into Texas and New Mexico, north towards Wichita and Kansas City, west towards Albuquerque, and east towards Little Rock and Memphis."
+    },
+    {
+      "cityName": "Oklahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city was founded during the Land Run of 1889 and grew to a population of over 10000 within hours of its founding."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the 20th-most populous U S city and 8th largest in the Southern United States, with a population of 681054 at the 2020 census."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oklahoma City ranks as the tenth-largest city by area in the United States when including consolidated city-counties, and second-largest when such consolidations are excluded."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also the second-largest state capital by area, after Juneau, Alaska."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Oklahoma City has one of the world's largest livestock markets."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Oil, natural gas, petroleum products, and related industries are its economy's largest sector."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located in the state's Frontier Country region, the city's northeast section lies in an ecological region known as the Cross Timbers."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Oklahoma City ( OH-kl\u0259-HOH-m\u0259 -\u2060), often shortened to OKC, is the capital and most populous city of the U S state of Oklahoma."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city is in the middle of an active oil field, and oil derricks dot the capitol grounds."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Oklahoma City is on the I-35 and I-40 corridors, one of the primary travel corridors south into Texas and New Mexico, north towards Wichita and Kansas City, west towards Albuquerque, and east towards Little Rock and Memphis."
+    },
+    {
+      "cityName": "Oklahoma City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city was founded during the Land Run of 1889 and grew to a population of over 10000 within hours of its founding."
+    },
+    {
+      "cityName": "Okmulgee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The site was chosen because of the nearby rivers and springs."
+    },
+    {
+      "cityName": "Okmulgee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is from the Muskogee word okimulgi, which means \"boiling waters\"."
+    },
+    {
+      "cityName": "Okmulgee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Okmulgee is 38 miles south of Tulsa and 13 miles north of Henryetta via US-75."
+    },
+    {
+      "cityName": "Oktaha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 343."
+    },
+    {
+      "cityName": "Olustee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "\"Olustee\" is said to be a Seminole word meaning \"pond\" or from the Creek (Muscogee) language ue-lvste (/oy-l\u00e1st-i/) meaning \"black water\", and being taken from the Battle of Olustee in Florida."
+    },
+    {
+      "cityName": "Oologah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Renowned humorist Will Rogers was born on a ranch two miles east of Oologah, although he usually claimed Claremore as his birthplace \"because nobody but an Indian can pronounce 'Oologah.'\" There has been disagreement about the town name's proper spelling."
+    },
+    {
+      "cityName": "Oologah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was often spelled \"Oolagah\" before statehood, and this spelling appears on some old buildings."
+    },
+    {
+      "cityName": "Optima",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town\u2019s population was 338."
+    },
+    {
+      "cityName": "Osage",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Also known as Osage City, it lies within the Osage Reservation on the shore of Lake Keystone."
+    },
+    {
+      "cityName": "Osage",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the community had 177 residents."
+    },
+    {
+      "cityName": "Owasso",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally settled in 1881 in Indian Territory, the town was incorporated in 1904 just prior to Oklahoma statehood and was chartered as a city in 1972."
+    },
+    {
+      "cityName": "Paden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for Paden Tolbert, a U S Deputy Marshal who served the area in the early 1900s."
+    },
+    {
+      "cityName": "Paoli",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Paoli, Pennsylvania, an unincorporated community near Philadelphia from which many of the railroad workers who built the town came."
+    },
+    {
+      "cityName": "Park Hill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1838, Park Hill became the home of many important Cherokee leaders, including John Ross after their removal from the southeastern U S It has been called \"the center of Cherokee culture.\""
+    },
+    {
+      "cityName": "Park Hill",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies near Tahlequah, east of the junction of U S Route 62 and State Highway 82."
+    },
+    {
+      "cityName": "Pauls Valley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was settled by and named for Smith Paul, a North Carolina native who married a Chickasaw woman and became a citizen of the Chickasaw Nation before the Civil War."
+    },
+    {
+      "cityName": "Pauls Valley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town economy is largely based on agriculture and oil production."
+    },
+    {
+      "cityName": "Pawhuska",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the 19th-century Osage chief Paw-Hiu-Skah, which means \"White Hair\" in English."
+    },
+    {
+      "cityName": "Pawhuska",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 2984."
+    },
+    {
+      "cityName": "Pawhuska",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Osage tribal government, which opened offices in Pawhuska in 1872 when its reservation was established in Indian Territory, continues to be based in Pawhuska."
+    },
+    {
+      "cityName": "Pawnee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the Pawnee tribe, which was relocated to this area between 1873 and 1875."
+    },
+    {
+      "cityName": "Pawnee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is northeast of Stillwater at the junction of U S Route 64 and State Highway 18."
+    },
+    {
+      "cityName": "Peggs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 813 at the 2010 census, compared to 814 at the 2000 census."
+    },
+    {
+      "cityName": "Peggs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A large minority of its residents are Native American, most of them members of 10 tribal groups such as the Cherokee Nation and the Muscogee Creek Nation."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the Peoria people, a tribe of Native Americans who were removed to Indian Territory from east of the Mississippi River during the 19th century."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The long decline of mining meant that jobs moved elsewhere."
+    },
+    {
+      "cityName": "Peoria",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The territory had been occupied by the Quapaw people, who sold some of their land to the Peoria."
+    },
+    {
+      "cityName": "Perkins",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name is derived from Walden Perkins, a congressman who helped establish the local post office."
+    },
+    {
+      "cityName": "Perkins",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Iowa Tribe of Oklahoma is headquartered here."
+    },
+    {
+      "cityName": "Perry",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home of Ditch Witch construction equipment manufacture."
+    },
+    {
+      "cityName": "Perry",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the city population was 5126, a 2.0 percent decrease from the figure of 5230 in 2000."
+    },
+    {
+      "cityName": "Pink",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The only town in the United States bearing this name, Pink lies within the boundaries of the Citizen Potawatomi Nation."
+    },
+    {
+      "cityName": "Pink",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name of Pink may have been chosen because it is complementary to Brown (now part of Pink), which was located a few miles east in the same township and range."
+    },
+    {
+      "cityName": "Pink",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This would be an example of the \"twin name fad\" in Pottawatomie County, like the towns of Romulus and Remus."
+    },
+    {
+      "cityName": "Pink",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Oral history suggests that the town name was in honor of a local resident named Pink."
+    },
+    {
+      "cityName": "Pink",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was hit by a significant tornado on the night of April 19, 2023."
+    },
+    {
+      "cityName": "Pittsburg",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 180 residents."
+    },
+    {
+      "cityName": "Pocola",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pocola is a Choctaw word meaning \"ten\", the approximate distance in miles from Fort Smith, Arkansas."
+    },
+    {
+      "cityName": "Ponca City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after the Ponca tribe."
+    },
+    {
+      "cityName": "Ponca City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ponca City had a population of 24424 in the 2020 census, down from 25387 at the time of the 2010 census."
+    },
+    {
+      "cityName": "Pond Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 856, a 4.5 percent decline from the figure of 896 in 2000."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Pontotoc County, which was one of the divisions of the Chickasaw Nation."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A post office was established in Pontotoc in 1858."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pontotoc is located on US Route 377/State Highway 99 south of Ada and north of Tishomingo."
+    },
+    {
+      "cityName": "Porter",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It promotes itself as \"The Peach Capital of Oklahoma.\" The population was 566 at the 2010 census, a loss of 1.4 percent, compared to 574 at the 2000 census."
+    },
+    {
+      "cityName": "Porum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for John Porum Davis, a rancher, Civil War veteran, and Cherokee Nation councilman from the Canadian District in Indian Territory."
+    },
+    {
+      "cityName": "Porum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was first known as Porum Gap, which united with another village named Starvilla in 1905."
+    },
+    {
+      "cityName": "Porum",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The product of this union became the present town of Porum."
+    },
+    {
+      "cityName": "Poteau",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 8520 as of the 2010 census."
+    },
+    {
+      "cityName": "Prague",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Czech immigrants founded the city, and named it after the capital of the present-day Czech Republic."
+    },
+    {
+      "cityName": "Prue",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Henry Prue, who owned the original townsite."
+    },
+    {
+      "cityName": "Prue",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prue was relocated when Lake Keystone was built, and is sometimes called \"New Prue\"."
+    },
+    {
+      "cityName": "Prue",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the community had 374 residents."
+    },
+    {
+      "cityName": "Pryor",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally named Coo-Y-Yah, Cherokee for \"place of the huckleberries\", it was renamed \"Pryor Creek\" in 1887 after the local railroad station, which was named for the nearby creek."
+    },
+    {
+      "cityName": "Pryor",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Due to confusion in distinguishing handwritten mailing addresses to Pryor Creek and Pond Creek, the U S Postal Service name for the city was shortened to Pryor, and both names are in common usage."
+    },
+    {
+      "cityName": "Pryor Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally named Coo-Y-Yah, Cherokee for \"place of the huckleberries\", it was renamed \"Pryor Creek\" in 1887 after the local railroad station, which was named for the nearby creek."
+    },
+    {
+      "cityName": "Pryor Creek",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Due to confusion in distinguishing handwritten mailing addresses to Pryor Creek and Pond Creek, the U S Postal Service name for the city was shortened to Pryor, and both names are in common usage."
+    },
+    {
+      "cityName": "Purcell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1887, Purcell was a railroad town named after Edward B. Purcell, an official with the Atchison, Topeka and Santa Fe Railway (\"AT&SF\")."
+    },
+    {
+      "cityName": "Purcell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Purcell is often called the \"Quarterhorse Capital of the World\", and its official motto is \"Heart of Oklahoma.\" The city has registered trademarks on both titles."
+    },
+    {
+      "cityName": "Purcell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 6651, a 13% increase from 2010."
+    },
+    {
+      "cityName": "Putnam",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community lies along U S Route 183."
+    },
+    {
+      "cityName": "Quapaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Quapaw (pronounced kwuh-PAW), officially the Town of Quapaw, is a town in Ottawa County, Oklahoma, United States, which serves as the capital of the Quapaw Nation."
+    },
+    {
+      "cityName": "Quapaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated in 1917, Quapaw's population was 811 in 2020."
+    },
+    {
+      "cityName": "Quinton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Elizabeth Quinton, who lived to be 116 years old."
+    },
+    {
+      "cityName": "Quinton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Her family still resides in and around the town of Quinton."
+    },
+    {
+      "cityName": "Quinton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Web address https://townofquinton.com/"
+    },
+    {
+      "cityName": "Ralston",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is southeast of Ponca City on State Highway 18 near the west bank of the Arkansas River."
+    },
+    {
+      "cityName": "Ralston",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ralston (Pawnee: Iri\u00edraatuhukaataku, reetuhruukaataku ) is a town in Pawnee County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Ratliff City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ratliff City was named for Ollie Ratliff, owner of a local garage."
+    },
+    {
+      "cityName": "Ravia",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Red Rock",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Red Rock (Iowa-Oto: Ch\u00edna Ino \u0160\u00faje pronounced \u0129\ua71cno su\ua71cd\u0292\u025b, meaning \"Rock Red town\") is a town in northern Noble County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Red Rock",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The headquarters of the Otoe-Missouria Tribe of Indians is located in Red Rock."
+    },
+    {
+      "cityName": "Redbird",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded at the turn of the 20th century, it was one of more than fifty all-black towns in Oklahoma Territory and Indian Territory and is one of thirteen surviving black communities in Oklahoma."
+    },
+    {
+      "cityName": "Rentiesville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1903 and named for William Rentie, a local landowner."
+    },
+    {
+      "cityName": "Rentiesville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was one of 50 all-black towns in Oklahoma and is one of 13 that still survive."
+    },
+    {
+      "cityName": "Reydon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reydon was established in 1928 after the Atchison, Topeka and Santa Fe Railway put down rails in the area, purchased land from local farmers, and laid out a townsite."
+    },
+    {
+      "cityName": "Reydon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "So the town was named Reydon instead, either in honor of a railroad executive in Chicago, or in honor of the village of Reydon in Suffolk County, England."
+    },
+    {
+      "cityName": "Reydon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The site was two miles north of a settlement called Rankin, and Rankin merchants moved to the site because of the rail connection."
+    },
+    {
+      "cityName": "Reydon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "However, the name \u201cRankin\u201d was considered confusing because Rankin, Texas was also along the railline."
+    },
+    {
+      "cityName": "Reydon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In December 2003 the New York Times featured Reydon on the front page, in an article regarding dwindling small towns on the Great Plains."
+    },
+    {
+      "cityName": "Ringling",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for John Ringling, the founder of the Ringling Brothers Circus."
+    },
+    {
+      "cityName": "Ringling",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 869 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Ringwood",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was given its name because it was once ringed by woods from northwest to southeast."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Edward Ripley, the 14th president of the Atchison, Topeka and Santa Fe Railway."
+    },
+    {
+      "cityName": "Rocky",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town lies along U S Route 183."
+    },
+    {
+      "cityName": "Roosevelt",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for President Theodore Roosevelt."
+    },
+    {
+      "cityName": "Rush Springs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town promotes itself as the \"Watermelon Capital of the World.\" The community's largest event is the annual Rush Springs Watermelon Festival, which attracts about 30000 people each year."
+    },
+    {
+      "cityName": "Rush Springs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "They consume about 50000 pounds of watermelon during this event."
+    },
+    {
+      "cityName": "Ryan",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also known as the birthplace of Chuck Norris."
+    },
+    {
+      "cityName": "Sallisaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census, it had a population of 8510, a 4.2 percent decrease over the figure of 8880 recorded in 2010."
+    },
+    {
+      "cityName": "Sand Springs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A western suburb of Tulsa, it is located predominantly in Tulsa County."
+    },
+    {
+      "cityName": "Sayre",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is halfway between Oklahoma City and Amarillo on Interstate 40 and the former U S Route 66."
+    },
+    {
+      "cityName": "Seminole",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Seminole experienced a large population growth in the 1920s due to an oil boom."
+    },
+    {
+      "cityName": "Sentinel",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Towns near Sentinel are Rocky, Cordell, Canute, and Burnsflat."
+    },
+    {
+      "cityName": "Shawnee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "To the east and northeast, Shawnee is 112 miles (180 km) from the McClellan-Kerr Arkansas River Navigation System, which provides shipping barge access to the Gulf of Mexico."
+    },
+    {
+      "cityName": "Shawnee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With access to Interstate 40, Shawnee is just under 40 miles (64 km) east of downtown Oklahoma City."
+    },
+    {
+      "cityName": "Skedee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Skedee is northwest of Tulsa, northeast of Stillwater, and southeast of Ponca City."
+    },
+    {
+      "cityName": "Skiatook",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Skiatook (Sk\u012b\u00b7\u01ce\u00b7t\u014d\u014dk or Sk\u012b\u00b7\u01ce\u00b7t\u01d2\u01d2k versus Sk\u012b\u00b7t\u014d\u014dk or Sk\u012b\u00b7t\u01d2\u01d2k) is a city in Osage and Tulsa counties in the U S state of Oklahoma located in the northeastern part of the state, approximately 20 miles north and west of Tulsa."
+    },
+    {
+      "cityName": "Skiatook",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Due to its location on the border between Osage County and Tulsa County, Skiatook has been referred to as \"the Gateway to the Osage.\" The town includes the state highway junction of Oklahoma State Highway 11 and Oklahoma State Highway 20."
+    },
+    {
+      "cityName": "Slaughterville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of the area is wooded and has a natural scenic outdoor appeal to residents and visitors."
+    },
+    {
+      "cityName": "Slaughterville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 4163, a 0.6% increase from 2010."
+    },
+    {
+      "cityName": "Slaughterville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is made up of mostly homes on acreages so it has retained a rural type of land use."
+    },
+    {
+      "cityName": "Smithville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 77 at the 2020 census, down from 113 in 2010."
+    },
+    {
+      "cityName": "Smithville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Smithville has the distinction of being the wettest spot in Oklahoma ranked by highest annual average precipitation, at 55.71 inches (1415 mm)."
+    },
+    {
+      "cityName": "Soper",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Pliny L. Soper, who was an attorney for the Arkansas and Choctaw Railway."
+    },
+    {
+      "cityName": "South Coffeyville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the town population was 785."
+    },
+    {
+      "cityName": "South Coffeyville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of Coffeyville, Kansas is located approximately one mile north of the city, existing as a separate political entity."
+    },
+    {
+      "cityName": "Sparks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Oklahoma is located in Sparks."
+    },
+    {
+      "cityName": "Spaulding",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although it was initially established at the turn of the 20th century, it did not incorporate as a town until 1978."
+    },
+    {
+      "cityName": "Spavinaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known as the birthplace of baseball player Mickey Mantle."
+    },
+    {
+      "cityName": "Spavinaw",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also notable for the nearby Lake Spavinaw, the principal source of water for Tulsa."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Established in 1903, the City of Spencer is a historic community located just east of the North Canadian River."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Contributing to the cultural fabric of Spencer are the Spencer Chamber of Commerce, the Facebook page-Whats going on in Spencer Oklahoma, Spencer Senior Center, Spencer Parks Board, and the Spencer Historical Society."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 3978 at the 2020 census, a 1.7% increase from 2010."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Spencer is about 10 miles from downtown Oklahoma City and borders the cities of Nicoma Park to the east and Midwest City to the south."
+    },
+    {
+      "cityName": "Sperry",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is primarily a bedroom community, since approximately 85 percent of the employed residents commute to work in Tulsa and other nearby towns."
+    },
+    {
+      "cityName": "Sperry",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sperry also has an active retirement community."
+    },
+    {
+      "cityName": "Spiro",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Developed as a railroad station in an agricultural area in the late 19th century, the small town is notable for its proximity to the Spiro Mounds."
+    },
+    {
+      "cityName": "Spiro",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the westernmost site of the expansive Mississippian culture, which had associated centers through the Mississippi and tributary river valleys."
+    },
+    {
+      "cityName": "Spiro",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This is a Mississippian culture center that was active from about 900 to 1450 CE that was part of a culture in Eastern Oklahoma and Western Arkansas."
+    },
+    {
+      "cityName": "Spiro",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today, the 80-acre site with several earthwork mounds is preserved as Oklahoma's only State Archeological Park and one of North America's most important archaeological sites."
+    },
+    {
+      "cityName": "Sportsmen Acres",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1972, Sportsmen Acres is primarily a residential community."
+    },
+    {
+      "cityName": "Springer",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the community had 685 residents."
+    },
+    {
+      "cityName": "Stilwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stilwell also serves as a gateway to Lake Tenkiller and Adair Park, formerly called Adair State Park before it was defunded."
+    },
+    {
+      "cityName": "Stilwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Oklahoma governor and legislature proclaimed Stilwell as the \"Strawberry Capital of the World\u201d in 1949, but the role of strawberries in the local economy has diminished since then."
+    },
+    {
+      "cityName": "Stilwell",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, residents of Stilwell are among the poorest and most impoverished in the United States."
+    },
+    {
+      "cityName": "Stonewall",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named for Confederate General Stonewall Jackson, the settlement's post office was established in December 1874."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to Oklahoma statehood in 1907, the town existed under different names and was in the Chickasaw Nation in a geographic region known as Indian Territory."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Peach orchards abound in and around the town."
+    },
+    {
+      "cityName": "Stratford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town\u2019s population was 1405."
+    },
+    {
+      "cityName": "Stringtown",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is notable for the Mack H. Alford Correctional Center, a medium-security prison operated by the Oklahoma Department of Corrections, just outside Stringtown."
+    },
+    {
+      "cityName": "Strong City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town's population was 33."
+    },
+    {
+      "cityName": "Stroud",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 2690."
+    },
+    {
+      "cityName": "Sugden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The townsite is located on what was a ranch established around 1874 by brothers Joseph D. \u201dIkard\u201d Sugg and Eli Calvin \u201cCal\u201d Sugg."
+    },
+    {
+      "cityName": "Sugden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A store named \u201cSugg\u2019s Den\u201d was established there, and a settlement grew around it."
+    },
+    {
+      "cityName": "Sugden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office was added in November 1893, which was designated Sugden."
+    },
+    {
+      "cityName": "Sugden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Said post office closed in November 1955."
+    },
+    {
+      "cityName": "Sulphur",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area around Sulphur has been noted for its mineral springs since well before the city was founded late in the 19th century."
+    },
+    {
+      "cityName": "Sulphur",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city received its name from the presence of sulfur in the water."
+    },
+    {
+      "cityName": "Summit",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is said that the town may have been named Summit because it was the highest point on the railroad between the Arkansas and the North Canadian rivers."
+    },
+    {
+      "cityName": "Summit",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Like many of the other Black towns previously mentioned, Summit was a stopover destination on the Missouri, Kansas and Texas Railway and had a depot in the community."
+    },
+    {
+      "cityName": "Summit",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was originally called \"South Muskogee\" when it was platted in 1910, and is one of 13 all-black towns still surviving at the beginning of the 21st century."
+    },
+    {
+      "cityName": "Summit",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community had a post office as early as 1896."
+    },
+    {
+      "cityName": "Sweetwater",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 102. an increase of 17.2% over the 87 reported in the 2010 census."
+    },
+    {
+      "cityName": "Taft",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for President William Howard Taft."
+    },
+    {
+      "cityName": "Taft",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale began as an all-black town on land allotted to Creek Freedmen."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main campus of Northeastern State University is located in the city."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tahlequah ( TAL-\u0259-kwah; Cherokee: \u13d3\u13b5\u13c6, daligwa ) is a city in Cherokee County, Oklahoma located at the foothills of the Ozark Mountains."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Green Country region of Oklahoma and was established as a capital of the 19th-century Cherokee Nation in 1839, as part of the new settlement in Indian Territory after the Cherokee Native Americans were forced west from the American Southeast on the Trail of Tears."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's population was 15753 at the 2010 census, an increase of 8.96 percent over the figure of 14458 reported in 2000."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The 2019 estimated population is 16819."
+    },
+    {
+      "cityName": "Tahlequah",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Tahlequah is the capital of the two federally recognized Cherokee tribes based in Oklahoma, the modern Cherokee Nation and the United Keetoowah Band of Cherokee Indians."
+    },
+    {
+      "cityName": "Talihina",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the Choctaw Reservation, its name originates from two Choctaw words, tully and hena, meaning \"iron road,\" a reference to the railroad around which the town was built."
+    },
+    {
+      "cityName": "Taloga",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town lies near the southern bank of a bend of the Canadian River, along U S Route 183, approximately thirty-seven miles north of Clinton."
+    },
+    {
+      "cityName": "Tamaha",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tamaha is a Choctaw word meaning \"town.\""
+    },
+    {
+      "cityName": "Tecumseh",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the noted Shawnee chief, Tecumseh."
+    },
+    {
+      "cityName": "Tecumseh",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale was designated as the county seat at Oklahoma's statehood, but a county-wide election moved the seat to Shawnee in 1930."
+    },
+    {
+      "cityName": "Temple",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for the celebrated trial lawyer of Texas and Oklahoma Territory, Temple Lea Houston (1860\u20131905), the youngest son of General Sam Houston."
+    },
+    {
+      "cityName": "Temple",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 5 miles (8.0 km) south and 5 miles (8.0 km) east of Walters, the county seat."
+    },
+    {
+      "cityName": "Terral",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Terral is an agricultural town in Jefferson County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Texhoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded around the Rock Island Railroad laying tracks through the area, much of the town's local economy is from ranching and livestock."
+    },
+    {
+      "cityName": "Texhoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name of the town is a portmanteau of Texas and Oklahoma."
+    },
+    {
+      "cityName": "The Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Village is an enclave city nearly surrounded in full by Oklahoma City, except where it abuts Nichols Hills."
+    },
+    {
+      "cityName": "The Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Village is home to the corporate headquarters of Love's Travel Stops & Country Stores, the OKC Friday community newspaper, and Casady School."
+    },
+    {
+      "cityName": "The Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The City Manager is overseen by an elected Council."
+    },
+    {
+      "cityName": "The Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The position of Mayor rotates among the Council members."
+    },
+    {
+      "cityName": "The Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Village is represented in Congress by Stephanie Bice, in the Oklahoma Senate by Carri Hicks, and in the Oklahoma House by Cyndi Munson."
+    },
+    {
+      "cityName": "Tipton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tipton also is home to Tipton Home, originally called Tipton Orphans' Home, a home for children, established in 1921, when Sol and Maggie Tipton donated a plot of land in Canadian, Texas to the founders."
+    },
+    {
+      "cityName": "Tipton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Tipton Church of Christ moved the home to Tipton in 1924, where it still operated into the 21st century."
+    },
+    {
+      "cityName": "Tishomingo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Murray State College, a community college with an annual enrollment of 3000 students."
+    },
+    {
+      "cityName": "Tishomingo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the first capital of the Chickasaw Nation, from 1856 until Oklahoma statehood in 1907."
+    },
+    {
+      "cityName": "Tishomingo",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Tishomingo is part of the Texoma region."
+    },
+    {
+      "cityName": "Tribbey",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tribbey is a town in Pottawatomie County, Oklahoma, United States.The community was named for Alpheus M. Tribbey, landowner."
+    },
+    {
+      "cityName": "Tribbey",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The locale is old enough to appear on a 1911 Rand McNally map of the county."
+    },
+    {
+      "cityName": "Tryon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after early land owner Fred S. Tryon."
+    },
+    {
+      "cityName": "Tryon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tryon (Iowa-Oto: Ah\u00e9ri Ch\u00edna^i\u00f1e, meaning: \"On-hill town little\") is a town in Lincoln County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Tullahassee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tullahassee is considered the oldest of the surviving all-black towns in former Indian Territory."
+    },
+    {
+      "cityName": "Tullahassee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was the location of Tullahassee Mission, an Indian boarding school that burned in 1880."
+    },
+    {
+      "cityName": "Tullahassee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Because their population in the community had declined, the Muscogee Creek gave the school to Creek Freedmen, paying to replace the main building, and relocated with their families to the area of Wealaka Mission."
+    },
+    {
+      "cityName": "Tullahassee",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "By 1880 Creek Freedmen and their descendants dominated the community population."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Considered the cultural and arts center of Oklahoma, Tulsa houses two accredited art museums, full-time professional opera and ballet companies, and one of the nation's largest concentrations of art deco architecture."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Two institutions of higher education within the city have sports teams at the NCAA Division I level: the University of Tulsa and Oral Roberts University."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In addition, the University of Oklahoma has a secondary campus at the Tulsa Schusterman Center, and Oklahoma State University has a secondary campus located in downtown Tulsa."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "For most of the 20th century, the city held the nickname \"Oil Capital of the World\" and played a major role as one of the most important hubs for the American oil industry."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Historically, a robust energy sector fueled Tulsa's economy; however, today the city has diversified and leading sectors include finance, aviation, telecommunications, and technology."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Tulsa ( TUL-s\u0259) is the second-most-populous city in the U S state of Oklahoma and the 48th-most populous city in the United States."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is also commonly known as Paris of Oklahoma.The population was 413066 as of the 2020 census."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Tulsa was settled between 1828 and 1836 by the Lochapoka band of Creek Native Americans, and was formally incorporated in 1898."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Most of Tulsa is still part of the territory of the Muscogee (Creek) Nation."
+    },
+    {
+      "cityName": "Tulsa",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Northwest Tulsa lies in the Osage Nation whereas North Tulsa is within the Cherokee Nation."
+    },
+    {
+      "cityName": "Tuskahoma",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the former seat of the Choctaw Nation government prior to Oklahoma statehood."
+    },
+    {
+      "cityName": "Twin Oaks",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A tornado hit the town on March 12, 2006, destroying 42 homes and injuring 8 people in Delaware County."
+    },
+    {
+      "cityName": "Verden",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It abuts the Caddo County line, and is probably best known as the site of the 1865 Camp Napoleon Council."
+    },
+    {
+      "cityName": "Verdigris",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It straddles former U S Highway 66 (now State Highway 66) between Catoosa and Claremore."
+    },
+    {
+      "cityName": "Verdigris",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Verdigris had a population of 3993 at the 2010 census, an increase of 92.9 percent from 2070 at the 2000 census."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 2005."
+    },
+    {
+      "cityName": "Vernon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its first recorded population by the U S Census Bureau was an estimated 33 as of the 2023 American Community Survey."
+    },
+    {
+      "cityName": "Vian",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vian (Cherokee: \u13d3\u13c4\u13aa\u13a2, romanized: da-hnu-go-i, lit."
+    },
+    {
+      "cityName": "Vici",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "No information appears on the origins of the town name, but Vici is Latin for \u201cI conquered.\u201d"
+    },
+    {
+      "cityName": "Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Village is an enclave city nearly surrounded in full by Oklahoma City, except where it abuts Nichols Hills."
+    },
+    {
+      "cityName": "Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Village is home to the corporate headquarters of Love's Travel Stops & Country Stores, the OKC Friday community newspaper, and Casady School."
+    },
+    {
+      "cityName": "Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The City Manager is overseen by an elected Council."
+    },
+    {
+      "cityName": "Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The position of Mayor rotates among the Council members."
+    },
+    {
+      "cityName": "Village",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Village is represented in Congress by Stephanie Bice, in the Oklahoma Senate by Carri Hicks, and in the Oklahoma House by Cyndi Munson."
+    },
+    {
+      "cityName": "Vinita",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 5193."
+    },
+    {
+      "cityName": "Wagoner",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wagoner became the first city incorporated in Indian Territory on January 4, 1896."
+    },
+    {
+      "cityName": "Wainwright",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for a local merchant, William Henry Wainwright."
+    },
+    {
+      "cityName": "Wakita",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded on September 16, 1893."
+    },
+    {
+      "cityName": "Wakita",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 311 at the 2020 census, a decrease of 9.5 percent (from 344) at the 2010 census."
+    },
+    {
+      "cityName": "Walters",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2412 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Walters",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's motto is \"Small Town; Big Heart\"."
+    },
+    {
+      "cityName": "Wann",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wann is known for the \"Six Flag Poles Over Wann America\"."
+    },
+    {
+      "cityName": "Wapanucka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is about 20 miles (32 km) northeast of Tishomingo."
+    },
+    {
+      "cityName": "Wapanucka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town name refers to the Delaware Nation and means \"Eastern Land People.\""
+    },
+    {
+      "cityName": "Warner",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to one of the two Connors State College campuses."
+    },
+    {
+      "cityName": "Warr Acres",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established after World War II by C B Warr, a dynamic businessman, builder, and commercial developer."
+    },
+    {
+      "cityName": "Warr Acres",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Putnam City School District Administration is located in Warr Acres, as are several Putnam City schools including Putnam City High School."
+    },
+    {
+      "cityName": "Watonga",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 70 miles northwest of Oklahoma City."
+    },
+    {
+      "cityName": "Watts",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for John Watts, also known as Young Tassel, a Chickamauga Cherokee chief, who died in 1802."
+    },
+    {
+      "cityName": "Waurika",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Waurika Chamber of Commerce website in 2020 echoed that the town was \"once a parakeet paradise,\" but currently seems to be promoting the motto On The Trail, By The Lake, complete with a logo of a cowboy bronc-riding a fish."
+    },
+    {
+      "cityName": "Waurika",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An article from 1985 in The Oklahoman claimed that Waurika promoted itself as \"The Parakeet Capital of the World,\" while giving no explanation for using this slogan."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wayne is part of the \"Heart of Oklahoma\" exurban area south of Norman and Oklahoma City."
+    },
+    {
+      "cityName": "Weatherford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Stafford Air & Space Museum honors astronaut Thomas P. Stafford."
+    },
+    {
+      "cityName": "Weatherford",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Route 66 follows Main Street through the city."
+    },
+    {
+      "cityName": "Webb City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for its founder, Horace Webb, on whose land the town was founded."
+    },
+    {
+      "cityName": "Webb City",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Webb City post office opened December 16, 1922."
+    },
+    {
+      "cityName": "Webbers Falls",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name comes from a seven-foot waterfall in the Arkansas River named in honor of Walter Webber, a Cherokee chief who established a trading post here in 1818."
+    },
+    {
+      "cityName": "Webbers Falls",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was a leader among the Western Cherokee, also called \"Old Settlers\"."
+    },
+    {
+      "cityName": "Webbers Falls",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "They had a treaty with the United States government by 1828, which helped settle some conflicts with the Osage people, who had been forced to give up land to the Cherokee."
+    },
+    {
+      "cityName": "Webbers Falls",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the late 1830s and 1840, thousands of Cherokee from the Southeast were forcibly moved into Indian Territory as a result of the US policy of Indian Removal."
+    },
+    {
+      "cityName": "Welch",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 8 miles (13 km) south of the Kansas state line, at the intersection of state highways 2 and 10 with U S Highway 59."
+    },
+    {
+      "cityName": "Weleetka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 10 miles (16 km) southeast of Okemah, the county seat."
+    },
+    {
+      "cityName": "Weleetka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is a Creek word meaning \"running water.\" The population was 806 at the time of the 2020 census."
+    },
+    {
+      "cityName": "West Siloam Springs",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A bedroom community for Siloam Springs, Arkansas, it is notable for its Cherokee casino, and is the closest town to Natural Falls State Park."
+    },
+    {
+      "cityName": "Westville",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westville lies at the junction of U S Highways 59 and 62, and approximately 13 miles north of Stilwell, the county seat."
+    },
+    {
+      "cityName": "Wetumka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Muscogee Creek who first settled it after removal in the 1830s named it for their ancestral town of Wetumpka in Alabama."
+    },
+    {
+      "cityName": "Wetumka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wetumka is a Muskogee language word meaning \"rumbling waters.\" In the 21st century, it is the headquarters for two federally recognized tribes, the Alabama-Quassarte Tribal Town and the Kialegee Tribal Town."
+    },
+    {
+      "cityName": "Wetumka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town holds Sucker Day annually, on the last Saturday in September."
+    },
+    {
+      "cityName": "Wewoka",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded by John Coheia, a Black Seminole, and Black Seminoles in January 1849, Wewoka is the capital of the Seminole Nation of Oklahoma."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Methodist bishop George Whitefield (1714 - 1770)."
+    },
+    {
+      "cityName": "Wilburton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Robbers Cave State Park is 5 miles (8.0 km) north of Wilburton."
+    },
+    {
+      "cityName": "Wilburton",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city had a population of 2285 as of the 2020 Census."
+    },
+    {
+      "cityName": "Willis",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Willis is located in the far southern portion of the county near Lake Texoma and is 14.5 miles (23.3 km) south-southwest of Madill."
+    },
+    {
+      "cityName": "Willis",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Route 377 passes near the community to the west."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to one of the oldest Assemblies of God churches in Oklahoma, the Wilson Assembly of God Church."
+    },
+    {
+      "cityName": "Wilson",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the community had 1399 residents."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a recently built residential community, having incorporated February 18, 1974."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This is not to be confused with the old settlement of Winchester in Woods County, Oklahoma near the Kansas border, west of the present-day U S Route 281 and west-southwest of Hardtner, Kansas."
+    },
+    {
+      "cityName": "Wister",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wister is named for Gutman G. Wister, an official with the Choctaw, Oklahoma and Gulf Railroad."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boiling Springs State Park, named for its artesian springs that seem to boil, has been established east of the city."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area was historically occupied by the Kiowa, Comanche, Cheyenne and Arapaho tribes."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "European-American settlers established the town in 1887 after construction of the railroad to that point for shipping cattle to markets."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town was on the Great Western Cattle Trail."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the 19th century, it was one of the most important depots in the Oklahoma Territory for shipping cattle to the East."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As an important cattle town, it had the rough frontier bawdiness of the time."
+    },
+    {
+      "cityName": "Woodward",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The United States opened up much of the area to European-American settlement by the Land Run of 1893, and migrants rushed into the area."
+    },
+    {
+      "cityName": "Wyandotte",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is the tribal headquarters of the Wyandotte Nation of Oklahoma, for which the town was named."
+    },
+    {
+      "cityName": "Wynnewood",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in what was then the Chickasaw Nation of Indian Territory, it began as a village called \"Walner\" in 1886, on the proposed route of the Gulf, Colorado and Santa Fe Railway."
+    },
+    {
+      "cityName": "Wynnewood",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Railroad workers from Pennsylvania named the community for Wynnewood, a community outside of Philadelphia."
+    },
+    {
+      "cityName": "Wynnewood",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is 67 miles (108 km) south of Oklahoma City."
+    },
+    {
+      "cityName": "Wynnewood",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name became official on April 6, 1887."
+    },
+    {
+      "cityName": "Wynona",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded by a local Osage-Cherokee rancher, Antoine Rogers, in 1903."
+    },
+    {
+      "cityName": "Wynona",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wynona is an incorporated town in central Osage County, Oklahoma, United States."
+    },
+    {
+      "cityName": "Wynona",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the community had 370 residents."
+    },
+    {
+      "cityName": "Yeager",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Developed in the early 1900s, the town grew with the help of an oil and gas field, but has always had a low population."
+    },
+    {
+      "cityName": "Yukon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically, Yukon served as an urban center for area farmers and the site of a milling operation."
+    },
+    {
+      "cityName": "Yukon",
+      "state": "OK",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in the 1890s, the town was named in reference to a gold rush in Yukon Territory, Canada, at the time."
+    }
+  ]
+}

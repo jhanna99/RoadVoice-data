@@ -1,0 +1,830 @@
+{
+  "facts": [
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1973, the entire village was listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2003, they were also listed on the NRHP as the Ardens Historic District."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arden is a village in New Castle County, Delaware, United States, founded in 1900 as a radical Georgist single-tax community by sculptor Frank Stephens and architect William Lightfoot Price."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village occupies approximately 160 acres, with half kept as open land."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "According to the 2010 census, the population of the village is 439."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Two neighboring villages of similar size were founded on Georgist principles, Ardentown, in 1922, and Ardencroft, in 1950."
+    },
+    {
+      "cityName": "Arden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Many Ardenites, as the villagers of Arden are called, consider themselves to be \"close-knit, nature-loving, liberal, tolerant, free-spirited, artistic, intellectual, even ex-hippie\"."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The outspoken Young was famous for having joined the NAACP in 1912 at the age of 12, lectured and worked conferences with W. E. B. Du Bois in the 1930s, and in 1965 marched with Martin Luther King Junior in Alabama."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village was founded in 1950 as an outgrowth of Arden and Ardentown with a conceptual lifestyle based on Henry George's single tax movement and William Morris's arts and crafts principles."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2020 census, the population of the village is 226."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The last of seventeen land trusts founded between 1894 and 1950, Ardencroft's tax structure is based on the single tax economic philosophy of Henry George."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As a result, a person's house is not taxed, only the land it sits on, which is owned by a charitable trust and managed by three directors."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Half the land is woods and open space."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Footpaths criss-cross the village."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "At its founding in 1950, Ardencroft formally encouraged minorities to settle there, seeking families that wanted to live in an integrated setting."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The nearby, former Arden School (now the Buzz Ware Village Center) also allowed integration around this time, prior to many of the changes enacted by the Civil Rights Movement."
+    },
+    {
+      "cityName": "Ardencroft",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Civil rights and suffragist activist, prolific writer, pilot, librarian, lecturer, and educator Pauline A. Young (1900 to 1991) moved into Ardencroft around this time."
+    },
+    {
+      "cityName": "Ardentown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ardentown was founded by Donald Stephens in 1922 as an outgrowth of Arden with a conceptual lifestyle based on Henry George's Single tax movement and William Morris\u2019s Arts and Crafts principles."
+    },
+    {
+      "cityName": "Ardentown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 Census, the population of the village is 264."
+    },
+    {
+      "cityName": "Ardentown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "\"Don\" Stephens is the son of Arden's founder Frank Stephens."
+    },
+    {
+      "cityName": "Bear",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally a small crossroads in a rural area, approximately 14 miles (23 km) south of Wilmington, the area supported small farms growing mainly corn and cattle."
+    },
+    {
+      "cityName": "Bear",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the late 1980s and 1990s Bear became a popular location for the construction of sprawling housing developments and shopping centers along U S Route 40."
+    },
+    {
+      "cityName": "Bear",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Much of Bear runs along the highway, and extends to approximately Delaware Route 896."
+    },
+    {
+      "cityName": "Bellefonte",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 Census, the population of the town is 1225."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite its small size, Bethany Beach contains the usual attractions of a summer seaside resort, including the short Joseph Olson Boardwalk, a broad, sandy beach, motels, restaurants, and vacation homes."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Contributing to Bethany Beach's reputation as a \"quiet\" place is the presence of Delaware Seashore State Park immediately to the north of the town."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bethany Beach, South Bethany and Fenwick Island are popularly known as \"The Quiet Resorts\"."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bethany Beach is an incorporated town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Because Bethany Beach does not sit on a barrier island, residential areas continue some distance to the west of the town's limits."
+    },
+    {
+      "cityName": "Bethany Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "According to the 2010 Census Bureau figures, the population of the town is 1060; however, during the summer months some 15000 more populate the town as vacationers."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to 2020 Census Bureau figures, the population of the town is 239."
+    },
+    {
+      "cityName": "Blades",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 1179."
+    },
+    {
+      "cityName": "Bowers",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, its population was 278."
+    },
+    {
+      "cityName": "Bridgeville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population is 2568."
+    },
+    {
+      "cityName": "Christiana",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Christiana Hospital and the Christiana Mall and is the location of the northern terminus of Delaware Route 1 at an interchange with Interstate 95."
+    },
+    {
+      "cityName": "Christiana",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Despite sharing a name with Christiana Hundred, the community of Christiana is located in White Clay Creek Hundred."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Blackwater Presbyterian Church and Spring Banke near Clarksville are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is centered, more or less, along Delaware Route 26."
+    },
+    {
+      "cityName": "Claymont",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 U S census, the population of Claymont was 9895."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located almost entirely in Kent County, it is part of the Dover, Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Delmar",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its motto is \"The Little Town Too Big for One State.\" The population was 1597 at the 2010 census, an increase of 13.5% over the previous decade."
+    },
+    {
+      "cityName": "Delmar",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When added with Delmar, Maryland, the total population of the town was 4600 at the 2010 Census."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dewey Beach is an incorporated coastal town in eastern Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2011, the NRDC awarded Dewey Beach with a 5-Star rating in water quality."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This award was given only to 12 other locations, one being neighboring Rehoboth Beach."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Out of the 30 states with coastline, the Delaware Beaches ranked number 1 in water quality in 2011."
+    },
+    {
+      "cityName": "Dewey Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "According to the 2010 census, the population of the town is 341, an increase of 13.3% over the previous decade."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dover ( DOH-v\u0259r) is the capital and the second-most populous city of the U S state of Delaware, after Wilmington."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named by William Penn for Dover in Kent, England (for which Kent County is named)."
+    },
+    {
+      "cityName": "Dover",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2020, its population was 39403."
+    },
+    {
+      "cityName": "Elsmere",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 Census, the population of the town is 6131."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population of the town is 6422, an increase of 38.3% over the previous decade."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Georgetown is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is also home to the private residence of Joe Biden, the 46th president of the United States, and many Du Pont family descendants."
+    },
+    {
+      "cityName": "Harbeson",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 36 feet (11 m)."
+    },
+    {
+      "cityName": "Harbeson",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harbeson is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Harrington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrington hosts the annual Delaware State Fair each July."
+    },
+    {
+      "cityName": "Henlopen Acres",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to 2010 census figures, the population of the town is 122, a 12.2% decrease from the 2000 census."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for John W. Houston."
+    },
+    {
+      "cityName": "Houston",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after John W. Houston who was Delaware's Secretary of State from 1841 to 1844."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It once hosted the Laurel Blue Hens of the Eastern Shore Baseball League."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Along with neighboring Rehoboth Beach, Lewes is one of the principal cities of Delaware's rapidly growing Cape Region."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lewes ( LOO-\u0259ss) is an incorporated city on the Delaware Bay in eastern Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2020 census, its population was 3303."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city lies within the Salisbury, Maryland\u2013Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lewes",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lewes proudly claims to be \"The First Town in The First State.\""
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was never incorporated, but streets were laid out and several businesses and residences came, surrounding the current Delmarva Central Railroad line."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lincoln was formerly the headquarters of the Delaware Coast Line Railroad."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The planner who originally laid out the town planned for it to become the county seat."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lincoln lies on U S Route 113 between Ellendale and Milford."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Recently there has been a push to incorporate Lincoln, primarily for two reasons."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "First, the city of Milford is quickly growing towards Lincoln and could eventually envelop the town."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Recent estimates put the population at around 235, however, the population was 277 at the 2020 census."
+    },
+    {
+      "cityName": "Marshallton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was founded in 1836 and is named for John Marshall, mill owner."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2021 Census, the population of the town is 24164."
+    },
+    {
+      "cityName": "Milton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delaware Route 5 passes through Milton."
+    },
+    {
+      "cityName": "New Castle",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, the city's population was 5551."
+    },
+    {
+      "cityName": "Newark",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to the University of Delaware, it is located 8 miles (13 km) west-southwest of Wilmington and 28 miles (45 km) southwest of Philadelphia."
+    },
+    {
+      "cityName": "Newark",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, the town's population is 30601."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known for being the home of colonial inventor Oliver Evans."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the Christina River."
+    },
+    {
+      "cityName": "Newport",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Four limited access highways, I-95, I-295, I-495, and Delaware Route 141 intersect within one mile (1.6 km) of the town."
+    },
+    {
+      "cityName": "Ocean View",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ocean View is fast becoming a bedroom community for the neighboring summer resort of Bethany Beach."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today a significant part of the town is a historic district list on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded as Cantwell's Bridge in the 18th century, the name was changed in the 19th century, after the Ukrainian port city of the same name."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Local attractions include Middle Run Natural Area, White Clay Creek State Park, Carousel Farm Park and Equestrian Center, Golf and Restaurants."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pike Creek is connected to the University of Delaware campus and the Newark downtown area by several bike trails."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pike Creek is approximately 10 miles (16 km) west of the state's largest city, Wilmington, which is a national financial center."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pike Creek is approximately five miles from downtown Newark, which contains the University of Delaware."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 2007, CNN's Money Magazine ranked Pike Creek number 1 on its list of the 100 Best Places to Live in the United States."
+    },
+    {
+      "cityName": "Pike Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Pike Creek was the only community in Delaware to appear on the list."
+    },
+    {
+      "cityName": "Pike Creek Valley",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 11217 as of the 2010 census."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As a popular, affluent vacation destination, especially for the communities of Washington, D.C., Baltimore, and Philadelphia, Rehoboth Beach has many summer homes, including one owned by the 46th U S President Joe Biden."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with the neighboring coastal town of Lewes, Rehoboth Beach is one of the principal cities of Delaware's rapidly growing Cape Region."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "During on-season, i.e., during the summer, Rehoboth Beach's population expands to over 25000 within the city limits and thousands more in the surrounding area."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2011, the NRDC awarded Rehoboth Beach with a 5-Star rating in water quality."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "This award was only given to 12 other locations, one being neighboring Dewey Beach."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Out of the 30 states with coastline, the Delaware Beaches ranked number one for water quality in 2011."
+    },
+    {
+      "cityName": "Rehoboth",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of 2020, its population was 1108."
+    },
+    {
+      "cityName": "Seaford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 Census Bureau figures, the population of the city is 6928, an increase of 3.4% from the 2000 census."
+    },
+    {
+      "cityName": "Selbyville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2167 at the 2010 census, an increase of 31.7% over the previous decade."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The international jurist John Bassett Moore was born in Smyrna, as were politicians Louis McLane and James Williams."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the U S Census Bureau, as of 2020, the population of the town is 12883."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Bethany is popularly considered one of \"The Quiet Resorts\", along with its direct neighbor to the north, Bethany Beach, and its neighbor to the south, Fenwick Island."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "To the south, South Bethany is insulated from busy Ocean City, Maryland, by Fenwick Island State Park and Fenwick Island itself."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This is in contradistinction to the crowded atmosphere of the more popular Dewey Beach and the cosmopolitan bustle of nearby Rehoboth Beach."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Unlike Bethany Beach and neighboring Fenwick Island, South Bethany is almost exclusively residential."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It refers to itself as \"The Best Little Beach in Delaware.\""
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "South Bethany is an incorporated town in Sussex County, Delaware, United States."
+    },
+    {
+      "cityName": "South Bethany",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "According to the 2010 census, the population of the town is 449, a decrease of 8.7% over the previous decade."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Delaware is located in Townsend."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Control of the area shifted before it was formally incorporated as the Village of Willingtown in 1731, then later granted Borough Charter within the Delaware Colony as Wilmington in 1739, named after Spencer Compton, 1st Earl of Wilmington."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Throughout the 18th and 19th centuries, Wilmington developed as an industrial hub with industries in shipbuilding, milling, and later chemical manufacturing, largely influenced by DuPont."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It lies at the confluence of the Christina River and Brandywine Creek, near where the Christina flows into the Delaware River."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "First settled by Swedish settlers in 1638, the modern city of Wilmington was built on the site of Fort Christina, which was the first Swedish settlement in North America, and Kristinehamn, which was planned to be the capital of New Sweden."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its modern economy is focused on national banking and finance institutions."
+    },
+    {
+      "cityName": "Wyoming",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the Wyoming Valley in Pennsylvania."
+    }
+  ]
+}

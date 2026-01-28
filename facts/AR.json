@@ -1,0 +1,4533 @@
+{
+  "facts": [
+    {
+      "cityName": "Alexander",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in Central Arkansas, the town was founded as a construction camp for the nearby railroad."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Following its completion, the citizens decided to incorporate in 1887."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Alexander is home to the Arkansas Juvenile Assessment and Treatment Center."
+    },
+    {
+      "cityName": "Allport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although a black enclave in the largely-white Lonoke County since the 1870s, the town did not incorporate until 1967 in order to receive funding for municipal services."
+    },
+    {
+      "cityName": "Allport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located within Central Arkansas along Highway 165, the community's economy is strongly tied to agriculture."
+    },
+    {
+      "cityName": "Alma",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Interstates 40 and 49 were constructed to intersect near the existing city."
+    },
+    {
+      "cityName": "Altheimer",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 984, down from 1192 at the 2000 census."
+    },
+    {
+      "cityName": "Altheimer",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2018 the estimated population was 829 and was down to 696 in the 2020 Census, with zero change estimated in 2021 and 2022."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although founded as a coal mining community, the wine industry has driven the Altus economy since the first vineyards were planted in 1872."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. Mary's Catholic Church was built in 1902 and is known for its beautiful paintings, ornate gold leaf walls, and Roman architecture."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Altus is located within the Arkansas River Valley at the edge of the Ozark Mountains."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Altus is the site of Our Lady of Perpetual Help Church (St. Mary's Catholic Church), which is on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The epicenter of the Altus American Viticultural Area (AVA) within Arkansas Wine Country, the city is home to four wineries."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 2020, the population was 669 and was estimated as unchanged in 2021 and 2022."
+    },
+    {
+      "cityName": "Altus",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Altus was the location for the first season of the television show The Simple Life, starring Paris Hilton and Nicole Richie."
+    },
+    {
+      "cityName": "Amagon",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the birthplace of former Governor of Arkansas Mike Beebe."
+    },
+    {
+      "cityName": "Amity",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city began on the Caddo River in the mid-19th century when William F. Browning and others, including A B Clingman, at various times moved to the area."
+    },
+    {
+      "cityName": "Arkadelphia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Two universities, Henderson State University and Ouachita Baptist University, are located here."
+    },
+    {
+      "cityName": "Arkadelphia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 10380."
+    },
+    {
+      "cityName": "Arkadelphia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arkadelphia was incorporated in 1857."
+    },
+    {
+      "cityName": "Arkansas",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arkansas City Commercial District, located at Desoto Avenue and Sprague Street, is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Arkansas",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 345 at the 2024 Census estimate, it is the least populous county seat in Arkansas."
+    },
+    {
+      "cityName": "Arkansas City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arkansas City Commercial District, located at Desoto Avenue and Sprague Street, is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Arkansas City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 345 at the 2024 Census estimate, it is the least populous county seat in Arkansas."
+    },
+    {
+      "cityName": "Ashdown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located within the Arkansas Timberlands between the Little River and the Red River, Ashdown's economy and development have historically been tied to the timber industry."
+    },
+    {
+      "cityName": "Ashdown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's well-preserved history and proximity to outdoor recreation, such as Millwood State Park, draws tourists."
+    },
+    {
+      "cityName": "Ashdown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Timber is still a major industry here."
+    },
+    {
+      "cityName": "Ashdown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community was incorporated in 1892 and has been the county seat since 1906."
+    },
+    {
+      "cityName": "Ashdown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ashdown's population at the 2020 census was 4261, a slight from the 2010 census."
+    },
+    {
+      "cityName": "Avoca",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the town of Avoca in Ireland."
+    },
+    {
+      "cityName": "Banks",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population was 87."
+    },
+    {
+      "cityName": "Barling",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census the population was 4782, ranking it eighth in the Greater Fort Smith Area."
+    },
+    {
+      "cityName": "Barling",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Barling was incorporated in 1956."
+    },
+    {
+      "cityName": "Batesville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city serves as a regional manufacturing and distribution hub for the Ozark Mountain region and Northeast Arkansas."
+    },
+    {
+      "cityName": "Batesville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 Census, the population of the city was 11191."
+    },
+    {
+      "cityName": "Bauxite",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population boomed during expanded aluminium production during World War II and shrank rapidly with output of the ore."
+    },
+    {
+      "cityName": "Bauxite",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located within Central Arkansas, the city is named for bauxite, the source ore for aluminum, which was found in abundant quantities in the area and became a source of aluminium refining."
+    },
+    {
+      "cityName": "Bauxite",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bauxite was incorporated as a town in 1973."
+    },
+    {
+      "cityName": "Bay",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beaver Lake is a man-made reservoir in the Ozark Mountains of Northwest Arkansas and is formed by a dam across the White River."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With towering limestone bluffs, natural caves, and a wide variety of trees and flowering shrubs, it is a popular tourist destination."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Beaver Lake has some 487 miles (784 km) of shoreline."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Beaver Lake is the source of drinking water in Northwest Arkansas, which is managed, treated and sold by Beaver Water District, serving more than 450000 customers."
+    },
+    {
+      "cityName": "Beaver",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "One out of 7 people in Arkansas get their drinking water from Beaver Lake."
+    },
+    {
+      "cityName": "Bee Branch",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 293."
+    },
+    {
+      "cityName": "Bee Branch",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "More than 70% of the local population consist of married couples."
+    },
+    {
+      "cityName": "Bee Branch",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The majority of the population were born out-of-state and exclusively speak the English language."
+    },
+    {
+      "cityName": "Bee Branch",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The nearest towns are Clinton and Fairfield Bay."
+    },
+    {
+      "cityName": "Beebe",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "ASU-Beebe also has branch campuses in Heber Springs and Searcy and at Little Rock Air Force Base."
+    },
+    {
+      "cityName": "Beebe",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Arkansas State University-Beebe."
+    },
+    {
+      "cityName": "Bella Vista",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community has taken advantage of the natural setting within the Springfield Plateau of the Ozark Mountains since first established in 1917 as a summer resort destination."
+    },
+    {
+      "cityName": "Bella Vista",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The oak/hickory forests, valleys, creeks, and steep rises that characterize the city's topography have slowly given way to a series of reservoirs, golf courses, and other amenities."
+    },
+    {
+      "cityName": "Bella Vista",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located within the Northwest Arkansas region, the city has been experiencing a population and building boom in recent years, as indicated by an 82% growth in population between the 2000 and 2020 censuses, largely as a bedroom community for nearby Bentonville and Rogers."
+    },
+    {
+      "cityName": "Bella Vista",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Residents voted to incorporate in 2006, supplanting the POA with municipal government for most essential services."
+    },
+    {
+      "cityName": "Bellefonte",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bellefonte gained national attention in 2013 when the city's mayor, James Wiggs, was recognized as the oldest active mayor in the United States at 90 years of age."
+    },
+    {
+      "cityName": "Benton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Little Rock, it was established in 1837."
+    },
+    {
+      "cityName": "Benton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of Benton, first settled in 1833 and named after Missouri Senator Thomas Hart Benton, was formally chartered in 1836 when Arkansas became a state."
+    },
+    {
+      "cityName": "Bentonville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the birthplace and headquarters of Walmart, the world's largest retailer."
+    },
+    {
+      "cityName": "Bentonville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is centrally located in the county with Rogers adjacent to the east."
+    },
+    {
+      "cityName": "Bentonville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city proper had a population of 54164 at the 2020 census, making it the ninth-most populous city in Arkansas."
+    },
+    {
+      "cityName": "Bentonville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bentonville is one of the fastest-growing cities in the state."
+    },
+    {
+      "cityName": "Berryville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "making it the largest city in Carroll County."
+    },
+    {
+      "cityName": "Berryville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with Eureka Springs, it is one of the two county seats of Carroll County."
+    },
+    {
+      "cityName": "Bethel Heights",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town offered police and fire protection and wastewater service to residents, but sent students to Springdale Public Schools and purchased water from Springdale Water Utilities."
+    },
+    {
+      "cityName": "Bethel Heights",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Growth put pressure on the city's subsurface discharge wastewater treatment system, and following a series of wastewater treatment plant violations, voters dissolved the city and completely annexed into Springdale in August 2020."
+    },
+    {
+      "cityName": "Bethel Heights",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bethel Heights was a city in Benton County, Arkansas, United States."
+    },
+    {
+      "cityName": "Bethel Heights",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Always a small, sparsely populated community, the region coalesced around a school named Bethel in the late 19th century but did not incorporate until 1967 to avoid annexation by larger neighboring communities."
+    },
+    {
+      "cityName": "Bethel Heights",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "By the 21st century, Northwest Arkansas was gaining population rapidly, and Bethel Heights reincorporated as a city and grew from a population of 714 in 2000 to 2372 at the 2010 census."
+    },
+    {
+      "cityName": "Bigelow",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Based largely on the timber industry, the town grew until the lumber mills were closed in 1920."
+    },
+    {
+      "cityName": "Bigelow",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Central Arkansas near the confluence of the Fourche La Fave River and Arkansas River, the community was incorporated in 1905 as Esau."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 229."
+    },
+    {
+      "cityName": "Black Oak",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Blue Eye",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blue Eye is an incorporated town in Carroll County, Arkansas, United States."
+    },
+    {
+      "cityName": "Blue Eye",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Blue Eye, Arkansas, is adjacent to Blue Eye, Missouri."
+    },
+    {
+      "cityName": "Blytheville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blytheville is one of two county seats of and the largest city in Mississippi County, Arkansas, United States."
+    },
+    {
+      "cityName": "Blytheville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is approximately 60 miles (100 km) north of West Memphis."
+    },
+    {
+      "cityName": "Boles",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 166."
+    },
+    {
+      "cityName": "Boles",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Boles is located on U S Route 71, 8.5 miles (13.7 km) south-southeast of Waldron."
+    },
+    {
+      "cityName": "Bono",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bono's most prominent landmarks are the Bono Bridge and the Bono Cemetery."
+    },
+    {
+      "cityName": "Bono",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hunting, fishing, camping, hiking, and other outdoors activities are readily available in nearby national forests and state parks."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the Arkansas River Valley between the Ouachita and Ozark Mountains, the city is one of the oldest in western Arkansas."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's economy was first based upon the railroad and Arkansas State Tuberculosis Sanatorium."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It has developed a diverse economy of small businesses and light industry."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Booneville's population was 3809 at the 2020 census."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Booneville supports a community center, a senior-citizens center, a community hospital, a municipal airport, and new school facilities."
+    },
+    {
+      "cityName": "Brinkley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has historically been a transportation and agricultural center in the region, more recently developing a reputation for outdoors recreation and the ivory-billed woodpecker."
+    },
+    {
+      "cityName": "Brinkley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located within the Arkansas Delta, Brinkley was founded as a railroad town in 1872."
+    },
+    {
+      "cityName": "Brinkley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 2700, down from 3188 in 2010."
+    },
+    {
+      "cityName": "Brinkley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Birding has become important to the city and region following the purported discovery of the ivory-billed woodpecker in 2004, a species thought to be extinct 60 years earlier."
+    },
+    {
+      "cityName": "Brinkley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located halfway between Little Rock and Memphis, the city has used the slogan \"We'll Meet You Half-Way\" in some of its advertising campaigns."
+    },
+    {
+      "cityName": "Brookland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "(Estimated population as of 2026 is 4854)."
+    },
+    {
+      "cityName": "Brookland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bryant",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the city was 20663."
+    },
+    {
+      "cityName": "Bull Shoals",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bull Shoals is a city in Marion County, Arkansas, United States, founded in 1954."
+    },
+    {
+      "cityName": "Bull Shoals",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Primarily a retirement and vacation center, Bull Shoals is bordered in three directions by the clear, deep, man-made Bull Shoals Lake."
+    },
+    {
+      "cityName": "Cale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Cale Wardell."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city became an important port during the steamboat era when Camden became known as the \u201cQueen City\u201d of the Ouachita."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1864, Camden became the unintended focus of the Red River Campaign, a major Civil War effort resulting in several significant battles."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated on bluffs overlooking the Ouachita River, the city developed because of the river."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The recorded history began in 1782 when a Spanish military post was established on the site of an old French trading post called \u00c9core \u00e0 Fabri."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "When Ouachita County was formed in 1842, American settlers changed the name to Camden."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 2020, Camden had a population of 10612, down from its 2010 population of 12183."
+    },
+    {
+      "cityName": "Caraway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carlisle was incorporated in 1878."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census it had a population of 2033."
+    },
+    {
+      "cityName": "Casa",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in Central Arkansas, the town initially grew due to the mining of coal, harvesting of timber and cultivation of cotton."
+    },
+    {
+      "cityName": "Casa",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Great Depression reduced the population greatly, and the community's economy never recovered."
+    },
+    {
+      "cityName": "Casa",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Casa is about midway between Ola and Perry."
+    },
+    {
+      "cityName": "Cash",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name \"Cash\" is a corruption of the Cache River."
+    },
+    {
+      "cityName": "Cash",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cash's population was of mostly white with 99.8% and partial Puerto Rican ethnicity."
+    },
+    {
+      "cityName": "Cash",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Caulksville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Richard Caulk, who received a land patent at the location of the town in 1860."
+    },
+    {
+      "cityName": "Caulksville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town opened a post office in 1870 and the same year, a Missionary Baptist church was built just a few miles north of Caulksville."
+    },
+    {
+      "cityName": "Cave City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for a large cave underneath the Crystal River Tourist Camp, which is the oldest motor court in Arkansas."
+    },
+    {
+      "cityName": "Cave City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cave City is known for its award-winning \"world's sweetest\" watermelons and holds an annual watermelon festival in July."
+    },
+    {
+      "cityName": "Cave Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In June 2022, Cave Springs was named the 3rd highest average home values in the state of Arkansas."
+    },
+    {
+      "cityName": "Centerton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located west of Bentonville on Highway 102, Centerton has grown from a railroad stop and fruit orchard community in the early 20th century into a suburban bedroom community within the rapidly growing Northwest Arkansas (NWA) region."
+    },
+    {
+      "cityName": "Centerton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's population has grown from 491 in 1990 to 25745 in 2024."
+    },
+    {
+      "cityName": "Centerton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Centerton is considered to be one of the fastest growing cities in Arkansas and consistently ranks amongst the safest cities in the state."
+    },
+    {
+      "cityName": "Chester",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census the population was 144."
+    },
+    {
+      "cityName": "Chidester",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1880 and incorporated on February 14, 1906."
+    },
+    {
+      "cityName": "Clarendon",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the Arkansas Delta, the city's position on the White River at the mouth of the Cache River has defined the community since first incorporating in 1859."
+    },
+    {
+      "cityName": "Clarendon",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although the river has brought devastation and disaster to the city occasionally throughout history, it has also provided economic opportunities, transportation, recreation and tourism to the city."
+    },
+    {
+      "cityName": "Clarendon",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Once home to a variety of industries, today Clarendon's economy is largely based on agriculture."
+    },
+    {
+      "cityName": "Clarendon",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Similar to many Delta communities, the city's population has been dwindling since mechanization on the farm reduced the number of agricultural-related jobs in the area."
+    },
+    {
+      "cityName": "Clarkedale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 336."
+    },
+    {
+      "cityName": "Clarkedale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Clarkedale was incorporated on November 15, 2000."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarksville-Johnson County is widely known for its peaches, scenic byways and abundance of natural outdoor recreational activities."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is nestled between the Arkansas River and the foothills of the Ozark Mountains, and Interstate 40 and US Highway 64 intersect within the city limits."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census the population was 9381, up from 9178 in 2010."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conway is home to three post-secondary educational institutions, earning it the nickname \"The City of Colleges\"."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Conway is part of the larger Little Rock\u2013North Little Rock, AR Combined Statistical Area, which in 2016 had a population of 905847, and ranked the country's 60th largest CSA."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city also serves as a regional shopping, educational, work, healthcare, sports, and cultural hub for Faulkner County and surrounding areas."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Conway's growth can be attributed to its jobs in technology and higher education."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 Census, the city proper had a total population of 64134, making Conway the eighth-most populous city in Arkansas."
+    },
+    {
+      "cityName": "Conway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Central Arkansas, the Little Rock\u2013North Little Rock\u2013Conway, AR Metropolitan Statistical Area, is ranked the 76th most populous in the United States with 734622 people in 2016."
+    },
+    {
+      "cityName": "Corning",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the two county seats of Clay County, along with Piggott."
+    },
+    {
+      "cityName": "Cotton Plant",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a total population of 529."
+    },
+    {
+      "cityName": "Coy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coy was incorporated in 2020."
+    },
+    {
+      "cityName": "Crossett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are four properties on Main Street in Crossett listed on the National Register of Historic Places, as well as the Crossett Experimental Forest, located 7 mi (11 km) south."
+    },
+    {
+      "cityName": "Crossett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Combined with North Crossett and West Crossett, the population is 8722."
+    },
+    {
+      "cityName": "Crossett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Crossett was incorporated in 1903."
+    },
+    {
+      "cityName": "Daisy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Daisy is also the home of Daisy State Park."
+    },
+    {
+      "cityName": "Daisy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population is 88 as of the 2020 census."
+    },
+    {
+      "cityName": "Danville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Along with Dardanelle, it is one of two county seats for Yell County."
+    },
+    {
+      "cityName": "Dardanelle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 4517 at the 2020 census."
+    },
+    {
+      "cityName": "Dardanelle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with Danville, it serves as a county seat for Yell County."
+    },
+    {
+      "cityName": "De Queen",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The placename is the anglicization of the family name of the Dutch merchant and railway financier, Jan de Goeijen (1861\u20131944)."
+    },
+    {
+      "cityName": "De Queen",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "De Goeijen was reportedly rather unhappy with the deformation of his name."
+    },
+    {
+      "cityName": "DeWitt",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Population was 3056 at the time of the 2020 census."
+    },
+    {
+      "cityName": "DeWitt",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "DeWitt is home to the DeWitt School District and the DeWitt Municipal Airport."
+    },
+    {
+      "cityName": "Decatur",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This town is named after Commodore Stephen Decatur, Junior"
+    },
+    {
+      "cityName": "Dermott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dermott was home to the Dermott Crawfish Festival."
+    },
+    {
+      "cityName": "Dermott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dermott was incorporated in 1890."
+    },
+    {
+      "cityName": "Des Arc",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Des Arc's history is preserved by seven listings on the National Register of Historic Places, and the region's history is interpreted at Lower White River Museum State Park."
+    },
+    {
+      "cityName": "Des Arc",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As river shipping declined, Des Arc was bypassed by railroads, Interstate highways, and much of the post-industrial society."
+    },
+    {
+      "cityName": "Des Arc",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Incorporated in 1854, Des Arc's position on the river has shaped its culture, history, and economy, beginning as a major lumber shipping port but leaving the city vulnerable to major floods in 1927 and 1937."
+    },
+    {
+      "cityName": "Des Arc",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's population stopped growing in the 1980s and has been declining since, with a population of 1905 at the 2020 census."
+    },
+    {
+      "cityName": "Desha",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 715."
+    },
+    {
+      "cityName": "Desha",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Desha is located along Arkansas Highway 25, 3 miles (4.8 km) southwest of Batesville."
+    },
+    {
+      "cityName": "Desha",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Batesville School District operates area public schools."
+    },
+    {
+      "cityName": "Desha",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Desha School District merged into the Batesville district on July 1, 1985."
+    },
+    {
+      "cityName": "Drasco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Drasco lies just northeast of Greers Ferry Lake and includes the lakeside community of Tannenbaum."
+    },
+    {
+      "cityName": "Drasco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Drasco is an unincorporated community and census-designated place (CDP) in Cleburne County, Arkansas, United States, with a ZIP code of 72530."
+    },
+    {
+      "cityName": "Drasco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 144."
+    },
+    {
+      "cityName": "Dyess",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dyess Colony was the boyhood home of country music singer Johnny Cash."
+    },
+    {
+      "cityName": "Dyess",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded as Dyess Colony in 1934 by the Federal Emergency Relief Administration as part of the Roosevelt administration's agricultural relief and rehabilitation program, it was the largest agrarian community established by the U S during the Great Depression."
+    },
+    {
+      "cityName": "Dyess",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population of Dyess was 339, down from 410 in 2010."
+    },
+    {
+      "cityName": "Earle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 1831."
+    },
+    {
+      "cityName": "East Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As part of the transfer agreement, the Brown Foundation also donated 70 acres (280000 m2) of land and six buildings to establish a two-year technical college now known as Southern Arkansas University Tech."
+    },
+    {
+      "cityName": "East Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "East Camden was originally called Billkitts Rental Housing and began as a planned community created to support the nearby Shumaker Naval Ammunition Depot."
+    },
+    {
+      "cityName": "East Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As he did for the rest of the facility, the depot's Chief Maintenance Engineer, A T Smith, designed the general layout of the town and named its streets."
+    },
+    {
+      "cityName": "East Camden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "U S Senator John Little McClellan later arranged for Smith, who boasted the most intimate knowledge of the depot, to travel to Washington, D.C., and negotiate \"over White House tea\" with Lyndon B. Johnson to transfer ownership of the sprawling NAD complex to Johnson's Brown and Root."
+    },
+    {
+      "cityName": "Egypt",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "El Paso",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 267."
+    },
+    {
+      "cityName": "El Paso",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name is Spanish for \"the pass\", referring to a small gap in the hills on the community's northern edge."
+    },
+    {
+      "cityName": "El Paso",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Once known as Peach Orchard Gap in its early settlement, the origin of El Paso's Spanish name is unknown."
+    },
+    {
+      "cityName": "Elaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is best known as the location of the Elaine massacre of September 30 \u2013 October 1, 1919, in which an estimated 237 Black people were murdered in the rural county by rampaging white mobs."
+    },
+    {
+      "cityName": "Elaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Five whites died in the events."
+    },
+    {
+      "cityName": "Elaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This was one of the worst incidents of racial and labor violence in American history."
+    },
+    {
+      "cityName": "Elaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Black sharecroppers were attempting to organize a farmers' union, which the planters resisted."
+    },
+    {
+      "cityName": "Elkins",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A combination of the former unincorporated communities of Harris and Hood, Elkins was established in 1964."
+    },
+    {
+      "cityName": "Elkins",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located in the Boston Mountains, deep in the Ozark Mountains."
+    },
+    {
+      "cityName": "Elkins",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located immediately east of Fayetteville in the Northwest Arkansas metropolitan statistical area, Elkins has been experiencing rapid growth in recent years, doubling in population between the 2000 and 2010 censuses."
+    },
+    {
+      "cityName": "Elm Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located immediately west of Springdale in the Northwest Arkansas metropolitan statistical area, Elm Springs has been gaining population in recent years, including a 47% increase in population between the 2000 and 2010 censuses."
+    },
+    {
+      "cityName": "Emmet",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of Emmet was 415."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a tourist destination for its unique character as a Victorian resort, which first attracted visitors to use its then believed healing springs."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1970 the entire city, as of its borders at that time, was listed on the National Register of Historic Places as the Eureka Springs Historic District."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eureka Springs has been selected as one of America's Distinctive Destinations by the National Trust for Historic Preservation."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The historic commercial downtown of the city has an extensive streetscape of well-preserved Victorian buildings."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Eureka Springs was originally called \"The Magic City\", \"Little Switzerland of the Ozarks\", and later the \"Stairstep Town\" because of its mountainous terrain and the winding, up-and-down paths of its streets and walkways."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 census, the city population was 2166."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city has steep winding streets filled with Victorian-style cottages and manors."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The buildings are primarily constructed of local stone, built along limestone streets that curve around the hills, and rise and fall with the topography in a five-mile long loop."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Some buildings have street-level entrances on more than one floor and other such oddities: the Basin Park Hotel has its front entrances on the floor below first, and a ground-level emergency exit in the back of the building on the fifth floor."
+    },
+    {
+      "cityName": "Eureka Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The streets wind around the town, with few intersecting at right angles."
+    },
+    {
+      "cityName": "Evening Shade",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2022, the population was 429."
+    },
+    {
+      "cityName": "Fairfield Bay",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairfield Bay, located on the shore of Greers Ferry Lake, is home to Fairfield Bay Resort, the namesake of Wyndham Worldwide-owned Fairfield Resorts."
+    },
+    {
+      "cityName": "Fargo",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 United States census it had a population of 57, down from 98 in 2010."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is nestled in a valley among the Boston Mountains, a subset of the Ozark Mountains."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has been characterized as a bedroom community by the University of Arkansas Community Design Center."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although the first settlers came from the Deep South in 1828, the community did not incorporate until 1946."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located immediately west of Fayetteville in the Northwest Arkansas metropolitan statistical area, Farmington has been experiencing a population boom in recent years, as indicated by a 66% growth in population between the 2000 and 2010 censuses."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Fayetteville, Tennessee, from which many settlers had come, and was incorporated on November 3, 1836."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fayetteville is home to the University of Arkansas, the state's flagship university."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "When classes are in session, thousands of students on campus change up the pace of the city."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is on the outskirts of the Boston Mountains, within the Ozarks."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Fayetteville is included in the three-county Fayetteville\u2013Springdale\u2013Rogers metropolitan statistical area, with 576403 residents in 2020."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city had a population of 93949 as of the 2020 census, which was estimated to have increased to 101680 by 2023."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Thousands of Arkansas Razorbacks alumni and fans travel to Fayetteville to attend football, basketball, and baseball games."
+    },
+    {
+      "cityName": "Felsenthal",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lays adjacent to the Ouachita River in the southeastern corner of Union County."
+    },
+    {
+      "cityName": "Fifty-Six",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fifty-Six is an incorporated town in Stone County, Arkansas, United States."
+    },
+    {
+      "cityName": "Fifty-Six",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a total population of 158, a decrease of 15 people from 2010."
+    },
+    {
+      "cityName": "Fisher",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Forrest City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shortly after the end of the Civil War, he had a construction crew camped here, who were completing a railroad between Memphis and Little Rock."
+    },
+    {
+      "cityName": "Forrest City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for General Nathan Bedford Forrest, a notable Confederate war hero who later became the first Grand Wizard of the Ku Klux Klan."
+    },
+    {
+      "cityName": "Forrest City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city identifies as the \"Jewel of the Delta\"."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Strategically located between the Ozarks to the north and the Ouachita Mountains to the south, it became well known as a base for migrants' settling of the \"Wild West\" and for its law enforcement heritage, as it was the hub for white law enforcement of the adjacent Indian Territory."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Smith lies on the Arkansas\u2013Oklahoma state border, situated in the Arkansas Valley at the confluence of the Arkansas and Poteau rivers, also known as Belle Point."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 89142."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Fort Smith was established as a western frontier military post in 1817, when it was also a center of fur trading."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city developed there."
+    },
+    {
+      "cityName": "Fort Smith",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city government is led by Mayor George McGill (D), who in 2018 was elected as the city's mayor (the first African American in its history), and a city Board of Directors composed of three members elected at-large and four members elected by ward."
+    },
+    {
+      "cityName": "Fountain Lake",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bordering Hot Springs Village, the town is part of the Hot Springs Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fredonia (Biscoe)",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Local myth claimed the town's name \"Fredonia\" was for the Republic of Fredonia movement of Mexican Texas in the 1820s by a group of Arkansas Cherokee people settled near Nacogdoches, Texas."
+    },
+    {
+      "cityName": "Fredonia (Biscoe)",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The settlers backed by white Southerners from the U S wanted to establish an independent Native nation but the dream ended in an armed conflict by Mexican troops."
+    },
+    {
+      "cityName": "Fredonia (Biscoe)",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "\"Biscoe\" was the town's official name for most of its history, being written in parentheses."
+    },
+    {
+      "cityName": "Fredonia (Biscoe)",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was founded in the 1810s by several thousand Cherokee settlers from Tennessee in a piece of land set aside for the Western band of Cherokee, who lost their sovereignty when Arkansas became a state in 1836."
+    },
+    {
+      "cityName": "Fredonia (Biscoe)",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town has an African-American majority from a history of slavery in the antebellum era and agricultural labor afterwards."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after steamboat inventor Robert Fulton."
+    },
+    {
+      "cityName": "Gassville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gassville (formerly Mount Pleasant and Turkey's Neck) is a city in Baxter County, Arkansas, United States."
+    },
+    {
+      "cityName": "Gassville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, the city population was 2171."
+    },
+    {
+      "cityName": "Gateway",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's name reflects its situation as the \"gateway\" to and from Arkansas."
+    },
+    {
+      "cityName": "Gentry",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was founded in the Ozark Mountains in 1894 along what would become the Kansas City Southern Railroad."
+    },
+    {
+      "cityName": "Gentry",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's prior prosperity in the orchard industry, especially apples, was further strengthened by the rail connection."
+    },
+    {
+      "cityName": "Gentry",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Following the decline of the apple industry in the 1930s, Gentry shifted its economy towards poultry along with many other areas of Northwest Arkansas."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "First settled in 1789 before the Louisiana Purchase, the community is the oldest continuously settled area in Arkansas."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Over the years, Gilbert has gained a reputation (along with Calico Rock) as one of the coldest locations in Arkansas."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gillett is the home of the annual Gillett Coon Supper."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The largest alligator ever killed in Arkansas was harpooned near Gillett on September 19, 2010."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 691 at the 2010 census."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Arkansas Post National Memorial is located southeast of the town."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The 13-ft, 1-in reptile weighed 680 lb."
+    },
+    {
+      "cityName": "Gilmore",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 176."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along the Caddo River in the Ouachita Mountains."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Glenwood was formed as a boomtown following the development of the Gurdon and Fort Smith Railroad and timber interests in the area."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city also sees significant tourism related to its scenic position in the Ouachitas and among several recreational lakes."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, its population was 2068."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "After the establishment of a lumber mill, the community received a post office and incorporated in April 1909."
+    },
+    {
+      "cityName": "Glenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Although the community saw its major employer leave during the Great Depression, the city has again seen rapid growth in recent decades."
+    },
+    {
+      "cityName": "Gould",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the American railroad magnate Jay Gould."
+    },
+    {
+      "cityName": "Gould",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 663 at the 2020 census, down from 837 at the 2010 census."
+    },
+    {
+      "cityName": "Grannis",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Near Grannis is the Boggs Springs Youth Encampment of the American Baptist Association, a retreat of Missionary Baptist churches."
+    },
+    {
+      "cityName": "Gravel Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It has been annexed into the city of Sherwood and is part of the Little Rock\u2013North Little Rock\u2013Conway Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Greenland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located in the Boston Mountains, within the Ozark Mountains."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to estimates based on the most recent census, the population of Greenwood in 2018 was 9397."
+    },
+    {
+      "cityName": "Greers Ferry",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1968."
+    },
+    {
+      "cityName": "Griffithville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windle Porter is the current mayor of the town."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The City of Hamburg crest has a picture of a gazebo, trees, cotton, and antelope."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city requires residents to pay a $30 reconnect fee in order to have your water service restored if it is shut off."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Your water service will only be restored during the hours of 8:00am and 4:30pm."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "You may pay an additional $60, a 200% surcharge, to have your water service restored after hours."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The City of Hamburg also, in 2024, decided to begin enforcing customers of the city water service to have shut off valves."
+    },
+    {
+      "cityName": "Hamburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The 2023 Annual Drinking Water Quality Report for Hamburg Water Department found lead and copper in the city's water supply, though not at levels to cause concern."
+    },
+    {
+      "cityName": "Harrisburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Marcus LaRue Harrison, a surveyor who laid out the city along Crooked Creek at Stifler Springs."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community has a history of racism; there were two race riots in the early 20th century and an influx of white supremacist organizations during the late 20th and early 21st centuries."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clergyman James T. Draper, Junior, president of the Southern Baptist Convention from 1982 to 1984, was born in Hartford in 1935, where his father, James Draper, Senior, was a pastor."
+    },
+    {
+      "cityName": "Hattieville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 132."
+    },
+    {
+      "cityName": "Hattieville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hattieville is located on Arkansas Highway 213, 9.5 miles (15.3 km) north-northwest of Morrilton."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arkansas Scenic State Highway 309 leads from Havana to the top of Mount Magazine, home of Arkansas's newest State Park, and the highest peak in Arkansas."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Havana is in the Petit Jean River Valley, with the Ouachita Mountain range to the south, and the Ozark Mountain range to the north."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West of Havana lies Blue Mountain Lake, a US Army Corps of Engineers Lake, which provides recreational fishing, camping, swimming and boating."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Local industry centers on poultry, livestock and crops."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The area has views of Mount Magazine, the tallest mountain in Arkansas."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Havana is located between Booneville and Danville on State Highway 10."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Mount Magazine to the north provides camping, cabins, hiking, hang gliding and rock climbing."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Havana is home to several small businesses, and the Western Yell County High School and Junior High School Wolverines."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The area is rural, covered with timber, pastures and row crop fields."
+    },
+    {
+      "cityName": "Havana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Trucking businesses, garment production, poultry equipment supplies, and wood-working industries are also present."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the American Civil War, the Battle of Helena was fought July 4, 1863."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1833 by Nicholas Rightor and is named after the daughter of Sylvanus Phillips, an early settler of Phillips County and the namesake of Phillips County."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Helena is the birthplace of many notable people including prominent African Americans and Arkansas' former senior United States senator, Blanche Lincoln."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "This line later became part of the St. Louis, Iron Mountain and Southern Railway in 1910, but was all abandoned by 1979."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Citizens of Helena incorporated the Arkansas Midland Railroad in 1853, intending it to be a fairly straight \u201dair-line railroad\u201d running west from Helena to Little Rock, Arkansas, about 115 miles."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "From 1906 to 1946, Helena was a terminal point on the former Missouri and North Arkansas Railroad, which provided passenger and freight service to Joplin, Missouri."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Helena is the eastern portion of Helena\u2013West Helena, Arkansas, a city in Phillips County, Arkansas, United States, located on the west bank of the Mississippi River."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "As of the 2000 census, this portion of the city population was 6323."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Helena is home to the longest running daily radio program in the U.S., King Biscuit Time."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "However actual trackage was not completed until 1872, and only ran to Clarendon, Arkansas, about 48 miles."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Henderson is located on the east bank of Norfork Lake along U S Routes 62 and 412, 9.5 miles (15.3 km) east-northeast of Mountain Home."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 309."
+    },
+    {
+      "cityName": "Hermitage",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The United States Census Bureau estimated the population to be 830 as of the 2010 census."
+    },
+    {
+      "cityName": "Hermitage",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jeff Wardlaw, the District 8 member of the Arkansas House of Representatives, operates Wardlaw Brothers Farms, Inc., in Hermitage."
+    },
+    {
+      "cityName": "Hickory Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Always a small farming community with an economy based on agriculture, a post office was first established in 1875, but the community did not incorporate until 1949."
+    },
+    {
+      "cityName": "Higden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scott Barker is the current mayor of Higden"
+    },
+    {
+      "cityName": "Highfill",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Northwest Arkansas National Airport, which serves all of the Northwest Arkansas region."
+    },
+    {
+      "cityName": "Highfill",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In September 2023, officials of the airport voted to detach itself from the city over taxing and public service disputes."
+    },
+    {
+      "cityName": "Highland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in 1998 and is located in Sharp County."
+    },
+    {
+      "cityName": "Hindsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after John Hinds, a first settler."
+    },
+    {
+      "cityName": "Holiday Island",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holiday Island is located in the Ozark Mountains on Table Rock Lake, near Eureka Springs, Arkansas and approximately an hour's drive from Branson, Missouri, Fayetteville, Arkansas, and Bentonville, Arkansas."
+    },
+    {
+      "cityName": "Holiday Island",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Holiday Island is a 4500-acre planned retirement and vacation community in Carroll County, Arkansas, United States."
+    },
+    {
+      "cityName": "Holiday Island",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Formerly an unincorporated community and census-designated place, it voted to incorporate in November 2020."
+    },
+    {
+      "cityName": "Holiday Island",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population was 2533."
+    },
+    {
+      "cityName": "Holland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holland gained media attention after 13-year-old Kacie Woody was reported missing from her home in this area in 2002; an investigation revealed that she was abducted by a California man she befriended online while he had pretended to be a teen boy."
+    },
+    {
+      "cityName": "Holland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The next day their bodies were found inside a storage unit in Conway, after he had fatally shot her and later himself."
+    },
+    {
+      "cityName": "Holland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Woody's father then founded the Kacie Woody Foundation in order to educate parents and children about Internet safety."
+    },
+    {
+      "cityName": "Holly Grove",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "However, the construction through Holly Grove in 1872 of the Arkansas Central Railway, later the Arkansas Midland Railroad, caused Lawrenceville to shrink and Holly Grove to grow."
+    },
+    {
+      "cityName": "Holly Grove",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 460, down from 602 in 2010."
+    },
+    {
+      "cityName": "Holly Grove",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town started as a plantation community which was a suburb of Lawrenceville, which was the seat of Monroe County until 1857."
+    },
+    {
+      "cityName": "Holly Grove",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town was officially incorporated in 1876."
+    },
+    {
+      "cityName": "Hope",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hope is the birthplace of three Arkansas governors: Bill Clinton (also President of the United States from 1993 to 2001), Mike Huckabee (who ran for the Republican presidential nomination in 2008 and 2016), and Sarah Huckabee Sanders (the incumbent governor and daughter of Mike Huckabee)."
+    },
+    {
+      "cityName": "Hope",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census the population was 10095, and for the 2020 census, the population was 8952."
+    },
+    {
+      "cityName": "Horseshoe Bend",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the large loop or horseshoe bend in the nearby Strawberry River."
+    },
+    {
+      "cityName": "Horseshoe Lake",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Horseshoe Lake, an oxbow lake at the eastern tip of which the town is located."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of Hot Springs is the oldest federal reserve in the United States, today preserved as Hot Springs National Park."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hot Springs National Park is maintained by the National Park Service, including Bathhouse Row, which preserves the eight historic bathhouse buildings and gardens along Central Avenue."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Also a destination for the arts, Hot Springs features the Hot Springs Music Festival, Hot Springs Documentary Film Festival, and the Valley of the Vapors Independent Music Festival annually."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Incorporated January 10, 1851, the city has been home to Major League Baseball spring training, illegal gambling, speakeasies and gangsters such as Al Capone, horse racing at Oaklawn Park, the Army and Navy Hospital, and 42nd President Bill Clinton."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "One of the largest Pentecostal denominations in the United States, the Assemblies of God, traces its beginnings to Hot Springs."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Downtown Hot Springs is preserved as the Central Avenue Historic District, listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city also contains dozens of historic hotels and motor courts, built during the Great Depression in the Art Deco style."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The hot spring water has been popularly believed for centuries to possess healing properties, and was a subject of legend among several Native American tribes."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Much of Hot Springs' history is preserved by various government entities."
+    },
+    {
+      "cityName": "Hot Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Due to the popularity of the thermal waters, Hot Springs benefited from rapid growth during a period when many cities saw a sharp decline in building\u2014much like Miami's art deco districts."
+    },
+    {
+      "cityName": "Hot Springs Village",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The portion in Garland County is within the Hot Springs Metropolitan Statistical Area, while the portion extending into Saline County is part of the Little Rock\u2013North Little Rock\u2013Conway Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hot Springs Village",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As it is situated in two counties, it is also part of two metropolitan statistical areas."
+    },
+    {
+      "cityName": "Hoxie",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies immediately south of Walnut Ridge."
+    },
+    {
+      "cityName": "Hughes",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 1056."
+    },
+    {
+      "cityName": "Humphrey",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 557 at the 2010 census."
+    },
+    {
+      "cityName": "Hunter",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilbert G. Collier, awarded the Medal of Honor for his action in the Korean War, was born in Hunter."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 Census the population was 635."
+    },
+    {
+      "cityName": "Huntsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the American Civil War in 1862, it was the site of what became known as the Huntsville Massacre."
+    },
+    {
+      "cityName": "Huntsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Huntsville is part of the Northwest Arkansas region."
+    },
+    {
+      "cityName": "Imboden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after a family of settlers."
+    },
+    {
+      "cityName": "Jacksonville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of the city was 28364."
+    },
+    {
+      "cityName": "Jasper",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, its population is 547."
+    },
+    {
+      "cityName": "Johnson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located in the Ozark Mountains and is surrounded by valleys and natural springs."
+    },
+    {
+      "cityName": "Johnson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Early settlers took advantage of these natural features and formed an economy based on mining lime, the Johnson Mill and trout."
+    },
+    {
+      "cityName": "Johnson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located between Fayetteville and Springdale in the heart of the rapidly growing Northwest Arkansas metropolitan statistical area, Johnson has been experiencing a population and building boom in recent years, as indicated by a 46% growth in population between the 2000 and 2010 censuses."
+    },
+    {
+      "cityName": "Johnson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although a post office was opened in the community in 1887, Johnson did not incorporate until it required the development of a city government to provide utility services in 1961."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jonesboro is the home of Arkansas State University and is the cultural and economic center of Northeast Arkansas."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jonesboro is one of two county seats of Craighead County."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2025, the city has an estimated population of 83818, making it the fifth-most populous city in Arkansas."
+    },
+    {
+      "cityName": "Judsonia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stan Robinson is the current mayor, first elected in 2018."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Many companies have moved to Kensett to support the natural gas industry."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Double Springs sod farm is located in or near Kensett."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located adjacent to the east side of Searcy, the city is the hometown of noted legislator Wilbur D. Mills, who was influential throughout the 1960s and 1970s in the United States House of Representatives."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Allen Edge is the current mayor."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Kensett is a center for landscaping and nursery activity."
+    },
+    {
+      "cityName": "Kensett",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "There are several restaurants, and Kensett has the lowest sales tax rate in White County."
+    },
+    {
+      "cityName": "Kibler",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 Census the population was 961."
+    },
+    {
+      "cityName": "Kingsland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the birthplace of musician Johnny Cash."
+    },
+    {
+      "cityName": "Kingsland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "His parents had a cotton farm there."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake City is one of two county seats in Craighead County."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "When the town was re-established in 1937, Lake View became one of three communities in Arkansas to be reserved for black farm families by the Resettlement Administration."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because there is also a Lakeview in Baxter County."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The original settlement name was \"Turkey Scratch\" from the 1850s to the official declaration of the town's namesake was in the 1920s."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is one of the few communities in the U S with an African-American percentage at over 90 percent of the populations."
+    },
+    {
+      "cityName": "Lake Village",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Village is named for its location on Lake Chicot, an oxbow lake formed by the Mississippi River."
+    },
+    {
+      "cityName": "Lavaca",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census the population was 2514."
+    },
+    {
+      "cityName": "Lavaca",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lavaca was incorporated in 1919."
+    },
+    {
+      "cityName": "Leachville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leachville was incorporated in 1916."
+    },
+    {
+      "cityName": "Lepanto",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for the Greek seaport of Lepanto, the site of a great sea battle in 1571."
+    },
+    {
+      "cityName": "Lepanto",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Leslie",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located within the Boston Mountains, the most rugged subset of The Ozarks, the city was founded as a railroad and lumber town."
+    },
+    {
+      "cityName": "Leslie",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Several properties in Leslie are listed on the National Register of Historic Places throughout the city."
+    },
+    {
+      "cityName": "Leslie",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Renamed from the original Wiley's Cove in 1887, the city saw prosperity relating to these industries through the 1920s."
+    },
+    {
+      "cityName": "Letona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sherrel Bennett is the current mayor."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Outdoor spaces such as the Arkansas River Trail and Pinnacle Mountain State Park provide recreational opportunities within and near the city."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Companies such as Dillard's and Windstream Holdings are headquartered in the city, and the University of Arkansas for Medical Sciences contributes to its healthcare industry and academic research."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is named for a rock formation along the Arkansas River named the \"Little Rock\" by the French explorer Jean-Baptiste B\u00e9nard de la Harpe in 1722."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Little Rock was founded in 1821 as the capital of the Arkansas Territory."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its cultural sites include the Arkansas Museum of Fine Arts, Clinton Presidential Center, and Quapaw Quarter."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city lies on the south bank of the Arkansas River close to the state's geographic center in central Arkansas."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Little Rock is the capital and most populous city of the U S state of Arkansas."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city played a notable role in U S history during the 1957 desegregation of Little Rock Central High School, a key event in the Civil Rights movement."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Little Rock is a cultural, economic, government, and transportation center within Arkansas and the American South."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Economically, Little Rock is supported by a mix of sectors including healthcare, banking, transportation, and retail."
+    },
+    {
+      "cityName": "Lonoke",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to 2010 United States Census, the population of the city is 4245."
+    },
+    {
+      "cityName": "Mabelvale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The neighborhood is generally defined as the homes and businesses in the immediate area surrounding the intersection of Mabelvale Main Street and the Union Pacific railroad line."
+    },
+    {
+      "cityName": "Mabelvale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mabelvale was a small, unincorporated train station town in southwestern Pulaski County, Arkansas, until being annexed into Little Rock following a special election that was held on May 3, 1973."
+    },
+    {
+      "cityName": "Mabelvale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The neighborhood is currently represented on Little Rock's City Board of Directors by Brenda \"B.J.\" Wyrick."
+    },
+    {
+      "cityName": "Mabelvale",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Even so, most would agree that the area generally referred to contemporarily as Mabelvale spans multiple counties: while primarily located in Pulaski County, some of its areas spill over into neighbouring Saline County."
+    },
+    {
+      "cityName": "Magazine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for nearby Mount Magazine."
+    },
+    {
+      "cityName": "Magazine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "2010 State Football Champions."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Southern Arkansas University and hosts annual events such as the Magnolia Blossom Festival and the World Championship Steak Cookoff."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in southwestern Arkansas, the city was founded in 1853 and initially developed as an agricultural market before experiencing economic growth following the discovery of oil in the region in 1938."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Magnolia had a population of 11162."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded as a railroad stop at the eastern edge of the Ouachita Mountains, the community's history and economy have been tied to available agricultural and mineral resources."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The production of bricks from locally available clay has earned the city the nickname, \"The Brick Capital of the World\"."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city had a population of 10318 at the time of the 2010 census, and in 2019 the estimated population was 10931."
+    },
+    {
+      "cityName": "Mammoth Spring",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The location is renowned for its trout fishing."
+    },
+    {
+      "cityName": "Manila",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the hometown of World War I sniper Herman Davis."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Sebastian County portion of the city is part of the Fort Smith, Arkansas-Oklahoma Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mansfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 Census, the population was 1139."
+    },
+    {
+      "cityName": "Marianna",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the L'Anguille River in the Arkansas Delta just north of the St. Francis National Forest, the community was known as \"Walnut Ridge\" until 1852 when it became known as \"Marianna\"."
+    },
+    {
+      "cityName": "Marianna",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's economy has historically been based on agriculture, especially cotton production."
+    },
+    {
+      "cityName": "Marianna",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census it had a population of 4115, but by 2018 the population had dropped to an estimated 3477."
+    },
+    {
+      "cityName": "Marked Tree",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas, metropolitan statistical area."
+    },
+    {
+      "cityName": "Marked Tree",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Geologically, the area marks the southern end of the New Madrid Fault."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshall serves as a hub for area tourism including camping, floating, hiking, bicycling and Dark Sky viewing."
+    },
+    {
+      "cityName": "Marvell",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 1186."
+    },
+    {
+      "cityName": "Maumelle",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city's population was 19251."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maynard is home to the Maynard Pioneer Museum and Park."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A jail built in 1936 has a door made of wagon wheel rims."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The last time it was used was in 1988, when it temporarily housed a man charged with public intoxication."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The jail is beside Maynard Community Center."
+    },
+    {
+      "cityName": "Maysville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the westernmost settlement in the state of Arkansas."
+    },
+    {
+      "cityName": "Maysville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 117."
+    },
+    {
+      "cityName": "McCrory",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The McCrory Commercial Historic District, the McCrory Waterworks, and the Doctor John William Morris Clinic are all listed on the National Register of Historic Places listings in Woodruff County, Arkansas."
+    },
+    {
+      "cityName": "McNeil",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after William B. McNeil, founder of the College Hill Academy."
+    },
+    {
+      "cityName": "Melbourne",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the main campus of Ozarka College."
+    },
+    {
+      "cityName": "Mena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Surrounded by the Ouachita National Forest, Mena is a gateway to some of the most visited tourist attractions in Arkansas."
+    },
+    {
+      "cityName": "Mena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mena is located in the U S Interior Highlands."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With a historically agriculture- and silviculture-based economy, it has diversified to include growth from the medical sector and the University of Arkansas at Monticello."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1849 in the Arkansas Timberlands near the Arkansas Delta region, the city has long been a commercial, cultural and educational hub for southeast Arkansas."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2023, it had an estimated population of 8175."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montrose is located where U S Route 165 intersects with U S Route 82."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was heavily damaged by an EF2 tornado on January 2, 2023."
+    },
+    {
+      "cityName": "Moorefield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Jesse A. Moore who owned most of the land in the area of the town at that time."
+    },
+    {
+      "cityName": "Mount Ida",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1842, the city saw a silver boom in the 1880s bring early prosperity and economic development to the area."
+    },
+    {
+      "cityName": "Mount Ida",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is known as the quartz crystal capital of the U S and is known worldwide for its quartz deposits."
+    },
+    {
+      "cityName": "Mount Ida",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, the economy is largely ranching, poultry farming, silviculture, and tourism around Lake Ouachita."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 353."
+    },
+    {
+      "cityName": "Mountain Home",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city had a population of 12448."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is also known for outdoors recreation opportunities, including Blanchard Springs Caverns, trout fishing on the White River and the Ozark National Forest."
+    },
+    {
+      "cityName": "Mountain View",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's economy is largely based on tourism related to its title as the \"Folk Music Capital of the World\"."
+    },
+    {
+      "cityName": "Mountainburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mountainburg was laid out in 1883 when the St. Louis\u2013San Francisco Railway was extended to that point."
+    },
+    {
+      "cityName": "Mountainburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census the population was 631."
+    },
+    {
+      "cityName": "Murfreesboro",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Crater of Diamonds State Park is located approximately 1 mile southeast of the city."
+    },
+    {
+      "cityName": "Murfreesboro",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1641 at the 2010 census."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The world's largest dinosaur trackway was discovered near the town in 1983."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The estimated population in 2018 was 4425."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Nashville is situated at the base of the Ouachita foothills and was once a major center of the peach trade in southwest Arkansas."
+    },
+    {
+      "cityName": "Nashville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today the land is mostly given over to cattle and chicken farming."
+    },
+    {
+      "cityName": "New Blaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 173."
+    },
+    {
+      "cityName": "New Blaine",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Troy Lasater Service Station, on the AR 197 Loop."
+    },
+    {
+      "cityName": "Newport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newport is home to a campus of the Arkansas State University system, with particular focus on training in transportation careers."
+    },
+    {
+      "cityName": "Newport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Newport has ten properties listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Newport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Newport is known as the town in which Sam Walton owned a Ben Franklin store prior to starting Wal-Mart."
+    },
+    {
+      "cityName": "Norman",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was known as Womble until 1925."
+    },
+    {
+      "cityName": "Norphlet",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census the population stood at 844."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Argenta Historic District in Downtown is one of a number of areas that have developed as thriving entertainment districts offering theaters, fine dining, bars, gastropubs, and boutiques."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Farther west is Burns Park, one of the largest municipal parks in the United States."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also home to Dickey-Stephens Park, which hosts the Arkansas Travelers minor league baseball team."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located on the north side of the Arkansas River, it is the twin city of Little Rock."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the late nineteenth century, it was annexed by Little Rock for a period, but regained its independence in the early 20th century."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city has invested in significant beautification efforts since the late 20th century."
+    },
+    {
+      "cityName": "North Little Rock",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Young families and professionals have shown new interest in this area."
+    },
+    {
+      "cityName": "Oden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 180, down from 232 in 2010."
+    },
+    {
+      "cityName": "Oil Trough",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is believed to have acquired its name in the early 19th century from a trough used to render bear fat, which was sold to customers in New Orleans."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Battle of Elkin's Ferry of the Civil War was fought here during April 3\u20134, 1864, as a part of the Camden Expedition."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fred Steele, sought to ford the Little Missouri River, as the local roads were impassable."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Union forces, led by Maj."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The force reached Elkin's Ferry before the Confederate cavalry brigades, led by Brig."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "John S. Marmaduke, and the Confederates were defeated."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Okolona has several churches; the Saint Clair Baptist Church, Okolona Baptist Church, Okolona First United Methodist Church, and Center Grove United Methodist Church."
+    },
+    {
+      "cityName": "Ola",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2004 it serves as a commercial center in Yell County."
+    },
+    {
+      "cityName": "Omaha",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population stood at 128."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Mississippi River within the Arkansas Delta, the settlement was founded in 1837 and incorporated in 1853."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Occupying an important location on the river, the city's economy grew as steamboat traffic increased."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Timber and cotton harvesting would develop, and the city experienced rapid growth and development throughout the early 20th century."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's economy has since diversified to include a robust industrial sector."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is also located on Arkansas Highway 23, nicknamed the Pig Trail Scenic Byway, known for its steep drops, sharp curves and scenic mountain views."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located along the Arkansas River in the Arkansas River Valley on the southern edge of the Ozark Mountains."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Incorporated in 1850, Ozark is adjacent to much of Arkansas wine country, and contains a bridge to cross the Arkansas River for travelers heading to points south."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name Aux Arcs, later simplified to \"Ozark\", was given to this bend of the river by the French explorers when they were mapping out this land."
+    },
+    {
+      "cityName": "Ozark",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census it had a population of 3542."
+    },
+    {
+      "cityName": "Paris",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 3176 as of the 2020 U S Census."
+    },
+    {
+      "cityName": "Parkin",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 2020 census, it dropped further to 794 people."
+    },
+    {
+      "cityName": "Parkin",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Due to the recent population loss, a large segment of the downtown area has many abandoned and boarded-up buildings."
+    },
+    {
+      "cityName": "Parkin",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town has recently become known as a speed trap."
+    },
+    {
+      "cityName": "Patmos",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It bears the same name as the Greek island of Patmos."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The townsite was originally known as Martin\u2019s Junction, because the junction of the St. Louis, Iron Mountain and Southern Railway with the Batesville and Brinkley Railroad occurred at this spot."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "While the town still has a rail connection, the junction is gone because the successors of the Batesville and Brinkley removed that line around the start of World War II."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town name later changed to Jelks, and it was briefly the western terminus of a third railroad, the McCrory and Beedeville Southern Railway, which arrived in 1911 but was bankrupt and out of business by 1914."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town name changed again to Patterson in 1919."
+    },
+    {
+      "cityName": "Pea Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural town is best known as the location of the pivotal American Civil War engagement the Battle of Pea Ridge, or, as it is locally known, the Battle of Elkhorn Tavern, which took place approximately 5 miles (8 km) east of the town."
+    },
+    {
+      "cityName": "Pea Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's downtown business district is on the National Register of Historic Places and largely comprises commercial structures from the late 19th and early 20th centuries."
+    },
+    {
+      "cityName": "Pea Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The site of the battle is preserved as the Pea Ridge National Military Park."
+    },
+    {
+      "cityName": "Pea Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The local weekly newspaper is the Times of Northeast Benton County."
+    },
+    {
+      "cityName": "Pearcy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 306."
+    },
+    {
+      "cityName": "Pencil Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pencil Bluff is located at the junction of U S Route 270 and Arkansas Highway 88, 7.5 miles (12.1 km) northwest of Mount Ida."
+    },
+    {
+      "cityName": "Pencil Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 72."
+    },
+    {
+      "cityName": "Perla",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's water association filed for Chapter 9 Bankruptcy in the Western District of Arkansas Bankruptcy Court on May 26, 2019."
+    },
+    {
+      "cityName": "Perrytown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hope Micropolitan Statistical Area and was founded in 1959 by local entrepreneur Perry Campbell."
+    },
+    {
+      "cityName": "Piggott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after James A. Piggott, one of the early settlers and initiator of the local post office."
+    },
+    {
+      "cityName": "Piggott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the northern terminus of the Arkansas segment of the Crowley's Ridge Parkway, a National Scenic Byway."
+    },
+    {
+      "cityName": "Piggott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of the two county seats of Clay County, along with Corning."
+    },
+    {
+      "cityName": "Piggott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2010 census, Piggott's population was 3849."
+    },
+    {
+      "cityName": "Pindall",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is said to be named for Governor Xenophon Overton Pindall."
+    },
+    {
+      "cityName": "Pine Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Large bodies of water include Lake Pine Bluff, Lake Langhofer (Slack Water Harbor), and the Arkansas River."
+    },
+    {
+      "cityName": "Pine Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pine Bluff is situated in the Southeast section of the Arkansas Delta and straddles the Arkansas Timberlands region to its west."
+    },
+    {
+      "cityName": "Pine Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its topography is flat with wide expanses of farmland, similar to other places in the Delta Lowlands."
+    },
+    {
+      "cityName": "Pine Bluff",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pine Bluff has numerous creeks, streams, and bayous, including Bayou Bartholomew, the longest bayou in the world and the second most ecologically diverse stream in the United States."
+    },
+    {
+      "cityName": "Pocahontas",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pocahontas has a number of historic buildings, including the Old Randolph County Courthouse built in 1871, the St. Mary's AME Church, and the Pocahontas Colored School built in 1918, the latter of which is now home to the Eddie Mae Herron Center."
+    },
+    {
+      "cityName": "Pocahontas",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 Census Bureau, the population of the city was 6608."
+    },
+    {
+      "cityName": "Portland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Portland was first settled in the 1830s, and named for its early status as a steamboat port."
+    },
+    {
+      "cityName": "Portland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1893."
+    },
+    {
+      "cityName": "Pottsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census the population was 3140."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elkin's Ferry Battleground and the Prairie D'Ane Battlefield are further recognized as National Historic Landmarks within a National Historic Landmark District."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2014, Prescott and Nevada County had sixteen properties listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area had been a well-known crossroads prior to construction of the Cairo & Fulton Railroad."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "To the west lies the city of Washington, to the east lies the city of Camden, while to the south lies the Red River, with Shreveport, Texarkana, and Dallas beyond."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community had a population of 3296 at the 2010 census."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located 100 miles southwest of Little Rock, Prescott was developed on the Prairie D'\u00c2ne, named by French colonists before the United States acquired this area."
+    },
+    {
+      "cityName": "Quitman",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 762 at the 2010 census."
+    },
+    {
+      "cityName": "Quitman",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The portion of the city in Faulkner County is part of the Central Arkansas region."
+    },
+    {
+      "cityName": "Ravenden",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is in the valley of the Spring River along U S Highway 63 and the Burlington-Northern Railroad."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1880 by James K. Brodie, a 19th-century businessman; it was named for Jared E. Redfield, president of the Little Rock, Mississippi River and Texas Railway."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to two U S historic preservation districts."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "For people with the surname, see Redfield (surname)."
+    },
+    {
+      "cityName": "Redfield",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "What is now Redfield was formerly part of the Quapaw Nation."
+    },
+    {
+      "cityName": "Rison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The largest employers are the city and county governments, the Cleveland County School District, the Cleveland County Nursing Home."
+    },
+    {
+      "cityName": "Rison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Among the local properties listed on the National Register of Historic Places are the Rison Cities Service Station and the Rison Texaco Service Station."
+    },
+    {
+      "cityName": "Rison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 1344 at the 2010 U S census."
+    },
+    {
+      "cityName": "Rison",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There are two banks, eight churches, and about forty-five businesses within the city limits."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population of Rockport was 755, down from 792 in 2000."
+    },
+    {
+      "cityName": "Roe",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the junction of U S Route 79 and Arkansas Highway 33, the population was 68 at the 2020 census, down from 114 in 2010."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Daisy Outdoor Products, known for its air rifles, has both its headquarters and its Airgun Museum in Rogers."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city houses a popular shopping center, the Pinnacle Hills Promenade, and a music venue, the Walmart AMP, that has housed performances by big-name artists and local performers."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in the Ozarks, it is part of the Northwest Arkansas region, one of the fastest growing metro areas in the country."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Rogers was the location of the first Walmart store, whose corporate headquarters is located in neighboring Bentonville."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city was also the location of the first 7 Brew coffeehouse."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 US Census, the city had a population of 69908."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In 2022, the estimated population was 72999 making it the sixth-most populous city in the state."
+    },
+    {
+      "cityName": "Roland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 820."
+    },
+    {
+      "cityName": "Roland",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Currently it is in the Pulaski County Special School District, and is zoned to Joe T. Robinson Elementary School, Joe T. Robinson Middle School, and Joe T. Robinson High School."
+    },
+    {
+      "cityName": "Romance",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alternately, the community is about 16 miles (26 km) northwest of Beebe, and less than 5 miles (8 km) east of Mount Vernon."
+    },
+    {
+      "cityName": "Rose Bud",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rose Bud has its own school district with Pre-K through 12th grade."
+    },
+    {
+      "cityName": "Rover",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rover is located on Arkansas Highway 28, 6.5 miles (10.5 km) west-southwest of Plainview."
+    },
+    {
+      "cityName": "Rover",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 159."
+    },
+    {
+      "cityName": "Royal",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Royal is home to the only bronze foundry in Arkansas, Light and Time Design Studios."
+    },
+    {
+      "cityName": "Rudy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 Census the population was 130."
+    },
+    {
+      "cityName": "Russellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Arkansas Tech University."
+    },
+    {
+      "cityName": "Russellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Russellville borders Lake Dardanelle and the Arkansas River."
+    },
+    {
+      "cityName": "Russellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arkansas Nuclear One, Arkansas' only nuclear power plant, is nearby."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Charles is best known for the Battle of Saint Charles, which was fought on the White River, which borders the town."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "St. Charles is also known for being in the White River National Wildlife Refuge."
+    },
+    {
+      "cityName": "Saint Charles",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The small town has been at the center of various events in Arkansas' history."
+    },
+    {
+      "cityName": "Saint Paul",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Paul was platted in 1887 when the railroad was extended to that point."
+    },
+    {
+      "cityName": "Saint Paul",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the edge of the Northwest Arkansas region."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Scranton, Pennsylvania."
+    },
+    {
+      "cityName": "Searcy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A college town, Searcy is the home of Harding University and ASU-Searcy."
+    },
+    {
+      "cityName": "Searcy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to 2024 Census Bureau estimates, the population of the city is 23997."
+    },
+    {
+      "cityName": "Searcy",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city takes its name from Richard Searcy, a judge for the Superior Court of the Arkansas Territory."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's history also includes a college, Missionary Baptist College, until its closure in 1934, and a series of conflicts during the Civil Rights Movement."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located deep in the forests of the Arkansas Timberlands."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It sits at the intersection of U S highways 167 and 270."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Early settlers were drawn to the area by the native timber, which is still a very important part of Sheridan's economy, although the city has diversified into several other industries."
+    },
+    {
+      "cityName": "Sheridan",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located at the southern end of the Central Arkansas region, Sheridan has been experiencing a population boom in recent years, as indicated by a 49% growth in population between the 1990 and 2010 censuses."
+    },
+    {
+      "cityName": "Sherrill",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 84 at the 2010 U S census."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city was 32731, making it the 13th most populous city in Arkansas."
+    },
+    {
+      "cityName": "Shirley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A one-time railroad outpost, the community today is oriented toward agriculture and recreational activities due to the river and Greers Ferry Lake."
+    },
+    {
+      "cityName": "Siloam Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home of John Brown University."
+    },
+    {
+      "cityName": "Siloam Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was founded in 1882 and was characterized by the purported healing powers of the spring water feeding Sager Creek and trading with nearby Native American tribes."
+    },
+    {
+      "cityName": "Siloam Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city shares a border on the Arkansas\u2013Oklahoma state line with the city of West Siloam Springs, Oklahoma, which is within the Cherokee Nation territory."
+    },
+    {
+      "cityName": "Siloam Springs",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population of the city was 17287."
+    },
+    {
+      "cityName": "Smackover",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2010 census, the population was at 1865."
+    },
+    {
+      "cityName": "Smackover",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It had a large oil boom in the 1920s, with production continuing for some time."
+    },
+    {
+      "cityName": "Star City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With an economy historically based on agriculture, today Star City has developed a diverse economy based on both industry and agriculture."
+    },
+    {
+      "cityName": "Star City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated in 1876, the city is located between the Arkansas Delta and the Arkansas Timberlands."
+    },
+    {
+      "cityName": "Star City",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, the population was 2274."
+    },
+    {
+      "cityName": "Stephens",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stephens was incorporated in 1889."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1880, it was named for Stuttgart, Germany."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stuttgart is situated on the Arkansas Grand Prairie, a region known for rice cultivation."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Known as the \"Rice and Duck Capital of the World\", Stuttgart is an international destination for waterfowl hunting along the Mississippi Flyway."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Stuttgart is also on the Union Pacific Railroad between Memphis, Tennessee, and Pine Bluff, Arkansas."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2010 census it had a population of 9326."
+    },
+    {
+      "cityName": "Stuttgart",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The economy is largely based on agricultural production, waterfowl tourism, and supporting industries."
+    },
+    {
+      "cityName": "Subiaco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Subiaco Abbey, which is located there, and which donated 80 acres (32 hectares) in the early 20th century for a townsite and railroad connection."
+    },
+    {
+      "cityName": "Subiaco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded as a priory in 1878, Subiaco Abbey was established and named by Pope Leo XIII in 1891, after the Italian city of that name in the Lazio region, where St. Benedict founded his first monastery."
+    },
+    {
+      "cityName": "Subiaco",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town celebrated the arrival of its first train in June 1909."
+    },
+    {
+      "cityName": "Success",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The origin of the name \"Success\" is obscure."
+    },
+    {
+      "cityName": "Swifton",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Swifton was the hometown of Baseball Hall of Famer George Kell."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Red River Army Depot is the largest single employer in the city."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has a branch campus of the University of Arkansas Hope-Texarkana (UAHT)."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Texarkana Arkansas School District is the largest public school district on the Arkansas side."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city was founded at a railroad intersection on December 8, 1873, and was incorporated in Arkansas on August 10, 1880."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city has long been a trading center, first located at the intersection of major railroads serving Texas, Arkansas and north into Missouri."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Texarkana College is located on the Texas side."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of the 2020 census, it had a population of 29387."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Within the Ark-La-Tex subregion of southwest Arkansas, Texarkana is located in the Piney Woods, an oak\u2013hickory forest that dominates the flat Gulf Coastal Plain."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Texarkana's economy is based on agriculture."
+    },
+    {
+      "cityName": "Texarkana",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Since then three major Interstate highways constructed crossroads here: Interstate 30 (I-30), I-49, and the future I-69."
+    },
+    {
+      "cityName": "Tillar",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frank Tillar Memorial Methodist Episcopal Church, South is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Tillar",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area west of it was known as Tillar Station."
+    },
+    {
+      "cityName": "Timbo",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Timbo is known particularly for its strong tradition of old-time music."
+    },
+    {
+      "cityName": "Timbo",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Music legend Jimmy Driftwood lived there."
+    },
+    {
+      "cityName": "Timbo",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is in the Ozark Mountains region of the northern part of the state and is near the town of Mountain View."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tollette was established as an all-African American town by Sanford Tollette and his wife Caldonia Crofton Tollette in the 1800s."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "They built a church, a store, and a public school."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Caldonia Tollette was postmistress of the United States Post Office in 1893."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Their daughter, Mattye Tollette Bond began a teaching career at the age of fifteen."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "She married Ollie Seahorn Bond and resided in his hometown of Brownsville, Tennessee where they organized the first NAACP chapter in Haywood County in 1939."
+    },
+    {
+      "cityName": "Tollette",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Sanford and Caldonia's granddaughter Mildred Bond Roxborough began working for the NAACP in Tennessee at the age of nine in 1935 and continued her distinguished service to the organization in New York from 1954 through 1997 rising to executive positions including Director of Operations."
+    },
+    {
+      "cityName": "Tontitown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its grapes and wines, Tontitown has hosted the Tontitown Grape Festival continuously since 1898."
+    },
+    {
+      "cityName": "Tontitown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is located in the Ozark Mountains and was founded by Italian settlers in 1898."
+    },
+    {
+      "cityName": "Tontitown",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town experienced a 160% growth in population between the 2000 and 2010 censuses."
+    },
+    {
+      "cityName": "Tumbling Shoals",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 902."
+    },
+    {
+      "cityName": "Turrell",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 517."
+    },
+    {
+      "cityName": "Twin Groves",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name of the town comes from two neighboring communities \u2014 Solomon Grove and Zion Grove \u2014 which joined to incorporate as a town in 1991."
+    },
+    {
+      "cityName": "Twin Groves",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's population was 335 at the 2010 census, up from 276 at the 2000 census."
+    },
+    {
+      "cityName": "Twin Groves",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Twin Groves is part of the Central Arkansas region."
+    },
+    {
+      "cityName": "Tyronza",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area and is in the Arkansas Delta."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in 1845 and as of the 2020 census had a population of 23218, ranking it as the state's 21st largest city."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to 2023 population estimates from the U S Census Bureau, Van Buren\u2019s population is 24138."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With a 4% growth rate from 2020 to 2023, Van Buren is Arkansas\u2019s eighth-fastest growing city."
+    },
+    {
+      "cityName": "Vandervoort",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The place is named in honor of the mother of an important early-20th-century railway financier, Jan de Goeijen."
+    },
+    {
+      "cityName": "Vandervoort",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Her maiden name was Van der Voort."
+    },
+    {
+      "cityName": "Victoria",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after a sister of the town's founder, Robert E. Lee Wilson."
+    },
+    {
+      "cityName": "Vilonia",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 4288 in 2020 and estimated at 4429 in 2021, up from 3815 at the 2010 census and 2106 at the 2000 census."
+    },
+    {
+      "cityName": "Wabbaseka",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 255 at the 2010 U S census."
+    },
+    {
+      "cityName": "Waldenburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zion was founded in 1881 and is a member congregation of the Lutheran Church\u2013Missouri Synod."
+    },
+    {
+      "cityName": "Waldenburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Waldenburg",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Waldenburg is home to Zion Lutheran Church."
+    },
+    {
+      "cityName": "Waldron",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 3386 at the 2020 census."
+    },
+    {
+      "cityName": "Walnut Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williams Baptist University is in College City, a formerly separate community that merged into Walnut Ridge in 2017."
+    },
+    {
+      "cityName": "Walnut Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Walnut Ridge lies immediately north of Hoxie."
+    },
+    {
+      "cityName": "Walnut Ridge",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The two towns form a contiguous urban area with approximately 8000 residents."
+    },
+    {
+      "cityName": "Ward",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ward is the second most populous city in Lonoke County, Arkansas, United States."
+    },
+    {
+      "cityName": "Warren",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the population was 6003."
+    },
+    {
+      "cityName": "Washington",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Historic Washington State Park."
+    },
+    {
+      "cityName": "Weiner",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Jonesboro, Arkansas Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wesley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wesley is located at the junction of Arkansas highways 74 and 295, 13 miles (21 km) by road west-southwest of Huntsville."
+    },
+    {
+      "cityName": "Wesley",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first listed as a CDP in the 2020 census with a population of 161."
+    },
+    {
+      "cityName": "West Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically, West Helena and its sister city Helena, located on the Mississippi River, have been two of the focal points in the history of the development of the blues."
+    },
+    {
+      "cityName": "West Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Helena is the birthplace of Arkansas' former senior United States senator, Blanche Lincoln."
+    },
+    {
+      "cityName": "West Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West Helena is the western portion of Helena-West Helena, Arkansas, a city in Phillips County, Arkansas, United States."
+    },
+    {
+      "cityName": "West Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2000 census, this portion of the city population was 8689."
+    },
+    {
+      "cityName": "West Helena",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The cities consolidated on January 1, 2006."
+    },
+    {
+      "cityName": "White Hall",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "White Hall is home to the Pine Bluff Arsenal."
+    },
+    {
+      "cityName": "Wickes",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wickes has historic places such as the 100-year-old City Hall, and the Lighthouse Drive-in."
+    },
+    {
+      "cityName": "Wickes",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Near Wickes is the Boggs Springs Youth Encampment of the American Baptist Association, a retreat of Missionary Baptist churches."
+    },
+    {
+      "cityName": "Wickes",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wickes is home to the Lawrence M. Magdovitz Memorial Library, a former U S Post Office that was donated to the Town of Wickes by the owner of the building in return for naming it after him."
+    },
+    {
+      "cityName": "Wiederkehr Village",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Swiss winemaker Johann Andreas Wiederkehr, who immigrated to the area in 1880."
+    },
+    {
+      "cityName": "Wrightsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1542 at the 2020 census."
+    },
+    {
+      "cityName": "Wrightsville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since 1981, it has been home to a major Arkansas Department of Corrections facility, which is the principal employer."
+    },
+    {
+      "cityName": "Wynne",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nestled between the Arkansas Delta and Crowley's Ridge, Wynne is the closest city to the second-largest state park in Arkansas, Village Creek State Park."
+    },
+    {
+      "cityName": "Yellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town holds an annual Turkey Trot Festival (turkey trot)."
+    },
+    {
+      "cityName": "Yellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area's history includes mining and timber industries."
+    },
+    {
+      "cityName": "Yellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Yellville is located in the Ozark Mountains along the banks of Crooked Creek, and neighbors the small town of Summit to the north."
+    },
+    {
+      "cityName": "Yellville",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town's original name is preserved in the Shawnee Town Branch, a local creek."
+    },
+    {
+      "cityName": "Zinc",
+      "state": "AR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A chapter of the Ku Klux Klan operates in Zinc."
+    }
+  ]
+}

@@ -1436,6 +1436,55 @@
       "fact": "Interstate 80 runs just north of the cities, while Interstate 80 Business (Wendover Boulevard) runs through the two cities."
     },
     {
+      "cityName": "Whitney",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whitney is an unincorporated town and census-designated place in Clark County, Nevada, United States."
+    },
+    {
+      "cityName": "Whitney",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 38,585 at the 2010 census."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winchester is an unincorporated town and census-designated place (CDP) in Clark County, Nevada, United States that contains part of the Las Vegas Strip."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of a number of CDPs in the unincorporated urbanized area directly south of Las Vegas."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 36,403 at the 2020 census."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is governed by the Clark County Commission with advice from the Winchester Town Advisory Board."
+    },
+    {
+      "cityName": "Winchester",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "\"Winchester, NV\" does not appear in postal addresses; the United States Postal Service has assigned \"Las Vegas, NV\" as the place name for the ZIP codes containing Winchester."
+    },
+    {
       "cityName": "Winnemucca",
       "state": "NV",
       "source": "Wikipedia",

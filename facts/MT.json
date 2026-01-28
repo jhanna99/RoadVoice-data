@@ -372,6 +372,20 @@
       "fact": "The town was disincorporated on September 26, 2018, after the town's government collapsed financially."
     },
     {
+      "cityName": "Butte",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Butte is a consolidated city-county in and the county seat of Silver Bow County, Montana, United States. In 1977, the city and county governments consolidated to form the sole entity of Butte-Silver Bow."
+    },
+    {
+      "cityName": "Butte",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city covers 718 square miles (1,860\u00a0km2), and, according to the 2020 census, has a population of 34,494, making it Montana's fifth-largest city. It is served by Bert Mooney Airport with airport code BTM.."
+    },
+    {
       "cityName": "Cascade",
       "state": "MT",
       "source": "Wikipedia",
@@ -790,6 +804,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town of Glendive is an agricultural and ranching hub of eastern Montana sited between the Yellowstone River and the Badlands."
+    },
+    {
+      "cityName": "Great Falls",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County. The population was 60,442 according to the 2020 census."
+    },
+    {
+      "cityName": "Great Falls",
+      "state": "MT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city covers an area of 22.9 square miles (59\u00a0km2) and is the principal city of the Great Falls, Montana, Metropolitan Statistical Area, which encompasses all of Cascade County. The Great Falls MSA's population was 84,414 according to the 2020 census.."
     },
     {
       "cityName": "Harlem",

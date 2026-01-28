@@ -113,6 +113,20 @@
       "fact": "Beech Grove is designated an \"excluded city\" under Indiana law, as it is not part of the consolidated government of Indianapolis and Marion County."
     },
     {
+      "cityName": "Bloomington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bloomington is a city in Monroe County, Indiana, United States, and its county seat. The population was 79,168 at the 2020 census. It is the seventh-most populous city in Indiana and the fourth-most populous outside the Indianapolis metropolitan area."
+    },
+    {
+      "cityName": "Bloomington",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of Indiana University Bloomington, the flagship campus of the Indiana University system. Established in 1820, IU Bloomington enrolls over 45,000 students.."
+    },
+    {
       "cityName": "Bluffton",
       "state": "IN",
       "source": "Wikipedia",
@@ -776,6 +790,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Madison County portion, which is nearly all of the city, is part of the Indianapolis\u2013Carmel\u2013Anderson metropolitan statistical area."
+    },
+    {
+      "cityName": "Evansville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Evansville is a city in Vanderburgh County, Indiana, United States, and its county seat."
+    },
+    {
+      "cityName": "Evansville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 118,414 at the 2020 census, it is Indiana's 3rd-most populous city after Indianapolis and Fort Wayne, the most populous city in Southern Indiana, and the 249th-most populous city in the United States."
+    },
+    {
+      "cityName": "Evansville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the central city of the Evansville metropolitan area, a hub of commercial, medical, and cultural activity of southwestern Indiana and the Illinois\u2013Indiana\u2013Kentucky tri-state area, which is home to over 911,000 people."
+    },
+    {
+      "cityName": "Evansville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The 38th parallel north crosses the north side of the city and is marked on Interstate 69 immediately north of its junction with Indiana 62 within the city's east side.."
     },
     {
       "cityName": "Fairmount",
@@ -3128,6 +3170,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Shoals is best known for the Jug Rock, the only free-standing table rock formation east of the Mississippi River."
+    },
+    {
+      "cityName": "South Bend",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Bend is a city in St. Joseph County, Indiana, United States, and its county seat. It lies along the St. Joseph River near its southernmost bend, from which it derives its name. It is the fourth-most populous city in Indiana with a population of 103,453 at the 2020 census."
+    },
+    {
+      "cityName": "South Bend",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located directly south of Indiana's northern border with Michigan, South Bend anchors the broader Michiana region. Its metropolitan area had a population of 324,501 in 2020, while its combined statistical area had 812,199 residents.."
     },
     {
       "cityName": "Southport",

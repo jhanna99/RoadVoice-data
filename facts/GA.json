@@ -1114,6 +1114,20 @@
       "fact": "As of the 2020 census, the city had a population of 334."
     },
     {
+      "cityName": "Brookhaven",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookhaven, formerly North Atlanta, is a city in the northeastern suburbs of Atlanta that is located in western DeKalb County, Georgia, United States, directly northeast of Atlanta. On July 31, 2012, Brookhaven was approved in a referendum to become DeKalb County's 11th city."
+    },
+    {
+      "cityName": "Brookhaven",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporation officially took place on December 17, 2012, on which date municipal operations commenced. The new city stretches over 12 square miles (31\u00a0km2). With a population of 56,795 as of the 2020 census, it is the second largest city located fully within DeKalb County, behind Stonecrest.."
+    },
+    {
       "cityName": "Brooklet",
       "state": "GA",
       "source": "Wikipedia",
@@ -4257,6 +4271,13 @@
       "fact": "The 2019 estimate was 60867, making it one of Atlanta's largest suburbs."
     },
     {
+      "cityName": "Martinez",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Martinez is an unincorporated community and census-designated place (CDP) in Columbia County, Georgia, United States. It is a northwestern suburb of Augusta and is part of the Augusta, Georgia metropolitan area. The population was 34,535 at the 2020 census.."
+    },
+    {
       "cityName": "Mauk",
       "state": "GA",
       "source": "Wikipedia",
@@ -5242,6 +5263,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The community was incorporated in 1872, and was named from abundant deposits of slate in the area."
+    },
+    {
+      "cityName": "Rome",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rome is the largest city in the county seat of Floyd County, Georgia, United States. Located in the foothills of the Appalachian Mountains, it is the principal city of the Rome, Georgia, metropolitan statistical area, which encompasses all of Floyd County."
+    },
+    {
+      "cityName": "Rome",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the city had a population of 37,713. It is the largest city in Northwest Georgia and the 26th-largest city in the state.."
     },
     {
       "cityName": "Roswell",

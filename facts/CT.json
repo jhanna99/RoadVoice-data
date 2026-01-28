@@ -274,6 +274,20 @@
       "fact": "Bridgewater was one of the last remaining dry towns (Eastford is still a dry town) in Connecticut until voters approved the sale of alcohol in a 2014 referendum, by a 660\u2013246 vote."
     },
     {
+      "cityName": "Bristol",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bristol is a suburban city located in Hartford County, Connecticut, United States, 20 miles (32\u00a0km) southwest-west of Hartford. The city is also 120 miles southwest from Boston, and approximately 100 miles northeast of New York City. The city is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 60,833.."
+    },
+    {
       "cityName": "Broad Brook",
       "state": "CT",
       "source": "Wikipedia",
@@ -3814,6 +3828,13 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "West Hartford Center has been the community's main commercial hub since the late 17th century."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Haven is a city in New Haven County, Connecticut, United States, located on the coast of Long Island Sound. The city is part of the South Central Connecticut Planning Region. At the 2020 census, the population of the city was 55,584.."
     },
     {
       "cityName": "Westbrook",

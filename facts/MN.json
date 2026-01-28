@@ -442,6 +442,20 @@
       "fact": "Most of the city is located within Steele County; only a small part of the city extends into Dodge County."
     },
     {
+      "cityName": "Bloomington",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bloomington is a city in Hennepin County, Minnesota, United States. It is located on the north bank of the Minnesota River above its confluence with the Mississippi River, 10 miles (16\u00a0km) south of downtown Minneapolis and just south of the Interstate 494/694 Beltway."
+    },
+    {
+      "cityName": "Bloomington",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 89,987 at the 2020 census, making it Minnesota's fourth-largest city, and the largest suburb of the Twin Cities.."
+    },
+    {
       "cityName": "Blue Earth",
       "state": "MN",
       "source": "Wikipedia",
@@ -1756,6 +1770,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The nearest semi-urban area is that of Brainerd and Baxter."
+    },
+    {
+      "cityName": "Eden Prairie",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eden Prairie is a city in Hennepin County, Minnesota, United States. It had a population of 64,198 at the 2020 census, making it the 16th-largest city in Minnesota."
+    },
+    {
+      "cityName": "Eden Prairie",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is adjacent to the north bank of the Minnesota River, upstream from its confluence with the Mississippi River, about 12 miles (19\u00a0km) southwest of downtown Minneapolis.."
     },
     {
       "cityName": "Eden Valley",
@@ -3807,6 +3835,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is named after Robert H. Milroy, a Union Army general in the American Civil War."
+    },
+    {
+      "cityName": "Minneapolis",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minneapolis is a city in Hennepin County, Minnesota, United States, and its county seat. With a population of 429,954 as of the 2020 census, it is the state's most populous city."
+    },
+    {
+      "cityName": "Minneapolis",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the state's center near the eastern border, it occupies both banks of the Upper Mississippi River and adjoins Saint Paul, the state capital of Minnesota."
+    },
+    {
+      "cityName": "Minneapolis",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Minneapolis, Saint Paul, and the surrounding area are collectively known as the Twin Cities, a metropolitan area with 3.69 million residents.."
     },
     {
       "cityName": "Minnesota Lake",
@@ -6084,6 +6133,13 @@
       "fact": "Given its relative proximity to Minneapolis, the city is frequented by boaters, sailors, and visitors during the summer months."
     },
     {
+      "cityName": "West Coon Rapids",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coon Rapids is a northern suburb of Minneapolis, and the second-largest city by population in Anoka County, Minnesota, United States. The population was 63,599 at the 2020 census, making it Minnesota's 15th-largest city and the seventh-largest Twin Cities suburb.."
+    },
+    {
       "cityName": "West Saint Paul",
       "state": "MN",
       "source": "Wikipedia",
@@ -6194,6 +6250,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is 4 mi (6.4 km) northeast of Ely, Minnesota."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodbury is a city in Washington County, Minnesota, United States, eight miles (13\u00a0km) east of Saint Paul along Interstate 94. It is part of the Minneapolis\u2013Saint Paul metropolitan area."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 75,102 at the 2020 census, and was estimated at 80,596 in 2024, making it Minnesota's seventh-most populous city.."
     },
     {
       "cityName": "Woodland",

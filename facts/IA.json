@@ -841,6 +841,13 @@
       "fact": "There is only one business open to the public, a tavern/boat landing."
     },
     {
+      "cityName": "Coralville",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coralville is a city in Johnson County, Iowa, United States. It is a suburb of Iowa City and part of the Iowa City Metropolitan Statistical Area. The population was 22,318 at the 2020 census.."
+    },
+    {
       "cityName": "Corning",
       "state": "IA",
       "source": "Wikipedia",
@@ -1030,6 +1037,27 @@
       "fact": "Danbury holds a fall celebration called Corn Days during harvest."
     },
     {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Davenport is a city in Scott County, Iowa, United States, and its county seat. It is situated along the Mississippi River on the eastern border of the state. Davenport had a population of 101,724 as of the 2020 census, making it Iowa's third-most populous city, after Des Moines and Cedar Rapids."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Together with Bettendorf, Iowa; Rock Island, Illinois; Moline, Illinois; and East Moline, Illinois, Davenport is one of the five Quad Cities in Iowa and Illinois."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the largest city in the Quad Cities area, which has a metropolitan area population of 384,324 and a combined statistical area population of 474,019.."
+    },
+    {
       "cityName": "Decorah",
       "state": "IA",
       "source": "Wikipedia",
@@ -1098,6 +1126,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Denmark was laid out circa 1837."
+    },
+    {
+      "cityName": "Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Des Moines is the capital and most populous city in the U.S. state of Iowa. It is the county seat of Polk County with parts extending into Warren County. It is named after the Des Moines River, likely derived from the French Rivi\u00e8re des Moines meaning 'River of the Monks'."
+    },
+    {
+      "cityName": "Des Moines",
+      "state": "IA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated in 1851 as Fort Des Moines and shortened to Des Moines in 1857. Its population was 214,133 at the 2020 census, while the six-county Des Moines metropolitan area has an estimated 750,000 residents, the largest metropolitan area located entirely in Iowa.."
     },
     {
       "cityName": "Diagonal",

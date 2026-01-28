@@ -22,6 +22,13 @@
       "fact": "As of the 2020 census, the population of Aguila was 565, down from 798 in 2010."
     },
     {
+      "cityName": "Ahwatukee Foothills",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ahwatukee Foothills is an urban village of Phoenix. Ahwatukee is the southernmost part of Phoenix and is considered part of the East Valley region of the Phoenix metropolitan area.."
+    },
+    {
       "cityName": "Ajo",
       "state": "AZ",
       "source": "Wikipedia",
@@ -386,11 +393,32 @@
       "fact": "As of the 2020 census, the population of the town was 4892."
     },
     {
+      "cityName": "Central City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In urban planning, a historic core city or central city is the municipality with the largest 1940 population in the present metropolitan area. This term was retired by the US census bureau and replaced by the term principal city, which can include historic core cities and post-WWII cities."
+    },
+    {
+      "cityName": "Central City",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Metropolitan areas were no longer considered monocentric, but polycentric due to suburbanization of employment. A historic core city is not to be confused with the core of a metropolitan area which is defined as an urban area with a population of over 50,000 by the US census bureau.."
+    },
+    {
       "cityName": "Chambers",
       "state": "AZ",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Chambers is located at the junction of Interstate 40 and U S Route 191, 45 miles (72 km) northeast of Holbrook."
+    },
+    {
+      "cityName": "Chandler",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chandler is a city in Maricopa County, Arizona, United States, and a suburb in the Phoenix-Mesa-Chandler Metropolitan Statistical Area. It is the fourth-most populous city in Arizona, after Mesa, Tucson, and Phoenix. Chandler is considered to be a part of the East Valley.."
     },
     {
       "cityName": "Chinle",
@@ -1231,6 +1259,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The closest city to Gold Canyon is Apache Junction, Arizona."
+    },
+    {
+      "cityName": "Goodyear",
+      "state": "AZ",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goodyear is a city in Maricopa County, Arizona, United States. The population was 95,294 at the 2020 census, and was estimated to be 118,186 in 2024.."
     },
     {
       "cityName": "Grand Canyon",

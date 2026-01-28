@@ -141,6 +141,13 @@
       "fact": "Auburn and its sister city Lewiston are known locally as the Twin Cities or Lewiston\u2013Auburn (L\u2013A)."
     },
     {
+      "cityName": "Augusta",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Augusta is the capital city of the U.S. state of Maine. The city's population was 18,899 at the 2020 United States census, making it the 12th-most populous city in Maine, and third-least populous state capital in the United States. Augusta is the seat of and most populous city in Kennebec County.."
+    },
+    {
       "cityName": "Aurora",
       "state": "ME",
       "source": "Wikipedia",
@@ -4906,6 +4913,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Once part of the neighboring town of Paris, Maine, West Paris seceded from Paris and was incorporated in September 1957."
+    },
+    {
+      "cityName": "Westbrook",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westbrook is a city in Cumberland County, Maine, United States and a suburb of Portland. The population was 20,400 at the 2020 census, making it the fastest-growing city in Maine between 2010 and 2020. It is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area.."
     },
     {
       "cityName": "Westport Island",

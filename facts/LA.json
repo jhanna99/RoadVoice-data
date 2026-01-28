@@ -176,6 +176,20 @@
       "fact": "The community is located at the intersection of Louisiana highways 1 and 419 near the south bank of the Mississippi River, and runs north-northwest up from the village of Morganza."
     },
     {
+      "cityName": "Baton Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baton Rouge is the capital city of the U.S. state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city."
+    },
+    {
+      "cityName": "Baton Rouge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the seat of Louisiana's most populous parish, East Baton Rouge Parish, and the center of Louisiana's second-largest metropolitan area, Greater Baton Rouge, which had 870,569 residents in 2020.."
+    },
+    {
       "cityName": "Bayou Boeuf",
       "state": "LA",
       "source": "Wikipedia",
@@ -1926,6 +1940,13 @@
       "fact": "Although unincorporated, it has a post office, with the ZIP code of 71047."
     },
     {
+      "cityName": "Kenner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kenner is a city in the U.S. state of Louisiana. It is the most populous city in Jefferson Parish, and is the largest incorporated suburb of New Orleans. The population was 66,448 at the 2020 census, making it the sixth-most populous city in Louisiana.."
+    },
+    {
       "cityName": "Kentwood",
       "state": "LA",
       "source": "Wikipedia",
@@ -1994,6 +2015,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census the population was 480."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lafayette is the most populous city in and the parish seat of Lafayette Parish in the U.S. state of Louisiana, located along the Vermilion River. It is Louisiana's fourth-most populous city with a 2020 census population of 121,374; the consolidated city-parish's population was 241,753 in 2020."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lafayette metropolitan area was Louisiana's third largest metropolitan statistical area with a population of 478,384 at the 2020 census. The Acadiana region containing Lafayette is the largest population and economic corridor between Houston, Texas and New Orleans.."
     },
     {
       "cityName": "Lafitte",
@@ -2402,6 +2437,20 @@
       "fact": "It is an unincorporated area that (as of 2020) would have been Louisiana's fourth-largest city behind Shreveport if incorporated."
     },
     {
+      "cityName": "Metairie Terrace",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Metairie is an unincorporated community and census-designated place (CDP) in Jefferson Parish, Louisiana, United States, and is part of the New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Metairie Terrace",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 143,507 in 2020, Metairie is the largest community in Jefferson Parish, the fifth-largest CDP in the United States, and the largest outside Clark County, Nevada. It is an unincorporated area that would have been Louisiana's fourth-largest city behind Shreveport if incorporated.."
+    },
+    {
       "cityName": "Minden",
       "state": "LA",
       "source": "Wikipedia",
@@ -2414,6 +2463,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, the city had a total population of 11928."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is the ninth-largest city in the U.S. state of Louisiana, and is the parish seat and largest city of Ouachita Parish."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a 2020 census-tabulated population of 47,702, it is the principal city of the Monroe metropolitan statistical area, the second-largest metropolitan area in North Louisiana.."
     },
     {
       "cityName": "Montegut",
@@ -3639,6 +3702,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Shongaloo (pronounced Shawn-ga-lew) is an Indian term meaning \"Running Water\" or \"Cypress Tree\"."
+    },
+    {
+      "cityName": "Shreveport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shreveport is a city in the U.S. state of Louisiana. It is the third-most populous city in Louisiana after New Orleans and Baton Rouge. The bulk of Shreveport is in Caddo Parish, of which it is the parish seat. It extends along the west bank of the Red River into neighboring Bossier Parish."
+    },
+    {
+      "cityName": "Shreveport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2020 census tabulation for the city's population was 187,593, while the Shreveport\u2013Bossier City metropolitan area had a population of 393,406.."
     },
     {
       "cityName": "Sibley",

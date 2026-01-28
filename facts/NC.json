@@ -232,6 +232,20 @@
       "fact": "Arden is also home to Lutheridge, a Lutheran Camp and Conference Center affiliated with the ELCA."
     },
     {
+      "cityName": "Asheville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Asheville is a city in Buncombe County, North Carolina, United States. Located at the confluence of the French Broad and Swannanoa rivers, it is the county seat of Buncombe County."
+    },
+    {
+      "cityName": "Asheville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the most populous city in Western North Carolina and the state's 11th-most populous city with a population of 94,589 at the 2020 census. The four-county Asheville metropolitan area has an estimated 422,000 residents.."
+    },
+    {
       "cityName": "Atkinson",
       "state": "NC",
       "source": "Wikipedia",
@@ -1030,6 +1044,20 @@
       "fact": "Carthage is named after the ancient city of Carthage in modern Tunisia (North Africa)."
     },
     {
+      "cityName": "Cary",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cary is a town in Wake, Chatham, and Durham counties in the U.S. state of North Carolina and is part of the Raleigh-Cary, NC Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cary",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, its population was 174,721, making it the seventh-most populous municipality in North Carolina, and the 146th-most populous in the United States. In 2023, the town's population had increased to 180,010.."
+    },
+    {
       "cityName": "Cashiers",
       "state": "NC",
       "source": "Wikipedia",
@@ -1175,6 +1203,27 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "Local artists have created many murals in the town."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Charlotte is the most populous city in the U.S. state of North Carolina. With a population of 874,579 at the 2020 census, it is the 14th-most populous city in the U.S., seventh-most populous city in the South, and second-most populous city in the Southeast."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Charlotte metropolitan area, with an estimated 2.88 million residents, is the 21st-largest metropolitan area in the U.S. The Charlotte metropolitan area is part of an 18-county combined statistical area with an estimated population of 3.47 million as of 2024."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the county seat of Mecklenburg County.."
     },
     {
       "cityName": "Cherokee",
@@ -1728,6 +1777,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Dudley is included in the Goldsboro, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Durham",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Durham is a city in the U.S. state of North Carolina. The county seat of Durham County, small portions of the city limits extend into Orange County and Wake County."
+    },
+    {
+      "cityName": "Durham",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Durham is the fourth-most populous city in North Carolina and 70th-most populous city in the United States with a population of 283,506 at the 2020 census. The city is located in the east-central part of the Piedmont region along the Eno River."
+    },
+    {
+      "cityName": "Durham",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The four-county Durham\u2013Chapel Hill metropolitan area has an estimated 620,000 residents, while the greater Research Triangle area has a population of over 2.37 million people.."
     },
     {
       "cityName": "East Spencer",
@@ -7139,6 +7209,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "There are wetlands such as swamp and marsh surrounding the creek."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilmington is a port city in New Hanover County, North Carolina, United States. With a population of 115,451 as of the 2020 census, it is the eighth-most populous city in the state."
+    },
+    {
+      "cityName": "Wilmington",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county seat of New Hanover County, it is the principal city of the Wilmington metropolitan area, which includes New Hanover, Brunswick, and Pender counties. As of 2023, the region had an estimated population of 467,337.."
     },
     {
       "cityName": "Wilson",

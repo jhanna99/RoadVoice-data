@@ -3886,6 +3886,27 @@
       "fact": "Cordelia is located at the junction of Interstate 80 and California State Route 12 and at the northern end of Interstate 680, 7 miles (11 km) west of Fairfield, which has annexed substantial portions of its surroundings."
     },
     {
+      "cityName": "Corona",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corona is a city in northwestern Riverside County, California, United States, directly bordering Orange and San Bernardino counties. Its current mayor is Jacque Casillas. At the 2020 census, the city had a population of 157,136, up from 152,374 at the 2010 census."
+    },
+    {
+      "cityName": "Corona",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Corona is surrounded by Riverside to the east, Norco to the north and northeast, Yorba Linda to the northwest, Cleveland National Forest and the Santa Ana Mountains to the west, southwest, and south. Several unincorporated communities are along the rest of the city's borders."
+    },
+    {
+      "cityName": "Corona",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Downtown Corona is approximately 48 miles (77\u00a0km) southeast of Downtown Los Angeles and 95 miles (153\u00a0km) north-northwest of San Diego.."
+    },
+    {
       "cityName": "Coronado",
       "state": "CA",
       "source": "Wikipedia",
@@ -7358,6 +7379,20 @@
       "fact": "As of the 2020 census the population is 5141, which is a 35.1% decrease from the 2010 census."
     },
     {
+      "cityName": "Irvine",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Irvine is a planned city in central Orange County, California, United States, in the Los Angeles metropolitan area. It was named in 1888 for the landowner James Irvine. The Irvine Company started developing the area in the 1960s and the city was formally incorporated on December 28, 1971."
+    },
+    {
+      "cityName": "Irvine",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 66-square-mile (170\u00a0km2) city had a population of 318,629 as of June 2025. As of 2025, it is the second most populous city in Orange County, fifth most in the Greater Los Angeles region, and 62nd most in the United States.."
+    },
+    {
       "cityName": "Irwindale",
       "state": "CA",
       "source": "Wikipedia",
@@ -8308,6 +8343,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The San Gabriel River Freeway (I-605) runs through the city's eastern regions."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lancaster is a charter city in northern Los Angeles County, in the Antelope Valley of the western Mojave Desert in Southern California, United States."
+    },
+    {
+      "cityName": "Lancaster",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 173,516, making Lancaster the 158th-most populous city in the United States and the 30th most populous in California. Lancaster is a twin city with its southern neighbor Palmdale; together, they are the principal cities within the Antelope Valley region.."
     },
     {
       "cityName": "Larkfield",
@@ -11894,6 +11943,13 @@
       "fact": "The city has one of the state's highest percentage of Latinos, a large majority of whom are seasonal migrant laborers who arrive and temporarily work in the area's agricultural sector."
     },
     {
+      "cityName": "Pasadena",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pasadena is a city in Los Angeles County, California, United States, 11 miles (18\u00a0km) northeast of downtown Los Angeles. It is the most populous city and the primary cultural center of the San Gabriel Valley. Old Pasadena is the city's original commercial district.."
+    },
+    {
       "cityName": "Paso Robles",
       "state": "CA",
       "source": "Wikipedia",
@@ -12522,6 +12578,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "In 2010 and 2019, Rancho Cordova received the All-America City Award."
+    },
+    {
+      "cityName": "Rancho Cucamonga",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rancho Cucamonga is a city located just south of the foothills of the San Gabriel Mountains and Angeles National Forest in San Bernardino County, California, United States. About 37\u00a0mi (60\u00a0km) east of Downtown Los Angeles, Rancho Cucamonga is the 28th most populous city in California."
+    },
+    {
+      "cityName": "Rancho Cucamonga",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's seal, which centers on a cluster of grapes, alludes to the city's agricultural history including wine-making."
+    },
+    {
+      "cityName": "Rancho Cucamonga",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's proximity to major transportation hubs, airports, and highways has attracted the business of several large corporations, including Coca-Cola, Frito-Lay, Big Lots, Mercury Insurance Group, Southern California Edison, and Amphastar Pharmaceuticals.."
     },
     {
       "cityName": "Rancho Mirage",
@@ -14776,6 +14853,20 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Santa Clara is bordered by San Jose on almost every side, except for Sunnyvale and Cupertino to the west."
+    },
+    {
+      "cityName": "Santa Clarita",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Santa Clarita is a suburban city in northwestern Los Angeles County, California, United States. With a 2020 census population of 228,673, it is the third-most populous city in Los Angeles County, the 17th-most populous in California, and the 103rd-most populous city in the United States."
+    },
+    {
+      "cityName": "Santa Clarita",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located about 30 miles (48\u00a0km) northwest of downtown Los Angeles, and occupies 70.75 square miles (183.2\u00a0km2) of land in the Santa Clarita Valley, along the Santa Clara River. It is a classic example of a U.S. edge city, satellite city, or boomburb.."
     },
     {
       "cityName": "Santa Cruz",
@@ -17053,6 +17144,13 @@
       "fact": "As of the 2020 census, Vacaville had a population of 102386, making it the third-largest city in Solano County."
     },
     {
+      "cityName": "Valencia",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Valencia is an unincorporated community in northwestern Los Angeles County, California, United States. The area, west of Interstate 5, is expanding with residential development and already includes major commercial and industrial parks. It straddles State Route 126 and the Santa Clara River.."
+    },
+    {
       "cityName": "Valle Vista",
       "state": "CA",
       "source": "Wikipedia",
@@ -17429,6 +17527,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Vineyard doubled its population twice in two consecutive decades, and grew to become one of Greater Sacramento's most racially diverse suburbs."
+    },
+    {
+      "cityName": "Visalia",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Visalia is a city in the agricultural San Joaquin Valley of California. The population was 141,384 as per the 2020 census. Visalia is the fifth-most populous city in the San Joaquin Valley, the 38th most populous in California, and 183rd in the United States."
+    },
+    {
+      "cityName": "Visalia",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As the county seat of Tulare County, Visalia serves as the economic and governmental center to one of the most productive agricultural counties in the country.."
     },
     {
       "cityName": "Vista",

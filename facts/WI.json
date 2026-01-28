@@ -1,0 +1,4463 @@
+{
+  "facts": [
+    {
+      "cityName": "Abbotsford",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Abbotsford is nicknamed \"Wisconsin's First City\" due to its alphabetical place on a list of Wisconsin cities."
+    },
+    {
+      "cityName": "Abbotsford",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of this, 1665 were in Clark County, and 610 were in Marathon County."
+    },
+    {
+      "cityName": "Adell",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is a railroad terminal on the Union Pacific Railroad."
+    },
+    {
+      "cityName": "Amery",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of Wisconsin's 7th congressional district."
+    },
+    {
+      "cityName": "Amery",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named in honor of William Amery, a carpenter who held several local offices in the 1870s."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amherst is at the core of the Tomorrow Valley area."
+    },
+    {
+      "cityName": "Antigo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Antigo is the center of a farming and lumbering district, and its manufactured products consist principally of lumber, chairs, furniture, sashes, doors and blinds, hubs and spokes, and other wood products."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its economy has historically been anchored in paper manufacturing and has diversified into retail and healthcare, with St. Elizabeth Hospital and ThedaCare Regional Medical Center\u2013Appleton in the city."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a cultural center of the Fox River Valley, highlighted by institutions such as the Fox Cities Performing Arts Center and History Museum at the Castle, which celebrates local heritage and figures like magician Harry Houdini."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located on the Fox River north of Lake Winnebago, it is 30 miles (48 km) southwest of Green Bay and 100 miles (160 km) north of Milwaukee."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Appleton was founded in the mid-19th century and developed as a prominent industrial and educational hub, notably with the establishment of Lawrence University in 1847."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It also hosts regional events such as Octoberfest and the Mile of Music."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city had a population of 75644 at the 2020 census, making it the sixth-most populous city in Wisconsin."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The Appleton metropolitan statistical area had 243147 residents."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Appleton is part of the broader Fox Cities region."
+    },
+    {
+      "cityName": "Arbor Vitae",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arbor Vitae was incorporated in 2000."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Argyle."
+    },
+    {
+      "cityName": "Armstrong Creek",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Armstrong Creek was incorporated in 2010."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Northwood Technical College, the Sigurd Olson Environmental Institute, and the recently closed Northland College."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a port on Lake Superior, near the head of Chequamegon Bay."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The unpopulated Bayfield County portion is in the city's southwest, bordered by the easternmost part of the Town of Eileen."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The junction of US Highway 2 (US 2) and Wisconsin Highway 13 (WIS 13) is located at this city."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's original name, zhamawanik, means 'long stretched beaver' in Ojibwe."
+    },
+    {
+      "cityName": "Ashwaubenon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Oneida Nation of Wisconsin is in Ashwaubenon."
+    },
+    {
+      "cityName": "Athelstane",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athelstane was incorporated in 2000."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is bordered by the Town of Bridge Creek."
+    },
+    {
+      "cityName": "Avoca",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Avoca in Ireland."
+    },
+    {
+      "cityName": "Baileys Harbor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baileys Harbor was incorporated in 2020."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is adjacent to the Town of Baldwin."
+    },
+    {
+      "cityName": "Baraboo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baraboo is home to the Circus World Museum and the former headquarters and winter home of the Ringling Brothers Circus."
+    },
+    {
+      "cityName": "Baraboo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Baraboo is near Devil's Lake State Park and Aldo Leopold Shack and Farm."
+    },
+    {
+      "cityName": "Baraboo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ringling Theatre is an active landmark in the city."
+    },
+    {
+      "cityName": "Baraboo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Ho-Chunk Nation of Wisconsin has an active cultural and community presence in the Baraboo area."
+    },
+    {
+      "cityName": "Barron",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded by the Town of Barron."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Formerly the county seat and home to industries in lumbering and commercial fishing, today it is a tourist and resort destination referred to as the \"Gateway to the Apostle Islands\"."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bayfield (Ojibwe: Oshki-oodenais) a city in Bayfield County, Wisconsin, United States."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wisconsin Highway 13 serves as a main route in the community."
+    },
+    {
+      "cityName": "Bayfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city of Bayfield is known in the Anishinaabe language as Oshki-oodena (\"New-town\"), as opposed to Superior, Wisconsin, which is known as Gete-oodena (\"Old-town\"), in reference to the Ojibwa migration."
+    },
+    {
+      "cityName": "Bayside",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 4378 were in Milwaukee County, and only 104 were in Ozaukee County."
+    },
+    {
+      "cityName": "Beaver Dam",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is adjacent to the Town of Beaver Dam."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As recently as 2015, the local cannery, which processes fruits and vegetables harvested at area farms, was by far the village's largest employer."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Belgium grew after a railroad was constructed through the community and incorporated as a village in 1922, the community remained primarily agricultural in the 20th century."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Members of the Grand Ducal Family of Luxembourg have visited, and the Luxembourg Government sponsors the Luxembourg American Cultural Society and Museum in the community."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Among other programs, the center assists Americans of Luxembourgish ancestry in applying for dual citizenship, and since 1987 the village has hosted an annual festival devoted to Luxembourgish food and culture."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Beginning in the 1840s, immigrant farmers from Luxembourg settled in Northern Ozaukee County and formed several rural communities, including Belgium as well as the neighboring hamlets of Dacada, Holy Cross, and Lake Church."
+    },
+    {
+      "cityName": "Belgium",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The village continues to have strong cultural ties to the Grand Duchy of Luxembourg."
+    },
+    {
+      "cityName": "Belleville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 1909 were in Dane County, and 582 were in Green County."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the original capital of the Wisconsin Territory during the first legislative assembly in 1836."
+    },
+    {
+      "cityName": "Beloit",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Janesville\u2013Beloit metropolitan statistical area, consisting solely of Rock County, has an estimated 165000 residents."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 5435 were in Green Lake County, and only 89 were in Waushara County."
+    },
+    {
+      "cityName": "Big Bend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Big Bend is the name of some places in the U S state of Wisconsin: Big Bend, Rusk County, Wisconsin, a town Big Bend, Waukesha County, Wisconsin, a village"
+    },
+    {
+      "cityName": "Big Flats",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Big Flats is located at the junction of Wisconsin Highway 13 and County Highway C 10 miles (16 km) north of Friendship."
+    },
+    {
+      "cityName": "Birnamwood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Until the 1990s, Birnamwood was home to the world's largest fiberglass badger."
+    },
+    {
+      "cityName": "Birnamwood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of this, 716 were in Shawano County, and 14 were in Marathon County."
+    },
+    {
+      "cityName": "Birnamwood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "U S Route 45 runs through the village."
+    },
+    {
+      "cityName": "Blair",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blair is on the former Green Bay and Western Railroad, which ran down the Trempealeau River valley to Winona, Minnesota."
+    },
+    {
+      "cityName": "Bloomer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the city of Bloomer was 3683."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Businesses include the historic Central House Hotel, the birthplace of Gideons International."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Boscobel was the site of a stop along the now defunct Milwaukee Road, and it is still served by the Wisconsin and Southern Railroad."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "(1 km) to the north of the city, across a riparian swamp, is the Wisconsin River."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "U S Route 61 crosses the Wisconsin River at Boscobel."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Approximately 0.6 mi."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "To the south, the city is bordered by the Town of Boscobel."
+    },
+    {
+      "cityName": "Boscobel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It is also the site of the Wisconsin Secure Program Facility (WSPF), a Wisconsin Department of Corrections prison for men."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "While the railroad served the booming logging industry, it also attracted outdoors enthusiasts who came to fish and hunt."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1903, the Milwaukee Railroad laid tracks to the area that became known as Boulder Junction."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Electricity arrived in 1925."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town of Boulder Junction was incorporated in 1927."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Phone service began in 1930."
+    },
+    {
+      "cityName": "Boulder Junction",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Also in the 1930s, wide-scale replanting began of the trees that had been harvested from the land during the logging boom of the previous decades."
+    },
+    {
+      "cityName": "Briggsville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Briggsville is the home of the National Shrine of Saint Philomena."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bristol, Wisconsin may refer to: Bristol, Dane County, Wisconsin, a town in Dane County Bristol (town), Kenosha County, Wisconsin, a former town in Kenosha County Bristol (village), Wisconsin, a village in Kenosha County"
+    },
+    {
+      "cityName": "Brodhead",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In February 2000, the city annexed a portion of land from the Town of Spring Valley in Rock County."
+    },
+    {
+      "cityName": "Brodhead",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Brodhead was founded in 1856."
+    },
+    {
+      "cityName": "Brokaw",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brokaw merged with the village of Maine on October 1, 2018 after the village became deeply in debt as the result of the closure of a paper mill in the former village."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a population of 41464 at the 2020 census."
+    },
+    {
+      "cityName": "Brooklyn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brooklyn is the name of some places in the U S state of Wisconsin: Brooklyn (village), Wisconsin, a village in Dane and Green Counties Brooklyn, Green County, Wisconsin, a town Brooklyn, Green Lake County, Wisconsin, a town Brooklyn, Washburn County, Wisconsin, a town"
+    },
+    {
+      "cityName": "Brussels",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brussels was incorporated in 2010."
+    },
+    {
+      "cityName": "Buchanan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buchanan was incorporated in 2010."
+    },
+    {
+      "cityName": "Butler",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Butler is the name of some places in the U S state of Wisconsin: Butler, Clark County, Wisconsin, a town Butler, Waukesha County, Wisconsin, a village"
+    },
+    {
+      "cityName": "Cameron",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cameron, Wisconsin may refer to: Cameron, Barron County, Wisconsin, a village Cameron, Wood County, Wisconsin, a town"
+    },
+    {
+      "cityName": "Camp Douglas",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Camp Douglas is home to Volk Field Air National Guard Base."
+    },
+    {
+      "cityName": "Cascade",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cascade",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wisconsin Highway 28 passes through Cascade."
+    },
+    {
+      "cityName": "Casco",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Casco is named after Casco Bay on the coast of Maine, the previous home of Edward Decker, an early logger in Kewaunee County."
+    },
+    {
+      "cityName": "Cassville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is surrounded by the Town of Cassville."
+    },
+    {
+      "cityName": "Cedar Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community profits from a vibrant tourist industry and hosts festivals and events throughout the year that attract visitors from other areas."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was distinctly German into the early 20th century, with several Lutheran churches, a brewery, a European-style spa resort called Hilgen Spring Park, and many German cultural associations, including two Turner societies."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cedarburg changed significantly during the period of post-World War II suburbanization."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In spite of the changes, more than 200 of Cedarburg's historic buildings have been preserved, and the city is home to eight listings on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city incorporated in 1885, and at the time of the 2020 census the population was 12121."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Like many of Ozaukee County's cities and villages, the City of Cedarburg began as a mill town."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "German immigrants began building hydropowered gristmills and woolen mills along Cedar Creek in the 1840s."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The community that sprang up around the mills is now downtown Cedarburg."
+    },
+    {
+      "cityName": "Cedarburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "While the mills had all closed by the 1960s, the city experienced rapid population growth and the development of new commercial properties and housing subdivisions."
+    },
+    {
+      "cityName": "Chilton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is partially within the Town of Chilton."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clayton is the name of some places in the U S state of Wisconsin: Clayton, Crawford County, Wisconsin, a town Clayton, Polk County, Wisconsin a town Clayton, Winnebago County, Wisconsin, a town Clayton (village), Wisconsin in Polk County, a village"
+    },
+    {
+      "cityName": "Clear Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is adjacent to the Town of Clear Lake along U S Highway 63."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clinton is the name of several places in the U S state of Wisconsin: Clinton, Barron County, Wisconsin, a town Clinton (town), Rock County, Wisconsin, a town Clinton (village), Rock County, Wisconsin, a village Clinton, Vernon County, Wisconsin, a town"
+    },
+    {
+      "cityName": "Clintonville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area that became Clintonville was first settled in March, 1855."
+    },
+    {
+      "cityName": "Colby",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 1275 were in Clark County, and 677 were in Marathon County."
+    },
+    {
+      "cityName": "Colby",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is bordered by the Town of Colby, the Town of Hull, and the City of Abbotsford."
+    },
+    {
+      "cityName": "Colby",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Colby cheese was first created in Colby."
+    },
+    {
+      "cityName": "Coleman",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1882, a railroad track was laid between Coleman and Pound, Wisconsin."
+    },
+    {
+      "cityName": "Coleman",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Logging was the predominant industry in the area from the 1880s and 1910s."
+    },
+    {
+      "cityName": "Coleman",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The tracks were later extended in 1884 to Crivitz, Wisconsin and Marinette, Wisconsin, bringing many more goods and settlers."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Colfax."
+    },
+    {
+      "cityName": "Colgate",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colgate is located partially in the village of Richfield, and the village of Lisbon."
+    },
+    {
+      "cityName": "Coloma",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coloma is home of the annual Coloma Chicken Chew, held at the end of June."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbus is located about 28 miles (45 km) northeast of Madison on the Crawfish River."
+    },
+    {
+      "cityName": "Combined Locks",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of the Appleton, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cottage Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 7303 at the 2020 census."
+    },
+    {
+      "cityName": "Cottage Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A suburb of Madison, it shares a school district with Monona."
+    },
+    {
+      "cityName": "Cottage Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village was named from a settler's cottage in a grove near the village site."
+    },
+    {
+      "cityName": "Crandon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crandon was incorporated in 2020."
+    },
+    {
+      "cityName": "Cuba City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is nicknamed \"The City of Presidents\" because of the presidential banners displayed along the city's Main Street."
+    },
+    {
+      "cityName": "Cuba City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of this, 1890 were in Grant County, and 248 were in Lafayette County."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1885."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cushing is located on Wisconsin Highway 87 north of St. Croix Falls, in the towns of Laketown and Sterling."
+    },
+    {
+      "cityName": "Dale",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dale is a town in Outagamie County, Wisconsin, United States, established on November 17, 1853."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located in the southwest corner of the town of Swiss."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, its population was 172."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The main intersection in the community is located at the intersection of two state highways, (Wisconsin Highway 35 and Wisconsin Highway 77)."
+    },
+    {
+      "cityName": "Darlington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded by the Town of Darlington."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Menominee, who call themselves Mamaceqtaw (\"the people\"), have inhabited the Fox River valley for over 10000 years and are the only Wisconsin tribe with no migration story\u2014their origin is in this land."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When French explorer Jean Nicolet visited in 1634\u201335, the site was home to a multi-tribal settlement of several thousand people, drawn by the abundant fishing at the first rapids of the Fox River."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1671, French Jesuit missionary Claude-Jean Allouez founded the St. Francis Xavier Mission at the rapids, establishing a base for proselytizing Indigenous peoples of the western Great Lakes."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The De Pere Dam marks a significant point on the Lower Fox River; during the 20th century, the area just downstream of the dam contained the highest PCB concentrations in the river\u2014up to 3000 parts per million\u2014from paper mill discharges between the 1950s and 1970s."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The site became known as Rapides des P\u00e8res (\"rapids of the fathers\"), later shortened to De Pere."
+    },
+    {
+      "cityName": "De Pere",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "A billion-dollar cleanup completed in 2020 dredged or capped over 6 million cubic yards of contaminated sediment."
+    },
+    {
+      "cityName": "Deerfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Towns and villages near Deerfield include Stoughton, Madison, Wisconsin, Marshall, Medina, London, Lake Mills, Cambridge, and Cottage Grove, Wisconsin."
+    },
+    {
+      "cityName": "Delavan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delavan is home to Delavan Lake which brings in a large number of tourists each year, and is also close to Lake Geneva, another popular tourist destination."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Denmark began to be settled by Danish immigrants in 1848, and has been referred to, along with Hartland, Wisconsin, as the \"nuclei of what developed into one of the most important regions of Danish immigration in the United States.\""
+    },
+    {
+      "cityName": "Dickeyville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Dickeyville Grotto is located in the heart of the village."
+    },
+    {
+      "cityName": "Dresser",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is along Wisconsin Highway 35."
+    },
+    {
+      "cityName": "Durand",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the banks of the Chippewa River approximately 15 miles (24 km) from its confluence with the Mississippi River, the city borders the Town of Durand."
+    },
+    {
+      "cityName": "East Troy",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of East Troy, with a small portion extending into the adjacent Town of Troy."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "After Eau Claire's lumber industry declined in the early 20th century, the city's economy diversified to encompass manufacturing and Eau Claire became an educational center with the opening of the University of Wisconsin\u2013Eau Claire in 1916."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eau Claire is known regionally for its arts and music scenes and is the hometown of indie folk band Bon Iver, whose lead singer Justin Vernon co-curated the city's annual Eaux Claires Music & Arts Festival."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eau Claire is at the confluence of the Eau Claire and Chippewa rivers on traditional Ojibwe, Dakota, and Ho-Chunk land."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Eau Claire ( oh-KLAIR; French: lit."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is the seventh-most populous city in Wisconsin, with a population of 69421 at the 2020 census (estimated at 72331 in 2024)."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The area's first permanent European American settlers arrived in 1845, and Eau Claire was incorporated as a city in 1872."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city's early growth came from its extensive logging and timber industries."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Eau Claire is also a regional commercial and business center and home to the headquarters of home improvement store chain Menards."
+    },
+    {
+      "cityName": "Eau Claire",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Eau Claire is the second-fastest growing major city in Wisconsin after Madison, with 5.4% population growth between 2010 and 2020."
+    },
+    {
+      "cityName": "Edgar",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edgar has maintained Tree City USA standing since 1995."
+    },
+    {
+      "cityName": "Edgerton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edgerton was historically known as \"Tobacco City U.S.A.\" because of the importance of tobacco growing in the region."
+    },
+    {
+      "cityName": "Egg Harbor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is adjacent to the Town of Egg Harbor and the Town of Gibraltar on the Door Peninsula, a popular Upper Midwest vacation destination."
+    },
+    {
+      "cityName": "Egg Harbor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village was incorporated in 1964."
+    },
+    {
+      "cityName": "Egg Harbor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The harbor was known to the Potawatomi as Che-bah-ye-sho-da-ning, or \"ghost door\"."
+    },
+    {
+      "cityName": "Elcho",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is served by the Elcho Fire and Rescue Department."
+    },
+    {
+      "cityName": "Elkhart Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elkhart Lake may be best known for hosting road races on public county roads during the 1950s, later moving to a dedicated race track called Road America, a few miles south of the village."
+    },
+    {
+      "cityName": "Elkhorn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it was home to 10247 people, up from 10084 at the 2010 census."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is adjacent to the Town of Ellsworth and now incorporates the formerly separate district known as East Ellsworth."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality of Ellsworth and its surroundings are slowly becoming incorporated into the Twin Cities Metro Area."
+    },
+    {
+      "cityName": "Elm Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elm Grove was named as America's best suburb by Business Insider in October 2014."
+    },
+    {
+      "cityName": "Ettrick",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ettrick is the name of two places in the U S state of Wisconsin: Ettrick (town), Wisconsin Ettrick (village), Wisconsin, located within the town of the same name"
+    },
+    {
+      "cityName": "Fairwater",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Metomen surrounds the village."
+    },
+    {
+      "cityName": "Fall Creek",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is bordered by the Town of Lincoln."
+    },
+    {
+      "cityName": "Fennimore",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's area was separated from the Town of Fennimore, which remains as an adjacent rural area."
+    },
+    {
+      "cityName": "Fitchburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fitchburg consists of a mix of suburban neighborhoods closer to the border with Madison, commercial and industrial properties, and rural properties in the south."
+    },
+    {
+      "cityName": "Fond du Lac",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is at the southern end of Lake Winnebago and had a population of 44678 at the 2020 census."
+    },
+    {
+      "cityName": "Fond du Lac",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city forms the core of the Fond du Lac metropolitan statistical area, which includes all of Fond du Lac County and had 104154 residents in 2020."
+    },
+    {
+      "cityName": "Fontana",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fontana-on-Geneva Lake (locally known as \"Fontana\") is a village located on Geneva Lake in Walworth County, Wisconsin, United States."
+    },
+    {
+      "cityName": "Forestville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Ahnapee State Trail passes through the village on the southwest."
+    },
+    {
+      "cityName": "Fort Atkinson",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along the Rock River a few miles upstream from Lake Koshkonong."
+    },
+    {
+      "cityName": "Fountain City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fountain City is also known for where Northwest Airlines Flight 421 crashed."
+    },
+    {
+      "cityName": "Fox Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shopping centers include Fox Point Shops, and RiverPoint Shopping Center."
+    },
+    {
+      "cityName": "Fox Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is primarily residential."
+    },
+    {
+      "cityName": "Frederic",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established as a village in 1901."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is located east of the unincorporated census-designated place of Waubeka, the location of the National Register of Historic Places-listed Stony Hill School where the first United States Flag Day was observed in 1885."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first white settlers in the area were Yankees, Germans and Luxembourgers who arrived in the 1840s, but the community was rural until the 1870s when the Chicago, Milwaukee & St. Paul Railway built a station in the area and businesses began to cluster it, laying the foundation for the village."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, Waubeka is home to the National Flag Day Foundation headquarters and its Americanism Center Museum, which has an extensive collection of patriotic memorabilia."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community was the site of a Potawatomi village until at least the 1840s."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Fredonia grew, incorporating in 1922."
+    },
+    {
+      "cityName": "Fremont",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is surrounded by Town of Fremont."
+    },
+    {
+      "cityName": "Fremont",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fremont has been referred to as the \"White Bass Capital of the World.\""
+    },
+    {
+      "cityName": "Galesville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A dam on Beaver Creek is located at Galesville, forming Lake Marinuka north of the city."
+    },
+    {
+      "cityName": "Galesville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The mayor is Vince Howe."
+    },
+    {
+      "cityName": "Genesee Depot",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the Town of Genesee, in southeastern Wisconsin between Milwaukee and Madison, and named for the train station, or depot, of the Wisconsin and Calumet Railroad (now the Wisconsin and Southern Railroad) that formerly served the town."
+    },
+    {
+      "cityName": "Genoa",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is within the Town of Genoa."
+    },
+    {
+      "cityName": "Gillett",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is adjacent to the Town of Gillett."
+    },
+    {
+      "cityName": "Gilman",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 378 at the 2020 census."
+    },
+    {
+      "cityName": "Gleason",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gleason is known as the \"Trout Fishing Capital of the World\", boasting the world record brook trout and trout fishing on many of the local streams."
+    },
+    {
+      "cityName": "Gleason",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is situated on Wisconsin Highway 17 northeast of Merrill, in the town of Russell."
+    },
+    {
+      "cityName": "Gleason",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Estonian Evangelical Martin Luther Church, the first Estonian church built in America, is located in Gleason."
+    },
+    {
+      "cityName": "Glenbeulah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenbeulah is situated on the Mullet River."
+    },
+    {
+      "cityName": "Glenbeulah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Glenwood City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is known as the \"City of 57 Hills.\" Glenwood City is the site of the annual St. Croix County Fair."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paramount's role in Grafton's history and Blues music history earned the village a spot on the historic Mississippi Blues Trail."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Paramount was one of the first and largest producers of blues and jazz records marketed to African-American consumers."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Grafton changed significantly during the period of post-World War II suburbanization."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Manufacturing grew and prospered in the village in the 20th century, including the Paramount Records studio and plant, which was in Grafton from 1929 to 1935."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The German and Irish immigrants who settled in Grafton in the 1840s utilized the Milwaukee River as a source of hydropower for gristmills and woolen mills."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The village incorporated in 1896, and at the time of the 2020 census the population was 12094."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Like many of Ozaukee County's cities and villages, the Village of Grafton has rural roots and began as a mill town."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Even though the last woolen mill closed in 1980, the village experienced rapid population growth and the development of new commercial properties and housing subdivisions."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The construction of Interstate 43 in the mid-1960s eased travel to neighboring communities."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In the 21st century, Grafton is home to many big-box stores as well as an Aurora hospital."
+    },
+    {
+      "cityName": "Grand Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Chute was incorporated in 2020."
+    },
+    {
+      "cityName": "Grantsburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established by Canute Anderson."
+    },
+    {
+      "cityName": "Gratiot",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Gratiot."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With a population of 107395 at the 2020 census, it is the third-most populous city in Wisconsin and third-most populous city on Lake Michigan."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its development was shaped by its location at the mouth of the Fox River, and the city emerged as a center for the lumber and paper industries in the 19th and 20th centuries."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Green Bay area was inhabited by various indigenous tribes, including the Menominee and Ho-Chunk."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was settled in 1634 by Jean Nicolet as a fur trading post in New France."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The first permanent European inhabitants arrived during British control in the mid-18th century."
+    },
+    {
+      "cityName": "Green Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Green Bay is widely recognized for its association with the Green Bay Packers of the National Football League, a publicly owned franchise whose presence contributes significantly to the local economy and culture."
+    },
+    {
+      "cityName": "Green Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Green Lake is located on the south side of Big Green Lake, opposite the city."
+    },
+    {
+      "cityName": "Green Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city had a population of 1001 in the 2020 census."
+    },
+    {
+      "cityName": "Greendale",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A planned community, it was established by the US government during the Great Depression."
+    },
+    {
+      "cityName": "Hager City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hager City is served by the Ellsworth School District."
+    },
+    {
+      "cityName": "Hager City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 357."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is within the Town of Hammond."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hammond was home to the Running of the Llamas."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a population of 16000."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "All of this population resided in Washington County; the portion of the city in Dodge County consists of only industrial and commercial parcels."
+    },
+    {
+      "cityName": "Hawthorne",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hawthorne was incorporated in 2000."
+    },
+    {
+      "cityName": "Hayward",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is near the Namekagon River and is surrounded by the Town of Hayward."
+    },
+    {
+      "cityName": "Hayward",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 2533 at the 2020 census."
+    },
+    {
+      "cityName": "Hayward",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was formally organized in 1883."
+    },
+    {
+      "cityName": "Hobart",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hobart is a part of the Green Bay Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Howard",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bordered to the east by Green Bay, a sub-basin of Lake Michigan."
+    },
+    {
+      "cityName": "Howard",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is mostly within Brown County; a small portion extends west into Outagamie County."
+    },
+    {
+      "cityName": "Howard",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Prior to being incorporated as the Village of Howard, the Town of Howard was commonly referred to as \"Duck Creek\" because of the Duck Creek waterway winding its way through the village."
+    },
+    {
+      "cityName": "Hubertus",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after the former St. Hubert Catholic parish, now joined with St. Gabriel Parish."
+    },
+    {
+      "cityName": "Hubertus",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Holy Hill National Shrine of Mary, Help of Christians is located in the area."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 14755."
+    },
+    {
+      "cityName": "Iola",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after a Potawatomi princess."
+    },
+    {
+      "cityName": "Iola",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is bordered by the towns of Iola and Scandinavia."
+    },
+    {
+      "cityName": "Iron Ridge",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village was founded on a railroad line, named for the iron mined in the area."
+    },
+    {
+      "cityName": "Iron River",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iron River was incorporated in 2020."
+    },
+    {
+      "cityName": "Ixonia",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ixonia was incorporated in 2020."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jackson, Wisconsin may refer to: Jackson County, Wisconsin Jackson, Adams County, Wisconsin, a town Jackson, Burnett County, Wisconsin, a town Jackson, Washington County, Wisconsin, a town Jackson (village), Wisconsin, in Washington County"
+    },
+    {
+      "cityName": "Janesville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Janesville\u2013Beloit Metropolitan statistical area, consisting solely of Rock County, has an estimated 165461 residents in the 2024 estimate."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies at the confluence of the Rock and Crawfish rivers."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is partially bordered by the Town of Jefferson."
+    },
+    {
+      "cityName": "Johnson Creek",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is approximately halfway between Milwaukee and Madison, at the intersection of Wisconsin Highway 26 and Interstate 94."
+    },
+    {
+      "cityName": "Juda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Juda is five miles east of Monroe along state highways 11 and 81."
+    },
+    {
+      "cityName": "Juda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 340, down from 357 at the 2010 census."
+    },
+    {
+      "cityName": "Juda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Juda is a part of the Madison Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Juda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On March 30, 1967, nine students from Juda's Union High School, all girls, were killed when a Delta Air Lines DC-8 jet crashed into the motel where they had been staying during a senior class trip to New Orleans, Louisiana."
+    },
+    {
+      "cityName": "Kansasville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area has also been referred to as Brighton or Eagle Lake, Wisconsin."
+    },
+    {
+      "cityName": "Kaukauna",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a part of the Appleton, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kendall",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kendall is the name of some places in the U S state of Wisconsin: Kendall, Lafayette County, Wisconsin, a town Kendall, Monroe County, Wisconsin, a village"
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Orson Welles was born in Kenosha."
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cultural and recreational facilities include the Kenosha Public Museum, Civil War Museum, waterfront parks and marinas, and a restored electric streetcar system that serves the downtown and lakefront areas."
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1835 and incorporated in 1850, Kenosha developed as a port and manufacturing center and remained a regional hub for automotive and durable goods production through the 20th century."
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the headquarters of Snap-on and Jockey International and hosts several higher education institutions, including the University of Wisconsin\u2013Parkside and Carthage College."
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located on the southwestern shore of Lake Michigan, it is the fourth-most populous city in Wisconsin, with 99986 residents at the 2020 census."
+    },
+    {
+      "cityName": "Kenosha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Kenosha metropolitan statistical area, consisting solely of Kenosha County, has roughly 169000 residents."
+    },
+    {
+      "cityName": "Keshena",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keshena was named for an Indian chief; the Menominee name is Kes\u012bqnaeh which means \"Swift Flying\"."
+    },
+    {
+      "cityName": "Keshena",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the Menominee Indian Reservation, it had a population of 1257 at the 2020 census."
+    },
+    {
+      "cityName": "Kewaskum",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "All of this population resided in the Washington County portion of the village."
+    },
+    {
+      "cityName": "Kewaskum",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is mostly surrounded by the Town of Kewaskum."
+    },
+    {
+      "cityName": "Kewaunee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its Menominee name is Kew\u0101neh, an archaic name for a species of duck."
+    },
+    {
+      "cityName": "Kiel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kiel was once known as the \"Wooden Shoes Capital of Wisconsin,\" as it held the only wooden shoe factory in Wisconsin."
+    },
+    {
+      "cityName": "Kiel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of this, 3585 residents lived in Manitowoc County, and 347 residents lived in Calumet County."
+    },
+    {
+      "cityName": "Kimberly",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is east of Appleton."
+    },
+    {
+      "cityName": "Kimberly",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a part of the Appleton, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Knapp",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knapp is the name of some places in the U S state of Wisconsin: Knapp, Dunn County, Wisconsin, a village Knapp, Jackson County, Wisconsin, a town"
+    },
+    {
+      "cityName": "Kohler",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan metropolitan statistical area."
+    },
+    {
+      "cityName": "La Farge",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 730 at the 2020 census."
+    },
+    {
+      "cityName": "Lac du Flambeau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The land base of the Lac du Flambeau Band of Lake Superior Chippewa is located within the town and also consists of a large portion of the town."
+    },
+    {
+      "cityName": "Lac du Flambeau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lac du Flambeau, situated around Flambeau Lake, is a year-round vacation destination."
+    },
+    {
+      "cityName": "Lac du Flambeau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Town of Lac du Flambeau is located in Vilas County, Wisconsin, United States."
+    },
+    {
+      "cityName": "Lake Delton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the Wisconsin River and Lake Delton reservoir, the village forms a resort area and tourism destination along with nearby Wisconsin Dells."
+    },
+    {
+      "cityName": "Lake Geneva",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since the late 19th century, it has been home to numerous lakefront mansions owned by wealthy Chicagoans as second homes, leading it to be nicknamed the \"Newport of the West.\""
+    },
+    {
+      "cityName": "Lake Geneva",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated on Geneva Lake, the population was 8277 at the 2020 census."
+    },
+    {
+      "cityName": "Lake Hallie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated from part of the town of Hallie on February 18, 2003."
+    },
+    {
+      "cityName": "Lake Hallie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2020 census put the village's population at 7170, up from 6448 at the 2010 census."
+    },
+    {
+      "cityName": "Lake Tomahawk",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Tomahawk is a town in Oneida County, Wisconsin, United States, named for the adjacent freshwater lake of the same name."
+    },
+    {
+      "cityName": "Lake Wissota",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP, known locally as Lake Wissota Village, is located along the southern shores of Lake Wissota."
+    },
+    {
+      "cityName": "Lakewood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2000 census, the town population was 875."
+    },
+    {
+      "cityName": "Land O'Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Land O'Lakes was incorporated in 2010."
+    },
+    {
+      "cityName": "Laona",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laona was incorporated in 2010."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Little Chute is home to a full-scale Dutch-style working windmill, which has become a tourist attraction."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A historical marker near Little Chute commemorates the Treaty of the Cedars, a treaty which ceded 4 million acres of Native American land to the US government."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is immediately east of the city of Appleton and runs along the Fox River."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is a part of the Appleton, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was originally established as a trading post by French explorers who called it \"Le Petite Chute\" (Little Chute)."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In the late 19th century, it was settled by Dutch Catholic immigrants from North Brabant, led initially by the Dominican Missionary Theodore J. van den Broek from Uden."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town became an outpost of Dutch Catholic immigrants in the Midwest."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Prior to European exploration it is likely the Mississippian culture tribe, the Oneota lived in the area."
+    },
+    {
+      "cityName": "Little Chute",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The Oneota are believed to be the ancestors of the Winnebago or Ho-Chunk tribe."
+    },
+    {
+      "cityName": "Livingston",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 657 were in Grant County, and only 12 were in Iowa County."
+    },
+    {
+      "cityName": "Loganville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village was named for Chauncey P. Logan, who built the first house in 1853."
+    },
+    {
+      "cityName": "Lone Rock",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is named after a sandstone outcrop."
+    },
+    {
+      "cityName": "Loyal",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name comes from the 1860s, when so many of its patriotic pioneers went to fight in the Civil War."
+    },
+    {
+      "cityName": "Loyal",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A store was established at the site in 1870, the place platted in 1885, incorporated as a village in 1893, and changed to a city in 1948."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyons was incorporated in 2020."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madison was founded in 1836 and is named after American Founding Father and President James Madison."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Within the city are nine National Historic Landmarks, including several buildings designed by Frank Lloyd Wright."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is also home to the University of Wisconsin\u2013Madison, the flagship campus of the University of Wisconsin System."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city features a variety of cultural and recreational institutions, including the Chazen Museum of Art, Henry Vilas Zoo, Olbrich Botanical Gardens, and Overture Center for the Arts."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The presence of the University of Wisconsin\u2013Madison and other educational institutions significantly shapes the local economy, culture, and demographics."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "With a downtown centrally located on an isthmus between Lakes Mendota and Monona, the city also encompasses Lake Wingra."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Madison is the capital of the U S state of Wisconsin."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It is the second-most populous city in the state, with a population of 269840 at the 2020 census."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "As the state capital, Madison is home to government chambers, including the Wisconsin State Capitol."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Major companies in the city include American Family Insurance and TruStage Financial Group."
+    },
+    {
+      "cityName": "Malone",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calvary, in the towns of Marshfield, and Taycheedah."
+    },
+    {
+      "cityName": "Malone",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Malone is located in The Holyland region of Wisconsin."
+    },
+    {
+      "cityName": "Malone",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to a post office."
+    },
+    {
+      "cityName": "Manitowish Waters",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manitowish Waters was incorporated in 2018."
+    },
+    {
+      "cityName": "Marathon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Marathon City was incorporated from a part of the town's original area."
+    },
+    {
+      "cityName": "Marinette",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the lumbering boom of the late 19th century, Marinette became the tenth-largest city in Wisconsin, reaching a peak population of 16195 in 1900."
+    },
+    {
+      "cityName": "Marinette",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Menominee, Michigan, is across the Menominee River to the north, and the cities are connected by three bridges."
+    },
+    {
+      "cityName": "Marinette",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Menominee and Marinette are sometimes described as the \"twin cities\" of the Menominee River."
+    },
+    {
+      "cityName": "Markesan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Wisconsin is located in Markesan."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshall is the name of some places in the U S state of Wisconsin: Marshall, Dane County, Wisconsin, a village Marshall, Richland County, Wisconsin, a town Marshall, Rusk County, Wisconsin, a town"
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshfield is home to the Marshfield Clinic, a large healthcare system that serves much of Central, Northern, and Western Wisconsin."
+    },
+    {
+      "cityName": "Mauston",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 70 miles northwest from the state capital, Madison."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Menominee people inhabited the Fox River Valley for over 10000 years."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Menasha's location on the Fox River and Lake Winnebago subsequently led to its development as a transportation hub and later a center for paper production and wooden ware products."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's name comes from the Menominee language, in which it is known as Men\u0101\u0113hsaeh, meaning \"little island\"."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "At the time of European contact, a Ho-Chunk village known as \"Menashay\" stood on what is now Doty Island, led by Chief Hootschope (Four Legs)."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Doty Island is located partially in Menasha, which it shares with Neenah."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In the Treaty of the Cedars (1836), the Menominee ceded approximately 4000000 acres of land, including present-day Menasha, to the United States for $700000 (approximately 17 cents per acre)."
+    },
+    {
+      "cityName": "Menasha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "This cession opened the region to logging and European-American settlement."
+    },
+    {
+      "cityName": "Menomonee Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 38527 at the 2020 census, making it the most-populous village in Wisconsin."
+    },
+    {
+      "cityName": "Menomonee Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Fortune 500 retailer Kohl's is headquartered in the village."
+    },
+    {
+      "cityName": "Menomonie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Menomonie is home to the University of Wisconsin\u2013Stout, the state's designated polytechnic university which enrolls nearly 7000 students."
+    },
+    {
+      "cityName": "Menomonie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city center is at the south end of Lake Menomin, a reservoir on the Red Cedar River."
+    },
+    {
+      "cityName": "Menomonie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's population was 16843 as of the 2020 census."
+    },
+    {
+      "cityName": "Menomonie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name Menomonie is derived from manoomincode: oji promoted to code: oj, the Ojibwe word for wild rice, and is usually translated as \u201cwild rice people\u201d."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mequon remained rural in the early 20th century but experienced significant population growth during the suburbanization that followed World War II."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the community remained rural, while Thiensville developed as a market town along the local railway, providing services to the farmers."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Additionally, Mequon is home to two private Lutheran post-secondary institutions: Concordia University Wisconsin and Wisconsin Lutheran Seminary."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 1840s, German immigrants settled in the community, building farms and hydropowered mills along the Milwaukee River."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "When the first white settlers arrived in the 1830s, the Mequon area was inhabited by the Menominee, Potawatomi, and Sauk people."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Thiensville incorporated as a village in 1910."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The community incorporated as a city in 1957 to avoid annexation by the City of Milwaukee."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The City of Mequon completely surrounds Thiensville, leading some residents to call Thiensville \"Mequon's donut hole.\" The two municipalities have a close relationship, with a shared chamber of commerce, library, and school district."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Lutheranism has played a significant role in Mequon since the community's early years."
+    },
+    {
+      "cityName": "Mequon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Some of the first German settlers were Old Lutherans who founded the Freistadt community\u2014now a neighborhood in western Mequon\u2014in 1839 and went on to form the first Lutheran congregation in Wisconsin."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mercer also hosts an annual \"Loon Day\" festival, which features an arts and crafts fair, live music and a loon calling contest."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A wildlife study found Mercer had the highest concentration of common loons in the world."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mercer identifies itself as the \"Loon Capital of the World\" to promote tourism."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In front of the Mercer Chamber of Commerce's information center, there is a 16-foot (4.9 m), 2000-pound (910 kg) statue named \"Claire de Loon\"."
+    },
+    {
+      "cityName": "Merrill",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Merrill is part of the United States Census Bureau's Merrill MSA, which includes all of Lincoln County."
+    },
+    {
+      "cityName": "Merrill",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Together with the Wausau MSA, which includes all of Marathon County, it forms the Wausau-Merrill CSA."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middleton's motto is \"The Good Neighbor City.\""
+    },
+    {
+      "cityName": "Mikana",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mikana is situated on the western shore of Red Cedar Lake and is southwest of Birchwood, in the town of Cedar Lake."
+    },
+    {
+      "cityName": "Milladore",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the village is located within the Town of Milladore in Wood County, while only a very small portion of the village lies in Portage County."
+    },
+    {
+      "cityName": "Milladore",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "All of its 2020 census population resided in the Wood County portion of the village."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its cultural institutions include the Harley-Davidson Museum, Milwaukee Art Museum, Milwaukee Public Museum, and Summerfest, one of the world's largest music festivals."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city also became known for its strong labor movement."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the early 19th century, European settlers established the city as a hub for trade and industry, capitalizing on its location as a port."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is home to several higher education institutions, such as Marquette University, Milwaukee School of Engineering, and the University of Wisconsin\u2013Milwaukee."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city's major league professional sports teams include the Milwaukee Brewers (MLB) and Milwaukee Bucks (NBA)."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Milwaukee was inhabited by many indigenous cultures, particularly the Potawatomi, Menominee, and Ho-Chunk."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Its history was heavily influenced by Central European immigrants, and it remains a center of German-American culture."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Milwaukee grew into a major brewing center, with the Miller, Pabst, and Schlitz breweries shaping its industrial identity."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "While it is an ethnically and culturally diverse city, it continues to be one of the most racially segregated cities in the U S as a result of early-20th century redlining."
+    },
+    {
+      "cityName": "Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Milwaukee is rated as a \"Sufficiency\" city by the Globalization and World Cities Research Network, with a regional GDP of over $130 billion in 2023."
+    },
+    {
+      "cityName": "Mineral Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mineral Point is sometimes called Wisconsin's third oldest city, but the Wisconsin Historical Society notes several older colonial settlements."
+    },
+    {
+      "cityName": "Mineral Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's well-preserved historical character within the varied natural topography of the driftless area has made it a regional tourist destination."
+    },
+    {
+      "cityName": "Mineral Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mineral Point was settled in 1827, becoming a lead and zinc mining center, and commercial town in the 19th and early 20th centuries."
+    },
+    {
+      "cityName": "Mineral Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the mid-20th century it attracted artists and an artist's colony and its tourism industry began to grow."
+    },
+    {
+      "cityName": "Mineral Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It initially drew a considerable number of Cornish-immigrant miners and their families."
+    },
+    {
+      "cityName": "Minocqua",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minocqua is commonly referred to as \"The Island City.\""
+    },
+    {
+      "cityName": "Mishicot",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is adjacent to the Town of Mishicot."
+    },
+    {
+      "cityName": "Mondovi",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is mostly surrounded by the Town of Mondovi, with a small portion surrounded by the Town of Naples."
+    },
+    {
+      "cityName": "Monona",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of the state capital, Madison, the city lies on the southeastern shore of Lake Monona, from which it takes its name."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is nicknamed the \"Cheese Capital of the USA\"."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is bordered by the town of Monroe to the north and the town of Clarno to the south."
+    },
+    {
+      "cityName": "Montello",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montello is home to the largest tree in Wisconsin."
+    },
+    {
+      "cityName": "Montello",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A notable attraction in the city is the former granite quarry, which has been transformed into a park with several waterfalls."
+    },
+    {
+      "cityName": "Montello",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Montello post office was established in 1850, and still operates today with the zip code 53949."
+    },
+    {
+      "cityName": "Montello",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Fox River flows through the city."
+    },
+    {
+      "cityName": "Montreal",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montreal was incorporated in 2020."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There is also the Town of Mount Pleasant in Green County."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the village's population was 27732."
+    },
+    {
+      "cityName": "Mukwonago",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is along the Mukwonago River and Lower Phantom Lake."
+    },
+    {
+      "cityName": "Muscoda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 1245 were in Grant County, and 62 were in Iowa County."
+    },
+    {
+      "cityName": "Muscoda",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Grant County part of the village is adjacent to the Town of Muscoda and the Iowa County part is adjacent to the Town of Pulaski."
+    },
+    {
+      "cityName": "Muskego",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are three lakes within the city's boundaries."
+    },
+    {
+      "cityName": "Muskego",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a population of 25032."
+    },
+    {
+      "cityName": "Muskego",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name Muskego is derived from the Potawatomi Indian name for the area, \"Mus-kee-Guaac\", meaning sunfish."
+    },
+    {
+      "cityName": "Muskego",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Potawatomi were the original inhabitants of Muskego."
+    },
+    {
+      "cityName": "Nashotah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village took its name from the nearby Nashotah Lakes."
+    },
+    {
+      "cityName": "Neenah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Neenah's population was 27319 at the 2020 census."
+    },
+    {
+      "cityName": "Neenah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Neenah is within the geographic boundaries of the Town of Neenah, but is politically independent."
+    },
+    {
+      "cityName": "Neenah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is the southwesternmost of the Fox Cities of northeast Wisconsin."
+    },
+    {
+      "cityName": "Neenah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is sometimes referred to as a twin city with Menasha, with which it shares Doty Island."
+    },
+    {
+      "cityName": "Nekoosa",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name derives from the Ho-Chunk word, \"N\u012f\u012fkuusra\", \"Nakrusa\", or \"N\u012fkusara\" which translates to \"running water\"."
+    },
+    {
+      "cityName": "New Auburn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of these, 537 were in Chippewa County, and 25 were in Barron County."
+    },
+    {
+      "cityName": "New Auburn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Small portions extend east into the adjacent Town of Bloomer, Chippewa County and north into the Town of Dovre in Barron County."
+    },
+    {
+      "cityName": "New Glarus",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1845 by immigrants from the canton of Glarus in eastern Switzerland, from which the village takes its name."
+    },
+    {
+      "cityName": "New London",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1851, the population was 7348 at the 2020 census."
+    },
+    {
+      "cityName": "New London",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has an annual Saint Patrick's Day Parade, Irish Fest, and week-long festivities, when the city's name is changed to \"New Dublin\" for the week."
+    },
+    {
+      "cityName": "New London",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2022, Killaloe, County Clare, Ireland became New London's sister city (known in Ireland as Twinning)."
+    },
+    {
+      "cityName": "Niagara",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies to the north of and adjacent to the Town of Niagara."
+    },
+    {
+      "cityName": "North Fond du Lac",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite the name, North Fond du Lac is actually located northwest of Fond du Lac, as Lake Winnebago is directly north of Fond du Lac."
+    },
+    {
+      "cityName": "North Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Lake is located on Wisconsin Highway 83 north of Chenequa."
+    },
+    {
+      "cityName": "North Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first named a CDP at the 2020 census, which showed a population of 247."
+    },
+    {
+      "cityName": "Oconomowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is partially adjacent to the Village of Lac La Belle and is near the village of Oconomowoc Lake."
+    },
+    {
+      "cityName": "Oconomowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name was derived from Coo-no-mo-wauk, the Potawatomi term for 'waterfall'."
+    },
+    {
+      "cityName": "Odanah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For statistical purposes, the U S Census Bureau distinguishes Odanah from New Odanah, which has most of the community's population."
+    },
+    {
+      "cityName": "Odanah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In local parlance, the names are used interchangeably."
+    },
+    {
+      "cityName": "Odanah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Official state and county maps from the Wisconsin DOT only show Odanah."
+    },
+    {
+      "cityName": "Okauchee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Okauchee Lake is located in the former town of Oconomowoc, which has merged with the village of Lac La Belle."
+    },
+    {
+      "cityName": "Onalaska",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Natural areas include both river bottom land and high, heavily wooded, scenic bluffs."
+    },
+    {
+      "cityName": "Onalaska",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Onalaska is built on a slightly elevated ridge above the Black River."
+    },
+    {
+      "cityName": "Onalaska",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A man-made reservoir at the city's western edge is known as Lake Onalaska."
+    },
+    {
+      "cityName": "Onalaska",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Onalaska is known as \"The Sunfish Capital of the World.\""
+    },
+    {
+      "cityName": "Oneida",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At that time, part of the CDP lay within the Town of Hobart, which has since incorporated as a village, in adjacent Brown County."
+    },
+    {
+      "cityName": "Oneida",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oneida is located on Wisconsin Highway 54."
+    },
+    {
+      "cityName": "Oneida",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community lies near the center of the reservation of the federally recognized Oneida Nation of Wisconsin, for which it is named."
+    },
+    {
+      "cityName": "Oostburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located mostly within the Town of Osceola, the village sits on the border with Minnesota, separated by the St. Croix River."
+    },
+    {
+      "cityName": "Osceola",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is along Wisconsin Highway 35."
+    },
+    {
+      "cityName": "Oshkosh",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Oshkosh metropolitan statistical area, consisting solely of Winnebago County, had 171730 residents."
+    },
+    {
+      "cityName": "Oshkosh",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oshkosh is included in the greater Fox Cities region of Wisconsin."
+    },
+    {
+      "cityName": "Owen",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Owen is located directly east of the village of Withee, which is about half the size of Owen."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Union Pacific Railroad runs through the town and over Neenah Lake to the northwest."
+    },
+    {
+      "cityName": "Palmyra",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Palmyra, Syria."
+    },
+    {
+      "cityName": "Palmyra",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is adjacent to the Town of Palmyra."
+    },
+    {
+      "cityName": "Park Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the woods of north central Wisconsin, primarily the Chequamegon National Forest, Park Falls is a small community divided by the North Fork of the Flambeau River, a popular destination for fishing, canoeing and whitewater rafting."
+    },
+    {
+      "cityName": "Pelican Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pelican Lake is located on the eastern shore of Pelican Lake and is served by U S Route 45, in the town of Schoepke."
+    },
+    {
+      "cityName": "Pelican Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Community groups include the Pelican Lake Property Owners Association and the Pelican Lake Chamber of Commerce."
+    },
+    {
+      "cityName": "Pelican Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Pelican Lake is often referred to as the muskie capital of the world."
+    },
+    {
+      "cityName": "Pelican Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The lake has yielded massive freshwater muskie and continues to produce 60\"+ fish."
+    },
+    {
+      "cityName": "Pelican Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Although the limit to keep these fish is 50\", most anglers return the fish back into the water to continue growing and out of respect for the creatures and the sport."
+    },
+    {
+      "cityName": "Pell Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On December 20, 2011, Pell Lake became part of the newly incorporated village of Bloomfield."
+    },
+    {
+      "cityName": "Pembine",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pembine was incorporated in 2020."
+    },
+    {
+      "cityName": "Pepin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded within the borders of the Town of Pepin."
+    },
+    {
+      "cityName": "Peshtigo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peshtigo is known for being the site of the Peshtigo fire of 1871, in which more than 1200 people died."
+    },
+    {
+      "cityName": "Pewaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pewaukee, originally organized as a town in 1840 and later as a city in 1999, surrounds the Village of Pewaukee, which was incorporated from the town in 1876."
+    },
+    {
+      "cityName": "Phelps",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Phelps was incorporated in 2020."
+    },
+    {
+      "cityName": "Pickerel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located on Wisconsin Highway 55, in the town of Langlade."
+    },
+    {
+      "cityName": "Pickerel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Pickerel Volunteer Fire Department is located northwest of town on County Road T, and serves the town of Ainsworth, and part of the town of Nashville in Forest County."
+    },
+    {
+      "cityName": "Pickerel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Pickerel Rescue Squad station is located south of town on State Highway 55, and provides ambulance services (EMS) to the towns of Ainsworth, Langlade, and part of the Town of Nashville."
+    },
+    {
+      "cityName": "Pickerel",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Pickerel Rescue is an Advanced life support unit."
+    },
+    {
+      "cityName": "Pickett",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the southwestern part of the county Pickett is located on Wisconsin Highway 44 between Ripon and Oshkosh, in the town of Utica."
+    },
+    {
+      "cityName": "Pittsville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pittsville is recognized as the exact center of Wisconsin."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A tiny portion extends into adjacent Town of Oasis."
+    },
+    {
+      "cityName": "Platteville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the University of Wisconsin\u2013Platteville."
+    },
+    {
+      "cityName": "Pleasant Prairie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the southwestern shoreline of Lake Michigan, Pleasant Prairie was home to 21250 people at the 2020 census."
+    },
+    {
+      "cityName": "Pleasant Prairie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is positioned directly south of the city of Kenosha, Wisconsin and directly north of the Illinois border."
+    },
+    {
+      "cityName": "Pleasant Prairie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Among its notable features are the RecPlex and Chiwaukee Prairie."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plymouth was known as \"Hub City\" for its former role as a center of wooden wheelwrighting."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It advertises itself as \"The Cheese Capital of the World,\" as it produces 14% of all the cheese consumed in the United States."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Mayor is Don Pohlman."
+    },
+    {
+      "cityName": "Poplar",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Highway 2, County Road D, and County Road P are the main routes in the community."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "When French explorers arrived in the area in the 17th century, they found a Native American village at the mouth of Sauk Creek\u2014the present location of historic downtown Port Washington."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The United States Federal Government forcibly expelled the Native Americans in the 1830s, and the first settlers arrived in 1835, calling their settlement \"Wisconsin City\" before renaming it \"Port Washington\" in honor of President George Washington."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 21st century, Port Washington celebrates its lacustrine heritage with museums, public fish fries, sport fishing derbies, and sailboat races."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "For much of its history, Port Washington has been tied to the Great Lakes."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city's artificial harbor at the mouth of Sauk Creek was dredged in the 1870s and was a commercial port until the early 2000s."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In the late 1840s and early 1850s, the community was a candidate to be the Washington County seat."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Early settlers used boats to transport goods including lumber, fish, and grains, although the community's early years were marred by shipwrecks, which led the U S Federal Government to construct Port Washington Harbor in 1871."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Commercial fishing prospered in Port Washington until the mid-20th century, and beginning in the 1930s, the Port Washington Generating Station used the harbor to receive large shipments of coal to burn for electricity."
+    },
+    {
+      "cityName": "Port Washington",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The commercial harbor closed in 2004 when the power station switched to natural gas for fuel, but the community maintains an active marina for recreational boaters."
+    },
+    {
+      "cityName": "Portage",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Portage was named for the Fox\u2013Wisconsin Waterway, a portage between the Fox River and the Wisconsin River, which was recognized by Jacques Marquette and Louis Joliet during their discovery of a route to the Mississippi River in 1673."
+    },
+    {
+      "cityName": "Portage",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's slogan is \"Where the North Begins.\""
+    },
+    {
+      "cityName": "Poy Sippi",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Poy Sippi was incorporated in 2000."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Often called Wisconsin's second-oldest city, Prairie du Chien was established as a European settlement by French voyageurs in the late 17th century."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prairie du Chien is near the confluence of the Wisconsin and Mississippi rivers, a strategic point along the Fox-Wisconsin Waterway that connects the Great Lakes with the Mississippi."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This location offered early French missionaries and explorers their first access and entrance to the Mississippi River."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Early French visitors to the site found it occupied by a group of Meskwaki led by a chief whose name Alim meant chien in French ('dog' in English)."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its settlement date of June 17, 1673, makes it the fourth colonial settlement by European settlers in the Midwestern United States, after Green Bay, Wisconsin; Sault Ste."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Marie, Michigan; and St. Ignace, Michigan."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city has many sites showing its rich history in the region."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The French explorers named the location Prairie du Chien, French for 'dog's meadow'."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Originally, this name applied only to the plain upon which the settlement lay, but it was later applied to the city as well."
+    },
+    {
+      "cityName": "Prairie du Chien",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city of Prairie du Chien is between the towns of Prairie du Chien and Bridgeport."
+    },
+    {
+      "cityName": "Prairie du Sac",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Prairie du Sac, the Wisconsin River, and the village of Sauk City; together, Prairie du Sac and Sauk City are referred to as Sauk Prairie."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was first settled by (and named for) Philander Prescott, who opened a trading post there in 1839."
+    },
+    {
+      "cityName": "Prescott",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prescott was home to the mother house of the Franciscan Servants of Jesus."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Fox River flows through the city, dividing the city into an eastern half and western half."
+    },
+    {
+      "cityName": "Pulaski",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 3650 were in Brown County, 220 in Shawano County, and none in Oconto County."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Small portions also lie within the Town of Fox Lake (also in Dodge County) to the north and the Town of Courtland in Columbia County."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of this, 1338 were in Dodge County, and 458 were in Columbia County."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most of the village lies within the Town of Westford in Dodge County."
+    },
+    {
+      "cityName": "Rib Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is completely surrounded by the Town of Rib Lake."
+    },
+    {
+      "cityName": "Rib Mountain",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Wausau, it is part of the Wausau Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rice Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is a commercial and tourist center for the surrounding rural areas."
+    },
+    {
+      "cityName": "Rice Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a total population of 9040."
+    },
+    {
+      "cityName": "Richfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richfield was incorporated in 2020."
+    },
+    {
+      "cityName": "Richland Center",
+      "state": "WI",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Frank Lloyd Wright was born in Richland Center."
+    },
+    {
+      "cityName": "Rio",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village rests primarily in the town of Otsego."
+    },
+    {
+      "cityName": "Rio",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Village of Rio calls itself \"Camper Country USA\" due to several campgrounds located near the village."
+    },
+    {
+      "cityName": "Rio",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rio is halfway between Columbus and Portage on Highway 16."
+    },
+    {
+      "cityName": "Ripon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded by the Town of Ripon."
+    },
+    {
+      "cityName": "Ripon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ripon is home to the Little White Schoolhouse, where the Republican Party was founded."
+    },
+    {
+      "cityName": "River Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "River Falls is the home of the University of Wisconsin\u2013River Falls."
+    },
+    {
+      "cityName": "River Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is mostly within the town of River Falls, and adjacent to the town of Kinnickinnic in St. Croix County."
+    },
+    {
+      "cityName": "Roberts",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the town of Warren."
+    },
+    {
+      "cityName": "Rothschild",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rothschild is the northern terminus of Interstate 39, which starts in Normal, Illinois."
+    },
+    {
+      "cityName": "Saint Croix Falls",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Route 8, Wisconsin Highway 35, and Wisconsin Highway 87 are three of the main arterial routes in the city."
+    },
+    {
+      "cityName": "Sauk City",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first incorporated village in the state, the community was founded by Agoston Haraszthy and his business partner, Robert Bryant in the 1840s."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2019, more than 40% of the village's jobs were in manufacturing, with the largest employers being a steel mill as well as several foundries and metal fabricators."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village and the neighboring Town of Saukville are rich in biodiverse bogs and coniferous swamps, the largest of which is the 2200-acre Cedarburg Bog State Natural Area."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village incorporated in 1915 and later in the 20th century grew into a suburban community with a manufacturing-based economy."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Downtown Saukville was the site of a Native American village at the crossroads of two trails before white settlers arrived in the mid-1840s."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In its early years, the community was a stagecoach stop on the road from Milwaukee to Green Bay and also grew as a mill and market town serving the dairy farmers of northwestern Ozaukee County."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The area's bogs are a habitat for endangered species, many types of birds, and carnivorous plants."
+    },
+    {
+      "cityName": "Saukville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Among other landforms, the Cedarburg Bog contains a string bog\u2014a geographic feature that seldom occurs as far south as Wisconsin\u2014which contains many plant species rarely seen outside remote parts of Canada."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the south shore of Plum Lake, the Plum Lake Golf Course is the oldest nine-hole golf course in Wisconsin, founded in 1912."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sayner is also home to one of the nation's oldest summer camps, Camp Highlands for Boys, founded in 1904, and located on the northeast end of Plum Lake."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sayner is home to the Vilas County Historical Society."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community is the birthplace of the snowmobile, with the first \"motor toboggan\" built by Carl Eliason in 1924."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1895, the Milwaukee Road extended its Valley Line north from Woodruff to Star Lake, with a stop in Sayner."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The line primarily carried lumber from area forests, later carried tourists and had been abandoned in the middle 20th century."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of the 2010 census, its population was 207."
+    },
+    {
+      "cityName": "Sayner",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Sayner got its name from Orrin W. Sayner, who settled the area in 1891, two years before any other settlers took up homes in the town."
+    },
+    {
+      "cityName": "Schofield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for William Scholfield, who came to the area in the 1851 to open a sawmill."
+    },
+    {
+      "cityName": "Schofield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has since dropped the \"L\" from its name."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is within the Town of Sharon."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village began as a named unincorporated community within the Town of Harrison, and is named for a Civil War veteran stagecoach driver, who later operated a tavern in the area."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sherwood was incorporated as a village on June 28, 1968."
+    },
+    {
+      "cityName": "Shiocton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is wholly surrounded by the Town of Bovina."
+    },
+    {
+      "cityName": "Shullsburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1827, it is one of the oldest settlements in Wisconsin."
+    },
+    {
+      "cityName": "Shullsburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "There are 34 buildings listed on the National Register of Historic Places on its historic Water Street Commercial District."
+    },
+    {
+      "cityName": "Shullsburg",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is adjacent to the Town of Shullsburg."
+    },
+    {
+      "cityName": "Silver Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On February 14, 2017, the village merged with the town of Salem to create the village of Salem Lakes."
+    },
+    {
+      "cityName": "Siren",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Siren."
+    },
+    {
+      "cityName": "Soldiers Grove",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is notable for having relocated its central business district due to flooding on the nearby Kickapoo River during the 1970s, and has become a case study in best practices for managed retreat."
+    },
+    {
+      "cityName": "Solon Springs",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Solon Springs."
+    },
+    {
+      "cityName": "South Milwaukee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the western shore of Lake Michigan, South Milwaukee developed as a streetcar suburb located 5 miles (8.0 km) south of Milwaukee."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village, which lies between two marshes (Spencer Marsh to the northwest and McMillan Marsh to the southeast) was founded in 1874 at a branch on the Wisconsin Central Railway."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Today it sits at the crossroads of Wisconsin Highway 13 (WIS 13) and WIS 98 and serves as the terminus of several Marathon County Trunk Highways."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Spencer lies about 8 miles (13 km) northwest of Marshfield, along WIS 13."
+    },
+    {
+      "cityName": "Spring Green",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is perhaps best known for the architect Frank Lloyd Wright's estate Taliesin and related tourism."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is mostly within the Town of Spring Lake in Pierce County."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of those, 1390 were in Pierce County and 11 in St. Croix County."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Small parts also lie in the Town of Gilman, also in Pierce County, and the Town of Cady in St. Croix County."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 3804 were in Chippewa County, and none were in Clark County."
+    },
+    {
+      "cityName": "Stevens Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the University of Wisconsin\u2013Stevens Point and a campus of Mid-State Technical College."
+    },
+    {
+      "cityName": "Stevens Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 25666 at the 2020 census."
+    },
+    {
+      "cityName": "Stevens Point",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Stevens Point was incorporated in 1858."
+    },
+    {
+      "cityName": "Stockbridge",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village lies within the Town of Stockbridge."
+    },
+    {
+      "cityName": "Stockholm",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stockholm is a village in Pepin County, Wisconsin, United States, founded in 1854 by immigrants from Karlskoga, Sweden, who named it after their country's capital."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its Norwegian heritage, Stoughton hosts a citywide celebration of Syttende Mai, the Norwegian constitution day."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It straddles the Yahara River about 20 miles (32 km) southeast of the state capital, Madison."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the population was 13173."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Part of the city's celebration of its Norwegian heritage is the Stoughton Norwegian Dancers dance group, sponsored by Stoughton High School, as well as Norwegian flags and memorabilia displayed throughout the town."
+    },
+    {
+      "cityName": "Sturgeon Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located at the bay of Sturgeon Bay for which it is named, it is the most populous city on the Door Peninsula, a popular Upper Midwest vacation destination."
+    },
+    {
+      "cityName": "Suamico",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Suamico is part of the Green Bay Metropolitan Statistical Area, and contains the neighborhood community of Flintville."
+    },
+    {
+      "cityName": "Summit Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Summit Lake is located along U S Route 45, 17 miles (27 km) north of Antigo, in the towns of Upham and Elcho."
+    },
+    {
+      "cityName": "Summit Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census its population was 141, a slight decrease of 144 at the 2010 census."
+    },
+    {
+      "cityName": "Sun Prairie",
+      "state": "WI",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Georgia O'Keeffe was born in Sun Prairie."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Superior and neighboring Duluth feature museum ships (SS William A. Irvin in Duluth and SS Meteor in Superior), devoted to the local maritime heritage."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Superior and nearby Duluth, Minnesota, sit at the western tip of Lake Superior and together form the Twin Ports, a major Great Lakes harbor."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bordered by Saint Louis, Superior, and Allouez bays, the city is framed by two rivers: the Nemadji and the Saint Louis."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Superior is at the junction of U S Route 2 and U S Route 53 immediately north of, and adjacent to, both the Village of Superior and the Town of Superior."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is an industrial city, with ship harbors along two sides, several large rail yards, an oil refinery, and a shipyard."
+    },
+    {
+      "cityName": "Superior",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Superior was the final port of call for SS Edmund Fitzgerald before her sinking on November 10, 1975."
+    },
+    {
+      "cityName": "Theresa",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Theresa."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both Mequon and Thiensville experienced significant development during the suburbanization that followed World War II, with Mequon incorporating as a city in 1957."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Thiensville grew and prospered in the late 1800s when it became a railway stop; the community became more urban with stores, mills and services for farmers in the rural Town of Mequon."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Thiensville was the site of a Potawatomi village in the early 19th century before white settlers began arriving in the 1830s and 1840s."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Many of the community's earliest settlers were German immigrants who were members of freethinker societies."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "One prominent freethinker was Joachim Heinrich Thien, for whom the village is named."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Thien played a significant role in the Town of Mequon's early politics and organized the Thiensville Volunteer Fire Department."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The freethinkers were opposed to organized religion and actively prevented churches from being established in the community for the first eight decades of its history."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Village of Thiensville formally incorporated in 1910."
+    },
+    {
+      "cityName": "Thiensville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The two communities have close ties, with a shared chamber of commerce, library, fire and emergency medical services, and school district."
+    },
+    {
+      "cityName": "Three Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three Lakes was incorporated in 2010."
+    },
+    {
+      "cityName": "Tomah",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is surrounded by the Town of Tomah and the Town of La Grange."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Townsend was originally established in 1864, and was named Johnson Siding."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The post office was established in 1903."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community and town later became known as Wheeler, consisting of the modern towns of Lakewood and Townsend."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1916, the Town of Townsend was established."
+    },
+    {
+      "cityName": "Trego",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trego is located at the junction of U S routes 53 and 63, 6 miles (9.7 km) north-northeast of Spooner."
+    },
+    {
+      "cityName": "Trempealeau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded by the Town of Trempealeau."
+    },
+    {
+      "cityName": "Trevor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trevor is south of Paddock Lake."
+    },
+    {
+      "cityName": "Tripoli",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tripoli is located on U S Route 8, 31 miles (50 km) west of Rhinelander, in the towns of Somo and Lynne."
+    },
+    {
+      "cityName": "Turtle Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1037 at the 2020 census."
+    },
+    {
+      "cityName": "Turtle Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of these, 959 were in Barron County, and 78 were in Polk County."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With nearly 1000 acres of surface water, the twin lakes of Mary and Elizabeth have drawn vacationers to numerous resorts as well as ice harvesters in the days of icebox refrigeration."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Twin Lakes is a village in Kenosha County, Wisconsin, United States, along the Illinois-Wisconsin border east of U S Highway 12, incorporated in 1937."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, many houses there are used for recreation, and the lakes remain a popular destination."
+    },
+    {
+      "cityName": "Twin Lakes",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Twin Lakes is home to about 6041 permanent residents and a third more occasional ones."
+    },
+    {
+      "cityName": "Two Rivers",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It claims to be the birthplace of the ice cream sundae (though other cities, such as Ithaca, New York, make the same claim)."
+    },
+    {
+      "cityName": "Two Rivers",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's advertising slogan is \"Catch our friendly waves\" as it is located along Lake Michigan."
+    },
+    {
+      "cityName": "Viola",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 436 were in Richland County, and 240 were in Vernon County."
+    },
+    {
+      "cityName": "Viroqua",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is in the town of Viroqua."
+    },
+    {
+      "cityName": "Wabeno",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wabeno is situated within Wisconsin's 7th congressional district."
+    },
+    {
+      "cityName": "Waldo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Sheboygan, Wisconsin Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wales",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wales is a village in Waukesha County, Wisconsin, United States, first settled by Welsh immigrants."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in northern Wisconsin, on the shore of Lake Superior's Chequamegon Bay."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is just east of and adjacent to the Town of Washburn."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wisconsin Highway 13 and County Highway C are the main routes in the community."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Waterloo was suggested by a French resident who was one of Napoleon's soldiers at the Battle of Waterloo."
+    },
+    {
+      "cityName": "Watertown",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Division Street, several blocks north of downtown, marks the county line."
+    },
+    {
+      "cityName": "Waukesha",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Fox River adjacent to the Village of Waukesha, it is the eighth-most populous city in Wisconsin."
+    },
+    {
+      "cityName": "Waunakee",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waunakee bills itself as \"The Only Waunakee in the World\"."
+    },
+    {
+      "cityName": "Waupaca",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A portion extends west into the adjacent Town of Farmington, and there is also a noncontiguous area of the city in the Town of Lind to the south."
+    },
+    {
+      "cityName": "Waupaca",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is divided into natural areas, city areas, and industrial areas."
+    },
+    {
+      "cityName": "Waupun",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Of this, 7795 were in Dodge County, and 3549 were in Fond du Lac County."
+    },
+    {
+      "cityName": "Waupun",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In Fond du Lac County, the Town of Waupun abuts the city of Waupun."
+    },
+    {
+      "cityName": "Wausau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cultural and recreational attractions in Wausau include the Grand Theater, Granite Peak Ski Area, Rib Mountain State Park, Leigh Yawkey Woodson Art Museum, and the Wisconsin River."
+    },
+    {
+      "cityName": "Wausau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was settled by European immigrants in the mid-19th century and developed as a lumbering center due to its access to pine forests and river transport."
+    },
+    {
+      "cityName": "Wausau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Wausau metropolitan statistical area, consisting solely of Marathon County, had a population of 138013."
+    },
+    {
+      "cityName": "Wausau",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Wausau area was inhabited by various indigenous peoples, including the Ojibwe."
+    },
+    {
+      "cityName": "Wauwatosa",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the Potawatomi Chief Wauwataesie and the Potawatomi word for firefly."
+    },
+    {
+      "cityName": "Webster",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There are two municipalities named Webster in Wisconsin: Webster, Burnett County, Wisconsin, a village Webster, Vernon County, Wisconsin, a town"
+    },
+    {
+      "cityName": "West Baraboo",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Baraboo was previously known as Lyons."
+    },
+    {
+      "cityName": "West Bend",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 31752."
+    },
+    {
+      "cityName": "Westby",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name \"Westby\" is a Norwegian name and literally translates to \"Western city\"."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small portion extends east into the adjacent Town of Harris."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Marquette County fairgrounds is located within the village limits on the south side."
+    },
+    {
+      "cityName": "Weyauwega",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name \"Weyauwega\" is described by the Weyauwega Chamber of Commerce as potentially meaning \"here we rest\" in an indigenous language because the town's origin was a resting point between two rivers when Native Americans had to portage their canoes."
+    },
+    {
+      "cityName": "Weyauwega",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Small portions extend north into the adjacent Town of Royalton."
+    },
+    {
+      "cityName": "Weyauwega",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Given the local indigenous culture is described as Menominee, the language may be the Menominee language."
+    },
+    {
+      "cityName": "Weyauwega",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "European colonist activity in the area began with a small building set up by fur traders, from which the town later grew."
+    },
+    {
+      "cityName": "White Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The White Lake Volunteer Fire Department is located within the village."
+    },
+    {
+      "cityName": "Whitehall",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whitehall is situated on the former Green Bay and Western Railroad midway between La Crosse and Eau Claire."
+    },
+    {
+      "cityName": "Whitewater",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whitewater is located near the southern portion of the Kettle Moraine State Forest and is home to the University of Wisconsin\u2013Whitewater."
+    },
+    {
+      "cityName": "Williams Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of three municipalities on Geneva Lake."
+    },
+    {
+      "cityName": "Williams Bay",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On June 22, 2024 the town was hit by an EF-1 tornado, there were no injuries or fatalities, but the storm caused some areas of considerable damage."
+    },
+    {
+      "cityName": "Wind Lake",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wind Lake is in the town of Norway."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windsor was incorporated in 2020."
+    },
+    {
+      "cityName": "Winneconne",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Developed along the Wolf River, the community is in the middle of the Wolf Chain of lakes, including Poygan, Winneconne, and Butte des Morts."
+    },
+    {
+      "cityName": "Winneconne",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is host to numerous bass fishing tournaments."
+    },
+    {
+      "cityName": "Winter",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is within the Town of Winter."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wisconsin's geography is diverse, with dense forests in the north (including Chequamegon\u2013Nicolet National Forest), rugged unglaciated hills in the western Driftless Area, and wooded plains, lowlands, and farms stretching from the interior east to Lake Michigan."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The state is also famous for its breweries, with beer in Milwaukee a longstanding industry."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wisconsin is one of the nation's leading dairy producers and is known as \"America's Dairyland\"; it is particularly famous for its cheese."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Wisconsin has some of the nation's most permissive alcohol laws and is known for its drinking culture."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its economy is dominated by manufacturing, healthcare, information technology, and agriculture\u2014specifically dairy, cranberries, and ginseng."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Wisconsin is a state in the Upper Midwest and Great Lakes regions of the United States."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It borders Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Wisconsin has the third-longest Great Lakes coastline, after Ontario and Michigan."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The state's most populous city is Milwaukee."
+    },
+    {
+      "cityName": "Wisconsin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Its capital and second-most populous city is Madison; other urban areas include Green Bay and the Fox Cities."
+    },
+    {
+      "cityName": "Wisconsin Rapids",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was established in the late 1830s as the series of rapids along the Wisconsin River provided good sites for water-driven sawmills, and nearby forests held pine lumber to be sawed and floated down the river."
+    },
+    {
+      "cityName": "Wisconsin Rapids",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the lumber dwindled, the waterpower drove electric generators and various other enterprises\u2013particularly paper mills."
+    },
+    {
+      "cityName": "Wrightstown",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village is surrounded mostly by the westernmost part of the Town of Wrightstown in Brown County."
+    },
+    {
+      "cityName": "Wrightstown",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On February 28, 2002, the village annexed a portion of land within the adjacent Town of Kaukauna in Outagamie County."
+    },
+    {
+      "cityName": "Wrightstown",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wrightstown is part of the Green Bay Metropolitan Statistical Area."
+    }
+  ]
+}

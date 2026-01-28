@@ -1,0 +1,4120 @@
+{
+  "facts": [
+    {
+      "cityName": "Albright",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Albright was incorporated in 1914."
+    },
+    {
+      "cityName": "Alma",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Centerville is located along West Virginia Route 18, 5.4 miles (8.7 km) southeast of Middlebourne."
+    },
+    {
+      "cityName": "Alum Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after nearby Alum Creek, a tributary of the Coal River."
+    },
+    {
+      "cityName": "Alum Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The CDP had a population of 1595 at the 2020 census, down from 1749 at the 2010 census."
+    },
+    {
+      "cityName": "Amherstdale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP population was 350 as of the 2020 census, no change from the 2010 census."
+    },
+    {
+      "cityName": "Amherstdale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Prior to 2010, Amherstdale was part of the Amherstdale-Robinette CDP."
+    },
+    {
+      "cityName": "Amherstdale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Amherstdale was also affected by the Buffalo Creek flood disaster which killed, injured, and left thousands homeless."
+    },
+    {
+      "cityName": "Amma",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amma was named after the daughter of a settler."
+    },
+    {
+      "cityName": "Amma",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 722 feet (220 m)."
+    },
+    {
+      "cityName": "Anmoore",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town derives its name from nearby Ann Moore Run."
+    },
+    {
+      "cityName": "Apple Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Apple Grove, West Virginia may refer to: Apple Grove, Mason County, West Virginia Apple Grove, McDowell County, West Virginia"
+    },
+    {
+      "cityName": "Arnoldsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The West Fork Little Kanawha River flows through the community."
+    },
+    {
+      "cityName": "Arnoldsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 738 feet (225 m)."
+    },
+    {
+      "cityName": "Arnoldsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arnoldsburg derives its name from Charles Arnold, a local schoolteacher."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named for Francis Asbury."
+    },
+    {
+      "cityName": "Asbury",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Asbury is located on West Virginia Route 12, northeast of Alderson."
+    },
+    {
+      "cityName": "Ashford",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashford was established as a coal camp and grew into a thriving mining community."
+    },
+    {
+      "cityName": "Ashton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for ash trees near the original town site."
+    },
+    {
+      "cityName": "Ashton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ashton is located on the Ohio River and West Virginia Route 2, 15 miles (24 km) south of Point Pleasant."
+    },
+    {
+      "cityName": "Athens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is the home of Concord University."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Auburn was incorporated in 1900."
+    },
+    {
+      "cityName": "Augusta",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2000 census, the Augusta community has a population of 4728."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cathedral State Park is located to the east of Aurora's post office."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Aurora is located on U S Route 50 between Rowlesburg and the Maryland state line."
+    },
+    {
+      "cityName": "Baker",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baker is located at the intersection of U S Route 48, West Virginia Route 55, West Virginia Route 29 and West Virginia Route 259."
+    },
+    {
+      "cityName": "Baker",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community has the name of the local Baker family."
+    },
+    {
+      "cityName": "Barrackville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established in 1771 and incorporated on January 25, 1968."
+    },
+    {
+      "cityName": "Barrackville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Barrackville was settled beginning in 1767 by William Galloway \"Indian Billy\" Ice."
+    },
+    {
+      "cityName": "Barrackville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was named in honor of John Barrack, an early settler."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Berkeley Springs International Water Tasting, the longest-running and largest such event in the world."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It continues to be a popular resort area, with tourism the primary industry in the county and there being six full-service spas using mineral water."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Berkeley Springs remained a popular resort area during the United States' early years."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "After settlement by Europeans, the mineral springs drew many visitors from urban areas."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Another local tradition is the Apple Butter Festival, started by a group of local business owners and led by then Mayor Frank Heiner, in 1974."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1776, the Virginia Legislature incorporated a town around the springs and named it Bath."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Since 1802, it has been referred to by the name of its original post office, Berkeley Springs."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The area contains mineral water springs frequented by Native Americans indigenous to the area, possibly for thousands of years."
+    },
+    {
+      "cityName": "Bath (Berkeley Springs)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Notable colonial visitors to the area included George Washington and James Rumsey."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beckley was founded on April 4, 1838, and was long known for its ties to the coal mining industry."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the home of the West Virginia University Institute of Technology, as well as an annex of Concord University and the University of Charleston."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The venue features work from state artisans, offering visitors a glimpse into the region's culture and traditions."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Beckley hosts the Beckley VA Medical Center (VAMC) offering comprehensive medical services to veterans."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Additionally, the city is home to Raleigh General Hospital and Beckley Appalachian Regional Hospital (BARH), both of which provide a wide range of healthcare services to the local and surrounding communities."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Apart from its significance in healthcare, Beckley is renowned for the Tamarack Marketplace."
+    },
+    {
+      "cityName": "Beckley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Situated off Interstate 64, Tamarack stands as a cultural cornerstone, showcasing the artistic heritage and craftsmanship of West Virginia."
+    },
+    {
+      "cityName": "Beech Bottom",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beech Bottom was incorporated in 1953."
+    },
+    {
+      "cityName": "Belle",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Belle Bulldogs Elementary School."
+    },
+    {
+      "cityName": "Belle",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Belle was incorporated on December 13, 1958, by the Kanawha County Circuit Court."
+    },
+    {
+      "cityName": "Belle",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Belle Reynolds, an early postmaster, gave the town her first name."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Berkeley Springs International Water Tasting, the longest-running and largest such event in the world."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It continues to be a popular resort area, with tourism the primary industry in the county and there being six full-service spas using mineral water."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Berkeley Springs remained a popular resort area during the United States' early years."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "After settlement by Europeans, the mineral springs drew many visitors from urban areas."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Another local tradition is the Apple Butter Festival, started by a group of local business owners and led by then Mayor Frank Heiner, in 1974."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1776, the Virginia Legislature incorporated a town around the springs and named it Bath."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Since 1802, it has been referred to by the name of its original post office, Berkeley Springs."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The area contains mineral water springs frequented by Native Americans indigenous to the area, possibly for thousands of years."
+    },
+    {
+      "cityName": "Berkeley Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Notable colonial visitors to the area included George Washington and James Rumsey."
+    },
+    {
+      "cityName": "Bethany",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known as the home of Bethany College, a private liberal arts college that was the first institution of higher education in what is now West Virginia."
+    },
+    {
+      "cityName": "Beverly",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1787, it is the oldest settlement in the Tygart River Valley."
+    },
+    {
+      "cityName": "Beverly",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It had a population of 628 at the 2020 census."
+    },
+    {
+      "cityName": "Bickmore",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bickmore is located on West Virginia Route 16, 5.5 miles (8.9 km) south-southwest of Clay."
+    },
+    {
+      "cityName": "Big Chimney",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after the tall chimney of the local salt works, which was a prominent landmark."
+    },
+    {
+      "cityName": "Big Chimney",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 629 (slightly up from 627 at the 2010 census)."
+    },
+    {
+      "cityName": "Big Chimney",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is accessible by West Virginia Route 114 or exit 5 from I-79."
+    },
+    {
+      "cityName": "Bigbend",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the end of the Civil War, and West Virginia's separation from Virginia, it was replaced by a new county seat with the name of Union General Ulysses S. Grant."
+    },
+    {
+      "cityName": "Bigbend",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 682 feet (208 m)."
+    },
+    {
+      "cityName": "Bigbend",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Bend was previously known as Brooksville, in honor of Preston Brooks, pro-slavery representative from South Carolina, who attacked and seriously injured Massachusetts Senator Charles Sumner."
+    },
+    {
+      "cityName": "Bigbend",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "At that time it was the county seat."
+    },
+    {
+      "cityName": "Birch River",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is situated in the valley of the Birch River and is the location of the western terminus of West Virginia Route 82, at U S Route 19."
+    },
+    {
+      "cityName": "Birch River",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 86 (down from 107 at the 2010 census)."
+    },
+    {
+      "cityName": "Blacksville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blacksville is an Incorporated Town in Monongalia County, West Virginia, United States."
+    },
+    {
+      "cityName": "Blacksville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Town of Blacksville has a C1 Census Class Code which indicates an active incorporated place that does not serve as a county subdivision equivalent."
+    },
+    {
+      "cityName": "Blacksville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It also has a Functional Status Code of \"A\" which identifies an active government providing primary general-purpose functions."
+    },
+    {
+      "cityName": "Bluefield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Bluefield State University, a public historically black university serving nearly 1300 students."
+    },
+    {
+      "cityName": "Bradshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bradshaw was incorporated in December 1979 and named for a pioneer settler."
+    },
+    {
+      "cityName": "Branchland",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 597 feet (182 m)."
+    },
+    {
+      "cityName": "Branchland",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Raccoon Creek Road is one of the more popular ways of transportation through the area."
+    },
+    {
+      "cityName": "Branchland",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Branchland Post Office serves addresses within Sheridan Magisterial District of Lincoln County as well as addresses in southern Cabell County and eastern Wayne County, West Virginia."
+    },
+    {
+      "cityName": "Brandywine",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located nearby within the George Washington National Forest is the Brandywine Recreation Area which includes Brandywine Lake, a reservoir on Hawes Run created by the South Fork Structure Number 13 Dam."
+    },
+    {
+      "cityName": "Brandywine",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located near Brandywine is the Old Probst Church, listed on the National Register of Historic Places in 1986."
+    },
+    {
+      "cityName": "Brandywine",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town lies along the South Fork South Branch Potomac River at its confluence with Hawes Run."
+    },
+    {
+      "cityName": "Brenton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 194 (down from 249 at the 2010 census)."
+    },
+    {
+      "cityName": "Brenton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sue Cline (1946\u20132021), West Virginia State Senator and businesswoman, lived in Brenton."
+    },
+    {
+      "cityName": "Buckhannon",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to West Virginia Wesleyan College and the West Virginia Strawberry Festival, held annually during the third week of May."
+    },
+    {
+      "cityName": "Buckhannon",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the Buckhannon River, the population was 5299 as of the 2020 census."
+    },
+    {
+      "cityName": "Buckhannon",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is 46 miles (74 km) southwest of Morgantown, 88 miles (142 km) northeast of the capital city of Charleston, and 100 miles (160 km) south of Pittsburgh, Pennsylvania."
+    },
+    {
+      "cityName": "Bud",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community has the name of Bud Adams, a businessperson in the local logging industry."
+    },
+    {
+      "cityName": "Bud",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 347 (down from 487 at the 2010 census)."
+    },
+    {
+      "cityName": "Bunker Hill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the site of the confluence of Torytown Run and Mill Creek, a tributary of Opequon Creek which flows into Winchester, Virginia."
+    },
+    {
+      "cityName": "Bunker Hill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2000 census, the Bunker Hill community has a population of 5319."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 131."
+    },
+    {
+      "cityName": "Burnsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burnsville was incorporated in 1902 by the Circuit Court and named for Captain John Burns who operated the first sawmill in that section of the state and who established the town shortly after the close of the American Civil War."
+    },
+    {
+      "cityName": "Burnsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named \"All West Virginia City\" in 1976."
+    },
+    {
+      "cityName": "Cabin Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cabin Creek is located on the south bank of the Kanawha River at the mouth of Cabin Creek, southeast of Chesapeake."
+    },
+    {
+      "cityName": "Cabin Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A notable resident was Adam Clayton Powell, Senior and his family, who had moved there from Virginia."
+    },
+    {
+      "cityName": "Cabin Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "An exit on the West Virginia Turnpike is located near here."
+    },
+    {
+      "cityName": "Caldwell",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caldwell is located on U S Route 60, 3 miles (4.8 km) southeast of Lewisburg."
+    },
+    {
+      "cityName": "Caldwell",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community has the name of James R. Caldwell, the original owner of the town site."
+    },
+    {
+      "cityName": "Calvin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calvin is located on West Virginia Route 55, 8.5 miles (13.7 km) northeast of Summersville."
+    },
+    {
+      "cityName": "Camden-on-Gauley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town derives its name from Johnson N. Camden, a senator who was the proprietor of several businesses on the nearby Gauley River."
+    },
+    {
+      "cityName": "Camden-on-Gauley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was originally called Lanes Bottom, but was changed to Camden-on-Gauley when incorporated in 1904."
+    },
+    {
+      "cityName": "Camp Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Camp Creek is located along Interstate 77 (I-77) and U S Route 19 (US 19), north of Princeton."
+    },
+    {
+      "cityName": "Canvas",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canvas is located on West Virginia Route 39, 4 miles (6.4 km) east of Summersville."
+    },
+    {
+      "cityName": "Canvas",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Canvas was originally named Earl but the residents of the area were not fond of the name."
+    },
+    {
+      "cityName": "Canvas",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Around 1910, Charles William \u201cBill\u201d Bryant owned a general store and was selling canvas gloves which were a huge hit with the community."
+    },
+    {
+      "cityName": "Canvas",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "At that point, residents held a meeting and it was decided that they would rename the community to Canvas."
+    },
+    {
+      "cityName": "Carpendale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carpendale was incorporated on January 2, 1990, by the Circuit Court."
+    },
+    {
+      "cityName": "Carpendale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a combination of three subdivisions of which its name reflects: Carpenters Addition, Millerdale I, and Millerdale II."
+    },
+    {
+      "cityName": "Carpendale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are no stores in Carpendale and there is only one road in and out of the town."
+    },
+    {
+      "cityName": "Cassville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cassville was named after Lewis Cass, a prominent American statesman who served as Secretary of War, Secretary of State, and Governor of Michigan."
+    },
+    {
+      "cityName": "Chapmanville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chapmanville is named for Ned Chapman, an early settler who operated a store and post office."
+    },
+    {
+      "cityName": "Chapmanville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1947."
+    },
+    {
+      "cityName": "Charles Town",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named for its founder Charles Washington, youngest brother of President George Washington."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city gained prominence in the 19th century with the growth of the salt industry and later expanded due to coal mining and the first natural gas well."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "West Virginia State University is in the area, as are West Virginia University and Marshall University satellite campuses."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Charleston is the home of the Charleston Dirty Birds of the Atlantic League of Professional Baseball and the annual 15-mile (24 km) Charleston Distance Run."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its economy and infrastructure further evolved in the 20th century with the rise of chemical manufacturing and public sector employment."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Yeager Airport and the University of Charleston are in the city."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Charleston () is the capital and most populous city of the U S state of West Virginia."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Charleston was established in the late 18th century and formally incorporated in 1794, with the trustees being Daniel Boone, Leonard Morris, and William Morris."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "After West Virginia separated from Virginia, Charleston became the permanent state capital in 1885."
+    },
+    {
+      "cityName": "Chelyan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chelyan is located on the south bank of the Kanawha River, southeast of Chesapeake."
+    },
+    {
+      "cityName": "Chelyan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is served by Exit 85 of the West Virginia Turnpike."
+    },
+    {
+      "cityName": "Chelyan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 681."
+    },
+    {
+      "cityName": "Chelyan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The community has the name of Chelyan Calvert, the child of an early postmaster."
+    },
+    {
+      "cityName": "Circleville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The old Circleville School is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Circleville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Circleville is located on West Virginia Route 28 along the North Fork of South Branch of the Potomac River at its confluence with Pike Gap and Bouses Runs."
+    },
+    {
+      "cityName": "Circleville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Circleville was originally named Zirkleville after John Zirkle, who ran a dry goods store in the town."
+    },
+    {
+      "cityName": "Clay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clay was incorporated in 2020."
+    },
+    {
+      "cityName": "Clothier",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clothier was named after the proprietor of a coal mine."
+    },
+    {
+      "cityName": "Clothier",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1974, Jack Corn, a DOCUMERICA photographer, photographed Clothier and its inhabitants for a project on mining and its environmental and health consequences."
+    },
+    {
+      "cityName": "Clothier",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clothier is located along West Virginia Route 17, approximately 8 miles (13 km) south of Madison."
+    },
+    {
+      "cityName": "Clothier",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The images are available at Wikimedia Commons."
+    },
+    {
+      "cityName": "Coal City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coal City was incorporated in 2020."
+    },
+    {
+      "cityName": "Comfort",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Comfort is the home of Sherman Elementary School."
+    },
+    {
+      "cityName": "Comfort",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Comfort is located on West Virginia Route 3, 12 miles (19 km) northeast of Madison."
+    },
+    {
+      "cityName": "Comfort",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population is 320 (up from 306 at the 2010 census)."
+    },
+    {
+      "cityName": "Cool Ridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cool Ridge is located on U S Route 19, 3.5 miles (5.6 km) south of Shady Spring."
+    },
+    {
+      "cityName": "Crawley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the town of Crawley in West Sussex, England."
+    },
+    {
+      "cityName": "Cross Lanes",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 9727 (down from 9995 at the 2010 census)."
+    },
+    {
+      "cityName": "Cross Lanes",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An EF2 tornado struck and heavily damaged the north side of town on April 2, 2024."
+    },
+    {
+      "cityName": "Culloden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 3016."
+    },
+    {
+      "cityName": "Culloden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community's name was selected on account of its perceived uniqueness."
+    },
+    {
+      "cityName": "Danese",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danese is located on West Virginia Route 41, 5.5 miles (8.9 km) northwest of Meadow Bridge."
+    },
+    {
+      "cityName": "Danese",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Danese was originally called Noel; the present name is after the daughter of a settler."
+    },
+    {
+      "cityName": "Danville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danville was incorporated in 1911 and named for Dan Rock, the town's first postmaster."
+    },
+    {
+      "cityName": "Danville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Danville was formerly known as Newport and Red House."
+    },
+    {
+      "cityName": "Davy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1873, the town was originally called Hallsville but the name would change to Davy by 1901."
+    },
+    {
+      "cityName": "Davy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Davy was officially incorporated in 1948."
+    },
+    {
+      "cityName": "Drennen",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located near Drennen is the Mason-Drennen House, listed on the National Register of Historic Places in 1998."
+    },
+    {
+      "cityName": "Drennen",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Drennen is located on West Virginia Route 39, 8 miles (13 km) west of Summersville."
+    },
+    {
+      "cityName": "Durbin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named in 1895 in honor of Charles R. Durbin Sr, the Grafton, WV bank official responsible for lending funds to John T. McGraw to purchase the site of the town in 1890."
+    },
+    {
+      "cityName": "Eleanor",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, named for Eleanor Roosevelt, was established as a New Deal project in the 1930s like other Franklin D. Roosevelt towns around the nation (e.g."
+    },
+    {
+      "cityName": "Eleanor",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 1548 at the 2020 census."
+    },
+    {
+      "cityName": "Eleanor",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Greenbelt, Greenhills, Greendale, Hanford, or Norris)."
+    },
+    {
+      "cityName": "Elk Garden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for an elk lick near the original town site."
+    },
+    {
+      "cityName": "Elk Garden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elk Garden High School was consolidated into Keyser High School in 1997."
+    },
+    {
+      "cityName": "Elk Garden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However the Primary School is still in session, offering classes from Pre-Kindergarten through the fifth grade."
+    },
+    {
+      "cityName": "Elk Garden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The school mascot is the Elk Garden Stags."
+    },
+    {
+      "cityName": "Elk Garden",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Elk Garden was incorporated in 1890 by the Mineral County Circuit Court."
+    },
+    {
+      "cityName": "Elkins",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elkins is home to Davis and Elkins College and the Mountain State Forest Festival, held in early October every year."
+    },
+    {
+      "cityName": "Elkins",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies along the Tygart Valley River and was incorporated in 1890, taking its name from Stephen B. Elkins, the city's co-founder and later U S Senator from West Virginia."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the Elk River, which flows into the Kanawha River."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 79, the \"Jennings Randolph Expressway\", provides highway access to Elkview from exit 9."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "U S Route 119 also reaches Elkview."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A shopping center was built off I-79, which includes a La Quinta Inns and Suites, Kroger, and several fast food restaurants."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Hundreds of people were stranded at this shopping center during the 2016 West Virginia flood, as the bridge leading to it from the interstate was washed away."
+    },
+    {
+      "cityName": "Elkview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "This small town is nestled between the larger town of Clendenin, and the municipality of Kanawha County, Charleston."
+    },
+    {
+      "cityName": "Ellenboro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Ellen Mariah Williamson, the eldest daughter of the family that granted a right of way for the Baltimore and Ohio Railroad to build their line through the town; an earlier name for the community was Shumley."
+    },
+    {
+      "cityName": "Ellenboro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ellenboro was incorporated in 1903."
+    },
+    {
+      "cityName": "Fairmont",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Fairmont State University, serving more than 3000 students."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town took its name from the old Fairview Inn near the original town site."
+    },
+    {
+      "cityName": "Falling Waters",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "An 1887 Scientific American article claimed that the first U S railroad was built in Falling Waters in 1814."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is best known for being the site of the 1968 Farmington Mine disaster."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The small town is situated on Buffalo Creek and the Allegheny Mountains about 6 miles west of Fairmont, Marion County's county seat."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fayetteville lies adjacent to the New River Gorge National Park and Preserve and is directly south of the New River Gorge Bridge."
+    },
+    {
+      "cityName": "Fayetteville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fayetteville was listed as one of the 2006 \"Top 10 Coolest Small Towns in America\" by Budget Travel Magazine, and as \"Best River Town 2013\" by Blue Ridge Outdoors magazine."
+    },
+    {
+      "cityName": "Fort Ashby",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was originally chartered as Frankfort and then known as Alaska before it took the name of its well-known historic landmark."
+    },
+    {
+      "cityName": "Fort Ashby",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fort Ashby is the location of the Mineral County Fair."
+    },
+    {
+      "cityName": "Foster",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Foster is located on West Virginia Route 3, 3 miles (4.8 km) northeast of Madison."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frankford is the home of Frankford Elementary School and the Frankford Volunteer Fire Department."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frankford is located on U S Route 219, south of Falling Spring and north of Maxwelton."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklin was established in 1794 and named for Francis Evick, an early settler."
+    },
+    {
+      "cityName": "French Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Popular exhibits at the center include American bison, North American river otters, black bears and mountain lions."
+    },
+    {
+      "cityName": "French Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the West Virginia State Wildlife Center \u2014 formerly the \"French Creek Game Farm\" \u2014 a zoological park featuring native and introduced fauna."
+    },
+    {
+      "cityName": "French Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "French Creek is 9\u00bd miles south of the county seat, Buckhannon, on West Virginia Route 20."
+    },
+    {
+      "cityName": "Gallipolis",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for the fact a ferry once provided service between the town site and nearby Gallipolis, Ohio."
+    },
+    {
+      "cityName": "Gallipolis",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 735 (down from 817 at the 2010 census)."
+    },
+    {
+      "cityName": "Gallipolis",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the site of the Robert C. Byrd Locks & Dam on the Ohio."
+    },
+    {
+      "cityName": "Gassaway",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gassaway was incorporated in 1905 and named for Henry Gassaway Davis, the Democratic Party's nominee for Vice President of the United States in 1904."
+    },
+    {
+      "cityName": "Gassaway",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The center of population of West Virginia is located approximately 7 miles (11 km) north of Gassaway."
+    },
+    {
+      "cityName": "Gauley Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after a bridge over the Gauley River near the original town site."
+    },
+    {
+      "cityName": "Gauley Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Kanawha River is formed at Gauley Bridge by the confluence of the New and Gauley Rivers."
+    },
+    {
+      "cityName": "Gauley Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Two miles to the southwest of Gauley Bridge, in Glen Ferris, is Kanawha Falls, a popular stopping point on Midland Trail Scenic Highway."
+    },
+    {
+      "cityName": "Gauley Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Gauley Bridge was close to the site of the Hawks Nest Tunnel disaster, in which hundreds of people died in the 1920s and 1930s."
+    },
+    {
+      "cityName": "Genoa",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named for Genoa Reed, the daughter of a former postmaster, E. P. Reed."
+    },
+    {
+      "cityName": "Gerrardstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Route 51 in Berkeley County in West Virginia's Eastern Panhandle region in the lower Shenandoah Valley."
+    },
+    {
+      "cityName": "Ghent",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 582 (up from 457 at the 2010 census)."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilbert was incorporated in 1918 and named for Gilbert Creek, which derives its name from the name of an early traveler in the area who was killed by Native Americans."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gilbert is known nationwide for the Hatfield-McCoy ATV Trails that are located in the area."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are a number of lodges and restaurants in Gilbert."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On July 1, 2023, after a months-long design contest, the town announced its new flag, \"The Star of Bright Promise.\""
+    },
+    {
+      "cityName": "Glen Dale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glen Dale was incorporated in 1924."
+    },
+    {
+      "cityName": "Glen Dale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is in the northwest part of the county, which is above the Mason\u2013Dixon line and forms the base of the Northern Panhandle of West Virginia."
+    },
+    {
+      "cityName": "Glen Daniel",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glen Daniel is located at the junction of West Virginia Route 3 and West Virginia Route 99, 8.5 miles (13.7 km) west of Beckley."
+    },
+    {
+      "cityName": "Glen Jean",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 90 (down from 210 at the 2010 census)."
+    },
+    {
+      "cityName": "Glenville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Glenville State University."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Tygart Valley River, it originally developed as a junction point for the Baltimore and Ohio Railroad, serving numerous branches of a network that was vital to the regional coal industry."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grafton is the home of both of West Virginia's national cemeteries, and was where the West Virginia Equal Suffrage Association formed in 1895."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mother's Day was founded in Grafton on May 10, 1908, and the city is home to the International Mother's Day Shrine."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Grafton was also among the first cities in the United States to observe Memorial Day."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was established along the Little Kanawha River in 1865 and named for Ulysses S. Grant."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grantsville is home to Wayne Underwood Park, which includes a.25-mile-long (0.40 km) walking trail, and to the annual West Virginia Wood Festival."
+    },
+    {
+      "cityName": "Harpers Ferry",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of the lower town, which was in ruins by the end of the Civil War and ravaged by subsequent floods, has been rebuilt and preserved by the National Park Service."
+    },
+    {
+      "cityName": "Harpers Ferry",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An antebellum manufacturing and transportation hub, Harpers Ferry has long since reoriented its economy around tourism after being largely destroyed during the Civil War."
+    },
+    {
+      "cityName": "Harpers Ferry",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "During the American Civil War, the town became the northernmost point of Confederate-controlled territory, and changed hands several times due to its strategic importance."
+    },
+    {
+      "cityName": "Harpers Ferry",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Originally named Harper's Ferry after an 18th-century ferry owner, the town lost its apostrophe in 1891 in an update by the United States Board on Geographic Names."
+    },
+    {
+      "cityName": "Harpers Ferry",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It gained fame in 1859 when abolitionist John Brown led a raid on the Harpers Ferry Armory in a doomed effort to start a slave rebellion in Virginia and across the South."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Bend Lake and North Bend State Park are located just outside town limits."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Within the community are an elementary school, the county board of education, many businesses, three banks, a library, offices of the Ritchie Gazette and The Pennsboro News, a municipal park, and North Bend Golf Course."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Harrisville is located at the junction of State Routes 31 and 16, five miles south of U S 50."
+    },
+    {
+      "cityName": "Harrisville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Municipal elections are held every two years."
+    },
+    {
+      "cityName": "Harts",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 573 (down from 656 at the 2010 census)."
+    },
+    {
+      "cityName": "Harts",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harts is a part of the Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "Hazelton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hazelton is located along Interstate 68, just east of Bruceton Mills."
+    },
+    {
+      "cityName": "Hazelton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The United States Penitentiary, Hazelton, a high-security federal prison, is located in northern Hazelton."
+    },
+    {
+      "cityName": "Hedgesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town sits on WV 9, roughly 13 miles east of Berkeley Springs."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated in 1893 and named for Samuel Bruce Henderson, who owned the townsite at the time."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was unincorporated following a public hearing on August 11, 2022."
+    },
+    {
+      "cityName": "Hendricks",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Blackwater River and the Dry Fork join at Hendricks to form the Black Fork, a principal tributary of the Cheat River."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community's name is an amalgamation of the names Herndon and Renshaw, two men in the local coal mining industry."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hernshaw is located on West Virginia Route 94, 2.5 miles (4.0 km) southwest of Marmet, along Lens Creek."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On 2 April 2024, a tornado touched down at the Kanawha State Forest and moved eastward until it dissipated at a point between Hernshaw and Marmet."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A 3-vehicle crash on Lens Creek Road (WV Route 94) occurred on 31 January 2025, with one death."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "On 15 September 2025, a car and a coal truck crashed on Lens Creek Road, with zero injuries."
+    },
+    {
+      "cityName": "Hernshaw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Yet another head-on collision on the same road happened between SUV and a utility truck on 2 December 2025, with one death."
+    },
+    {
+      "cityName": "Hico",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Some believe that the community was named after a variety of tobacco called hico, while others believe the name is a transfer from Hyco, Virginia (an extinct town)."
+    },
+    {
+      "cityName": "Hico",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hico is located at the junction of U S routes 19 and 60, 7 miles (11 km) northeast of Fayetteville."
+    },
+    {
+      "cityName": "Hico",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 239 (down from 272 at the 2010 census)."
+    },
+    {
+      "cityName": "Hico",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On April 2, 2024, an EF2 tornado caused significant damage just to the south of Hico."
+    },
+    {
+      "cityName": "Hinton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of Hinton's downtown was placed on the National Register of Historic Places in 1984."
+    },
+    {
+      "cityName": "Hinton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hinton was established in 1873 and chartered in 1897."
+    },
+    {
+      "cityName": "Hinton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hinton was named after John \"Jack\" Hinton, the original owner of the town site."
+    },
+    {
+      "cityName": "Hundred",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hundred is the only place in the United States with this name."
+    },
+    {
+      "cityName": "Hundred",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for the fact that local resident Henry \"Old Hundred\" Church was a centenarian."
+    },
+    {
+      "cityName": "Jesse",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community has the name of Jesse Shumate."
+    },
+    {
+      "cityName": "Johnsons Mill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is centrally located between three other small rural hamlets along Sleepy Creek and is named for the \"Johnson's Mill\" that once operated here."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is in the southeastern part of the city, and located along WV 61 (MacCorkle Ave.) It officially starts at the 35th Street bridge, where there is a sign welcoming visitors."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It comprises mostly small stores and neighborhood/residential on both sides."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The stores, malls, and restaurants are mostly located in the southern part of the neighborhood."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Kanawha City was first developed in the 1890's by former West Virginia governor William A. MacCorckle and other businessmen."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was incorporated into Charleston in 1929."
+    },
+    {
+      "cityName": "Kanawha City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "An early variant name was Owens."
+    },
+    {
+      "cityName": "Kearneysville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2000 census, Kearneysville and its surrounding community has a population of 6716."
+    },
+    {
+      "cityName": "Kenna",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 787 feet (240 m)."
+    },
+    {
+      "cityName": "Kenna",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Kenna is unincorporated, it has a post office, with the ZIP code of 25248."
+    },
+    {
+      "cityName": "Kenna",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was named in honor of John E. Kenna, a United States Senator from West Virginia."
+    },
+    {
+      "cityName": "Kenova",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's name is a portmanteau of Kentucky, Ohio, and Virginia (Va), owing to its location where the three states met before the creation of West Virginia."
+    },
+    {
+      "cityName": "Kenova",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kenova was also formerly known as Morganza and Virginia Point."
+    },
+    {
+      "cityName": "Kermit",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kermit was named for Kermit Roosevelt, son of President Theodore Roosevelt, and incorporated in 1909."
+    },
+    {
+      "cityName": "Kermit",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Norfolk Southern Railway's Kenova District runs through town."
+    },
+    {
+      "cityName": "Kermit",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was earlier known by the names \"Lower Burning Creek\", \"East Warfield,\" and \"Warfield.\" The name was changed to \"Kermit\" when a post office was established in 1906."
+    },
+    {
+      "cityName": "Kermit",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Kermit is located along the Tug Fork, opposite Warfield, Kentucky."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 176."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Keystone is one of the few municipalities in West Virginia with an African-American majority, with 65 percent of the residents being black."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The term \"Free State of McDowell\" was coined by Matthew Thomas Whittico, a local newspaper editor and community leader from Keystone in the early 20th century."
+    },
+    {
+      "cityName": "Keystone",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Keystone possessed a unique combination of political, social, and economic characteristics that made it an attractive place for African-Americans to migrate to in the late 1800s and early 1900s."
+    },
+    {
+      "cityName": "Kimball",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kimball was incorporated in 1911 and named for Frederick J. Kimball, a railroad official."
+    },
+    {
+      "cityName": "Kimball",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kimball is the site of the first war memorial building erected in memory of the African-American veterans of World War I. As of 2024, the town still has a municipal government, where the mayor also acts as the town's only police officer."
+    },
+    {
+      "cityName": "Kimball",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Per the 2020 census, the population was 145."
+    },
+    {
+      "cityName": "Kingwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It hosts the annual Preston County Buckwheat Festival, a county fair known for making buckwheat pancakes."
+    },
+    {
+      "cityName": "Kingwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city sits within the Allegheny Mountains above the Cheat River valley."
+    },
+    {
+      "cityName": "Kistler",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 420 (down from 528 at the 2010 census)."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lavalette was named after Lavalette Miller, the daughter of a Norfolk & Western Railway official."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lavalette has two 18-hole public golf courses - Sugarwood Golf Club and Creekside Golf Course."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is near Beech Fork Lake, a popular location for boating and fishing, and Twelvepole Creek."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, its population was 932 (down from 1073 at the 2010 census)."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lavalette is located at the intersection of West Virginia Route 152 and West Virginia Route 75, eight miles south of Huntington."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Lavalette is a part of the Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of the 2010 census, the MSA had a population of 287702."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Lavalette also has a paid EMS ambulance service with two emergency response squads and one transport unit."
+    },
+    {
+      "cityName": "Lavalette",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The 35 member volunteer fire department has four engine companies, a rescue boat, and a mobile disaster response trailer."
+    },
+    {
+      "cityName": "Leewood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leewood is 7 miles (11 km) northeast of Sylvester along Cabin Creek."
+    },
+    {
+      "cityName": "Lenore",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lenore is located on West Virginia Route 65, 7.5 miles (12.1 km) southeast of Kermit."
+    },
+    {
+      "cityName": "Lerona",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lerona is located on West Virginia Route 20, 5.5 miles (8.9 km) north-northeast of Athens."
+    },
+    {
+      "cityName": "Lesage",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Jules F. M. LeSage, an early settler."
+    },
+    {
+      "cityName": "Lesage",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 1290 (down from 1358 at the 2010 census)."
+    },
+    {
+      "cityName": "Lesage",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lesage is a part of the Huntington-Ashland Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "Lesage",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2010 census, the MSA had a population of 287702."
+    },
+    {
+      "cityName": "Lesage",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "New definitions from February 28, 2013, placed the population at 363000."
+    },
+    {
+      "cityName": "Lester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Champ Lester, a local pioneer."
+    },
+    {
+      "cityName": "Lindside",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lindside is located on U S Route 219, northeast of Peterstown."
+    },
+    {
+      "cityName": "Lindside",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Lindside was derived from linden, a type of tree, according to local history."
+    },
+    {
+      "cityName": "Linn",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Robert George Linn, an early settler."
+    },
+    {
+      "cityName": "Linn",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Linn is located at the junction of U S routes 33 and 119, and West Virginia Route 47, along Leading Creek, 8 miles (13 km) northeast of Glenville."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A hall, built in 1976 at Marshall University, is named after him."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Little Birch is part of the Central Appalachia Empowerment Zone, and takes its name from the Birch River which flows under Old Turnpike Road."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is 50 miles (80 km) miles northeast of the state capital of Charleston."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is 1.5 miles (2 km) to the east of Route 19, which runs locally from its conjunction with I 79 at the north to Summersville at the south."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The nearest neighboring settlement is Sutton, 6 miles (10 km) to the north."
+    },
+    {
+      "cityName": "Little Birch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "On Old Turnpike Road is Little Birch Baptist Church, affiliated to the Southern Baptist Convention."
+    },
+    {
+      "cityName": "Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lookout is located on U S Route 60, 7.5 miles (12.1 km) east of Fayetteville."
+    },
+    {
+      "cityName": "Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was so named because Indians used the elevated site to look out over the surrounding area."
+    },
+    {
+      "cityName": "Lumberport",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rural town was so named on account of the extensive lumber industry conducted there in the early 20th century."
+    },
+    {
+      "cityName": "Lumberport",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With changes in the lumber industry, the number of jobs declined, leading to a loss in population after the 1950s."
+    },
+    {
+      "cityName": "Lyburn",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyburn is also the home of the Bearwallow trailhead for the Hatfield-Mccoy ATV trail."
+    },
+    {
+      "cityName": "Maben",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after John C. Maben, the original owner of the town site."
+    },
+    {
+      "cityName": "Maben",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is home to Integrated Resources of Wyoming County as well as the county's only 7 Eleven."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mabscott is named for Mabel Shinn Scott, wife of Cyrus Ellison Scott, a chemist who worked in the coal industry."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Chesapeake & Ohio Railway built Beckley Station in what is now Mabscott."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Later a new depot was built and the old Beckley Station was renamed Mabscott in 1907."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Cyrus and Mabel were married in 1903 in Marion County, W.Va."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Books and newspaper articles have erroneously cited Cyrus Hall Scott as the husband of Mabel Shinn Scott and source of the community name."
+    },
+    {
+      "cityName": "Mabscott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Cyrus H. Scott was married to Fannie I. Logan and, after Fannie's death, to her sister Emma Crawford Logan."
+    },
+    {
+      "cityName": "Macarthur",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally, it was named Hollywood and renamed MacArthur after General of the Army Douglas MacArthur in 1942."
+    },
+    {
+      "cityName": "Mahan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Peter Mahan, a businessperson in the lumber industry."
+    },
+    {
+      "cityName": "Mahan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mahan is located off exit 66 of the West Virginia Turnpike."
+    },
+    {
+      "cityName": "Man",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name of the town reportedly derives from the last syllable of the surname of Ulysses Hinchman, who was a member of the House of Delegates from Logan County between 1866 and 1869."
+    },
+    {
+      "cityName": "Mannington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In its earliest years it was called Forks of Buffalo or Koon Town, but has been called Mannington since 1856."
+    },
+    {
+      "cityName": "Marlinton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Greenbrier River, it is known for its scenery."
+    },
+    {
+      "cityName": "Mason",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was chartered by the Virginia General Assembly in 1856, and named for Mason County, which was named for George Mason, a delegate to the U S Constitutional Convention."
+    },
+    {
+      "cityName": "Mason",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mason was initially known as Waggener's Bottom."
+    },
+    {
+      "cityName": "Matewan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a key site of the Coal Wars and the location of the Battle of Matewan in 1920."
+    },
+    {
+      "cityName": "Matewan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Norfolk Southern Railway's Pocahontas District passes through the town."
+    },
+    {
+      "cityName": "Maysel",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Maysel Kyle, the young daughter of a local merchant."
+    },
+    {
+      "cityName": "Maysel",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Maysel is located on West Virginia Route 4, 2.5 miles (4.0 km) northwest of Clay."
+    },
+    {
+      "cityName": "Meadow Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first settler of the area was John Gwin, closely followed by Dan Griffin."
+    },
+    {
+      "cityName": "Meadow Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community took its name from a nearby bridge over Meadow Creek."
+    },
+    {
+      "cityName": "Miami",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after the Miami Indians."
+    },
+    {
+      "cityName": "Miami",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Miami is 4.5 miles (7.2 km) south of East Bank along Cabin Creek."
+    },
+    {
+      "cityName": "Mill Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town takes its name from nearby Mill Creek."
+    },
+    {
+      "cityName": "Millwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 577 feet (176 m)."
+    },
+    {
+      "cityName": "Millwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Millwood is unincorporated, it has a post office, with the ZIP code of 25262."
+    },
+    {
+      "cityName": "Mineral Wells",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The United States Census Bureau calls the community Mineralwells, although the United States Postal Service renamed the community's post office in the late 1990s to Mineral Wells."
+    },
+    {
+      "cityName": "Mitchell Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for an early farm on which it was established."
+    },
+    {
+      "cityName": "Monongah",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its name is derived from the nearby Monongahela River."
+    },
+    {
+      "cityName": "Monongah",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Monongah was chartered in 1891."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the city is in Fayette County, with the remainder in Kanawha County."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was so named on account of wild rose bushes near the original town site."
+    },
+    {
+      "cityName": "Moorefield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moorefield was originally chartered in 1777; it was named for Conrad Moore, who owned the land upon which the town was laid out."
+    },
+    {
+      "cityName": "Morgantown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the Monongahela River in north-central West Virginia, it is home to West Virginia University."
+    },
+    {
+      "cityName": "Morgantown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The local economy is largely driven by education and healthcare, anchored by West Virginia University and the Robert C. Byrd Health Sciences Center."
+    },
+    {
+      "cityName": "Morgantown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With a population of 30347 at the 2020 census, Morgantown is the third-most populous city in West Virginia."
+    },
+    {
+      "cityName": "Moundsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for the nearby ancient Grave Creek Mound, constructed 250 to 100 BC by indigenous people of the Adena culture."
+    },
+    {
+      "cityName": "Mount Alto",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 709 feet (216 m)."
+    },
+    {
+      "cityName": "Mount Alto",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Alto had a post office, which closed on June 20, 2009."
+    },
+    {
+      "cityName": "Mount Clare",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Clare is 4.5 miles (7.2 km) south of Clarksburg."
+    },
+    {
+      "cityName": "Mount Gay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Gay-Shamrock has a 2020 population of 1360."
+    },
+    {
+      "cityName": "Mount Gay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Gay-Shamrock is currently declining at a rate of -2.51% annually."
+    },
+    {
+      "cityName": "Mount Gay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office was established as Mount Gay in 1916."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Before that, a store called the Poke \u2018N Tote served the area."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The southern portion of the community is bordered by the Meadow River while the Summersville Lake recreational area is just north of the community."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mount Lookout is located at 38\u00b010\u203200\u2033N 80\u00b054\u203242\u2033W (38.1667776, -80.9117644)."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mount Lookout's name is descriptive of the elevated town site."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Post Office Box service is available as well as highway contract street delivery."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of 2016, there is (1) delivery route serving the community Mount Lookout has (1) elementary school, Mt."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Lookout Elementary, as well as a Head Start program."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "For many years there was (1) small general store, Kountry Mart, selling pop, bread, snacks, etc."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Sometime prior to 2016, the Kountry Mart had been turned into apartments and a new Family Dollar store was constructed across the street."
+    },
+    {
+      "cityName": "Mount Lookout",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The area is served by the Wilderness Volunteer Fire Department."
+    },
+    {
+      "cityName": "Mount Storm",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Inclement weather over a nearby mountain caused the name of the town to be selected."
+    },
+    {
+      "cityName": "Mount Storm",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Storm lies on the Northwestern Turnpike (U S Route 50) at its junction with West Virginia Route 42."
+    },
+    {
+      "cityName": "Mount Storm",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is the site of the Union School Complex, which contains Union High School."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The festival includes a parade through downtown, food and craft vendors, car shows, live music, and other family-oriented activities."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in a valley along the Guyandotte River within a mountainous region of southern West Virginia, the town was nearly destroyed by flash flooding in July 2001."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Each spring, Mullens hosts the Dogwood Festival, a community celebration held at the end of April."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Named for the blooming dogwood trees common in the area, the event serves as both a seasonal celebration and a homecoming, drawing visitors and former residents back to the city."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "While the town has attempted to redevelop with the aid of state and federal recovery money, many local businesses and residents have left the area permanently."
+    },
+    {
+      "cityName": "Mullens",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It has become one of the community's most recognizable annual traditions, reflecting Mullens' small-town character and emphasis on civic pride."
+    },
+    {
+      "cityName": "Nettie",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nettie is the location of the southern convergence of state routes 20 and 39."
+    },
+    {
+      "cityName": "Nettie",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 494."
+    },
+    {
+      "cityName": "New Haven",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after New Haven, Connecticut, the native home of the local mine proprietors."
+    },
+    {
+      "cityName": "Nimitz",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 2523 feet (769 m)."
+    },
+    {
+      "cityName": "Nitro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It takes its name from a World War I-era nitrocellulose plant."
+    },
+    {
+      "cityName": "North Hills",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburb of Parkersburg."
+    },
+    {
+      "cityName": "North Hills",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Hills was incorporated on February 15, 1979."
+    },
+    {
+      "cityName": "Northfork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Northfork was incorporated in 1901, so named because of its location on the north fork of the Elkhorn Creek at its junction with the south fork."
+    },
+    {
+      "cityName": "Northfork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was consolidated with the town of Clark on March 26, 1948."
+    },
+    {
+      "cityName": "Nutter Fort",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nutter Fort is a town in Harrison County, West Virginia, United States, incorporated in 1923."
+    },
+    {
+      "cityName": "Nutter Fort",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a southeastern suburb of Clarksburg."
+    },
+    {
+      "cityName": "Oak Hill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "More recently, recreation has become a leading industry as the city neighbors the New River Gorge National Park and Preserve."
+    },
+    {
+      "cityName": "Oak Hill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to the historic Oak Hill Railroad Depot which still stands today as an artisan shop."
+    },
+    {
+      "cityName": "Oak Hill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Country singer Hank Williams died in Oak Hill on his way to a concert on January 1, 1953."
+    },
+    {
+      "cityName": "Old Fields",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the Geographic Names Information System, Old Fields has also been known throughout its history as Indian Old Field, Indian Old Fields, and Oldfields."
+    },
+    {
+      "cityName": "Old Fields",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Also, as \"Fort Pleasant,\" a French and Indian War fort built on the Van Meter land at Old Fields."
+    },
+    {
+      "cityName": "Omar",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after James Omar Cole, one of the original lessors."
+    },
+    {
+      "cityName": "Omar",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Omar is located along West Virginia Route 44 and Island Creek, 6.5 miles (10.5 km) south of Logan."
+    },
+    {
+      "cityName": "Omar",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 416 (down from 552 at the 2010 census)."
+    },
+    {
+      "cityName": "Ona",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ona is a part of the Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "Paden City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1916."
+    },
+    {
+      "cityName": "Parkersburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's population was 29749 at the 2020 census, and its metro population was 89490."
+    },
+    {
+      "cityName": "Parsons",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parsons is located at the confluence of the Shavers Fork and the Black Fork, forming the head of the Cheat River."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today, the tunnel and nearby canal are part of the Chesapeake and Ohio Canal National Historical Park."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hundreds of people attended the festival to hear lectures on how to grow and cultivate Pawpaw fruit, and listen to Appalachian music performed by the Paw Paw Community Choir, Ben Townsend, the Critton Hollow String Band, and Mary Hott with the Carpenter Ants."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "While the town's name is usually associated with the nearby Paw Paw Tunnel, which was part of the Chesapeake and Ohio Canal, it is more likely the town was named for the Paw Paw Tunnel constructed by the B&O railroad in the 1830s through the Paw Paw Ridge east of the town."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is known for the nearby Paw Paw Tunnel."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Paw Paw is located along the section of the Potomac River known as the Paw Paw Bends."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Paw Paw was incorporated by the Circuit Court of Morgan County on April 8, 1891, and named after pawpaw, a wild fruit that grows in abundance throughout this region."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "On September 14, 2024, a group of local citizens organized by Maria Gloyd hosted the inaugural Pawpaw Festival in the Town Park."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Paw Paw Valley is surrounded by the ridges of Sideling Hill, Green Ridge, Purslane Mountain and Town Hill."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The construction of the Paw Paw tunnel across the river in Maryland began in 1836 and was completed in 1850, 12 years behind schedule."
+    },
+    {
+      "cityName": "Paw Paw",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Paw Paw is the westernmost incorporated community in Morgan County, and the Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pax",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The current mayor of Pax is William Hughes."
+    },
+    {
+      "cityName": "Pax",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community most likely derives its name from nearby Packs Branch creek."
+    },
+    {
+      "cityName": "Paynesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paynesville is located along West Virginia Route 83, encompassing both states."
+    },
+    {
+      "cityName": "Paynesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On May 29, 1961, Paynesville residents Mr. and Mrs. Alderson Muncy were the first people in the United States to receive food stamps under the modern food stamp program."
+    },
+    {
+      "cityName": "Paynesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "They received $95 for their 15-person household."
+    },
+    {
+      "cityName": "Pea Ridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 6602."
+    },
+    {
+      "cityName": "Pecks Mill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after the Peck family, the proprietors of a local gristmill."
+    },
+    {
+      "cityName": "Pecks Mill",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pecks Mill is located on the Guyandotte River and West Virginia Route 10, 1.5 miles (2.4 km) north of Mitchell Heights."
+    },
+    {
+      "cityName": "Pennsboro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was platted circa 1820 by Charles Penn, and named for him."
+    },
+    {
+      "cityName": "Peterstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Christian Peters, a pioneer settler."
+    },
+    {
+      "cityName": "Peterstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is the site of the 1928 discovery of the 34.48 carat (6.896 g) Jones Diamond by Grover C. Jones and his son, William \"Punch\" Jones."
+    },
+    {
+      "cityName": "Philippi",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1861, the city was the site of the Battle of Philippi, known as the \"Philippi Races\"."
+    },
+    {
+      "cityName": "Philippi",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although a minor skirmish, this is considered the earliest notable land action of the American Civil War."
+    },
+    {
+      "cityName": "Philippi",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city has a weekly newspaper, The Barbour Democrat."
+    },
+    {
+      "cityName": "Piedmont",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Piedmont was chartered in 1856 and the town is the subject of Colored People: A Memoir by Piedmont native Henry Louis Gates Junior"
+    },
+    {
+      "cityName": "Pine Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for a grove of pine trees near the original town site."
+    },
+    {
+      "cityName": "Pine Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pine Grove is also home to Valley High School."
+    },
+    {
+      "cityName": "Pine Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is one mile north of Dominion Energy's large Hastings Extraction Station, which separates natural gas into various subproducts such as butane."
+    },
+    {
+      "cityName": "Pine Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Hastings plant is unique in that there are traffic signals approximately 0.75 mile away from the plant in either direction to stop traffic in case of an emergency."
+    },
+    {
+      "cityName": "Poca",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town derives its name from the Pocatalico River."
+    },
+    {
+      "cityName": "Point Pleasant",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known for the Mothman, a purported humanoid creature reportedly sighted in the area that has become a part of West Virginia folklore, and more broadly part of American popular culture."
+    },
+    {
+      "cityName": "Prichard",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after James Pritchard."
+    },
+    {
+      "cityName": "Prichard",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 461."
+    },
+    {
+      "cityName": "Pullman",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pullman was platted in 1883, and named after George Pullman, a businessperson in the rail industry."
+    },
+    {
+      "cityName": "Quincy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after John Quincy Dickinson, the original owner of the town site."
+    },
+    {
+      "cityName": "Quincy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dickinson is located on the north bank of the Kanawha River, 3 miles (4.8 km) southeast of Belle."
+    },
+    {
+      "cityName": "Quincy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community is served by U S Route 60."
+    },
+    {
+      "cityName": "Quinwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community's name is an amalgamation of the names of its proprietors Quin Morton and W. S. Wood."
+    },
+    {
+      "cityName": "Rainelle",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits at the base of Sewell Mountain and Sims Mountain, and is bisected by the Meadow River."
+    },
+    {
+      "cityName": "Rainelle",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The only means of transportation to and from Rainelle are roads; primarily US 60 and WV 20, which merge on the western end of the town, and the James River and Kanawha Turnpike, which enters from the south."
+    },
+    {
+      "cityName": "Reedy",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after nearby Reedy Creek."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Each year, in April, the city hosts a large festival that draws visitors from around the country."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Richwood has a very rich history, including the formation of the Cherry River Navy civic organization to draw attention to issues important to the community."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2020, the census showed Richwood with a population of 1661."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During the 19th and early 20th century Richwood was a booming coal and lumber town."
+    },
+    {
+      "cityName": "Richwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Richwood has also become known statewide as the \"Ramp Capital of the World\"."
+    },
+    {
+      "cityName": "Ridgeley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ridgeley was initially known as St. Clairsville, named for Sir John St Clair, Lt Colonel and Quartermaster General for the British General Edward Braddock."
+    },
+    {
+      "cityName": "Ridgeley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated as Ridgeley on November 28, 1914, named for the former owners of the land upon which the town was built."
+    },
+    {
+      "cityName": "Ridgeley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "St Clair accompanied Braddock on his ill-fated march on Fort Duquesne and his disastrous defeat on July 9, 1755."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A display at the Stonewall Resort State Park's lodge tells the story of the flood-plagued town that was purchased in the 1980s by the United States Army Corps of Engineers."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named after Roanoke, Virginia."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most of the original town is located under 60 feet (18 m) of Stonewall Jackson Lake's water."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The flood control dam at Stonewall Jackson Lake went into service in 1988."
+    },
+    {
+      "cityName": "Roanoke",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "According to the U S Geological Survey, Roanoke has also been known as \"Bush Mills\", \"Bushs Mills\", \"Roanville\", and \"Roanville Station\"."
+    },
+    {
+      "cityName": "Rock",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rock is located along West Virginia Route 71, 2 miles (3.2 km) northeast of Montcalm."
+    },
+    {
+      "cityName": "Rock",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community most likely took its name from a large rock formation near the original town site."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rockport, West Virginia may refer to: Rockport, Wetzel County, West Virginia Rockport, Wood County, West Virginia"
+    },
+    {
+      "cityName": "Roderfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Roderfield Iaeger, the original owner of the town site."
+    },
+    {
+      "cityName": "Roderfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Roderfield is 7 miles (11 km) west-northwest of Welch."
+    },
+    {
+      "cityName": "Roderfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population is 62 (down from 188 at the 2010 census)."
+    },
+    {
+      "cityName": "Romney",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was established in 1762 along with Shepherdstown; together, they are the two oldest towns in West Virginia."
+    },
+    {
+      "cityName": "Rowlesburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A former railroad town, it is home to the Downtown Rowlesburg Historic District, and was the site of action during the American Civil War."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. Marys was established in 1849 by Alexander Creel, who is said to have had a vision of Mary while passing the townsite by boat on the Ohio River."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Train tracks run down the middle of 2nd Street in St. Marys, and freight trains running through the middle of downtown St. Marys are a common sight."
+    },
+    {
+      "cityName": "Saint Marys",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of the few remaining towns in the United States where freight trains actually share city streets with automotive traffic."
+    },
+    {
+      "cityName": "Salem",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salem University is located in Salem."
+    },
+    {
+      "cityName": "Salt Rock",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 373 (down from 388 at the 2010 census)."
+    },
+    {
+      "cityName": "Salt Rock",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 581 feet (177 m)."
+    },
+    {
+      "cityName": "Salt Rock",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although Salt Rock is unincorporated, it has a post office, with the ZIP Code of 25559."
+    },
+    {
+      "cityName": "Saulsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saulsville is where Twin Falls State Park is located."
+    },
+    {
+      "cityName": "Saulsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Saulsville has a gas station and is also home to the Wyoming County branch of Southern West Virginia Community College, a Logan County based 2 year community college."
+    },
+    {
+      "cityName": "Saulsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community was named after James Sauls, a local letter carrier."
+    },
+    {
+      "cityName": "Scarbro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scarbro is 1.5 miles (2.4 km) southwest of Oak Hill."
+    },
+    {
+      "cityName": "Scarbro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 461 (down from 486 at the 2010 census)."
+    },
+    {
+      "cityName": "Shady Spring",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shady Spring is close to the Resort at Glade Springs, Flat Top Lake, Winterplace Ski Resort, and the city of Beckley."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shenandoah Junction is home to Jefferson High School and West Virginia's oldest surviving wood-frame structure, the Peter Burr House, built around 1751."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community owes much of its early growth to the coming of the Baltimore and Ohio Railroad in the 1830s, and the name refers to the junction of the B&O and Norfolk and Western Railway at the center of the community."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Shenandoah Junction had a population of 635 (down from 703 at the 2010 census)."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The land where Shenandoah Junction was built was part of the 392 acres (1.59 km2) granted by Lord Fairfax to Lewis Neil."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town was originally called Neil's, but the name was changed to Shenandoah Junction in 1881."
+    },
+    {
+      "cityName": "Shenandoah Junction",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Today, the Norfolk Southern Hagerstown Line (H Line), and the CSX Cumberland Subdivision lines intersect at the Junction."
+    },
+    {
+      "cityName": "Shepherdstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shepherdstown was established in 1762 along with Romney; they are the oldest towns in West Virginia."
+    },
+    {
+      "cityName": "Shepherdstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's population was 1531 at the 2020 census."
+    },
+    {
+      "cityName": "Shinnston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1778, Levi Shinn constructed his log home along what is now Route 19; today it is the oldest standing structure in north-central West Virginia."
+    },
+    {
+      "cityName": "Shinnston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Shinnston had a population of 2332."
+    },
+    {
+      "cityName": "Sissonville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sissonville is located within 14 miles of Charleston, the state capital."
+    },
+    {
+      "cityName": "Sistersville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sistersville was incorporated in 2020."
+    },
+    {
+      "cityName": "Slanesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slanesville Pike and Cold Stream Road formerly made up the Springfield Grade Road that ran from Capon Bridge to Springfield."
+    },
+    {
+      "cityName": "Slanesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Slanesville is located at the crossroads of Bloomery Pike (West Virginia Route 29) with Slanesville Pike (Hampshire County Route 3) and Cold Stream Road (Hampshire County Route 45/20)."
+    },
+    {
+      "cityName": "Slanesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2000 census, the Slanesville community has a population of 691."
+    },
+    {
+      "cityName": "Slaty Fork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slatyfork is located along U S Route 219, 13.5 miles (21.7 km) north of Marlinton."
+    },
+    {
+      "cityName": "Slaty Fork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A variant name was Laurel Bank."
+    },
+    {
+      "cityName": "Slaty Fork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A large cave known as Sharps Cave is located in Slatyfork."
+    },
+    {
+      "cityName": "Smithers",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The small river city is noted for having a rich cultural history related to both its coal mining and Italian-American heritages."
+    },
+    {
+      "cityName": "Smithers",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the Kanawha River, it lies almost entirely in Fayette County."
+    },
+    {
+      "cityName": "Smithers",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city most likely takes its name from Smithers Creek."
+    },
+    {
+      "cityName": "Smithfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Smithfield was named for Henry Smith, who kept a store there."
+    },
+    {
+      "cityName": "Smithville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Barnes Smith, Senior, the original owner of the town site."
+    },
+    {
+      "cityName": "Smithville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its elevation is 686 feet (209 m)."
+    },
+    {
+      "cityName": "Snowshoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "While the area is still best known for winter activities, today the resort has extensive mountain biking trails, a popular golf course, wedding and convention areas, a number of summer outdoor activities, and also hosts a Grand National Cross Country racing event."
+    },
+    {
+      "cityName": "Snowshoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Snowshoe Mountain's large property includes several developed resort areas, a conservation area, and expansive backcountry that covers 10950 acres (44.31 km2) in total."
+    },
+    {
+      "cityName": "Snowshoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ski slopes make up 244 acres (0.99 km2) of the resort, which include the Snowshoe Basin, Western Territory, and Silver Creek areas."
+    },
+    {
+      "cityName": "Snowshoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Snowshoe has several commercial areas, with the most prominent being The Village at Snowshoe, located at the summit of the mountain (rather than at its base)."
+    },
+    {
+      "cityName": "Snowshoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "About 480000 skiers visit the area each year, primarily from West Virginia and the larger cities of the Mid-Atlantic and Southeast."
+    },
+    {
+      "cityName": "Sophia",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 1912."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Charleston Ordnance Center, a former naval munitions factory established for use in World War I. The city is serviced by Interstate 64, U S Route 60, U S Route 119, West Virginia Route 601 and West Virginia Route 214, and is adjacent to the Kanawha River."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was established in 1906, but not incorporated until 1917."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is serviced by the Kanawha Valley Regional Transportation Authority bus system."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Criel Mound built by the Adena culture is adjacent to the city's downtown business district."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A general aviation airfield, Mallory Airport, is located off Chestnut Street, approximately two miles south of U S Route 60, with the nearest commercial aviation service being at Yeager Airport in Charleston."
+    },
+    {
+      "cityName": "South Charleston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "South Charleston serves as the headquarters to the West Virginia Division of Natural Resources and the West Virginia State Police."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Springfield had a population of 455 (down from 477 at the 2010 census)."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Springfield is located north of Romney along West Virginia Route 28 at its junction with Green Spring Road (West Virginia Secondary Route 1) and Springfield Pike (West Virginia Secondary Route 3)."
+    },
+    {
+      "cityName": "Stanaford",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after nearby Stanaford Branch."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sutton is situated at a center of transportation in West Virginia."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 79, a major north\u2013south route, connects with Appalachian Corridor L (U S Route 19), another significant north\u2013south route, passes several miles south of town."
+    },
+    {
+      "cityName": "Sylvester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sylvester was incorporated on April 11, 1952, by the Boone County Circuit Court."
+    },
+    {
+      "cityName": "Sylvester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sylvester bears the name of a family of settlers."
+    },
+    {
+      "cityName": "Talcott",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 1526 feet (465 m), and it is located at about 37\u00b039\u20322\u2033N 80\u00b045\u20324\u2033W (37.6506762, -80.7511921)."
+    },
+    {
+      "cityName": "Teays Valley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Thomas Teays, a hunter and trapper who once spent a considerable amount of time in the vicinity."
+    },
+    {
+      "cityName": "Teays Valley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is divided by the two magisterial districts of Teays and Scott."
+    },
+    {
+      "cityName": "Union",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Union's population is 427 as of 2020."
+    },
+    {
+      "cityName": "Valley Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village was named from a nearby recreational area at a grove in a valley."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named for the nearby headwaters of the Tygart Valley River."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Valley Head is located on U S Route 219, 12 miles (19 km) south-southwest of Huttonsville."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, its population was 207 (down from 267 at the 2010 census)."
+    },
+    {
+      "cityName": "Van",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Van was named after Van Linville, who established its post office and served as its first postmaster."
+    },
+    {
+      "cityName": "Van",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 177 (down from 211 at the 2010 census)."
+    },
+    {
+      "cityName": "Walker",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walker is located on County Route 7 in eastern Wood County, 4 miles (6.4 km) east of West Virginia Route 47, along Walker Creek and the North Bend Rail Trail."
+    },
+    {
+      "cityName": "Wallback",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named for John de Barth Walbach, an Alsatian hussar of the French Revolutionary Wars who became an aide to Alexander Hamilton, rose to Adjutant General of the United States during the War of 1812, and was the oldest acting officer in U S history."
+    },
+    {
+      "cityName": "Wallback",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Walbach inherited 10000 acres on the Elk River from his father, Count Jean-Joseph de Barth, who led the \"French 500\" fleeing the French Revolution and founding Gallipolis, Ohio."
+    },
+    {
+      "cityName": "Wallback",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wallback is located at the junction of Interstate 79 and West Virginia Route 36, 7.5 miles (12.1 km) north-northwest of Clay."
+    },
+    {
+      "cityName": "War",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "War is the only place in the United States with this name."
+    },
+    {
+      "cityName": "War",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "War was incorporated in 1920 by the Circuit Court of McDowell County."
+    },
+    {
+      "cityName": "War",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its name is derived from War Creek, whose confluence with Dry Fork is located within the city."
+    },
+    {
+      "cityName": "War",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "War was formerly known as Miner's City."
+    },
+    {
+      "cityName": "Wardensville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wardensville is located west of the Great North Mountain range, which separates it from the Shenandoah Valley."
+    },
+    {
+      "cityName": "Wardensville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town lies on the east bank of the Cacapon River at its confluence with Trout Run."
+    },
+    {
+      "cityName": "Wardensville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Originally named Trout Run, Wardensville was chartered in Virginia in 1832 and incorporated in West Virginia in 1879."
+    },
+    {
+      "cityName": "Washington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP is home to the Washington Works, one of the largest single facilities of chemicals manufacturing giant Chemours."
+    },
+    {
+      "cityName": "Washington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named after George Washington."
+    },
+    {
+      "cityName": "Washington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Also home to Sabic Plastics Washington Works (previously GE Plastics, acquired from Borg Warner Plastics, n\u00e9e Marbon), Kuraray Washington Works, Dupont Washington Works and a Linde air separation plant."
+    },
+    {
+      "cityName": "Washington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Dupont polluted Washington with Perfluorooctanoic acid or PFOA, which it used to make Teflon."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Addison McLaughlin, upon whose land the town was originally laid out."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Webster Springs sits at the confluence of the Elk River and its Back Fork."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although it was incorporated as Addison in 1892, it is more frequently referred to as Webster Springs, the name of the town's post office."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is served by the Addison Public Library and fire service is provided by the Webster Springs Volunteer Fire Department."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It was famous in the late 19th and early 20th centuries for its numerous salt sulfur water wells."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "People believed that the water from the wells had medicinal qualities."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town has numerous shops, retail stores, grocery stores, pharmacies, a motel, and several restaurants."
+    },
+    {
+      "cityName": "Webster Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Government offices for the municipality, county, and state are available in the town."
+    },
+    {
+      "cityName": "Weirton Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weirton Heights was incorporated in 1938, and was named for steel manufacturer Ernest T. Weir."
+    },
+    {
+      "cityName": "Weirton Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Weirton Heights is a neighborhood of Weirton, West Virginia, United States."
+    },
+    {
+      "cityName": "Weirton Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Weirton Heights is located along WV 105 east of downtown Weirton."
+    },
+    {
+      "cityName": "Welch",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Welch was incorporated as a city in 1893."
+    },
+    {
+      "cityName": "Wellsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 census recorded a population of 2455."
+    },
+    {
+      "cityName": "Wellsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's economy includes several telemarketing facilities, and a factory that does metal fabrication and plastics molding."
+    },
+    {
+      "cityName": "West Hamlin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Hamlin is a part of the Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "West Hamlin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "West Hamlin is west of the county seat at Hamlin, hence the name."
+    },
+    {
+      "cityName": "West Logan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "For unknown reasons, some sources report West Logan to lay west of the county seat at Logan, attributing to this fact the name."
+    },
+    {
+      "cityName": "West Milford",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Milford was named on account of there being a mill on the ford of the West Fork River."
+    },
+    {
+      "cityName": "West Union",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Union, incorporated July 20, 1881, is a town and the county seat of Doddridge County, West Virginia, United States."
+    },
+    {
+      "cityName": "Weston",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Museum of American Glass in West Virginia and the Trans-Allegheny Lunatic Asylum."
+    },
+    {
+      "cityName": "Wharton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wharton was named for Joseph Wharton, a large landowner from Philadelphia."
+    },
+    {
+      "cityName": "Wharton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wharton lies along West Virginia Route 85."
+    },
+    {
+      "cityName": "Wheeling",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wheeling became a manufacturing center in the late nineteenth century due to its location along major transportation routes, including the Ohio River, National Road, and the Baltimore and Ohio Railroad."
+    },
+    {
+      "cityName": "Wheeling",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the decline of heavy industry and subsequent population loss following World War II, its major industries now include healthcare, education, legal services, entertainment and tourism, and energy."
+    },
+    {
+      "cityName": "Wheeling",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wheeling was settled in 1769 on land contested between the Province of Pennsylvania and Colony of Virginia, and later grew to become Virginia's largest city west of the Appalachian Mountains."
+    },
+    {
+      "cityName": "Wheeling",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During the American Civil War, it was the host of the Wheeling Conventions which led to the separation of West Virginia from Virginia."
+    },
+    {
+      "cityName": "Wheeling",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Wheeling was the state capital of West Virginia from 1861 to 1870, and again from 1875 to 1885."
+    },
+    {
+      "cityName": "White Sulphur Springs",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city emblem consists of five dandelion flowers and the citizens celebrate spring with an annual Dandelion Festival."
+    },
+    {
+      "cityName": "Whitehall",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated on December 8, 1992, White Hall is adjacent to the county seat, Fairmont, and is part of the Fairmont, West Virginia, Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Whitehall",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "White Hall has many different stores and restaurants."
+    },
+    {
+      "cityName": "Whitesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whitesville was formerly known as Jarrold's Valley and Pritchard City."
+    },
+    {
+      "cityName": "Whitesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Whitesville was incorporated on August 15, 1935, by the Boone County Circuit Court."
+    },
+    {
+      "cityName": "Whitesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town derives its name from B. W. White, a pioneer settler."
+    },
+    {
+      "cityName": "Wilcoe",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilcoe was once an independent community and was incorporated into Gary in 1971."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "and is the county's largest and most populous city."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Williamson is home to Southern West Virginia Community and Technical College."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Williamson is the site of a large rail yard built by the former Norfolk and Western Railroad (now Norfolk Southern Railway), which was built to service the many coal mines of the region."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The local economy is largely fueled by coal mining, transportation, health care and retail businesses."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Tug Fork River separates Williamson from South Williamson, Kentucky."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is protected by a floodwall, completed by the U S Army Corps of Engineers in 1991 in response to devastating floods along the Tug Fork River in 1977 and again in 1984."
+    },
+    {
+      "cityName": "Williamson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The wall incorporates floodgates along major access points which, when locked, form a solid barrier against floodwaters."
+    },
+    {
+      "cityName": "Windsor Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grace Davis was the mayor as of June 2017."
+    },
+    {
+      "cityName": "Windsor Heights",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Windsor Heights was incorporated in 1989."
+    },
+    {
+      "cityName": "Womelsdorf (Coalton)",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Womelsdorf was the name of a mining official; the variant name of Coalton was given on account of local mining operations."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Worthington was incorporated in 1893 and named for Colonel George Worthington, an early settler."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Route 19 passes through the town."
+    },
+    {
+      "cityName": "Yawkey",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "1950s TV personality Dagmar was born in Yawkey."
+    },
+    {
+      "cityName": "Yawkey",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community most likely was named after the Yawkey family."
+    },
+    {
+      "cityName": "Yawkey",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its elevation is 738 feet (225 m)."
+    },
+    {
+      "cityName": "Yawkey",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although it is unincorporated, it had a post office, with the ZIP code 25573."
+    },
+    {
+      "cityName": "lizemores",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lizemores is located on West Virginia Route 16, 10 miles (16 km) southwest of Clay."
+    },
+    {
+      "cityName": "lizemores",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community derives its name from the local Sizemore family (a recording error by postal officials accounts for the error in spelling, which was never corrected)."
+    }
+  ]
+}

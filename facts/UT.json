@@ -1,0 +1,3098 @@
+{
+  "facts": [
+    {
+      "cityName": "Alpine",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This city is thirty-two miles southeast of Salt Lake City."
+    },
+    {
+      "cityName": "Alpine",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Alpine has been one of the many quickly-growing cities of Utah since the 1970s, especially in the 1990s."
+    },
+    {
+      "cityName": "Alpine",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The west side of the city runs above the Wasatch Fault."
+    },
+    {
+      "cityName": "Alta",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alta is centered in the Alta Ski Area, a ski resort that has 500000 annual visitors."
+    },
+    {
+      "cityName": "Alta",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is known for its powder skiing and its decision to not allow snowboarding."
+    },
+    {
+      "cityName": "Amalga",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Amalga",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many of the town's population are dairy farmers, with many families owning their own herds."
+    },
+    {
+      "cityName": "Amalga",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town contains the Schreiber Foods plant."
+    },
+    {
+      "cityName": "Amalga",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Nearby Smithfield shares its post office and library with the town."
+    },
+    {
+      "cityName": "American Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is 32 miles (51 km) southeast of Salt Lake City and is part of the Provo\u2013Orem Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "American Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has grown rapidly since the 1970s."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aurora is predominantly supported by agriculture, coal mining, and the service sector."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The current growth in the community is attributed to the growth of business and industry in the region."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Most residents commute to one of the neighboring communities to work."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Children go to school at one of the three schools in Salina Utah."
+    },
+    {
+      "cityName": "Bear River City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bear River became a city under state law near the end of 2000."
+    },
+    {
+      "cityName": "Bear River City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although current state law requires a minimum population of 1000 for cities, Bear River City remains a city."
+    },
+    {
+      "cityName": "Bear River City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A group first settled Bear River City from Brigham City in 1866."
+    },
+    {
+      "cityName": "Bear River City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city took its name from the nearby Bear River."
+    },
+    {
+      "cityName": "Bicknell",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 323."
+    },
+    {
+      "cityName": "Big Water",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally called Glen Canyon City and housed workers who built the dam in the 1950s."
+    },
+    {
+      "cityName": "Big Water",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Big Water made news in the 1980s as a polygamous colony of the Joseph clan."
+    },
+    {
+      "cityName": "Big Water",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This made Joseph the first Libertarian city mayor in the history of the U S Subsequently, Willy Marshall, also a Libertarian, was elected as the state's first openly gay mayor in 2001."
+    },
+    {
+      "cityName": "Blanding",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blanding is home to one of the nine statewide regional campuses of Utah State University."
+    },
+    {
+      "cityName": "Blanding",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Economic contributors include mineral processing, mining, agriculture, local commerce, tourism, and transportation."
+    },
+    {
+      "cityName": "Blanding",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was settled in the late 19th century by Mormon settlers, predominantly from the famed Hole-In-The-Rock expedition."
+    },
+    {
+      "cityName": "Blanding",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Blanding is located near both the Navajo and White Mesa Ute Native American reservations and a significant percentage of Blanding's population has family ties to these nearby cultures."
+    },
+    {
+      "cityName": "Bluff",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bluff was incorporated in 2018."
+    },
+    {
+      "cityName": "Bluff",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ann Leppanen is currently the mayor."
+    },
+    {
+      "cityName": "Bluffdale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 17014."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boulder is the home of Anasazi Indian State Park."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town marks the western terminus of Burr Trail, a mostly paved road that runs eastward through spectacular red rock country to the Waterpocket Fold in Capitol Reef National Park."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town population was 227."
+    },
+    {
+      "cityName": "Boulder",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Boulder, quite isolated until the Civilian Conservation Corps built a road from Escalante, did not get electric power until 1947."
+    },
+    {
+      "cityName": "Bountiful",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city grew rapidly during the suburb growth of the late 1940s, 1950s, and 1960s and was Davis County's largest city until 1985, when it was surpassed by Layton."
+    },
+    {
+      "cityName": "Bountiful",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "However, due to the very narrow entrance into Salt Lake County, roads between the counties often reach near-gridlock traffic during rush hour."
+    },
+    {
+      "cityName": "Bountiful",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 45762, an eight percent increase over the 2010 figure of 42552."
+    },
+    {
+      "cityName": "Bountiful",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The FrontRunner commuter rail has been running since April 2008, and the Legacy Parkway was opened on September 13, 2008."
+    },
+    {
+      "cityName": "Bountiful",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "These were built to help alleviate the traffic load on Interstate 15 through the Bountiful area."
+    },
+    {
+      "cityName": "Brian Head",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brian Head is also the location of the Brian Head Ski Resort."
+    },
+    {
+      "cityName": "Bryce",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bryce Canyon City, sometimes shown as Bryce on maps, is a town in Garfield County, Utah, United States, adjacent to Bryce Canyon National Park."
+    },
+    {
+      "cityName": "Bryce",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Formerly known as Ruby's Inn, the town was officially incorporated on July 23, 2007, under a short-lived state law."
+    },
+    {
+      "cityName": "Cannonville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 186."
+    },
+    {
+      "cityName": "Canyon Rim",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canyon rim is notable for Canyon Rim Park, Tanner Park, and Parleys Historic Nature Park."
+    },
+    {
+      "cityName": "Canyon Rim",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area formerly in Canyon Rim CDP is located just south of Interstate 80 and the Sugar House neighborhood of Salt Lake City near the mouth of Parley's Canyon (hence the name Canyon Rim)."
+    },
+    {
+      "cityName": "Canyon Rim",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area formerly in Canyon Rim CDP is part of the Salt Lake City, Utah Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Canyon Rim",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The consolidated CDP was incorporated in 2016."
+    },
+    {
+      "cityName": "Castle Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community, and the valley within which it is located, was named for castle-like rock formations near the town site."
+    },
+    {
+      "cityName": "Castle Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is approximately 16 miles (26 km) northeast of Moab, near State Route 128."
+    },
+    {
+      "cityName": "Cedar City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Utah Shakespeare Festival, the Utah Summer Games, the Simon Fest Theatre Co., and other events."
+    },
+    {
+      "cityName": "Cedar City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Southern Utah University is located in Cedar City."
+    },
+    {
+      "cityName": "Cedar City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located 250 miles (400 km) south of Salt Lake City, it is 170 miles (270 km) north of Las Vegas on Interstate 15."
+    },
+    {
+      "cityName": "Cedar City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census the city had a population of 35235, up from 28857 in the 2010 census."
+    },
+    {
+      "cityName": "Cedar Hills",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city began growing rapidly during the 1990s and is located east of Alpine and Highland on the slopes of Mount Timpanogos."
+    },
+    {
+      "cityName": "Centerfield",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was so named because of its location in the center of a wide valley."
+    },
+    {
+      "cityName": "Centerfield",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although Centerfield was a town in 2000, it has since been classified as a fifth-class city by state law."
+    },
+    {
+      "cityName": "Centerville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Centerville is part of the Ogden-Clearfield Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Charles Shelton, a first settler."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarkston is noted for being the last home of Martin Harris, one of the Three Witnesses of the Book of Mormon."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community celebration is held in June each year and is known as The Pony Express Days."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Notable local wildlife includes mule deer, sharp-tailed grouse, and pheasant."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "He is buried in Clarkston, and every other year a pageant commemorates his life."
+    },
+    {
+      "cityName": "Clarkston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The pageant was discontinued in 2018."
+    },
+    {
+      "cityName": "Clawson",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Rudger Clawson, a Mormon leader."
+    },
+    {
+      "cityName": "Clearfield",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city grew rapidly during the 1940s, with the formation of Hill Air Force Base, and in the 1950s with the nationwide increase in suburb and \"bedroom\" community populations and has been steadily growing since then."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 497, up from 464 at the 2010 census."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clinton started off as a sleepy farm town and grew rapidly during the 1990s and continues to experience rapid growth, with an estimated population of 23597 in 2021."
+    },
+    {
+      "cityName": "Coalville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Interstate 80 passes through the town, as well as the Weber River, which flows into Echo Reservoir, just north of Coalville."
+    },
+    {
+      "cityName": "Copperton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Much of the town is included in the Copperton Historic District, which is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cottonwood Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies south of the cities of Holladay and Murray, east of Midvale, and north of Sandy within the Salt Lake City, Utah Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cottonwood Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally a census-designated place (CDP), following a successful referendum in May 2004, the city was incorporated on January 14, 2005."
+    },
+    {
+      "cityName": "Cottonwood Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The corporate offices of Instructure, Dyno Nobel, the defunct Fusion-io, Extra Space Storage, Breeze Airways, and JetBlue are located in the city."
+    },
+    {
+      "cityName": "Cove Fort",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cove Fort is the closest named place to the western terminus of Interstate 70, resulting in Cove Fort being listed as a control city on freeway signs, though the fort itself is historical and has no permanent population."
+    },
+    {
+      "cityName": "Cove Fort",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1867 by Ira Hinckley (the paternal grandfather of Gordon B. Hinckley) at the request of Brigham Young."
+    },
+    {
+      "cityName": "Cove Fort",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "One of its distinctive features is the use of volcanic rock in the construction of the walls, rather than the wood used in many mid-19th-century western forts."
+    },
+    {
+      "cityName": "Cove Fort",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "This difference in construction is the reason it is one of very few forts of this period still surviving."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Daniel incorporated as a town in February 2006."
+    },
+    {
+      "cityName": "Daniel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Daniel was first settled in 1874."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home of 1-800 Contacts and a large eBay campus."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has around 5 FLEX bus routes connecting neighboring communities and two bus routes to Lehi Frontrunner Station and River/Herriman, connecting at Draper Town Center and the Draper Frontrunner Stations."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Utah State Prison was located in Draper from 1951 to 2022, near Point of the Mountain, alongside Interstate 15."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population is 51017, up from 7143 in 1990."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Draper has two UTA TRAX stations (Draper Town Center, 12300/12400 South and Kimball's Lane 11800 South) as well as one on the border with Sandy (Crescent View 11400 South)."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "A FrontRunner commuter rail station serves the city's west side."
+    },
+    {
+      "cityName": "Draper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "State politicians voted to condemn the facility, and prisoners were moved to the Utah State Correctional Facility."
+    },
+    {
+      "cityName": "Dugway",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Non-resident civilians must request advance authorization to enter the town."
+    },
+    {
+      "cityName": "Dugway",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The housing area designated for military and civilian personnel is referred to as \"English Village.\" The name \"Dugway\" comes from a technique to dig a trench along a hillside to keep a wagon from tipping."
+    },
+    {
+      "cityName": "Eagle Mountain",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In its short history, the city has become known for its rapid growth."
+    },
+    {
+      "cityName": "Eagle Mountain",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Eagle Mountain was a town in 2000."
+    },
+    {
+      "cityName": "Eagle Mountain",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was incorporated in December 1996 and is rapidly growing."
+    },
+    {
+      "cityName": "Eagle Mountain",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It has since been classified as a third-class city in September 2001."
+    },
+    {
+      "cityName": "East Carbon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Carbon was incorporated on July 23, 1973, from the merger of the two struggling mining towns of Dragerton and Columbia."
+    },
+    {
+      "cityName": "East Carbon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On January 1, 2014, the city merged with the neighboring city of Sunnyside to become East Carbon-Sunnyside, but later changed to East Carbon City."
+    },
+    {
+      "cityName": "East Millcreek",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The consolidated CDP was incorporated in 2016."
+    },
+    {
+      "cityName": "East Millcreek",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was originally proposed to be included in the corporate limits of the city of Holladay, which was incorporated on November 29, 1999."
+    },
+    {
+      "cityName": "East Millcreek",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, inclusion of East Millcreek was rejected by voters in 2008."
+    },
+    {
+      "cityName": "East Millcreek",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "East Millcreek was then incorporated with the former Millcreek CDP as the city of Millcreek on December 28, 2016."
+    },
+    {
+      "cityName": "Eden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Powder Mountain ski resort."
+    },
+    {
+      "cityName": "Eden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies between the North and Middle Fork of the Ogden River, north of Pineview Reservoir, in the Ogden Valley."
+    },
+    {
+      "cityName": "Eden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Eden is part of the Ogden\u2013Clearfield, Utah Metropolitan Statistical Area, as well as the Ogden Valley census county division"
+    },
+    {
+      "cityName": "Elk Ridge",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It changed its name in 1978 to Elk Ridge, named for the herds of elk that wintered in the area."
+    },
+    {
+      "cityName": "Elk Ridge",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It originally incorporated as a town named Salem Hills."
+    },
+    {
+      "cityName": "Elk Ridge",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Elk Ridge became a fifth-class city by state law in November 2000."
+    },
+    {
+      "cityName": "Emigration Canyon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A portion of Emigration Canyon, located in This Is the Place Heritage Park, was declared a National Historic Landmark in 1961 for the canyon's significance in the Mormon migration of the 19th century."
+    },
+    {
+      "cityName": "Emigration Canyon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Beginning at the southern end of the University of Utah, the canyon itself heads east and northeast between Salt Lake City and Morgan County."
+    },
+    {
+      "cityName": "Emigration Canyon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its boundaries do not extend to the county line, nor do they encompass all of Emigration Canyon, as parts of it are within Salt Lake City."
+    },
+    {
+      "cityName": "Emigration Canyon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population was 1466."
+    },
+    {
+      "cityName": "Enoch",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2018, the estimated population was 7039."
+    },
+    {
+      "cityName": "Ephraim",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of Snow College and is located along U S Route 89."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Escalante Petrified Forest State Park is located west of the city."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named after Silvestre V\u00e9lez de Escalante, a Franciscan missionary and a member of the first European expedition into what is now southern Utah."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sections of the Grand Staircase\u2013Escalante National Monument (GSENM) abut much of the city's limits."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, 786 people were living in the city."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The nearest towns are Boulder which is 27 miles (43 km) to the northeast on SR-12, and Henrieville, which is 30 miles (48 km) to the southwest on SR-12."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Hole-in-the-Rock Road, which begins 5 mi (8.0 km) east of Escalante, is the main access road into the eastern section of GSENM."
+    },
+    {
+      "cityName": "Escalante",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The road leads to the Canyons of the Escalante, the Devils Garden and the Hole-in-the-Rock."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named from the Greek word eureka, meaning \"I have found it!\""
+    },
+    {
+      "cityName": "Farmington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Lagoon Amusement Park and Station Park transit-oriented retail center (which includes a FrontRunner train station) are located in Farmington."
+    },
+    {
+      "cityName": "Farr West",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of January 2026, the mayor is David Bolos."
+    },
+    {
+      "cityName": "Fillmore",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for the thirteenth U S President Millard Fillmore, who was in office when Millard County was created by the Utah Territorial legislature."
+    },
+    {
+      "cityName": "Fillmore",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fillmore was the capital of the Utah Territory from 1851 to 1856, although the territorial legislature met in Fillmore only one term (1855)."
+    },
+    {
+      "cityName": "Fillmore",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The original Utah Territorial Statehouse building still stands."
+    },
+    {
+      "cityName": "Fort Union",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Union, historically Union, is a major commercial area and an early settlement in the Salt Lake Valley of Utah that is now split between the municipalities of Midvale, Cottonwood Heights, and Sandy."
+    },
+    {
+      "cityName": "Fort Union",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The fort after which the area was named was built early (1853) in the Salt Lake Valley's post-1847 history at a strategic point where escarpments on either side of the Little Cottonwood Creek valley create a narrow gateway to the upper valley and Little Cottonwood Canyon beyond."
+    },
+    {
+      "cityName": "Fort Union",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The effects of geography on travel through the area have also contributed to the area's much more recent success as a retail and employment destination."
+    },
+    {
+      "cityName": "Fruit Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along the Wasatch Front adjacent to the larger cities of Farmington and Kaysville."
+    },
+    {
+      "cityName": "Fruit Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 6101 at the 2020 census, a significant increase of 4987 at the 2010 census."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Garden City sits on the shores of Bear Lake and is a popular summer resort destination town, thus nicknamed the \"Caribbean of the Rockies\u201d."
+    },
+    {
+      "cityName": "Garrison",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to a Utah Department of Transportation yard and office, but other than that, offers no services."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is quickly becoming a bedroom community for commuters into the Salt Lake Valley."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grantsville is the second most populous city in Tooele County, Utah, United States."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city has grown slowly and steadily throughout most of its existence, but rapid increases in growth occurred during the 1970s, 1990s, and 2010s."
+    },
+    {
+      "cityName": "Gunnison",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named in honor of John W. Gunnison, a United States Army officer who surveyed for the transcontinental railroad in 1853."
+    },
+    {
+      "cityName": "Hanksville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the Colorado Plateau's cold desert ecological region, the town is just south of the confluence of the Fremont River and Muddy Creek, which together form the Dirty Devil River, which then flows southeast to the Colorado River."
+    },
+    {
+      "cityName": "Hanksville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Bureau of Land Management's Henry Mountains field station is located in Hanksville."
+    },
+    {
+      "cityName": "Hanksville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Hanksville-Burpee Quarry is located nearby, and the Mars Desert Research Station is 7 miles (11 km) northwest of town."
+    },
+    {
+      "cityName": "Hatch",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 260 miles (420 km) south of Salt Lake City."
+    },
+    {
+      "cityName": "Helper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of the Western Mining and Railroad Museum, a tourist attraction that also contains household and commercial artifacts illustrating late 19th and early 20th-century living conditions.."
+    },
+    {
+      "cityName": "Helper",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Helper is at the western end of the Book Cliffs, the longest continuous escarpment in the world."
+    },
+    {
+      "cityName": "Henrieville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after James Henrie, a Mormon leader."
+    },
+    {
+      "cityName": "Henrieville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 221."
+    },
+    {
+      "cityName": "Hideout",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lying just to the north and east of Jordanelle Reservoir along Utah State Route 248 (SR-248), the town was incorporated in 2008 under short-lived state law."
+    },
+    {
+      "cityName": "Highland",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 30 miles (48 km) south of Salt Lake City and is part of the Provo\u2013Orem Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Highland",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2020 census, the population was 19348, a nearly 25% increase over the 2010 figure of 15523."
+    },
+    {
+      "cityName": "Hildale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hildale is located on the border of Utah and Arizona."
+    },
+    {
+      "cityName": "Hildale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is notable for its history as a colony of Mormon polygamists."
+    },
+    {
+      "cityName": "Hinckley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The mountains that are common in Utah are seen only in the distance, and beyond the reach of the river, a severe desert prevails."
+    },
+    {
+      "cityName": "Hinckley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Irrigation water from the Sevier River, passing nearby, has been used to turn Hinckley into a farming oasis."
+    },
+    {
+      "cityName": "Holladay",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 31965 at the 2020 census, a significant increase from 14561 in 2000 when the area first incorporated from Salt Lake County, this is due to the annexation of unincorporated land in 2002 and again in 2015."
+    },
+    {
+      "cityName": "Holladay",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated on November 29, 1999."
+    },
+    {
+      "cityName": "Holladay",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was reported in the 1990 census as the Holladay-Cottonwood CDP."
+    },
+    {
+      "cityName": "Hurricane",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hurricane is known for its historic peach and pecan orchards, open space, and green fields."
+    },
+    {
+      "cityName": "Hurricane",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 20036 as of the 2020 United States Census estimates."
+    },
+    {
+      "cityName": "Hyde Park",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hyrum",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Hyrum State Park, Hardware Ranch, and Porcupine Reservoir."
+    },
+    {
+      "cityName": "Hyrum",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Logan metropolitan statistical area."
+    },
+    {
+      "cityName": "Independence",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lying just east of U S Route 40 southeast of Heber City, Independence was incorporated in 2008 under a controversial, short-lived state law."
+    },
+    {
+      "cityName": "Ivins",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although Ivins was listed as a town in the 2000 census, it became a city in 1998."
+    },
+    {
+      "cityName": "Joseph",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Joseph Angell Young, an apostle of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Joseph",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Joseph was settled in 1871."
+    },
+    {
+      "cityName": "Kamas",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 42 miles (68 km) east of downtown Salt Lake City."
+    },
+    {
+      "cityName": "Kamas",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is known as \"The Gateway to the Uinta Mountains\"."
+    },
+    {
+      "cityName": "Kamas",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its main industries are cattle ranching and lumber."
+    },
+    {
+      "cityName": "Kaysville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kaysville is home to the USU Botanical Gardens, which also serve as an extension location and distance education center for Utah State University."
+    },
+    {
+      "cityName": "Kearns",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after Utah's U S Senator Thomas Kearns, it had a population of 36723 at the 2020 Census."
+    },
+    {
+      "cityName": "Kearns",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This was a 2.8 percent increase over the 2010 figure of 35731."
+    },
+    {
+      "cityName": "Kearns",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kearns is home to the Utah Olympic Oval, an indoor speed skating oval built for the 2002 Winter Olympics."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The valley is made up of private lands nestled within the Fishlake National Forest."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Koosharem is situated at the cross-roads for travelers going between Capitol Reef National Park and Bryce Canyon National Park and/or Zion National Park."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Koosharem's only store, the historic Grass Valley Mercantile, shares this secondary naming reference."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name of the town Koosharem originates from the Native Americans indigenous to the area, the Piute Indians and their term for the valley named for the deep red clover that grows in the lush meadows of the Koosharem Valley,."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Koosharem is also known as \"Grass Valley\"."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It generally comprises the area known as Burrville, Utah on the north, south through the valley and through the town of Koosharem and down to the south end with the town of Greenwich, Utah."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Koosharem is also the closest town to the famous Fish Lake."
+    },
+    {
+      "cityName": "Koosharem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The town also serves as an important point along the many trails of the Piute ATV Trail System."
+    },
+    {
+      "cityName": "Laketown",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for nearby Bear Lake."
+    },
+    {
+      "cityName": "Layton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2014, Layton contributed $1.34 billion worth of retail sales activity, the second largest market north of Salt Lake City and seventh largest in Utah."
+    },
+    {
+      "cityName": "Layton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Layton has direct access to Salt Lake City, Ogden, Salt Lake City International Airport, Antelope Island, and the FrontRunner commuter rail."
+    },
+    {
+      "cityName": "Layton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city had a population of 81773, with 2022 Census Bureau estimates showing an increase to 82601."
+    },
+    {
+      "cityName": "Layton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "2024 estimates place Layton's population at 87392."
+    },
+    {
+      "cityName": "Lehi",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The rapid growth in Lehi is due, in part, to the rapid development of the tech industry region known as Silicon Slopes."
+    },
+    {
+      "cityName": "Levan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Several other origins have been suggested for the name, from French, Latin, or Colorado River Numic language."
+    },
+    {
+      "cityName": "Levan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census it had a population of 862."
+    },
+    {
+      "cityName": "Levan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is often said that the name of the town derives from its location near the center of Utah, because the name is \"navel\" spelled backwards."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Little Cottonwood Creek Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2000 Census population was 7221, an increase over the 1990 figure of 5042."
+    },
+    {
+      "cityName": "Little Cottonwood Creek Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2005, the CDP became part of the newly incorporated city of Cottonwood Heights."
+    },
+    {
+      "cityName": "Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Logan has the main campus of Utah State University."
+    },
+    {
+      "cityName": "Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2020 census recorded the population at 52778."
+    },
+    {
+      "cityName": "Lyman",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyman was originally known as East Loa."
+    },
+    {
+      "cityName": "Lyman",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It became a distinct place from Loa in 1893."
+    },
+    {
+      "cityName": "Manila",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nearby sites include the Flaming Gorge National Recreation Area and the Flaming Gorge Reservoir just east of town, and to the south is Ashley National Forest, which includes Kings Peak (13528 ft), the highest point in Utah."
+    },
+    {
+      "cityName": "Manila",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The settlement was named in 1898, commemorating the American naval victory at the Battle of Manila Bay in the Philippines."
+    },
+    {
+      "cityName": "Marriott",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in July 1999, in a merger of the previously unincorporated communities of Marriott and Slaterville."
+    },
+    {
+      "cityName": "Marriott-Slaterville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in July 1999, in a merger of the previously unincorporated communities of Marriott and Slaterville."
+    },
+    {
+      "cityName": "Marysvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marysvale is a trail head for the Paiute ATV Trail."
+    },
+    {
+      "cityName": "Meadow",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally called Meadow Creek, the town is located about eight miles south of Fillmore."
+    },
+    {
+      "cityName": "Mendon",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mexican Hat",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is on the San Juan River on the northern edge of the Navajo Nation's borders in south-central San Juan County."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Midvale City is located in the heart of Salt Lake County, Utah, United States."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Midvale's population was 36028 according to the 2020 United States Census."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Midvale is home to the Shops at Fort Union, located on the East side of the city and the Bingham Junction economic center, located on the west side of the city."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Midvale is centrally located in the most populous county in Utah and is bisected by Interstate 15."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Interstate 215 serves as the northern boundary of the city's east side."
+    },
+    {
+      "cityName": "Midvale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Midvale is one of the few cities in Utah to be home to two direct TRAX lines and three TRAX stations."
+    },
+    {
+      "cityName": "Millville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Moab",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moab attracts many tourists annually, mostly visitors to the nearby Arches and Canyonlands National Parks."
+    },
+    {
+      "cityName": "Moab",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Moab is home to one of the nine regional campuses of Utah State University."
+    },
+    {
+      "cityName": "Moab",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is a popular base for mountain bikers who ride the extensive network of trails including the Slickrock Trail, and for off-roaders who come for the annual Moab Jeep Safari."
+    },
+    {
+      "cityName": "Mona",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mona is known for its annual Lavender Festival."
+    },
+    {
+      "cityName": "Mona",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census it had a population of 1750."
+    },
+    {
+      "cityName": "Mona",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is about halfway between Santaquin and Nephi along Interstate 15."
+    },
+    {
+      "cityName": "Mona",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A farm owned by Young Living raises 200 acres (0.81 km2) of lavender on the north side of town."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "23 Municipal Golf Course in the U S In 1998, The Church of Jesus Christ of Latter-day Saints dedicated the Monticello Utah Temple, the first in a series of mini temples and the 53rd temple for the church."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An 18-hole golf course, The Hideout, was built near the reclaimed site of the uranium mill using DOE cleanup funding in 2000."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "2 Golf Course in Utah and the No."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Monticello rests at the base of the Abajo Mountains on the Colorado Plateau."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is the second most populous city in San Juan County, with a population of 1824 at the 2020 census."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Monticello area was settled in July 1887 by pioneers from the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Monticello, named in honor of Thomas Jefferson's estate, became the county seat in 1895 and was incorporated as a city in 1910."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Monticello, along with much of San Juan County, experienced an increase in population and economic activity during the uranium boom from the late 1940s to the early 1960s."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Several uranium and vanadium mines were opened in the area, and a uranium processing mill was operated in Monticello by the Federal Government from 1948 to 1960."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Following the uranium boom, a massive cleanup project was conducted by the U S Department of Energy from 1989 to 2004 to remove radioactive material from lands and buildings and to restore the land formerly occupied by the mill."
+    },
+    {
+      "cityName": "Monument Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of Monument Valley."
+    },
+    {
+      "cityName": "Morgan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Jedediah Morgan Grant, a leader in the Church of Jesus Christ of Latter-day Saints who served as an apostle and as a member of the LDS First Presidency under Brigham Young in the mid-1850s."
+    },
+    {
+      "cityName": "Morgan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city population was 4071 people."
+    },
+    {
+      "cityName": "Mount Carmel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "They lie in close proximity to the Coral Pink Sand Dunes State Park."
+    },
+    {
+      "cityName": "Mount Carmel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mount Carmel Junction sits at the junction of U S Route 89 and State Route 9 in southwestern Utah."
+    },
+    {
+      "cityName": "Mount Carmel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mount Carmel is one mile (1.6 km) north of the junction."
+    },
+    {
+      "cityName": "Mount Carmel",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mount Carmel Junction is set in the high desert of the Colorado Plateau."
+    },
+    {
+      "cityName": "Mount Olympus",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Olympus or Olympus Cove is a neighborhood in Millcreek, Utah built on the northwestern slopes of Mount Olympus of the Wasatch Range."
+    },
+    {
+      "cityName": "Mount Olympus",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Millcreek incorporated as a city in 2016."
+    },
+    {
+      "cityName": "Mount Olympus",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2000 census, the CDP population was 7103, a slight decrease from the 1990 figure of 7413."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasant is known for being home to Wasatch Academy."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Sanpete County, Mt."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city's population was 3655."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its central location in Salt Lake County, Murray has been called the Hub of Salt Lake County."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Murray is home to the Intermountain Medical Center, a medical campus that is also Murray's largest employer."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Named for territorial governor Eli Murray, the city had a population of 50637 as of the 2020 United States Census."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Once teeming with heavy industry, Murray's industry mix has now shifted significantly toward healthcare, retail, and professional, scientific, and technical services."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Murray shares borders with Taylorsville, Holladay, South Salt Lake, Millcreek and West Jordan, Utah."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Unlike most of its neighboring communities which use unified civic services, Murray operates its own police, fire, power, water, library, and parks and recreation departments and also has its own school district."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "While maintaining many of its own services, Murray has one of the lowest city tax rates in the state."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Thousands of people each year visit Murray City Park for organized sports and its wooded areas."
+    },
+    {
+      "cityName": "Murray",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Murray has been designated a Tree City USA since 1977."
+    },
+    {
+      "cityName": "Myton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Established in 1905, Myton had a population of 561 at the 2020 census."
+    },
+    {
+      "cityName": "Naples",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Naples was listed as a town in 2000; it has since been classified as a fifth-class city by state law."
+    },
+    {
+      "cityName": "Nephi",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nephi was named after Nephi, son of Lehi, from the Book of Mormon."
+    },
+    {
+      "cityName": "Nephi",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was settled by George Washington Bradley and other Mormon pioneers."
+    },
+    {
+      "cityName": "Nephi",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "George Washington Bradley was also commander of the military post at Nephi, Utah, during the Walker War of 1854."
+    },
+    {
+      "cityName": "Nephi",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "He also acted as probate judge in Nephi for six years, during which he helped procure a charter to incorporate Nephi in 1851 as Salt Creek, and it acquired its current name in 1882."
+    },
+    {
+      "cityName": "Newton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1869 by pioneers of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Newton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Nibley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically a rural area, Nibley has experienced significant growth within the last decade, more than doubling its population in under 10 years."
+    },
+    {
+      "cityName": "Nibley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated in 1935, it was named after Charles W. Nibley, a leader in the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Nibley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area and is a suburb or 'bedroom' community of Logan."
+    },
+    {
+      "cityName": "North Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has an annual event every year in October called the Pumpkin Walk."
+    },
+    {
+      "cityName": "North Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "North Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is mainly composed of residential sub-divisions and is a suburb of the county seat, Logan."
+    },
+    {
+      "cityName": "North Logan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "North Logan was first settled in 1890."
+    },
+    {
+      "cityName": "North Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Ogden is on SR-235, three miles north of Ogden."
+    },
+    {
+      "cityName": "North Salt Lake",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is often casually known as North Salt Lake City as it shares a municipal boundary with Salt Lake City to the south, though the city's actual corporate name is \"The City of North Salt Lake\"."
+    },
+    {
+      "cityName": "North Salt Lake",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The error also has been solidified with the Federal Communications Commission, which has radio station KALL (700) officially licensed to \"North Salt Lake City\", though for all intents and purposes that station serves the Salt Lake City market in general."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ogden is also known for its many historic buildings, proximity to the Wasatch Mountains, and as the location of Weber State University."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city served as a major railway hub through much of its history, and still handles a great deal of freight rail traffic which makes it a convenient location for manufacturing and commerce."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2010 Census placed the Metro population at 597159."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2010, Forbes rated the Metro as America's 6th best place to raise a family."
+    },
+    {
+      "cityName": "Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ogden has had a sister city relationship to Hof in Bavaria, Germany, since 1954."
+    },
+    {
+      "cityName": "Oquirrh",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oquirrh was once part of Kearns, UT."
+    },
+    {
+      "cityName": "Oquirrh",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Through annexation in 2000, the city of West Jordan cut Oquirrh off from Kearns, making Oquirrh a CDP."
+    },
+    {
+      "cityName": "Oquirrh",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2000 census, the CDP population was 10390, a modest increase over the 1990 figure of 7593."
+    },
+    {
+      "cityName": "Orangeville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is at the junction of State Routes 29 and 57, straddling the banks of Cottonwood Creek."
+    },
+    {
+      "cityName": "Orderville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded and operated under the United Order of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Orderville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This system allowed the community to flourish for some time, but ultimately ended in 1885."
+    },
+    {
+      "cityName": "Orem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Utah Valley University is located in Orem."
+    },
+    {
+      "cityName": "Orem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjacent to Provo, Lindon, and Vineyard and is approximately 45 miles (72 km) south of Salt Lake City."
+    },
+    {
+      "cityName": "Orem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Orem is one of the principal cities of the Provo-Orem, Utah Metropolitan Statistical Area, which includes all of Utah and Juab counties."
+    },
+    {
+      "cityName": "Orem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The 2020 population was 98129, while the 2010 population was 88328 making it the 5th most populous city in Utah."
+    },
+    {
+      "cityName": "Panguitch",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name Panguitch comes from a Southern Paiute word meaning \u201cBig Fish,\u201d likely named after the plentiful nearby lakes hosting rainbow trout year-round."
+    },
+    {
+      "cityName": "Paradise",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to 2021 data, the city brought in a yearly average of $529.8 million to the Utah economy as a tourist hot spot, $80 million of which was attributed to the Sundance Film Festival."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2015, Park City Ski Resort and Canyons resorts merged, creating the largest ski area in the U S In all, the resort boasts 17 slopes, 14 bowls, 300 trails and 22 miles (35 km) of lifts."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "After a population decline following the shutdown of the area's mining industry, the city rebounded during the 1980s and 1990s through an expansion of its tourism business."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city has two major ski resorts: Deer Valley Resort and Park City Mountain Resort (combined with Canyons Village at Park City) and one minor resort: Woodward Park City (an action sports training and fun center)."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Both Deer Valley and Park City Mountain Resorts were the major locations for ski and snowboarding events at the 2002 Winter Olympics, and are expected to reprise these roles for the 2034 Winter Olympics."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Although they receive less snow and have a shorter ski season than do their counterparts in Salt Lake County, such as Snowbird resort, they are much easier to access."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Some scenes from the 1994 film Dumb and Dumber were shot in the city."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city is 32 miles (51 km) southeast of downtown Salt Lake City and 20 miles (32 km) from Salt Lake City's east edge of Sugar House along Interstate 80."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The city has many retailers, clubs, bars, and restaurants, and has nearby reservoirs, hot springs, forests, and hiking and biking trails."
+    },
+    {
+      "cityName": "Park City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In the summertime, many valley residents of the Wasatch Front visit the town to escape high temperatures."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parowan served as the agricultural support base for the local iron industry, whose blast furnace was located in nearby Cedar City."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By 1858, most of the area's mining operations had ceased due to disappointing yields."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Parowan became the first incorporated city in Iron County in 1851."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A fort that had been constructed on the east side of Center Creek the previous year was an initial hub in the development of ironworks in the region."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Eventually, the ironworks were decommissioned."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Despite occasional successes, the mission failed to produce a consistent and sustained supply of pig iron."
+    },
+    {
+      "cityName": "Parowan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Today, the area's chief industries are recreation and tourism."
+    },
+    {
+      "cityName": "Portage",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "He named it Portage after his birthplace of Portage County, Ohio."
+    },
+    {
+      "cityName": "Portage",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town received its name from Lorenzo Snow, an apostle of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Price",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to Utah State University Eastern, as well as the USU Eastern Prehistoric Museum."
+    },
+    {
+      "cityName": "Price",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Price is located within short distances of both Nine Mile Canyon and the Manti-La Sal National Forest."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is notable as the location of Promontory Summit, where the first transcontinental railroad in the United States, from Sacramento to Omaha, was officially completed on May 10, 1869."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In May 1869, the railheads of the Union Pacific and the Central Pacific railroads finally met at Promontory Summit, Utah Territory."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Promontory is an area of high ground in Box Elder County, Utah, United States, 32 mi (51 km) west of Brigham City and 66 mi (106 km) northwest of Salt Lake City."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The location is sometimes confused with Promontory Point, a location further south along the southern tip of the Promontory Mountains."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "By the summer of 1868, the Central Pacific (CP) had completed the first rail route through the Sierra Nevada mountains, and was now moving down towards the Interior Plains and the Union Pacific (UP) line."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "More than 4000 workers, of whom two thirds were Chinese, had laid more than 100 mi (160 km) of track at altitudes above 7000 ft (2100 m)."
+    },
+    {
+      "cityName": "Promontory",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "A specially-chosen Chinese and Irish crew had taken only 12 hours to lay the final 10 mi (16 km) of track in time for the ceremony."
+    },
+    {
+      "cityName": "Providence",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Provo",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Provo also has the LDS Church's largest Missionary Training Center (MTC)."
+    },
+    {
+      "cityName": "Provo",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 43 miles (69 km) south of Salt Lake City along the Wasatch Front, and lies between the cities of Orem to the north and Springville to the south."
+    },
+    {
+      "cityName": "Provo",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Provo is the home to Brigham Young University (BYU), a private higher education institution operated by the Church of Jesus Christ of Latter-day Saints (LDS Church)."
+    },
+    {
+      "cityName": "Provo",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's Peaks Ice Arena was a venue for the Salt Lake City Winter Olympics in 2002."
+    },
+    {
+      "cityName": "Provo",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is a focus area for technology development in Utah, with several billion-dollar startups."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Randolph had the highest percentage of people of any city in the country vote for George W. Bush in the 2004 election, at 95.6% Randolph's municipal classification was officially changed from a city to a town on January 1, 2009."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The controversial WWASPS boarding school Old West Academy (formerly Majestic Ranch Academy) is located just outside Randolph."
+    },
+    {
+      "cityName": "Redmond",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Redmond was first settled in 1876, and named for red mounds to the west of the town."
+    },
+    {
+      "cityName": "River Heights",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Riverton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riverton is located in the rapidly growing southwestern corner of the Salt Lake Valley."
+    },
+    {
+      "cityName": "Rockville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies just outside the park boundary for Zion National Park; the park entrance is located approximately 5 miles (8 km) northeast of the town."
+    },
+    {
+      "cityName": "Rocky Ridge",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census it had a population of 848."
+    },
+    {
+      "cityName": "Roosevelt",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The proper pronunciation of the city's name ROH-z\u0259-velt is based on how President Theodore Roosevelt pronounced his name: according to the man himself, \"pronounced as if it was spelled 'Rosavelt.'\" Roosevelt is home to a regional campus location of Utah State University."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today, the St. George region is well known for its warm climate relative to the rest of the state, resulting year-round outdoor recreation, and proximity to several state parks, Zion National Park, and the Grand Canyon."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is Utah's fifth-most populous city and the largest outside the Wasatch Front, with a population of 95342 at the 2020 census."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in southwestern Utah on the Arizona border, it lies in the northeasternmost part of the Mojave Desert, immediately south of the Pine Valley Mountains, which mark the southern boundary of the Great Basin."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "St. George was settled in 1861 as a cotton mission, earning it the nickname \"Dixie\"."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Utah Tech University, in St. George, is an NCAA Division I institution."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is 118 miles (190 km) northeast of Las Vegas and 300 miles (480 km) south-southwest of Salt Lake City on Interstate 15."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The St. George metropolitan statistical area has an estimated 208000 residents."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "St. George lies slightly northwest of the Colorado Plateau, which ends at the Hurricane Fault."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "While the crop never became a successful commodity, the area steadily grew in population."
+    },
+    {
+      "cityName": "Salem",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landmark locations in Salem include the Dream Mine of John Hyrum Koyle and the Salem Pond."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Immigration of international members of the Church of Jesus Christ of Latter-day Saints (LDS Church), mining booms, and the construction of the first transcontinental railroad brought economic growth, and the city was nicknamed \"The Crossroads of the West\"."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Salt Lake City has developed a strong tourist industry based primarily on skiing, outdoor recreation, and religious tourism."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Salt Lake City was founded in 1847 by settlers led by Brigham Young who were seeking to escape persecution they had experienced while living farther east."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is known for its politically liberal culture, which stands in contrast with most of the rest of the state's highly conservative leanings."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Salt Lake City and the surrounding area are also the location of several institutions of higher education including the state's flagship research school, the University of Utah."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is home to a significant LGBT community and hosts the annual Utah Pride Festival."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "With Wall Street Journal ranking the University of Utah the #1 public university in the West."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U S state of Utah."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "It is also part of the larger Salt Lake City\u2013Ogden\u2013Provo combined statistical area, an urban corridor along a 120-mile (190 km) segment of the Wasatch Front with a population of approximately 2.8 million."
+    },
+    {
+      "cityName": "Salt Lake City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Mormon pioneers, as they would come to be known, entered a semi-arid valley and immediately began building an extensive irrigation network that could feed the population and foster future growth."
+    },
+    {
+      "cityName": "Sandy",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also the location of the soccer-specific America First Field (formerly known as Rio Tinto Stadium), which hosts Real Salt Lake and Utah Royals FC home games, and opened on October 8, 2008."
+    },
+    {
+      "cityName": "Sandy",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is currently developing a walkable and transit-oriented city center called The Cairns."
+    },
+    {
+      "cityName": "Sandy",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sandy is home to the Shops at South Town shopping mall; the Jordan Commons entertainment, office and dining complex; and the Mountain America Exposition Center."
+    },
+    {
+      "cityName": "Sandy",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A formal master plan was adopted in January 2017 to accommodate regional growth and outlines developments and related guidelines through the next 25 years, while dividing the city center into distinct villages."
+    },
+    {
+      "cityName": "Sandy",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The plan emphasizes sustainable living, walkability, human-scaled architecture, environmentally-friendly design, and nature-inspired design while managing population growth and its related challenges."
+    },
+    {
+      "cityName": "Santa Clara",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The region and county borders the states of Arizona to the south and Nevada to the west."
+    },
+    {
+      "cityName": "Santa Clara",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a western suburb of the nearby county seat and larger city of St. George, Utah"
+    },
+    {
+      "cityName": "Saratoga Springs",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is a relatively new development along the northwestern shores of Utah Lake."
+    },
+    {
+      "cityName": "Saratoga Springs",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Saratoga Springs became a city in 2001."
+    },
+    {
+      "cityName": "Saratoga Springs",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The elevation is 4547 feet."
+    },
+    {
+      "cityName": "Saratoga Springs",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It was incorporated on December 31, 1997 and has been growing rapidly since then."
+    },
+    {
+      "cityName": "Slaterville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was incorporated in July 1999, in a merger of the previously unincorporated communities of Marriott and Slaterville."
+    },
+    {
+      "cityName": "Smithfield",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Smithfield is home to Sky View High School and three public elementary schools."
+    },
+    {
+      "cityName": "Snyderville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to the 2010 Census, the area was designated as South Snyderville Basin CDP."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located where the road makes a brief bend through the extreme southwest corner of Wasatch County, Soldier Summit historically had more to do with nearby Utah County."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on the route of both U S Route 6 and the old main line of the Denver and Rio Grande Western Railroad (D&RGW), now the Provo Subdivision of the Central Corridor."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At one time both the state highway department and the railroad had operations at the summit, but with the exception of a gas station that is sometimes open, the town site is now abandoned."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Soldier Summit has been an important transportation route between the Wasatch Front and Price, Utah, since the area was settled by the Mormon pioneers."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Today it is a popular rest stop and photo spot for railfans."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Many railfans also take pictures of the Gilluly loops, a series of horseshoe curves on the western approach to the summit."
+    },
+    {
+      "cityName": "Soldier Summit",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The California Zephyr Amtrak passenger train uses this route."
+    },
+    {
+      "cityName": "South Ogden",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The current mayor is Russell L. Porter."
+    },
+    {
+      "cityName": "Spanish Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spanish Fork lies in the Utah Valley, with the Wasatch Range to the east and Utah Lake to the northwest."
+    },
+    {
+      "cityName": "Spanish Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Payson is approximately six miles to the southwest, Springville lies about four miles to the northeast, and Salem is approximately 4.5 miles to the south."
+    },
+    {
+      "cityName": "Spanish Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2020 census reported a population of 42602."
+    },
+    {
+      "cityName": "Spanish Fork",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "I-15 passes the northwest side of the city."
+    },
+    {
+      "cityName": "Springdale",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally settled as a Mormon farming community in 1862 by evacuees from the flooding of nearby Northrop."
+    },
+    {
+      "cityName": "Springville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springville has the nickname of \"Art City\" or \"Hobble Creek\"."
+    },
+    {
+      "cityName": "Springville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other neighboring cities include Spanish Fork and Mapleton."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunset emerged as a distinct place in 1916."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The West Davis Corridor (Utah State Route 177) runs northwest through Syracuse, with interchanges at 2000 West and Antelope Drive (SR-127)."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has seen rapid growth and development since the 1990s."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city population was 24331 at the time of the 2010 census, an increase of 158.9% since the 2000 census."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "By the 2020 census, the population further increased to 32141."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Although settlers have inhabited the area since the mid-1800s, the Syracuse Town Board was formed in 1935."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "An application for township status was officially submitted on September 3, 1935, and was recorded by the Utah state authorities on October 14, 1935."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "On August 21, 1950, the Syracuse Town Board passed a resolution to establish Syracuse as a third-class city, which was subsequently approved by a proclamation signed by Governor J. Bracken Lee on September 13, 1950."
+    },
+    {
+      "cityName": "Syracuse",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city was named by early settlers for Syracuse, New York, which was famed for its salt production in the 19th century."
+    },
+    {
+      "cityName": "Tabiona",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located southwest of Tabby Mountain on the Duchesne River."
+    },
+    {
+      "cityName": "Taylorsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Taylorsville was incorporated from the Taylorsville\u2013Bennion CDP and portions of the Kearns metro township on July 1, 1996."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thompson Springs is located in high desert country with the Book Cliffs just to the north."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is just north of the east\u2013west highway route shared by Interstate 70, U S Route 6 and U S Route 50, between Crescent Junction and Cisco."
+    },
+    {
+      "cityName": "Thompson",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Moab, the county seat, is 37 miles (60 km) to the south."
+    },
+    {
+      "cityName": "Tooele",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "About 40 minutes southwest of Salt Lake City, Tooele is known for Tooele Army Depot and for its views of the nearby Oquirrh Mountains and the Great Salt Lake."
+    },
+    {
+      "cityName": "Tooele",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tooele is home to one of Utah State University's nine regional campuses as well as the Deseret Peak Temple of the Church of Jesus Christ of Latter-day Saints."
+    },
+    {
+      "cityName": "Torrey",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 231."
+    },
+    {
+      "cityName": "Tremonton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2024, Tremonton has an estimated population of 13713 and is one of the fastest growing municipalities in the state of Utah (2024 estimate annual growth rate: 7.33%)."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Logan, Utah-Idaho (partial) Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tropic",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tropic was founded in 1891."
+    },
+    {
+      "cityName": "Tropic",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town had a population of 486."
+    },
+    {
+      "cityName": "Uintah",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although Uintah was a town in 2000, it has since been classified as a fifth-class city by state law."
+    },
+    {
+      "cityName": "Vernal",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vernal is home to the Vernal Temple of The Church of Jesus Christ of Latter-day Saints and one of the nine statewide regional campuses of Utah State University."
+    },
+    {
+      "cityName": "Vernal",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city serves as a gateway to the nearby Dinosaur National Monument, Flaming Gorge, and the Uinta Mountain Range."
+    },
+    {
+      "cityName": "Vernal",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 10079."
+    },
+    {
+      "cityName": "Vineyard",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Population has grown dramatically since about 2012 due to redevelopment of the former Geneva Steel site which sits in Vineyard."
+    },
+    {
+      "cityName": "Virgin",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first settlement at Virgin was made in 1858."
+    },
+    {
+      "cityName": "Virgin",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The elevation is 3606 feet (1099 m)."
+    },
+    {
+      "cityName": "Virgin",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It lies on State Route 9."
+    },
+    {
+      "cityName": "Wales",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of December 2008, Wales had no stores, gas stations, or stoplights."
+    },
+    {
+      "cityName": "Wales",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It does have a park, fire station, library and cemetery."
+    },
+    {
+      "cityName": "Wallsburg",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wallsburg was established in 1861, and was named for William Madison Wall."
+    },
+    {
+      "cityName": "Washington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named after U S President George Washington."
+    },
+    {
+      "cityName": "Washington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Washington is a fast-growing suburb of St. George, and is the second largest city in Washington County."
+    },
+    {
+      "cityName": "Washington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area is also known as Utah's Dixie because the Mormon pioneers who settled the St. George area came to the area to raise cotton, which was milled at the cotton mill in Washington."
+    },
+    {
+      "cityName": "Washington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city administration has encouraged the use of the name \"Washington City\" in recent years."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Justus Wellington Seeley, Junior, of the Emery County Court."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was settled in 1878 by a band of thirteen Mormons led by Jefferson Tidwell."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many residents commute to nearby Price for their jobs, or work in one of the various coal mines in the area."
+    },
+    {
+      "cityName": "Wellsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wellsville is home to the Utah State University South Farm as well as the Utah State University Equestrian Center, the American Heritage Center and the Wellsville Tabernacle."
+    },
+    {
+      "cityName": "Wellsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wellsville was laid out in 1856, and named after Daniel H. Wells, a LDS Church leader."
+    },
+    {
+      "cityName": "Wellsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wellsville is located at the base of the Wellsville mountain range."
+    },
+    {
+      "cityName": "Wellsville",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is included in the Logan, Utah-Idaho Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Haven has a city park which includes a historical monument."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Plans provide for a River Parkway Trail that would include a fishing bridge, a pedestrian tunnel under 21st Street, picnic tables, places to rest and points of historical interest."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West Haven is located approximately 35 miles (56 km) north of Salt Lake City, west of the Wasatch Mountains in northern Utah."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The confluence of the Weber and Ogden Rivers is located inside the northeastern portion of the city."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It was incorporated on July 1, 1991, combining the unincorporated communities of Kanesville and Wilson."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is bordered on the east by Ogden, on the south by Roy, on the west by Hooper, and on the north by Marriott-Slaterville."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Plans have this trail connect with the Weber County Centennial Trail."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The current mayor is Rob Vanderwood who started his term on January 1, 2022."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after the nearby Jordan River, the limits of the city begin on the river's western bank and end in the eastern foothills of the Oquirrh Mountains, where Kennecott Copper Mine, the world's largest man-made excavation, is located."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has one major hospital, Jordan Valley Medical Center, and a campus of Salt Lake Community College."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "City landmarks include Gardner Village, established in 1850, and South Valley Regional Airport, formerly known as \"Salt Lake Airport #2\"."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of 2012, the city has four major retail centers; with Jordan Landing being one of the largest mixed-use planned developments in the Intermountain West."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Companies headquartered in West Jordan include Mountain America Credit Union, Lynco Sales & Service, SME Steel, and Cyprus Credit Union."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "According to the 2020 Census, the city had a population of 116961, placing it as the third most populous in the state."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Settled in the mid-19th century, the city has developed into its own regional center."
+    },
+    {
+      "cityName": "West Jordan",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The airport serves general aviation operations as well as a base for the 211th Aviation Regiment of the Utah Army National Guard flying Apache and Black Hawk helicopters."
+    },
+    {
+      "cityName": "West Point",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after the United States Military Academy at West Point."
+    },
+    {
+      "cityName": "West Point",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Before it was incorporated, the region was informally called \"South Hooper\" and \"Muskrat Springs\"."
+    },
+    {
+      "cityName": "West Point",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city has experienced quick growth centered primarily around single-family residential construction."
+    },
+    {
+      "cityName": "West Point",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "West Point was first settled in March 1867."
+    },
+    {
+      "cityName": "West Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city incorporated in 1980 from a large, quickly growing unincorporated area, combining the four communities of Granger, Hunter, Chesterfield, and Redwood."
+    },
+    {
+      "cityName": "West Valley",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Maverik Center and Utah First Credit Union Amphitheatre."
+    },
+    {
+      "cityName": "West Valley City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city incorporated in 1980 from a large, quickly growing unincorporated area, combining the four communities of Granger, Hunter, Chesterfield, and Redwood."
+    },
+    {
+      "cityName": "West Valley City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Maverik Center and Utah First Credit Union Amphitheatre."
+    },
+    {
+      "cityName": "White City",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is an enclave of Sandy."
+    },
+    {
+      "cityName": "Woodland Hills",
+      "state": "UT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodland Hills became a city at the end of 2000."
+    }
+  ]
+}

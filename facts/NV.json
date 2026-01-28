@@ -1,0 +1,1474 @@
+{
+  "facts": [
+    {
+      "cityName": "Baker",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after an early settler, George W. Baker."
+    },
+    {
+      "cityName": "Baker",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population at the 2010 census was 68."
+    },
+    {
+      "cityName": "Baker",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Public education is provided through the White Pine County School District."
+    },
+    {
+      "cityName": "Baker",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Baker 3-6 Elementary school is the only school in Baker."
+    },
+    {
+      "cityName": "Battle Mountain",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its primary economic base is gold mining and, to a lesser extent, legalized gambling."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beatty is home to the Beatty Museum and Historical Society and to businesses catering to tourist travel."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "State Route 374 connects Beatty to Death Valley National Park, about 8 miles (13 km) to the west."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Starting in the 1940s, Nellis Air Force Base and other federal installations contributed to the town's economy as did tourism related to Death Valley National Park and the rise of Las Vegas as an entertainment center."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Established in 1905, the community was named after Montillus (Montillion) Murray \"Old Man\" Beatty, who settled on a ranch in the Oasis Valley in 1896 and became Beatty's first postmaster."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "With the arrival of the Las Vegas and Tonopah Railroad in 1905, the town became a railway center for the Bullfrog Mining District, including mining towns such as nearby Rhyolite."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The ghost town of Rhyolite and the Goldwell Open Air Museum (a sculpture park), are both about 4 miles (6 km) to the west, and Yucca Mountain and the Nevada Test Site are about 18 miles (29 km) to the east."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "U S Route 95 runs through the town, which lies between Tonopah, about 90 miles (140 km) to the north and Las Vegas, about 120 miles (190 km) to the southeast."
+    },
+    {
+      "cityName": "Beatty",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Before the arrival of non-indigenous people in the 19th century, the region was home to groups of Western Shoshone."
+    },
+    {
+      "cityName": "Boulder City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is approximately 26 miles (42 km) southeast of Las Vegas."
+    },
+    {
+      "cityName": "Boulder City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of Boulder City was 14885."
+    },
+    {
+      "cityName": "Boulder City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city took its name from Boulder Canyon."
+    },
+    {
+      "cityName": "Boulder City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Boulder City is one of only two places in Nevada that prohibits gambling, the other being the town of Panaca."
+    },
+    {
+      "cityName": "Caliente",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's name originated from the nearby hot springs, as \"caliente\" is the Spanish word meaning \"hot\"."
+    },
+    {
+      "cityName": "Caliente",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Caliente, formerly known as Culverwell and Calientes, is a city in Lincoln County, Nevada, United States."
+    },
+    {
+      "cityName": "Carlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for Civil War general William Passmore Carlin."
+    },
+    {
+      "cityName": "Carlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "and the Gold Rush Begins\"."
+    },
+    {
+      "cityName": "Carlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, its population was 2368, up from 2161 at the 2000 census."
+    },
+    {
+      "cityName": "Carlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its slogan is \"Where the Train Stops..."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after the mountain man Kit Carson (1809-1868)."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "For much of its history, it was a hub for the Virginia and Truckee Railroad, although the tracks were removed in 1950."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The majority of the city's population lives in Eagle Valley, on the eastern edge of the Carson Range, a branch of the Sierra Nevada, about 30 miles (50 km) south of Reno."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town began as a stopover for California-bound immigrants, but developed into a city with the Comstock Lode, a silver strike in the mountains to the northeast."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "With the consolidation, the city limits extend west across the Sierra Nevada to the California-Nevada state line in the middle of Lake Tahoe."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Carson City is an independent city and the capital of the U S state of Nevada."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "As of the 2020 census, the population was 58639, making it the 6th most populous city in the state."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city has served as Nevada's capital since 1861, when it was still a territory."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "That year, after a referendum approved merging the city and the county, the state legislature issued a revised city charter that merged them into the Carson City Consolidated Municipality."
+    },
+    {
+      "cityName": "Carson City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Like other independent cities in the United States, it is treated as a county-equivalent for census purposes."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dayton is the second-oldest Nevada settlement, after Genoa, and is home to the oldest hotel in the state."
+    },
+    {
+      "cityName": "Elko",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elko is 21 miles (34 km) from Lamoille Canyon and the Ruby Mountains, providing year-round access to recreation, including hiking, skiing, hunting, and more than 20 alpine lakes."
+    },
+    {
+      "cityName": "Elko",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Elko serves as the center of the Ruby Valley, a region with a population of over 55000."
+    },
+    {
+      "cityName": "Elko",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city straddles the Humboldt River."
+    },
+    {
+      "cityName": "Elko",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Spring Creek, Nevada, serves as a bedroom community 6 miles (10 km) from the city with a population of 13805."
+    },
+    {
+      "cityName": "Elko",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the official 2020 U S census, the city has a population of 20564."
+    },
+    {
+      "cityName": "Ely",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The railroads connecting the transcontinental railroad to the mines in Austin, Nevada and Eureka, Nevada have long been removed, but the railroad to Ely is preserved as a heritage railway by the Nevada Northern Railway and known as the Ghost Train of Old Ely."
+    },
+    {
+      "cityName": "Ely",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1906 copper was discovered."
+    },
+    {
+      "cityName": "Ely",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ely's mining boom came later than the other towns along US 50."
+    },
+    {
+      "cityName": "Ely",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Ely was founded as a stagecoach station along the Pony Express and Central Overland Route."
+    },
+    {
+      "cityName": "Ely",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, the population was 3924."
+    },
+    {
+      "cityName": "Enterprise",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded on December 17, 1996."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Attractions include the Eureka Opera House (built in 1880 and restored in 1993), Raine\u2019s Market and Wildlife Museum (built 1887), the Jackson House Hotel (built 1877), and the Eureka Sentinel Museum (housed in the 1879 Eureka Sentinel Newspaper Building)."
+    },
+    {
+      "cityName": "Eureka",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 414 as of the 2020 United States census, it is the second-largest community in Eureka County."
+    },
+    {
+      "cityName": "Fallon",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fallon is known for being home to Naval Air Station Fallon, located southeast of town."
+    },
+    {
+      "cityName": "Fernley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fernley was home to the historic and one of the first Amazon.com centers in the world, which has since relocated within the metro area."
+    },
+    {
+      "cityName": "Fernley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated in 2001."
+    },
+    {
+      "cityName": "Fernley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Naval Air Station (TOPGUN), the U S Navy's Naval Strike and Air Warfare Center & TOPGUN training program since 1996, was moved nearby, to Fallon, from Naval Air Station Miramar."
+    },
+    {
+      "cityName": "Fernley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is home to the Reno-Fernley Raceway."
+    },
+    {
+      "cityName": "Fernley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The world's first Tesla Gigafactory, that produces battery packs, energy storage and electric vehicle components is nearby 15 miles west at the Tahoe Reno Industrial Center, and also there as of 2024 an under-construction lithium processing plant."
+    },
+    {
+      "cityName": "Gardnerville",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "U S Route 395 runs through the center of Gardnerville."
+    },
+    {
+      "cityName": "Gardnerville",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "State Route 207, known as Kingsbury Grade, connects Gardnerville to Stateline and U S Route 50."
+    },
+    {
+      "cityName": "Gardnerville Ranchos",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 11318."
+    },
+    {
+      "cityName": "Genoa",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the state's oldest bar, which opened in 1853."
+    },
+    {
+      "cityName": "Genoa",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1851, it was the first settlement in what became the Nevada Territory (1861\u20131864)."
+    },
+    {
+      "cityName": "Hawthorne",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 3118."
+    },
+    {
+      "cityName": "Hawthorne",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearby Hawthorne Army Depot is the primary economic base of the town."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1953, Henderson was originally known for its role in magnesium production during World War II."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since then, it has grown rapidly through the development of master planned communities starting with the large Green Valley neighborhood, redevelopment and reinvestment after the PEPCON disaster, and the city government's historically proactive planning and management."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Henderson is notable for its extensive system of outdoor recreation facilities, including over 220 miles (350 km) of trails and 72 parks."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "These structures were built as a monument to Native American culture by a World War II veteran who called himself Thunder."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a nearly abandoned railroad town, named for a nearby mine or for the civil engineer who surveyed the town circa 1907."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its most notable feature is a series of strange buildings called Thunder Mountain Monument."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "They mentioned Thunder Mountain Monument as one of the premier draws to the area."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has an elementary school, a general store, a post office, and a trading post."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2010 census, the population was 171."
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Michael Feldman's Whad'Ya Know?"
+    },
+    {
+      "cityName": "Imlay",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "public radio show featured Imlay as the \"Town of the Week\" on its December 5, 2009, show."
+    },
+    {
+      "cityName": "Incline Village",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sierra Nevada University, now The University of Nevada, Reno at Lake Tahoe, is located in Incline Village."
+    },
+    {
+      "cityName": "Incline Village",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incline Village is also home to Diamond Peak Ski Resort, which is owned by the community."
+    },
+    {
+      "cityName": "Incline Village",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Until the 2010 census, the CDP Crystal Bay, Nevada was counted jointly with Incline Village."
+    },
+    {
+      "cityName": "Incline Village",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Incline Village has some of the most expensive real estate in the United States."
+    },
+    {
+      "cityName": "Jackpot",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In addition to its casino industry, Jackpot has its own schools, golf course, and post office."
+    },
+    {
+      "cityName": "Jackpot",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jackpot observes Mountain Time, along with other Idaho border towns such as Jarbidge, Mountain City and Owyhee, due to its economic ties with the Magic Valley region of southern Idaho."
+    },
+    {
+      "cityName": "Jackpot",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located less than one mile (1.6 km) from the Idaho border on US 93, Jackpot has been a popular casino gaming destination for residents of Idaho and other neighboring states since its founding."
+    },
+    {
+      "cityName": "Jackpot",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Jackpot is located 47 miles (76 km) south of Twin Falls, Idaho, a city of approximately 50000."
+    },
+    {
+      "cityName": "Jackpot",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Nevada Department of Transportation and Federal Aviation Administration recognize this local unofficial observance."
+    },
+    {
+      "cityName": "Jean",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is primarily zoned commercial, industrial, manufacturing, government and institutional."
+    },
+    {
+      "cityName": "Jean",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jean is accessible via Interstate 15 (I-15) as well as from Las Vegas Boulevard South, and from the towns of Goodsprings and Sandy Valley via State Route 161."
+    },
+    {
+      "cityName": "Jean",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There is no land zoned residential in Jean."
+    },
+    {
+      "cityName": "Jean",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A 3 million square foot mega-warehouse complex is currently in development at the Jean exit at Interstate 15 (I-15)."
+    },
+    {
+      "cityName": "Jean",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Jean will also be the entry point for the planned Southern Nevada Supplemental Airport (SNSA), currently in development."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "More than 75% of the lake's watershed is national forest land, covered by the Lake Tahoe Basin Management Unit of the United States Forest Service."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lake Tahoe is a major tourist attraction in both Nevada and California."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is known for the clarity of its water and the panorama of surrounding mountains on all sides."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Nevada side also offers several lakeside casino resorts, with highways providing year-round access to the entire area."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Snow and ski resorts are a significant part of the area's economy and reputation."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Lake Tahoe () is a freshwater lake in the Sierra Nevada of the Western United States, straddling the border between California and Nevada."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Its depth is 1645 ft (501 m), making it the second deepest in the United States after Crater Lake in Oregon (1949 ft or 594 m)."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The lake was formed about two million years ago as part of the Lake Tahoe Basin, and its modern extent was shaped during the ice ages."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The area surrounding the lake is also referred to as Lake Tahoe, or simply Tahoe; its English name is derived from its Washo name, D\u00e1\u0294aw."
+    },
+    {
+      "cityName": "Lake Tahoe",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "It is home to winter sports, summer outdoor recreation, and scenery enjoyed throughout the year."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's tolerance for numerous forms of adult entertainment has earned it the nickname \"Sin City,\" and has made it a popular setting for films, literature, television programs, commercials and music videos."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city bills itself as the Entertainment Capital of the World, and is famous for its luxurious and large casino-hotels."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2023, Las Vegas attracts over 40.8 million visitors annually, making it one of the most visited cities in the United States and consistently ranking among the world's top tourist destinations."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Las Vegas is an internationally renowned major resort city, known primarily for its gambling, shopping, fine dining, entertainment, and nightlife."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is the third most popular U S destination for business conventions and a global leader in the hospitality industry."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Las Vegas Valley serves as the leading financial, commercial, and cultural center in Nevada."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Las Vegas was settled in 1905 and officially incorporated in 1911."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "At the close of the 20th century, it was the most populated North American city founded within that century."
+    },
+    {
+      "cityName": "Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Population growth has accelerated since the 1960s and into the 21st century, and between 1990 and 2000 the population increased by 85.2%."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As a resort town, it is known for its gaming and water recreation."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He opened what would become the Riverside Resort, and later wanted to call the community Riverside or Casino, but the post office opted for Laughlin instead."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Laughlin was named for Don Laughlin, an Owatonna, Minnesota native, who purchased the southern tip of Nevada in 1964 (informally called South Pointe)."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The nearby communities of Bullhead City, Arizona; Needles, California; Fort Mohave, Arizona; and Mohave Valley, Arizona, bring the area's total population to about 100000."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Laughlin lies 90 miles (140 km) south of Las Vegas, in the far southern tip of Nevada."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 census, the population was 8658."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Laughlin is also 286 miles (460 km) northeast of Los Angeles."
+    },
+    {
+      "cityName": "Laughlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "At the time, Don Laughlin operated the 101 Club in Las Vegas."
+    },
+    {
+      "cityName": "Lemmon Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to 2010 it was listed by the U S Census Bureau as part of the Lemmon Valley\u2013Golden Valley CDP."
+    },
+    {
+      "cityName": "Lemmon Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a northern suburb of the city of Reno and is part of the Reno\u2013Sparks Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Logandale",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is the home of the annual Clark County Fair and Rodeo."
+    },
+    {
+      "cityName": "Logandale",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was an unincorporated town in Clark County until 1981 when it was merged with Overton to create the unincorporated town of Moapa Valley."
+    },
+    {
+      "cityName": "Logandale",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Logandale is located in Clark County, Nevada."
+    },
+    {
+      "cityName": "Lovelock",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Formerly a stop for settlers on their way to California and later a train depot, the town's economy remains based on farming, mining and increasingly on tourism."
+    },
+    {
+      "cityName": "Lovelock",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the namesake of a nearby medium-security men's prison and a Cold War-era gunnery range."
+    },
+    {
+      "cityName": "McDermitt",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McDermitt's economy has historically been based on mining, ranching, and farming."
+    },
+    {
+      "cityName": "McDermitt",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The last mining operation closed in 1990, resulting in a steady decline in population."
+    },
+    {
+      "cityName": "McDermitt",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, the combined population was 513."
+    },
+    {
+      "cityName": "McDermitt",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Seventy-five percent of the residents were American Indian, predominantly Northern Paiute of the Fort McDermitt Indian Reservation, whose members include Shoshone people."
+    },
+    {
+      "cityName": "Mesquite",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to a growing retirement community, as well as several casino resorts and golf courses."
+    },
+    {
+      "cityName": "Mesquite",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the city had a population of 20471."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mill City had its start as a mining community."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was named for a quartz mill near the original town site."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Humboldt River is to the northwest and the northern end of the Humboldt Range lies to the east."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Midway truck stop is located in Mill City, offering services to visitors and the dwindling population."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "A post office called Mill City was in operation from 1864 until 1948."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The community is four miles (6.4 km) north of Imlay on Interstate 80."
+    },
+    {
+      "cityName": "Mill City",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "State Route 400 passes through the town, continuing south towards Unionville."
+    },
+    {
+      "cityName": "Minden",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Douglas campus of the Western Nevada College is located in Minden."
+    },
+    {
+      "cityName": "Moapa",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both the second and the third tallest structures in Nevada, the Moapa Entravision Tower and the Moapa Kemp Tower respectively, are located in Moapa."
+    },
+    {
+      "cityName": "Moapa Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The valley in which the community lies, also named Moapa Valley, is about 40 miles (64 km) long and lies roughly northwest to southeast."
+    },
+    {
+      "cityName": "Moapa Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, it had a population of 6924."
+    },
+    {
+      "cityName": "Nellis AFB",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nellis Air Force Base (\"Nellis\" colloq.) is a United States Air Force installation in southern Nevada."
+    },
+    {
+      "cityName": "Nellis AFB",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nellis hosts air combat exercises such as Exercise Red Flag and close air support exercises such as Green Flag-West flown in \"Military Operations Area (MOA) airspace\", associated with the nearby Nevada Test and Training Range (NTTR)."
+    },
+    {
+      "cityName": "Nellis AFB",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The base also has the Combined Air and Space Operations Center-Nellis."
+    },
+    {
+      "cityName": "North Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 262527, with an estimated population of 280543 in 2022."
+    },
+    {
+      "cityName": "North Las Vegas",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated on May 1, 1946."
+    },
+    {
+      "cityName": "Pahrump",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pahrump lies adjacent to the Nevada\u2013California border and the area had a population of 44738 as of the 2020 census."
+    },
+    {
+      "cityName": "Panaca",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, it had a population of 963."
+    },
+    {
+      "cityName": "Panaca",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of only two cities in Nevada that prohibit gambling, the other being Boulder City."
+    },
+    {
+      "cityName": "Paradise",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paradise contains Harry Reid International Airport; the University of Nevada, Las Vegas (UNLV); the majority of the Las Vegas Strip; and most of the tourist attractions in the Las Vegas area (excluding downtown)."
+    },
+    {
+      "cityName": "Paradise",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 191238 at the 2020 census, making it the fifth-most-populous CDP in the United States; if it were an incorporated city, it would be the fifth-largest in Nevada."
+    },
+    {
+      "cityName": "Paradise",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was formed on December 8, 1950."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community's economy is based on its one casino, the Primm Valley Resort."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits on Ivanpah Dry Lake, which extends to the north and south of town."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Primm was initially known as State Line and started as a small motel and coffee shop built by Ernest Primm (1901-1981) in the 1950s."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Over the years, Primm grew, with Gary Primm, Ernest's son, expanding the area by building casino hotels."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In 1996, the town was officially renamed Primm in honor of its founder and to avoid confusion with Stateline in northern Nevada."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The casino attracts gamblers from Southern California wanting to stop before reaching Las Vegas 40 miles (64 km) to the north, or as a last chance to gamble before leaving Nevada."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Most of Primm's residents are employees of the casino."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Conversely, a store located just over the California state line from Primm sells California State Lottery tickets and games (including the multi-state Mega Millions and Powerball games) mainly to residents of Nevada, whose constitution prohibits a state lottery."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "A Clark County Comprehensive Planning Department estimate placed the population at 284 on July 1, 2006, apparently using different boundaries for the area."
+    },
+    {
+      "cityName": "Primm",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "In a December 5, 2007 article in the Las Vegas Review-Journal, Primm's population is listed as around 1132."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after Civil War Union major general Jesse L. Reno, who was killed in action during the American Civil War at the Battle of South Mountain, on Fox's Gap."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also home to the University of Nevada at Reno, the state's second-largest university by enrollment and the flagship campus of the University of Nevada system."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Today, Reno is a tourist destination known for its casino gambling and proximity to Lake Tahoe and the Sierra Nevada."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sitting in the High Eastern Sierra foothills, in the Truckee River valley, on the eastern side of the Sierra Nevada, it is about 23 miles (37 km) northeast of Lake Tahoe."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Reno metro area (along with the neighboring city Sparks) occupies a valley colloquially known as the Truckee Meadows."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is known as \"The Biggest Little City in the World\" and had a population of 264165 at the 2020 census."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "A broader definition, 'Greater Reno', expands the region to include Lyon, the independent city and state capital Carson City, and parts of Placer and Nevada Counties in California."
+    },
+    {
+      "cityName": "Reno",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "For much of the twentieth century, Reno saw a significant number of people seeking to take advantage of Nevada's relatively lax divorce laws and the city gained a national reputation as a divorce mill."
+    },
+    {
+      "cityName": "Silver Springs",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lahontan Reservoir, Lahontan State Recreation Area and historic Fort Churchill State Historic Park are all located nearby."
+    },
+    {
+      "cityName": "Silver Springs",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area is served by the Silver Springs Airport."
+    },
+    {
+      "cityName": "Sparks",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1904, incorporated on March 15, 1905, and is located just east of Reno."
+    },
+    {
+      "cityName": "Sparks",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after John Sparks, Nevada governor (1903\u20131908), and a member of the Silver Party."
+    },
+    {
+      "cityName": "Sparks",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 2020 U S Census counted 108445 residents in the city."
+    },
+    {
+      "cityName": "Spring Creek",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It mainly serves as a bedroom community for the businesses and industries in and around the nearby city of Elko."
+    },
+    {
+      "cityName": "Spring Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spring Valley was formed in May 1981."
+    },
+    {
+      "cityName": "Stateline",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies next to the border with California and is conurbated with South Lake Tahoe."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The neighborhood is adjacent to many wilderness conservation, recreation areas and commercial areas, including Red Rock and Spring Mountains and to the west, the La Madre and Mount Charleston Wilderness areas to its northwest, and the Las Vegas Strip resort corridor to its east."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The development covers 22500 acres (91 km2) of the western edge of incorporated Las Vegas sitting at the center-west end of the Las Vegas Valley."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Summerlin is a master-planned mixed-use development mostly within the city limits of Las Vegas, Nevada."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Downtown Summerlin refers to the development's primary commercial and retail shopping area."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Along with many private and charter schools, public education is provided by the Clark County School District."
+    },
+    {
+      "cityName": "Summerlin",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Emergency services are provided by the Las Vegas Metropolitan Police Department and the Las Vegas Fire & Rescue department."
+    },
+    {
+      "cityName": "Summerlin South",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is so named because it is a southward extension of the master-planned community of Summerlin."
+    },
+    {
+      "cityName": "Summerlin South",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Summerlin South Community Association is the main governmental entity of the area \u2013 it is a homeowners association for the entire community."
+    },
+    {
+      "cityName": "Summerlin South",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area includes The Ridges, a guard-gated community consisting of custom and semi-custom homes in southwest Summerlin."
+    },
+    {
+      "cityName": "Summerlin South",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In The Ridges, the average home price is over $2000000."
+    },
+    {
+      "cityName": "Sunrise Manor",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "If Sunrise Manor were to be incorporated, it would be one of the largest cities in Nevada."
+    },
+    {
+      "cityName": "Sunrise Manor",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sunrise Manor was formed in May 1957."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nicknamed the Queen of the Silver Camps for its mining-rich history, it is now primarily a tourism-based resort city, notable for attractions like the Mizpah Hotel and the Clown Motel."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tonopah is located at the junction of U S Routes 6 and 95, approximately midway between Las Vegas and Reno."
+    },
+    {
+      "cityName": "Tonopah",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 2020 census, the population was 2179."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Valmy is a census-designated place in Humboldt County, Nevada, United States, named after the Battle of Valmy in France."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Lone Tree gold-mining complex is located adjacent to I-80; mining ended there in 2007, though a small gold resource remains in place there."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2021, Nevada Gold Mines sold the mine to i-80 Gold, who hope to process ore there."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Marigold mine is located further south of I-80 and has been in production since 1989."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Valmy is also home to the North Valmy Generating Station, jointly owned by NV Energy and Idaho Power."
+    },
+    {
+      "cityName": "Valmy",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2010 census, the community had a population of 37."
+    },
+    {
+      "cityName": "Verdi",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP of Verdi, California, lies immediately adjacent across the state line."
+    },
+    {
+      "cityName": "Verdi",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Both are in the shadow of California's Verdi Range."
+    },
+    {
+      "cityName": "Verdi",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2010, the population was 1415."
+    },
+    {
+      "cityName": "Verdi",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Prior to 2010, the community was listed by the U S Census Bureau as part of the Verdi-Mogul CDP."
+    },
+    {
+      "cityName": "Washoe Valley",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP takes its name from the Washoe Valley, a region between Reno and Carson City centered on Washoe Lake."
+    },
+    {
+      "cityName": "Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Wendover is located on the eastern border of Nevada and the western edge of the Great Salt Lake Desert and is contiguous with Wendover, Utah, with which it is sometimes confused."
+    },
+    {
+      "cityName": "Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to five casinos and a cannabis dispensary which attract many visitors from neighboring Utah, where both casino gambling and non-medical cannabis are illegal."
+    },
+    {
+      "cityName": "Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Interstate 80 runs just north of the cities, while Interstate 80 Business (Wendover Boulevard) runs through the two cities."
+    },
+    {
+      "cityName": "West Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Wendover is located on the eastern border of Nevada and the western edge of the Great Salt Lake Desert and is contiguous with Wendover, Utah, with which it is sometimes confused."
+    },
+    {
+      "cityName": "West Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to five casinos and a cannabis dispensary which attract many visitors from neighboring Utah, where both casino gambling and non-medical cannabis are illegal."
+    },
+    {
+      "cityName": "West Wendover",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Interstate 80 runs just north of the cities, while Interstate 80 Business (Wendover Boulevard) runs through the two cities."
+    },
+    {
+      "cityName": "Winnemucca",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a total population of 8431, up 14% from the 2010 census figure of 7396."
+    },
+    {
+      "cityName": "Winnemucca",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Interstate 80 passes through the city, where it meets U S Route 95."
+    },
+    {
+      "cityName": "Yerington",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Henry M. Yerington, superintendent of the Virginia and Truckee Railroad from 1868 to 1910."
+    },
+    {
+      "cityName": "Yerington",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the current county seat of Lyon County, with the first county seat having been established at Dayton on November 29, 1861."
+    },
+    {
+      "cityName": "Zephyr Cove",
+      "state": "NV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prior to 2010 it was part of the Zephyr Cove\u2013Round Hill Village CDP."
+    }
+  ]
+}

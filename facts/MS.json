@@ -1,0 +1,3105 @@
+{
+  "facts": [
+    {
+      "cityName": "Abbeville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 372."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the spring of each year, Aberdeen hosts pilgrimages to its historic antebellum homes."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cotton was heavily traded in town, and for a time Aberdeen was Mississippi's second largest city."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Aberdeen retains many historic structures from this period, with over 200 buildings on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Located on the banks of the Tombigbee River, Aberdeen was one of the busiest Mississippi ports of the 19th century."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Located just outside the city, Aberdeen Lock and Dam forms Aberdeen Lake, a popular recreational area."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 census, the population was 4961, down from 5612 in 2010."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The most prominent of these antebellum homes is The Magnolias, which was built in 1850."
+    },
+    {
+      "cityName": "Aberdeen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Aberdeen Lock and Dam is part of the Tennessee-Tombigbee waterway system."
+    },
+    {
+      "cityName": "Agricola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Agricola was a station on the Pascagoula Northern Railroad."
+    },
+    {
+      "cityName": "Agricola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 Census, the population was 346."
+    },
+    {
+      "cityName": "Agricola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Agricola is home to Agricola Elementary School (AES)."
+    },
+    {
+      "cityName": "Agricola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A post office operated under the name Agricola from 1909 to 1964."
+    },
+    {
+      "cityName": "Algoma",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Algoma is a Native American word meaning \"vale of flowers\"."
+    },
+    {
+      "cityName": "Alligator",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 Census, the population was 116."
+    },
+    {
+      "cityName": "Alligator",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2009, Tommie \"Tomaso\" Brown was elected Alligator's first black mayor."
+    },
+    {
+      "cityName": "Alligator",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "He defeated Robert Fava, the mayor since 1979."
+    },
+    {
+      "cityName": "Amory",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in the northeastern part of the state near the Alabama border, it was founded in 1887 as a railroad town by the Kansas City, Memphis and Birmingham Railroad."
+    },
+    {
+      "cityName": "Amory",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As a result, Cotton Gin Port, along the Tombigbee River to the west, was abandoned as businesses and people moved for railroad access."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashland was incorporated on March 8, 1871, and has a Mayor-Aldermen form of government."
+    },
+    {
+      "cityName": "Baldwyn",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1860, the population was 3071 at the 2020 census."
+    },
+    {
+      "cityName": "Banner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Banner is located along Mississippi Highway 9W, 7 miles (11 km) north-northwest of Bruce."
+    },
+    {
+      "cityName": "Batesville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Batesville is one of two county seats which the legislature established for Panola County, related to a longstanding rivalry between towns on either side of the Tallahatchie River; the other is Sardis, located north of the river."
+    },
+    {
+      "cityName": "Bay Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area was settled in the 1880s by Joe Blankenship, who built the sawmill for the yellow pine timber industry that comprised the town's industrial base."
+    },
+    {
+      "cityName": "Bay Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was incorporated about twenty years later after railroads were constructed through it."
+    },
+    {
+      "cityName": "Bay Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "That access attracted other industry and business, and the city was designated as the second county seat."
+    },
+    {
+      "cityName": "Bay Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "State highways 15 and 18 intersect at the city."
+    },
+    {
+      "cityName": "Bay Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its population has declined slightly since 2000."
+    },
+    {
+      "cityName": "Beauregard",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beauregard is named for P. G. T. Beauregard."
+    },
+    {
+      "cityName": "Belden",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the community is located within the city of Tupelo."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belzoni is known for the World Catfish Festival held every April."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for the 19th-century Italian archaeologist/explorer Giovanni Battista Belzoni."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area was named Farm-Raised Catfish Capital of the World in 1976 by then Governor Cliff Finch, since it produces more farm-raised catfish than any other U S county."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "About 40000 acres (160 km2) of the county are under water in ponds used to grow catfish."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "About 60% of U S farm-raised catfish are grown within a 65-mile (100-km) radius of Belzoni."
+    },
+    {
+      "cityName": "Belzoni",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The title \"Catfish Capital\" is also claimed by Savannah, Tennessee, Des Allemands, Louisiana, and Selkirk, Manitoba."
+    },
+    {
+      "cityName": "Benoit",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 Census, the population was 365."
+    },
+    {
+      "cityName": "Benton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first named as a CDP in the 2020 Census which listed a population of 415."
+    },
+    {
+      "cityName": "Benton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mississippi Highway 433 passes through the community."
+    },
+    {
+      "cityName": "Bentonia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bentonia School of blues singing and guitar-playing is named for Bentonia."
+    },
+    {
+      "cityName": "Beulah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Beulah, an oxbow lake formerly connected to the Mississippi River, is west of the town."
+    },
+    {
+      "cityName": "Beulah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Illinois Central Railroad had a station in Beulah, but the line is now abandoned."
+    },
+    {
+      "cityName": "Beulah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Beulah is named after the Christian hymn Beulah Land, a favorite of Frank A. Montgomery, an early settler to western Bolivar County."
+    },
+    {
+      "cityName": "Beulah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Per the 2020 census, the population was 242."
+    },
+    {
+      "cityName": "Beulah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Beulah is served by Mississippi Highway 1."
+    },
+    {
+      "cityName": "Biloxi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The beachfront of Biloxi lies directly on the Mississippi Sound, with barrier islands scattered off the coast and into the Gulf of Mexico."
+    },
+    {
+      "cityName": "Biloxi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It lies on the Gulf Coast in southern Mississippi, bordering the city of Gulfport to its west."
+    },
+    {
+      "cityName": "Biloxi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The adjacent cities are both designated as seats of Harrison County."
+    },
+    {
+      "cityName": "Biloxi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The area's first European settlers were French colonists."
+    },
+    {
+      "cityName": "Biloxi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Keesler Air Force Base lies within the city and is home to the 81st Training Wing and the 403rd Wing of the U S Air Force Reserve."
+    },
+    {
+      "cityName": "Blue Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the site of Toyota Motor Manufacturing Mississippi, Toyota's eighth North American vehicle assembly plant."
+    },
+    {
+      "cityName": "Blue Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located near Tupelo in northeastern Mississippi, the village had a population of 144 at the 2000 census."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Booneville is home to Northeast Mississippi Community College, the tenth-largest community college by enrollment in the state."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city of Booneville is nicknamed \"the City of Hospitality,\" in reference to the town's southern hospitality."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Booneville was incorporated in 1861 and named after R H Boone, a relative of Daniel Boone."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city flag, welcome sign, and city website have an image of a magnolia blossom, a symbol of hospitality as well as the state flower of Mississippi."
+    },
+    {
+      "cityName": "Booneville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is one of 21 certified Mississippi retirement cities."
+    },
+    {
+      "cityName": "Brandon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated on December 19, 1831."
+    },
+    {
+      "cityName": "Braxton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village's population was 181 at the 2000 census."
+    },
+    {
+      "cityName": "Brookhaven",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the town of Brookhaven, New York, by founder Samuel Jayne in 1818."
+    },
+    {
+      "cityName": "Brooksville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Sam D. Hamilton Noxubee National Wildlife Refuge is located west of the town, and the Black Prairie Wildlife Management Area is located to the north."
+    },
+    {
+      "cityName": "Bruce",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 1707."
+    },
+    {
+      "cityName": "Bruce",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Currently, Jimmy Hubbard is the mayor."
+    },
+    {
+      "cityName": "Buckatunna",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buckatunna is located in the southeast corner of Wayne County, just west of the Alabama state line."
+    },
+    {
+      "cityName": "Buckatunna",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community takes its name from nearby Buckatunna Creek."
+    },
+    {
+      "cityName": "Bude",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bude appeared in a March 2017 segment of 60 Minutes because its chess team won the state championship."
+    },
+    {
+      "cityName": "Bude",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bude is located on the north bank of the Homochitto River, which bisects the county on a diagonal running from northeast to southwest, where it flows on its way to the Mississippi River."
+    },
+    {
+      "cityName": "Bude",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "U S Routes 98 and 84 run by Bude."
+    },
+    {
+      "cityName": "Bude",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "American Railcar Industries operates a large maintenance shop in Bude."
+    },
+    {
+      "cityName": "Byram",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 11489 as of the 2010 census, up from 7386 at the 2000 census, at which time it was an unincorporated census-designated place (CDP); in 2020, its population was 12666."
+    },
+    {
+      "cityName": "Byram",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated for a second time in its history on June 16, 2009."
+    },
+    {
+      "cityName": "Canton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is adjacent to a large auto manufacturing facility owned by Nissan."
+    },
+    {
+      "cityName": "Carrollton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The second county seat, Vaiden, was founded in the south eastern part of the county during its early settlement."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carthage is home to the Carthage Historic District including the Leake County Courthouse, a Mississippi Landmark."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The largest chicken processing plant in the world is located in Carthage."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bethany Presbyterian Church is a historic church in Centreville, built in 1855, and added to the National Register of Historic Places in 2003."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1880, the Yazoo and Mississippi Valley R R ran along the border between Wilkinson and Amite counties."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 1258 in 2020."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town was incorporated in 1880, and it was a small settlement in the years prior."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Because the station was approximately midway between Liberty and Woodville and about midway between Natchez and Baton Rouge, it was appropriately named Centreville."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This city is located east of the river and its population was 2193 at the 2010 census."
+    },
+    {
+      "cityName": "Choctaw",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Choctaw may refer to either of the following places in the U S state of Mississippi: Choctaw, Bolivar County, Mississippi Choctaw, Neshoba County, Mississippi"
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Sunflower River and named after John Clark, a settler who founded the city in the mid-19th century when he established a timber mill and business."
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Many African American musicians developed the blues here and took this original American music with them to Chicago and other northern cities during the Great Migration."
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The western boundary of the county is formed by the Mississippi River."
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Clarksdale is in the Mississippi Delta region and is an agricultural and trading center."
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It\u2019s located in the Mississippi Delta region of Mississippi."
+    },
+    {
+      "cityName": "Clarksdale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Memphis-Clarksdale-Forrest City Combined Statistical Area has around 1.4 million people."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delta State University and The Grammy Museum Mississippi, the first Grammy Museum outside of Los Angeles, are located here."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cleveland population was 11199 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cleveland has a large commercial economy, with numerous restaurants, stores, and services along U S 61."
+    },
+    {
+      "cityName": "Coahoma",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 229."
+    },
+    {
+      "cityName": "Coffeeville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The minor American Civil War Battle of Coffeeville took place near here in December 1862."
+    },
+    {
+      "cityName": "Coffeeville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after John Coffee (1772\u20131833), a planter and military leader."
+    },
+    {
+      "cityName": "Coffeeville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Water Valley, Mississippi, in the northeastern part of the county, is the second county seat and judicial district."
+    },
+    {
+      "cityName": "Coila",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coila is situated approximately nine miles south of Carrollton on Highway 17."
+    },
+    {
+      "cityName": "Coila",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "\"Coila\" is a Choctaw phrase which translates to \"panther comes there\"."
+    },
+    {
+      "cityName": "Coila",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A post office first began operation under the name Coila in 1849."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Formed six years before Mississippi was admitted to statehood, Columbia was named for Columbia, South Carolina, from which many of the early settlers had migrated."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbus is also part of the area of Mississippi called The Golden Triangle, consisting of Columbus, West Point and Starkville, in the counties of Lowndes, Clay and Oktibbeha."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Schools include Mississippi University for Women and Mississippi School for Mathematics and Science."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is approximately 146 miles (235 km) northeast of Jackson, 92 miles (148 km) north of Meridian, 63 miles (101 km) south of Tupelo, 60 miles (97 km) northwest of Tuscaloosa, Alabama, and 120 miles (193 km) west of Birmingham, Alabama."
+    },
+    {
+      "cityName": "Conehatta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the eight communities included in the Mississippi Band of Choctaw Indians Reservation and the population is 76% Choctaw."
+    },
+    {
+      "cityName": "Conehatta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community takes its name from Conehatta Creek."
+    },
+    {
+      "cityName": "Corinth",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies on the state line with Tennessee."
+    },
+    {
+      "cityName": "Crosby",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 242 at the 2020 census."
+    },
+    {
+      "cityName": "Cruger",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 268."
+    },
+    {
+      "cityName": "De Kalb",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "De Kalb is named after General Johann de Kalb, a Franconian-French military officer who served as a major general in the Continental Army during the American Revolutionary War."
+    },
+    {
+      "cityName": "Decatur",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This town is named after war hero Stephen Decatur Junior"
+    },
+    {
+      "cityName": "Diamondhead",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In February 2012, Diamondhead was officially incorporated as a city."
+    },
+    {
+      "cityName": "Diamondhead",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the 2020 USA decennial census, the city population was 9529."
+    },
+    {
+      "cityName": "Doddsville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was established by Daniel Doddsman Senior in 1889."
+    },
+    {
+      "cityName": "Drew",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Drew is in the vicinity of several plantations and the Mississippi State Penitentiary, a Mississippi Department of Corrections prison for men."
+    },
+    {
+      "cityName": "Drew",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is noted for being the site of several racist murders, including the lynching of Joe Pullen in 1923 and of Emmett Till in 1955."
+    },
+    {
+      "cityName": "Duck Hill",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Lucie E. Campbell Gospel and Heritage Festival takes place each summer in Duck Hill."
+    },
+    {
+      "cityName": "Duck Hill",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Duck Hill is located on U S Route 51, midway between Grenada and Winona."
+    },
+    {
+      "cityName": "Duck Hill",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Big Bogue Creek flows east and north of the town."
+    },
+    {
+      "cityName": "Duncan",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 276."
+    },
+    {
+      "cityName": "Durant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1858 as a station on the Mississippi Central Railroad, later part of the Illinois Central."
+    },
+    {
+      "cityName": "Durant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Durant was named for Louis Durant, a Choctaw chief who had lived on this site before the United States undertook Indian Removal in the 1830s, forcing him and most of the Choctaw to Indian Territory west of the Mississippi River."
+    },
+    {
+      "cityName": "Durant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A dozen mineral springs resorts were identified in the Works Progress Administration (WPA) Guide to Mississippi (1938), written during the Great Depression."
+    },
+    {
+      "cityName": "Durant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "About 3 miles away is the Castalian Springs Hotel, believed in 2020 to be the only surviving such spa structure in the state."
+    },
+    {
+      "cityName": "Durant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Such springs were believed to have healing properties."
+    },
+    {
+      "cityName": "Ecru",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ecru is home to the largest upholstered furniture plant in the world which manufactures Ashley Furniture."
+    },
+    {
+      "cityName": "Eden",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 Census, the population was 133."
+    },
+    {
+      "cityName": "Ellisville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Jones County Courthouse is located here, as is much of the county government."
+    },
+    {
+      "cityName": "Ellisville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The state legislature authorized a second county seat at Laurel, to the northeast, which developed as the center of lumber and textile mills, with a much larger population."
+    },
+    {
+      "cityName": "Falkner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for William Clark Falkner, the great-grandfather of author William Faulkner."
+    },
+    {
+      "cityName": "Flora",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Flora Mann Jones, an early resident."
+    },
+    {
+      "cityName": "Florence",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 Census, the population was 4141."
+    },
+    {
+      "cityName": "Flowood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Jackson, Flowood is part of the Jackson Metropolitan Statistical Area, and is located northeast of the state capital."
+    },
+    {
+      "cityName": "Foxworth",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 523."
+    },
+    {
+      "cityName": "Friars Point",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the Mississippi River, Friars Point was once a busy port town, and remains the only place in Coahoma County with public access to the river's shore."
+    },
+    {
+      "cityName": "Friars Point",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 896."
+    },
+    {
+      "cityName": "Gautier",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2002, Gautier had annexed land more than doubling its area."
+    },
+    {
+      "cityName": "Gautier",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The natural environment of Gautier offers many opportunities for recreation and eco-tourism."
+    },
+    {
+      "cityName": "Gautier",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Gulf Coast region, of which Gautier is a part, has been considered a relatively high growth area of the state; however, the loss of houses and jobs after Hurricane Katrina on August 29, 2005, led to outmigration in 2006."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Two sites near Georgetown are listed on the National Register of Historic Places: the Highway 28 bridge over the Pearl River, about a mile east of Georgetown, and the Alford-Little House, off Highway 27 south of town."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With its eastern border formed by the Pearl River, it is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Golden",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village's current mayor is Davy Ginn."
+    },
+    {
+      "cityName": "Goodman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 1258."
+    },
+    {
+      "cityName": "Gore Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gore Springs is approximately 12 miles (19 km) east of Grenada on Mississippi Highway 8."
+    },
+    {
+      "cityName": "Gore Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although an unincorporated community, Gore Springs has a post office and a zip code of 38929."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first European-American settlement in the area was established in 1834 next to the Yazoo River."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A nearby settlement was founded by Chief Greenwood Leflore."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Railroads built in the 1880s bolstered the local economy, especially the cotton business."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of to the 2010 census, the population was 15205."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city was incorporated as \"Greenwood\" in 1844."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It became a center of cotton planting in the 19th century, as it is located in the fertile Mississippi delta, and became a port for shipping cotton to markets along the Mississippi."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In the first half of the 20th century, Cotton growing and processing became largely mechanized, reducing the need for sharecroppers and farmerworkers."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Later in the 20th century, some farmers shifted to corn and soybeans."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Sally Humphreys Gwin planted 1000 oak trees along the city's Grand Boulevard."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Stokely Carmichael gave his \"Black Power\" speech in Greenwood in 1966."
+    },
+    {
+      "cityName": "Grenada",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1836, the population was 13092 at the 2010 census."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1887 by William H. Hardy as a terminus for the Gulf and Ship Island Railroad, the city was further developed by Philadelphia oil tycoon Joseph T. Jones, who funded the railroad, harbor, and channel dredging."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "By the early 20th century, Gulfport had become the largest lumber export city in the United States, though this faded with the depletion of Mississippi's Piney Woods."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The largest sectors of Gulfport's economy include military operations, tourism, healthcare, and maritime commerce."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city transitioned into tourism through its white beaches, grand hotels, and significant casino gaming operations."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is home to the Naval Construction Battalion Center, Gulfport Combat Readiness Training Center, and Mississippi Gulf Coast Community College."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It had a population of 72926 at the 2020 census, making it the second-most populous city in Mississippi after Jackson."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Gulfport lies along the Gulf Coast of the United States in southern Mississippi, taking its name from its port on the Gulf Coast on the Mississippi Sound."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Gulfport emerged from two earlier settlements, Mississippi City and Handsboro."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The city was officially incorporated in 1898."
+    },
+    {
+      "cityName": "Gulfport",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The Port of Gulfport serves as one of the busiest ports in the Gulf of Mexico, while Gulfport-Biloxi International Airport provides commercial air service to the region."
+    },
+    {
+      "cityName": "Gunnison",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 295."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 404."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hattiesburg's population first expanded as a center of the lumber and railroad industries, from which was derived the nickname \"The Hub City\"."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hattiesburg is a prominent university town, home to the University of Southern Mississippi (founded as Mississippi Normal College, for the training of teachers) and William Carey University (formerly William Carey College)."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "South of Hattiesburg is Camp Shelby, the largest US National Guard training base east of the Mississippi River, which hosts up to 100000 National Guardsmen and Reservists annually."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Development of the interior of Mississippi took place primarily after the American Civil War."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Founded in 1882 by civil engineer William H. Hardy, Hattiesburg was named in honor of Hardy's wife Hattie."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Before that time, only properties along the major rivers were developed as plantations."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city population was 48730 in 2020, making it the 5th most populous city in Mississippi."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city is the anchor of the Pine Belt region."
+    },
+    {
+      "cityName": "Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The town was incorporated two years later with a population of 400."
+    },
+    {
+      "cityName": "Hazlehurst",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its economy is based on agriculture, particularly tomatoes and cabbage."
+    },
+    {
+      "cityName": "Hernando",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The county courthouse is located within Hernando's historic downtown square."
+    },
+    {
+      "cityName": "Hernando",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "U S Route 51 and the I-55 freeway traverse the city from north to south, and the I-69 freeway crosses the city from east to west."
+    },
+    {
+      "cityName": "Hickory",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after Andrew Jackson, who was nicknamed \"Old Hickory.\""
+    },
+    {
+      "cityName": "Holcomb",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census the community had a population of 600."
+    },
+    {
+      "cityName": "Hollandale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 2323 at the 2020 census."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city has several National Register of Historic Places-listed properties and historic districts, including the Southwest Holly Springs Historic District, Holly Springs Courthouse Square Historic District, Depot-Compress Historic District, and East Holly Springs Historic District."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After the Civil War, many freedmen continued to work in agriculture as sharecroppers and tenant farmers."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As the county seat, Holly Springs is a center of trade and court sessions."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the population was 6968, down from 7699 in 2010."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Along with the Mississippi Delta, in the 19th century, the area was developed for cotton plantations."
+    },
+    {
+      "cityName": "Holly Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Hillcrest Cemetery contains the graves of five Confederate generals and has been called \"Little Arlington of the South\"."
+    },
+    {
+      "cityName": "Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1904 to take advantage of a railway line of the Gulf and Ship Island Railroad."
+    },
+    {
+      "cityName": "Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Started around a fur trading post prior to 1794, Old Houlka is the oldest surviving settlement in north Mississippi."
+    },
+    {
+      "cityName": "Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Residents moved their buildings over from the original settlement, now referred to as \"Old Houlka\", located to the west."
+    },
+    {
+      "cityName": "Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 19th century, much of the land was developed for cotton plantations and the market town did good business."
+    },
+    {
+      "cityName": "Inverness",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As the town had the largest cotton gin in the Mississippi Delta, it served as a gathering place for farmers from the region when they brought their cotton for processing."
+    },
+    {
+      "cityName": "Inverness",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was heavily damaged by a tornado in 1971."
+    },
+    {
+      "cityName": "Isola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 713 at the 2010 census, down from 768 at the 2000 census."
+    },
+    {
+      "cityName": "Itta Bena",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's name is derived from the Choctaw phrase iti bina, meaning \"forest camp\"."
+    },
+    {
+      "cityName": "Itta Bena",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It developed as a trading center of an area of cotton plantations."
+    },
+    {
+      "cityName": "Iuka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodall Mountain, the highest point in Mississippi, is located just south of Iuka."
+    },
+    {
+      "cityName": "Iuka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 3028 at the 2010 census."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1821 as the new state capital for Mississippi, Jackson is named after General Andrew Jackson, a war hero in the Battle of New Orleans during the War of 1812 and subsequently the seventh U S president."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Following the Battle of Vicksburg, which was fought 45 miles west of Jackson during the American Civil War in 1863, Union forces commanded by General William Tecumseh Sherman launched the siege of Jackson and set the city on fire."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Other notable locations are the Mississippi Coliseum and the Mississippi Veterans Memorial Stadium, home of the Jackson State Tigers football team."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city had a population of 153701 at the 2020 census, a decline of 11.42% from 173514 since the 2010 census, representing the largest decline in population during the decade of any major U S city."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has had numerous musicians prominent in blues, gospel, folk, and jazz."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city has a number of museums and cultural institutions, including the Mississippi Children's Museum, Mississippi Museum of Natural Science, Mississippi Civil Rights Museum, Mississippi Museum of Art, Old Capital Museum, Museum of Mississippi History."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city sits on the Pearl River and is located in the greater Jackson Prairie region of Mississippi."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Jackson is the capital and most populous city of the U S state of Mississippi."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Along with Raymond, Jackson is one of two county seats for Hinds County."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "During the 1920s, Jackson surpassed Meridian to become the most populous city in the state following a speculative natural gas boom in the region."
+    },
+    {
+      "cityName": "Jonestown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 962."
+    },
+    {
+      "cityName": "Kilmichael",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 639."
+    },
+    {
+      "cityName": "Kosciusko",
+      "state": "MS",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Oprah Winfrey was born in Kosciusko."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The nearly abandoned Mississippi Central Railroad runs through Lamar, and is only used rarely for freight trafficking."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first named as a CDP in the 2020 Census which listed a population of 39."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel is home to the Lauren Rogers Museum of Art, Mississippi's oldest art museum, established by the family of Lauren Eastman Rogers."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Laurel is the principal city of a micropolitan statistical area named for it."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city had a population of 17161."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Laurel is northeast of Ellisville, the first county seat, which contains the first county courthouse."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has the second county courthouse, as Jones County has two judicial districts."
+    },
+    {
+      "cityName": "Laurel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Its major employers include Howard Industries, Sanderson Farms, Masonite International, Family Health Center, Howse Implement, Thermo-Kool, and South Central Regional Medical Center."
+    },
+    {
+      "cityName": "Leakesville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is served by the junction of Mississippi routes 57 and 63."
+    },
+    {
+      "cityName": "Lena",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The center of population of Mississippi is located in Lena."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The county was organized in 1833 and the city in 1836."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The estimated population in 2018 was 1496."
+    },
+    {
+      "cityName": "Lexington",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It has declined from its high of 3198 in 1950 due to the expansion of industrial-scale agriculture."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eleven sites in or near Liberty are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Liberty celebrates its Heritage Days Festival during the first weekend of each May."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Air Cruisers manufacturing plant is located in Liberty."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Owned by Zodiac Aerospace, the plant produces evacuation slides, life rafts, and life vests for the aviation industry."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town can be accessed via I-55, then west on Mississippi Highway 24."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "McGehee Air Park is located about a mile west of town."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies along Little Rock Creek and Mississippi Highway 494 between Union and Meridian."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The elevation is 440 ft (130 m)."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was the former site of Beulah Hubbard High School."
+    },
+    {
+      "cityName": "Little Rock",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A post office under the name Little Rock first began operation in 1914."
+    },
+    {
+      "cityName": "Long Beach",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a population of 15829."
+    },
+    {
+      "cityName": "Lorman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lorman is approximately 8 miles (13 km) north of Fayette, near Highway 61 on Mississippi Highway 552."
+    },
+    {
+      "cityName": "Louin",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "On June 18, 2023, the town was hit by a destructive EF3 tornado causing 1 death."
+    },
+    {
+      "cityName": "Lula",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 204."
+    },
+    {
+      "cityName": "Lyon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 296."
+    },
+    {
+      "cityName": "Marion",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a northeastern suburb of Meridian, the county seat."
+    },
+    {
+      "cityName": "Marks",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city population was 1444."
+    },
+    {
+      "cityName": "Mayersville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once the trading center for the county, the town was superseded when railroads were built into the area."
+    },
+    {
+      "cityName": "McComb",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is approximately 80 miles (130 km) south of Jackson."
+    },
+    {
+      "cityName": "McComb",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the city had a total population of 12790."
+    },
+    {
+      "cityName": "Meadville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to a chess center, covered in 60 Minutes story aired March 26, 2017, involving chess coach Jeff Bulington."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Memphis was a village in DeSoto County, Mississippi, United States."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2004, the village of Memphis officially became part of the town of Walls."
+    },
+    {
+      "cityName": "Mendenhall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mendenhall is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The park is also home to the Highland Park Dentzel Carousel, a National Historic Landmark."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "During the Civil War, General William Tecumseh Sherman burned much of the city to the ground in the Battle of Meridian (February 1864)."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Highland Park houses a museum which displays memorabilia of his life and career, as well as railroad equipment from the steam-engine era."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It became the largest city in Mississippi between 1890 and 1930, and a leading center for manufacturing in the South, with 44 trains arriving and departing daily."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Among the city's many arts organizations and historic buildings are the Riley Center, the Meridian Museum of Art, Meridian Little Theatre, and the Meridian Symphony Orchestra."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Jimmie Rodgers, the \"Father of Country Music\", was born in Meridian."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Established in 1860, at the junction of the Mobile and Ohio Railroad and Southern Railway of Mississippi, Meridian built an economy based on the railways and goods transported on them, and it became a strategic trading center."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Although the economy slowed with the decline of the railroad industry, the city has diversified, with healthcare, military, and manufacturing employing the most people in 2010."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Ochsner Rush Health is the largest non-military employer in the region, employing 2610 people."
+    },
+    {
+      "cityName": "Meridian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Key Field is named after brothers Fred and Al Key, who set a world endurance flight record in 1935."
+    },
+    {
+      "cityName": "Merigold",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Merigold (sometimes misspelled as Marigold or Merrigold) is a town in Bolivar County, Mississippi, United States."
+    },
+    {
+      "cityName": "Merigold",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 379."
+    },
+    {
+      "cityName": "Metcalfe",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The county is located on the western border of the state, with the Mississippi River on the west."
+    },
+    {
+      "cityName": "Metcalfe",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is within the Mississippi Delta."
+    },
+    {
+      "cityName": "Mississippi State",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the official designated name for the area encompassing Mississippi State University, which lies partly in the nearby incorporated municipality of Starkville."
+    },
+    {
+      "cityName": "Mississippi State",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "United States Postal Service designation is \"Mississippi State, Mississippi 39762\"."
+    },
+    {
+      "cityName": "Mize",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of the Mississippi Watermelon Festival."
+    },
+    {
+      "cityName": "Mooreville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census the population was 650."
+    },
+    {
+      "cityName": "Moorhead",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 2405."
+    },
+    {
+      "cityName": "Moorhead",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This dropped in 2022 and the population recorded was 1512."
+    },
+    {
+      "cityName": "Moss Point",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Moss Point Historic District and several individual buildings are listed on the National Register of Historic Places' Jackson County listings."
+    },
+    {
+      "cityName": "Mound Bayou",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mound Bayou Historic District is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Mound Bayou",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Mound Bayou has a 96.8% African-American majority population in 2020, one of the largest of any community in the United States."
+    },
+    {
+      "cityName": "Mound Bayou",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was founded as an independent black community in 1887 by former slaves led by Isaiah Montgomery."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Pleasant (or Mt."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community has a volunteer fire department on Boswell Road, and a K-12 school located off Highway 72."
+    },
+    {
+      "cityName": "Mount Pleasant",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was first named as a CDP in the 2020 Census, which listed a population of 293."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for the Natchez people, who with their ancestors, inhabited much of the area from the 8th century AD through the French colonial period."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the Mississippi River across from Vidalia, Louisiana, Natchez was a prominent city in the antebellum years, a center of cotton planters and Mississippi River trade."
+    },
+    {
+      "cityName": "Natchez",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Natchez is approximately 90 miles (140 km) southwest of the capital of Jackson and 85 miles (137 km) north of Baton Rouge, Louisiana, located on the lower Mississippi River."
+    },
+    {
+      "cityName": "Nettleton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1888, the town was named after George Henry Nettleton, president of the Kansas City, Memphis and Birmingham Railroad (KCM&B)."
+    },
+    {
+      "cityName": "New Albany",
+      "state": "MS",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "William Faulkner was born in New Albany."
+    },
+    {
+      "cityName": "New Albany",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 United States census, the population was 7626."
+    },
+    {
+      "cityName": "New Augusta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Augusta is located about two miles south of \"Old\" Augusta, which was the county seat until 1906."
+    },
+    {
+      "cityName": "New Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1904 to take advantage of a railway line of the Gulf and Ship Island Railroad."
+    },
+    {
+      "cityName": "New Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Started around a fur trading post prior to 1794, Old Houlka is the oldest surviving settlement in north Mississippi."
+    },
+    {
+      "cityName": "New Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Residents moved their buildings over from the original settlement, now referred to as \"Old Houlka\", located to the west."
+    },
+    {
+      "cityName": "New Houlka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the 19th century, much of the land was developed for cotton plantations and the market town did good business."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its historic and secluded down town area, with streets lined by live oak trees, is home to several art galleries, shops, restaurants, and bars."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has a reputation as an arts community and is a popular tourist destination."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town hosts several festivals throughout the year, including its Peter Anderson Festival, one of the Southeast's premiere arts and crafts festivals."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Ocean Springs was the home town of the late Walter Inglis Anderson, a nationally renowned painter and muralist who drew inspiration from the natural coastal landscape and nearby barrier islands."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ocean Springs was severely damaged on August 29, 2005, by Hurricane Katrina, which destroyed many buildings along the shoreline, including the Ocean Springs Yacht Club, and the wooden replica of Fort Maurepas, and a local business owned by Luke Smith."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Katrina's 28 ft (8.5 m) storm surge also destroyed the Biloxi Bay Bridge, which connected Biloxi to Ocean Springs."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town was voted as a top 10 Happiest Seaside Town by Coastal Living in 2015 and was also voted as a top 10 Best Coastal Small Town by USA Today in 2022."
+    },
+    {
+      "cityName": "Ocean Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "A new bridge was constructed and opened on November 1, 2007."
+    },
+    {
+      "cityName": "Okolona",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a large furniture industry and the Wilson Park resort."
+    },
+    {
+      "cityName": "Olive Branch",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Memphis, Olive Branch is part of the Memphis Metropolitan Statistical Area, a region that consists of three counties in southwest Tennessee, five counties in northwest Mississippi, and one county in eastern Arkansas."
+    },
+    {
+      "cityName": "Olive Branch",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with other rapidly growing places in DeSoto County, Olive Branch attributes most of its growth and development to the exodus of large numbers of families from the city of Memphis."
+    },
+    {
+      "cityName": "Osyka",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The peak of its population was in 1910."
+    },
+    {
+      "cityName": "Pace",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after James Henry Pace, a planter and land owner in the region."
+    },
+    {
+      "cityName": "Pace",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 183."
+    },
+    {
+      "cityName": "Pascagoula",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 22010 at the 2020 census, down from 22392 at the 2010 census and 26200 at the 2000 census."
+    },
+    {
+      "cityName": "Pascagoula",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is served by three airports: Mobile Regional Airport, 34 miles (55 km) to the northeast in Alabama; Gulfport-Biloxi International Airport, about 40 miles (64 km) west of Pascagoula; and the Trent Lott International Airport, 9 miles (14 km) to the north in Jackson County."
+    },
+    {
+      "cityName": "Pascagoula",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Amtrak service also began serving the city when the Mardi Gras Service debuted on August 18, 2025."
+    },
+    {
+      "cityName": "Pelahatchie",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's population was 1334 at the 2010 census."
+    },
+    {
+      "cityName": "Perkinston",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is part of the Gulfport\u2013Biloxi, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Picayune",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Stennis Space Center is 10 miles (16 km) away."
+    },
+    {
+      "cityName": "Picayune",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Picayune is part of the New Orleans\u2013Metairie\u2013Hammond combined statistical area."
+    },
+    {
+      "cityName": "Pickens",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 920."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Treaty of Pontotoc Creek, part of U S president Andrew Jackson's Indian Removal policy, ceded millions of acres of Native American lands and relocated the Chicakasaw west of the Mississippi River."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pontotoc is a Chickasaw word that means, \u201cLand of the Hanging Grapes.\u201d A section of the city largely along Main Street and Liberty Street has been designated the Pontotoc Historic District and is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Pontotoc",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Treaty of Pontotoc Site is also listed on the National Register."
+    },
+    {
+      "cityName": "Poplarville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census, the city population was 2894."
+    },
+    {
+      "cityName": "Poplarville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It hosts an annual Blueberry Jubilee, which includes rides, craft vendors and rodeos."
+    },
+    {
+      "cityName": "Prentiss",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prentiss is located on the Longleaf Trace, Mississippi's first recreational rail trail."
+    },
+    {
+      "cityName": "Preston",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its elevation is 541 feet (165 m)."
+    },
+    {
+      "cityName": "Puckett",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population was 342."
+    },
+    {
+      "cityName": "Purvis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Town of Purvis was incorporated on February 25, 1888 and was founded by and named after Thomas Melville Purves, originally of Marion County, Alabama."
+    },
+    {
+      "cityName": "Purvis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Purves, born March 8, 1820, was a second generation Scottish-American; his grandfather emigrated to Charleston, South Carolina in 1765."
+    },
+    {
+      "cityName": "Raleigh",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named for English explorer Sir Walter Raleigh, Raleigh has been home to such Mississippians as Governor Robert Lowry, Governor/U S Senator Anselm McLaurin and pioneer William H. Hardy."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Randolph is located along Mississippi Highway 9."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first named as a CDP in the 2020 Census."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Raymond is one of two county seats of Hinds County (along with Jackson) and is the home of the main campus of Hinds Community College."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the city population was 1933; in 2020, its population was 1960."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Raymond is part of the Jackson metropolitan statistical area."
+    },
+    {
+      "cityName": "Red Banks",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census, which reported a population of 215."
+    },
+    {
+      "cityName": "Renova",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was founded by African Americans and remains predominantly African American."
+    },
+    {
+      "cityName": "Renova",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 676."
+    },
+    {
+      "cityName": "Richland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A suburb of Jackson, Richland is part of the Jackson Metropolitan Statistical Area, and is located southeast of the state capital."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area is known as the birthplace of the hill country blues."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ripley is located in the Hills region of North Mississippi, an important region for the birth of American music."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Colonel William Clark Falkner, great-grandfather of authors William Faulkner and John Faulkner, was a prominent resident of Ripley in the mid to late-19th century."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "W C Falkner's exploits in and around Ripley served as the model for Faulkner's character of Colonel John Sartoris."
+    },
+    {
+      "cityName": "Robinsonville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The use of the name \"Tunica\" by the resorts led to the alternative name of Tunica Resorts to make it easier for tourists to find the destination."
+    },
+    {
+      "cityName": "Robinsonville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community is situated mostly between the Mississippi River and U S Route 61, along the border with Arkansas."
+    },
+    {
+      "cityName": "Rolling Fork",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population of the town was 1883."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in an agricultural area, the city had a stop on the Yazoo and Mississippi Valley Railroad, which carried many migrants north out of the area in the first half of the 20th century."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Rosedale population was 1873 at the 2010 census, down from 2414 in 2000."
+    },
+    {
+      "cityName": "Roxie",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This rural town developed with the construction of railroads in the area."
+    },
+    {
+      "cityName": "Roxie",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "About 2/3 of its population is African American and 1/3 white."
+    },
+    {
+      "cityName": "Saltillo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1849, the population was 4922 at the 2020 Census."
+    },
+    {
+      "cityName": "Sarah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sarah is located approximately 5 miles (8.0 km) south of Savage and 3 miles (4.8 km) north of Askew along Mississippi Highway 3."
+    },
+    {
+      "cityName": "Sarah",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Although an unincorporated community, Sarah has a post office and a zip code of 38665."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sardis is one of two county seats for Panola County; the other is Batesville, on the south side of the Tallahatchie River."
+    },
+    {
+      "cityName": "Sardis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 1748."
+    },
+    {
+      "cityName": "Satartia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the east bank of the Yazoo River, Satartia was once a thriving river port, and is one of the oldest non-Native settlements in Yazoo County."
+    },
+    {
+      "cityName": "Satartia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 Census, the population was 41, Mississippi's smallest incorporated municipality by population."
+    },
+    {
+      "cityName": "Scooba",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1858, the population was 744 as of the 2020 Census."
+    },
+    {
+      "cityName": "Seminary",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Okatoma Creek, part of the Pascagoula River watershed, runs through Seminary, and is popular for canoeing and kayaking."
+    },
+    {
+      "cityName": "Senatobia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Senatobia is home to Northwest Mississippi Community College, a state community college providing two-year academic and technical degree programs."
+    },
+    {
+      "cityName": "Senatobia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Also located in Senatobia is the Baddour Center, a residential care facility for intellectually disabled adults."
+    },
+    {
+      "cityName": "Shannon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shannon is located on Mississippi Highway 145, west of U S Route 45."
+    },
+    {
+      "cityName": "Shannon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Chiwapa Creek flows south of the town."
+    },
+    {
+      "cityName": "Shaw",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name was derived from an old Indian tribe northeast of this region."
+    },
+    {
+      "cityName": "Shelby",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Shelby was established in 1853 by Tom Shelby, who had purchased a block of land there from the federal government."
+    },
+    {
+      "cityName": "Shubuta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Developed around an early 19th-century trading post on the Chickasawhay River, it was built near a Choctaw town."
+    },
+    {
+      "cityName": "Shubuta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Shubuta is a Choctaw word meaning \"smokey water\"."
+    },
+    {
+      "cityName": "Shuqualak",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Three locations in Shuqualak, including most of the downtown area, are included on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Shuqualak",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 399."
+    },
+    {
+      "cityName": "Shuqualak",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "That is down from 501 from the 2010 census."
+    },
+    {
+      "cityName": "Silver Creek",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The film Jesse James' Women (1954) was filmed in Silver Creek."
+    },
+    {
+      "cityName": "Silver Creek",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Silver Creek is accessed from U S Route 84 and Mississippi Highway 43."
+    },
+    {
+      "cityName": "Sledge",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a total population of 368."
+    },
+    {
+      "cityName": "Sontag",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located near the former Mississippi Central Railroad (later purchased by the Illinois Central Railroad and the line was purchased by current owner, the Canadian National Railway)."
+    },
+    {
+      "cityName": "Sontag",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1900, the population was 25."
+    },
+    {
+      "cityName": "Soso",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paul Davis, a singer and songwriter from Meridian, Mississippi, wrote a song called \"Sweet Magnolia Blues\", which refers to Soso."
+    },
+    {
+      "cityName": "Southaven",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 census reported a population of 54648, making it the 3rd most populous city in Mississippi and the largest suburb of Memphis by population."
+    },
+    {
+      "cityName": "Southaven",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Southaven surpassed Bartlett, TN as largest suburb with a population of 56851 according to 2023 census estimates."
+    },
+    {
+      "cityName": "Southaven",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Southaven is traversed north to south by the I-55/I-69 freeway."
+    },
+    {
+      "cityName": "Southaven",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's name derives from the fact that Southaven is located south of Whitehaven, a neighborhood in Memphis."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The expansion of the university transformed Starkville from a primarily agricultural center into a college town, and its economy today is mostly centered around advanced research and manufacturing, retail, and tourism supported by the university population."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Founded in 1831, the city was originally known as Boardtown for the local sawmilling operation there, but was renamed in 1837 to honor American Revolutionary War general John Stark."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Cotton District, developed in the 1960s as North America's first New Urbanist community, is an active student quarter located between downtown Starkville and the university campus."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Starkville is adjacent to and closely associated with Mississippi State University, which was founded as the state's flagship land-grant research university in 1878."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The university was located near Starkville in the Mississippi Black Belt due to the region's agricultural productivity, particularly in the timber, cattle, and dairying industries."
+    },
+    {
+      "cityName": "Starkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of the 2020 United States census, Starkville's population is 24360, making it the 16th-most populated city in Mississippi."
+    },
+    {
+      "cityName": "Steens",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Steens is located northeast of Columbus."
+    },
+    {
+      "cityName": "Stringer",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It lies at the intersections of State Highways 15 and County Road 10, just north of Mississippi State Highway 533, between Bay Springs and Laurel."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sturgis annually hosts \"The Rally\", an all-bike motorcycle rally, also known as the Little Sturgis Rally."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to Scott Smith, former mayor of Sturgis, in 2005 around 20000 visitors attended that year's rally."
+    },
+    {
+      "cityName": "Sturgis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The most recent was in August 2024, there was a 2 year hiatus in 2020-2021 due to COVID-19 concerns."
+    },
+    {
+      "cityName": "Summit",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the birthplace of the \"Summit Trio\", a group of three women artists in the 1960s."
+    },
+    {
+      "cityName": "Summit",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town originated as a railroad town and was named Summit because it was thought to be the highest point on the Illinois Central Railroad between New Orleans and Jackson, Tennessee."
+    },
+    {
+      "cityName": "Summit",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, nearby Brookhaven has that distinction."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "They were designated part of Emmett Till and Mamie Till-Mobley National Monument in 2023."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The other county seat is Charleston, located east of the river."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sumner is one of the two county seats of Tallahatchie County."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Charleston was the first county seat, as settlement came from the east, and it is the larger of the two towns."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The courthouse has been restored."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It also houses the Emmett Till Interpretive Center, which opened in 2012 in his honor."
+    },
+    {
+      "cityName": "Tchula",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A 2015 article in The Guardian described it as the poorest community in the United States."
+    },
+    {
+      "cityName": "Terry",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Thyatira",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thyatira is home to two of the oldest Churches of Christ on record in the state, both of which bear the same name: Thyatira Church of Christ."
+    },
+    {
+      "cityName": "Thyatira",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The main thoroughfare is Mississippi Highway 4."
+    },
+    {
+      "cityName": "Tillatoba",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holly Springs National Forest is to the east."
+    },
+    {
+      "cityName": "Tillatoba",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Agricultural products produced by the town include cotton, corn, poultry, cattle, and timber."
+    },
+    {
+      "cityName": "Toccopola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town took its name from an old Indian village which once stood in the area; its name in turn is derived from the Chickasaw language purported to mean \"dismal prairie\"."
+    },
+    {
+      "cityName": "Toomsuba",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after Toomsuba Creek."
+    },
+    {
+      "cityName": "Toomsuba",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 778 as of the 2020 census."
+    },
+    {
+      "cityName": "Tremont",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1852."
+    },
+    {
+      "cityName": "Tunica",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Until the early 1990s when casino gambling was introduced in the area, Tunica had been one of the most impoverished places in the United States."
+    },
+    {
+      "cityName": "Tunica",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Despite this economic improvement, Tunica's population continues to decline from its peak in 1970."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Elvis Presley was born in Tupelo."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tupelo has a deep connection to Mississippi's music history, being known as the birthplace of Elvis Presley."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On February 7, 1934, Tupelo became the first city to receive power from the Tennessee Valley Authority, thus giving it the nickname \"The First TVA City\"."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is home to multiple art and cultural institutions, including the Elvis Presley Birthplace and the 10000-seat Cadence Bank Arena, the largest multipurpose indoor arena in Mississippi."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Founded in 1860, the population was 37923 at the 2020 census."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The area had earlier been settled as \"Gum Pond\" along the Mobile and Ohio Railroad."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Following electrification, Tupelo boomed as a regional manufacturing and distribution center and was once considered a hub of the American furniture manufacturing industry."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Although many of Tupelo's manufacturing industries have declined since the 1990s, the city has continued to grow due to strong healthcare, retail, and financial service industries."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It is the seventh-most populous city in Mississippi and is considered a commercial, industrial, and cultural hub of northern Mississippi."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Tupelo was incorporated in 1870."
+    },
+    {
+      "cityName": "Tupelo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Much of the city was devastated by a major tornado in 1936 that still ranks as one of the deadliest tornadoes in American history."
+    },
+    {
+      "cityName": "Tylertown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 1515 at the 2020 census."
+    },
+    {
+      "cityName": "University",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The University CDP is an enclave surrounded by the city of Oxford, west of its downtown area."
+    },
+    {
+      "cityName": "University",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The CDP is surrounded by the city of Oxford."
+    },
+    {
+      "cityName": "Utica",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Utica is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Vardaman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's population was 1316 at the time of the 2010 United States census."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the American Civil War, it was a key Confederate river-port, and its July 1863 surrender to Ulysses S. Grant, along with the concurrent Battle of Gettysburg, marked the turning-point of the war."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area that is now Vicksburg was long occupied by the Natchez as part of their historical territory along the Mississippi."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located on a high bluff on the east bank of the Mississippi River across from Louisiana, Vicksburg was built by French colonists in 1719."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The first Europeans who settled the area were French colonists who built Fort Saint Pierre in 1719 on the high bluffs overlooking the Yazoo River at present-day Redwood."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The outpost withstood an attack from the native Natchez people."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It was incorporated as Vicksburg in 1825 after Methodist missionary Newitt Vick."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "They conducted fur trading with the Natchez and others, and started plantations."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "After the war came the Reconstruction era and then a violent return to power by white supremacists in 1874 and 1875, including the Vicksburg massacre."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Today, Vicksburg's population is majority African American."
+    },
+    {
+      "cityName": "Vicksburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city is home to three large installations of the United States Army Corps of Engineers, which has often been involved in local flood control."
+    },
+    {
+      "cityName": "Walls",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 census it had a population of 1162, with an estimated population of 1463 in 2018."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located along the lower Mississippi, 6 miles (9.7 km) east of Natchez, it was the second and longest-serving capital of the Mississippi Territory."
+    },
+    {
+      "cityName": "Water Valley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Water Valley is served by the Water Valley School District."
+    },
+    {
+      "cityName": "Waterford",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was first listed as a CDP in the 2020 census, which recorded a population of 112."
+    },
+    {
+      "cityName": "Waveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city of Waveland was incorporated in 1972."
+    },
+    {
+      "cityName": "Waveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the city had a population of 6435."
+    },
+    {
+      "cityName": "Waveland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Waveland was nearly destroyed by Hurricane Camille on August 17, 1969, and by Hurricane Katrina on August 29, 2005."
+    },
+    {
+      "cityName": "West",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 153."
+    },
+    {
+      "cityName": "West",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Mayor of West, MS as of December 2020 is Michael Fancher."
+    },
+    {
+      "cityName": "West Hattiesburg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It had a decline in population from 6305 at the 2000 census to 5909 at the 2010 census."
+    },
+    {
+      "cityName": "Winona",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winona is known in the local area as \"The Crossroads\"; the intersection of U S Interstate 55 and U S Highway 51 and 82 run through here."
+    },
+    {
+      "cityName": "Winstonville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 153."
+    },
+    {
+      "cityName": "Woodland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The mayor of Woodland is Patti Watkins."
+    },
+    {
+      "cityName": "Woodville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population as of 2020 was 928."
+    },
+    {
+      "cityName": "Yazoo City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the Yazoo River, which, in turn was named by the French explorer Robert La Salle in 1682 as \"Rivi\u00e8re des Yazous\" in reference to the Yazoo tribe living near the river's mouth."
+    },
+    {
+      "cityName": "Yazoo City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to the 2010 census, the population was 11403."
+    }
+  ]
+}

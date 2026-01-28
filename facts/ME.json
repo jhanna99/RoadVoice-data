@@ -1,0 +1,5219 @@
+{
+  "facts": [
+    {
+      "cityName": "Abbot",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for the treasurer of Bowdoin College, John Abbot."
+    },
+    {
+      "cityName": "Acton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of Acton, Miller Corner and South Acton."
+    },
+    {
+      "cityName": "Acton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to the Acton Fairground, which holds the Acton Fair every late summer."
+    },
+    {
+      "cityName": "Addison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after English author Joseph Addison."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster\u2013Ashburton Treaty which ended the Aroostook War in 1838\u20131839."
+    },
+    {
+      "cityName": "Alfred",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "National Register of Historic Places has two listings in the town, the Alfred Historic District, with 48 houses, and the Alfred Shaker Historic District."
+    },
+    {
+      "cityName": "Alfred",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 3073."
+    },
+    {
+      "cityName": "Alfred",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Alfred is the seat of York County, and home to part of the Massabesic Experimental Forest."
+    },
+    {
+      "cityName": "Alfred",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Villages in the town include Alfred, Alfred Mills, and North Alfred."
+    },
+    {
+      "cityName": "Allagash",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is on the Allagash River in the North Maine Woods region."
+    },
+    {
+      "cityName": "Alna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alna is home to the Wiscasset, Waterville and Farmington Railway Museum and is noted for its historic architecture, including the early mill village of Head Tide."
+    },
+    {
+      "cityName": "Alton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is named after an Alton in England."
+    },
+    {
+      "cityName": "Andover",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Set among mountains and crossed by the Appalachian Trail, Andover is home to the Lovejoy Covered Bridge and is the site of the Andover Earth Station."
+    },
+    {
+      "cityName": "Anson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of Anson and North Anson."
+    },
+    {
+      "cityName": "Appleton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is about 15 miles inland from Penobscot Bay and coastal towns such as Camden and Rockland, about 30 miles east of the state capital of Augusta."
+    },
+    {
+      "cityName": "Arrowsic",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "During the French and Indian Wars, Arrowsic was site of a succession of important and embattled colonial settlements."
+    },
+    {
+      "cityName": "Arrowsic",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a favorite with artists and birdwatchers."
+    },
+    {
+      "cityName": "Arundel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 2014, Arundel was named \"Best Place to Live in Maine\" by Downeast Magazine."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settled in the foothills of the Western Lakes and Mountains region of the state, The city serves as the county seat of Androscoggin County."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Auburn and its sister city Lewiston are known locally as the Twin Cities or Lewiston\u2013Auburn (L\u2013A)."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Brick School House, a historic schoolhouse, is located in Aurora."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was built in 1827 and is the oldest standing public brick structure in Hancock County."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was named for the goddess of dawn."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Airline Community School (a pre-school through eighth grade school) serves the Aurora Community, as well as the communities of Great Pond, Osborn, and Amherst."
+    },
+    {
+      "cityName": "Avon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avon is home to Mount Blue, part of Mount Blue State Park."
+    },
+    {
+      "cityName": "Baileyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was originally settled by Quakers in 1780."
+    },
+    {
+      "cityName": "Baileyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1830, Ezekiel Bailey began the commercial manufacture of oilcloth."
+    },
+    {
+      "cityName": "Baileyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The business flourished and expanded until it comprised several factories, which burned down in 1921."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically Bangor was an important stopover on the Great Circle Air Route between the U S East Coast and Europe."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bangor is known as the \"Queen City\"."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Due to the city's location on the Penobscot River, logs could be floated downstream from the Maine North Woods and processed at the city's water-powered sawmills, then shipped from Bangor's port to the Atlantic Ocean 30 miles (48 km) downstream, and from there to any port in the world."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city proper has a population of 31753, making it the state's third-most populous city, behind Portland (68408) and Lewiston (37121)."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Modern Bangor was established in the mid-19th century with the lumber and shipbuilding industries."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Evidence of this is still visible in the lumber barons' elaborate Greek Revival and Victorian mansions and the 31-foot-high (9.4 m) statue of Paul Bunyan."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Today, Bangor's economy is based on services and retail, healthcare, and education."
+    },
+    {
+      "cityName": "Bangor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Bangor has a port of entry at Bangor International Airport, also home to the Bangor Air National Guard Base."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bar Harbor is also home to the largest parts of Acadia National Park, including Cadillac Mountain, the highest point within 25 miles (40 km) of the coastline of the Eastern United States."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bar Harbor (Malecite-Passamaquoddy: Man-es-ayd'ik or Ah-bays'auk) is a resort town on Mount Desert Island in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is home to the College of the Atlantic, Jackson Laboratory, and MDI Biological Laboratory."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During summer and fall seasons, it is a popular tourist destination."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, its population is 5089."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "From the mainland, Bar Harbor is accessible by road via Maine State Route 3."
+    },
+    {
+      "cityName": "Bar Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The island is directly accessible by air at Hancock County\u2013Bar Harbor Airport, and by ferry from Winter Harbor, Maine, and Yarmouth, Nova Scotia."
+    },
+    {
+      "cityName": "Baring Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The plantation is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster\u2013Ashburton Treaty which ended the Aroostook War in 1838\u20131839."
+    },
+    {
+      "cityName": "Baring Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Baring Plantation is a plantation in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is within the town of Tremont on Mount Desert Island, and near Acadia National Park."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Someone remarked, \"Name it after the president for all we care.\" The post office was named McKinley, and the village was known as McKinley until 1961, when residents petitioned to change the name back to Bass Harbor."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With its well-protected natural harbor, it ranks as one of the most lucrative lobster-producing ports in the state."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bass Harbor Head Lighthouse lies at the mouth of the harbor."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The village is also the departure point for Maine State Ferry Service transport to Swans Island and Frenchboro."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Bass Harbor was once known as McKinley."
+    },
+    {
+      "cityName": "Bass Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In the early 1900s, when a post office was built in the village, federal officials asked what the post office should be named."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is popular with tourists, many drawn by its 19th-century architecture."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the Bath Iron Works and Heritage Days Festival, held annually during the Fourth of July weekend."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is commonly known as the \"City of Ships\" due to the number of sailing ships that were built in the Bath shipyards."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bath had a 2024 population of 8870."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Bath is growing at a rate of 0.29% annually, and its population has increased by 1.21% since the most recent census, which recorded a population of 8764 in 2020."
+    },
+    {
+      "cityName": "Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Bath is part of the Portland-South Portland-Biddeford metropolitan statistical area."
+    },
+    {
+      "cityName": "Beals",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Manwarren Beal, an early settler."
+    },
+    {
+      "cityName": "Beddington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salmon migrate upstream to spawn in the town's rivers and lakes, which are part of their migration route."
+    },
+    {
+      "cityName": "Beddington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the third-smallest organized town in Maine after Frye Island and Frenchboro."
+    },
+    {
+      "cityName": "Beddington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The majority of the town consists of blueberry fields."
+    },
+    {
+      "cityName": "Belfast",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its seaport has a wealth of historic architecture in several historic districts, and remains popular with tourists."
+    },
+    {
+      "cityName": "Belfast",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located at the mouth of the Passagassawakeag River estuary on Belfast Bay and Penobscot Bay."
+    },
+    {
+      "cityName": "Belfast",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the city population was 6938."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "However, its population approximately doubles during the summer months as part-year residents return to seasonal camps on the shores of Great Pond, Long Pond and Messalonskee Lake."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Belgrade includes the villages of North Belgrade, Belgrade Depot and Belgrade Lakes (or The Village)."
+    },
+    {
+      "cityName": "Belgrade",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its population was 3250 at the 2020 census."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was originally known as Green Plantation."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The squatters who lived there would, when alerted to the impending arrival of law officers, dress as Indians and then ignore the officers."
+    },
+    {
+      "cityName": "Benton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Missouri Senator Thomas Hart Benton."
+    },
+    {
+      "cityName": "Benton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was formed in 1842, as a subdivision of the town of Clinton."
+    },
+    {
+      "cityName": "Berwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Today's South Berwick was set off from Berwick in 1814, while North Berwick was partitioned from the town in 1831."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Gould Academy, a private preparatory school, and is near the Sunday River ski resort."
+    },
+    {
+      "cityName": "Bethel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the villages of Bethel and West Bethel."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is the site of the University of New England and the annual La Kermesse Franco-Americaine Festival."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The twin cities of Saco and Biddeford include the resort communities of Biddeford Pool and Fortunes Rocks."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the principal commercial center of York County."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 22552 at the 2020 census."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "First visited by Europeans in 1616, it is the site of one of the earliest European settlements in the United States."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "It is home to Saint Joseph's Church, the tallest building in Maine."
+    },
+    {
+      "cityName": "Biddeford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Biddeford is a principal population center of the Portland-South Portland-Biddeford metropolitan statistical area."
+    },
+    {
+      "cityName": "Blue Hill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town also hosts the annual Blue Hill Fair."
+    },
+    {
+      "cityName": "Boothbay",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Five shipyards are located in the town, the largest of which is Washburn & Doughty."
+    },
+    {
+      "cityName": "Boothbay",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Boothbay surrounds the town of Boothbay Harbor, a center of summer tourist activity, and a significant part of its population does not live there year-round."
+    },
+    {
+      "cityName": "Boothbay",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It includes the neighborhoods of Back Narrows, Dover, Linekin, Oak Hill, Ocean Point, Spruce Shores, and the villages of East Boothbay and Trevett."
+    },
+    {
+      "cityName": "Bowdoin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowdoin is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Bowdoin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bowdoin is located 36 miles (58 km) north-northeast of Portland, and 28 miles (45 km) miles south-southwest of Augusta (Maine\u2019s state capital)."
+    },
+    {
+      "cityName": "Bowdoinham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowdoinham was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Bradley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Bradley is in the northwestern corner of the town."
+    },
+    {
+      "cityName": "Bremen",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on Muscongus Bay and the Gulf of Maine, it includes the villages of Broad Cove, Turners Corner, Bremen, Medomak and Muscongus."
+    },
+    {
+      "cityName": "Bremen",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hog Island is a center and camp for the Maine chapter of the National Audubon Society."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named after its first settler, Colonel John Brewer."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The two are at the head of navigation on opposite sides of the Penobscot River estuary and are connected by three bridges."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Brewer and Bangor were originally both part of Condeskeag Plantation, though the Brewer part was also called \"New Worcester\" after John Brewer's birthplace."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1788, Orrington, Maine was incorporated with Brewer/New Worcester as its major village."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The other half of Kenduskeag incorporated in 1791 as Bangor."
+    },
+    {
+      "cityName": "Brewer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Finally, in 1812, Brewer broke away from Orrington and incorporated as a separate town."
+    },
+    {
+      "cityName": "Bridgton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A resort area in Maine's Lakes Region, Bridgton is home to Bridgton Academy, a private preparatory school, and the Four on the Fourth Road Race."
+    },
+    {
+      "cityName": "Brighton Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brighton Plantation is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the Pemaquid Archeological Site, a U S National Historic Landmark."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A fishing and resort area, Bristol includes the villages of New Harbor, Pemaquid, Round Pond, Bristol Mills and Chamberlain."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "During the 17th and early 18th century, New France defined the Kennebec River as the southern boundary of Acadia, which put Bristol within Acadia."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Bristol, known from 1632 to 1765 as Pemaquid (; today a village within the town), is a town in Lincoln County, Maine, United States."
+    },
+    {
+      "cityName": "Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The village was called Pemquit by the French."
+    },
+    {
+      "cityName": "Brooks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated on December 10, 1816, and was named after John Brooks, the Federalist candidate for Governor of Massachusetts in 1815\u20131816, when the town incorporated."
+    },
+    {
+      "cityName": "Brooks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Dexter, which incorporated the same year, was named after the opposing candidate Samuel Dexter."
+    },
+    {
+      "cityName": "Brooks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Brooks' administration that Maine ceased to be a territory of Massachusetts and became a state."
+    },
+    {
+      "cityName": "Brooksville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 935."
+    },
+    {
+      "cityName": "Brooksville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains the villages of North Brooksville, South Brooksville (on Buck's Harbor), West Brooksville, Brooksville Corner, and Harborside (on Cape Rosier)."
+    },
+    {
+      "cityName": "Brownfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brownfield is home to the Stone Mountain Arts Center."
+    },
+    {
+      "cityName": "Brownville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Brownville, Knight's Landing and Brownville Junction, near which passes the 100-Mile Wilderness of the Appalachian Trail."
+    },
+    {
+      "cityName": "Brunswick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brunswick is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Brunswick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was formerly home to the U S Naval Air Station Brunswick, which was permanently closed on May 31, 2011, and has since been partially released to redevelopment as \"Brunswick Landing\"."
+    },
+    {
+      "cityName": "Buckfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buckfield is included in the Lewiston-Auburn, Maine metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Buckfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a member of Regional School Unit 10 along with nearby Hartford and Sumner."
+    },
+    {
+      "cityName": "Buckfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town had a population of 1983 as of the 2020 census."
+    },
+    {
+      "cityName": "Bucksport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bucksport is across the Penobscot River estuary from Fort Knox and the Penobscot Narrows Bridge, which replaced the Waldo\u2013Hancock Bridge."
+    },
+    {
+      "cityName": "Buxton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The old town Common is east of Union Falls, which is the location of Skelton Dam, operated by Central Maine Power, and near historic location of the original settlement at Pleasant Point."
+    },
+    {
+      "cityName": "Buxton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Buxton includes the villages of Salmon Falls/Tory Hill, Chicopee, Groveville, Bar Mills, West Buxton, and Buxton Center."
+    },
+    {
+      "cityName": "Byron",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to Coos Canyon on the Swift River, Byron includes the village of Houghton."
+    },
+    {
+      "cityName": "Calais",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 3079, making Calais the largest municipality by population in Washington County, but the third least-populous city in Maine (after Hallowell and Eastport)."
+    },
+    {
+      "cityName": "Calais",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has three Canada\u2013US border crossings (also known as ports of entry) over the St. Croix River connecting to St. Stephen, New Brunswick, Canada."
+    },
+    {
+      "cityName": "Calais",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Calais has been a city of commerce and is recognized as the primary shopping center of eastern Washington County and of Charlotte County, New Brunswick."
+    },
+    {
+      "cityName": "Calais",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Retail, service, and construction businesses are the primary components of the Calais economy."
+    },
+    {
+      "cityName": "Canton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located beside Lake Anasagunticook, Canton is a summer recreational area."
+    },
+    {
+      "cityName": "Canton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Canton is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "John Ford was born in Cape Elizabeth."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1998, it has hosted the Beach to Beacon 10K, a world-class road race which starts at Crescent Beach State Park and ends at Portland Head Light."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "One of the wealthiest towns in the state, Cape Elizabeth is the location of Portland Head Light, which is the oldest lighthouse in Maine."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cape Elizabeth High School's team name is the \"Capers\"."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford, Maine, metropolitan statistical area."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, Cape Elizabeth had a population of 9535."
+    },
+    {
+      "cityName": "Cape Elizabeth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Cape Elizabeth has a single community school department."
+    },
+    {
+      "cityName": "Caribou",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 7396 at the 2020 census."
+    },
+    {
+      "cityName": "Caribou",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is a service center for the agricultural and tourism industries, and the location of a National Weather Service Forecast Office."
+    },
+    {
+      "cityName": "Carroll Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The plantation was named for Daniel Carroll, a signatory of the United States Constitution."
+    },
+    {
+      "cityName": "Carroll Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Carroll Plantation is a plantation in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Casco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town borders the east shore of Sebago Lake, and is home to part of Sebago Lake State Park."
+    },
+    {
+      "cityName": "Casco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Casco is the home of \"Casco Days\", an annual community fair which takes place in Casco Days Park, always on the last Saturday in July."
+    },
+    {
+      "cityName": "Casco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Casco is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Casco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Casco includes the villages of Casco, South Casco and Cook Mills."
+    },
+    {
+      "cityName": "Casco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Casco is just under 30 miles (48 km) from downtown Portland."
+    },
+    {
+      "cityName": "Castine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castine is the home of Maine Maritime Academy, a four-year institution that graduates officers and engineers for the United States Merchant Marine and marine related industries."
+    },
+    {
+      "cityName": "Castine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Called Majabigwaduce by Tarrantine Abenaki Indians, Castine is one of the oldest towns in New England, predating the Plymouth Colony by seven years."
+    },
+    {
+      "cityName": "Castine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated on Penobscot Bay, it is near the site of historic Fort Pentagouet."
+    },
+    {
+      "cityName": "Castine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town is named after Jean-Vincent d'Abbadie de Saint-Castin."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Charleston includes the village of West Charleston and is home to the Higgins Classical Institute campus."
+    },
+    {
+      "cityName": "Charleston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Once a Christian school, it is now home to Faith Bible College International."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Charlotte Holland Vance (1826-1918), the daughter of legislator William Vance."
+    },
+    {
+      "cityName": "Chebeague Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chebeague Island was a part of the Town of Cumberland until July 1, 2007, when it seceded and became the Town of Chebeague Island."
+    },
+    {
+      "cityName": "Chebeague Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fifteen islands and portions of two more are part of the Town of Chebeague Island."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Togus Springs Hotel and Veterans Administration facilities."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roughly 75 acres (300000 m2) on both sides of the river are a historic district on the National Register of Historic Places known as the Cherryfield Historic District."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for the wild cherries that once peppered the banks of the river."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town population was 1107 at the 2020 census."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town bills itself as the \"Blueberry Capital of the World\"."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "This district comprises a collection of period structures dating from c."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town was first settled about 1760."
+    },
+    {
+      "cityName": "Cherryfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In 1826, the part of Steuben known as Narraguagus was annexed onto Cherryfield."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for New York Governor DeWitt Clinton."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Until 1863 it and its Washington County neighbor Columbia Falls, Maine on the Pleasant River when Columbia Falls formed its own town."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Columbia was first settled by Europeans in the 1750s."
+    },
+    {
+      "cityName": "Cooper",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after General John Cooper, a landowner."
+    },
+    {
+      "cityName": "Coplin Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coplin Plantation is a plantation in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Corinna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Corinna is in the southern part of the town."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village has a number of antique shops and restaurants near historic Thompson Park."
+    },
+    {
+      "cityName": "Cornish",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cornish is home to the first concrete bridge in North America."
+    },
+    {
+      "cityName": "Crawford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after William H. Crawford, Secretary of the Treasury."
+    },
+    {
+      "cityName": "Cumberland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cumberland is one of the wealthiest municipalities in the state."
+    },
+    {
+      "cityName": "Cushing",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A favorite of artists for its unspoiled natural setting, Cushing includes the villages of North Cushing, Cushing, South Cushing, and Pleasant Point."
+    },
+    {
+      "cityName": "Cutler",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Joseph Cutler, an early settler, who hailed from Newburyport, Massachusetts."
+    },
+    {
+      "cityName": "Cyr Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cyr Plantation (French: Plantation Cyr) is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Dallas Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dallas Plantation is a plantation in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Damariscotta",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A popular tourist destination known for its oysters, the towns of Damariscotta and Newcastle are linked by the Main Street bridge over the Damariscotta River, forming the \"Twin Villages\"."
+    },
+    {
+      "cityName": "Danforth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for proprietor Thomas Danforth."
+    },
+    {
+      "cityName": "Danforth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town contains the villages of Danforth and Eaton."
+    },
+    {
+      "cityName": "Danforth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "East Grand School is located in Danforth."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dayton borders Biddeford by land, and borders Saco on the Saco River."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dayton is one of the smallest towns in York County."
+    },
+    {
+      "cityName": "Deblois",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after T A Deblois, president of the Bank of Portland."
+    },
+    {
+      "cityName": "Dedham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the site of a Cold War airplane crash on Bald Mountain."
+    },
+    {
+      "cityName": "Deer Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Notable landmarks in Deer Isle are the Haystack Mountain School of Crafts, Stonington Opera House, and the town's many art galleries."
+    },
+    {
+      "cityName": "Denmark",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A number of ponds and lakes are located within the town."
+    },
+    {
+      "cityName": "Dennistown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dennistown Plantation (French: Plantation de Dennistown) is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Dexter",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dexter Regional High School, which serves Dexter as well as other nearby small towns, is located in the town."
+    },
+    {
+      "cityName": "Dixfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town motto of Dixfield is \"The Only One\", because it is the only town in the world to claim that name."
+    },
+    {
+      "cityName": "Dixfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dixfield is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Dixfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Doctor Elijeh Dix, a substantial landowner in the area, bought the town (and Dixmont) which bears his name."
+    },
+    {
+      "cityName": "Dresden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dresden is a town in Lincoln County, Maine, United States, that was incorporated in 1794."
+    },
+    {
+      "cityName": "Dryden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along U S Route 2, Maine State Route 4, and Maine State Route 156, 6.5 miles (10.5 km) south-southwest of Farmington."
+    },
+    {
+      "cityName": "Durham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Dyer Brook",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dyer Brook is also host to the local school, Southern Aroostook Community School."
+    },
+    {
+      "cityName": "Eagle Lake",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named by a body of troops heading from Bangor to the Aroostook War for the many eagles that they saw around the lake."
+    },
+    {
+      "cityName": "Eagle Lake",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A total of 49.0% of the population speaks French, reflecting a trend in Northeastern Maine."
+    },
+    {
+      "cityName": "East Machias",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home of Washington Academy, a private school founded in 1792."
+    },
+    {
+      "cityName": "East Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located at the junction of U S Route 202, Maine State Route 4, and Maine State Route 5."
+    },
+    {
+      "cityName": "Eastport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The principal island is Moose Island, which is connected to the mainland by a causeway."
+    },
+    {
+      "cityName": "Eddington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 2194."
+    },
+    {
+      "cityName": "Edgecomb",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Edgecomb is a Maine State Historic Site."
+    },
+    {
+      "cityName": "Edgecomb",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for George Edgcumbe, 1st Earl of Mount Edgcumbe, a supporter of the colonists."
+    },
+    {
+      "cityName": "Edgecomb",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It includes the neighborhoods of East Edgecomb, North Edgecomb, and Pools Landing."
+    },
+    {
+      "cityName": "Eliot",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eliot is home to Ambush Rock, Green Acre, and the Raitt Homestead Farm Museum."
+    },
+    {
+      "cityName": "Eliot",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally settled in 1623, it was formerly a part of Kittery, to its east."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Named after United States Founding Father Oliver Ellsworth, it contains historic buildings and other points of interest, and is close to Acadia National Park."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2020 Census determined it had a population of 8399."
+    },
+    {
+      "cityName": "Enfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There is also a large seasonal population with many cottages located on Cold Stream Pond, a lake within the town."
+    },
+    {
+      "cityName": "Eustis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eustis, which includes the village of Stratton, is a popular recreation area."
+    },
+    {
+      "cityName": "Eustis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of late 2025, the current mayor of Eustis is Willie Hawkins."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Good Will-Hinckley School, Lawrence High School and Kennebec Valley Community College."
+    },
+    {
+      "cityName": "Fairfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes Fairfield Center, Fairfield village and Hinckley, and borders the city of Waterville to the south."
+    },
+    {
+      "cityName": "Falmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A northern suburb of Portland, Falmouth borders Casco Bay and offers one of the largest anchorages in Maine."
+    },
+    {
+      "cityName": "Falmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to three private golf clubs and the Portland Yacht Club."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmington is home to the University of Maine at Farmington, Nordica Memorial Auditorium, the Nordica Homestead, and the annual Farmington Fair."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, its population was 7592."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A popular recreation spot in central Maine, Fayette is part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Fort Kent",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Kent is home to an Olympic biathlete training center, an annual CAN-AM dogsled race, and the Fort Kent Blockhouse, built in reaction to the Aroostook War and in modern times designated a national historic site."
+    },
+    {
+      "cityName": "Fort Kent",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Principal industries include agriculture (particularly potatoes and forestry) and textiles."
+    },
+    {
+      "cityName": "Fort Kent",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Kent is the northern terminus of U S 1 and the ending point of the Northern Forest Canoe Trail."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's namesake is Benjamin Franklin."
+    },
+    {
+      "cityName": "Freedom",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Freedom is a residential and recreational area."
+    },
+    {
+      "cityName": "Freeport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Once home to a prominent shipbuilding industry, timber operations, and farming, it is now known for its numerous outlet stores; Freeport is home to L L Bean, Wolfe's Neck Woods State Park, and the Desert of Maine."
+    },
+    {
+      "cityName": "Freeport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Harraseeket Historic District is in Freeport."
+    },
+    {
+      "cityName": "Freeport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Freeport is included in the Lewiston-Auburn, Maine metropolitan New England City and town area."
+    },
+    {
+      "cityName": "Frenchboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is accessible by state ferry service from Bass Harbor."
+    },
+    {
+      "cityName": "Frenchville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the general aviation airport Northern Aroostook Regional Airport, Frenchville Railroad Station and Water Tank, and Corriveau Mill."
+    },
+    {
+      "cityName": "Frenchville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Among younger generations, English and \"Valley French,\" a combination of English and French, are preferred."
+    },
+    {
+      "cityName": "Frenchville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A total of 79.3 percent of Frenchville residents are regular speakers of French, aided by its proximity to French-speaking Quebec and New Brunswick in Canada."
+    },
+    {
+      "cityName": "Friendship",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated in 1762 as \"Meduncook\"."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "All residents of the resort town are seasonal."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Sebago Lake, the island is accessed via a public car ferry from Raymond Neck, or by private boat."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Frye Island is an island town in Cumberland County, Maine, United States."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The majority of property owners hail from New England states (Maine, Massachusetts, Connecticut, Rhode Island, Vermont and New Hampshire) however there are many other states also represented on the island."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Frye Island is vacant from November through April, and the ferry does not operate during that time due to thick ice blocking its route during the winter."
+    },
+    {
+      "cityName": "Frye Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town had a population of 32 at the 2020 census."
+    },
+    {
+      "cityName": "Fryeburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fryeburg is home to Fryeburg Academy, a semi-private preparatory school, and the International Musical Arts Institute."
+    },
+    {
+      "cityName": "Fryeburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is also site of the Fryeburg Fair, which each October attracts approximately 300000 visitors."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Popular with tourists, Gardiner is noted for its culture and old architecture."
+    },
+    {
+      "cityName": "Gardiner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Gardiner is a nationally accredited Main Street America community."
+    },
+    {
+      "cityName": "Garfield Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Garfield Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a popular tourist destination."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on an island accessible by car from the mainland, Georgetown includes the villages of Five Islands, Georgetown, Bay Point, Marrtown, West Georgetown and Robinhood."
+    },
+    {
+      "cityName": "Glenburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "When originally incorporated in 1822, it was called \"Dutton\" in honor of Bangor's Samuel Dutton, a judge and founder of the Bangor Theological Seminary."
+    },
+    {
+      "cityName": "Glenburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was renamed the Town of Glenburn on March 18, 1837."
+    },
+    {
+      "cityName": "Glenwood Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenwood Plantation is a plantation located in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gorham is home to one of the three campuses of the University of Southern Maine."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 2013, Gorham was voted second-best town in Maine after Hampden by a financial website."
+    },
+    {
+      "cityName": "Gorham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Initially named Narragansett Number 7, the village was renamed Gorhamtown Plantation in honor of the famous New England Ranger John Gorham I, the great grandfather of John Gorham 4th."
+    },
+    {
+      "cityName": "Gouldsboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has many historically separate fishing villages, summer colonies and communities, including Birch Harbor, Prospect Harbor, South Gouldsboro, West Gouldsboro, Summer Harbor, Wonsqueak Harbor, Bunker's Harbor, Chicken Mill, Jones' Pond, Westbay, and Corea."
+    },
+    {
+      "cityName": "Gouldsboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for Robert Gould, a landholder in the town."
+    },
+    {
+      "cityName": "Grand Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Grand Isle is in the northwestern part of the town."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town Grand Lake Stream is named after the stream that flows through it, which is notable for its excellent landlocked salmon fishery and a fishing tradition that dates to the middle of the 19th century."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "While the year-round population of Grand Lake Stream is relatively small, there are many visitors in the spring, summer and fall for fishing, hunting, and general relaxation purpose."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Grand Lake Stream is a plantation in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It also has a long, local tradition of hand-built wooden canoes, ideal for navigating the waters of nearby West Grand Lake."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Each summer, Grand Lake Stream is also the site of a meeting of prominent American economists."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "There are a number of lodges, cabins, and guiding services available."
+    },
+    {
+      "cityName": "Grand Lake Stream",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "There is also a very active local land trust based in the middle of town, which owns and manages a large portion of the nearby forests and wetlands."
+    },
+    {
+      "cityName": "Gray",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gray is located at the intersection of state Routes 4, 26, 100, 115, 202 and the Maine Turnpike exit 63 midway between the state's two largest cities, Portland and Lewiston."
+    },
+    {
+      "cityName": "Gray",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes frontage on Little Sebago Lake, Crystal Lake, and Forest Lake."
+    },
+    {
+      "cityName": "Gray",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gray is home to regional headquarters for the Maine Department of Inland Fisheries and Wildlife (Maine Wildlife Park), which maintains a fish hatchery and wildlife park."
+    },
+    {
+      "cityName": "Gray",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "and included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Gray",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is also home to the Gray/Portland Weather Forecast Office of the NOAA's National Weather Service, which issues forecasts and weather warnings for New Hampshire and western Maine."
+    },
+    {
+      "cityName": "Great Pond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gleason Archer Senior (1880\u20131966), the founder and first president of Suffolk University in Boston, was born in Great Pond."
+    },
+    {
+      "cityName": "Great Pond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was also the author of many legal textbooks."
+    },
+    {
+      "cityName": "Greenbush",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's population was 1444 at the 2020 United States census."
+    },
+    {
+      "cityName": "Greene",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in both the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston-Auburn, Maine Metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is centered on the lower end of Moosehead Lake, the largest body of fresh water in the state."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Greenville is the historic gateway to the north country and a center for outdoor recreation in the area."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Greenville High School, with 89 students, was ranked as the third best high school in Maine and one of the top 1000 in the US in 2010."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Locke Mills, on State Route 26 in the northern part of Greenwood, is the town's urban center and largest settlement."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for surveyor Alexander Greenwood."
+    },
+    {
+      "cityName": "Guilford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is located on the Piscataquis River and was first settled in 1806."
+    },
+    {
+      "cityName": "Hallowell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Popular with tourists, Hallowell is noted for its culture and old architecture."
+    },
+    {
+      "cityName": "Hamlin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hamlin is noted for being the closest continental location in the U S to Europe; the town's northeastern corner is situated at a distance of 2508 miles (4018 km) from Achill Head in Ireland, making it the closest point in the mainland U S to Western Europe."
+    },
+    {
+      "cityName": "Hampden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hampden is part of the Bangor metropolitan statistical area."
+    },
+    {
+      "cityName": "Hancock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on the mainland at the head of Frenchman Bay, Hancock has commanding views of Mount Desert Island."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is a popular vacation and recreation area."
+    },
+    {
+      "cityName": "Harpswell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harpswell is composed of a peninsula contiguous with the rest of Cumberland County, called Harpswell Neck, as well as three large islands connected by bridges: Sebascodegan Island (locally known as Great Island), Orr's Island, and Bailey Island."
+    },
+    {
+      "cityName": "Harpswell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ninety-five smaller islands are within Harpswell's municipal borders."
+    },
+    {
+      "cityName": "Harpswell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2022, Harpswell had the highest number of active lobstering licenses in the state of Maine, at just over 250 in all."
+    },
+    {
+      "cityName": "Harrington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrington is an old seafaring and shipbuilding village."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A historic resort area, Harrison straddles Long Lake and Crystal Lake."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harrison is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Hartford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartford is included in the Lewiston-Auburn, Maine metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's history has always been interconnected with Hebron Academy, a co-ed college preparatory boarding school which is located in the town's heart."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hebron is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Hebron",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There is an elementary school, Hebron Station School, located on Station Road."
+    },
+    {
+      "cityName": "Highland Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highland Plantation is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Hiram",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located among the rugged and unspoiled Western Maine Mountains, Hiram is part of the Portland-South Portland-Biddeford, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Hiram",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the villages of Hiram, East Hiram, South Hiram and Durgintown."
+    },
+    {
+      "cityName": "Hodgdon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town borders the province of New Brunswick, Canada to the east and Houlton to the north."
+    },
+    {
+      "cityName": "Hodgdon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hodgdon's population was 1290 at the 2020 census."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is perhaps best known for being at the northern terminus of Interstate 95 and as the birthplace of Samantha Smith, a goodwill ambassador as a child during the Cold War."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Houlton was the home of Ricker College, which closed in 1978."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Houlton High School sports teams are named \"The Shiretowners\"."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Meduxnekeag River flows through the heart of the town, and the border with the Canadian province of New Brunswick is 3 mi (4.8 km) east of the town's center."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of the 2020 census, the town's population was 6055."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town hosts the annual Houlton Agricultural Fair."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The primary settlement and center of the town is designated as a CDP with the same name."
+    },
+    {
+      "cityName": "Houlton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The headquarters of the federally recognized Houlton Band of Maliseet Indians is based here."
+    },
+    {
+      "cityName": "Howland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after John Howland, one of the passengers on the Mayflower."
+    },
+    {
+      "cityName": "Howland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Howland is a town in Penobscot County, Maine, United States, which was settled in 1818."
+    },
+    {
+      "cityName": "Industry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named from the industrious habits of its citizens."
+    },
+    {
+      "cityName": "Island Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The primary village of Island Falls in the town is situated at a falls in the West Branch Mattawamkeag River."
+    },
+    {
+      "cityName": "Isle au Haut",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to portions of Acadia National Park, Isle au Haut is accessible by ferry from Stonington."
+    },
+    {
+      "cityName": "Isle au Haut",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 6 mile ride takes about 45 minutes."
+    },
+    {
+      "cityName": "Islesboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to Warren Island State Park, Islesboro includes the village of Dark Harbor."
+    },
+    {
+      "cityName": "Islesboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has a summer colony accessible by state ferry service from Lincolnville Beach three miles to the west, by private boat, or by air taxi service."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after General Henry Jackson of the Revolutionary War."
+    },
+    {
+      "cityName": "Jay",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jay was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Jay",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jay includes the village of Chisholm."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Damariscotta Lake State Park, a popular Mid Coast swimming, canoeing and picnic area, is located within the town limits."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for John Coffin Jones, a landholder."
+    },
+    {
+      "cityName": "Jonesport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jonesport is a fishing and lobstering town."
+    },
+    {
+      "cityName": "Jonesport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains the villages or hamlets of Jonesport, Mason Bay, Monsapec, and West Jonesport."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically a shipbuilding and fishing village, for well over a century the town has been a popular summer colony and seaside tourist destination."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is the home of Walker's Point, a summer estate of the Bush family."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Dock Square area has a district of souvenir shops, art galleries, schooner attractions, seafood restaurants, and bed and breakfasts."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town center, the area in and around Dock Square, is located along the Kennebunk River, approximately 1 mile (1.6 km) from the mouth of the river on the Atlantic Ocean."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Cape Porpoise, while retaining its identity as a fishing harbor, has a very small village area with several restaurants and stores, as well as a church, small library, and art gallery."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Kennebunkport Christmas Prelude takes place annually in the town, beginning either in late November or early December."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Kennebunkport has a reputation as a summer haven for the upper class and is one of the wealthiest communities in the state of Maine."
+    },
+    {
+      "cityName": "Kennebunkport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Kennebunkport and neighboring towns Kennebunk and Arundel comprise school district RSU 21."
+    },
+    {
+      "cityName": "Kingfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kingfield is the principal gateway to Sugarloaf, a major ski resort, and is headquarters to Maine Huts and Trails."
+    },
+    {
+      "cityName": "Kingsbury Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The plantation was named for Judge Sanford Kingsbury, a landowner."
+    },
+    {
+      "cityName": "Kingsbury Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kingsbury Plantation is a plantation in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Kingsbury Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the plantation had a total population of 28."
+    },
+    {
+      "cityName": "Kittery",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The southernmost town in the state, it is a tourist destination known for its many outlet stores."
+    },
+    {
+      "cityName": "Kittery",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Home to the Portsmouth Naval Shipyard on Seavey's Island, Kittery includes Badger's Island, the seaside district of Kittery Point, the village of Kittery, and part of the Isles of Shoals."
+    },
+    {
+      "cityName": "Kittery",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's population was 10070 at the 2020 census."
+    },
+    {
+      "cityName": "Knox",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for General Henry Knox, the first United States Secretary of War."
+    },
+    {
+      "cityName": "Lake View Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake View Plantation is a plantation in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Lamoine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Lamoine State Park."
+    },
+    {
+      "cityName": "Lamoine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after an early resident, Andre LeMoyne."
+    },
+    {
+      "cityName": "Lamoine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The spelling shifted slightly over the years."
+    },
+    {
+      "cityName": "Lamoine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "\"Le moine\" is French for \"the monk.\" The population was 1720 at the 2020 census."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lebanon includes the villages of Center Lebanon, West Lebanon, North Lebanon, South Lebanon, and East Lebanon."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lebanon is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area."
+    },
+    {
+      "cityName": "Lee",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stephen Lee suggested the town be named Lee after Revolutionary general Henry \"High Horse\" Lee."
+    },
+    {
+      "cityName": "Lee",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated in 1832."
+    },
+    {
+      "cityName": "Lee",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was originally called Mattekeunk, but changed it to Lee to give it an English name."
+    },
+    {
+      "cityName": "Lee",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "To further convince the townsfolk, he brought a barrel of rum to the meeting."
+    },
+    {
+      "cityName": "Lee",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lee has been home to Lee Academy since 1845."
+    },
+    {
+      "cityName": "Leeds",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located in Androscoggin County, the city lies halfway between Augusta, the state capital, and Portland, the state's largest city."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to some sources, it has the largest French-speaking population in the United States by total number, though second to St. Martin Parish, Louisiana, by percentage of speakers."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The presence of the Androscoggin River and its waterfalls made the area attractive for manufacturing and hydroelectric development."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city has 44 properties listed on the National Register of Historic Places, the Androscoggin Bank Colis\u00e9e, and two major medical centers: Central Maine Medical Center and Saint Mary's Regional Medical Center."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city's transformation from a farming community to an industrial center began in the mid-19th century when Boston textile magnate Benjamin Bates established manufacturing operations there."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town was renamed Lewiston and reincorporated as a city in 1863, with the seminary becoming Bates College the following year."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Notable institutions include the Basilica of Saints Peter and Paul\u2014the only basilica in Maine\u2014along with Bates College and four other colleges and universities."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Lewiston (; French: ) is the second-most populous city in the U S state of Maine, with a population of 37121 according to the 2020 United States census."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Lewiston forms one half of the Lewiston\u2013Auburn metropolitan statistical area, commonly referred to as \"L/A\" or \"L-A.\" The city has undergone significant demographic transformation, particularly since the late 20th century."
+    },
+    {
+      "cityName": "Lewiston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "While English remains the predominant language, Lewiston is home to a substantial French-Canadian population."
+    },
+    {
+      "cityName": "Limestone",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known for being the home of the Loring Commerce Centre (formerly Loring Air Force Base; also lying on its former territory is the Aroostook National Wildlife Refuge)."
+    },
+    {
+      "cityName": "Limestone",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Maine School of Science and Mathematics (MSSM), which in 2019 ranked #2 in the United States by U S News & World Report, is located in the town itself, sharing its campus with the town high school."
+    },
+    {
+      "cityName": "Limington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Limington is a tourist destination with historic architecture."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's population was 4853 at the 2020 United States Census."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A statue honoring Medal of Honor recipient Gary Gordon was installed in Lincoln, in 2021."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The 10-foot (3.0 m) bronze sculpture faces Gordon's grave at Park Street Cemetery."
+    },
+    {
+      "cityName": "Lincoln Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lincoln Plantation is a plantation in Oxford County, Maine, United States."
+    },
+    {
+      "cityName": "Lincoln Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains the village of Wilson's Mills."
+    },
+    {
+      "cityName": "Lincolnville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lincolnville is the mainland terminal for Maine State Ferry Service transport to Islesboro."
+    },
+    {
+      "cityName": "Linneus",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after Carl Linnaeus."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in both the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston\u2013Auburn, Maine Metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Lisbon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town of Lisbon includes the villages of Lisbon and Lisbon Falls."
+    },
+    {
+      "cityName": "Livermore",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Livermore is known for The Norlands, the Washburn family home."
+    },
+    {
+      "cityName": "Livermore",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "High schools students from Livermore attend Spruce Mountain High School in neighboring Livermore Falls."
+    },
+    {
+      "cityName": "Livermore",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in both the Lewiston-Auburn, Maine, Metropolitan Statistical Area and the Lewiston-Auburn, Maine, Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Long Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Long Island is a Casco Bay island and town in Cumberland County, Maine, United States, which seceded from the city of Portland in 1993."
+    },
+    {
+      "cityName": "Lovell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lovell is the site of Kezar Lake, a resort area."
+    },
+    {
+      "cityName": "Lubec",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, with a population of 1237 at the 2020 census, is home to Quoddy Head State Park."
+    },
+    {
+      "cityName": "Lyman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyman, together with Alfred, is home to Massabesic Experimental Forest."
+    },
+    {
+      "cityName": "Machias",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the University of Maine at Machias and Machias Valley Airport, a small public airport owned by the town."
+    },
+    {
+      "cityName": "Machias",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Machias was the site of the first naval battle of the American Revolution."
+    },
+    {
+      "cityName": "Machias",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The word Machias roughly translates in Passamaquoddy as \"bad little falls\", a reference to the Machias River."
+    },
+    {
+      "cityName": "Machias",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "As of the 2020 census, the town population was 2060."
+    },
+    {
+      "cityName": "Machiasport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Machiasport is a historic seaport and tourist destination."
+    },
+    {
+      "cityName": "Macwahoc",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Macwahoc Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Madawaska",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madawaska is opposite Edmundston, Madawaska County in New Brunswick, Canada, to which it is connected by the Edmundston\u2013Madawaska Bridge over the Saint John River."
+    },
+    {
+      "cityName": "Manchester",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The southern part of the town bordering Cobbosseecontee Lake is a popular recreation spot in central Maine, and part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Mars Hill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town borders Wicklow Parish, New Brunswick, Canada."
+    },
+    {
+      "cityName": "Mars Hill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The region is mainly agricultural."
+    },
+    {
+      "cityName": "Matinicus Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Matinicus Isle is an island plantation in Knox County, Maine, United States."
+    },
+    {
+      "cityName": "Matinicus Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The island is located within Penobscot Bay about 20 miles east of the mainland coast and is accessible by state ferry service from Rockland or by air taxi from Knox County Regional Airport."
+    },
+    {
+      "cityName": "Matinicus Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The plantation is both a year-round island community and a summer colony."
+    },
+    {
+      "cityName": "Mattawamkeag",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Mattawamkeag is in the southwestern part of the town."
+    },
+    {
+      "cityName": "Mechanic Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after the Revolutionary War hero Hugh Mercer."
+    },
+    {
+      "cityName": "Mexico",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mexico is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Milbridge",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated in 1848."
+    },
+    {
+      "cityName": "Milbridge",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains the villages of Milbridge and Wyman."
+    },
+    {
+      "cityName": "Milltown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, it had a population of 3079, making Calais the largest municipality by population in Washington County, but the third least-populous city in Maine (after Hallowell and Eastport)."
+    },
+    {
+      "cityName": "Milltown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has three Canada\u2013US border crossings (also known as ports of entry) over the St. Croix River connecting to St. Stephen, New Brunswick, Canada."
+    },
+    {
+      "cityName": "Milltown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Calais has been a city of commerce and is recognized as the primary shopping center of eastern Washington County and of Charlotte County, New Brunswick."
+    },
+    {
+      "cityName": "Milltown",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Retail, service, and construction businesses are the primary components of the Calais economy."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of West Minot and Minot Center."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Visitors' cars are not permitted on the island, maintaining its historic character and environmental integrity."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Monhegan ( mon-HEE-g\u0259n) is a historic island plantation in the Gulf of Maine, approximately 12 nautical miles (22 km; 14 mi) off the coast of Maine."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Part of Lincoln County, Maine, the island has been inhabited for over 400 years and is renowned as one of America's oldest and most influential artist colonies."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The plantation comprises Monhegan Island proper and the smaller neighboring Manana Island, together forming a unique maritime community that balances historical preservation, environmental conservation, and sustainable tourism."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Designated as a National Natural Landmark in 1966 for its exceptional coastal and island flora, Monhegan represents one of the best-preserved island ecosystems in the North Atlantic."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "With a year-round population of 64 as of the 2020 census, Monhegan fishermen manage Maine's only lobster conservation area."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The island's dramatic landscape of towering cliffs, pristine forests, and rugged coastline has attracted artists, writers, and naturalists for more than a century."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Notable artists including Edward Hopper, George Bellows, Rockwell Kent, Jay Hall Connaway, and Jamie Wyeth have found inspiration on its shores."
+    },
+    {
+      "cityName": "Monhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Access is limited to scheduled ferry service from Boothbay Harbor, New Harbor, and Port Clyde, helping preserve the island's distinctive character and fragile ecosystem."
+    },
+    {
+      "cityName": "Monmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A popular summer resort area with many lakeside cottages, Monmouth is part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Monmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Monmouth is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is a town in Waldo County, Maine, United States named for President James Monroe."
+    },
+    {
+      "cityName": "Monson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is well known in local and state history, and contributions by the town and its location are notable."
+    },
+    {
+      "cityName": "Monson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This route eventually leads to the Canadian Province of Quebec."
+    },
+    {
+      "cityName": "Monson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is not uncommon to see many hikers in town resting before (or after) their trip into the Wilderness, and several lodging places in town cater directly to these hikers."
+    },
+    {
+      "cityName": "Moose River",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Samuel Holden who in 1820 opened an inn as a stop for cattle drivers en route from Boston to Quebec."
+    },
+    {
+      "cityName": "Moose River",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was first settled by Capt."
+    },
+    {
+      "cityName": "Moro Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moro Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Mount Desert",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1789, the town comprises the villages of Otter Creek, Seal Harbor, Northeast Harbor, Somesville, Hall Quarry, and Pretty Marsh."
+    },
+    {
+      "cityName": "Mount Vernon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A popular recreation spot in central Maine, the northern area of Mount Vernon is part of the Belgrade Lakes Region, while the southern area is part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Naples",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Naples is a resort area."
+    },
+    {
+      "cityName": "Nashville Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nashville Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "New Gloucester",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Sabbathday Lake Shaker Village, the last active Shaker village in the U S The town's population was 5676 at the 2020 census."
+    },
+    {
+      "cityName": "New Gloucester",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Gloucester is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "New Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It received its name from the fact that many of its settlers had previously lived in Limerick in York County at the southern end of the state, which in turn was probably named after the Irish city of Limerick."
+    },
+    {
+      "cityName": "New Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was settled in 1775 and incorporated on March 18, 1837, from New Limerick Plantation."
+    },
+    {
+      "cityName": "New Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is perhaps best known for its Wire Bridge, a cable suspension bridge completed in 1866 that is the last remaining bridge of its type in Maine, and possibly the U S Much of North New Portland's Main Street burned to the ground in the fire of 1919, including a hotel."
+    },
+    {
+      "cityName": "New Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The annual town fair draws large crowds from around, and is held in September."
+    },
+    {
+      "cityName": "New Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town was given to the residents of Falmouth (now Portland) by the Massachusetts legislature to repay them for their loss when the British fleet burned Falmouth in 1775."
+    },
+    {
+      "cityName": "New Sharon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is roughly bisected by the Sandy River, a tributary of the Kennebec River."
+    },
+    {
+      "cityName": "New Sharon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Sharon is a town in Franklin County, Maine, United States, incorporated in 1794."
+    },
+    {
+      "cityName": "Newcastle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Newcastle is located in the eastern part of the town, on the Damariscotta River."
+    },
+    {
+      "cityName": "Newcastle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Together with the village of Damariscotta linked by the Main Street bridge, they form the Twin Villages (see Damariscotta-Newcastle CDP)."
+    },
+    {
+      "cityName": "Newfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newfield was home to a museum called Willowbrook Museum Village."
+    },
+    {
+      "cityName": "Newfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area."
+    },
+    {
+      "cityName": "Newport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's borders surround the shoreline of Sebasticook Lake."
+    },
+    {
+      "cityName": "Newry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is best known as the home of Sunday River Ski Resort and has a proportionately large seasonal (winter) population."
+    },
+    {
+      "cityName": "Newry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town\u2019s year-round population was 411 at the 2020 census."
+    },
+    {
+      "cityName": "Newry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Newry was also the site of one of Maine's worst Cold War aircraft crashes."
+    },
+    {
+      "cityName": "Nobleboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nobleboro, founded in 1788, is a town in Lincoln County, Maine, United States."
+    },
+    {
+      "cityName": "Nobleboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Nobleboro is named for Arthur Noble's son Arthur II."
+    },
+    {
+      "cityName": "Nobleboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Part of Nobleboro was part of Shem Drowne's claim in the 1730s."
+    },
+    {
+      "cityName": "North Berwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was set off from Berwick in 1831, following South Berwick in 1814."
+    },
+    {
+      "cityName": "North Berwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Berwick's population was 4978 at the 2020 census."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is both a year-round island community and a prominent summer colony."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Haven is accessible by thrice-daily state ferry service from Rockland, or by air taxi from Knox County Regional Airport."
+    },
+    {
+      "cityName": "North Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the districts of North (04061), South (04087), and East (04030) Waterboro, in addition to the largest development in southern Maine, Lake Arrowhead Community."
+    },
+    {
+      "cityName": "North Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The introduction of Maine subdivision regulation, and Maine Planning Boards, is the direct result of the creation of the largest subdivision, Lake Arrowhead Community."
+    },
+    {
+      "cityName": "North Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The reaction of the Maine State Legislature was mandatory Planning Boards, and subdivision regulation."
+    },
+    {
+      "cityName": "North Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Yarmouth, officially the Town of North Yarmouth, is a town in Cumberland County, Maine, United States."
+    },
+    {
+      "cityName": "North Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Yarmouth is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Northport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The coastal Bayside residential area is home to over one hundred Victorian seaside cottages, a marina, and the Cobe Estate."
+    },
+    {
+      "cityName": "Norway",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Pennesseewassee Lake, a freshwater lake and recreation area."
+    },
+    {
+      "cityName": "Norway",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Norway was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakland is 4 miles (6 km) west of Waterville and approximately 18 miles (29 km) north of Augusta, the state capital."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waterville and Augusta are service centers for Oakland, and many Oakland residents commute to jobs in those areas."
+    },
+    {
+      "cityName": "Ogunquit",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, its population was 1577."
+    },
+    {
+      "cityName": "Old Orchard Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A wooden pier on the beach contains many other tourist businesses, including a variety of souvenir shops."
+    },
+    {
+      "cityName": "Old Orchard Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the inner side of Saco Bay on the Atlantic Ocean, the town is a popular seaside resort."
+    },
+    {
+      "cityName": "Old Orchard Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The downtown contains many tourist-oriented businesses, including clam shacks and T-shirt shops."
+    },
+    {
+      "cityName": "Old Orchard Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town's seven-mile (11 km) long beach extends into the towns of Scarborough and Saco, and is lined with many beach residential properties, condominiums, motels and bed and breakfasts."
+    },
+    {
+      "cityName": "Old Town",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The island is surrounded and defined by the Penobscot River to the east and the Stillwater River to the west."
+    },
+    {
+      "cityName": "Old Town",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's developed area is chiefly located on the relatively large Marsh Island, but its boundaries extend beyond it."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A defunct railroad spur extending from downtown to the Stillwater Community of Old Town is now the Stillwater River Trail."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the 19th century, the town became a center of the lumber industry."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since 1865, it has been the location of the University of Maine, established as a land-grant institution and the state's flagship educational institution."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In the fall of 2018, the university enrolled 11404 students at Orono."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Not including university residents, the town's population was 11183 at the 2020 census."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located on the Penobscot and Stillwater rivers, it was first settled by American colonists in 1774."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Sawmills on the rivers were powered by the water, and logs were floated downriver on the Penobscot for shipping and export from coastal ports."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "There has been a bridge over the Stillwater River since the 1830s; the current one was constructed in the early 1990s."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Between 1895 and 1940 a trolley service ran through town including over the Stillwater River."
+    },
+    {
+      "cityName": "Orono",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "A Penobscot River crossing ferry operated in the 19th century."
+    },
+    {
+      "cityName": "Otisfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otisfield is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Otisfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Otisfield is a summer recreation area and home to Seeds of Peace Camp and Camp Arcadia."
+    },
+    {
+      "cityName": "Owls Head",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A resort and fishing area, the community is home to the Knox County Regional Airport."
+    },
+    {
+      "cityName": "Owls Head",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the village of Ash Point."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oxford is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oxford is home to the Oxford Plains Speedway, Kamp Kohut, the annual Oxford County Fair, and Oxford Casino."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town includes the village of Welchville."
+    },
+    {
+      "cityName": "Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The main exception is the area known as Paris Hill, which is a scenic historic district popular with tourists."
+    },
+    {
+      "cityName": "Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Paris is included in the Lewiston-Auburn, Maine metropolitan New England City and town area."
+    },
+    {
+      "cityName": "Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Because the U S Post Office refers to the entire town as South Paris, the town as a whole is commonly referred to as South Paris."
+    },
+    {
+      "cityName": "Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On May 30, 2019, the town declared itself to be a second amendment sanctuary."
+    },
+    {
+      "cityName": "Parsonsfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parsonsfield includes the villages of Kezar Falls, Parsonsfield, and North, East and South Parsonsfield."
+    },
+    {
+      "cityName": "Passadumkeag",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Passadumkeag is a word of the Penobscot people meaning \"quick water\"."
+    },
+    {
+      "cityName": "Patten",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Patten is in the northeastern part of the town."
+    },
+    {
+      "cityName": "Pembroke",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to a reversing falls on Mahar's Point."
+    },
+    {
+      "cityName": "Penobscot",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Bagaduce River flows through the town."
+    },
+    {
+      "cityName": "Perham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Maine's 33rd governor, Sidney Perham."
+    },
+    {
+      "cityName": "Peru",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peru is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Phillips",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the Sandy River and Rangeley Lakes Railroad, a heritage railroad."
+    },
+    {
+      "cityName": "Phippsburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A tourist destination, Phippsburg is home to Bates-Morse Mountain Conservation Area, Fort Popham State Historic Site; it is also home to Fort Baldwin which overlooks Fort Popham, and Popham Beach State Park, as well as Pond Island National Wildlife Refuge."
+    },
+    {
+      "cityName": "Phippsburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes part of Winnegance."
+    },
+    {
+      "cityName": "Pittsfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pittsfield is home to the Maine Central Institute, a semi-private boarding school, and the annual Central Maine Egg Festival."
+    },
+    {
+      "cityName": "Pittston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The historic Major Reuben Colburn House and Pittston Congregational Church are located in Pittston."
+    },
+    {
+      "cityName": "Pittston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after the family of John Pitt, who were early settlers."
+    },
+    {
+      "cityName": "Pleasant Ridge Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pleasant Ridge Plantation is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Poland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Set among rolling hills and numerous lakes, the town is home to Range Ponds State Park, which includes hiking trails and a pristine freshwater beach."
+    },
+    {
+      "cityName": "Poland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Poland is also a historic resort area."
+    },
+    {
+      "cityName": "Poland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in the Lewiston-Auburn, Maine metropolitan statistical area, which itself is part of the Greater Portland-Lewiston Combined Statistical Area."
+    },
+    {
+      "cityName": "Porter",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Portland-South Portland-Biddeford, Maine metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Porter",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Porter includes Porter village and part of Kezar Falls."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikidata",
+      "factNumber": 1,
+      "fact": "Stephen King and Henry Wadsworth Longfellow were born in Portland."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Historically tied to commercial shipping, the marine economy, and light industry, Portland's economy in the 21st century relies mostly on the service sector."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was formally founded in 1786 and named after the English Isle of Portland."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In turn, the city of Portland, Oregon, was named after Portland, Maine."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Its population was 68408 at the 2020 census."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "First settled in the early 1600s as part of the Massachusetts Bay Colony, the city endured multiple attacks during colonial conflicts before emerging as a key port in New England."
+    },
+    {
+      "cityName": "Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city seal depicts a phoenix rising from ashes, a reference to Portland's recovery from four devastating fires."
+    },
+    {
+      "cityName": "Pownal",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pownal is home to Bradbury Mountain State Park."
+    },
+    {
+      "cityName": "Pownal",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pownal was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Presque Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is home to the University of Maine at Presque Isle, Northern Maine Community College, Northern Maine Fairgrounds, the Aroostook Centre Mall, and the Presque Isle International Airport."
+    },
+    {
+      "cityName": "Presque Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Presque Isle ( PRESK) is the commercial center and largest city in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Presque Isle",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Presque Isle is the headquarters of the Mi'kmaq Nation, a federally recognized tribe."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Princeton, Massachusetts."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is now a major tourist attraction, as is the Penobscot Narrows Bridge and Observatory."
+    },
+    {
+      "cityName": "Prospect",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The most prominent landmark in Prospect is Fort Knox, a large 19th-century fort."
+    },
+    {
+      "cityName": "Randolph",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Randolph, Massachusetts."
+    },
+    {
+      "cityName": "Rangeley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rangeley is the center of the Rangeley Lakes Region, a resort area."
+    },
+    {
+      "cityName": "Rangeley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the villages of Rangeley and Oquossoc, as well as the communities of Mooselookmeguntic, Bald Mountain, Mountainview, and South Rangeley."
+    },
+    {
+      "cityName": "Rangeley Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rangeley Plantation is a plantation in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Raymond Neck is the landing for the ferry to the town of Frye Island in Sebago Lake."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Raymond is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a summer recreation area and is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area."
+    },
+    {
+      "cityName": "Raymond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Raymond school system is currently affiliated with the Windham school system in a district known as RSU 14."
+    },
+    {
+      "cityName": "Readfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A popular recreation spot in central Maine, the town contains nine lakes and ponds, including Maranacook Lake, and is part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Readfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Readfield is home to the Kents Hill School, a preparatory school, Maranacook Community Schools, public schools for the district, a few summer camps, and the annual Readfield Heritage Days."
+    },
+    {
+      "cityName": "Readfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town of Readfield was previously named Pond Town."
+    },
+    {
+      "cityName": "Reed Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reed Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond is located adjacent to the 2019 acre state-owned and managed Steve Powell Wildlife Management Area on Swan Island, a wildlife sanctuary and tourist area listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Swan Island is a major wildlife tourist attraction for the town, especially during the summer."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Richmond is also known for its collection of Greek Revival homes, unique for the area."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community was named after Brigadier General Eleazer Wheelock Ripley of the War of 1812."
+    },
+    {
+      "cityName": "Rockland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is a popular tourist destination."
+    },
+    {
+      "cityName": "Rockland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 6936."
+    },
+    {
+      "cityName": "Rockland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a departure point for the Maine State Ferry Service to the islands of Penobscot Bay: Vinalhaven, North Haven and Matinicus."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rockport is a popular tourist destination and art colony."
+    },
+    {
+      "cityName": "Rockport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is 35 miles (56.3 km) southeast of Augusta."
+    },
+    {
+      "cityName": "Roque Bluffs",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to Roque Bluffs State Park."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellis Pond is popular with recreational fishermen."
+    },
+    {
+      "cityName": "Rumford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rumford is home to both ND Paper Inc's Rumford Mill and the Black Mountain of Maine ski resort."
+    },
+    {
+      "cityName": "Sabattus",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was formerly known as \"Webster\", and changed its name to \"Sabattus\" in 1971, in honor of a former Anasagunticook Indian chief."
+    },
+    {
+      "cityName": "Sabattus",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Sabattus",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village of Sabattus is in the northwestern corner of the town, at the outlet of Sabattus Pond."
+    },
+    {
+      "cityName": "Saco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Ferry Beach State Park, Funtown Splashtown USA, Thornton Academy and General Dynamics Armament Systems (also known by its former name, Saco Defense), a subsidiary of the defense contractor General Dynamics."
+    },
+    {
+      "cityName": "Saco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Saco sees much tourism during summer months due to its amusement parks, Camp Ellis Beach and Pier, Ferry Beach State Park, and proximity to Old Orchard Beach."
+    },
+    {
+      "cityName": "Saco",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Saco's twin-city is Biddeford."
+    },
+    {
+      "cityName": "Saint Francis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "First settled by English speakers from southern Maine, the original population has been supplanted by French-speaking Acadians."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of Port Clyde and Tenants Harbor, the town's commercial center."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A favorite with artists, writers and naturalists, St. George is home to the Brothers and Hay Ledge nature preserve, comprising four islands off Port Clyde."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's population stands at 2594 residents, according to the 2020 Census."
+    },
+    {
+      "cityName": "Saint John Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "St. John Plantation (French: Plantation de Saint-Jean) is a plantation in Aroostook County, Maine, United States, on the banks of the Saint John River."
+    },
+    {
+      "cityName": "Sandy River Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to the popular Saddleback Mountain Ski Resort and the Rangeley Lakes Nordic Trail Center (although visitors must drive through Dallas Plantation to reach it)."
+    },
+    {
+      "cityName": "Sandy River Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sandy River Plantation is a plantation in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated on the Mousam River, Sanford includes the village of Springvale."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The new charter took effect on January 1, 2013."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On January 8, 2013, Maura A. Herlihy was appointed as Sanford's first mayor."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2014, an elected-at-large mayor took office."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "On November 5, 2013, Thomas Cote was elected as mayor."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Beginning in 2016, the mayoral position began being elected at-large every two years during legislative election cycles."
+    },
+    {
+      "cityName": "Sangerville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Colonel Calvin Sanger, a landowner."
+    },
+    {
+      "cityName": "Sangerville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On June 14, 2014, Sangerville celebrated its bicentennial."
+    },
+    {
+      "cityName": "Sargentville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The community is located along Maine State Route 175, 21 miles (34 km) southwest of Ellsworth."
+    },
+    {
+      "cityName": "Searsport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is known as \"the home of the famous sea captains\" and the \"Antique Capital of Maine\"."
+    },
+    {
+      "cityName": "Searsport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Searsport is an incorporated town and deep water seaport located at the confluence of the Penobscot River estuary and the Penobscot Bay immediately northwest of Sears Island and Cape Jellison in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Seboeis Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Seboeis Plantation is a plantation in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Sedgwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The countryside around Sedgwick is a haven for birdwatchers, as well as an out-of-the-way tourist stop with several bed and breakfast locations."
+    },
+    {
+      "cityName": "Sedgwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the village of Sargentville."
+    },
+    {
+      "cityName": "Shapleigh",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shapleigh, pronounced \"SHAP-lee\", is a town in York County, Maine, United States which was incorporated as the state's 43rd town in 1785."
+    },
+    {
+      "cityName": "Shapleigh",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Shapleigh is divided into the villages of North Shapleigh, Shapleigh Corner, Ross Corner and Emery Mills."
+    },
+    {
+      "cityName": "Shirley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was the birthplace of humorist Bill Nye."
+    },
+    {
+      "cityName": "Shirley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after Shirley, Massachusetts."
+    },
+    {
+      "cityName": "Sidney",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1937, the town has been the home of the New England Music Camp."
+    },
+    {
+      "cityName": "Sidney",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named for Sir Philip Sidney, an English author."
+    },
+    {
+      "cityName": "Sidney",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sidney was incorporated as a town on January 30, 1792."
+    },
+    {
+      "cityName": "Skowhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Every August, Skowhegan hosts the annual Skowhegan State Fair, the oldest continuously held state fair in the United States."
+    },
+    {
+      "cityName": "Skowhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 8620."
+    },
+    {
+      "cityName": "Skowhegan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Skowhegan was originally inhabited by the indigenous Abenaki people who named the area Skowhegan, meaning \"watching place,\" and were mostly dispersed by the end of the 4th Anglo-Abenaki War."
+    },
+    {
+      "cityName": "Smithfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated on February 29, 1840, making it the only town in Maine incorporated on Leap Day."
+    },
+    {
+      "cityName": "Smithfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after the Rev. Henry Smith, an early settler."
+    },
+    {
+      "cityName": "Somerville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Somerville is located 15 miles east of the state capital, Augusta."
+    },
+    {
+      "cityName": "South Berwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Berwick is home to Berwick Academy, a private, co-educational university-preparatory day school founded in 1791."
+    },
+    {
+      "cityName": "South Berwick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was set off from Berwick in 1814, followed by North Berwick in 1831."
+    },
+    {
+      "cityName": "South Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A fishing and resort area, South Bristol includes the villages of Walpole and Christmas Cove, the latter on Rutherford Island."
+    },
+    {
+      "cityName": "South Bristol",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has six nature preserves."
+    },
+    {
+      "cityName": "South China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located between Augusta and Waterville, South China sits along the shores of its namesake, China Lake."
+    },
+    {
+      "cityName": "South China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Maine State Route 3 runs through the major part of the town, leading west to Augusta and east to Belfast, and U S Route 202 (Lakeview Drive) connects South China with China."
+    },
+    {
+      "cityName": "South China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of five villages in the town."
+    },
+    {
+      "cityName": "South China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is an hour and a half from both Bangor and Portland."
+    },
+    {
+      "cityName": "South Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Paris is included in the Lewiston-Auburn, Maine metropolitan New England city and town area.The population was 2237 at the 2000 census."
+    },
+    {
+      "cityName": "South Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "While the CDP refers only to the densely settled area in the southern part of the town of Paris, the entire town, outside of Paris Hill, is located within the South Paris ZIP code, resulting in many residents referring to the entire town as South Paris."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Known for its working waterfront, South Portland is situated on Portland Harbor and overlooks the skyline of Portland and the islands of Casco Bay."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Maine Mall, the largest shopping mall in the state, is located in South Portland."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Due to South Portland's close proximity to air, marine, rail, and highway transportation options, the city has become a center for retail and industry in the region."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "South Portland is a city in Cumberland County, Maine, United States, and is the fourth-most populous city in the state, incorporated in 1898."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is also a designated Tree City USA community."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Despite the name, South Portland was never part of the city of Portland, but rather part of Cape Elizabeth, separating in 1895."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "However, both Cape Elizabeth and Portland were once part of Falmouth."
+    },
+    {
+      "cityName": "South Portland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Cape Elizabeth, then including what later became South Portland, broke away from Falmouth in 1765."
+    },
+    {
+      "cityName": "South Thomaston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A fishing and resort area, the town includes the village of Spruce Head."
+    },
+    {
+      "cityName": "Southport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the neighborhoods of Cozy Harbor, Newagen, Pine Cliff, West Southport, and the Capitol Island and Squirrel Island summer colonies."
+    },
+    {
+      "cityName": "Southport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The majority of the town's residents live on its main island, Southport Island."
+    },
+    {
+      "cityName": "Southwest Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located on Mount Desert Island, the population was 1756 at the 2020 census."
+    },
+    {
+      "cityName": "Southwest Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality contains within it the villages of Southwest Harbor, Manset, Seawall, Wonderland, and Pemetic Hills."
+    },
+    {
+      "cityName": "Springvale",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The CDP was abolished when the town of Sanford reincorporated as a city."
+    },
+    {
+      "cityName": "Stacyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It achieved national prominence in 1939 when 12-year-old Donn Fendler was lost on Katahdin for nine days, before being found in Stacyville on July 25, 1939."
+    },
+    {
+      "cityName": "Stacyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "He was found by a searcher by the name of Nelson McMoran."
+    },
+    {
+      "cityName": "Standish",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of Standish Corner, Sebago Lake Village and Steep Falls, and the localities known as Richville, Elmwood, Standish Neck and Two Trails."
+    },
+    {
+      "cityName": "Starks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after General John Stark of the Revolutionary War."
+    },
+    {
+      "cityName": "Stetson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after its first proprietor, Amasa Stetson."
+    },
+    {
+      "cityName": "Stetson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "His brother Simeon Stetson originally settled here as well, but moved to nearby Hampden in 1803."
+    },
+    {
+      "cityName": "Stetson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Simeon's sons Charles, George, and Isaiah founded a powerful mercantile and political family in Bangor."
+    },
+    {
+      "cityName": "Steuben",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in 1795, it was named after Baron Friedrich Wilhelm von Steuben, the Inspector General of the U S Army during the Revolutionary War."
+    },
+    {
+      "cityName": "Stockton Springs",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stockton Springs is home to Fort Point State Park and Fort Point Light, both located on Fort Point, a peninsula on Cape Jellison."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A picturesque working waterfront and tranquil tourist destination in eastern Penobscot Bay, Stonington has consistently ranked among the top lobster ports in the country and is the largest lobster port in Maine."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the villages of Burnt Cove, Oceanville, Green Head, and Clam City."
+    },
+    {
+      "cityName": "Stonington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2011, 14854989 pounds of lobster were landed by Stonington fishermen, with a value of $46.3 million."
+    },
+    {
+      "cityName": "Strong",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Strong is home to the annual Sandy River Festival."
+    },
+    {
+      "cityName": "Sullivan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Daniel Sullivan, an early settler."
+    },
+    {
+      "cityName": "Sullivan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along U S Route 1, the Taunton River, and Hog Bay, Sullivan is home to a reversing tidal falls and many scenic turnouts that dot the Schoodic National Scenic Byway along the Upper Schoodic Peninsula."
+    },
+    {
+      "cityName": "Sullivan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Colloquially referred to as \"Sully\" or \"the Sullivans\"\u2014like many Maine municipalities composed of villages with geographic designations of the town proper\u2014the municipality was incorporated in 1789."
+    },
+    {
+      "cityName": "Sullivan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Once home to abundant granite quarries, the town of Sullivan is now a residential community for nearby Ellsworth and Mount Desert Island."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sumner is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Sumner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town includes the villages of West Sumner and East Sumner."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Swan's Island is also home to the Sweet Chariot Music Festival, an annual summertime show of folk music and sea chanties."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named after Colonel James Swan, of Fife, Scotland, who purchased the island and some surrounding areas and organized their colonization in the eighteenth century."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are also a number of small cottage-industry shops."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The main industry is lobster fishing, which employs 40 people full-time and many others in part-time work."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "There is a general store on the island, which opened in spring 2007, and at least one inn."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Swan's Island is an island town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town is accessible by state ferry service from Bass Harbor."
+    },
+    {
+      "cityName": "Swan's Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The island has a summertime population of approximately 1000."
+    },
+    {
+      "cityName": "Sweden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Set among hills, forests and ponds, Sweden includes the village of East Sweden."
+    },
+    {
+      "cityName": "Talmadge",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after landowner Benjamin Tallmadge."
+    },
+    {
+      "cityName": "Temple",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Temple, New Hampshire."
+    },
+    {
+      "cityName": "The Forks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Forks is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Noted for its antique architecture, Thomaston is an old port popular with tourists."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after Major General John Thomas."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Thomaston, formerly known as Fort St. Georges, Fort Wharf, and Lincoln, is a town in Knox County, Maine, United States."
+    },
+    {
+      "cityName": "Thorndike",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Israel Thorndike, a landowner."
+    },
+    {
+      "cityName": "Topsham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Topsham was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Topsham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to the annual Topsham Fair."
+    },
+    {
+      "cityName": "Tremont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A portion of Acadia National Park lies within the town boundaries."
+    },
+    {
+      "cityName": "Tremont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bass Harbor serves as the terminus for both the Swan's Island and Frenchboro ferries."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hancock County-Bar Harbor Airport is located in Trenton."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In January 1969, town voters defeated 144\u201377 an attempt to build a nuclear power plant and aluminum refinery in Trenton."
+    },
+    {
+      "cityName": "Turner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the villages of Turner, Turner Center and North Turner."
+    },
+    {
+      "cityName": "Turner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Union",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Union is home to the Matthews Museum of Maine Heritage as well as the annual Union agricultural fair."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Outside of Waldo County, it is best known as the home of the Maine Organic Farmers and Gardeners Association, its Common Ground Country Fair and former home of Unity College."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Unity College was founded in 1965 to offset the economic effects of the declining chicken farming industry."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of 2007, the college was the town's largest employer."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2020, the college announced a significant shift in its educational model, moving to a hybrid learning system that led to a reduction in staff by 15%."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of 2024, the original Unity campus is largely vacant, with only about 50 students using the facilities at any given time."
+    },
+    {
+      "cityName": "Unity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The town is the service center for the northern portion of Waldo County."
+    },
+    {
+      "cityName": "Van Buren",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after U S President Martin Van Buren."
+    },
+    {
+      "cityName": "Vanceboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after landowner William Vance."
+    },
+    {
+      "cityName": "Vanceboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Vanceboro is also connected to St. Croix by the Saint Croix\u2013Vanceboro Railway Bridge, which is used by the New Brunswick Southern Railway."
+    },
+    {
+      "cityName": "Vanceboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Vanceboro is across the St. Croix River from St. Croix, New Brunswick, Canada, to which it is connected by the Saint Croix\u2013Vanceboro Bridge."
+    },
+    {
+      "cityName": "Vanceboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The main village in town is located at the eastern terminus of Maine State Route 6."
+    },
+    {
+      "cityName": "Vassalboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vassalboro includes the villages of Riverside, Getchell's Corner, North Vassalboro, and East Vassalboro, home to the town library and sports field."
+    },
+    {
+      "cityName": "Veazie",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is named after General Samuel Veazie, an early lumber baron and railroad operator."
+    },
+    {
+      "cityName": "Veazie",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Veazie was originally part of Bangor, using Penobscot River water power to operate sawmills."
+    },
+    {
+      "cityName": "Veazie",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It became a separate town in 1853 because General Veazie, its wealthiest citizen, felt that Bangor's property taxes were excessive."
+    },
+    {
+      "cityName": "Vinalhaven",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its town limits include the island of Vinalhaven, the largest of the Fox Islands, and smaller islands, some accessible from Vinalhaven Island by bridge or causeway."
+    },
+    {
+      "cityName": "Vinalhaven",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to a thriving lobster fishery and hosts a summer colony."
+    },
+    {
+      "cityName": "Vinalhaven",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since there is no bridge to the island, Vinalhaven is primarily accessible from Rockland via an approximately 75-minute state ferry ride across West Penobscot Bay, or by air taxi from Knox County Regional Airport."
+    },
+    {
+      "cityName": "Waite",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Benjamin Waite, a lumberman and businessman from Calais, Maine."
+    },
+    {
+      "cityName": "Waite",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is also home to two logging contractors."
+    },
+    {
+      "cityName": "Waldoboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waldoboro is becoming a popular destination, with miles of scenic river frontage, a thriving arts community, and historical interest in its past as a German settlement."
+    },
+    {
+      "cityName": "Waldoboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waldoboro was incorporated in 1773 and developed a reputation as a ship building and port facility from the banks of the Medomak River."
+    },
+    {
+      "cityName": "Waldoboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's strong agricultural and fishing legacy continues today, with recently renewed enthusiasm for traditional natural fiber production, cheesemaking, farm brewing, fermentation, soapmaking, and other lost agrarian arts."
+    },
+    {
+      "cityName": "Wales",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Wales",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is home to the Wales Airport."
+    },
+    {
+      "cityName": "Wales",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The regional Oak Hill High School opened in Wales in 1976."
+    },
+    {
+      "cityName": "Warren",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of East Warren, Warren and South Warren, the latter home to the Maine State Prison and minimum security Bolduc Correctional Facility."
+    },
+    {
+      "cityName": "Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town includes the districts of North (04061), South (04087), and East (04030) Waterboro, in addition to the largest development in southern Maine, Lake Arrowhead Community."
+    },
+    {
+      "cityName": "Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The introduction of Maine subdivision regulation, and Maine Planning Boards, is the direct result of the creation of the largest subdivision, Lake Arrowhead Community."
+    },
+    {
+      "cityName": "Waterboro",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The reaction of the Maine State Legislature was mandatory Planning Boards, and subdivision regulation."
+    },
+    {
+      "cityName": "Waterford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a recreation area noted for historic architecture and scenery."
+    },
+    {
+      "cityName": "Waterford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Waterford is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Waterville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A college town, the city is home to Colby College, a NESCAC college, and Thomas College."
+    },
+    {
+      "cityName": "Waterville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census the population was 15828."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Revolutionary War General Anthony Wayne."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A popular recreation spot in central Maine, Wayne is part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wayne is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During the summer, Wayne is home to Camp Androscoggin."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "and included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Webster Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Webster Plantation is a plantation in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Weld",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to Mount Blue State Park, Camp Kawanhee for Boys, and Camp Lawroweld."
+    },
+    {
+      "cityName": "Weld",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Set beside Webb Lake and almost surrounded by mountains, Weld is noted for its scenery."
+    },
+    {
+      "cityName": "Wellington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for Arthur Wellesley, 1st Duke of Wellington."
+    },
+    {
+      "cityName": "Wells",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1643, it is the third-oldest town in Maine."
+    },
+    {
+      "cityName": "Wells",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wells Beach is a popular summer destination."
+    },
+    {
+      "cityName": "Wesley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after John Wesley, founder of the English Methodist movement."
+    },
+    {
+      "cityName": "West Bath",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A sub-locality of West Bath is Winnegance."
+    },
+    {
+      "cityName": "West Enfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "There is also a large seasonal population with many cottages located on Cold Stream Pond, a lake within the town."
+    },
+    {
+      "cityName": "West Forks",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Forks is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "West Newfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newfield was home to a museum called Willowbrook Museum Village."
+    },
+    {
+      "cityName": "West Newfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area."
+    },
+    {
+      "cityName": "West Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally settled in 1771 for land that what was deemed \"superior for pasturage, hay crops, and orchards\", West Paris became a center of Finnish immigrant settlement in the 19th century, with many if the town's current residents being descendants of the original Finnish settlers."
+    },
+    {
+      "cityName": "West Paris",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Once part of the neighboring town of Paris, Maine, West Paris seceded from Paris and was incorporated in September 1957."
+    },
+    {
+      "cityName": "Westport Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the 19th century the island was known as Jeremysquam, a nickname islanders still use for it."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Tate Whiting, an early settler."
+    },
+    {
+      "cityName": "Whiting",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was originally known as Orangetown."
+    },
+    {
+      "cityName": "Whitneyville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named after Colonel Joseph Whitney, a mill owner."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated beside Wilson Pond, the former mill town is today primarily a recreation area."
+    },
+    {
+      "cityName": "Windham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It includes the villages of South Windham and North Windham."
+    },
+    {
+      "cityName": "Winn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was named for John M. Winn, an early landholder."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Schoodic Point District of Acadia National Park is adjacent to the town, and has played an important role in the community\u2019s economic and social development."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Winter Harbor hosts the annual Winter Harbor Lobster Festival each August, which celebrates the community\u2019s history, culture, and economic activity."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The festival draws crowds from across the Peninsula and wider Downeast Acadia Region, and includes activities, markets, boat races, a parade, and other events."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Winter Harbor was once the location of a US Naval Station, NSGA-WH, which closed in the mid-2000s, and is now home to the Schoodic Institute\u2019s Education and Research Center."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Municipality includes the village proper of Winter Harbor, the summer colony of Grindstone Neck, and the hamlets of Gerrishville and Summer Harbor."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "An iconic, Downeast fishing village, Winter Harbor is home to an active, multigenerational fishing fleet, and is the namesake of the Winter Harbor model boat."
+    },
+    {
+      "cityName": "Winter Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "In addition, the community is or was a summer residence of several notable figures, such as Frederick Hauck, Fitzgerald Eugene Dixon, among others."
+    },
+    {
+      "cityName": "Winterport",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Winterport Historic District, extending several blocks along Main Street (United States Route 1A), was listed on the National Register of Historic Places in 1975."
+    },
+    {
+      "cityName": "Winterville Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winterville Plantation (French: Plantation de la Ville d'hiver) is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Maine Central Railroad opened to the village, carrying freight and tourists."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "These lakes and ponds are central to the town's identity and offer numerous recreational opportunities such as boating, fishing, and swimming, with the Ladies Delight Lighthouse on Cobbossee Lake being a unique landmark."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Winthrop and its lakes developed into a summer resort, which it remains today."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "On April 26, 1771, Pondtown Plantation was incorporated by the Massachusetts General Court as Winthrop, named for the first colonial governor of Massachusetts, John Winthrop."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Winthrop's population, however, approximately doubles during the summer months as part-year residents return to seasonal camps located on the shores of Winthrop's Lakes and Ponds."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "A recreational area located among lakes, the town includes the villages of Winthrop and East Winthrop, and is the center of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The town is defined by several significant bodies of water, including Maranacook Lake, Annabessacook Lake, Cobbossee Lake, and the Narrows (Upper and Lower Ponds)."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "First called Pondtown for its lakes and ponds, it was settled by Timothy Foster in 1765."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "At the outlet of Maranacook Lake into Annabessacook Lake, John Chandler built a sawmill in 1768, and then added a gristmill."
+    },
+    {
+      "cityName": "Winthrop",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Winthrop is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Wiscasset",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Home to the Chewonki Foundation, Wiscasset is a tourist destination noted for early architecture and as the location of Red's Eats restaurant."
+    },
+    {
+      "cityName": "Wiscasset",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality is located in the state of Maine's Mid Coast region."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The village of Bryant Pond, on State Route 26 in the northern part of Woodstock, is the town's urban center and largest settlement."
+    },
+    {
+      "cityName": "Woodstock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Woodstock is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The annual Yarmouth Clam Festival attracts around 80000 people (around ten times the town's population) over the course of the three-day weekend."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's proximity to the Atlantic Ocean, and its location on the banks of the Royal River (formerly Yarmouth River), which empties into Casco Bay less than 1 mile (1.6 km) away, means it is a prime location as a harbor."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "When originally settled in 1636, as North Yarmouth, it was part of the Massachusetts Bay Colony, and remained part of its subsequent incarnations for 213 years."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1849, twenty-nine years after Maine's admittance to the Union as the twenty-third state, it was incorporated as the Town of Yarmouth."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town's population was 8990 in the 2020 census."
+    },
+    {
+      "cityName": "Yarmouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Ships were built in Yarmouth's harbor mainly between 1818 and the 1870s, at which point demand declined dramatically."
+    },
+    {
+      "cityName": "York",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is home to three 18-hole golf clubs, four sandy beaches, and Mount Agamenticus."
+    },
+    {
+      "cityName": "York",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Situated beside the Atlantic Ocean on the Gulf of Maine, York is a well-known summer resort town."
+    },
+    {
+      "cityName": "York",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "From south to north, it is divided into the villages of Bald Head, York Village, York Harbor, York Beach and Cape Neddick."
+    },
+    {
+      "cityName": "York Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 1992 American romantic comedy film Bed & Breakfast was filmed and set in York Beach."
+    },
+    {
+      "cityName": "York Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The York Beach area consists of Long Sands and Short Sands beaches on the Atlantic Ocean in the Gulf of Maine."
+    },
+    {
+      "cityName": "York Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The two beaches are separated by Cape Neddick."
+    },
+    {
+      "cityName": "York Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town of York consists of the communities of York Beach, Cape Neddick, York Harbor, and the village of York."
+    },
+    {
+      "cityName": "York Beach",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is home to 12529 residents, though rising to an estimated 52000 during the summer months."
+    }
+  ]
+}

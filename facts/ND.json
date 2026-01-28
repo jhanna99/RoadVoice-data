@@ -1,0 +1,3511 @@
+{
+  "facts": [
+    {
+      "cityName": "Abercrombie",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Abercrombie was founded in 1884."
+    },
+    {
+      "cityName": "Adams",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Adams was founded in 1905."
+    },
+    {
+      "cityName": "Adams",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Adams is twinned with Bulwick, Northamptonshire."
+    },
+    {
+      "cityName": "Alamo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alamo was founded in 1916."
+    },
+    {
+      "cityName": "Alexander",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alexander was founded in 1905 and is named after early North Dakota politician Alexander McKenzie."
+    },
+    {
+      "cityName": "Almont",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Almont was founded in 1906, incorporated in 1936, and reached a peak population of 232 in 1940."
+    },
+    {
+      "cityName": "Almont",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Northern Pacific Railroad tracks were removed in 1947 when the mainline was rerouted, and the city has since withered to just above 100 residents."
+    },
+    {
+      "cityName": "Ambrose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ambrose was founded in 1906."
+    },
+    {
+      "cityName": "Amenia",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amenia was the home of North Dakota governor William L. Guy before and after holding office."
+    },
+    {
+      "cityName": "Amenia",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Amenia was founded in 1880."
+    },
+    {
+      "cityName": "Amenia",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is the site of several transmitter towers of Fargo broadcast television and radio stations."
+    },
+    {
+      "cityName": "Amidon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amidon was the smallest incorporated county seat at the 2000 census."
+    },
+    {
+      "cityName": "Amidon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When the 2020 census reported its population as 24, it became the second-smallest incorporated county seat after Brewster, Nebraska, with a population of 17."
+    },
+    {
+      "cityName": "Amidon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2000, Amidon had 26 people to Brewster's 29."
+    },
+    {
+      "cityName": "Anamoose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Anamoose was established along the main line of the Soo Line Railroad in 1898 by Romanians who had come from Saskatchewan, Canada."
+    },
+    {
+      "cityName": "Anamoose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is a corruption of the Chippewa word uhnemoosh, which means \"female dog.\""
+    },
+    {
+      "cityName": "Aneta",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aneta was first settled in 1882 and incorporated as a city in 1903."
+    },
+    {
+      "cityName": "Antler",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Antler was founded in 1905."
+    },
+    {
+      "cityName": "Ardoch",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ardoch, named for the community of Ardoch, Ontario, was founded in 1881."
+    },
+    {
+      "cityName": "Argusville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Argusville was founded in 1881."
+    },
+    {
+      "cityName": "Argusville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Increasing from 147 two decades earlier due to a huge housing boom from 2004 to 2008."
+    },
+    {
+      "cityName": "Arnegard",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arnegard was founded in 1913."
+    },
+    {
+      "cityName": "Ayr",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ayr was founded in 1883."
+    },
+    {
+      "cityName": "Balta",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Balta was founded in 1912, and is known for its duck hunting."
+    },
+    {
+      "cityName": "Balta",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Carmel Cemetery, Wrought-Iron Cross Site, in or near Balta, is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Barney",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barney was founded in 1899."
+    },
+    {
+      "cityName": "Beach",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beach was incorporated in 1909."
+    },
+    {
+      "cityName": "Beach",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Walter Losinski was elected mayor of Beach in June 2022."
+    },
+    {
+      "cityName": "Beach",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Beach is approximately 1 mile away from Montana."
+    },
+    {
+      "cityName": "Belfield",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belfield was founded in 1883, and has seen many boom and busts in this oil-rich part of North Dakota."
+    },
+    {
+      "cityName": "Belfield",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In 1883 Belfield was struck by a tornado that swept away nine houses but did not cause any deaths."
+    },
+    {
+      "cityName": "Belfield",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was known as \"The Remarkable Tornado of 1883.\" Exactly one year later the area was hit by another tornado, which destroyed crops and caused total losses at some farms near Belfield."
+    },
+    {
+      "cityName": "Benedict",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Benedict was founded in 1906."
+    },
+    {
+      "cityName": "Bergen",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bergen was founded in 1905 and named after Bergen, Norway."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Berlin was founded in 1887."
+    },
+    {
+      "cityName": "Binford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Binford was founded in 1899."
+    },
+    {
+      "cityName": "Bisbee",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bisbee was founded in 1888."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bismarck was founded by European-Americans in 1872 on the east bank of the Missouri River."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bismarck is across the river from Mandan, named after a Native American tribe of the area."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the state's second-most populous city, after Fargo."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 2014, Forbes magazine ranked Bismarck as the seventh fastest-growing small city in the United States."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has been North Dakota's capital city since 1889, when the state was created from the Dakota Territory and admitted to the Union."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The North Dakota State Capitol is in central Bismarck."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The state government employs more than 4600 in the city."
+    },
+    {
+      "cityName": "Bismarck",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "As a hub of retail and health care, Bismarck is the economic center of south-central North Dakota and north-central South Dakota."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Attractions in Bottineau include the Bottineau Winter Park and \"Tommy Turtle,\" the world's largest turtle, which has become a landmark for the city."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Dakota College at Bottineau."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Built in 1978 and thirty feet (9 m) in height, the fiberglass turtle is located in the eastern half of the city and was built as a symbol for the nearby Turtle Mountains."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's population was 2194 at the 2020 census."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The International Peace Garden is nearby to the northeast."
+    },
+    {
+      "cityName": "Bottineau",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Bottineau is also home to Programmer's Broadcasting, which owns and operates KBTO, along with KTZU and KWGO in Minot."
+    },
+    {
+      "cityName": "Bowdon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowdon was founded in 1899 by Richard Sykes, a landowner from England who named it after Bowdon, near Manchester where he lived."
+    },
+    {
+      "cityName": "Bowman",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowman is approximately 16 miles north of the South Dakota Border"
+    },
+    {
+      "cityName": "Braddock",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Braddock was founded in 1898."
+    },
+    {
+      "cityName": "Briarwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Briarwood was founded in 1973."
+    },
+    {
+      "cityName": "Briarwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb directly adjacent to the city of Fargo."
+    },
+    {
+      "cityName": "Brinsmade",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brinsmade was founded in 1889."
+    },
+    {
+      "cityName": "Brinsmade",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "For people with the surname, see Brinsmade (surname)."
+    },
+    {
+      "cityName": "Brocket",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brocket was founded in 1901."
+    },
+    {
+      "cityName": "Buchanan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buchanan was once home to Henry Leuhr's Giant Bull, inspired by the World's Largest Buffalo in Jamestown, North Dakota, which stood 30 feet (9.1 m) tall and was 50 feet (15 m) long until it deteriorated and was removed from its site in January 2007."
+    },
+    {
+      "cityName": "Buchanan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Buchanan was founded in 1887."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buffalo was founded in 1878."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Despite this, Burlington is still the oldest city in Ward County, as well as north-western and north central North Dakota."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On February 28, 1884, as it was the only city in the then-newly formed Imperial Ward County (now split into Ward, Renville, Mountrail, and Burke counties), it was made the county seat, a position it held until 1888."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was founded in 1883, the third in a series that included two earlier settlements."
+    },
+    {
+      "cityName": "Butte",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Butte was founded in 1906."
+    },
+    {
+      "cityName": "Buxton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Buxton was founded in 1880."
+    },
+    {
+      "cityName": "Calio",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calio was founded in 1905."
+    },
+    {
+      "cityName": "Calvin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Likely the most historic structure left in town, the Calvin AF & AM Corinthian Masonic Lodge Number 78, was burned and razed in May 2014, after the upper floor had collapsed sometime between 2010 and 2012."
+    },
+    {
+      "cityName": "Cando",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cando was founded in 1884."
+    },
+    {
+      "cityName": "Carpio",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carpio was founded in 1898."
+    },
+    {
+      "cityName": "Carpio",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is commonly believed that the town was named after the first post office which operated out of a railcar - hence 'Car P.O.'."
+    },
+    {
+      "cityName": "Casselton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is named in honor of George Washington Cass, a president of the Northern Pacific Railway, which established a station there in 1876 to develop a town for homesteaders."
+    },
+    {
+      "cityName": "Casselton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Casselton was founded in 1876."
+    },
+    {
+      "cityName": "Cathay",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cathay was founded in 1893."
+    },
+    {
+      "cityName": "Cavalier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Icelandic State Park is located 6 miles west of Cavalier, is also home to Lake Renwick."
+    },
+    {
+      "cityName": "Cavalier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cavalier was founded in 1875 and became the county seat in 1911."
+    },
+    {
+      "cityName": "Cavalier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Tongue River flows past Cavalier and Cavalier Space Force Station is located approximately 14 miles southwest of the city."
+    },
+    {
+      "cityName": "Cavalier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Although there's the county to the west of Pembina named Cavalier County, Cavalier is not located in nearby Cavalier County."
+    },
+    {
+      "cityName": "Cayuga",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cayuga was founded in 1887."
+    },
+    {
+      "cityName": "Cayuga",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits on the banks of the Wild Rice River."
+    },
+    {
+      "cityName": "Christine",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Christine was founded in 1883."
+    },
+    {
+      "cityName": "Clifford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clifford was founded in 1883."
+    },
+    {
+      "cityName": "Colfax",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In the mid-1960s it billed itself as the \"smallest town in the U S with a public swimming pool\"."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Both this town and nearby Larson were named for an early postmaster who served the area (Columbus Larson), making it possibly the only town so named that was not named for Christopher Columbus."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Columbus was founded in 1906."
+    },
+    {
+      "cityName": "Cooperstown",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cooperstown was founded in 1882."
+    },
+    {
+      "cityName": "Courtenay",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Courtenay was founded in 1893."
+    },
+    {
+      "cityName": "Crary",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crary was founded in 1884 and is named after William Crary, who owned much of the land encompassing the present day community."
+    },
+    {
+      "cityName": "Crystal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crystal was founded in 1879."
+    },
+    {
+      "cityName": "Davenport",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Davenport was founded in 1882."
+    },
+    {
+      "cityName": "Dazey",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dazey was founded in 1883 after a local farmer, Charles Dazey, donated land to start a townsite."
+    },
+    {
+      "cityName": "Deering",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Deering was founded in 1903."
+    },
+    {
+      "cityName": "Des Lacs",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Des Lacs was founded in 1888, named after the Riviere de Lacs (now Des Lacs River), from the French for \"River The Lakes.\""
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named after the nearby lake called Devils Lake."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Devils Lake is home to Lake Region State College and the North Dakota School for the Deaf."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1884 it was renamed Devils Lake."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The local paper is the Devils Lake Journal."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Devils Lake Municipal Airport serves the city."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The first house built by a Euro-American settler was in 1882."
+    },
+    {
+      "cityName": "Devils Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "It was surveyed in 1883 and named Creelsburg and later Creel City, after the surveyor, Heber M. Creel."
+    },
+    {
+      "cityName": "Dickinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dickinson, founded in 1881, is also home to Dickinson State University."
+    },
+    {
+      "cityName": "Dickinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dickinson is home to the Ukrainian Cultural Institute, which has a museum and holds events year-round for the local Ukrainian community."
+    },
+    {
+      "cityName": "Dickinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since the North Dakota oil boom the city has become one of the fastest-growing cities in the United States."
+    },
+    {
+      "cityName": "Dickinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "According to the 2020 census, the city is estimated to have a population of 25679, however, other sources have estimates of the population at 33646 or possibly exceeding 35000."
+    },
+    {
+      "cityName": "Dodge",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dodge was founded in 1915."
+    },
+    {
+      "cityName": "Donnybrook",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first place named Donnybrook was founded in 1895 and named after Donnybrook Fair in Ireland."
+    },
+    {
+      "cityName": "Donnybrook",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Donnybrook was then reused in 1898 when a new town formed to the west of Goetz along the main line of the Soo Line Railroad."
+    },
+    {
+      "cityName": "Donnybrook",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1897, the postmaster of this site changed the name to Goetz."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Douglas was founded in 1906."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In the late 1990s and early 2000s, multiple business buildings on Main Street were demolished."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Between 2005 and 2009, the school was razed for an unknown reason."
+    },
+    {
+      "cityName": "Douglas",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today, the town is a shell of its former self, with a bar being the only business left in operation."
+    },
+    {
+      "cityName": "Drake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Drake was founded in 1902 and named after Herman Drake, a settler."
+    },
+    {
+      "cityName": "Drayton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Drayton was founded in 1878."
+    },
+    {
+      "cityName": "Dunn Center",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dunn Center was founded in 1914."
+    },
+    {
+      "cityName": "Dunseith",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dunseith is also the home of the world's largest turtle sculpture, the \"W'eel Turtle\", made of more than 2000 wheels painted green."
+    },
+    {
+      "cityName": "Dunseith",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dunseith is best known for its proximity to the International Peace Garden."
+    },
+    {
+      "cityName": "Dunseith",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The port of entry at the Peace Garden is one of three 24-hour ports in North Dakota (the others being Portal and Pembina)."
+    },
+    {
+      "cityName": "Dwight",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dwight was founded in 1881."
+    },
+    {
+      "cityName": "Edmore",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edmore was founded in 1901."
+    },
+    {
+      "cityName": "Egeland",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Egeland was founded in 1905."
+    },
+    {
+      "cityName": "Ellendale",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellendale is the home of Trinity Bible College, located on the former campus of the North Dakota State Normal and Industrial School and the Ellendale Opera House currently under renovation."
+    },
+    {
+      "cityName": "Ellendale",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ellendale was founded in 1882."
+    },
+    {
+      "cityName": "Elliott",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elliott was founded in 1883."
+    },
+    {
+      "cityName": "Emerado",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grand Forks Air Force Base is located near Emerado."
+    },
+    {
+      "cityName": "Epping",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Epping was founded in 1905 along the transcontinental rail line of the Great Northern Railway."
+    },
+    {
+      "cityName": "Epping",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name comes from the city of Epping in England."
+    },
+    {
+      "cityName": "Esmond",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Esmond was founded in 1901."
+    },
+    {
+      "cityName": "Fairdale",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairdale was founded in 1905."
+    },
+    {
+      "cityName": "Fairmount",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairmount was founded in 1884."
+    },
+    {
+      "cityName": "Fairmount",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "In July 1884, a tornado destroyed the schoolhouse in Fairmount."
+    },
+    {
+      "cityName": "Fairmount",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fifteen students were injured, and the teacher's leg was fractured."
+    },
+    {
+      "cityName": "Fargo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fargo was founded in 1871 on the Red River of the North floodplain."
+    },
+    {
+      "cityName": "Fargo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Dakota State University is in the city."
+    },
+    {
+      "cityName": "Fargo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a cultural, retail, health care, educational, and industrial center for southeastern North Dakota and northwestern Minnesota."
+    },
+    {
+      "cityName": "Fessenden",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1893 and is home of the Wells County Fair."
+    },
+    {
+      "cityName": "Fingal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fingal was founded in 1891."
+    },
+    {
+      "cityName": "Fingal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fingal was named and settled by immigrants from Fingal, Ontario, Canada."
+    },
+    {
+      "cityName": "Finley",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Finley was founded in 1897."
+    },
+    {
+      "cityName": "Flasher",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Flasher was founded in 1902."
+    },
+    {
+      "cityName": "Flaxton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Flaxton was founded in 1900 and was named because the predominant crop in the area is flax."
+    },
+    {
+      "cityName": "Fordville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fordville was founded in 1905."
+    },
+    {
+      "cityName": "Forest River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forest River was founded on July 13, 1887."
+    },
+    {
+      "cityName": "Forman",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forman was founded in 1883."
+    },
+    {
+      "cityName": "Fort Ransom",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Ransom was founded in 1880 with the first merchants arriving in 1878."
+    },
+    {
+      "cityName": "Fort Yates",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Since 1970 the population has declined markedly from more than 1100 residents, as people have left for other locations for work."
+    },
+    {
+      "cityName": "Fortuna",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fortuna was founded in 1913 along a Soo Line Railroad branch line running between Flaxton, North Dakota and Whitetail, Montana."
+    },
+    {
+      "cityName": "Fortuna",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name comes from the Roman goddess of fortune and was chosen by railroad officials to note the settlers' expectations of prosperity with the arrival of the railroad."
+    },
+    {
+      "cityName": "Fortuna",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fortuna has the latest sunset time several days after the summer solstice in the contiguous 48 states."
+    },
+    {
+      "cityName": "Fortuna",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The sun set at 10:03:24 PM Central Daylight Time (CDT) on June 25, 2025."
+    },
+    {
+      "cityName": "Fredonia",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fredonia was founded in 1905."
+    },
+    {
+      "cityName": "Frontier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frontier was founded in 1976."
+    },
+    {
+      "cityName": "Frontier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Frontier is located south of the city of Fargo and is located roughly six miles southwest of that city's downtown."
+    },
+    {
+      "cityName": "Frontier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since Frontier's founding, the adjacent city of Fargo has grown to the point where it almost completely encompasses Frontier's city limits."
+    },
+    {
+      "cityName": "Frontier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Only a small gap on the city's southwest corner keeps Frontier from being a complete enclave community within Fargo's border."
+    },
+    {
+      "cityName": "Fullerton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is home to the Carroll House Hotel, which is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Galesburg",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Galesburg was founded in 1882."
+    },
+    {
+      "cityName": "Galesburg",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Galesburg is the home to the world's fifth tallest currently standing structure, the KRDK-TV mast, which stands at 2060 ft (630 m) tall."
+    },
+    {
+      "cityName": "Gardena",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gardena was founded in 1905."
+    },
+    {
+      "cityName": "Gilby",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilby was founded in 1887."
+    },
+    {
+      "cityName": "Glenburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenburn was founded in 1903."
+    },
+    {
+      "cityName": "Glenfield",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Glenfield was founded in 1912."
+    },
+    {
+      "cityName": "Golva",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Golva was founded in 1915."
+    },
+    {
+      "cityName": "Goodrich",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goodrich was founded in 1901."
+    },
+    {
+      "cityName": "Grace City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grace City was founded in 1910."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's University of North Dakota is the oldest institution of higher education in the state."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the western banks of the north-flowing Red River of the North, in a flat region known as the Red River Valley, the city is prone to flooding."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city was named for its location at the fork of the Red River and the Red Lake River."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Alerus Center and Ralph Engelstad Arena host athletic and other events, while the Empire Arts Center and Chester Fritz Auditorium are the city's largest cultural venues."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Originally called Les Grandes Fourches by French fur traders from Canada, who had long worked and lived in the region, steamboat captain Alexander Griggs platted a community after being forced to winter there."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The post office was established in 1870, and the town was incorporated on February 22, 1881."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Initially dependent on local agriculture, the city's economy has since broadened to include a wide variety of industries, including higher education, defense, health care, manufacturing, food processing, and scientific research."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The Red River Flood of 1997 devastated the city."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Grand Forks, along with its twin city of East Grand Forks, Minnesota, forms the center of the Grand Forks metropolitan statistical area, which is often called Greater Grand Forks or the Grand Cities."
+    },
+    {
+      "cityName": "Grand Forks",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Grand Forks is served by Grand Forks International Airport and Grand Forks Air Force Base."
+    },
+    {
+      "cityName": "Grandin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grandin was the birthplace of the abstract expressionist painter Clyfford Still."
+    },
+    {
+      "cityName": "Grandin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grandin is a city in Cass and Traill counties in the State of North Dakota, founded in 1881."
+    },
+    {
+      "cityName": "Grandin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is now a bedroom community for the nearby Fargo-Moorhead area."
+    },
+    {
+      "cityName": "Grandin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The farm that belonged to the city namesake brothers was one of the earliest adopters of the telephone in the state."
+    },
+    {
+      "cityName": "Granville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Granville was founded in 1900."
+    },
+    {
+      "cityName": "Great Bend",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1888, and incorporated as a village in 1908."
+    },
+    {
+      "cityName": "Great Bend",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 49 at the 2020 census."
+    },
+    {
+      "cityName": "Grenora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grenora was founded in July 1916 at the terminus of a Great Northern Railway branch line that began in Stanley."
+    },
+    {
+      "cityName": "Grenora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name is a portmanteau of letters in the railway's name: GREat NOrthern RAilway."
+    },
+    {
+      "cityName": "Grenora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The tracks were in place until 2002, when Great Northern successor BNSF Railway filed for abandonment."
+    },
+    {
+      "cityName": "Grenora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city's motto is, \"Friendliness lives here \u2013 you're only a stranger once.\" The city is home to a senior citizen's center, credit union, gas station, grain elevator, restaurant, bar, apartment buildings, and community-built low-income housing."
+    },
+    {
+      "cityName": "Grenora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "There are also two churches: the St. Olaf Lutheran Church (ELCA), and St. Boniface Catholic Church."
+    },
+    {
+      "cityName": "Gwinner",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gwinner was founded in 1900."
+    },
+    {
+      "cityName": "Hague",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hague was founded in 1902."
+    },
+    {
+      "cityName": "Halliday",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "John S. Lesmeister, who served as the 30th North Dakota State Treasurer, grew up in Halliday."
+    },
+    {
+      "cityName": "Hampden",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hampden is a tiny city in Ramsey County, North Dakota, United States, which was founded in 1903."
+    },
+    {
+      "cityName": "Hankinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hankinson was founded in 1886."
+    },
+    {
+      "cityName": "Hannaford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hannaford was founded in 1883."
+    },
+    {
+      "cityName": "Hannah",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hannah was founded in 1897."
+    },
+    {
+      "cityName": "Harvey",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harvey was founded in 1893 as a division point by the Soo Line Railway."
+    },
+    {
+      "cityName": "Harvey",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harvey is believed to have been named for a director of the Soo Line Railway, Col."
+    },
+    {
+      "cityName": "Harvey",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Scott William Harvey of Minneapolis, Minnesota."
+    },
+    {
+      "cityName": "Harwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harwood was founded in 1881."
+    },
+    {
+      "cityName": "Harwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has become a bedroom community of the nearby Fargo-Moorhead area."
+    },
+    {
+      "cityName": "Hatton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hatton was founded in 1882, and was named for Frank Hatton, then Assistant Postmaster General."
+    },
+    {
+      "cityName": "Hatton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hatton is the birthplace of 20th century Arctic explorer and pilot Carl Ben Eielson."
+    },
+    {
+      "cityName": "Havana",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Havana was founded in 1887."
+    },
+    {
+      "cityName": "Haynes",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The name was changed to Haynes in 1907 to honor George B. Haynes, president of the Milwaukee Road at the time."
+    },
+    {
+      "cityName": "Haynes",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Haynes was founded as Gadsden in 1906 along the Milwaukee Road's transcontinental rail line known as the Pacific Extension."
+    },
+    {
+      "cityName": "Hazen",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hazen was founded in 1913."
+    },
+    {
+      "cityName": "Hazen",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hazen has a K\u201312 school system."
+    },
+    {
+      "cityName": "Hettinger",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Dakota State University operates a livestock research station near Hettinger, which often partners with South Dakota State University's Antelope Range and Livestock Research Station for sheep research."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hillsboro was founded in 1881."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hillsboro sits in the fertile Red River Valley."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hillsboro is approximately 10 miles away from the Red River/North Dakota-Minnesota border."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Local agriculture has dominated the area's economy from the beginning."
+    },
+    {
+      "cityName": "Hillsboro",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "With its location on Interstate 29, halfway between the two metropolitan centers of Greater Grand Forks and Fargo\u2013Moorhead, Hillsboro has seen steady population growth in recent years and has become somewhat of a bedroom community."
+    },
+    {
+      "cityName": "Hoople",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hoople, named for early settler Alan Hoople, was founded in 1889."
+    },
+    {
+      "cityName": "Hoople",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hoople's nickname is \"Tater Town.\""
+    },
+    {
+      "cityName": "Hope",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hope was founded in 1881."
+    },
+    {
+      "cityName": "Horace",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Horace was founded in 1882 at a time of widespread European-American settlement in the territory."
+    },
+    {
+      "cityName": "Horace",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is apparently 5\u20138 miles south of the city of West Fargo and about 8 miles away from Fargo."
+    },
+    {
+      "cityName": "Horace",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 2025, it is now 7239."
+    },
+    {
+      "cityName": "Horace",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In fact, Horace is one of North Dakota's Fastest growing cities in the state."
+    },
+    {
+      "cityName": "Hunter",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hunter was founded in 1881."
+    },
+    {
+      "cityName": "Hurdsfield",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hurdsfield was founded in 1903."
+    },
+    {
+      "cityName": "Inkster",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Inkster was founded in 1884, in an area that had been settled by George T. Inkster in 1878."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jamestown was founded in 1883 and is home to the University of Jamestown."
+    },
+    {
+      "cityName": "Jud",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jud was founded in 1904 and named for county settler Judson LaMoure."
+    },
+    {
+      "cityName": "Jud",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located along unpaved 61st Street SE, 9 miles (14 km) west of U S Route 281 and 25 miles (40 km) south of Interstate 94 in the midst of settled farmland and open plains."
+    },
+    {
+      "cityName": "Karlsruhe",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Old Saints Peter and Paul Cemetery, Wrought-Iron Cross Site, in or near Karlsruhe, is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Karlsruhe",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Karlsruhe was founded in 1912."
+    },
+    {
+      "cityName": "Karlsruhe",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Peter and Paul Catholic Church in Karlsruhe features works by the artist Count Berthold von Imhoff."
+    },
+    {
+      "cityName": "Kathryn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after the daughter of a railroad man."
+    },
+    {
+      "cityName": "Kathryn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kathryn was founded in 1900."
+    },
+    {
+      "cityName": "Kensal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the location of, or nearest community to, the Cecil Baker Round Barn, which was built in 1921 and is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Kensal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kensal was founded in 1892."
+    },
+    {
+      "cityName": "Kief",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kief was founded in 1908."
+    },
+    {
+      "cityName": "Killdeer",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Killdeer (Hidatsa: C\u00ed\u00ecdadagi Arud\u00edheesh, \"happy land\") is a city in Dunn County, North Dakota, United States."
+    },
+    {
+      "cityName": "Kindred",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kindred primarily serves as a bedroom community for Fargo, which is located about 25 miles northeast."
+    },
+    {
+      "cityName": "Knox",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Knox was founded in 1887."
+    },
+    {
+      "cityName": "Kramer",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kramer was founded in 1905."
+    },
+    {
+      "cityName": "Kulm",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kulm was founded in 1892."
+    },
+    {
+      "cityName": "LaMoure",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "LaMoure was founded in 1882 and was named after Judson LaMoure, a territorial legislator (LaMoure County and the cities of Jud and Judson are also named after him)."
+    },
+    {
+      "cityName": "LaMoure",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "LaMoure was one of eight global transmission sites of the Omega Navigation System until its closure on September 30, 1997."
+    },
+    {
+      "cityName": "LaMoure",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The station is now used for VLF communication purposes by the U S Navy."
+    },
+    {
+      "cityName": "Landa",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landa was founded in 1904."
+    },
+    {
+      "cityName": "Langdon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Langdon was designated as the county seat in 1884, was founded in 1885, and was incorporated on February 25, 1888."
+    },
+    {
+      "cityName": "Lankin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lankin was founded in 1905."
+    },
+    {
+      "cityName": "Lansford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lansford was founded in 1903."
+    },
+    {
+      "cityName": "Larimore",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Larimore is part of the \"Grand Forks, ND-MN Metropolitan Statistical Area\" or \"Greater Grand Forks\"."
+    },
+    {
+      "cityName": "Lawton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawton was founded in 1902."
+    },
+    {
+      "cityName": "Leal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leal was founded in 1892."
+    },
+    {
+      "cityName": "Leal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name comes from the Scots word for \"faithful,\" which in the phrase laund o the leal means Heaven."
+    },
+    {
+      "cityName": "Leeds",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was one of several sites along the Great Northern Railway's transcontinental route between Devils Lake and Minot that were named after places in England (the others were Berwick, Norwich, Penn, Rugby, Surrey, Tunbridge, and York)."
+    },
+    {
+      "cityName": "Leeds",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Leeds was founded in 1887 and named after Leeds, England."
+    },
+    {
+      "cityName": "Lehr",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lehr was founded in 1898."
+    },
+    {
+      "cityName": "Leonard",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leonard was founded in 1881."
+    },
+    {
+      "cityName": "Lidgerwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lidgerwood was founded in 1886."
+    },
+    {
+      "cityName": "Lignite",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lignite was founded in 1907 and was named for the quantities of lignite, a low-grade coal, present in the area."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lincoln was founded in 1977 and incorporated as a city on July 12, 1977."
+    },
+    {
+      "cityName": "Lincoln",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb of adjacent Bismarck, and also a core city of the Bismarck-Mandan Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Linton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A nearby historic site listed on the National Register of Historic Places is Sacred Heart Cemetery, Wrought-Iron Cross Site, in or near Linton."
+    },
+    {
+      "cityName": "Linton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "When compared with the other 356 cities in North Dakota, Linton ranks in the top twelve percent based on the number of its residents."
+    },
+    {
+      "cityName": "Linton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city serves as a governmental, commercial and business hub for Emmons County."
+    },
+    {
+      "cityName": "Litchville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Litchville was founded in 1900."
+    },
+    {
+      "cityName": "Loma",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loma was founded in 1905."
+    },
+    {
+      "cityName": "Loraine",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Loraine was founded in 1907 and is said to have been named by Mohall banker Sherwood H. Sleeper (namesake of Sherwood) for Fort La Reine, one of the forts of the exploration directed by Pierre Gaultier de Varennes, sieur de La V\u00e9rendrye in the 18th century."
+    },
+    {
+      "cityName": "Ludden",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ludden was founded in 1886."
+    },
+    {
+      "cityName": "Luverne",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Luverne was founded in 1912."
+    },
+    {
+      "cityName": "Maddock",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maddock was founded in 1901."
+    },
+    {
+      "cityName": "Makoti",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Makoti was founded in 1911."
+    },
+    {
+      "cityName": "Mandan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1879 on the west side of the upper Missouri River, it was designated in 1881 as the county seat of Morton County."
+    },
+    {
+      "cityName": "Mandan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Across the Missouri River from Bismarck."
+    },
+    {
+      "cityName": "Mantador",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mantador was founded in 1893."
+    },
+    {
+      "cityName": "Manvel",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manvel was founded in 1881."
+    },
+    {
+      "cityName": "Manvel",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It sits on the banks of the Turtle River."
+    },
+    {
+      "cityName": "Mapleton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits on the banks of the Maple River."
+    },
+    {
+      "cityName": "Mapleton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The core cities are ten miles to the east of Mapleton."
+    },
+    {
+      "cityName": "Max",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Max was founded in 1906."
+    },
+    {
+      "cityName": "Maxbass",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maxbass was founded in 1905."
+    },
+    {
+      "cityName": "Mayville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is named for May Arnold, the first white child born in the immediate area."
+    },
+    {
+      "cityName": "Mayville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1881."
+    },
+    {
+      "cityName": "Mayville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to Mayville State University."
+    },
+    {
+      "cityName": "Mayville",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mayville is often grouped with the neighboring city of Portland and called \"May-Port\"."
+    },
+    {
+      "cityName": "McClusky",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McClusky was founded in 1905."
+    },
+    {
+      "cityName": "McHenry",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McHenry was founded in 1899."
+    },
+    {
+      "cityName": "McVille",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "McVille was founded in 1906."
+    },
+    {
+      "cityName": "Medina",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Medina was founded in 1899."
+    },
+    {
+      "cityName": "Medora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Medora is home to the South unit of Theodore Roosevelt National Park and the Theodore Roosevelt Presidential Library, Bully Pulpit Golf Course, Chateau de Mores, and home to Sully Creek State Park, and to the seasonal Medora Musical at the Burning Hills Ampitheater."
+    },
+    {
+      "cityName": "Medora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Much of the surrounding area is part of either Little Missouri National Grassland or Theodore Roosevelt National Park."
+    },
+    {
+      "cityName": "Medora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a popular tourist destination during summer."
+    },
+    {
+      "cityName": "Medora",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The only incorporated place in Billings County, it is also the county seat."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 88 at the 2020 census, and was estimated to be 126 in 2024, Mercer was founded in 1905 along a now-abandoned branch line of the Northern Pacific Railway extending from Carrington to Turtle Lake."
+    },
+    {
+      "cityName": "Mercer",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name comes from William Henry Harrison Mercer, a well known rancher in the Missouri River Valley for many years and for whom Mercer County is also named."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the passengers on the two trains were soldiers returning home from World War II."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Michigan City was founded in 1882 by Edwin A. Lamb, who came to the area from Port Huron, Michigan."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city hosts the annual Michigan Days festival each August."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Though the official name is Michigan City, local residents commonly refer to the city as Michigan."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town population has been declining since the 1980 census."
+    },
+    {
+      "cityName": "Michigan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1945, a Great Northern passenger train collided into the rear of another near the city, causing 309 injuries and 34 deaths."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the passengers on the two trains were soldiers returning home from World War II."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Michigan City was founded in 1882 by Edwin A. Lamb, who came to the area from Port Huron, Michigan."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city hosts the annual Michigan Days festival each August."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Though the official name is Michigan City, local residents commonly refer to the city as Michigan."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town population has been declining since the 1980 census."
+    },
+    {
+      "cityName": "Michigan City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 1945, a Great Northern passenger train collided into the rear of another near the city, causing 309 injuries and 34 deaths."
+    },
+    {
+      "cityName": "Milton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milton was founded in 1887."
+    },
+    {
+      "cityName": "Minnewaukan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It serves as the county seat and is fourth largest city in the county, after Fort Totten, Leeds, and Maddock."
+    },
+    {
+      "cityName": "Minnewaukan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Minnewaukan was founded in 1884."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minot was founded in 1886 during the construction of James J. Hill's Great Northern Railway."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is most widely known for the Minot Air Force Base, approximately 15 miles (24 km) north of the city."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With a population of 48377 at the 2020 census, Minot is the state's fourth-most populous city."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Minot is also known as \"Magic City\", commemorating its remarkable growth in size over a short time."
+    },
+    {
+      "cityName": "Minot",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is a trading center for a large part of northern North Dakota, southwestern Manitoba, and southeastern Saskatchewan."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minot AFB is the home of two major wings: the 5th Bomb Wing and 91st Missile Wing, both of the Air Force Global Strike Command (AFGSC)."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Minot Air Force Base ( MY-not; IATA: MIB, ICAO: KMIB, FAA LID: MIB) is a United States Air Force (USAF) installation in Ward County, North Dakota, thirteen miles (20 km) north of the city of Minot via U S Route 83."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 2020 census, the base was counted as a CDP with a total population of 5017, down from 5521 in 2010."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Originally opened 69 years ago in 1957 as an Air Defense Command (ADC) base, Minot AFB became a major Strategic Air Command (SAC) base in the early 1960s, with both nuclear armed intercontinental ballistic missiles and manned bombers and aerial refueling aircraft."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "When SAC was inactivated in 1992, the nuclear mission of the base was divided between two commands, with missiles going to the Air Force Space Command (AFSPC) and manned bombers to the Air Combat Command (ACC)."
+    },
+    {
+      "cityName": "Minot Air Force Base",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "With the establishment of AFGSC in 2009, missiles and manned bombers (excluding the B-1 Lancer) were transferred from AFSPC and ACC to AFGSC in late 2009 and early 2010."
+    },
+    {
+      "cityName": "Minto",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minto was founded in 1881."
+    },
+    {
+      "cityName": "Monango",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monango was founded in 1886."
+    },
+    {
+      "cityName": "Montpelier",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montpelier was founded in 1885."
+    },
+    {
+      "cityName": "Mooreton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mooreton was founded in 1884."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mountain was founded in 1884."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community was the destination of many Icelandic immigrants who began arriving in 1879."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Geir Haarde, a former prime minister of Iceland, attended the Annual 2 August Celebration in 2007."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "During his visit, city officials told Haarde about a goal to raise $1.3 million for a new community center."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The government of Iceland has since donated $75000 towards the center."
+    },
+    {
+      "cityName": "Mountain",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The center was completed in 2016."
+    },
+    {
+      "cityName": "Neche",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits on the banks of the Pembina River."
+    },
+    {
+      "cityName": "New England",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New England was founded in 1887, predating all other settlements in Hettinger County by many years."
+    },
+    {
+      "cityName": "New England",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Until the tracks were abandoned in 1983, the city was located at the terminus of a Milwaukee Road branch line that split from the railroad's Pacific Extension in McLaughlin, South Dakota."
+    },
+    {
+      "cityName": "New England",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name recognizes that many early settlers were from the New England states of Vermont and Massachusetts."
+    },
+    {
+      "cityName": "New England",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The silhouette of the two Rainy Buttes near New England is a distinguishing symbol of the town."
+    },
+    {
+      "cityName": "New Rockford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Rockford was founded in 1883."
+    },
+    {
+      "cityName": "New Salem",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Salem was founded in 1883."
+    },
+    {
+      "cityName": "New Salem",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Salem is approximately 24 miles west of Mandan and 31 miles west of Bismarck."
+    },
+    {
+      "cityName": "New Town",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Town is home to Nueta Hidatsa Sahnish College."
+    },
+    {
+      "cityName": "New Town",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "New Town was platted in 1950 as a replacement site for the residents of Sanish and Van Hook, as these towns were scheduled to be flooded by the creation of Lake Sakakawea, a reservoir to provide water for irrigation."
+    },
+    {
+      "cityName": "New Town",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Town is located on State Highway 23 at the crossing of Lake Sakakawea by the Four Bears Bridge."
+    },
+    {
+      "cityName": "Newburg",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newburg was founded in 1906."
+    },
+    {
+      "cityName": "Niagara",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Niagara was founded in 1883."
+    },
+    {
+      "cityName": "Nome",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Nome was founded in 1901."
+    },
+    {
+      "cityName": "Noonan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Noonan was founded in 1907 and named after a family that had business, farm, and coal interests in the area."
+    },
+    {
+      "cityName": "Noonan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the birthplace of Gerald W. VandeWalle, who served a record-longest 45 years on the North Dakota Supreme Court beginning in 1978, including 26 years as its Chief Justice, from 1993 to 2019."
+    },
+    {
+      "cityName": "Noonan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was once known as \"The White City\" because of an ordinance requiring all buildings to be painted white."
+    },
+    {
+      "cityName": "North River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North River was founded in 1973."
+    },
+    {
+      "cityName": "Oakes",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakes was founded in 1886."
+    },
+    {
+      "cityName": "Oberon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oberon was founded in 1886."
+    },
+    {
+      "cityName": "Osnabrock",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Osnabrock was founded in 1882 and incorporated as a village in 1903."
+    },
+    {
+      "cityName": "Osnabrock",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after Osnabruck, Ontario, the home town of its first postmaster, James T. Anderson."
+    },
+    {
+      "cityName": "Osnabrock",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "(Osnabruck was itself named after the city of Osnabr\u00fcck in northwest Germany.) Locally, Osnabrock is called \"Oz,\" and its streets have names including \"Yellow Brick Road,\" \"Wizard Street,\" \"Cyclone Street\" and \"Emerald Street.\""
+    },
+    {
+      "cityName": "Oxbow",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is an upscale bedroom community located 15 miles (24 km) south of Fargo."
+    },
+    {
+      "cityName": "Oxbow",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated as a city October 25, 1988."
+    },
+    {
+      "cityName": "Page",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Page was founded in 1882."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Park River was founded in 1884."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Park River was named after the river Park River."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1903, a Park River blacksmith named Samuel Holland built a motor car called the Holland Special."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The controversial and often peripatetic father of John D. Rockefeller, William Avery Rockefeller, lived for a time on a 160-acre ranch in Park River that his son had purchased for him."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The senior Rockefeller lived in the town through the 1890s, even after the original property was sold by his son in 1889."
+    },
+    {
+      "cityName": "Park River",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "He built at least five more cars between 1903 and 1908."
+    },
+    {
+      "cityName": "Parshall",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parshall was founded in 1914 by George Parshall, and is the home of the Paul Broste Rock Museum."
+    },
+    {
+      "cityName": "Parshall",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Randy Hedberg, a former NFL quarterback, was born and raised in Parshall."
+    },
+    {
+      "cityName": "Parshall",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Another notable native of Parshall was Raymond Cross, a stand out high school basketball player and later a law professor in Montana."
+    },
+    {
+      "cityName": "Pekin",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The first European settlers immigrated to the area in the mid-19th century and Pekin was founded in 1906."
+    },
+    {
+      "cityName": "Perth",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Perth was founded in 1897."
+    },
+    {
+      "cityName": "Perth",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is not to be confused with Perth, Scotland or Perth, Western Australia."
+    },
+    {
+      "cityName": "Perth",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Perth had a newspaper, the Perth Journal, from 1898 to 1904."
+    },
+    {
+      "cityName": "Pick City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pick City was founded in 1946 and named after Lewis A. Pick, director of the Missouri River office of the United States Army Corps of Engineers."
+    },
+    {
+      "cityName": "Pick City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It overlooks the Garrison Dam."
+    },
+    {
+      "cityName": "Pingree",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pingree was founded in 1882."
+    },
+    {
+      "cityName": "Plaza",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plaza was founded in 1906."
+    },
+    {
+      "cityName": "Plaza",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The business district is built around a central town square, city park or \"plaza\"."
+    },
+    {
+      "cityName": "Plaza",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A key feature of the plaza is a recently completed large covered gazebo."
+    },
+    {
+      "cityName": "Portal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Portal was founded in 1893."
+    },
+    {
+      "cityName": "Portal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Portal sits along the Canadian border and is a major port of entry border crossing for road (connecting US Route 52 and Saskatchewan Highway 39) and rail traffic."
+    },
+    {
+      "cityName": "Portal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "North Portal, Saskatchewan is just over the border north of Portal and adjacent to it."
+    },
+    {
+      "cityName": "Portal",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is one of three year-round, 24-hour ports in North Dakota (the others being Dunseith and Pembina)."
+    },
+    {
+      "cityName": "Powers Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Powers Lake was founded in 1909."
+    },
+    {
+      "cityName": "Prairie Rose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Prairie Rose was founded in 1975 and it was incorporated in 1978."
+    },
+    {
+      "cityName": "Prairie Rose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is an enclave suburb of Fargo."
+    },
+    {
+      "cityName": "Prairie Rose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "There are 21 homes in the city."
+    },
+    {
+      "cityName": "Prairie Rose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There was an effort to merge with Fargo in 1996, but the vote by Prairie Rose residents failed."
+    },
+    {
+      "cityName": "Reeder",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reeder was founded in 1907 along the Chicago, Milwaukee, St. Paul and Pacific Railroad and named after E. O. Reeder, the railroad's assistant chief engineer."
+    },
+    {
+      "cityName": "Reeder",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A strain of wheat developed by the North Dakota Agriculture Experiment Station has been named after the town."
+    },
+    {
+      "cityName": "Reeder",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Reeder is a stop along the old Yellowstone Trail, the first transcontinental automobile highway in the Northern United States."
+    },
+    {
+      "cityName": "Regan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Regan was founded in 1912."
+    },
+    {
+      "cityName": "Regan",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 35 at the 2020 census."
+    },
+    {
+      "cityName": "Reile's Acres",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reile's Acres was founded in 1977."
+    },
+    {
+      "cityName": "Reynolds",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reynolds, named for pioneer settler Doctor Henry Reynolds, was founded in 1881."
+    },
+    {
+      "cityName": "Rhame",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rhame was founded in 1908."
+    },
+    {
+      "cityName": "Richardton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richardton was founded in 1883."
+    },
+    {
+      "cityName": "Richardton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A meteorite that landed near Richardton was named for it."
+    },
+    {
+      "cityName": "Richardton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Richardton is home to Assumption Abbey, a Benedictine abbey."
+    },
+    {
+      "cityName": "Robinson",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Robinson was founded in 1911."
+    },
+    {
+      "cityName": "Rocklake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city lies a few miles south of the Canada\u2013United States border, near the junction of U S Route 281 and North Dakota State Highway 5."
+    },
+    {
+      "cityName": "Rogers",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rogers was founded in 1897."
+    },
+    {
+      "cityName": "Rolla",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city contains a small park and a small outdoor pool."
+    },
+    {
+      "cityName": "Rugby",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rugby was founded in 1886."
+    },
+    {
+      "cityName": "Rugby",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rugby is often billed as the geographic center of North America."
+    },
+    {
+      "cityName": "Ruso",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is tied with Monowi, Nebraska at being the least populated community in the United States that is currently inhabited."
+    },
+    {
+      "cityName": "Rutland",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rutland was founded in 1887."
+    },
+    {
+      "cityName": "Ryder",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ryder was founded in 1906."
+    },
+    {
+      "cityName": "Saint John",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is by the Canadian border to Manitoba via the St. John\u2013Lena Border Crossing."
+    },
+    {
+      "cityName": "Saint Thomas",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city, located in the Red River Valley region and is located 14 miles from the Red River."
+    },
+    {
+      "cityName": "Sanborn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sanborn was founded in 1879."
+    },
+    {
+      "cityName": "Sarles",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sarles was founded in 1905 at the end of the Great Northern railway extension north of Munich, called the \"Sarles Branch\"."
+    },
+    {
+      "cityName": "Sarles",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is named for North Dakota Governor Elmore Y. Sarles."
+    },
+    {
+      "cityName": "Sawyer",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sawyer was founded in 1898."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scranton was founded in 1907 along the Milwaukee Road rail line known as the Pacific Extension."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named after Scranton, Pennsylvania because, like that city, it was located within a region of coal mining."
+    },
+    {
+      "cityName": "Selfridge",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Selfridge was founded in 1911."
+    },
+    {
+      "cityName": "Selfridge",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Other settlements near this town include Fort Yates and Porcupine."
+    },
+    {
+      "cityName": "Selfridge",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Previous settlements that have since dissolved are Maple Leaf and Chadwick."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sharon was founded in 1896."
+    },
+    {
+      "cityName": "Sheldon",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sheldon was founded in 1882."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was founded in 1904 and named after Sherwood H. Sleeper, a Mohall banker who had owned land in the area."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sherwood's weather station has one of the lowest (if not the lowest) yearly precipitation levels in North Dakota, with an annual normal of 13.13 inches (1971\u20132000)."
+    },
+    {
+      "cityName": "Sherwood",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sherwood is designated by the U S Customs and Border Protection agency as a port of entry between the United States and Canada."
+    },
+    {
+      "cityName": "Sheyenne",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sheyenne was founded in 1883."
+    },
+    {
+      "cityName": "Sheyenne",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A community center and the Log Cabin Museum are located on Main Street (U S Route 281)."
+    },
+    {
+      "cityName": "Sheyenne",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "On the east end of town there is a park with campsites located on Warsing Dam."
+    },
+    {
+      "cityName": "Sheyenne",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Sheyenne is also home to two Lutheran churches: Grace Lutheran and First Lutheran."
+    },
+    {
+      "cityName": "Sibley",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sibley was founded in 1959."
+    },
+    {
+      "cityName": "Solen",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town has a gas station and automotive repair shop called Hoffman's Garage which has been family owned and operated since the early 1900s."
+    },
+    {
+      "cityName": "Souris",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Souris was founded in 1901."
+    },
+    {
+      "cityName": "South Heart",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Heart was founded in 1908."
+    },
+    {
+      "cityName": "Springbrook",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also spelled Spring Brook."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanley was founded in 1902."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's economy is heavily connected to the nearby oil-rich Bakken Formation."
+    },
+    {
+      "cityName": "Stanton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stanton is home to the Knife River Indian Villages National Historic Site, which houses a Hidatsa earth lodge and three abandoned villages."
+    },
+    {
+      "cityName": "Stanton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "One of these, Awatixa, is believed to be the former home of Sakakawea."
+    },
+    {
+      "cityName": "Stanton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Stanton was founded in 1883 and became the county seat when Mercer County organized in 1884."
+    },
+    {
+      "cityName": "Starkweather",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Starkweather was founded in 1902."
+    },
+    {
+      "cityName": "Steele",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Steele is approximately 41 miles east of Bismarck, 60 miles west of Jamestown, and 154 miles west of Fargo."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sterling is part of the \"Bismarck, ND Metropolitan Statistical Area\" or \"Bismarck-Mandan\"."
+    },
+    {
+      "cityName": "Strasburg",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Strasburg is a historically German-speaking city in Emmons County, North Dakota, United States."
+    },
+    {
+      "cityName": "Strasburg",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Strasburg was founded in 1902."
+    },
+    {
+      "cityName": "Streeter",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1905, Streeter celebrated its centennial in July 2005 with a weekend festival."
+    },
+    {
+      "cityName": "Streeter",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is at one end of what is considered the straightest road in America, with the other end being Hickson."
+    },
+    {
+      "cityName": "Streeter",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The road consists of Highway 30 in the west to Highway 46 in the east."
+    },
+    {
+      "cityName": "Sykeston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sykeston was founded in 1883 by Richard Sykes, a prominent landowner and founder of several other cities in the state."
+    },
+    {
+      "cityName": "Sykeston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2010, the center of population of North Dakota was located approximately 9 miles (14 km) southeast of Sykeston."
+    },
+    {
+      "cityName": "Tioga",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tioga was founded in 1902 and named by settlers from Tioga, New York."
+    },
+    {
+      "cityName": "Tolley",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tolley was founded by Eli Crane Tolley in 1905."
+    },
+    {
+      "cityName": "Tolna",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tolna was founded in 1906."
+    },
+    {
+      "cityName": "Towner",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Towner was founded in 1886."
+    },
+    {
+      "cityName": "Turtle Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Turtle Lake was founded in 1905."
+    },
+    {
+      "cityName": "Turtle Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A segment of the North Country National Scenic Trail is routed just to the north and east of Turtle Lake within the Brekken-Holmes Recreation Area."
+    },
+    {
+      "cityName": "Turtle Lake",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This trail segment can be hiked as a point-to-point hike or as a 9.2-mile loop hike from the ND Highway 41 trailhead parking area (map)."
+    },
+    {
+      "cityName": "Tuttle",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tuttle was founded in 1911."
+    },
+    {
+      "cityName": "Tuttle",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the turn of the 19th century and early 20th century, the land surrounding Tuttle was predominantly, although not exclusively, homesteaded by families of German-Russian ethnicity."
+    },
+    {
+      "cityName": "Tuttle",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Many of their descendants still farm and ranch the land around Tuttle."
+    },
+    {
+      "cityName": "Upham",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Upham was founded in 1905."
+    },
+    {
+      "cityName": "Valley City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Valley City is known for its many bridges over the Sheyenne River, including the Hi-Line Railroad Bridge."
+    },
+    {
+      "cityName": "Valley City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is also the home of Valley City State University and the North Dakota High School Activities Association (NDHSAA)."
+    },
+    {
+      "cityName": "Valley City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Valley City was founded in 1874."
+    },
+    {
+      "cityName": "Valley City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "These bridges have earned it the nickname \"City of Bridges\"."
+    },
+    {
+      "cityName": "Velva",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Minot Micropolitan Statistical Area, it was founded in 1897 and the population was 1086 at the 2020 census."
+    },
+    {
+      "cityName": "Velva",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Southeast of Minot, Velva is at the southernmost point of the Souris River."
+    },
+    {
+      "cityName": "Velva",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since Velva is about 20 miles away from the nearby city Minot, Velva has had a slight steady increase of population, which makes Velva a nearby bedroom community for Minot."
+    },
+    {
+      "cityName": "Venturia",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Venturia was founded in 1901."
+    },
+    {
+      "cityName": "Verona",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Verona was founded in 1886."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wahpeton was founded in 1869 and is the principal city of the Wahpeton Micropolitan Statistical Area, which includes all of Richland County, North Dakota and Wilkin County, Minnesota."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The North Dakota State College of Science is in Wahpeton."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Wahpeton's twin city is Breckenridge, Minnesota, on the other side of the river."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Bois de Sioux River and the Otter Tail River join at Wahpeton and Breckenridge to form the Red River of the North."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The local newspaper is the Wahpeton Daily News."
+    },
+    {
+      "cityName": "Wahpeton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Wahpeton is also home to the Chahinkapa Zoo, the first zoo built in North Dakota."
+    },
+    {
+      "cityName": "Walcott",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walcott was founded in 1880."
+    },
+    {
+      "cityName": "Wales",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gavilon is Wales' largest employer."
+    },
+    {
+      "cityName": "Wales",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Wales was founded in 1897."
+    },
+    {
+      "cityName": "Walhalla",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It sits on the banks of the Pembina River, five miles (8 km) from the border with Manitoba (Canada) and approximately 45 mi (72 km) from the border with Minnesota."
+    },
+    {
+      "cityName": "Warwick",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warwick was founded in 1907."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washburn was founded in 1882 near the former site of Fort Mandan, winter quarters of the Lewis and Clark Expedition in 1804\u20131805, near a Mandan village."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was designated as the county seat in 1883."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's name honors General Cadwallader C. Washburn."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Washburn is home to the North Dakota Lewis and Clark Interpretive Center, which focuses on the Expedition's winter near the Mandan village."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It houses a full-scale replica of Fort Mandan, which workers of the expedition built as their base, and one of the expedition's canoes."
+    },
+    {
+      "cityName": "Watford City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Watford City (Hidatsa: aba\u0294aru\u0294ush), founded in 1914, is a city in and the county seat of McKenzie County, North Dakota, United States."
+    },
+    {
+      "cityName": "Watford City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because Watford City is part of the Bakken field, the North Dakota oil boom has significantly increased population and construction since the 2010 census."
+    },
+    {
+      "cityName": "Watford City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The main offices of First International Bank and the headquarters of McKenzie Electric Cooperative are in Watford City."
+    },
+    {
+      "cityName": "Watford City",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The local newspaper is the McKenzie County Farmer."
+    },
+    {
+      "cityName": "West Fargo",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is, as of the 2020 census, the fifth-most populous city in the state of North Dakota with a population of 38626, and was estimated to be 41027 in 2024 and it is one of the state's fastest growing cities."
+    },
+    {
+      "cityName": "Westhope",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westhope was founded in 1903 along a Great Northern Railway branch line that began in Rugby."
+    },
+    {
+      "cityName": "Westhope",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name was based on the slogan \"Hope of the West,\" created by Great Northern officials to promote prosperity for the new town."
+    },
+    {
+      "cityName": "White Earth",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of the oldest communities in Mountrail County, having been founded in 1887."
+    },
+    {
+      "cityName": "White Earth",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The community's recent growth due to the North Dakota oil boom is the subject of an Academy Award\u2013nominated short documentary film, White Earth."
+    },
+    {
+      "cityName": "Wildrose",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wildrose was founded in 1910."
+    },
+    {
+      "cityName": "Williston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williston is the home of Williston State College and the Miss North Dakota Scholarship Pageant."
+    },
+    {
+      "cityName": "Williston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The 2020 census gave its population as 29160, making Williston the sixth-most populous city in North Dakota."
+    },
+    {
+      "cityName": "Williston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's population nearly doubled between 2010 and 2020, due largely to the North Dakota oil boom."
+    },
+    {
+      "cityName": "Williston",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Williston's newspaper is the weekly Williston Herald."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Founded in 1899, Wilton was named by General W. D. Washburn after the town of Wilton in his native state of Maine."
+    },
+    {
+      "cityName": "Wing",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2010, the town has a post office, a full service station, a bar, a restaurant, a small (10-unit) apartment complex, a senior's center, a hotel, several churches, and a complete (K-12) public school system."
+    },
+    {
+      "cityName": "Wolford",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wolford was founded in 1905."
+    },
+    {
+      "cityName": "Wyndmere",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wyndmere was founded in 1883 and named after Windermere in England."
+    },
+    {
+      "cityName": "Zap",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zap was founded in 1913 along a branch line of the Northern Pacific Railway that began in Mandan."
+    },
+    {
+      "cityName": "Zap",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The exact origin of the name is uncertain, though there are numerous unconfirmed theories; some say the town was named after Zapp, which was either a prominent Minnesota banking family or a coal-mining town in Scotland."
+    },
+    {
+      "cityName": "Zap",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Zap has been noted for its unusual place name."
+    },
+    {
+      "cityName": "Zeeland",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Zeeland was founded in 1902 by Dutch settlers."
+    },
+    {
+      "cityName": "Zeeland",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its name is taken from the Dutch province of Zeeland."
+    },
+    {
+      "cityName": "Zeeland",
+      "state": "ND",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Germans from Russia emigrated there in 1905 from Odessa (Odesa), Ukraine, building the first Catholic Church in North Dakota for Germans from Russia."
+    }
+  ]
+}

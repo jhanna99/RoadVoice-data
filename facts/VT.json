@@ -316,6 +316,34 @@
       "fact": "As of the 2020 census, the population was 4129."
     },
     {
+      "cityName": "Brattleboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brattleboro is the largest town in Windham County and is known as a center for arts, culture, and progressive politics in Vermont."
+    },
+    {
+      "cityName": "Brattleboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was the site of the first permanent European settlement in Vermont, established as Fort Dummer in 1724."
+    },
+    {
+      "cityName": "Brattleboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Brattleboro is home to the Brattleboro Retreat, one of the oldest psychiatric hospitals in the United States, founded in 1834."
+    },
+    {
+      "cityName": "Brattleboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Author Rudyard Kipling lived in Brattleboro from 1892 to 1896 and wrote The Jungle Book while residing there."
+    },
+    {
       "cityName": "Bridgewater",
       "state": "VT",
       "source": "Wikipedia",
@@ -1877,6 +1905,13 @@
       "fact": "Home to some of the state of Vermont's wealthiest residents, the municipality is a commuter town for nearby Hanover, New Hampshire across the Connecticut River."
     },
     {
+      "cityName": "Orleans",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "With a population of 788 at the 2020 census, it is the largest village in the county."
+    },
+    {
       "cityName": "Orwell",
       "state": "VT",
       "source": "Wikipedia",
@@ -1889,6 +1924,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The 300-acre (1.2 km2) site is now one of Vermont's premier state-operated historic sites."
+    },
+    {
+      "cityName": "Peru",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as Bromley, the town name was changed to \"Peru\" by the land grantees as a way of attracting land buyers to an area that had been described as 36 square miles (93 km2) of \"trees, bears and mountain lions\"."
     },
     {
       "cityName": "Pittsford",
@@ -2932,6 +2974,13 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Since the 2020 census, which recorded a population of 3146, Wilder\u2019s population has grown by approximately 30.96%."
+    },
+    {
+      "cityName": "Williamstown",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3515 at the 2020 census, making it the second largest municipality in the county."
     },
     {
       "cityName": "Williston",

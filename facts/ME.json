@@ -582,6 +582,13 @@
       "fact": "Biddeford is a principal population center of the Portland-South Portland-Biddeford metropolitan statistical area."
     },
     {
+      "cityName": "Bingham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bingham is a historic town located beside the Kennebec River."
+    },
+    {
       "cityName": "Blue Hill",
       "state": "ME",
       "source": "Wikipedia",
@@ -1329,6 +1336,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Doctor Elijeh Dix, a substantial landowner in the area, bought the town (and Dixmont) which bears his name."
+    },
+    {
+      "cityName": "Dover-Foxcroft",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dover-Foxcroft is the largest town in and the seat of Piscataquis County, Maine, United States."
     },
     {
       "cityName": "Dresden",
@@ -2220,6 +2234,27 @@
       "fact": "It contains the villages or hamlets of Jonesport, Mason Bay, Monsapec, and West Jonesport."
     },
     {
+      "cityName": "Kennebunk",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kennebunk is part of the famous Kennebunks, which includes neighboring Kennebunkport, home to the Bush family compound and a popular tourist destination."
+    },
+    {
+      "cityName": "Kennebunk",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was a major shipbuilding center in the 19th century and has over 60 sites listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Kennebunk",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kennebunk Beach, also known as Mother's Beach, is a popular summer destination with calm waters ideal for families."
+    },
+    {
       "cityName": "Kennebunkport",
       "state": "ME",
       "source": "Wikipedia",
@@ -2577,6 +2612,13 @@
       "fact": "The town of Lisbon includes the villages of Lisbon and Lisbon Falls."
     },
     {
+      "cityName": "Litchfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Litchfield is a rural town in Kennebec County, Maine, United States known for its farms, lakes, and natural scenery."
+    },
+    {
       "cityName": "Livermore",
       "state": "ME",
       "source": "Wikipedia",
@@ -2757,6 +2799,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It contains the villages of Milbridge and Wyman."
+    },
+    {
+      "cityName": "Milford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town's slogan is the \"Best little town by a dam site,\" referring to the Milford Dam abutting Milford on the Penobscot River, south of the Penobscot Indian Island Reservation."
     },
     {
       "cityName": "Milltown",
@@ -3382,6 +3431,13 @@
       "fact": "On May 30, 2019, the town declared itself to be a second amendment sanctuary."
     },
     {
+      "cityName": "Parkman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkman is a town in Piscataquis County, Maine, United States."
+    },
+    {
       "cityName": "Parsonsfield",
       "state": "ME",
       "source": "Wikipedia",
@@ -3765,6 +3821,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is 35 miles (56.3 km) southeast of Augusta."
+    },
+    {
+      "cityName": "Rome",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Belgrade Lakes resort area, and is included in the Augusta, Maine, micropolitan New England City and Town Area."
     },
     {
       "cityName": "Roque Bluffs",
@@ -4684,6 +4747,13 @@
       "fact": "The town is also home to two logging contractors."
     },
     {
+      "cityName": "Waldo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the home town of Heather Hemmens, who is known for her role on Hellcats."
+    },
+    {
       "cityName": "Waldoboro",
       "state": "ME",
       "source": "Wikipedia",
@@ -4969,6 +5039,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named for John M. Winn, an early landholder."
+    },
+    {
+      "cityName": "Winslow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Winslow is located across the Kennebec River from Waterville, and the two cities are connected by the Two-Cent Bridge, one of the last remaining toll footbridges in the United States."
+    },
+    {
+      "cityName": "Winslow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was named after General John Winslow, who commanded the British forces at the expulsion of the Acadians from Nova Scotia in 1755."
     },
     {
       "cityName": "Winter Harbor",

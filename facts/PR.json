@@ -1,62 +1,431 @@
 {
   "facts": [
-    {"cityName": "San Juan", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "San Juan is the capital and most populous city of Puerto Rico, founded by Spanish colonists in 1521."},
-    {"cityName": "San Juan", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Old San Juan is a UNESCO World Heritage Site with over 400 years of Spanish colonial architecture."},
-    {"cityName": "San Juan", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "El Morro fortress, built in the 16th century, guarded San Juan Bay against attacks for over 400 years."},
-    {"cityName": "San Juan", "state": "PR", "source": "Wikipedia", "factNumber": 4, "fact": "San Juan is the oldest continuously inhabited city under US jurisdiction."},
-    {"cityName": "San Juan", "state": "PR", "source": "Wikipedia", "factNumber": 5, "fact": "The Port of San Juan is one of the busiest cruise ship ports in the Western Hemisphere."},
-    {"cityName": "Bayamon", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Bayamón is the second-largest city in Puerto Rico, part of the San Juan metropolitan area."},
-    {"cityName": "Bayamon", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Bayamón is known as the City of Cowboys due to its historical cattle ranching industry."},
-    {"cityName": "Bayamon", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "The Bacardí rum distillery, the largest premium rum distillery in the world, is located in Bayamón."},
-    {"cityName": "Carolina", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Carolina is the third-largest municipality in Puerto Rico and home to Luis Muñoz Marín International Airport."},
-    {"cityName": "Carolina", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Carolina is known as the Land of Giants for producing many notable athletes and tall residents."},
-    {"cityName": "Carolina", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Baseball legend Roberto Clemente was born in Carolina in 1934."},
-    {"cityName": "Ponce", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Ponce is the largest city in southern Puerto Rico, known as La Perla del Sur (The Pearl of the South)."},
-    {"cityName": "Ponce", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Ponce Museum of Art houses the largest art collection in the Caribbean."},
-    {"cityName": "Ponce", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Ponce's historic district contains some of the finest examples of Ponce Creole architecture."},
-    {"cityName": "Ponce", "state": "PR", "source": "Wikipedia", "factNumber": 4, "fact": "The Parque de Bombas, a red and black striped firehouse from 1882, is Ponce's most iconic landmark."},
-    {"cityName": "Caguas", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Caguas is known as the Heart of Puerto Rico due to its central location in the island."},
-    {"cityName": "Caguas", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Caguas was founded in 1775 and named after the Taíno cacique Caguax."},
-    {"cityName": "Caguas", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "The Caguas Botanical Garden features the largest collection of tropical plants in Puerto Rico."},
-    {"cityName": "Guaynabo", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Guaynabo is an affluent suburb of San Juan and one of the wealthiest municipalities in Puerto Rico."},
-    {"cityName": "Guaynabo", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The San Patricio shopping district in Guaynabo is one of the largest commercial areas in the Caribbean."},
-    {"cityName": "Mayaguez", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Mayagüez is the largest city on Puerto Rico's west coast, known as the Sultan of the West."},
-    {"cityName": "Mayaguez", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The University of Puerto Rico at Mayagüez is the leading engineering school in the Caribbean."},
-    {"cityName": "Mayaguez", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Mayagüez hosted the 2010 Central American and Caribbean Games."},
-    {"cityName": "Arecibo", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Arecibo was home to the Arecibo Observatory, which had the world's largest single-dish radio telescope until its collapse in 2020."},
-    {"cityName": "Arecibo", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Arecibo Lighthouse and Historical Park offers views of the Atlantic Ocean and historical exhibits."},
-    {"cityName": "Arecibo", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Arecibo is known as La Villa del Capitán Correa after a local hero who defended against British invasion."},
-    {"cityName": "Aguadilla", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Aguadilla is known for its beautiful beaches and was once home to Ramey Air Force Base."},
-    {"cityName": "Aguadilla", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Crash Boat Beach in Aguadilla is named after boats used to rescue downed pilots during WWII."},
-    {"cityName": "Aguadilla", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Christopher Columbus reportedly landed near Aguadilla during his second voyage in 1493."},
-    {"cityName": "Humacao", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Humacao is known as the Gray Pearl of the East and is a gateway to the eastern beaches."},
-    {"cityName": "Humacao", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Humacao Nature Reserve protects important coastal wetlands and wildlife habitat."},
-    {"cityName": "Fajardo", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Fajardo is the departure point for ferries to the islands of Vieques and Culebra."},
-    {"cityName": "Fajardo", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The bioluminescent Laguna Grande in Fajardo glows at night due to millions of dinoflagellates."},
-    {"cityName": "Fajardo", "state": "PR", "source": "Wikipedia", "factNumber": 3, "fact": "Seven Seas Beach in Fajardo is consistently rated one of the best beaches in Puerto Rico."},
-    {"cityName": "Toa Baja", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Toa Baja is one of the oldest settlements in Puerto Rico, established in 1745."},
-    {"cityName": "Toa Baja", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The municipality takes its name from the Toa River and baja meaning lower in Spanish."},
-    {"cityName": "Toa Alta", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Toa Alta means Upper Toa, referring to its location upstream from Toa Baja."},
-    {"cityName": "Toa Alta", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Toa Alta is known as the City of the Taíno in honor of the indigenous people who once inhabited the area."},
-    {"cityName": "Trujillo Alto", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Trujillo Alto is a residential suburb east of San Juan with a growing population."},
-    {"cityName": "Trujillo Alto", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Carraízo Dam in Trujillo Alto supplies much of the San Juan metro area's drinking water."},
-    {"cityName": "Vega Baja", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Vega Baja is known as the Melting Pot of Puerto Rico for its diverse cultural heritage."},
-    {"cityName": "Vega Baja", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Playa Puerto Nuevo in Vega Baja is famous for its natural rock formations and pools."},
-    {"cityName": "Cayey", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Cayey sits in the mountains at 1,500 feet elevation, giving it a cooler climate than coastal cities."},
-    {"cityName": "Cayey", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The University of Puerto Rico at Cayey is located in the city, founded in 1967."},
-    {"cityName": "Isabela", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Isabela is known as the Garden of the Northwest for its agricultural production."},
-    {"cityName": "Isabela", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Jobos Beach in Isabela is one of Puerto Rico's premier surfing destinations."},
-    {"cityName": "Guayama", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Guayama is known as the City of Witches, a nickname stemming from colonial-era legends."},
-    {"cityName": "Guayama", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Casa Cautiño Museum in Guayama showcases 19th-century Creole architecture and culture."},
-    {"cityName": "San Germán", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "San Germán is the second-oldest European settlement in Puerto Rico, founded in 1511."},
-    {"cityName": "San Germán", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Porta Coeli church in San Germán, built in 1606, is one of the oldest churches in the Americas."},
-    {"cityName": "Río Grande", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Río Grande is the gateway to El Yunque National Forest, the only tropical rainforest in the US National Forest System."},
-    {"cityName": "Río Grande", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "Río Grande means Big River in Spanish, named for the rivers that flow through the municipality."},
-    {"cityName": "Cabo Rojo", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Cabo Rojo is known for its salt flats and the iconic Los Morrillos Lighthouse at the island's southwestern tip."},
-    {"cityName": "Cabo Rojo", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Cabo Rojo National Wildlife Refuge protects important habitat for migratory birds."},
-    {"cityName": "Dorado", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Dorado is known for its luxury beach resorts and world-class golf courses."},
-    {"cityName": "Dorado", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Dorado Beach Resort was developed by Laurance Rockefeller in the 1950s."},
-    {"cityName": "Utuado", "state": "PR", "source": "Wikipedia", "factNumber": 1, "fact": "Utuado is located in Puerto Rico's mountainous interior and is known for its Taíno heritage."},
-    {"cityName": "Utuado", "state": "PR", "source": "Wikipedia", "factNumber": 2, "fact": "The Caguana Indigenous Ceremonial Park in Utuado preserves pre-Columbian Taíno ball courts and petroglyphs."}
+    {
+      "cityName": "Aguadilla",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aguadilla is known for its beautiful beaches and was once home to Ramey Air Force Base."
+    },
+    {
+      "cityName": "Aguadilla",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Crash Boat Beach in Aguadilla is named after boats used to rescue downed pilots during WWII."
+    },
+    {
+      "cityName": "Aguadilla",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Christopher Columbus reportedly landed near Aguadilla during his second voyage in 1493."
+    },
+    {
+      "cityName": "Arecibo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arecibo was home to the Arecibo Observatory, which had the world's largest single-dish radio telescope until its collapse in 2020."
+    },
+    {
+      "cityName": "Arecibo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Arecibo Lighthouse and Historical Park offers views of the Atlantic Ocean and historical exhibits."
+    },
+    {
+      "cityName": "Arecibo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Arecibo is known as La Villa del Capit\u00e1n Correa after a local hero who defended against British invasion."
+    },
+    {
+      "cityName": "Bayamon",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bayam\u00f3n is the second-largest city in Puerto Rico, part of the San Juan metropolitan area."
+    },
+    {
+      "cityName": "Bayamon",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Bayam\u00f3n is known as the City of Cowboys due to its historical cattle ranching industry."
+    },
+    {
+      "cityName": "Bayamon",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Bacard\u00ed rum distillery, the largest premium rum distillery in the world, is located in Bayam\u00f3n."
+    },
+    {
+      "cityName": "Cabo Rojo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cabo Rojo is known for its salt flats and the iconic Los Morrillos Lighthouse at the island's southwestern tip."
+    },
+    {
+      "cityName": "Cabo Rojo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cabo Rojo National Wildlife Refuge protects important habitat for migratory birds."
+    },
+    {
+      "cityName": "Caguas",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caguas is known as the Heart of Puerto Rico due to its central location in the island."
+    },
+    {
+      "cityName": "Caguas",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Caguas was founded in 1775 and named after the Ta\u00edno cacique Caguax."
+    },
+    {
+      "cityName": "Caguas",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Caguas Botanical Garden features the largest collection of tropical plants in Puerto Rico."
+    },
+    {
+      "cityName": "Carolina",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carolina is the third-largest municipality in Puerto Rico and home to Luis Mu\u00f1oz Mar\u00edn International Airport."
+    },
+    {
+      "cityName": "Carolina",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Carolina is known as the Land of Giants for producing many notable athletes and tall residents."
+    },
+    {
+      "cityName": "Carolina",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Baseball legend Roberto Clemente was born in Carolina in 1934."
+    },
+    {
+      "cityName": "Cayey",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cayey sits in the mountains at 1,500 feet elevation, giving it a cooler climate than coastal cities."
+    },
+    {
+      "cityName": "Cayey",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The University of Puerto Rico at Cayey is located in the city, founded in 1967."
+    },
+    {
+      "cityName": "Dorado",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dorado is known for its luxury beach resorts and world-class golf courses."
+    },
+    {
+      "cityName": "Dorado",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Dorado Beach Resort was developed by Laurance Rockefeller in the 1950s."
+    },
+    {
+      "cityName": "Fajardo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fajardo is the departure point for ferries to the islands of Vieques and Culebra."
+    },
+    {
+      "cityName": "Fajardo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The bioluminescent Laguna Grande in Fajardo glows at night due to millions of dinoflagellates."
+    },
+    {
+      "cityName": "Fajardo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Seven Seas Beach in Fajardo is consistently rated one of the best beaches in Puerto Rico."
+    },
+    {
+      "cityName": "Guayama",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Guayama is known as the City of Witches, a nickname stemming from colonial-era legends."
+    },
+    {
+      "cityName": "Guayama",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Casa Cauti\u00f1o Museum in Guayama showcases 19th-century Creole architecture and culture."
+    },
+    {
+      "cityName": "Guaynabo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Guaynabo is an affluent suburb of San Juan and one of the wealthiest municipalities in Puerto Rico."
+    },
+    {
+      "cityName": "Guaynabo",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The San Patricio shopping district in Guaynabo is one of the largest commercial areas in the Caribbean."
+    },
+    {
+      "cityName": "Humacao",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Humacao is known as the Gray Pearl of the East and is a gateway to the eastern beaches."
+    },
+    {
+      "cityName": "Humacao",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Humacao Nature Reserve protects important coastal wetlands and wildlife habitat."
+    },
+    {
+      "cityName": "Isabela",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Isabela is known as the Garden of the Northwest for its agricultural production."
+    },
+    {
+      "cityName": "Isabela",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Jobos Beach in Isabela is one of Puerto Rico's premier surfing destinations."
+    },
+    {
+      "cityName": "Juana D\u00edaz",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Juana D\u00edaz is known as the City of the Magi, hosting an annual Three Kings Day celebration."
+    },
+    {
+      "cityName": "Juana D\u00edaz",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality's Three Kings Festival is the oldest and largest such celebration in Puerto Rico."
+    },
+    {
+      "cityName": "Juana D\u00edaz",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Juana D\u00edaz is named after a woman who owned land in the area during the Spanish colonial period."
+    },
+    {
+      "cityName": "Mayaguez",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mayag\u00fcez is the largest city on Puerto Rico's west coast, known as the Sultan of the West."
+    },
+    {
+      "cityName": "Mayaguez",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The University of Puerto Rico at Mayag\u00fcez is the leading engineering school in the Caribbean."
+    },
+    {
+      "cityName": "Mayaguez",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mayag\u00fcez hosted the 2010 Central American and Caribbean Games."
+    },
+    {
+      "cityName": "Ponce",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ponce is the largest city in southern Puerto Rico, known as La Perla del Sur (The Pearl of the South)."
+    },
+    {
+      "cityName": "Ponce",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Ponce Museum of Art houses the largest art collection in the Caribbean."
+    },
+    {
+      "cityName": "Ponce",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ponce's historic district contains some of the finest examples of Ponce Creole architecture."
+    },
+    {
+      "cityName": "Ponce",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Parque de Bombas, a red and black striped firehouse from 1882, is Ponce's most iconic landmark."
+    },
+    {
+      "cityName": "R\u00edo Grande",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "R\u00edo Grande is the gateway to El Yunque National Forest, the only tropical rainforest in the US National Forest System."
+    },
+    {
+      "cityName": "R\u00edo Grande",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "R\u00edo Grande means Big River in Spanish, named for the rivers that flow through the municipality."
+    },
+    {
+      "cityName": "San Germ\u00e1n",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "San Germ\u00e1n is the second-oldest European settlement in Puerto Rico, founded in 1511."
+    },
+    {
+      "cityName": "San Germ\u00e1n",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Porta Coeli church in San Germ\u00e1n, built in 1606, is one of the oldest churches in the Americas."
+    },
+    {
+      "cityName": "San Juan",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "San Juan is the capital and most populous city of Puerto Rico, founded by Spanish colonists in 1521."
+    },
+    {
+      "cityName": "San Juan",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Old San Juan is a UNESCO World Heritage Site with over 400 years of Spanish colonial architecture."
+    },
+    {
+      "cityName": "San Juan",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "El Morro fortress, built in the 16th century, guarded San Juan Bay against attacks for over 400 years."
+    },
+    {
+      "cityName": "San Juan",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "San Juan is the oldest continuously inhabited city under US jurisdiction."
+    },
+    {
+      "cityName": "San Juan",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Port of San Juan is one of the busiest cruise ship ports in the Western Hemisphere."
+    },
+    {
+      "cityName": "Toa Alta",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toa Alta means Upper Toa, referring to its location upstream from Toa Baja."
+    },
+    {
+      "cityName": "Toa Alta",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Toa Alta is known as the City of the Ta\u00edno in honor of the indigenous people who once inhabited the area."
+    },
+    {
+      "cityName": "Toa Baja",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toa Baja is one of the oldest settlements in Puerto Rico, established in 1745."
+    },
+    {
+      "cityName": "Toa Baja",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The municipality takes its name from the Toa River and baja meaning lower in Spanish."
+    },
+    {
+      "cityName": "Trujillo Alto",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Trujillo Alto is a residential suburb east of San Juan with a growing population."
+    },
+    {
+      "cityName": "Trujillo Alto",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Carra\u00edzo Dam in Trujillo Alto supplies much of the San Juan metro area's drinking water."
+    },
+    {
+      "cityName": "Utuado",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Utuado is located in Puerto Rico's mountainous interior and is known for its Ta\u00edno heritage."
+    },
+    {
+      "cityName": "Utuado",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Caguana Indigenous Ceremonial Park in Utuado preserves pre-Columbian Ta\u00edno ball courts and petroglyphs."
+    },
+    {
+      "cityName": "Vega Baja",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vega Baja is known as the Melting Pot of Puerto Rico for its diverse cultural heritage."
+    },
+    {
+      "cityName": "Vega Baja",
+      "state": "PR",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Playa Puerto Nuevo in Vega Baja is famous for its natural rock formations and pools."
+    }
   ]
 }

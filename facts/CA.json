@@ -2836,6 +2836,20 @@
       "fact": "As of the 2020 census, the population of the city was 114746."
     },
     {
+      "cityName": "Carmichael",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carmichael is an unincorporated community in Sacramento County, named for developer Daniel Carmichael."
+    },
+    {
+      "cityName": "Carmichael",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ancil Hoffman Park along the American River is a popular destination for golf, hiking, and nature viewing."
+    },
+    {
       "cityName": "Carnelian Bay",
       "state": "CA",
       "source": "Wikipedia",
@@ -4642,6 +4656,27 @@
       "fact": "Del Rey Oaks is a member of the Association of Monterey Bay Area Governments, a regional government agency."
     },
     {
+      "cityName": "Delano",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Delano was the center of the Delano grape strike of 1965, a pivotal moment in the farm labor movement."
+    },
+    {
+      "cityName": "Delano",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "C\u00e9sar Ch\u00e1vez and the United Farm Workers union organized migrant workers in Delano."
+    },
+    {
+      "cityName": "Delano",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is named after Columbus Delano, Secretary of the Interior under President Grant."
+    },
+    {
       "cityName": "Delhi",
       "state": "CA",
       "source": "Wikipedia",
@@ -6035,6 +6070,27 @@
       "fact": "Foster City is one of the United States\u2019 safest cities, with an average of one murder per decade."
     },
     {
+      "cityName": "Fountain Valley",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fountain Valley is named for the artesian wells that once dotted the area's agricultural landscape."
+    },
+    {
+      "cityName": "Fountain Valley",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Kingston Technology, one of the world's largest memory manufacturers."
+    },
+    {
+      "cityName": "Fountain Valley",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fountain Valley Regional Hospital was one of the first to perform laser surgery in Orange County."
+    },
+    {
       "cityName": "Fowler",
       "state": "CA",
       "source": "Wikipedia",
@@ -6824,6 +6880,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The default prefix used for wired telephones in the Hamilton City area is 826."
+    },
+    {
+      "cityName": "Hanford",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hanford is the county seat of Kings County, named after a railroad paymaster."
+    },
+    {
+      "cityName": "Hanford",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "China Alley in Hanford is one of the few remaining Chinatowns in the Central Valley."
+    },
+    {
+      "cityName": "Hanford",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Hanford Fox Theatre, built in 1929, is a restored Art Deco movie palace."
     },
     {
       "cityName": "Harbor City",
@@ -11215,6 +11292,27 @@
       "fact": "Norwalk's sister cities are Morelia in the Mexican state of Michoac\u00e1n, and Hermosillo, in the Mexican state of Sonora."
     },
     {
+      "cityName": "Novato",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Novato is the northernmost city in Marin County, named after a local Coast Miwok leader."
+    },
+    {
+      "cityName": "Novato",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The former Hamilton Air Force Base is now a mixed-use development and wetland restoration area."
+    },
+    {
+      "cityName": "Novato",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Buck Institute for Research on Aging, dedicated to extending human healthspan, is located in Novato."
+    },
+    {
       "cityName": "O'Neals",
       "state": "CA",
       "source": "Wikipedia",
@@ -11955,6 +12053,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community is at the intersection of Panoche Road and SR 25."
+    },
+    {
+      "cityName": "Palm Desert",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palm Desert is home to El Paseo, known as the Rodeo Drive of the Desert for its upscale shopping."
+    },
+    {
+      "cityName": "Palm Desert",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Living Desert Zoo and Gardens showcases plants and animals from deserts around the world."
+    },
+    {
+      "cityName": "Palm Desert",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "California State University, San Bernardino operates a Palm Desert campus in the city."
     },
     {
       "cityName": "Palm Springs",
@@ -12711,6 +12830,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Both the Port of Hueneme and Naval Base Ventura County lie within the city limits."
+    },
+    {
+      "cityName": "Porterville",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Porterville sits at the gateway to Sequoia National Forest in the Sierra Nevada foothills."
+    },
+    {
+      "cityName": "Porterville",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named after Royal Porter Putnam, who established a hotel and store there in 1860."
+    },
+    {
+      "cityName": "Porterville",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Porterville is a major center for citrus production in California's Central Valley."
     },
     {
       "cityName": "Portola",

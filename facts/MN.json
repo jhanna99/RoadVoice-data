@@ -106,6 +106,27 @@
       "fact": "U S Highways 10 / 169 and State Highway 47 are three of Anoka's main routes, and it has a station on the Northstar Commuter Rail line to Minneapolis."
     },
     {
+      "cityName": "Apple Valley",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Apple Valley is a suburb of Minneapolis-Saint Paul in Dakota County."
+    },
+    {
+      "cityName": "Apple Valley",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Minnesota Zoo, home to over 4,500 animals, is located in Apple Valley."
+    },
+    {
+      "cityName": "Apple Valley",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Apple Valley was one of the fastest-growing cities in Minnesota during the 1970s and 1980s."
+    },
+    {
       "cityName": "Arden Hills",
       "state": "MN",
       "source": "Wikipedia",
@@ -3863,6 +3884,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The bulk of the city is in Faribault County; a small part of the town extends into Blue Earth County."
+    },
+    {
+      "cityName": "Minnetonka",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minnetonka is a western suburb of Minneapolis, named after the Dakota word meaning great water."
+    },
+    {
+      "cityName": "Minnetonka",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "UnitedHealth Group and Cargill have major corporate facilities in Minnetonka."
+    },
+    {
+      "cityName": "Minnetonka",
+      "state": "MN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lake Minnetonka, one of Minnesota's largest lakes, borders the city to the north."
     },
     {
       "cityName": "Minnetonka Beach",

@@ -239,6 +239,41 @@
       "fact": "Located at the mouth of the Union River at Hood Canal, it serves as the commercial center of northern Mason County."
     },
     {
+      "cityName": "Bellevue",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bellevue is the third-largest city in Washington and a major tech hub across Lake Washington from Seattle."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the headquarters of T-Mobile US and numerous tech companies including Meta and Amazon offices."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bellevue means beautiful view in French, named for its views of Lake Washington and the Cascade and Olympic mountains."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Bellevue Collection is one of the largest shopping destinations in the Pacific Northwest."
+    },
+    {
+      "cityName": "Bellevue",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Bellevue was a small farming community until the completion of the Lake Washington floating bridges connected it to Seattle."
+    },
+    {
       "cityName": "Bellingham",
       "state": "WA",
       "source": "Wikipedia",
@@ -4591,6 +4626,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The name comes from William Spangle, an early pioneer."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spokane is the second-largest city in Washington and the largest city between Seattle and Minneapolis."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city hosted Expo '74, the first environmentally themed World's Fair, which transformed the downtown area."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Spokane Falls, located in the heart of downtown, is one of the largest urban waterfalls in the United States."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is nicknamed the Lilac City for its many lilac gardens and annual Lilac Festival."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Bing Crosby, one of the best-selling music artists of all time, was raised in Spokane."
+    },
+    {
+      "cityName": "Spokane",
+      "state": "WA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Gonzaga University, home of the nationally ranked Bulldogs basketball team, is located in Spokane."
     },
     {
       "cityName": "Spokane Valley",

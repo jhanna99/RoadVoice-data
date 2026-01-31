@@ -995,6 +995,41 @@
       "fact": "State Highway Loop 540 goes straight through the city from the northeast to the southwest while U S Route 59, the Southwest Freeway, passes to the south of Beasley."
     },
     {
+      "cityName": "Beaumont",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beaumont is where the modern petroleum industry began with the Spindletop gusher in 1901."
+    },
+    {
+      "cityName": "Beaumont",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Spindletop oil strike produced more oil in one day than all other US wells combined at the time."
+    },
+    {
+      "cityName": "Beaumont",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Beaumont is part of the Golden Triangle region along with Port Arthur and Orange."
+    },
+    {
+      "cityName": "Beaumont",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lamar University, founded in 1923, is the largest university in Southeast Texas."
+    },
+    {
+      "cityName": "Beaumont",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city is home to the world's largest working fire hydrant, standing 24 feet tall."
+    },
+    {
       "cityName": "Bedford",
       "state": "TX",
       "source": "Wikipedia",
@@ -10044,6 +10079,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 2255 at the 2020 census."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Odessa is located in the Permian Basin, one of the most productive oil-producing regions in the world."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named by railroad workers after Odessa, Ukraine, due to similar flat terrain."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Odessa is home to the second-largest meteor crater in the United States, formed about 50,000 years ago."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Permian Playhouse, built in a former church, is one of the oldest community theaters in Texas."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Odessa's Friday night football culture was depicted in the book and film Friday Night Lights."
+    },
+    {
+      "cityName": "Odessa",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The Presidential Archives and Leadership Library houses a replica of the White House Oval Office."
     },
     {
       "cityName": "Olmito",

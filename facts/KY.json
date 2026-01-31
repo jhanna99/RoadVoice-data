@@ -29,6 +29,13 @@
       "fact": "Along with Newport, it is one of the dual seats of the county."
     },
     {
+      "cityName": "Allen",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Allen, also known as Allen City, is a home rule-class city in Floyd County, Kentucky, in the United States."
+    },
+    {
       "cityName": "Almo",
       "state": "KY",
       "source": "Wikipedia",
@@ -314,6 +321,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city was formally incorporated by the state assembly in 1873."
+    },
+    {
+      "cityName": "Bedford",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the second largest city and county seat of Trimble County."
     },
     {
       "cityName": "Beechwood Village",
@@ -958,6 +972,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Kentucky Route 86 runs through the town, ending just south of the town at an intersection with U S Route 62."
+    },
+    {
+      "cityName": "Central City",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest city in the county and the principal community in the Central City Micropolitan Statistical Area, which includes all of Muhlenberg County."
     },
     {
       "cityName": "Cincinnati",
@@ -2052,6 +2073,13 @@
       "fact": "On 16 October 2020, V Corps was reactivated at Fort Knox, just over seven years after the colors were last cased in Wiesbaden, Germany, in July 2013."
     },
     {
+      "cityName": "Fort Thomas",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 17483 at the 2020 census, making it the largest city in Campbell County."
+    },
+    {
       "cityName": "Fourmile",
       "state": "KY",
       "source": "Wikipedia",
@@ -2626,6 +2654,13 @@
       "fact": "The wider Hebron area is home to the Cincinnati/Northern Kentucky International Airport, which serves Cincinnati and the Tri-State (Ohio-Kentucky-Indiana) area."
     },
     {
+      "cityName": "Henderson",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Evansville\u2013Henderson, Indiana\u2013Kentucky Combined Statistical Area, locally known as the \"Tri-State Area,\" and is considered the southernmost suburb of Evansville, Indiana."
+    },
+    {
       "cityName": "Hickman",
       "state": "KY",
       "source": "Wikipedia",
@@ -3039,6 +3074,20 @@
       "fact": "A national cemetery is nearby."
     },
     {
+      "cityName": "Ledbetter",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1683 at the 2010 census, down slightly from 1700 in 2000, thus making it the largest and most populous community in Livingston County."
+    },
+    {
+      "cityName": "Ledbetter",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the largest community in Livingston County, but the village of Salem is less than two times the population of Ledbetter."
+    },
+    {
       "cityName": "Lexington",
       "state": "KY",
       "source": "Wikipedia",
@@ -3170,6 +3219,48 @@
       "source": "Wikidata",
       "factNumber": 1,
       "fact": "Muhammad Ali was born in Louisville."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Louisville is the largest city in Kentucky and the 29th most populous city in the United States, located on the Ohio River along the Indiana border."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Kentucky Derby, held annually at Churchill Downs since 1875, making it America's longest continuously running sporting event."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Louisville is the birthplace of Muhammad Ali and home to the Muhammad Ali Center, a multicultural museum dedicated to the boxing legend."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Louisville Slugger baseball bat has been manufactured in Louisville since 1884, and the Louisville Slugger Museum features a 120-foot tall bat."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Louisville is headquarters to Humana, Yum! Brands (KFC, Pizza Hut, Taco Bell), and UPS's global air hub at Louisville Muhammad Ali International Airport."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city was named after King Louis XVI of France in recognition of French assistance during the Revolutionary War and was founded in 1778."
     },
     {
       "cityName": "Lovelaceville",
@@ -3592,6 +3683,20 @@
       "fact": "The community has the name of the local Means family."
     },
     {
+      "cityName": "Middlesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 1 mile (1.6 km) west of the Cumberland Gap and is the largest city in southeastern Kentucky."
+    },
+    {
+      "cityName": "Middlesboro",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located entirely between Pine Mountain and the Cumberland Mountains in the Middlesboro Basin, an enormous meteorite crater (one of three known astroblemes in the state)."
+    },
+    {
       "cityName": "Middletown",
       "state": "KY",
       "source": "Wikipedia",
@@ -3786,6 +3891,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city limits are completely encompassed by the Fort Knox army base."
+    },
+    {
+      "cityName": "Murray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Murray is a college town and is the home of Murray State University."
+    },
+    {
+      "cityName": "Murray",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the seat of Calloway County and the 19th-largest city in Kentucky."
     },
     {
       "cityName": "Nancy",
@@ -4101,6 +4220,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Much of the city was listed on the National Register of Historic Places in 2008 as the Park Hills Historic District."
+    },
+    {
+      "cityName": "Parkers Lake",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkers Lake is an unincorporated community within McCreary County, Kentucky, United States."
     },
     {
       "cityName": "Parkway Village",
@@ -4514,6 +4640,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "With the single exception of the Keneseth Israel Synagogue, all buildings within city limits are residential."
+    },
+    {
+      "cityName": "Shepherdsville",
+      "state": "KY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the second largest city and seat of its county, located just south of Louisville."
     },
     {
       "cityName": "Shively",

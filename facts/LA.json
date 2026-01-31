@@ -57,6 +57,20 @@
       "fact": "At the 2020 population estimates program, it had a population of 1041."
     },
     {
+      "cityName": "Baker",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baker is a suburb of Baton Rouge and was incorporated as an independent city in 1946, named after early settler Joseph Baker."
+    },
+    {
+      "cityName": "Baker",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Louisiana War Veterans Home and serves as a bedroom community for workers in the Baton Rouge metropolitan area."
+    },
+    {
       "cityName": "Baldwin",
       "state": "LA",
       "source": "Wikipedia",
@@ -230,6 +244,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "With a population of 3538 at the 2020 U S census, it is part of the Shreveport\u2013Bossier City metropolitan statistical area."
+    },
+    {
+      "cityName": "Bogalusa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bogalusa was founded in 1906 as a company town for the Great Southern Lumber Company, which operated one of the largest sawmills in the world."
+    },
+    {
+      "cityName": "Bogalusa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's name comes from the Choctaw words meaning dark waters, referring to the nearby Pearl River and its tannin-stained waters."
     },
     {
       "cityName": "Bossier City",
@@ -519,6 +547,13 @@
       "fact": "Church Point is known as the Buggy Capital of the World as it used to be host to the annual Buggy Festival which has since gone defunct."
     },
     {
+      "cityName": "Clarks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarks is the largest community by population in Caldwell Parish."
+    },
+    {
       "cityName": "Clinton",
       "state": "LA",
       "source": "Wikipedia",
@@ -608,6 +643,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is also part of the larger Lafayette\u2013Acadiana combined statistical area."
+    },
+    {
+      "cityName": "Cut Off",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cut Off (historically named La Coupe) is a census-designated place (CDP) on the Bayou Lafourche in Lafourche Parish, Louisiana, United States."
     },
     {
       "cityName": "DeQuincy",
@@ -1784,6 +1826,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Ida and nearby Rodessa are the most northwesterly communities in Louisiana."
+    },
+    {
+      "cityName": "Independence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Independence, originally known as Uncle Sam, is a town in Tangipahoa Parish, Louisiana, United States."
     },
     {
       "cityName": "Inniswold",
@@ -3081,6 +3130,13 @@
       "fact": "During the tenure of Sheriff Cat Doucet, from 1936 to 1940 and again from 1952 to 1968, the section of Opelousas along Highway 190 was a haven of gambling and prostitution, the profits from which he skimmed a take."
     },
     {
+      "cityName": "Parks",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parks is a village in St. Martin Parish, Louisiana, United States."
+    },
+    {
       "cityName": "Paulina",
       "state": "LA",
       "source": "Wikipedia",
@@ -3205,6 +3261,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Pleasant Hill, Louisiana may refer to the following places in the United States: Pleasant Hill, Lincoln Parish, Louisiana, in Lincoln Parish, Louisiana Pleasant Hill, Natchitoches Parish, Louisiana, in Natchitoches Parish, Louisiana Pleasant Hill, Sabine Parish, Louisiana"
+    },
+    {
+      "cityName": "Ponchatoula",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ponchatoula is the second-largest city in Tangipahoa Parish, Louisiana."
     },
     {
       "cityName": "Port Allen",
@@ -3662,6 +3725,13 @@
       "fact": "The community was named for railroad official John George Schriever (1844\u20131898) during the 1870s opening of the New Orleans, Opelousas and Great Western Railroad line to Houma."
     },
     {
+      "cityName": "Scott",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scott is the fourth largest municipality in Lafayette Parish, Louisiana, United States."
+    },
+    {
       "cityName": "Shenandoah",
       "state": "LA",
       "source": "Wikipedia",
@@ -3772,6 +3842,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Slaughter is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Slidell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Slidell is located on the north shore of Lake Pontchartrain, connected to New Orleans by the 24-mile Lake Pontchartrain Causeway, the world's longest bridge over water."
+    },
+    {
+      "cityName": "Slidell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named after John Slidell, a Confederate diplomat whose capture aboard a British ship in 1861 nearly caused a war between the US and Britain."
+    },
+    {
+      "cityName": "Slidell",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Slidell is the gateway to the Honey Island Swamp, one of the least-altered river swamps in the country and home to the legendary Honey Island Swamp Monster."
     },
     {
       "cityName": "Springhill",

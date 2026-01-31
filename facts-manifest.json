@@ -25,8 +25,8 @@
       "checksum": "3d9e3b945462ea5f4a36a244e86da370"
     },
     "CA": {
-      "factCount": 2698,
-      "checksum": "6112978fa43c646dea8533cc085f7465"
+      "factCount": 2704,
+      "checksum": "50d1e1d3b2976f56370989cc3c826617"
     },
     "CO": {
       "factCount": 624,
@@ -77,12 +77,12 @@
       "checksum": "b51caad8c505db07a89a66e3200100fb"
     },
     "KY": {
-      "factCount": 755,
-      "checksum": "bf87aebf1f42441307e09e0f90d57960"
+      "factCount": 774,
+      "checksum": "120df34d25f68cb974eb602cb6a737b1"
     },
     "LA": {
-      "factCount": 609,
-      "checksum": "0763ab04d03f6980f2db30203e03e669"
+      "factCount": 622,
+      "checksum": "b7715857939ea818649f5c555661b826"
     },
     "MA": {
       "factCount": 1048,
@@ -181,12 +181,12 @@
       "checksum": "b9533831cedf1da7379dc1776e1cc741"
     },
     "OR": {
-      "factCount": 567,
-      "checksum": "d008f63a3db8cd9e0b1b1d3d91fc40b2"
+      "factCount": 573,
+      "checksum": "0372f32cf994b748f630658f5925cfa6"
     },
     "PA": {
-      "factCount": 2128,
-      "checksum": "f6a5a18a5d5406ac84762f11d42938fd"
+      "factCount": 2161,
+      "checksum": "d9b7a13f67f51a8482084ab7a5afb139"
     },
     "PE": {
       "factCount": 108,
@@ -201,8 +201,8 @@
       "checksum": "d62829c33717803127cd68ea8441f06b"
     },
     "SC": {
-      "factCount": 490,
-      "checksum": "38d576ee324018966a068f13bcdcfc37"
+      "factCount": 497,
+      "checksum": "2a752d14a51abea055fbad0e7b2b9f18"
     },
     "SD": {
       "factCount": 295,
@@ -213,12 +213,12 @@
       "checksum": "15f147363d506b77919dbe7f102b519a"
     },
     "TN": {
-      "factCount": 707,
-      "checksum": "2899a4e579ead716b0d4337db86ff4e1"
+      "factCount": 720,
+      "checksum": "5d147d9e4dd26b01a0bcdc93c70bfbba"
     },
     "TX": {
-      "factCount": 2110,
-      "checksum": "c7a4cc2b8422704322766e4312372c70"
+      "factCount": 2121,
+      "checksum": "3d8de3c70fece65b8e24e1dd371ac4fd"
     },
     "UT": {
       "factCount": 442,
@@ -233,8 +233,8 @@
       "checksum": "4d4f440af40b662d0e8bdc4b7c0c031a"
     },
     "WA": {
-      "factCount": 820,
-      "checksum": "622e5646406062e4cbdbf186208f3c94"
+      "factCount": 831,
+      "checksum": "481c2aaf08fb771e8fda986ca1076009"
     },
     "WI": {
       "factCount": 668,

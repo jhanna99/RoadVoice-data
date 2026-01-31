@@ -1237,21 +1237,42 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Charlotte is the most populous city in the U.S. state of North Carolina. With a population of 874,579 at the 2020 census, it is the 14th-most populous city in the U.S., seventh-most populous city in the South, and second-most populous city in the Southeast."
+      "fact": "Charlotte is the most populous city in North Carolina and the second-largest banking center in the nation after New York City."
     },
     {
       "cityName": "Charlotte",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Charlotte metropolitan area, with an estimated 2.88 million residents, is the 21st-largest metropolitan area in the U.S. The Charlotte metropolitan area is part of an 18-county combined statistical area with an estimated population of 3.47 million as of 2024."
+      "fact": "Charlotte is home to the corporate headquarters of Bank of America, Honeywell, Truist Financial, and the East Coast headquarters of Wells Fargo."
     },
     {
       "cityName": "Charlotte",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is the county seat of Mecklenburg County.."
+      "fact": "The city's notable attractions include three professional sports teams: the Carolina Panthers (NFL), Charlotte Hornets (NBA), and Charlotte FC (MLS)."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Charlotte is home to the NASCAR Hall of Fame, Carowinds amusement park, and the U.S. National Whitewater Center."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Residents of Charlotte are referred to as Charlotteans, and the city has been one of the fastest-growing major cities in the United States throughout the 2020s."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Charlotte ranks as the greenest city in North America, with 66% of its area occupied by green spaces as of 2024."
     },
     {
       "cityName": "Cherokee",

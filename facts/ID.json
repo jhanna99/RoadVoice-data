@@ -99,6 +99,20 @@
       "fact": "The city of Hailey and the Friedman Memorial Airport are a few miles north of Bellevue."
     },
     {
+      "cityName": "Blackfoot",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blackfoot is known as the Potato Capital of the World and is home to the Idaho Potato Museum, celebrating the state's famous crop."
+    },
+    {
+      "cityName": "Blackfoot",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the seat of Bingham County and serves as a trade center for the surrounding agricultural region of eastern Idaho."
+    },
+    {
       "cityName": "Blanchard",
       "state": "ID",
       "source": "Wikipedia",
@@ -209,6 +223,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Known as the \"Trout Capital of the World,\" Buhl is the location of numerous hatcheries in the immediate surrounding area, which produce a majority of the rainbow trout consumed in the United States."
+    },
+    {
+      "cityName": "Burley",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burley is the largest city in Cassia and Minidoka counties (collectively called the \u201cMini-Cassia\u201d area), and the third-largest city in Idaho's Magic Valley region, after Twin Falls and Jerome."
     },
     {
       "cityName": "Caldwell",
@@ -461,6 +482,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The station studies sheep breeds to support U S farmers."
+    },
+    {
+      "cityName": "Eagle",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eagle is one of the fastest-growing cities in Idaho, located in the Boise metropolitan area along the Boise River."
+    },
+    {
+      "cityName": "Eagle",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was named after Eagle Island, which got its name from the bald eagles that nested along the Boise River in the area."
     },
     {
       "cityName": "Elk River",
@@ -1569,6 +1604,13 @@
       "fact": "Its name is an English phonetic spelling of the French words \u201cPend d'Oreille\u201d, the name of a local indigenous people that live in the region."
     },
     {
+      "cityName": "Post Falls",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population is an estimated 44194 in 2022 according to the U S Census Bureau estimate, making it Idaho's ninth-largest city and the second largest city in North Idaho behind Coeur d\u2019Alene."
+    },
+    {
       "cityName": "Potlatch",
       "state": "ID",
       "source": "Wikipedia",
@@ -1623,6 +1665,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "U S Route 95, the only highway for the state connecting the Panhandle to the south, runs through Riggins as Main Street."
+    },
+    {
+      "cityName": "Rupert",
+      "state": "ID",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rupert is the county seat and largest city of Minidoka County, Idaho, United States."
     },
     {
       "cityName": "Sagle",

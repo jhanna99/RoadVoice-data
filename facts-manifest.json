@@ -1,8 +1,8 @@
 {
   "states": {
     "AB": {
-      "factCount": 798,
-      "checksum": "091bc9189d83252a6bb0cfced8305068"
+      "factCount": 814,
+      "checksum": "fce4e8814e7903b85dbfe311d9d76d44"
     },
     "AK": {
       "factCount": 417,
@@ -61,16 +61,16 @@
       "checksum": "dde3fda9dfc4a598032559db37f6d7dd"
     },
     "ID": {
-      "factCount": 286,
-      "checksum": "13b450cc3ca79c77e3bc294905e5719c"
+      "factCount": 293,
+      "checksum": "182e04daa2dd92a967e44e2692c3ed9c"
     },
     "IL": {
-      "factCount": 1504,
-      "checksum": "afae642ea2413e814fba01bfede3c9fe"
+      "factCount": 1512,
+      "checksum": "61077658f6e5d45c512a31a147dfae23"
     },
     "IN": {
-      "factCount": 539,
-      "checksum": "325cb6eff4626dbe3efafd956164d8e8"
+      "factCount": 567,
+      "checksum": "204bb798f52482e3c2f865c4f5591d42"
     },
     "KS": {
       "factCount": 828,

@@ -4537,6 +4537,13 @@
       "fact": "Per the 2020 census, the population was 1368."
     },
     {
+      "cityName": "Hennepin",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat of and the second largest village in Putnam County."
+    },
+    {
       "cityName": "Heyworth",
       "state": "IL",
       "source": "Wikipedia",
@@ -6553,6 +6560,27 @@
       "fact": "The Census Bureau's 2019 estimate found that the population had increased to 20159."
     },
     {
+      "cityName": "Moline",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moline is part of the Quad Cities metropolitan area and is the world headquarters of Deere and Company (John Deere), founded here in 1837."
+    },
+    {
+      "cityName": "Moline",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city sits on the Mississippi River and is connected to Rock Island by the Government Bridge, which carries both rail and vehicle traffic."
+    },
+    {
+      "cityName": "Moline",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Moline's name comes from the French word moulin, meaning mill, reflecting the many mills that once operated along the Rock River."
+    },
+    {
       "cityName": "Momence",
       "state": "IL",
       "source": "Wikipedia",
@@ -7449,6 +7477,13 @@
       "fact": "Per the 2020 census, the population was 2751."
     },
     {
+      "cityName": "Oakland",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakland is the nearest community to Walnut Point State Park."
+    },
+    {
       "cityName": "Oakwood Hills",
       "state": "IL",
       "source": "Wikipedia",
@@ -8196,6 +8231,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The village was named after Alexander Ramsey (1815\u20131903), an American politician, second governor of Minnesota."
+    },
+    {
+      "cityName": "Ransom",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the subregion known as Streatorland."
     },
     {
       "cityName": "Red Bud",
@@ -9612,6 +9654,13 @@
       "fact": "Lincoln reputedly had Thanksgiving dinner at Tilton's house in the village in the 1850s."
     },
     {
+      "cityName": "Timberlane",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Timberlane (locally known as Timberline) is a village in Boone County, Illinois, United States."
+    },
+    {
       "cityName": "Time",
       "state": "IL",
       "source": "Wikipedia",
@@ -9645,6 +9694,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Topeka is an incorporated village in Mason County, Illinois, United States."
+    },
+    {
+      "cityName": "Toulon",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toulon is part of the Peoria metropolitan area, and is the northwestern terminus of the Rock Island Trail State Park."
     },
     {
       "cityName": "Tovey",

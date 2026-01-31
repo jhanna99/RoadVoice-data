@@ -288,6 +288,13 @@
       "fact": "The community has the name of Andrew Whitford, an early settler."
     },
     {
+      "cityName": "Argentia Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Argentia Beach is a summer village in Alberta, Canada."
+    },
+    {
       "cityName": "Arrowwood",
       "state": "AB",
       "source": "Wikipedia",
@@ -902,6 +909,48 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "A curling rink was built in the mid-1930s across the road west of the store."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Calgary is the largest city in Alberta and the third-largest in Canada, known as the gateway to the Canadian Rockies and Banff National Park."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city hosts the Calgary Stampede, billed as The Greatest Outdoor Show on Earth, a 10-day rodeo and festival attracting over a million visitors annually."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Calgary is the headquarters of Canada's petroleum industry, with most major oil and gas companies based in the city."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The 1988 Winter Olympics were held in Calgary, making it the first Canadian city to host the Winter Games."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Calgary has the highest number of millionaires per capita in Canada and consistently ranks among the world's most liveable cities."
+    },
+    {
+      "cityName": "Calgary",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city's name derives from Calgary Bay on the Isle of Mull in Scotland, named by Colonel James Macleod of the North-West Mounted Police in 1876."
     },
     {
       "cityName": "Calmar",
@@ -2878,6 +2927,13 @@
       "fact": "8 north of the City of Red Deer."
     },
     {
+      "cityName": "Lakeview",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located within Parkland County."
+    },
+    {
       "cityName": "Lamont County",
       "state": "AB",
       "source": "Wikipedia",
@@ -3354,6 +3410,13 @@
       "fact": "In 2021, Medicine Hat became the first city in Canada to achieve \"functional zero\" chronic homelessness, defined as three consecutive months where three or fewer individuals experienced chronic homelessness."
     },
     {
+      "cityName": "Mewatha Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mewatha Beach is a summer village in Alberta, Canada."
+    },
+    {
       "cityName": "Midnapore",
       "state": "AB",
       "source": "Wikipedia",
@@ -3564,6 +3627,13 @@
       "fact": "It has emerged as a bedroom community of Lethbridge."
     },
     {
+      "cityName": "Norris Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norris Beach is a summer village in Alberta, Canada."
+    },
+    {
       "cityName": "Northern Sunrise County",
       "state": "AB",
       "source": "Wikipedia",
@@ -3730,6 +3800,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The community is rich in timber, natural resources and agricultural land."
+    },
+    {
+      "cityName": "Parkland Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkland Beach is a summer village in Alberta, Canada."
     },
     {
       "cityName": "Parkland County",
@@ -4425,6 +4502,13 @@
       "fact": "Anthony Henday Drive (Highway 216) separates Refinery Row, in a portion of the Sherwood Park Urban Service Area to the west, from the residential and commercial hamlet to the east."
     },
     {
+      "cityName": "Silver Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silver Beach is a summer village in Alberta, Canada."
+    },
+    {
       "cityName": "Silver Sands",
       "state": "AB",
       "source": "Wikipedia",
@@ -4747,6 +4831,13 @@
       "fact": "Starland County is a municipal district located in southern Alberta, Canada."
     },
     {
+      "cityName": "Stavely",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 110 kilometres (68 mi) south of Calgary on Highway 2 and 16 km (9.9 mi) east of Willow Creek Provincial Park."
+    },
+    {
       "cityName": "Stirling",
       "state": "AB",
       "source": "Wikipedia",
@@ -4871,6 +4962,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is approximately 100 km (62 mi) northwest of Calgary on the Cowboy Trail in the foothills of the Canadian Rockies."
+    },
+    {
+      "cityName": "Sunrise Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the western shore of Sandy Lake, south of Sandy Beach."
+    },
+    {
+      "cityName": "Sunrise Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Sunrise Beach is a summer village in Alberta, Canada."
+    },
+    {
+      "cityName": "Sunset Beach",
+      "state": "AB",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunset Beach is a summer village in Alberta, Canada."
     },
     {
       "cityName": "Sunset Point",

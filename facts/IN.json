@@ -141,6 +141,13 @@
       "fact": "It sits on the banks of the Wabash River in the northeastern part of the state."
     },
     {
+      "cityName": "Boonville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the largest community in and the county seat of Warrick County."
+    },
+    {
       "cityName": "Borden",
       "state": "IN",
       "source": "Wikipedia",
@@ -358,6 +365,13 @@
       "fact": "Its population was 523 at the 2020 census."
     },
     {
+      "cityName": "Chesterton",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The three towns of Chesterton, Burns Harbor, and Porter are known as the Duneland area."
+    },
+    {
       "cityName": "Cicero",
       "state": "IN",
       "source": "Wikipedia",
@@ -426,6 +440,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Railways intersected north\u2013south and east\u2013west making Colfax a popular transfer destination."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbus is internationally renowned for its modern architecture, with buildings designed by I.M. Pei, Eero Saarinen, and other acclaimed architects."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Cummins Foundation has funded the architectural fees for over 80 public buildings since 1957, making Columbus a destination for architecture enthusiasts."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Columbus is home to Cummins Inc., a Fortune 500 diesel engine manufacturer, and Toyota's largest forklift manufacturing facility outside Japan."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The American Institute of Architects ranked Columbus sixth in the nation for architectural innovation and design."
     },
     {
       "cityName": "Connersville",
@@ -785,6 +827,13 @@
       "fact": "The two interstates intersect roughly 2 miles northwest of the town in nearby Gibson County."
     },
     {
+      "cityName": "Elkhart",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the most populous city in the Elkhart\u2013Goshen metropolitan area, which in turn is part of the South Bend\u2013Elkhart\u2013Mishawaka combined statistical area, in a region commonly known as Michiana."
+    },
+    {
       "cityName": "Elwood",
       "state": "IN",
       "source": "Wikipedia",
@@ -895,6 +944,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Floyds Knobs has a population of about 11412 to 12439."
+    },
+    {
+      "cityName": "Fort Branch",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Branch is the largest town and 2nd largest community in Gibson County, Indiana after Princeton."
     },
     {
       "cityName": "Fort Wayne",
@@ -1021,6 +1077,34 @@
       "source": "Wikidata",
       "factNumber": 1,
       "fact": "Michael Jackson was born in Gary."
+    },
+    {
+      "cityName": "Gary",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gary was founded in 1906 by United States Steel Corporation as the home of its new steel mill, named after lawyer Elbert H. Gary, chairman of U.S. Steel."
+    },
+    {
+      "cityName": "Gary",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was the birthplace of the Jackson family, including Michael Jackson, and is home to the Jackson 5 childhood home which is now a museum."
+    },
+    {
+      "cityName": "Gary",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Gary was once known as the Magic City for its rapid growth, reaching a peak population of 178,000 in 1960 before decades of industrial decline."
+    },
+    {
+      "cityName": "Gary",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Gary Works steel mill remains one of the largest integrated steel mills in North America, stretching for miles along Lake Michigan."
     },
     {
       "cityName": "Geneva",
@@ -1273,6 +1357,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Incorporated in 1949, it has existed as an included town since 1970, when it was incorporated into Indianapolis as part of Unigov."
+    },
+    {
+      "cityName": "Hope",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hope is a town in Haw Creek Township, Bartholomew County, Indiana, United States, known for its historic character."
     },
     {
       "cityName": "Howe",
@@ -2010,6 +2101,20 @@
       "fact": "Monroe is the name of several places in the U S state of Indiana: Monroe, Adams County, Indiana Monroe, Tippecanoe County, Indiana Monroe Township, Delaware County, Indiana Monroe County, Indiana Monroe City, Indiana, a town in Knox County"
     },
     {
+      "cityName": "Montezuma",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montezuma is a town in Reserve Township, Parke County, in the U S state of Indiana."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located approximately 66 miles west of the state capital Indianapolis."
+    },
+    {
       "cityName": "Monticello",
       "state": "IN",
       "source": "Wikipedia",
@@ -2535,6 +2640,13 @@
       "fact": "As of the 2020 census, its population was 7234."
     },
     {
+      "cityName": "Oak Park",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Park is a census-designated place (CDP) in Clark County, Indiana, United States."
+    },
+    {
       "cityName": "Oakland City",
       "state": "IN",
       "source": "Wikipedia",
@@ -2626,6 +2738,27 @@
       "fact": "As of the 2020 census, its population was 1144."
     },
     {
+      "cityName": "Owensville",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Owensville is the third largest town and the smallest of the five larger communities in Gibson County, Indiana, United States."
+    },
+    {
+      "cityName": "Parker City",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parker City is a town in Monroe Township, Randolph County, in the U S state of Indiana."
+    },
+    {
+      "cityName": "Patoka",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Patoka is the fourth largest town and sixth largest community in Gibson County, Indiana, United States."
+    },
+    {
       "cityName": "Pekin",
       "state": "IN",
       "source": "Wikipedia",
@@ -2710,6 +2843,13 @@
       "fact": "miles for Census 2000."
     },
     {
+      "cityName": "Portage",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the largest city in Porter County, and third largest in Northwest Indiana."
+    },
+    {
       "cityName": "Porter",
       "state": "IN",
       "source": "Wikipedia",
@@ -2757,6 +2897,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Richland, Indiana is the name of two places in Indiana."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond is home to Earlham College, a Quaker liberal arts college founded in 1847, reflecting the city's strong Quaker heritage."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was a major stop on the Underground Railroad and later became an important industrial center, particularly for lawn mower manufacturing."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Richmond is known as the Rose City and hosts the annual Richmond Rose Festival, one of Indiana's oldest community festivals."
     },
     {
       "cityName": "Rising Sun",
@@ -2841,6 +3002,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community is part of the Lafayette, Indiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rosedale is a town in Florida Township, Parke County, in the U S state of Indiana."
     },
     {
       "cityName": "Roseland",
@@ -3417,6 +3585,27 @@
       "fact": "Although the town is geographically constrained, the influx of new housing helped fuel the population increase."
     },
     {
+      "cityName": "Valparaiso",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Valparaiso is home to Valparaiso University, a private Lutheran university founded in 1859 with a notable law school and engineering program."
+    },
+    {
+      "cityName": "Valparaiso",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city's name comes from the Spanish for Vale of Paradise, named after the Chilean port city by early settlers."
+    },
+    {
+      "cityName": "Valparaiso",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Valparaiso hosts the annual Popcorn Festival celebrating Orville Redenbacher, who developed his famous popcorn hybrid nearby."
+    },
+    {
       "cityName": "Vernon",
       "state": "IN",
       "source": "Wikipedia",
@@ -3744,6 +3933,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The town was incorporated in 1993 in order to keep the residents from being annexed by other neighboring communities."
+    },
+    {
+      "cityName": "Wingate",
+      "state": "IN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wingate, formerly known as Pleasant Hill, is a town in Coal Creek Township, Montgomery County, in the U S state of Indiana."
     },
     {
       "cityName": "Winona Lake",

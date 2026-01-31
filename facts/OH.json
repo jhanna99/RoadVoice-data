@@ -134,6 +134,13 @@
       "fact": "Alliance is associated with the state flower of Ohio, the scarlet carnation, and is known as the \"Carnation City\"."
     },
     {
+      "cityName": "Amberley",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amberley, locally known as Amberley Village, is a village in Hamilton County, Ohio, United States."
+    },
+    {
       "cityName": "Amelia",
       "state": "OH",
       "source": "Wikipedia",
@@ -484,6 +491,20 @@
       "fact": "The community lies on the shores of Sandusky Bay."
     },
     {
+      "cityName": "Beach City",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beach City is a village in southwestern Stark County, Ohio, United States."
+    },
+    {
+      "cityName": "Beachwood",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beachwood is a city in eastern Cuyahoga County, Ohio, United States."
+    },
+    {
       "cityName": "Beallsville",
       "state": "OH",
       "source": "Wikipedia",
@@ -517,6 +538,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The village most likely was named after nearby Beaver Creek."
+    },
+    {
+      "cityName": "Beavercreek",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 46549 at the 2020 census, making it the largest city in the county and the second-largest suburb of Dayton."
     },
     {
       "cityName": "Beaverdam",
@@ -932,6 +960,13 @@
       "fact": "It is a suburb of Dayton."
     },
     {
+      "cityName": "Brunswick",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brunswick ( BRUN-zwik or BRUN-swik) is the largest city in Medina County, Ohio, United States."
+    },
+    {
       "cityName": "Buchtel",
       "state": "OH",
       "source": "Wikipedia",
@@ -958,6 +993,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The village is served by the Wapakoneta City School District."
+    },
+    {
+      "cityName": "Bucyrus",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the largest in Crawford County and the center of the Bucyrus micropolitan statistical area."
     },
     {
       "cityName": "Burghill",
@@ -2290,6 +2332,13 @@
       "fact": "Fairport Harbor is home to two lighthouses: the Fairport Harbor West Breakwater Light in Painesville Township, operated by the United States Coast Guard and the Fairport Harbor Light operated by the Fairport Harbor Historical Society."
     },
     {
+      "cityName": "Fairview Park",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairview Park is a city in Cuyahoga County, Ohio, United States."
+    },
+    {
       "cityName": "Findlay",
       "state": "OH",
       "source": "Wikipedia",
@@ -2472,6 +2521,20 @@
       "fact": "It is a suburb of Columbus."
     },
     {
+      "cityName": "Galion",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Galion is the second-largest city in Crawford County after Bucyrus."
+    },
+    {
+      "cityName": "Gallipolis",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gallipolis is the second-largest community in the rural Point Pleasant micropolitan area, which includes all of Gallia County, Ohio, and Mason County, West Virginia."
+    },
+    {
       "cityName": "Galloway",
       "state": "OH",
       "source": "Wikipedia",
@@ -2589,6 +2652,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Glenville borders the Collinwood area to the northeast at East 134th Street, and St. Clair\u2013Superior to the west at Martin Luther King Junior Boulevard and the Cleveland Cultural Gardens in Rockefeller Park."
+    },
+    {
+      "cityName": "Gloria Glens Park",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gloria Glens Park is a village in Medina County, Ohio, United States."
     },
     {
       "cityName": "Glouster",
@@ -4138,6 +4208,13 @@
       "fact": "Massillon is located approximately 8 miles (13 km) west of Canton, 20 miles (32 km) south of Akron, and 50 miles (80 km) south of Cleveland."
     },
     {
+      "cityName": "Matamoras",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Matamoras, also known as New Matamoras, is a village in Washington County, Ohio, United States, along the Ohio River."
+    },
+    {
       "cityName": "Maumee",
       "state": "OH",
       "source": "Wikipedia",
@@ -4234,6 +4311,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Because of its central location, home of the areas' public schools and prominent business and retail presence, Middlefield village is considered the hub community for Huntsburg, Parkman, and Middlefield Townships."
+    },
+    {
+      "cityName": "Middleport",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middleport is the largest village in Meigs County, Ohio, along the Ohio River."
     },
     {
       "cityName": "Middletown",
@@ -5237,6 +5321,13 @@
       "fact": "A local legend has held that it was designed by noted architect Charles Pierre L'Enfant, after he planned Washington, DC, but this has not been supported by fact."
     },
     {
+      "cityName": "Philo",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Philo is the closest municipality to Blue Rock State Park."
+    },
+    {
       "cityName": "Pickerington",
       "state": "OH",
       "source": "Wikipedia",
@@ -5564,6 +5655,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Much of the village is listed on the National Register of Historic Places as the Rushville Historic District."
+    },
+    {
+      "cityName": "Russells Point",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated on Indian Lake, which has long been a popular summer resort destination."
     },
     {
       "cityName": "Sabina",
@@ -6154,6 +6252,13 @@
       "fact": "Tallmadge was founded in 1807 and is the second-oldest city in Summit County, following Hudson, which was founded in 1799."
     },
     {
+      "cityName": "Terrace Park",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Terrace Park is a village in Hamilton County, Ohio, and a suburb of Greater Cincinnati."
+    },
+    {
       "cityName": "The Village of Indian Hill",
       "state": "OH",
       "source": "Wikipedia",
@@ -6334,6 +6439,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is served by the Trotwood-Madison City School District."
+    },
+    {
+      "cityName": "Troy",
+      "state": "OH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 26305 at the 2020 census, making it Miami County's largest city and Ohio's 55th-largest."
     },
     {
       "cityName": "Uhrichsville",

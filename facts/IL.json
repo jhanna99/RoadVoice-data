@@ -323,6 +323,13 @@
       "fact": "Main Street runs along the county line with Douglas County to the east and Piatt County to the west."
     },
     {
+      "cityName": "Augusta",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located near Weinberg-King State Park."
+    },
+    {
       "cityName": "Aurora",
       "state": "IL",
       "source": "Wikipedia",
@@ -1471,6 +1478,13 @@
       "fact": "Upon entering Chicago, Burnham Avenue becomes Avenue O."
     },
     {
+      "cityName": "Burnt Prairie",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burnt Prairie (formerly known as Liberty) is a village in White County, Illinois, United States."
+    },
+    {
       "cityName": "Burr Ridge",
       "state": "IL",
       "source": "Wikipedia",
@@ -1665,6 +1679,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Camargo is at the intersection of Illinois Route 130 and U S Route 36."
+    },
+    {
+      "cityName": "Canton",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canton is the largest city in Fulton County, Illinois, United States."
     },
     {
       "cityName": "Carbon Cliff",
@@ -1912,6 +1933,13 @@
       "fact": "The residents and advocates identify these as issues of environmental injustice rooted in racial and economic disparities."
     },
     {
+      "cityName": "Cerro Gordo",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cerro Gordo, nicknamed Fat Hill, is a town in Piatt County, Illinois, United States."
+    },
+    {
       "cityName": "Champaign",
       "state": "IL",
       "source": "Wikipedia",
@@ -2101,6 +2129,13 @@
       "fact": "Professional sports in Chicago include all major professional leagues, including two Major League Baseball teams."
     },
     {
+      "cityName": "Chicago Heights",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A southern suburb in the Chicago metropolitan area, its nicknames include \"The Crossroads of the Nation\" and \"Da Heights\u201d."
+    },
+    {
       "cityName": "Chicago Lawn",
       "state": "IL",
       "source": "Wikipedia",
@@ -2239,6 +2274,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "With a population more than 89% Hispanic, the town is the most Hispanic in the state of Illinois."
+    },
+    {
+      "cityName": "Cissna Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cissna Park is a village in Pigeon Grove Township, Iroquois County, Illinois, United States."
     },
     {
       "cityName": "Clarendon Hills",
@@ -3431,6 +3473,34 @@
       "fact": "It is also one of the towns along the Ronald Reagan Trail, a series of roads that connect towns in central Illinois that were of importance to Reagan's early life."
     },
     {
+      "cityName": "Evanston",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Evanston is home to Northwestern University, a prestigious private research university founded in 1851 and one of the oldest universities in the Big Ten Conference."
+    },
+    {
+      "cityName": "Evanston",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named after John Evans, one of the founders of Northwestern University and a former governor of the Colorado Territory."
+    },
+    {
+      "cityName": "Evanston",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Evanston was the national headquarters of the Women's Christian Temperance Union and was a dry city until 1972."
+    },
+    {
+      "cityName": "Evanston",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Notable residents have included actor Charlton Heston, comedian Eddie Izzard, and Nobel Prize-winning economist Milton Friedman who taught at Northwestern."
+    },
+    {
       "cityName": "Evergreen Park",
       "state": "IL",
       "source": "Wikipedia",
@@ -3865,6 +3935,13 @@
       "fact": "The Fabyan Windmill, a Dutch windmill dating from the 1850s, is located here."
     },
     {
+      "cityName": "Genoa",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the historic Galena-Chicago stagecoach route."
+    },
+    {
       "cityName": "Georgetown",
       "state": "IL",
       "source": "Wikipedia",
@@ -4066,6 +4143,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Much of the town was destroyed by a cyclone in 1912, according to Frank Leslie's Weekly magazine, which ran pictures."
+    },
+    {
+      "cityName": "Granville",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1427 at the 2010 census, up from 1414 in 2000, making it the largest community in Putnam County."
     },
     {
       "cityName": "Grayslake",
@@ -4290,6 +4374,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Per the 2020 census, the population was 3546."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hamilton is the largest city in Hancock County."
     },
     {
       "cityName": "Hampshire",
@@ -4677,6 +4768,13 @@
       "fact": "The village was incorporated in 1983."
     },
     {
+      "cityName": "Hopkins Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hopkins Park is a village in Kankakee County, Illinois, United States."
+    },
+    {
       "cityName": "Huey",
       "state": "IL",
       "source": "Wikipedia",
@@ -5018,6 +5116,62 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was named for its founder, Moses Kenney."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In recent years, Kenwood has received national attention as the home of former U S President Barack Obama."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Kenwood was once one of Chicago's most affluent neighborhoods, and it still has some of the largest single-family homes in the city."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A large part of the southern half of the community area is in the Hyde Park-Kenwood Historic District."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It contains two Chicago Landmark districts, Kenwood and North Kenwood."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is on the shore of Lake Michigan on the South Side of the city."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Its boundaries are 43rd Street, 51st Street, Cottage Grove Avenue, and the lake."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Kenwood is one of the 77 community areas of Chicago in Illinois, United States."
+    },
+    {
+      "cityName": "Kenwood",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Kenwood was originally part of Hyde Park Township, which was annexed to the city of Chicago in 1889."
     },
     {
       "cityName": "Kewanee",
@@ -5650,6 +5804,13 @@
       "fact": "It is also the headquarters of the Nuclear Regulatory Commission Region III."
     },
     {
+      "cityName": "Litchfield",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located in South Central Illinois, south of Springfield, the state capital."
+    },
+    {
       "cityName": "Loami",
       "state": "IL",
       "source": "Wikipedia",
@@ -5704,6 +5865,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census its population was 356."
+    },
+    {
+      "cityName": "Lombard",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lombard is known as the Lilac Village, hosting the annual Lilac Time festival since 1930 in Lilacia Park, which features over 200 lilac varieties."
+    },
+    {
+      "cityName": "Lombard",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is named after Josiah Lombard, a Chicago real estate investor who donated land for the railroad depot in the 1860s."
+    },
+    {
+      "cityName": "Lombard",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lombard is home to the DuPage County Historical Museum and the 16-acre Lilacia Park, designed by landscape architect Jens Jensen."
     },
     {
       "cityName": "Long Creek",
@@ -5788,6 +5970,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Per the 2020 census, the population was 10817."
+    },
+    {
+      "cityName": "Machesney Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Machesney Park is a village located in Winnebago County, Illinois, United States."
+    },
+    {
+      "cityName": "Machesney Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Machesney Park is part of the Rockford metropolitan area."
     },
     {
       "cityName": "Mackinaw",
@@ -6238,6 +6434,13 @@
       "fact": "The village derives its name from the Menominee indigenous peoples."
     },
     {
+      "cityName": "Merrionette Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Merrionette Park is a village in Cook County, Illinois, United States."
+    },
+    {
       "cityName": "Metamora",
       "state": "IL",
       "source": "Wikipedia",
@@ -6439,6 +6642,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "A team of ten anthropologists and sociologists from the nearby University of Chicago studied the city in depth and reported its findings in W. Lloyd Warner, editor, Democracy in Jonesville: A Study of Quality and Inequality (1949)."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Historic Lincoln Highway, the nation's first transcontinental highway and in Morrison was the site of two concrete \"seedling miles\", which served as prototypes of what an improved highway could do for the nation."
     },
     {
       "cityName": "Morton",
@@ -7561,6 +7771,13 @@
       "fact": "Panola is one of the smallest communities in Illinois today."
     },
     {
+      "cityName": "Paris",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat and largest city in Edgar County."
+    },
+    {
       "cityName": "Park City",
       "state": "IL",
       "source": "Wikipedia",
@@ -7869,6 +8086,13 @@
       "fact": "The village was incorporated April 8, 1876"
     },
     {
+      "cityName": "Pontoon Beach",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pontoon Beach is a village in Madison County, Illinois, United States."
+    },
+    {
       "cityName": "Poplar Grove",
       "state": "IL",
       "source": "Wikipedia",
@@ -8007,6 +8231,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "A small portion on the south side is in Mercer County."
+    },
+    {
+      "cityName": "Richton Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richton Park is a village and south suburb of Chicago in Cook County, Illinois, United States."
     },
     {
       "cityName": "Ridott",
@@ -8534,6 +8765,13 @@
       "fact": "Its population was 7421 at the 2010 census and 7221 at the 2020 census."
     },
     {
+      "cityName": "Sauk Village",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sauk Village (locally known as \"The Village\") is a village and a south suburb of Chicago in Cook County, Illinois, United States."
+    },
+    {
       "cityName": "Saunemin",
       "state": "IL",
       "source": "Wikipedia",
@@ -8581,6 +8819,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Schaumburg is bordered by Hoffman Estates and Palatine to the north, Inverness in northwest, Rolling Meadows to the northeast, Elk Grove Village to the southeast, Roselle to the south, Hanover Park to the southwest, and Streamwood to the west."
+    },
+    {
+      "cityName": "Schiller Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Schiller Park is a village in Leyden Township, Cook County, Illinois, United States."
     },
     {
       "cityName": "Scott AFB",
@@ -9283,6 +9528,13 @@
       "fact": "Taylor Ridge is located at the junction of Illinois Route 94 and Illinois Route 192, 4 miles (6.4 km) north of Reynolds."
     },
     {
+      "cityName": "Taylorville",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10506 at the 2020 census, making it the county's largest city."
+    },
+    {
       "cityName": "Teutopolis",
       "state": "IL",
       "source": "Wikipedia",
@@ -9365,6 +9617,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Time was a village in Pike County, Illinois, United States, disestablished in 2022."
+    },
+    {
+      "cityName": "Tinley Park",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tinley Park is a village in Cook and Will Counties, Illinois, United States."
     },
     {
       "cityName": "Tiskilwa",
@@ -9470,6 +9729,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Silica sand, a fine white sand used in making glass, is mined in the vicinity of Troy Grove."
+    },
+    {
+      "cityName": "Tuscola",
+      "state": "IL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tuscola is the largest city and the county seat of Douglas County, Illinois, United States."
     },
     {
       "cityName": "Union Hill",

@@ -834,6 +834,20 @@
       "fact": "Of this, 1890 were in Grant County, and 248 were in Lafayette County."
     },
     {
+      "cityName": "Cudahy",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cudahy was founded in 1892 as a company town by meat packer Patrick Cudahy and was once home to the Ladish Company forging plant."
+    },
+    {
+      "cityName": "Cudahy",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city sits on the shore of Lake Michigan and is known for Sheridan Park, which offers views of the Milwaukee skyline and lakefront access."
+    },
+    {
       "cityName": "Cumberland",
       "state": "WI",
       "source": "Wikipedia",
@@ -1205,6 +1219,20 @@
       "fact": "The village is primarily residential."
     },
     {
+      "cityName": "Franklin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Franklin is named after Benjamin Franklin and was originally settled in the 1830s by farmers from New England and Germany."
+    },
+    {
+      "cityName": "Franklin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Midwest Orthopedic Specialty Hospital and the Franklin Public Library, designed by renowned architect William Wesley Peters."
+    },
+    {
       "cityName": "Frederic",
       "state": "WI",
       "source": "Wikipedia",
@@ -1497,6 +1525,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "A planned community, it was established by the US government during the Great Depression."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenfield is a suburb of Milwaukee located in Milwaukee County, incorporated as a city in 1957 after separating from the town of Greenfield."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Milwaukee County Sports Complex and several major retail developments along 76th Street."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is one of 18 communities that form the basis of the Fox Cities, the third largest metropolitan area in Wisconsin."
     },
     {
       "cityName": "Hager City",
@@ -1856,6 +1905,34 @@
       "fact": "It is included in the Sheboygan metropolitan statistical area."
     },
     {
+      "cityName": "La Crosse",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "La Crosse is named after the Native American sport of lacrosse, which French fur traders observed being played in the area in the early 1800s."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the world's largest six-pack, a group of storage tanks at City Brewery painted to look like Old Style beer cans holding 22,000 barrels."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "La Crosse is situated at the confluence of the La Crosse, Black, and Mississippi Rivers, earning it the nickname Gateway to the Bluffs."
+    },
+    {
+      "cityName": "La Crosse",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Oktoberfest USA celebration in La Crosse is one of the largest German heritage festivals in the Midwest, attracting over 100,000 visitors annually."
+    },
+    {
       "cityName": "La Farge",
       "state": "WI",
       "source": "Wikipedia",
@@ -2155,6 +2232,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Manitowish Waters was incorporated in 2018."
+    },
+    {
+      "cityName": "Manitowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manitowoc is known as Wisconsin's Maritime Capital and is home to the Wisconsin Maritime Museum featuring the USS Cobia, a WWII submarine."
+    },
+    {
+      "cityName": "Manitowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "During World War II, the Manitowoc Shipbuilding Company built 28 submarines for the U.S. Navy, the only submarines ever built on the Great Lakes."
+    },
+    {
+      "cityName": "Manitowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In 1962, a 20-pound fragment of the Soviet satellite Sputnik 4 fell on North 8th Street in downtown Manitowoc, now marked by a brass ring in the sidewalk."
+    },
+    {
+      "cityName": "Manitowoc",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Manitowoc Company, a global crane manufacturer founded here in 1902, is one of the largest crane manufacturers in the world."
     },
     {
       "cityName": "Marathon",
@@ -2745,6 +2850,20 @@
       "fact": "Small portions extend east into the adjacent Town of Bloomer, Chippewa County and north into the Town of Dovre in Barron County."
     },
     {
+      "cityName": "New Berlin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Berlin is one of the largest cities in Waukesha County and was named after Berlin, Germany by early German settlers in the 1840s."
+    },
+    {
+      "cityName": "New Berlin",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city developed as a rural farming community before rapid suburbanization in the late 20th century transformed it into a Milwaukee suburb."
+    },
+    {
       "cityName": "New Glarus",
       "state": "WI",
       "source": "Wikipedia",
@@ -2799,6 +2918,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was first named a CDP at the 2020 census, which showed a population of 247."
+    },
+    {
+      "cityName": "Oak Creek",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak Creek is named for the oak trees that once lined the creek running through the area, settled by New England farmers in the 1830s."
+    },
+    {
+      "cityName": "Oak Creek",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to Oak Creek Power Plant, one of the largest coal-fired power plants in Wisconsin, and General Mitchell International Airport lies partly within its borders."
     },
     {
       "cityName": "Oconomowoc",
@@ -3333,6 +3466,34 @@
       "fact": "Of this, 3650 were in Brown County, 220 in Shawano County, and none in Oconto County."
     },
     {
+      "cityName": "Racine",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Racine is known as the birthplace of the malted milk ball, invented at the Horlicks company in 1887, and the Danish kringle pastry tradition."
+    },
+    {
+      "cityName": "Racine",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to SC Johnson, the Fortune 500 company known for household products like Windex and Ziploc, headquartered here since 1886."
+    },
+    {
+      "cityName": "Racine",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Racine has more buildings designed by Frank Lloyd Wright than any city outside Chicago, including the SC Johnson Administration Building and Research Tower."
+    },
+    {
+      "cityName": "Racine",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name Racine comes from the French word for root, referring to the Root River which flows through the city into Lake Michigan."
+    },
+    {
       "cityName": "Randolph",
       "state": "WI",
       "source": "Wikipedia",
@@ -3599,6 +3760,34 @@
       "fact": "The village is within the Town of Sharon."
     },
     {
+      "cityName": "Sheboygan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sheboygan is known as the Bratwurst Capital of the World, famous for its German-style bratwurst and the annual Johnsonville Brat Days festival."
+    },
+    {
+      "cityName": "Sheboygan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city has a strong surfing culture due to consistent Lake Michigan waves and hosts the annual Dairyland Surf Classic competition."
+    },
+    {
+      "cityName": "Sheboygan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sheboygan is home to Kohler Company, the plumbing fixtures manufacturer, and hosts the PGA Championship at nearby Whistling Straits golf course."
+    },
+    {
+      "cityName": "Sheboygan",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The John Michael Kohler Arts Center in Sheboygan is nationally recognized for its collection of artist-built environments and self-taught art."
+    },
+    {
       "cityName": "Sherwood",
       "state": "WI",
       "source": "Wikipedia",
@@ -3828,6 +4017,13 @@
       "source": "Wikidata",
       "factNumber": 1,
       "fact": "Georgia O'Keeffe was born in Sun Prairie."
+    },
+    {
+      "cityName": "Sun Prairie",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the most populous suburb of Madison, the state capital, and is part of the Madison metropolitan area."
     },
     {
       "cityName": "Superior",
@@ -4220,6 +4416,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "There are two municipalities named Webster in Wisconsin: Webster, Burnett County, Wisconsin, a village Webster, Vernon County, Wisconsin, a town"
+    },
+    {
+      "cityName": "West Allis",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Allis was originally named North Greenfield but renamed in 1902 after the Allis-Chalmers manufacturing company that established a major plant there."
+    },
+    {
+      "cityName": "West Allis",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is home to the Wisconsin State Fair Park, hosting the Wisconsin State Fair since 1892 and various year-round events."
+    },
+    {
+      "cityName": "West Allis",
+      "state": "WI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West Allis was a major industrial center producing farm equipment, electrical motors, and during WWII, military vehicles and equipment for the war effort."
     },
     {
       "cityName": "West Baraboo",

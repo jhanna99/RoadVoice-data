@@ -232,6 +232,13 @@
       "fact": "Arden is also home to Lutheridge, a Lutheran Camp and Conference Center affiliated with the ELCA."
     },
     {
+      "cityName": "Asheboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Greensboro-High Point Metropolitan Area of the Piedmont Triad and is home of the state-owned North Carolina Zoo."
+    },
+    {
       "cityName": "Asheville",
       "state": "NC",
       "source": "Wikipedia",
@@ -783,6 +790,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Burgaw is part of the Wilmington, NC Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burlington is a city in Alamance and Guilford counties in the U.S."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Burlington, NC Metropolitan Statistical Area, which encompasses all of Alamance County, in which most of the city is located, and is a part of the Greensboro\u2013Winston-Salem\u2013High Point, NC Combined Statistical Area."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 57,303 at the 2020 census, which makes Burlington the 18th-most populous city in North Carolina."
     },
     {
       "cityName": "Burnsville",
@@ -1359,6 +1387,20 @@
       "fact": "Much of that growth can be attributed to the town's proximity to the Research Triangle area and access to major highways such as I-40 and US 70."
     },
     {
+      "cityName": "Clemmons",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clemmons is a village in Forsyth County, North Carolina, United States, and a suburb of Winston-Salem."
+    },
+    {
+      "cityName": "Clemmons",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 21,177 at the 2020 census, with an estimated population of 21,517 in 2021."
+    },
+    {
       "cityName": "Cliffside",
       "state": "NC",
       "source": "Wikipedia",
@@ -1413,6 +1455,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Located near the center of Cabarrus County in the Piedmont region, it is 20 miles (32 km) northeast of Uptown Charlotte."
+    },
+    {
+      "cityName": "Cornelius",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornelius is a suburban town located along Lake Norman in northern Mecklenburg County, North Carolina, United States."
+    },
+    {
+      "cityName": "Cornelius",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a major suburb of Charlotte and part of its metropolitan area."
+    },
+    {
+      "cityName": "Cornelius",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 31,412 at the 2020 census, up from 24,866 in 2010."
     },
     {
       "cityName": "Corolla",
@@ -3151,6 +3214,13 @@
       "fact": "It was named for a family of settlers."
     },
     {
+      "cityName": "Holden Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holden Beach is a seaside town in Brunswick County, North Carolina."
+    },
+    {
       "cityName": "Hollister",
       "state": "NC",
       "source": "Wikipedia",
@@ -3282,6 +3352,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, its population was 61376, making Huntersville the 15th-most populous municipality in North Carolina."
+    },
+    {
+      "cityName": "Indian Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Indian Beach is a town in Carteret County, North Carolina, United States."
+    },
+    {
+      "cityName": "Indian Trail",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Indian Trail is a town in Union County, North Carolina, United States."
+    },
+    {
+      "cityName": "Indian Trail",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A southeastern suburb of Charlotte and part of the Charlotte metropolitan area, Indian Trail has grown rapidly in the 21st century due to its close proximity to Charlotte and its appeal as a residential community for commuters, going from 1,942 residents in 1990 to 39,997 in 2020."
     },
     {
       "cityName": "Iron Station",
@@ -3690,6 +3781,13 @@
       "fact": "In 2020 the town population was 1365."
     },
     {
+      "cityName": "Lake Park",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Park is a village in Union County, North Carolina, United States."
+    },
+    {
       "cityName": "Lake Santeetlah",
       "state": "NC",
       "source": "Wikipedia",
@@ -3725,11 +3823,25 @@
       "fact": "Lansing is a popular destination among retirees and tourists from Florida, as well as those from the lower elevations of the Carolinas and Georgia."
     },
     {
+      "cityName": "Laurel Park",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel Park is a town in Henderson County, North Carolina, United States."
+    },
+    {
       "cityName": "Laurinburg",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Located in south central North Carolina near the South Carolina border, Laurinburg is southwest of Fayetteville and was home to St. Andrews University."
+    },
+    {
+      "cityName": "Lawndale",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lawndale is a town in Cleveland County, North Carolina, United States, situated along the First Broad River."
     },
     {
       "cityName": "Leasburg",
@@ -4446,6 +4558,13 @@
       "fact": "It was incorporated into a town in June 2003."
     },
     {
+      "cityName": "Minnesott Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Minnesott Beach is a town in Pamlico County, North Carolina, United States."
+    },
+    {
       "cityName": "Mint Hill",
       "state": "NC",
       "source": "Wikipedia",
@@ -4530,11 +4649,74 @@
       "fact": "The community is located near the confluence of the Deep and Haw rivers, which form the Cape Fear River."
     },
     {
+      "cityName": "Monroe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monroe is a city in and the county seat of Union County, North Carolina, United States."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population increased from 32,797 in 2010 to 34,551 in 2020, and the 28th most populous city in North Carolina."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is within the rapidly growing Charlotte metropolitan area."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Monroe has a council-manager form of government."
+    },
+    {
       "cityName": "Montreat",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is best known for Montreat Conference Center and Montreat College, and for having been the home of the evangelist Billy Graham and his wife Ruth Bell Graham."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mooresville is a town located in the southwestern section of Iredell County, North Carolina, United States, and is a part of the fast-growing Charlotte metropolitan area."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 50,193 at the 2020 census, making it the most populous municipality in Iredell County."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located approximately 25 miles (40 km) north of Charlotte."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Mooresville is best known as the home of many NASCAR racing teams and drivers, along with an IndyCar team and its drivers, as well as racing technology suppliers, which has earned the town the nickname \"Race City USA\"."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Also located in Mooresville is the corporate headquarters of Lowe's Corporation and Universal Technical Institute's NASCAR Technical Institute."
     },
     {
       "cityName": "Morehead",
@@ -4873,6 +5055,13 @@
       "fact": "The town is also known as one of the birthplaces of the sport of stock-car racing, and the North Wilkesboro Speedway was the first NASCAR-sanctioned track."
     },
     {
+      "cityName": "Oak City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oak City, formerly known as Goose Nest, is a town in Martin County, North Carolina, United States."
+    },
+    {
       "cityName": "Oak Island",
       "state": "NC",
       "source": "Wikipedia",
@@ -4962,6 +5151,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Oriental is also known as \"The Sailing Capital of North Carolina\" The population was 880, according to the 2020 census."
+    },
+    {
+      "cityName": "Parkton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkton is a town in Robeson County, North Carolina, United States."
     },
     {
       "cityName": "Peletier",
@@ -5137,6 +5333,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, Pineville had a population of 10602, up from 7479 in 2010."
+    },
+    {
+      "cityName": "Pinnacle",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pinnacle is an unincorporated community and census-designated place in southwestern Stokes County, North Carolina, United States, approximately 5 miles (8.0 km) SSE of the town of Pilot Mountain, between Pilot Mountain State Park and Hanging Rock State Park."
     },
     {
       "cityName": "Pisgah Forest",
@@ -5608,6 +5811,20 @@
       "fact": "Rocky Point is within the Wilmington, NC Metropolitan Statistical Area."
     },
     {
+      "cityName": "Rolesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the second oldest town in Wake County."
+    },
+    {
+      "cityName": "Rolesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Rolesville is a town in northeastern Wake County, North Carolina, United States, a suburb of the capital city of Raleigh."
+    },
+    {
       "cityName": "Ronda",
       "state": "NC",
       "source": "Wikipedia",
@@ -5858,6 +6075,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is 4 miles from the state line with Virginia."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sanford is a city in and the county seat of Lee County, North Carolina, United States."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Since its incorporation in 1874, Sanford has been an active railroad and industrial center, known as one of the nation's largest producers of brick and pottery products."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 30,261 at the 2020 census."
+    },
+    {
+      "cityName": "Sanford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The geographic center of North Carolina is located northwest of the city, in Chatham County."
     },
     {
       "cityName": "Sapphire",
@@ -6581,6 +6826,13 @@
       "fact": "While a Tobaccoville post office was established in 1879, the village was not incorporated until 1991, as a defense against forced annexation of the area by the nearby city of King."
     },
     {
+      "cityName": "Topsail Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Topsail Beach is a town in Pender County, North Carolina, United States."
+    },
+    {
       "cityName": "Townsville",
       "state": "NC",
       "source": "Wikipedia",
@@ -6698,6 +6950,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Turkey is located 8 miles east of Clinton."
+    },
+    {
+      "cityName": "Tyner",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tyner, also called Center Hill, is an unincorporated community in Chowan County, North Carolina, United States, located approximately 20 miles (32 km) from Elizabeth City and about 70 miles (110 km) from Virginia Beach, Virginia."
     },
     {
       "cityName": "Union Mills",
@@ -6917,6 +7176,13 @@
       "fact": "Wanchese is part of District 1, along with Manteo, Roanoke Island and Manns Harbor."
     },
     {
+      "cityName": "Warrensville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warrensville (formerly known as Buffalo Creek) is an unincorporated community in Ashe County, North Carolina, United States."
+    },
+    {
       "cityName": "Warrenton",
       "state": "NC",
       "source": "Wikipedia",
@@ -6964,6 +7230,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is commonly known as \"Original Washington\" or \"Little Washington\" to distinguish it from Washington, D C The closest major city is Greenville, approximately 20 miles (32 km) to the west."
+    },
+    {
+      "cityName": "Washington Park",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washington Park is a town in Beaufort County, North Carolina, United States."
     },
     {
       "cityName": "Waves",
@@ -7062,6 +7335,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Neighboring communities and municipalities include Midway, Arcadia, and Lexington."
+    },
+    {
+      "cityName": "Wendell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a satellite town of Raleigh, the state capital."
     },
     {
       "cityName": "West End",

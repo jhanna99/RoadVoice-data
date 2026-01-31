@@ -2458,6 +2458,20 @@
       "fact": "The CDP of Cambria had a population of 5678 at the 2020 census, down from 6032 at the 2010 census."
     },
     {
+      "cityName": "Cameron Park",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cameron Park is a community located in the Northern California Gold Country of the Sierra Nevada foothills, approximately 30 miles (50 km) east of Sacramento and 70 miles (110 km) west of South Lake Tahoe."
+    },
+    {
+      "cityName": "Cameron Park",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cameron Park is a census-designated place (CDP) in El Dorado County, California, United States and is part of the Greater Sacramento Area."
+    },
+    {
       "cityName": "Camino",
       "state": "CA",
       "source": "Wikipedia",
@@ -2645,6 +2659,55 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is the most populous of Santa Clarita's four neighborhoods."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canyon Lake, sometimes referenced as Railroad Canyon Reservoir, is a reservoir created in 1928 by the construction of the Railroad Canyon Dam in Railroad Canyon or (San Jacinto Canyon) in the Temescal Mountains of southwestern Riverside County, California."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is owned and operated by the Elsinore Valley Municipal Water District."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The reservoir is supplied by storm water runoff from the San Jacinto River and Salt Creek."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Water from the reservoir feeds the Canyon Lake Water Treatment Plant, which provides approximately 10% of the domestic water supply in the Lake Elsinore and city of Canyon Lake area."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Canyon Lake has an average depth of 20 feet (6.1 m)."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The reservoir covers approximately 525 acres (212 ha), has 14.9 miles (24.0 km) of shoreline, and has a storage capacity of 11586 acre\u22c5ft (14291000 m3)."
+    },
+    {
+      "cityName": "Canyon Lake",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Catch and release fishing is strictly enforced."
     },
     {
       "cityName": "Capistrano Beach",
@@ -3835,6 +3898,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is the successor to the Waldon CDP of the 2000 census."
+    },
+    {
+      "cityName": "Cool",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cool, formerly known as Cave Valley, is a small town in El Dorado County, California, about 40 miles (64 km) from Sacramento, the state capital."
     },
     {
       "cityName": "Corcoran",
@@ -17032,6 +17102,13 @@
       "fact": "Its population is 902 as of the 2020 census, down from 1010 from the 2010 census."
     },
     {
+      "cityName": "Tuolumne",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A census-designated place (CDP) officially known as Tuolumne also encompasses the town."
+    },
+    {
       "cityName": "Turlock",
       "state": "CA",
       "source": "Wikipedia",
@@ -17674,6 +17751,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city shares its borders with Clayton, California, Lafayette, California, Alamo, California, Pleasant Hill, California, and Concord, California."
+    },
+    {
+      "cityName": "Walnut Park",
+      "state": "CA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walnut Park is a census-designated place (CDP) in Los Angeles County, California, United States, adjacent to Florence-Graham, Huntington Park and South Gate."
     },
     {
       "cityName": "Wasco",

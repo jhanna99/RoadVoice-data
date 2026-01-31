@@ -2290,6 +2290,34 @@
       "fact": "The area along Highway 7, from Highway 400 to just east of Jane Street, though still often considered by many to be part of Concord, is now officially a new district, the Vaughan Metropolitan Centre, which is Vaughan's planned urban core."
     },
     {
+      "cityName": "Cornwall",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornwall is located on the Saint Lawrence River at the Canada-US border."
+    },
+    {
+      "cityName": "Cornwall",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city was a major textile manufacturing center, earning it the nickname The Factory Town."
+    },
+    {
+      "cityName": "Cornwall",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cornwall is one of the oldest communities in Ontario, founded by United Empire Loyalists in 1784."
+    },
+    {
+      "cityName": "Cornwall",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Seaway International Bridge connects Cornwall to Massena, New York."
+    },
+    {
       "cityName": "Corunna",
       "state": "ON",
       "source": "Wikipedia",
@@ -3856,6 +3884,34 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "According to a late 2019 report, the town has 33 small parks, 17 larger and \"many more green spaces, sport fields, parkettes, trails, and facilities\"."
+    },
+    {
+      "cityName": "Guelph",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Guelph was founded in 1827 by Scottish novelist John Galt as headquarters for the Canada Company."
+    },
+    {
+      "cityName": "Guelph",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The University of Guelph is renowned for its agriculture and veterinary programs."
+    },
+    {
+      "cityName": "Guelph",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Guelph is named after the British Royal Family's ancestral home, the House of Guelph."
+    },
+    {
+      "cityName": "Guelph",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city has been ranked as one of the safest cities in Canada multiple times."
     },
     {
       "cityName": "Guelph/Eramosa",
@@ -6196,6 +6252,34 @@
       "fact": "The Town of Minto was formed in 1999 through the amalgamation of the Township of Minto, the Towns of Harriston and Palmerston along with the Village of Clifford."
     },
     {
+      "cityName": "Mississauga",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mississauga is the sixth-largest city in Canada and has no municipal debt."
+    },
+    {
+      "cityName": "Mississauga",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Toronto Pearson International Airport, Canada's busiest airport, is located in Mississauga."
+    },
+    {
+      "cityName": "Mississauga",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mississauga is named after the Mississaugas, an Indigenous people of the Anishinaabe nation."
+    },
+    {
+      "cityName": "Mississauga",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is home to over 60 Fortune 500 company headquarters and regional offices."
+    },
+    {
       "cityName": "Mississippi Mills",
       "state": "ON",
       "source": "Wikipedia",
@@ -7449,11 +7533,74 @@
       "fact": "Currently there are 15 lines that are now streets and highway exits off Highway 11."
     },
     {
+      "cityName": "Oshawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oshawa has been the center of Canadian automobile manufacturing since 1907 when McLaughlin Motor Car Company opened."
+    },
+    {
+      "cityName": "Oshawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "General Motors Canada has its headquarters in Oshawa, earning it the nickname The Motor City of Canada."
+    },
+    {
+      "cityName": "Oshawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name Oshawa comes from the Ojibwe word aazhaway meaning crossing place or carrying place."
+    },
+    {
+      "cityName": "Oshawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Parkwood Estate, the former home of auto magnate Sam McLaughlin, is a National Historic Site."
+    },
+    {
       "cityName": "Otonabee\u2013South Monaghan",
       "state": "ON",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The township, located along the Trent\u2013Severn Waterway, was formed on January 1, 1998, through the amalgamation of Otonabee and South Monaghan Townships."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ottawa is the capital of Canada and home to Parliament Hill and the Supreme Court."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Rideau Canal, a UNESCO World Heritage Site, becomes the world's largest skating rink in winter."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ottawa was chosen as capital by Queen Victoria in 1857 partly because of its distance from the US border."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Canadian Tulip Festival began after the Dutch royal family gifted tulips to Ottawa for hosting them during WWII."
+    },
+    {
+      "cityName": "Ottawa",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Ottawa is officially bilingual, with both English and French used in government services."
     },
     {
       "cityName": "Owen Sound",
@@ -10107,6 +10254,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Township of Tiny is in the southern Georgian Bay region and is approximately 30 kilometres (19 mi) long or 410 square kilometres (160 sq mi)."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toronto is the largest city in Canada and the fourth-largest in North America."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The CN Tower was the world's tallest free-standing structure from 1975 until 2007."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Toronto is one of the most multicultural cities in the world, with over 200 ethnic groups."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Toronto Stock Exchange is the seventh-largest stock exchange in the world by market capitalization."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Toronto Raptors became the first NBA team outside the US to win a championship in 2019."
+    },
+    {
+      "cityName": "Toronto",
+      "state": "ON",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "PATH, Toronto's underground walkway, is the largest underground shopping complex in the world."
     },
     {
       "cityName": "Tottenham",

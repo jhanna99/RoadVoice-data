@@ -267,6 +267,34 @@
       "fact": "Mount Burke is found in Coquitlam near Minnekhada Regional Park."
     },
     {
+      "cityName": "Burnaby",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burnaby is the third-largest city in British Columbia, located between Vancouver and Coquitlam."
+    },
+    {
+      "cityName": "Burnaby",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Simon Fraser University, with its striking Brutalist architecture, sits atop Burnaby Mountain."
+    },
+    {
+      "cityName": "Burnaby",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Metropolis at Metrotown is the largest mall in British Columbia and second-largest in Canada."
+    },
+    {
+      "cityName": "Burnaby",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is named after Robert Burnaby, a British explorer and politician who never actually lived there."
+    },
+    {
       "cityName": "Burns Lake",
       "state": "BC",
       "source": "Wikipedia",
@@ -1639,6 +1667,34 @@
       "fact": "It is the hub of the Columbia Valley between Golden to the north and Cranbrook to the south."
     },
     {
+      "cityName": "Kamloops",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kamloops sits at the confluence of the North and South Thompson Rivers in the BC Interior."
+    },
+    {
+      "cityName": "Kamloops",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The name Kamloops comes from the Shuswap word meaning meeting of the waters."
+    },
+    {
+      "cityName": "Kamloops",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Kamloops has a semi-arid climate with hot summers, making it one of the warmest cities in Canada."
+    },
+    {
+      "cityName": "Kamloops",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is a major transportation hub where the Trans-Canada Highway and Yellowhead Highway meet."
+    },
+    {
       "cityName": "Kaslo",
       "state": "BC",
       "source": "Wikipedia",
@@ -2624,6 +2680,34 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "It is home to the Victoria International Airport and the Swartz Bay Ferry Terminal."
+    },
+    {
+      "cityName": "North Vancouver",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Vancouver sits at the foot of the Coast Mountains with stunning views of Vancouver's skyline."
+    },
+    {
+      "cityName": "North Vancouver",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Grouse Mountain, a popular ski resort and summer attraction, is accessible from North Vancouver."
+    },
+    {
+      "cityName": "North Vancouver",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Capilano Suspension Bridge, built in 1889, spans 450 feet across the Capilano River canyon."
+    },
+    {
+      "cityName": "North Vancouver",
+      "state": "BC",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lynn Canyon Park offers a free suspension bridge alternative and old-growth forest trails."
     },
     {
       "cityName": "Oak Bay",

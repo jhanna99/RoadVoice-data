@@ -1,0 +1,16 @@
+{
+  "facts": [
+    {"cityName": "Moncton", "state": "NB", "source": "Wikipedia", "factNumber": 1, "fact": "Moncton is the largest city in New Brunswick and the fastest-growing metropolitan area in Atlantic Canada."},
+    {"cityName": "Moncton", "state": "NB", "source": "Wikipedia", "factNumber": 2, "fact": "The Magnetic Hill attraction creates an optical illusion that makes cars appear to roll uphill."},
+    {"cityName": "Moncton", "state": "NB", "source": "Wikipedia", "factNumber": 3, "fact": "Moncton is officially bilingual, with roughly equal English and French-speaking populations."},
+    {"cityName": "Moncton", "state": "NB", "source": "Wikipedia", "factNumber": 4, "fact": "The Petitcodiac River's tidal bore, a wave caused by incoming tides, can reach several feet high."},
+    {"cityName": "Saint John", "state": "NB", "source": "Wikipedia", "factNumber": 1, "fact": "Saint John is Canada's oldest incorporated city, receiving its royal charter in 1785."},
+    {"cityName": "Saint John", "state": "NB", "source": "Wikipedia", "factNumber": 2, "fact": "The Reversing Falls rapids change direction twice daily when the Bay of Fundy tides shift."},
+    {"cityName": "Saint John", "state": "NB", "source": "Wikipedia", "factNumber": 3, "fact": "Saint John has the largest oil refinery in Canada, operated by Irving Oil."},
+    {"cityName": "Saint John", "state": "NB", "source": "Wikipedia", "factNumber": 4, "fact": "The city was largely rebuilt after the Great Fire of 1877 destroyed most of the downtown."},
+    {"cityName": "Fredericton", "state": "NB", "source": "Wikipedia", "factNumber": 1, "fact": "Fredericton is the capital of New Brunswick and home to the provincial legislature."},
+    {"cityName": "Fredericton", "state": "NB", "source": "Wikipedia", "factNumber": 2, "fact": "The University of New Brunswick, founded in 1785, is one of the oldest universities in North America."},
+    {"cityName": "Fredericton", "state": "NB", "source": "Wikipedia", "factNumber": 3, "fact": "The Beaverbrook Art Gallery houses Salvador Dalí's Santiago El Grande, one of his largest paintings."},
+    {"cityName": "Fredericton", "state": "NB", "source": "Wikipedia", "factNumber": 4, "fact": "Fredericton was named after Prince Frederick, second son of King George III."}
+  ]
+}

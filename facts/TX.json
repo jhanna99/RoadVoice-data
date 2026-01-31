@@ -659,6 +659,76 @@
       "fact": "Its population was 5006 at the 2020 census."
     },
     {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Austin is the capital city of the U.S."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 961,855 at the 2020 census, it is the 13th-most populous city in the U.S., fifth-most populous city in Texas, and second-most populous U.S."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "state capital (after Phoenix, Arizona), while the Austin metro area with an estimated 2.55 million residents is the 25th-largest metropolitan area in the nation."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Austin is the county seat and most populous city of Travis County, with portions extending into Hays and Williamson counties."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Incorporated on December 27, 1839, it has been one of the fastest-growing large cities in the United States since 2010."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Located in Central Texas within the greater Texas Hill Country, it is home to numerous lakes, rivers, and waterways, including Lady Bird Lake and Lake Travis on the Colorado River, Barton Springs, McKinney Falls, and Lake Walter E."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Evidence of human activity in the region is estimated to date back at least 11,200 years ago, with early habitation by Clovis peoples and later by American Indian groups such as the Tonkawa."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Austin and San Antonio are approximately 80 miles (129 km) apart, and both fall along the I-35 corridor."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "This combined metropolitan region of San Antonio\u2013Austin has approximately 5 million people."
+    },
+    {
+      "cityName": "Austin",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Austin is the southernmost state capital in the contiguous United States and is considered a Gamma + level global city as categorized by the Globalization and World Cities Research Network."
+    },
+    {
       "cityName": "Austwell",
       "state": "TX",
       "source": "Wikipedia",
@@ -1457,6 +1527,13 @@
       "fact": "Numerous German immigrants settled here in the mid-19th century, following the revolutions in German states in 1848."
     },
     {
+      "cityName": "Briar",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Briar is a census-designated place (CDP) in Parker, Tarrant and Wise counties in the U S state of Texas, near the west side of Eagle Mountain Lake.The population was 7035 in 2020."
+    },
+    {
       "cityName": "Bridge City",
       "state": "TX",
       "source": "Wikipedia",
@@ -1546,6 +1623,76 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is on Texas State Highway 31."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brownsville ( BROWNZ-vil) is a city in the U.S."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "state of Texas and the county seat of Cameron County, located on the western Gulf Coast in South Texas, adjacent to the border with Matamoros, Tamaulipas, Mexico."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city covers 145.2 sq mi (376.066 km2), and had a population of 186,738 at the 2020 census."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "census, it is the 136th-most populous city in the United States and 18th-most populous in Texas."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is part of the Matamoros\u2013Brownsville metropolitan area."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is known for its year-round subtropical climate, deep-water seaport, and Hispanic culture."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The city was founded in 1848 by American entrepreneur Charles Stillman after he developed a successful river-boat company nearby."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It was named for Fort Brown, itself named after Major Jacob Brown, who fought and died while serving as a U.S."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Army soldier during the Mexican\u2013American War (1846\u20131848)."
+    },
+    {
+      "cityName": "Brownsville",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "As a county seat, the city and county governments are major employers."
     },
     {
       "cityName": "Brownwood",
@@ -1868,6 +2015,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 5306 at the 2020 census."
+    },
+    {
+      "cityName": "Cameron Park",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cameron Park is a census-designated place (CDP) in Cameron County, Texas, United States."
     },
     {
       "cityName": "Camp Swift",
@@ -4880,6 +5034,76 @@
       "fact": "Its population was 8466 at the 2020 census."
     },
     {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Worth is a city in the U.S."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Tarrant County, covering nearly 350 square miles (910 km2) and extending into Denton, Johnson, Parker, and Wise counties."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Fort Worth's population was estimated to be 1,008,156 in 2024, making it the 11th-most populous city in the United States."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Fort Worth is the second-largest city in the Dallas\u2013Fort Worth metroplex (after Dallas) and the fourth-most populous in Texas."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The Dallas\u2013Fort Worth metroplex is the fourth-most populous metropolitan area in the U.S., with 8.5 million residents."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city of Fort Worth was established in 1849 as an army outpost on a bluff overlooking the Trinity River."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Fort Worth has historically been a center of the Texas Longhorn cattle trade."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It still embraces its Western heritage and traditional architecture and design."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "USS Fort Worth (LCS-3) is the first ship of the United States Navy named after the city."
+    },
+    {
+      "cityName": "Fort Worth",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "Nearby Dallas has held a population majority in the metropolitan area for as long as records have been kept, yet Fort Worth has become one of the fastest-growing cities in the United States."
+    },
+    {
       "cityName": "Franklin",
       "state": "TX",
       "source": "Wikipedia",
@@ -5151,6 +5375,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 17394 at the 2020 census."
+    },
+    {
+      "cityName": "Galena Park",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Galena Park is a city in Harris County, Texas, United States, within the Houston\u2013Sugar Land\u2013Baytown metropolitan area."
     },
     {
       "cityName": "Galveston",
@@ -6105,6 +6336,13 @@
       "fact": "Hereford is also home to the headquarters of the Deaf Smith Electric Cooperative, which serves Deaf Smith, Castro, Parmer, and Oldham Counties."
     },
     {
+      "cityName": "Hewitt",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16026 at the 2020 census, making it the second largest city in the county."
+    },
+    {
       "cityName": "Hico",
       "state": "TX",
       "source": "Wikipedia",
@@ -6609,6 +6847,13 @@
       "fact": "As of the 2020 Census, the city had a population of 8154."
     },
     {
+      "cityName": "Iowa Park",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Iowa Park is a city in Wichita County, Texas, United States."
+    },
+    {
       "cityName": "Iraan",
       "state": "TX",
       "source": "Wikipedia",
@@ -6649,6 +6894,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city population was 1562."
+    },
+    {
+      "cityName": "Jacinto City",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jacinto City is part of the Houston\u2013Sugar Land\u2013Baytown metropolitan area and is bordered by the cities of Houston and Galena Park."
     },
     {
       "cityName": "Jacksboro",
@@ -8224,6 +8476,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 258 at the 2020 census."
+    },
+    {
+      "cityName": "Lumberton",
+      "state": "TX",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lumberton is the home of Village Creek State Park."
     },
     {
       "cityName": "Mabank",

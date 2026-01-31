@@ -400,6 +400,76 @@
       "fact": "Kim Basinger was born in Athens."
     },
     {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is a consolidated city-county in the U.S."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Downtown Athens lies about 70 miles (110 km) northeast of downtown Atlanta."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The University of Georgia, the state's flagship public university and an R1 research institution, is in Athens and contributed to its initial growth."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "In 1991, after a vote the preceding year, the original City of Athens abandoned its charter to form a unified government with Clarke County, referred to jointly as Athens\u2013Clarke County, where it is the county seat."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "As of 2021, the Athens-Clarke County's official website's population of the consolidated city-county (all of Clarke County except Winterville and a portion of Bogart) was 128,711."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Athens is the sixth-most populous city in Georgia, and the principal city of the Athens metropolitan area, which had a 2020 population of 215,415, according to the U.S."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Metropolitan Athens is a component of the larger Atlanta\u2013Athens\u2013Clarke County\u2013Sandy Springs Combined Statistical Area."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "The city is a college town with a vibrant music scene centered in downtown Athens, next to the University of Georgia's North Campus."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Major music acts associated with Athens include numerous alternative rock bands such as R.E.M., the B-52's, Widespread Panic, Drive-By Truckers, of Montreal, Neutral Milk Hotel, and Harvey Milk."
+    },
+    {
+      "cityName": "Athens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 10,
+      "fact": "The city is also known as a recording site for such groups as the Atlanta-based Indigo Girls."
+    },
+    {
       "cityName": "Atlanta",
       "state": "GA",
       "source": "Wikidata",
@@ -790,6 +860,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city had a population of 127."
+    },
+    {
+      "cityName": "Belvedere Park",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belvedere Park is an unincorporated community and census-designated place (CDP) in DeKalb County, Georgia, United States."
     },
     {
       "cityName": "Berkeley Lake",
@@ -1441,6 +1518,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "In 2016, Centerville was ranked 7th Happiest City in Georgia by zippia.com, a website devoted to career-related rankings."
+    },
+    {
+      "cityName": "Chamblee",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chamblee ( SHAM-blee) is a city in northern DeKalb County, Georgia, United States, northeast of Atlanta."
+    },
+    {
+      "cityName": "Chamblee",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 30,164 as of the 2020 census."
     },
     {
       "cityName": "Chatsworth",
@@ -3172,6 +3263,13 @@
       "fact": "Its population was 3648 as of the 2020 census."
     },
     {
+      "cityName": "Gresham Park",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gresham Park is an unincorporated community and census-designated place (CDP) in DeKalb County, Georgia, United States."
+    },
+    {
       "cityName": "Griffin",
       "state": "GA",
       "source": "Wikipedia",
@@ -3403,6 +3501,34 @@
       "fact": "Its name is derived from the Cherokee\u2014or perhaps Creek\u2014word Ayuhwasi, which means meadow, (A variant spelling, \"Hiwassee,\" is used for the local river and some other Appalachian place names.) Hiawassee is also known in the novel \"Restart\" by Gordon Korman."
     },
     {
+      "cityName": "Hinesville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hinesville is a city in the U.S."
+    },
+    {
+      "cityName": "Hinesville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "state of Georgia and is located on the Atlantic coastal plain."
+    },
+    {
+      "cityName": "Hinesville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The county seat of Liberty County, it had a population of 34,891 at the 2020 U.S."
+    },
+    {
+      "cityName": "Hinesville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the principal city of the Hinesville metropolitan area, which comprises all of Liberty County, including the Fort Stewart army installation, plus neighboring Long County."
+    },
+    {
       "cityName": "Hiram",
       "state": "GA",
       "source": "Wikipedia",
@@ -3499,6 +3625,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of 2024 the estimated population was 16459."
+    },
+    {
+      "cityName": "Jeffersonville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jeffersonville is the largest city in and the county seat of Twiggs County, Georgia, United States."
     },
     {
       "cityName": "Jekyll Island",
@@ -3744,6 +3877,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "LaFayette is part of the Chattanooga, TN-GA Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lake Park",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Park is a city in Lowndes County, Georgia, United States."
     },
     {
       "cityName": "Lakeland",
@@ -4285,6 +4425,13 @@
       "fact": "It lies approximately 12 km south of Junction City."
     },
     {
+      "cityName": "McCaysville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the second largest city in Fannin County after Blue Ridge."
+    },
+    {
       "cityName": "McDonough",
       "state": "GA",
       "source": "Wikipedia",
@@ -4656,6 +4803,13 @@
       "fact": "The town straddles the Eastern Continental Divide in a deep gap in the Blue Ridge Mountain front."
     },
     {
+      "cityName": "Mountain Park",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mountain Park is the name of two places in the U S state of Georgia: Mountain Park, Fulton County, Georgia, an incorporated city Mountain Park, Gwinnett County, Georgia, an unincorporated community"
+    },
+    {
       "cityName": "Murrayville",
       "state": "GA",
       "source": "Wikipedia",
@@ -4745,6 +4899,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2010 census, the population was 9116, while in 2020, the population increased to 17209."
+    },
+    {
+      "cityName": "Norman Park",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norman Park is a city in Colquitt County, Georgia, United States."
     },
     {
       "cityName": "North Druid Hills",
@@ -5797,6 +5958,13 @@
       "fact": "As of 2020, South Fulton has the highest African American percentage of any U S city over 100000, surpassing highly African American cities such as Detroit and Jackson."
     },
     {
+      "cityName": "Sparks",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sparks is a town in Cook County, Georgia, United States."
+    },
+    {
       "cityName": "Sparta",
       "state": "GA",
       "source": "Wikipedia",
@@ -5914,6 +6082,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city had a population of 7425."
+    },
+    {
+      "cityName": "Sylvester",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the county seat and business center of Worth County and is claimed to be the Peanut Capital of the World due to its peanut production."
+    },
+    {
+      "cityName": "Talbotton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Talbotton is the county seat and the largest city in Talbot County, Georgia, United States."
     },
     {
       "cityName": "Talmo",

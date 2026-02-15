@@ -1,6 +1,20 @@
 {
   "facts": [
     {
+      "cityName": "Acworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Acworth is a town in Sullivan County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Acworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the town had a total population of 853."
+    },
+    {
       "cityName": "Albany",
       "state": "NH",
       "source": "Wikipedia",
@@ -120,6 +134,41 @@
       "fact": "Located near the geographical center of the state, Ashland is home to Scribner-Fellows State Forest."
     },
     {
+      "cityName": "Atkinson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Atkinson is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Atkinson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,087 at the 2020 census."
+    },
+    {
+      "cityName": "Atkinson",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located 34 miles north of Boston, and part of the Greater Boston region."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Auburn is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,946 at the 2020 census, up from 4,953 at the 2010 census."
+    },
+    {
       "cityName": "Barnstead",
       "state": "NH",
       "source": "Wikipedia",
@@ -197,6 +246,34 @@
       "fact": "Bedford is a suburb of Manchester, New Hampshire's largest city."
     },
     {
+      "cityName": "Belmont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belmont is a town in Belknap County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,314 at the 2020 census."
+    },
+    {
+      "cityName": "Bennington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bennington is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Bennington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,501 at the 2020 census."
+    },
+    {
       "cityName": "Benton",
       "state": "NH",
       "source": "Wikipedia",
@@ -229,7 +306,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The pronunciation of Berlin was changed to BUR-lin, instead of Ber-LIN (as in Berlin, Germany), during World War I as a patriotic stand against Germany."
+      "fact": "The pronunciation of Berlin was changed to BUR-lin, instead of Ber-LIN (as in Berlin, Germany), during World War 1 as a patriotic stand against Germany."
     },
     {
       "cityName": "Berlin",
@@ -281,11 +358,67 @@
       "fact": "The town also includes the villages of Maplewood and Pierce Bridge."
     },
     {
+      "cityName": "Boscawen",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boscawen is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Boscawen",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,998 at the 2020 census."
+    },
+    {
+      "cityName": "Bow",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bow is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Bow",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,229 at the 2020 census, up from 7,519 at the 2010 census, an increase of 9.4%."
+    },
+    {
       "cityName": "Bradford",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town also includes the village of Bradford Center."
+    },
+    {
+      "cityName": "Brentwood",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brentwood is a town and county seat of Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Brentwood",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, its population was 4,490."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgewater is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,160 at the 2020 census."
     },
     {
       "cityName": "Bristol",
@@ -300,6 +433,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Surrounded by hills and lakes, Bristol includes the lower two-thirds of Newfound Lake, a resort area."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookfield is a town in Carroll County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Brookfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 755 at the 2020 census."
     },
     {
       "cityName": "Brookline",
@@ -414,6 +561,20 @@
       "fact": "It includes the villages of Spofford and West Chesterfield."
     },
     {
+      "cityName": "Chichester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chichester is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Chichester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,665 at the 2020 census."
+    },
+    {
       "cityName": "Claremont",
       "state": "NH",
       "source": "Wikipedia",
@@ -432,7 +593,28 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Claremont is a core city of the Lebanon\u2013Claremont micropolitan area, a bi-state, four-county region in the upper Connecticut River valley."
+      "fact": "Claremont is a core city of the Lebanon–Claremont micropolitan area, a bi-state, four-county region in the upper Connecticut River valley."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarksville is a town in northern Coös County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 294 at the 2020 census."
+    },
+    {
+      "cityName": "Clarksville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH-VT Micropolitan Statistical Area."
     },
     {
       "cityName": "Colebrook",
@@ -449,6 +631,27 @@
       "fact": "The town also includes the villages of Kidderville, Upper Kidderville, and Factory Village."
     },
     {
+      "cityName": "Columbia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia is a town in Coös County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 659 at the 2020 census, down from 757 at the 2010 census."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH-VT micropolitan statistical area."
+    },
+    {
       "cityName": "Concord",
       "state": "NH",
       "source": "Wikipedia",
@@ -460,7 +663,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Concord is home to the University of New Hampshire School of Law, New Hampshire's only law school; St. Paul's School, a private preparatory school; NHTI, a two-year community college; the New Hampshire Police Academy; and the New Hampshire Fire Academy."
+      "fact": "Concord is home to the University of New Hampshire School of Law, New Hampshire's only law school; Saint Paul's School, a private preparatory school; NHTI, a two-year community college; the New Hampshire Police Academy; and the New Hampshire Fire Academy."
     },
     {
       "cityName": "Concord",
@@ -589,6 +792,55 @@
       "fact": "Each August, it is home to the Cornish Fair."
     },
     {
+      "cityName": "Croydon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Croydon is a town in Sullivan County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Croydon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 801 at the 2020 census."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dalton is a town in Coös County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 933 at the 2020 census."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH-VT Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danbury is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Danbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,250 at the 2020 census."
+    },
+    {
       "cityName": "Danville",
       "state": "NH",
       "source": "Wikipedia",
@@ -601,6 +853,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Deerfield is the location of the annual Deerfield Fair."
+    },
+    {
+      "cityName": "Deering",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Deering is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Deering",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,904 at the 2020 census."
     },
     {
       "cityName": "Derry",
@@ -622,6 +888,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town also includes the village of East Derry."
+    },
+    {
+      "cityName": "Dorchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dorchester is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Dorchester",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 339 at the 2020 census."
     },
     {
       "cityName": "Dover",
@@ -659,11 +939,53 @@
       "fact": "In the western part of Dummer lies the village of Paris."
     },
     {
+      "cityName": "Dunbarton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dunbarton is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Dunbarton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,005 at the 2020 census, up from 2,758 at the 2010 census."
+    },
+    {
       "cityName": "Durham",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The University of New Hampshire (UNH) is located in Durham."
+    },
+    {
+      "cityName": "East Kingston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Kingston is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "East Kingston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,441 at the 2020 census."
+    },
+    {
+      "cityName": "Easton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Easton is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Easton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 292 at the 2020 census."
     },
     {
       "cityName": "Eaton",
@@ -687,11 +1009,53 @@
       "fact": "Effingham includes the villages of Effingham Falls, Effingham (Lord's Hill), Center Effingham (Drake's Corner), and South Effingham."
     },
     {
+      "cityName": "Ellsworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellsworth is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Ellsworth",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 93 at the 2020 census."
+    },
+    {
       "cityName": "Enfield",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town includes the villages of Enfield, Enfield Center, Upper Shaker Village, Lower Shaker Village, Lockehaven, and Montcalm."
+    },
+    {
+      "cityName": "Epping",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Epping is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Epping",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,125 at the 2020 census, up from 6,411 at the 2010 census."
+    },
+    {
+      "cityName": "Epsom",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Epsom is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Epsom",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,834 at the 2020 census."
     },
     {
       "cityName": "Errol",
@@ -862,6 +1226,34 @@
       "fact": "Tourism is a principal business."
     },
     {
+      "cityName": "Goshen",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goshen is a town in Sullivan County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 796 at the 2020 census."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grafton is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,385 at the 2020 census."
+    },
+    {
       "cityName": "Grantham",
       "state": "NH",
       "source": "Wikipedia",
@@ -883,6 +1275,48 @@
       "fact": "It is drained by the Winnicut River and bounded on the northwest by Great Bay."
     },
     {
+      "cityName": "Greenville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenville is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,974 at the 2020 census, down from 2,105 at the 2010 census."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located at the junctions of New Hampshire routes 31, 45, and 123."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
+      "cityName": "Groton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Groton is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Groton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 569 at the 2020 census."
+    },
+    {
       "cityName": "Hampstead",
       "state": "NH",
       "source": "Wikipedia",
@@ -895,6 +1329,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "On the Atlantic coast, Hampton is home to Hampton Beach, a summer tourist destination, and part of the census-designated place of Seabrook Beach."
+    },
+    {
+      "cityName": "Hampton Falls",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hampton Falls is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Hampton Falls",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,403 at the 2020 census."
     },
     {
       "cityName": "Hancock",
@@ -1128,6 +1576,20 @@
       "fact": "Jackson is a resort area in the White Mountains."
     },
     {
+      "cityName": "Jaffrey",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jaffrey is a town in Cheshire County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Jaffrey",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,320 at the 2020 census."
+    },
+    {
       "cityName": "Jefferson",
       "state": "NH",
       "source": "Wikipedia",
@@ -1154,6 +1616,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It hosted the state's annual pumpkin festival from 1991 to 2014, several times setting a world record for most jack-o'-lanterns on display."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kensington is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,095 at the 2020 census."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kingston is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population at the 2020 census was 6,202."
     },
     {
       "cityName": "Laconia",
@@ -1212,11 +1702,25 @@
       "fact": "As of the 2020 census, the town population was 446."
     },
     {
+      "cityName": "Langdon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Langdon is a town in Sullivan County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Langdon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 651 at the 2020 census."
+    },
+    {
       "cityName": "Lebanon",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is the home to Dartmouth\u2013Hitchcock Medical Center and Dartmouth College's Geisel School of Medicine, together comprising the largest medical facility between Boston, Massachusetts, and Burlington, Vermont."
+      "fact": "It is the home to Dartmouth–Hitchcock Medical Center and Dartmouth College's Geisel School of Medicine, together comprising the largest medical facility between Boston, Massachusetts, and Burlington, Vermont."
     },
     {
       "cityName": "Lebanon",
@@ -1282,6 +1786,20 @@
       "fact": "Lisbon hosts an annual lilac festival on Memorial Day weekend."
     },
     {
+      "cityName": "Litchfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Litchfield is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Litchfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,478 at the 2020 census."
+    },
+    {
       "cityName": "Littleton",
       "state": "NH",
       "source": "Wikipedia",
@@ -1300,7 +1818,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Londonderry is known for its apple orchards and is home to the headquarters of Stonyfield Farm and part of Manchester\u2013Boston Regional Airport."
+      "fact": "Londonderry is known for its apple orchards and is home to the headquarters of Stonyfield Farm and part of Manchester–Boston Regional Airport."
     },
     {
       "cityName": "Londonderry",
@@ -1315,6 +1833,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Loudon is the home of New Hampshire Motor Speedway."
+    },
+    {
+      "cityName": "Lyman",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyman is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Lyman",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 585 at the 2020 census."
     },
     {
       "cityName": "Lyme",
@@ -1338,6 +1870,34 @@
       "fact": "The Appalachian Trail passes through the town's heavily wooded eastern end."
     },
     {
+      "cityName": "Lyndeboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyndeboro is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Lyndeboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,702 at the 2020 census."
+    },
+    {
+      "cityName": "Madbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madbury is a town in Strafford County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Madbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,918 at the 2020 census."
+    },
+    {
       "cityName": "Madison",
       "state": "NH",
       "source": "Wikipedia",
@@ -1349,7 +1909,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Manchester is the most populous city in the U.S."
+      "fact": "Manchester is the most populous city in the US state of New Hampshire."
     },
     {
       "cityName": "Manchester",
@@ -1366,18 +1926,25 @@
       "fact": "Manchester is the tenth-most populous city in New England."
     },
     {
-      "cityName": "Manchester",
+      "cityName": "Marlboro",
       "state": "NH",
       "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Along with the city of Nashua, it is one of two seats of New Hampshire's most populous county, Hillsborough County."
+      "factNumber": 1,
+      "fact": "Marlboro is a town in Cheshire County, New Hampshire, United States."
     },
     {
-      "cityName": "Manchester",
+      "cityName": "Marlboro",
       "state": "NH",
       "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "The Manchester\u2013Nashua metropolitan area has approximately 423,000 residents and lies near the northern end of the Northeast megalopolis."
+      "factNumber": 2,
+      "fact": "The population was 2,096 at the 2020 census."
+    },
+    {
+      "cityName": "Marlboro",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is home to the Kensan-Devan Wildlife Sanctuary at Meetinghouse Pond."
     },
     {
       "cityName": "Marlow",
@@ -1422,6 +1989,41 @@
       "fact": "There are four villages in the town: Merrimack Village (formerly known as Souhegan Village), Thorntons Ferry, Reeds Ferry, and South Merrimack."
     },
     {
+      "cityName": "Middleton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middleton is a town in Strafford County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,823 at the 2020 census."
+    },
+    {
+      "cityName": "Milan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milan is a town in Coös County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Milan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,358 at the 2020 census."
+    },
+    {
+      "cityName": "Milan",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH-VT Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Milford",
       "state": "NH",
       "source": "Wikipedia",
@@ -1441,6 +2043,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was originally chartered as part of Lyman."
+    },
+    {
+      "cityName": "Mont Vernon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mont Vernon is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Mont Vernon",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,584 at the 2020 census, up from 2,409 at the 2010 census."
     },
     {
       "cityName": "Moultonboro",
@@ -1476,6 +2092,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Nelson includes the village of Munsonville."
+    },
+    {
+      "cityName": "New Boston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Boston is a town in Hillsborough County, New Hampshire, United States."
+    },
+    {
+      "cityName": "New Boston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,108 at the 2020 census, up from 5,321 at the 2010 census."
+    },
+    {
+      "cityName": "New Boston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "New Boston is home to the annual Hillsborough County Agricultural Fair and the Molly Stark Cannon."
+    },
+    {
+      "cityName": "New Boston",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The 1743 cannon, which appears on the town seal, was given by General John Stark to the New Boston Artillery Company after the Battle of Bennington."
     },
     {
       "cityName": "New Castle",
@@ -1538,7 +2182,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is the home of Colby\u2013Sawyer College, site of the Gordon Research Conferences since 1947."
+      "fact": "The town is the home of Colby–Sawyer College, site of the Gordon Research Conferences since 1947."
     },
     {
       "cityName": "Newbury",
@@ -1625,11 +2269,39 @@
       "fact": "The town also includes the villages of Kelleyville, Guild, and North Newport."
     },
     {
+      "cityName": "Newton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newton is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Newton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,820 at the 2020 census."
+    },
+    {
       "cityName": "North Hampton",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "While the majority of the town is inland, North Hampton includes a part of New Hampshire's limited Atlantic seacoast."
+    },
+    {
+      "cityName": "Northfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Northfield is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Northfield",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,872 at the 2020 census."
     },
     {
       "cityName": "Northumberland",
@@ -1639,11 +2311,39 @@
       "fact": "As of the 2020 census, the town population was 2126, of whom 1068 lived in the village of Groveton."
     },
     {
+      "cityName": "Northwood",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Northwood is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Northwood",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,641 at the 2020 census."
+    },
+    {
       "cityName": "Nottingham",
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is the location of Pawtuckaway State Park."
+    },
+    {
+      "cityName": "Orange",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orange is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Orange",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 277 at the 2020 census, down from 331 at the 2010 census."
     },
     {
       "cityName": "Orford",
@@ -1737,6 +2437,20 @@
       "fact": "Plainfield also includes the village of Meriden, home to Kimball Union Academy, a private preparatory school."
     },
     {
+      "cityName": "Plaistow",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plaistow is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Plaistow",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,830 at the 2020 census."
+    },
+    {
       "cityName": "Plymouth",
       "state": "NH",
       "source": "Wikipedia",
@@ -1807,6 +2521,20 @@
       "fact": "Part of Pawtuckaway State Park is in the north."
     },
     {
+      "cityName": "Richmond",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond is a town in Cheshire County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,197 at the 2020 census."
+    },
+    {
       "cityName": "Rindge",
       "state": "NH",
       "source": "Wikipedia",
@@ -1840,6 +2568,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The main village in town was once known as \"Salmon Falls Village\"."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roxbury is a town in Cheshire County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 220 at the 2020 census."
+    },
+    {
+      "cityName": "Rumney",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rumney is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Rumney",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,498 at the 2020 census."
+    },
+    {
+      "cityName": "Rumney",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located at the southern edge of the White Mountain National Forest."
     },
     {
       "cityName": "Rye",
@@ -1881,7 +2644,21 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The Sununu political family hails from Salem, including former New Hampshire governor and White House Chief of Staff John H. Sununu, and his sons John E. Sununu, a former U S senator, and Chris Sununu, former New Hampshire governor."
+      "fact": "The Sununu political family hails from Salem, including former New Hampshire governor and White House Chief of Staff John H Sununu, and his sons John E Sununu, a former U S senator, and Chris Sununu, former New Hampshire governor."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salisbury is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,422 at the 2020 census."
     },
     {
       "cityName": "Sanbornton",
@@ -1889,6 +2666,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It includes the villages of North Sanbornton and Gaza."
+    },
+    {
+      "cityName": "Sandown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sandown is a town in Rockingham County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Sandown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,548 at the 2020 census, up from 5,986 at the 2010 census."
     },
     {
       "cityName": "Sandwich",
@@ -2010,6 +2801,27 @@
       "fact": "New Hampshire Route 110 runs through Stark, east from U S Highway 3 in Groveton and northwest from Route 16 in Berlin."
     },
     {
+      "cityName": "Stewartstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stewartstown is a town in Coös County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Stewartstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 813 at the 2020 census, down from 1,004 at the 2010 census."
+    },
+    {
+      "cityName": "Stewartstown",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It includes the village of West Stewartstown and is part of the Berlin, NH-VT Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Stoddard",
       "state": "NH",
       "source": "Wikipedia",
@@ -2042,7 +2854,7 @@
       "state": "NH",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "U S Route 3 passes through the center of town, as does the St. Lawrence and Atlantic Railroad, formerly a part of the Grand Trunk Railway."
+      "fact": "U S Route 3 passes through the center of town, as does the Saint Lawrence and Atlantic Railroad, formerly a part of the Grand Trunk Railway."
     },
     {
       "cityName": "Stratford",
@@ -2057,6 +2869,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The Janice Peaslee Bridge connects Stratford to Maidstone, Vermont."
+    },
+    {
+      "cityName": "Stratham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town had a population of 7,669 at the 2020 census."
+    },
+    {
+      "cityName": "Stratham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bounded on the west by the Squamscott River."
+    },
+    {
+      "cityName": "Stratham",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is the home of the only U.S Lindt & Sprüngli factory and the headquarters of the Timberland Corporation."
     },
     {
       "cityName": "Sugar Hill",
@@ -2085,6 +2918,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is home to part of Lake Sunapee and includes the village of Georges Mills."
+    },
+    {
+      "cityName": "Surry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Surry is a town in Cheshire County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Surry",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 820 at the 2020 census, up from 732 at the 2010 census."
     },
     {
       "cityName": "Sutton",
@@ -2141,6 +2988,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Its population was 1382 at the 2020 census."
+    },
+    {
+      "cityName": "Thornton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Thornton is a town in Grafton County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Thornton",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,708 at the 2020 census, up from 2,490 at the 2010 census."
     },
     {
       "cityName": "Tilton",
@@ -2260,6 +3121,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is close to two important New Hampshire cities, Manchester and Concord."
+    },
+    {
+      "cityName": "Webster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Webster is a town in Merrimack County, New Hampshire, United States."
+    },
+    {
+      "cityName": "Webster",
+      "state": "NH",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,913 at the 2020 census."
     },
     {
       "cityName": "Wentworth",

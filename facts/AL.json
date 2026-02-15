@@ -1,6 +1,20 @@
 {
   "facts": [
     {
+      "cityName": "Abbeville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Abbeville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 2,358."
+    },
+    {
       "cityName": "Adamsville",
       "state": "AL",
       "source": "Wikipedia",
@@ -27,6 +41,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "According to the 2010 census, this city had a population of 4522, down from its peak population of 4965 in 2000."
+    },
+    {
+      "cityName": "Addison",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, it had a population of 659, down from 758 in 2010."
     },
     {
       "cityName": "Adger",
@@ -68,7 +89,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "On January 18, 1906, landowners Charles E. Waller, Charles Lichtman and M H Murphy sold at public auction a great number of individual business and residential lots which would be developed into the town of Akron, Alabama."
+      "fact": "On January 18, 1906, landowners Charles E Waller, Charles Lichtman and M H Murphy sold at public auction a great number of individual business and residential lots which would be developed into the town of Akron, Alabama."
     },
     {
       "cityName": "Akron",
@@ -76,6 +97,34 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The town was incorporated in March 1918."
+    },
+    {
+      "cityName": "Alabaster",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 33,284."
+    },
+    {
+      "cityName": "Alabaster",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Alabaster is the 16th largest city in Alabama by number of residents."
+    },
+    {
+      "cityName": "Albertville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 22,386 at the 2020 census."
+    },
+    {
+      "cityName": "Albertville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the largest city in Marshall County."
     },
     {
       "cityName": "Alexander City",
@@ -117,14 +166,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is included in the Anniston\u2013Oxford, Alabama Metropolitan Statistical Area."
+      "fact": "It is included in the Anniston–Oxford, Alabama Metropolitan Statistical Area."
     },
     {
       "cityName": "Aliceville",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Founded in the first decade of the 20th century and incorporated in 1907, the city has become notable for its World War II-era prisoner-of-war camp, Camp Aliceville."
+      "fact": "Founded in the first decade of the 20th century and incorporated in 1907, the city has become notable for its World War 2-era prisoner-of-war camp, Camp Aliceville."
     },
     {
       "cityName": "Aliceville",
@@ -132,6 +181,41 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Since 1930, it has been the largest municipality in Pickens County."
+    },
+    {
+      "cityName": "Allgood",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Allgood, formerly known as Chepultepec, is a town in Blount County, Alabama, United States."
+    },
+    {
+      "cityName": "Allgood",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 548."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Gadsden Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Altoona",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 948."
+    },
+    {
+      "cityName": "Andalusia",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 8,805."
     },
     {
       "cityName": "Anderson",
@@ -145,7 +229,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Named \"The Model City\" by Atlanta newspaperman Henry W. Grady for its careful planning in the late 19th century, the city is situated on the slope of Blue Mountain."
+      "fact": "Named \"The Model City\" by Atlanta newspaperman Henry W Grady for its careful planning in the late 19th century, the city is situated on the slope of Blue Mountain."
     },
     {
       "cityName": "Anniston",
@@ -160,6 +244,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "According to 2019 Census estimates, the city had a population of 21287."
+    },
+    {
+      "cityName": "Arab",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Alabama, located 10 miles (16 km) from Guntersville Lake and Guntersville Dam, and is included in the Huntsville-Decatur Combined Statistical Area."
+    },
+    {
+      "cityName": "Arab",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,461 at the 2020 census."
+    },
+    {
+      "cityName": "Ardmore",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,321 at the 2020 census, It borders its sister city Ardmore, Tennessee."
     },
     {
       "cityName": "Argo",
@@ -202,6 +307,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "For most of its history, it was a center for naval stores production, pulpwood harvesting, and cotton agriculture."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,037 at the 2010 census."
     },
     {
       "cityName": "Ashville",
@@ -281,6 +393,20 @@
       "fact": "Loveliest village of the plain...\""
     },
     {
+      "cityName": "Autaugaville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 795."
+    },
+    {
+      "cityName": "Autaugaville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Montgomery Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Avon",
       "state": "AL",
       "source": "Wikipedia",
@@ -307,6 +433,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town's mayor is Benny Guthrie."
+    },
+    {
+      "cityName": "Bakerhill",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bakerhill or Baker Hill is a town in Barbour County, Alabama, United States, near Eufaula."
+    },
+    {
+      "cityName": "Bakerhill",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Bakerhill had a population of 211."
+    },
+    {
+      "cityName": "Bakerhill",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although it existed as an unincorporated village since before 1860, the town was officially incorporated in 1997."
     },
     {
       "cityName": "Banks",
@@ -358,6 +505,13 @@
       "fact": "It incorporated in 1901."
     },
     {
+      "cityName": "Beaverton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Beaverton had a population of 187."
+    },
+    {
       "cityName": "Belk",
       "state": "AL",
       "source": "Wikipedia",
@@ -386,11 +540,18 @@
       "fact": "The Berlin Community Center is located on U S Route 278, just west of the crossroads."
     },
     {
+      "cityName": "Berry",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Berry had a population of 1,216."
+    },
+    {
       "cityName": "Bessemer",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is within the Birmingham\u2013Hoover, AL Metropolitan statistical area, of which Jefferson County is the center."
+      "fact": "It is within the Birmingham–Hoover, AL Metropolitan statistical area, of which Jefferson County is the center."
     },
     {
       "cityName": "Bessemer",
@@ -398,6 +559,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It developed rapidly as an industrial city in the late 19th and early 20th centuries."
+    },
+    {
+      "cityName": "Billingsley",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 125."
+    },
+    {
+      "cityName": "Billingsley",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Montgomery Metropolitan Statistical Area."
     },
     {
       "cityName": "Birmingham",
@@ -418,35 +593,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for Gov."
-    },
-    {
-      "cityName": "Blountsville",
-      "state": "AL",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "It lies in the northeastern section of the state, generally known as the mineral region."
-    },
-    {
-      "cityName": "Blountsville",
-      "state": "AL",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "As of the 2020 census it had a population of 1826."
-    },
-    {
-      "cityName": "Blountsville",
-      "state": "AL",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Blount County was created by the Alabama territorial legislature on February 6, 1818, from land ceded to the federal government by the Creek Nation on August 9, 1814."
-    },
-    {
-      "cityName": "Blountsville",
-      "state": "AL",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Willie G. Blount of Tennessee, who provided assistance to settlers in Alabama during the Creek War of 1813\u201314."
+      "fact": "As of the 2020 census it had a population of 1,826."
     },
     {
       "cityName": "Blue Springs",
@@ -505,6 +652,13 @@
       "fact": "Brantley was incorporated in 1891 as a city."
     },
     {
+      "cityName": "Brent",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 2,972."
+    },
+    {
       "cityName": "Brewton",
       "state": "AL",
       "source": "Wikipedia",
@@ -561,6 +715,13 @@
       "fact": "It is one of four cities in Jefferson County named after cities in Great Britain."
     },
     {
+      "cityName": "Brilliant",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 845."
+    },
+    {
       "cityName": "Brookside",
       "state": "AL",
       "source": "Wikipedia",
@@ -610,6 +771,13 @@
       "fact": "The city was once a major producer of peanut butter."
     },
     {
+      "cityName": "Butler",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Butler had a population of 1,871."
+    },
+    {
       "cityName": "Cahaba Heights",
       "state": "AL",
       "source": "Wikipedia",
@@ -636,6 +804,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is within the Birmingham, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Camden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,927 at the 2020 census, down from 2,020 in 2010."
     },
     {
       "cityName": "Camp Hill",
@@ -673,6 +848,20 @@
       "fact": "It is one of four Jefferson County cities named after cities in Great Britain, the others being Birmingham, Leeds and Brighton."
     },
     {
+      "cityName": "Carolina",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Carolina had a population of 286."
+    },
+    {
+      "cityName": "Carolina",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located about 95 miles (153 km) south of Montgomery and about 80 miles (130 km) west of Dothan."
+    },
+    {
       "cityName": "Carrollton",
       "state": "AL",
       "source": "Wikipedia",
@@ -691,7 +880,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The first courthouse in Carrollton was burned on April 5, 1865, by troops of Union General John T. Croxton."
+      "fact": "The first courthouse in Carrollton was burned on April 5, 1865, by troops of Union General John T Croxton."
     },
     {
       "cityName": "Carrollton",
@@ -713,6 +902,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Cedar Bluff is located on the north shore of Weiss Lake, noted for its crappie fishing."
+    },
+    {
+      "cityName": "Center Point",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Birmingham metropolitan area."
+    },
+    {
+      "cityName": "Center Point",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 16,406."
+    },
+    {
+      "cityName": "Center Point",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "However, after its incorporation in 2002, the city's boundaries are much smaller than those of the CDP."
+    },
+    {
+      "cityName": "Centre",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 3,587."
+    },
+    {
+      "cityName": "Centre",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Cherokee County."
+    },
+    {
+      "cityName": "Centreville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 2,800."
     },
     {
       "cityName": "Chatom",
@@ -750,6 +981,27 @@
       "fact": "As of the 2010 census, the population of the town was 1048."
     },
     {
+      "cityName": "Cherokee Ridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated in 2021 following a vote to incorporate passed with 140 votes for and 17 votes against incorporation."
+    },
+    {
+      "cityName": "Cherokee Ridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Route 231 to the west about halfway between Huntsville and Arab."
+    },
+    {
+      "cityName": "Cherokee Ridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cherokee Ridge was first settled by Sid McDonald in 1992 and has a golf course and country club."
+    },
+    {
       "cityName": "Chickasaw",
       "state": "AL",
       "source": "Wikipedia",
@@ -761,7 +1013,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Alabama Army Ammunition Plant, important during World War II, was located 4 miles (6 km) north of Childersburg."
+      "fact": "The Alabama Army Ammunition Plant, important during World War 2, was located 4 miles (6 km) north of Childersburg."
     },
     {
       "cityName": "Childersburg",
@@ -813,11 +1065,46 @@
       "fact": "Clanton is near the site of the geographic center of the U S state of Alabama."
     },
     {
+      "cityName": "Clay",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Birmingham–Hoover–Cullman Combined Statistical Area in the north-central part of the state."
+    },
+    {
+      "cityName": "Clay",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Local government is run by a mayor and city council."
+    },
+    {
+      "cityName": "Clay",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Clay had a population of 10,291."
+    },
+    {
       "cityName": "Clayhatchee",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was incorporated in April 1967."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Clayton had a population of 2,265."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,245."
     },
     {
       "cityName": "Clinton",
@@ -853,6 +1140,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was incorporated in 1900, and it is considered to be a part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Coffeeville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 263."
     },
     {
       "cityName": "Coker",
@@ -911,6 +1205,41 @@
       "fact": "It incorporated in 1981."
     },
     {
+      "cityName": "Columbia",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Columbia had a population of 690."
+    },
+    {
+      "cityName": "Columbiana",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 4,462."
+    },
+    {
+      "cityName": "Coosada",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,217."
+    },
+    {
+      "cityName": "Coosada",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Montgomery Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Cordova",
       "state": "AL",
       "source": "Wikipedia",
@@ -953,6 +1282,20 @@
       "fact": "One person was killed and five others were injured."
     },
     {
+      "cityName": "County Line",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 311."
+    },
+    {
+      "cityName": "Courtland",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Courtland had a population of 583."
+    },
+    {
       "cityName": "Cowarts",
       "state": "AL",
       "source": "Wikipedia",
@@ -964,14 +1307,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The area is named after the sandhill crane that fished the streams and roosted on a hill located just north of Mt."
+      "fact": "The community of Crane Hill traces its history back to 1806, when the first settlers recorded their land titles."
     },
     {
       "cityName": "Crane Hill",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community of Crane Hill traces its history back to 1806, when the first settlers recorded their land titles."
+      "fact": "The area is named after the sandhill crane that fished the streams and roosted on a hill located just north of Mount Zion Road."
     },
     {
       "cityName": "Creola",
@@ -1021,6 +1364,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Crossville is located atop Sand Mountain, a southern extension of the Cumberland Plateau."
+    },
+    {
+      "cityName": "Cuba",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 306, down from 346 in 2010."
     },
     {
       "cityName": "Cullman",
@@ -1086,6 +1436,13 @@
       "fact": "The mayor position was filled by Kent Lauderdale."
     },
     {
+      "cityName": "Dadeville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 3,084, down from 3,230 in 2000."
+    },
+    {
       "cityName": "Daleville",
       "state": "AL",
       "source": "Wikipedia",
@@ -1104,7 +1461,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Daphne has adopted the nickname \u2033The Jubilee City\u2033 in recognition of its status as one of the locations of the Mobile Bay jubilee."
+      "fact": "Daphne has adopted the nickname ″The Jubilee City″ in recognition of its status as one of the locations of the Mobile Bay jubilee."
     },
     {
       "cityName": "Daphne",
@@ -1146,7 +1503,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The island (originally named Massacre Island) was renamed for the king Louis XIV's great-grandson and heir, the dauphin, the future king Louis XV."
+      "fact": "The island (originally named Massacre Island) was renamed for the king Louis XIV's great-grandson and heir, the dauphin, the future king Louis 15."
     },
     {
       "cityName": "Dauphin Island",
@@ -1160,7 +1517,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Dauphin Island (French: \u00cele du Dauphine), is an island town in Mobile County, Alabama, United States, on a barrier island of the same name in the Gulf of Mexico."
+      "fact": "Dauphin Island (French: Île du Dauphine), is an island town in Mobile County, Alabama, United States, on a barrier island of the same name in the Gulf of Mexico."
     },
     {
       "cityName": "Dauphin Island",
@@ -1174,7 +1531,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The island is one of the Mississippi\u2013Alabama barrier islands, with the Gulf of Mexico to the south, and the Mississippi Sound and Mobile Bay to the north."
+      "fact": "The island is one of the Mississippi–Alabama barrier islands, with the Gulf of Mexico to the south, and the Mississippi Sound and Mobile Bay to the north."
     },
     {
       "cityName": "Dauphin Island",
@@ -1196,6 +1553,20 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "The island is connected to the mainland by the Gordon Persons Bridge."
+    },
+    {
+      "cityName": "Daviston",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Daviston had a population of 174."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 28 at the 2020 census."
     },
     {
       "cityName": "Deatsville",
@@ -1300,7 +1671,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The name, meaning in Greek \"the People's City\" or \"City of the People\" (from Ancient Greek \u03b4\u1fc6\u03bc\u03bf\u03c2 + \u03c0\u03cc\u03bb\u03b9\u03c2), was chosen to honor the democratic ideals behind the endeavor."
+      "fact": "The name, meaning in Greek \"the People's City\" or \"City of the People\" (from Ancient Greek δῆμος + πόλις), was chosen to honor the democratic ideals behind the endeavor."
     },
     {
       "cityName": "Demopolis",
@@ -1335,7 +1706,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named for a group of mills operated by Joel B. Dixon in the 19th century."
+      "fact": "The community was named for a group of mills operated by Joel B Dixon in the 19th century."
     },
     {
       "cityName": "Dodge City",
@@ -1454,7 +1825,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Douglas, a part of the Huntsville\u2013Decatur Combined Statistical Area, had a population of 761 as of the 2020 census."
+      "fact": "Douglas, a part of the Huntsville–Decatur Combined Statistical Area, had a population of 761 as of the 2020 census."
     },
     {
       "cityName": "Douglas",
@@ -1475,7 +1846,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Duncanville was named in honor of either William M. Duncan, a local property owner, or W. Butler Duncan, an official with the Gulf, Mobile, and Northern Railroad."
+      "fact": "Duncanville was named in honor of either William M Duncan, a local property owner, or W Butler Duncan, an official with the Gulf, Mobile, and Northern Railroad."
     },
     {
       "cityName": "Duncanville",
@@ -1625,6 +1996,20 @@
       "fact": "At the time of the 2020 US Census, Elba's population was 3508."
     },
     {
+      "cityName": "Elberta",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 1,974."
+    },
+    {
+      "cityName": "Elberta",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Daphne-Fairhope-Foley metropolitan area."
+    },
+    {
       "cityName": "Eldridge",
       "state": "AL",
       "source": "Wikipedia",
@@ -1664,7 +2049,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was named in honor of William W. Elrod, a local physician."
+      "fact": "It was named in honor of William W Elrod, a local physician."
+    },
+    {
+      "cityName": "Emelle",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Emelle had a population of 32."
     },
     {
       "cityName": "Empire",
@@ -1723,6 +2115,13 @@
       "fact": "Initially called Epes Station, it was incorporated as Epes in 1899."
     },
     {
+      "cityName": "Ethelsville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ethelsville is a town in northwest Pickens County, Alabama, United States."
+    },
+    {
       "cityName": "Eufaula",
       "state": "AL",
       "source": "Wikipedia",
@@ -1749,6 +2148,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The mayor currently is Kent Chambers."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In botany, an evergreen is a plant which has foliage that remains green and functional throughout the year."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "This contrasts with deciduous plants, which lose their foliage completely during the winter or dry season."
+    },
+    {
+      "cityName": "Evergreen",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Consisting of many different species, the unique feature of evergreen plants lends itself to various environments and purposes."
     },
     {
       "cityName": "Excel",
@@ -1800,6 +2220,20 @@
       "fact": "Fairfield is home to Miles College, a historically black college enrolling over 1100 students."
     },
     {
+      "cityName": "Fairhope",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 22,477 at the 2020 census."
+    },
+    {
+      "cityName": "Fairhope",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fairhope is a principal city of the Daphne-Fairhope-Foley metropolitan area, which includes all of Baldwin County."
+    },
+    {
       "cityName": "Fairview",
       "state": "AL",
       "source": "Wikipedia",
@@ -1835,11 +2269,46 @@
       "fact": "The town has the only Holdeman Mennonite Church in the area, Cedarcrest Mennonite Church."
     },
     {
+      "cityName": "Fayette",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Fayette had a population of 4,285."
+    },
+    {
+      "cityName": "Five Points",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 114."
+    },
+    {
       "cityName": "Flat Rock",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Flat Rock post office was established in 1912."
+    },
+    {
+      "cityName": "Flomaton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Flomaton had a population of 1,466."
+    },
+    {
+      "cityName": "Flomaton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located next to the Alabama / Florida state line."
+    },
+    {
+      "cityName": "Florala",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,923."
     },
     {
       "cityName": "Florence",
@@ -1860,7 +2329,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Annual tourism events include the W. C. Handy Music Festival in the summer and the Renaissance Faire in the fall."
+      "fact": "Annual tourism events include the W C Handy Music Festival in the summer and the Renaissance Faire in the fall."
     },
     {
       "cityName": "Florence",
@@ -1882,6 +2351,13 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Florence is considered northwestern Alabama's primary economic hub."
+    },
+    {
+      "cityName": "Foley",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The 2020 census lists the population of the city as 20,335 Foley is a principal city of the Daphne-Fairhope-Foley metropolitan area, which includes all of Baldwin County."
     },
     {
       "cityName": "Forestdale",
@@ -1958,7 +2434,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The settlement developed around a garrisoned fort intended to provide defense for the area during the Creek War (1813\u201314)."
+      "fact": "The settlement developed around a garrisoned fort intended to provide defense for the area during the Creek War (1813–14)."
     },
     {
       "cityName": "Fort Novosel",
@@ -1972,7 +2448,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Its name currently honors Captain Edward W. Rucker, a World War I aviator."
+      "fact": "Its name currently honors Captain Edward W Rucker, a World War 1 aviator."
     },
     {
       "cityName": "Fort Novosel",
@@ -2115,6 +2591,13 @@
       "fact": "As of the 2020 census, the population was 590."
     },
     {
+      "cityName": "Frisco City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,170 at the 2020 census."
+    },
+    {
       "cityName": "Fruitdale",
       "state": "AL",
       "source": "Wikipedia",
@@ -2136,6 +2619,20 @@
       "fact": "In November 2022, the town was struck by an EF3 Tornado."
     },
     {
+      "cityName": "Fruithurst",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 235."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 223."
+    },
+    {
       "cityName": "Fultondale",
       "state": "AL",
       "source": "Wikipedia",
@@ -2155,6 +2652,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was incorporated in 1956."
+    },
+    {
+      "cityName": "Gadsden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Coosa River about 56 miles (90 km) northeast of Birmingham 90 miles (140 km) southwest of Chattanooga, Tennessee."
+    },
+    {
+      "cityName": "Gadsden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "72 Miles (117Km) Southeast of Huntsville It is the primary city of the Gadsden Metropolitan Statistical Area, which has a population of 103,931."
+    },
+    {
+      "cityName": "Gadsden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 33,945 at the 2020 census."
     },
     {
       "cityName": "Gainestown",
@@ -2220,6 +2738,48 @@
       "fact": "Founded in 1832, it was incorporated in 1835."
     },
     {
+      "cityName": "Gantt",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 196."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 528."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Garden City was founded by Johann Cullmann, namesake of Cullman County in 1873 after founding Cullman, Alabama."
+    },
+    {
+      "cityName": "Garden City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was located in Blount County and was incorporated in 1878."
+    },
+    {
+      "cityName": "Gardendale",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,044 at the 2020 census."
+    },
+    {
+      "cityName": "Gaylesville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gaylesville had a population of 170."
+    },
+    {
       "cityName": "Geiger",
       "state": "AL",
       "source": "Wikipedia",
@@ -2255,6 +2815,13 @@
       "fact": "It was incorporated in February 1957."
     },
     {
+      "cityName": "Gilbertown",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 739."
+    },
+    {
       "cityName": "Glen Allen",
       "state": "AL",
       "source": "Wikipedia",
@@ -2283,6 +2850,13 @@
       "fact": "Glenwood was incorporated in 1907."
     },
     {
+      "cityName": "Goldville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Goldville had a population of 52."
+    },
+    {
       "cityName": "Good Hope",
       "state": "AL",
       "source": "Wikipedia",
@@ -2295,6 +2869,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It incorporated in April 1962."
+    },
+    {
+      "cityName": "Goodwater",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,291."
+    },
+    {
+      "cityName": "Goodwater",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Talladega-Sylacauga Micropolitan Statistical Area."
     },
     {
       "cityName": "Gordo",
@@ -2353,11 +2941,67 @@
       "fact": "It is included in the Huntsville-Decatur Combined Statistical Area."
     },
     {
+      "cityName": "Graysville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,950."
+    },
+    {
+      "cityName": "Greensboro",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Greensboro had a population of 2,218."
+    },
+    {
+      "cityName": "Greensboro",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Hale County, Alabama, which was not organized until 1867."
+    },
+    {
+      "cityName": "Greensboro",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Tuscaloosa, Alabama metropolitan area."
+    },
+    {
       "cityName": "Greenville",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Greenville is known as the Camellia City, wherein originated the movement to change the official Alabama state flower from the goldenrod to the camellia with legislative sponsors LaMont Glass and H B Taylor."
+    },
+    {
+      "cityName": "Grimes",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Grimes had a population of 573."
+    },
+    {
+      "cityName": "Grimes",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Enterprise–Ozark Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Grove Hill",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,818."
+    },
+    {
+      "cityName": "Grove Hill",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Clarke County and home of the Clarke County Museum."
     },
     {
       "cityName": "Gu-Win",
@@ -2535,6 +3179,13 @@
       "fact": "The average household income in 2018 is stated to be 145000."
     },
     {
+      "cityName": "Hanceville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 3,217."
+    },
+    {
       "cityName": "Harpersville",
       "state": "AL",
       "source": "Wikipedia",
@@ -2598,6 +3249,34 @@
       "fact": "According to the 2020 U S Census, the population of the community is 5893."
     },
     {
+      "cityName": "Hayden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,342."
+    },
+    {
+      "cityName": "Hayneville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hayneville had a population of 830."
+    },
+    {
+      "cityName": "Hayneville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also part of the Montgomery Metropolitan Area."
+    },
+    {
+      "cityName": "Hayneville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It initially incorporated in 1831, but lapsed, finally reincorporating in 1967."
+    },
+    {
       "cityName": "Hazel Green",
       "state": "AL",
       "source": "Wikipedia",
@@ -2610,6 +3289,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "In 2020, the population was 4973, up from 4510 in the 2010 census."
+    },
+    {
+      "cityName": "Heath",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 236."
+    },
+    {
+      "cityName": "Heflin",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 3,431."
+    },
+    {
+      "cityName": "Heflin",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located approximately halfway between Birmingham and Atlanta along Interstate 20."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Helena is considered a suburb of Birmingham and part of the Birmingham-Hoover Metropolitan Area."
+    },
+    {
+      "cityName": "Helena",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 2022, the population estimate was 21,862."
     },
     {
       "cityName": "Henagar",
@@ -2631,6 +3345,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Located mostly on highway 331 that also runs to Luverne, Alabama."
+    },
+    {
+      "cityName": "Highland Lake",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 412."
     },
     {
       "cityName": "Hillsboro",
@@ -2673,6 +3394,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Hodges was laid out in 1902."
+    },
+    {
+      "cityName": "Hokes Bluff",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Gadsden Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hokes Bluff",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, its population was 4,446."
     },
     {
       "cityName": "Holly Pond",
@@ -2819,7 +3554,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Major growth in Huntsville took place in the decades following World War II."
+      "fact": "Major growth in Huntsville took place in the decades following World War 2."
     },
     {
       "cityName": "Huntsville",
@@ -2840,7 +3575,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "As of July 1, 2025, the city's population was estimated to be 249102 \u2013 a 15.9% increase since the 2020 Census."
+      "fact": "As of July 1, 2025, the city's population was estimated to be 249102 – a 15.9% increase since the 2020 Census."
     },
     {
       "cityName": "Huntsville",
@@ -3053,7 +3788,7 @@
       "fact": "It was one of three wet settlements in an otherwise-dry county."
     },
     {
-      "cityName": "Jacksons Gap",
+      "cityName": "Jackson's Gap",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
@@ -3179,6 +3914,13 @@
       "fact": "As of the 2020 census, the population of the town is 1034, down from its record high of 1119 in 2000."
     },
     {
+      "cityName": "Kimberly",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 3,841."
+    },
+    {
       "cityName": "Kinsey",
       "state": "AL",
       "source": "Wikipedia",
@@ -3193,6 +3935,20 @@
       "fact": "In 1903, it was redrawn into newly created Houston County and was later reincorporated in August 1957."
     },
     {
+      "cityName": "Kinston",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 580 at the 2020 census."
+    },
+    {
+      "cityName": "Kinston",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Enterprise Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Knoxville",
       "state": "AL",
       "source": "Wikipedia",
@@ -3200,11 +3956,81 @@
       "fact": "Knoxville is located at the junction of Interstates 20 and 59 with U S Routes 11 and 43, 11.9 miles (19.2 km) north-northeast of Eutaw."
     },
     {
+      "cityName": "LaFayette",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "LaFayette is the county seat of Chambers County, Alabama, United States, 47 miles (76 km) northwest of Columbus, Georgia."
+    },
+    {
+      "cityName": "LaFayette",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the population of the city was 3,003."
+    },
+    {
       "cityName": "Lafayette",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census, the population of the city was 3003."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 3,560, up from 1,943 in 2010."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tuscaloosa Metropolitan Statistical Area and the Birmingham metropolitan area."
+    },
+    {
+      "cityName": "Lake View",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located approximately halfway between Tuscaloosa and Birmingham via Interstates 20 and 59."
+    },
+    {
+      "cityName": "Lakeview",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 161."
+    },
+    {
+      "cityName": "Lakeview",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lakeview is located atop Sand Mountain."
+    },
+    {
+      "cityName": "Lanett",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lanett had a population of 6,970."
+    },
+    {
+      "cityName": "Lanett",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Lanett, originally called Bluffton, is located in eastern Alabama, on the Chattahoochee River, southwest of Atlanta."
+    },
+    {
+      "cityName": "Lanett",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city's name is derived from Lafayette Lanier and Theodore Bennett, founders of the West Point Manufacturing Company."
     },
     {
       "cityName": "Langston",
@@ -3253,7 +4079,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Leeds is nicknamed \"The City of Valor\" because of three Congressional Medal of Honor recipients from World War II and the Korean War who called Leeds home: Alford McLaughlin, William Lawley and Henry \"Red\" Erwin."
+      "fact": "Leeds is nicknamed \"The City of Valor\" because of three Congressional Medal of Honor recipients from World War 2 and the Korean War who called Leeds home: Alford McLaughlin, William Lawley and Henry \"Red\" Erwin."
     },
     {
       "cityName": "Leeds",
@@ -3268,6 +4094,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "As of the 2020 census, its population was 12324."
+    },
+    {
+      "cityName": "Leesburg",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 911."
     },
     {
       "cityName": "Leighton",
@@ -3340,6 +4173,13 @@
       "fact": "As of the 2010 census, the population of the town is 735, down from 840 in 2000."
     },
     {
+      "cityName": "Libertyville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 108."
+    },
+    {
       "cityName": "Lillian",
       "state": "AL",
       "source": "Wikipedia",
@@ -3373,6 +4213,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The Talladega Superspeedway, the International Motorsports Hall of Fame and the Talladega Municipal Airport are all located in Lincoln."
+    },
+    {
+      "cityName": "Linden",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,930 at the 2020 census, down from 2,123 at the 2010 census."
+    },
+    {
+      "cityName": "Lineville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 2,489."
+    },
+    {
+      "cityName": "Lipscomb",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Birmingham, Alabama, metropolitan area."
+    },
+    {
+      "cityName": "Lipscomb",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 2,086."
     },
     {
       "cityName": "Lisman",
@@ -3414,7 +4282,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In literature, Lochapoka was the destination of the colonists in James H. Street's 1940 novel Oh, Promised Land."
+      "fact": "In literature, Lochapoka was the destination of the colonists in James H Street's 1940 novel Oh, Promised Land."
     },
     {
       "cityName": "Loachapoka",
@@ -3422,6 +4290,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Loachapoka is the location of the first Rosenwald School."
+    },
+    {
+      "cityName": "Lockhart",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 445."
+    },
+    {
+      "cityName": "Locust Fork",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Locust Fork had a population of 1,192."
     },
     {
       "cityName": "Louisville",
@@ -3435,7 +4317,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Founded in 1817 in former Creek territory, it holds the distinctive honor of having served as county seat for two different Alabama counties - Pike County (1821) and later Barbour County (1832\u20131834)."
+      "fact": "Founded in 1817 in former Creek territory, it holds the distinctive honor of having served as county seat for two different Alabama counties - Pike County (1821) and later Barbour County (1832–1834)."
     },
     {
       "cityName": "Louisville",
@@ -3478,6 +4360,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Loxley is becoming a popular location for the expansion of the suburbs from Daphne and Spanish Fort, Alabama, because it is served by an Interstate 10 exit and is almost directly between the cities of Mobile, Alabama, and Pensacola, Florida."
+    },
+    {
+      "cityName": "Luverne",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 2,765."
     },
     {
       "cityName": "Lynn",
@@ -3529,6 +4418,20 @@
       "fact": "Madison has been one of the fastest-growing cities in Alabama, as well as one of the wealthiest in the state."
     },
     {
+      "cityName": "Madrid",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Madrid",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Madrid had a population of 265."
+    },
+    {
       "cityName": "Magnolia Springs",
       "state": "AL",
       "source": "Wikipedia",
@@ -3541,6 +4444,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census it had a population of 811."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Malvern",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Malvern had a population of 1,536."
+    },
+    {
+      "cityName": "Maplesville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 637."
+    },
+    {
+      "cityName": "Maplesville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located approximately halfway between Tuscaloosa and Montgomery on U.S Route 82."
     },
     {
       "cityName": "Margaret",
@@ -3610,7 +4541,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Occupying the site of the first Wright Flying School, it was named in honor of Second Lieutenant William C. Maxwell, a native of Atmore, Alabama."
+      "fact": "Occupying the site of the first Wright Flying School, it was named in honor of Second Lieutenant William C Maxwell, a native of Atmore, Alabama."
     },
     {
       "cityName": "Maxwell AFB",
@@ -3708,7 +4639,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is 12+1\u20442 miles (20.1 km) south of Wagarville and 44 miles (71 km) north of Mobile."
+      "fact": "It is 12+1⁄2 miles (20.1 km) south of Wagarville and 44 miles (71 km) north of Mobile."
+    },
+    {
+      "cityName": "McKenzie",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, McKenzie had a population of 507."
     },
     {
       "cityName": "McMullen",
@@ -3737,6 +4675,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "It was overtaken by Oak Hill in 2020."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In 1981, Memphis had the dubious distinction of being ranked the poorest incorporated community in the United States according to the US Census."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of 1984, then-Mayor Jimmy Williams stated the town received just 2,000 dollars per year from state tax receipts and had a sum total of 40 dollars in the bank."
+    },
+    {
+      "cityName": "Memphis",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was hoped the completion of the Tennessee-Tombigbee Waterway would help raise the standard of living for the town."
     },
     {
       "cityName": "Mentone",
@@ -3800,6 +4759,48 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It incorporated in 1890."
+    },
+    {
+      "cityName": "Midway",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 421."
+    },
+    {
+      "cityName": "Millbrook",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,564 at the 2020 census, up from 14,640 in 2010."
+    },
+    {
+      "cityName": "Millbrook",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Montgomery Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Millport",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Millport had a population of 1,010."
+    },
+    {
+      "cityName": "Millport",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "After its incorporation from 1890 to 1900, it was the largest town in Lamar County, losing the distinction to Sulligent."
+    },
+    {
+      "cityName": "Millport",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since 1940, it has been the 3rd largest town."
     },
     {
       "cityName": "Millry",
@@ -3932,7 +4933,28 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Mooresville is within Corridor V of the Appalachian Development Highway System."
+      "fact": "Mooresville is within Corridor 5 of the Appalachian Development Highway System."
+    },
+    {
+      "cityName": "Morris",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is north of the Birmingham suburb of Gardendale."
+    },
+    {
+      "cityName": "Morris",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It initially incorporated on September 19, 1885."
+    },
+    {
+      "cityName": "Morris",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At some point after 1910, its incorporation lapsed and it failed to appear on the census rolls beginning in 1920 through to 1950."
     },
     {
       "cityName": "Mosses",
@@ -3991,6 +5013,27 @@
       "fact": "Its population at the 2020 census was 22461."
     },
     {
+      "cityName": "Mulga",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is north from the Birmingham suburb of Pleasant Grove."
+    },
+    {
+      "cityName": "Mulga",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes the community of Bayview."
+    },
+    {
+      "cityName": "Mulga",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Mulga was a company town operated by Birmingham Coal and Iron Company around the Mulga Mine and Mulga was also the name of an independent community in the area."
+    },
+    {
       "cityName": "Munford",
       "state": "AL",
       "source": "Wikipedia",
@@ -4040,6 +5083,27 @@
       "fact": "While the airport itself lies within Dothan's city limits, the adjacent housing units and other buildings constitute the incorporated town of Napier Field."
     },
     {
+      "cityName": "Natural Bridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Route 278, Alabama Highway 13, and Alabama State Route 5."
+    },
+    {
+      "cityName": "Natural Bridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It initially incorporated on September 3, 1914."
+    },
+    {
+      "cityName": "Natural Bridge",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "In the 1930s, due to a dwindling population, its charter became dormant."
+    },
+    {
       "cityName": "Nauvoo",
       "state": "AL",
       "source": "Wikipedia",
@@ -4054,6 +5118,13 @@
       "fact": "Camp McDowell, the official camp and conference center of the Episcopal Diocese of Alabama, is located here."
     },
     {
+      "cityName": "Nectar",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 379."
+    },
+    {
       "cityName": "Needham",
       "state": "AL",
       "source": "Wikipedia",
@@ -4065,7 +5136,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named for Huey E. Brock, a settler who came to the region in 1871."
+      "fact": "The community was named for Huey E Brock, a settler who came to the region in 1871."
+    },
+    {
+      "cityName": "New Hope",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,889 at the 2020 census."
     },
     {
       "cityName": "New Market",
@@ -4101,6 +5179,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It incorporated in 1887."
+    },
+    {
+      "cityName": "Newville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dothan, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Newville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 544."
     },
     {
       "cityName": "North Courtland",
@@ -4254,7 +5346,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is included in the Anniston\u2013Oxford, Alabama Metropolitan Statistical Area."
+      "fact": "It is included in the Anniston–Oxford, Alabama Metropolitan Statistical Area."
     },
     {
       "cityName": "Oneonta",
@@ -4262,6 +5354,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Oneonta is home to the Covered Bridge Festival."
+    },
+    {
+      "cityName": "Onycha",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 167."
     },
     {
       "cityName": "Opelika",
@@ -4390,6 +5489,13 @@
       "fact": "It was home to Avondale Mills and its legacy in the Avondale Mill Historic District."
     },
     {
+      "cityName": "Pennington",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pennington had a population of 329."
+    },
+    {
       "cityName": "Perdido",
       "state": "AL",
       "source": "Wikipedia",
@@ -4404,11 +5510,32 @@
       "fact": "It has an elementary school, Perdido School, which is part of the Baldwin County Board of Education."
     },
     {
+      "cityName": "Perdido Beach",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "In an April 2009 plebiscite, over 60% of local voters supported incorporation as a town."
+    },
+    {
+      "cityName": "Perdido Beach",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "On June 10, 2009, Baldwin County Probate Judge Adrian Johns issued an order which incorporated the area as a town."
+    },
+    {
+      "cityName": "Perdido Beach",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The first municipal elections, in which the mayor and town council will be elected, were scheduled for the fall of 2009."
+    },
+    {
       "cityName": "Perdue Hill",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The home of William B. Travis is located along U S Route 84 in Perdue Hill and was moved here in 1985 from Claiborne."
+      "fact": "The home of William B Travis is located along U S Route 84 in Perdue Hill and was moved here in 1985 from Claiborne."
     },
     {
       "cityName": "Perdue Hill",
@@ -4418,6 +5545,20 @@
       "fact": "It has one site listed on the Alabama Register of Landmarks and Heritage, the Perdue Hill Masonic Lodge."
     },
     {
+      "cityName": "Phenix City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Alabama, and the county seat of Russell County with northern and western parts crossing over into neighboring Lee County."
+    },
+    {
+      "cityName": "Phenix City",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city was 38,817."
+    },
+    {
       "cityName": "Phil Campbell",
       "state": "AL",
       "source": "Wikipedia",
@@ -4425,11 +5566,46 @@
       "fact": "It is one of two towns in Alabama to have the first and last name of an individual; the other being Susan Moore."
     },
     {
+      "cityName": "Pickensville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pickensville had a population of 557."
+    },
+    {
+      "cityName": "Pickensville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was initially incorporated in 1839 and briefly served before that as the first county seat of Pickens County."
+    },
+    {
+      "cityName": "Pickensville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Carrollton was designated as the seat in the early 1830s."
+    },
+    {
       "cityName": "Piedmont",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is included in the Anniston-Oxford, Alabama Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pike Road",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 9,439 at the 2020 census, and was estimated to be 11,500 in 2024."
+    },
+    {
+      "cityName": "Pike Road",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Montgomery metropolitan area."
     },
     {
       "cityName": "Pinckard",
@@ -4527,7 +5703,35 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is home to Dallas County High School and J. E. Terry Elementary School."
+      "fact": "The town is home to Dallas County High School and J E Terry Elementary School."
+    },
+    {
+      "cityName": "Pleasant Grove",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Birmingham metropolitan area."
+    },
+    {
+      "cityName": "Pleasant Grove",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,544 at the 2020 census."
+    },
+    {
+      "cityName": "Pleasant Groves",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It incorporated on February 17, 1993."
+    },
+    {
+      "cityName": "Pleasant Groves",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Pleasant Groves had a population of 426."
     },
     {
       "cityName": "Powell",
@@ -4635,6 +5839,13 @@
       "fact": "The community is located 23.9 miles (38.5 km) from the city of Montgomery."
     },
     {
+      "cityName": "Ranburne",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 422."
+    },
+    {
       "cityName": "Red Bay",
       "state": "AL",
       "source": "Wikipedia",
@@ -4660,7 +5871,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Established during World War II as a chemical manufacturing facility, in the immediate post-war era the arsenal was used for research and development by Nazi German rocket scientists who were brought to the United States as part of Operation Paperclip."
+      "fact": "Established during World War 2 as a chemical manufacturing facility, in the immediate post-war era the arsenal was used for research and development by Nazi German rocket scientists who were brought to the United States as part of Operation Paperclip."
     },
     {
       "cityName": "Redstone Arsenal",
@@ -4717,6 +5928,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was incorporated in May 1956."
+    },
+    {
+      "cityName": "Reform",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2010 census the population was 1,702, down from 1,978 in 2000."
+    },
+    {
+      "cityName": "Reform",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located approximately halfway between Columbus, Mississippi and Tuscaloosa on U.S Route 82."
     },
     {
       "cityName": "Rehobeth",
@@ -4789,6 +6014,13 @@
       "fact": "It incorporated in 1886."
     },
     {
+      "cityName": "Riverview",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Riverview had a population of 163."
+    },
+    {
       "cityName": "Roanoke",
       "state": "AL",
       "source": "Wikipedia",
@@ -4796,11 +6028,39 @@
       "fact": "As of the 2020 census, the population of the city was 5311, down from 6074 in 2010 and 6563 in 2000."
     },
     {
+      "cityName": "Rockford",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 349."
+    },
+    {
+      "cityName": "Rockford",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is the county seat of Coosa County and is part of the Talladega-Sylacauga Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Rogersville",
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2018 census, the population of the town is 1231, up from 1199 in 2000."
+    },
+    {
+      "cityName": "Russellville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population of the city was 10,855, up from 9,830 at the 2010 census."
+    },
+    {
+      "cityName": "Russellville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Franklin County."
     },
     {
       "cityName": "Rutledge",
@@ -4814,7 +6074,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Benjamin F. Gibson (1931\u20132021), United States District Court judge, was born in Safford."
+      "fact": "Benjamin F Gibson (1931–2021), United States District Court judge, was born in Safford."
     },
     {
       "cityName": "Safford",
@@ -4822,6 +6082,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Safford is located at the intersection of State Route 5 and State Route 22 and is the western terminus of SR 22 which extends eastward to the Georgia state line."
+    },
+    {
+      "cityName": "Saint Florian",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Florian was a Christian holy man and the patron saint of chimney sweeps, soapmakers, and firefighters."
+    },
+    {
+      "cityName": "Saint Florian",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Florian is also the patron saint of Poland; the city of Linz, Austria; and Upper Austria, jointly with Leopold 3, Margrave of Austria."
     },
     {
       "cityName": "Saks",
@@ -4955,6 +6229,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "The Samuel Pickens homestead, Umbria Plantation, was destroyed by fire in 1971."
+    },
+    {
+      "cityName": "Scottsboro",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city was named for its founder Robert T Scott."
+    },
+    {
+      "cityName": "Scottsboro",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population of the city is 15,578."
     },
     {
       "cityName": "Seale",
@@ -5104,6 +6392,27 @@
       "fact": "As of the 2020 census it had a population of 10529."
     },
     {
+      "cityName": "Sheffield",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is the administrative centre of the City of Sheffield."
+    },
+    {
+      "cityName": "Sheffield",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is historically part of the West Riding of Yorkshire."
+    },
+    {
+      "cityName": "Sheffield",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the largest settlement in South Yorkshire, and the third largest in Northern England."
+    },
+    {
       "cityName": "Shelby",
       "state": "AL",
       "source": "Wikipedia",
@@ -5220,7 +6529,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community is named after postmaster Frank W. Slocomb."
+      "fact": "The community is named after postmaster Frank W Slocomb."
     },
     {
       "cityName": "Slocomb",
@@ -5256,6 +6565,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The area that incorporated as Smiths Station in 2001 was much smaller than the CDP, and contained a population of 4926 by the 2010 census."
+    },
+    {
+      "cityName": "Snead",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,032."
     },
     {
       "cityName": "Somerville",
@@ -5339,7 +6655,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is a part of the Birmingham\u2013Hoover\u2013Cullman Combined Statistical Area."
+      "fact": "The town is a part of the Birmingham–Hoover–Cullman Combined Statistical Area."
     },
     {
       "cityName": "Steele",
@@ -5347,6 +6663,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It was initially known as Steel's Station or Steele's Depot in the late 19th century."
+    },
+    {
+      "cityName": "Stevenson",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sources listed either 1866 or 1867 as the year of incorporation, but that seems to conflict with the dates given for the town being granted a charter."
+    },
+    {
+      "cityName": "Stevenson",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It did not first appear on the U.S Census until 1880, where it was the second largest town in Jackson County behind Scottsboro."
+    },
+    {
+      "cityName": "Stevenson",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since 1900, it has been the third largest town behind either Scottsboro and Bridgeport or vice versa."
     },
     {
       "cityName": "Sulligent",
@@ -5517,6 +6854,27 @@
       "fact": "The Talladega Superspeedway, and the International Motorsports Hall of Fame are located nearby."
     },
     {
+      "cityName": "Talladega Springs",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 144."
+    },
+    {
+      "cityName": "Tallassee",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 4,763."
+    },
+    {
+      "cityName": "Tallassee",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to a major hydroelectric power plant at Thurlow Dam operated by Alabama Power Company."
+    },
+    {
       "cityName": "Tanner",
       "state": "AL",
       "source": "Wikipedia",
@@ -5543,6 +6901,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Prior to 1900 this area was known as \"Clements\", but it is now named for William Theodore Hieronymous, a sawmill operator and postmaster."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 326, down from 417 at the 2010 census."
     },
     {
       "cityName": "Thomasville",
@@ -5594,6 +6959,13 @@
       "fact": "As of the 2020 census, the population of the town is 1052, down from 1100 in 2010."
     },
     {
+      "cityName": "Toxey",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 145."
+    },
+    {
       "cityName": "Trafford",
       "state": "AL",
       "source": "Wikipedia",
@@ -5606,6 +6978,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town was incorporated in 1948."
+    },
+    {
+      "cityName": "Triana",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,890 at the 2020 census, and was estimated at 4,936 in 2024."
     },
     {
       "cityName": "Trinity",
@@ -5808,7 +7187,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "In 1923, the Tuskegee Veterans Administration Medical Center was established, initially for the estimated 300000 African-American veterans of World War I in the South, when public facilities were racially segregated."
+      "fact": "In 1923, the Tuskegee Veterans Administration Medical Center was established, initially for the estimated 300000 African-American veterans of World War 1 in the South, when public facilities were racially segregated."
     },
     {
       "cityName": "Tuskegee",
@@ -5836,7 +7215,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Its first founding principal was Booker T. Washington, who developed a national reputation and philanthropic network to support the education of freedmen and their children."
+      "fact": "Its first founding principal was Booker T Washington, who developed a national reputation and philanthropic network to support the education of freedmen and their children."
     },
     {
       "cityName": "Tuskegee",
@@ -5895,6 +7274,13 @@
       "fact": "According to the 1980 U S Census, it was incorporated in the 1970s."
     },
     {
+      "cityName": "Union Springs",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Union Springs had a population of 3,358."
+    },
+    {
       "cityName": "Uniontown",
       "state": "AL",
       "source": "Wikipedia",
@@ -5951,6 +7337,41 @@
       "fact": "As of the 2020 census it had a population of 10529."
     },
     {
+      "cityName": "Valley Grande",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Incorporated in early 2003, Valley Grande has a mayor-council form of government."
+    },
+    {
+      "cityName": "Valley Grande",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Valley Grande had a population of 4,190."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Although this town incorporated in 1922, it was also listed as being incorporated on the 1890 U.S Census."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lookout Mountain region."
+    },
+    {
+      "cityName": "Valley Head",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "At the 2020 census, its population was 577."
+    },
+    {
       "cityName": "Vance",
       "state": "AL",
       "source": "Wikipedia",
@@ -5969,7 +7390,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Tuscaloosa County portion of Vance is part of the Tuscaloosa Metropolitan Statistical Area, while the Bibb County portion is part of the Birmingham\u2013Hoover Metropolitan Statistical Area."
+      "fact": "The Tuscaloosa County portion of Vance is part of the Tuscaloosa Metropolitan Statistical Area, while the Bibb County portion is part of the Birmingham–Hoover Metropolitan Statistical Area."
     },
     {
       "cityName": "Vandiver",
@@ -6140,6 +7561,20 @@
       "fact": "It incorporated in 1972."
     },
     {
+      "cityName": "Walnut Grove",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Gadsden Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Walnut Grove",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Walnut Grove had a population of 773."
+    },
+    {
       "cityName": "Warrior",
       "state": "AL",
       "source": "Wikipedia",
@@ -6186,7 +7621,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named for plantation owner B. F. Webb, who settled in the area around 1890."
+      "fact": "It is named for plantation owner B F Webb, who settled in the area around 1890."
     },
     {
       "cityName": "Webb",
@@ -6222,6 +7657,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Wellington is located near U S Route 431, 11.8 miles (19.0 km) north-northwest of Anniston."
+    },
+    {
+      "cityName": "West Blocton",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,217 at the 2020 census."
     },
     {
       "cityName": "West Jefferson",
@@ -6298,7 +7740,7 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The M & O, an early land grant railroad, eventually extended from Mobile to the Ohio River, and beyond to St. Louis, Missouri, and Chicago, Illinois."
+      "fact": "The M & O, an early land grant railroad, eventually extended from Mobile to the Ohio River, and beyond to Saint Louis, Missouri, and Chicago, Illinois."
     },
     {
       "cityName": "Whistler",
@@ -6385,6 +7827,13 @@
       "fact": "The town did not incorporate until 1979."
     },
     {
+      "cityName": "Wilsonville",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,857."
+    },
+    {
       "cityName": "Wilton",
       "state": "AL",
       "source": "Wikipedia",
@@ -6403,7 +7852,14 @@
       "state": "AL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "This town is part of the Birmingham\u2013Hoover\u2013Cullman Combined Statistical Area."
+      "fact": "This town is part of the Birmingham–Hoover–Cullman Combined Statistical Area."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "AL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,845 at the 2020 census, the second largest city in Marion County."
     },
     {
       "cityName": "Woodland",

@@ -1,6 +1,20 @@
 {
   "facts": [
     {
+      "cityName": "Abington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Abington is a town in Plymouth County, Massachusetts, United States, 20 miles (32 km) southeast of Boston."
+    },
+    {
+      "cityName": "Abington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 17,062 at the 2020 census."
+    },
+    {
       "cityName": "Acton",
       "state": "MA",
       "source": "Wikipedia",
@@ -64,6 +78,27 @@
       "fact": "Agawam contains a subsection, Feeding Hills."
     },
     {
+      "cityName": "Alford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alford is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Alford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Alford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 486 at the 2020 census."
+    },
+    {
       "cityName": "Allston",
       "state": "MA",
       "source": "Wikipedia",
@@ -96,7 +131,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The two are often referred to together as Allston\u2013Brighton."
+      "fact": "The two are often referred to together as Allston–Brighton."
     },
     {
       "cityName": "Allston",
@@ -117,7 +152,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Lower Allston, across the Massachusetts Turnpike from the southern portion of Allston, consists of mostly 1890\u20131920s single-family and multi-family Victorian homes."
+      "fact": "Lower Allston, across the Massachusetts Turnpike from the southern portion of Allston, consists of mostly 1890–1920s single-family and multi-family Victorian homes."
     },
     {
       "cityName": "Amesbury",
@@ -152,7 +187,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Lying 22 miles (35 km) north of the city of Springfield, Amherst is considered the northernmost town in the Hartford\u2013Springfield Metropolitan Region, \"The Knowledge Corridor\"."
+      "fact": "Lying 22 miles (35 km) north of the city of Springfield, Amherst is considered the northernmost town in the Hartford–Springfield Metropolitan Region, \"The Knowledge Corridor\"."
     },
     {
       "cityName": "Amherst",
@@ -267,6 +302,48 @@
       "fact": "Ashby is also host to a large portion of the Willard Brook State Forest, including Damon Pond, Trap Falls, and numerous miles of hiking trails."
     },
     {
+      "cityName": "Ashfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashfield is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Ashfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,695 at the 2020 census."
+    },
+    {
+      "cityName": "Ashfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashland is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the MetroWest region."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 18,832 at the 2020 United States census."
+    },
+    {
       "cityName": "Ashmont",
       "state": "MA",
       "source": "Wikipedia",
@@ -323,6 +400,27 @@
       "fact": "As of the 2014 census, the village had a total estimated population of 9093."
     },
     {
+      "cityName": "Athol",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athol is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Athol",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,945 at the 2020 census."
+    },
+    {
+      "cityName": "Athol",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Attleboro",
       "state": "MA",
       "source": "Wikipedia",
@@ -342,6 +440,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It became a city in 1914 after being a town for over 200 years."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Auburn is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Auburn",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 16,889 at the 2020 census."
     },
     {
       "cityName": "Auburndale",
@@ -386,6 +498,20 @@
       "fact": "Auburndale Square is the location of the Plummer Memorial Library, which is run by the Auburndale Community Library and no longer affiliated with the Newton Free Library, the Turtle Lane Playhouse, and many small businesses."
     },
     {
+      "cityName": "Avon",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Avon is a town in Norfolk County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Avon",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,777 at the 2020 census."
+    },
+    {
       "cityName": "Ayer",
       "state": "MA",
       "source": "Wikipedia",
@@ -397,7 +523,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Later, Fort Devens was established by the federal government to train New England soldiers for World War I. Fort Devens is a major influence on the area, although it is considerably smaller than when it was first closed in the mid-1990s."
+      "fact": "Later, Fort Devens was established by the federal government to train New England soldiers for World War 1 Fort Devens is a major influence on the area, although it is considerably smaller than when it was first closed in the mid-1990s."
     },
     {
       "cityName": "Ayer",
@@ -470,6 +596,27 @@
       "fact": "Additionally, Barnstable is a 2007 winner of the All-America City Award."
     },
     {
+      "cityName": "Barre",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barre is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Barre",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,530 at the 2020 census."
+    },
+    {
+      "cityName": "Barre",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Beacon Hill",
       "state": "MA",
       "source": "Wikipedia",
@@ -509,7 +656,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is known for being the birthplace of John F. Kennedy."
+      "fact": "It is known for being the birthplace of John F Kennedy."
     },
     {
       "cityName": "Beaconsfield",
@@ -530,7 +677,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "An exclave of Norfolk County, Brookline borders six of Boston's neighborhoods: Brighton, Allston, Fenway\u2013Kenmore, Mission Hill, Jamaica Plain, and West Roxbury."
+      "fact": "An exclave of Norfolk County, Brookline borders six of Boston's neighborhoods: Brighton, Allston, Fenway–Kenmore, Mission Hill, Jamaica Plain, and West Roxbury."
     },
     {
       "cityName": "Beaconsfield",
@@ -573,6 +720,27 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Today, these are Massachusetts Route 9 (locally Boylston St., which unofficially divides north and south Brookline) and the various branches of the MBTA's Green Line."
+    },
+    {
+      "cityName": "Becket",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Becket is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Becket",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Becket",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,931 at the 2020 census."
     },
     {
       "cityName": "Bedford",
@@ -638,6 +806,27 @@
       "fact": "The town was first settled in 1665 and incorporated in 1812, and is governed under the open town meeting system."
     },
     {
+      "cityName": "Bernardston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bernardston is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Bernardston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,102 at the 2020 census."
+    },
+    {
+      "cityName": "Bernardston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Beverly",
       "state": "MA",
       "source": "Wikipedia",
@@ -657,6 +846,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It takes its name from the town of Billericay in Essex, England."
+    },
+    {
+      "cityName": "Blackstone",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blackstone is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Blackstone",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,208 at the 2020 census."
+    },
+    {
+      "cityName": "Blackstone",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is a part of the Providence metropolitan area."
     },
     {
       "cityName": "Blandford",
@@ -705,7 +915,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During the American Revolution and Revolutionary War, Boston was home to several seminal events, including the Boston Massacre (1770), the Boston Tea Party (1773), Paul Revere's midnight ride (1775), the Battle of Bunker Hill (1775), and the Siege of Boston (1775\u20131776)."
+      "fact": "During the American Revolution and Revolutionary War, Boston was home to several seminal events, including the Boston Massacre (1770), the Boston Tea Party (1773), Paul Revere's midnight ride (1775), the Battle of Bunker Hill (1775), and the Siege of Boston (1775–1776)."
     },
     {
       "cityName": "Boston",
@@ -792,6 +1002,20 @@
       "fact": "According to the U S Census Bureau, the town's population was 8203 in 2020."
     },
     {
+      "cityName": "Boylston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boylston is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Boylston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,849 at the 2020 census."
+    },
+    {
       "cityName": "Bradford",
       "state": "MA",
       "source": "Wikipedia",
@@ -845,7 +1069,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It also contains two National Historic Districts: Brewster Old King's Highway Historic District and Stony Brook\u2013Factory Village Historic District, both listed on the National Register of Historic Places."
+      "fact": "It also contains two National Historic Districts: Brewster Old King's Highway Historic District and Stony Brook–Factory Village Historic District, both listed on the National Register of Historic Places."
     },
     {
       "cityName": "Brewster",
@@ -943,7 +1167,28 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The neighborhood of Allston was also formerly part of the town of Brighton, but is now often considered to be separate, leading to the name Allston\u2013Brighton for the combined area."
+      "fact": "The neighborhood of Allston was also formerly part of the town of Brighton, but is now often considered to be separate, leading to the name Allston–Brighton for the combined area."
+    },
+    {
+      "cityName": "Brimfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brimfield is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Brimfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,694 at the 2020 census."
+    },
+    {
+      "cityName": "Brimfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Brockton",
@@ -992,7 +1237,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is known for being the birthplace of John F. Kennedy."
+      "fact": "It is known for being the birthplace of John F Kennedy."
     },
     {
       "cityName": "Brookline",
@@ -1013,7 +1258,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "An exclave of Norfolk County, Brookline borders six of Boston's neighborhoods: Brighton, Allston, Fenway\u2013Kenmore, Mission Hill, Jamaica Plain, and West Roxbury."
+      "fact": "An exclave of Norfolk County, Brookline borders six of Boston's neighborhoods: Brighton, Allston, Fenway–Kenmore, Mission Hill, Jamaica Plain, and West Roxbury."
     },
     {
       "cityName": "Brookline",
@@ -1254,6 +1499,27 @@
       "fact": "For geographic and demographic information on specific parts of the town of Bourne, please see the articles on Bourne (CDP), Buzzards Bay, Monument Beach, Pocasset, Sagamore, and Sagamore Beach."
     },
     {
+      "cityName": "Charlemont",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Charlemont is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Charlemont",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,185 at the 2020 census."
+    },
+    {
+      "cityName": "Charlemont",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Charlestown",
       "state": "MA",
       "source": "Wikipedia",
@@ -1279,7 +1545,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Charlestown was laid out in 1629 by engineer Thomas Graves, one of its earliest settlers, during the reign of Charles I of England."
+      "fact": "Charlestown was laid out in 1629 by engineer Thomas Graves, one of its earliest settlers, during the reign of Charles 1 of England."
     },
     {
       "cityName": "Charlestown",
@@ -1322,6 +1588,20 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "A mix of yuppie and upper-middle-class gentrification has influenced much of the area, as it has in many of Boston's neighborhoods."
+    },
+    {
+      "cityName": "Charlton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Charlton is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Charlton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 13,315 at the 2020 census."
     },
     {
       "cityName": "Chatham",
@@ -1412,7 +1692,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The town has one public high school\u2014Chelmsford High School, which was ranked among the top 500 schools in the nation in 2015\u2014as well as two middle schools, and four elementary schools."
+      "fact": "The town has one public high school—Chelmsford High School, which was ranked among the top 500 schools in the nation in 2015—as well as two middle schools, and four elementary schools."
     },
     {
       "cityName": "Chelmsford",
@@ -1436,6 +1716,34 @@
       "fact": "This makes it the smallest city in Massachusetts, and the third most densely populated."
     },
     {
+      "cityName": "Cheshire",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cheshire is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 3,258 at the 2020 census."
+    },
+    {
+      "cityName": "Cheshire",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Chester",
       "state": "MA",
       "source": "Wikipedia",
@@ -1448,6 +1756,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The total population was 1228 in the 2020 census."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chesterfield is a rural hill town in Hampshire County, Massachusetts, United States, 26 miles (42 km) east of Pittsfield, 75 miles (120 km) west of Worcester, and 90 miles (140 km) west of Boston."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,186 at the 2020 census."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Chestnut Hill",
@@ -1513,11 +1842,74 @@
       "fact": "Chilmark had the highest median home sale price of any town or city in Massachusetts in 2013."
     },
     {
+      "cityName": "Clarksburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clarksburg is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Clarksburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clarksburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,657 at the 2020 census."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clinton is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 15,428 at the 2020 census."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Cohasset",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census the population was 8381."
+    },
+    {
+      "cityName": "Colrain",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Colrain is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Colrain",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,606 at the 2020 census."
+    },
+    {
+      "cityName": "Colrain",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield metropolitan area, Massachusetts."
     },
     {
       "cityName": "Concord",
@@ -1597,6 +1989,27 @@
       "fact": "Major works written in Concord during this period include Alcott's novel Little Women, Emerson's essay Self-Reliance, and Thoreau's Walden and Civil Disobedience."
     },
     {
+      "cityName": "Conway",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Conway is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Conway",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,761 at the 2020 census."
+    },
+    {
+      "cityName": "Conway",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Coolidge Corner",
       "state": "MA",
       "source": "Wikipedia",
@@ -1609,6 +2022,55 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The neighborhood takes its name from the Coolidge & Brother general store that opened in 1857 at that intersection at the site of today's S S Pierce building, which was for many years the only commercial business in north Brookline."
+    },
+    {
+      "cityName": "Cummington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cummington is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Cummington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 829 at the 2020 census, a decline from 872, tabulated in 2010."
+    },
+    {
+      "cityName": "Cummington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dalton is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dalton is a transition town between the urban and rural portions of Berkshire County."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dalton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The population was 6,330 at the 2020 census."
     },
     {
       "cityName": "Danvers",
@@ -1644,6 +2106,41 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "As of the 2020 United States Census, the town's population was 28087."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dartmouth is a coastal town in Bristol County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Old Dartmouth was the first area of Southeastern Massachusetts to be settled by Europeans in 1652, primarily English."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Dartmouth is part of New England's farm coast, which consists of a chain of historic coastal villages, vineyards, and farms."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "June 8, 2014, marked the 350th year of Dartmouth's incorporation as a town."
+    },
+    {
+      "cityName": "Dartmouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is also part of the Massachusetts South Coast."
     },
     {
       "cityName": "Dedham",
@@ -1720,56 +2217,14 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Historic Deerfield is designated as a National Historic Landmark district, and the organization operates a museum with a focus on decorative arts, early American material culture, and history."
+      "fact": "Settled near the Connecticut River in the 17th century during the colonial era, the population was 5,090 as of the 2020 census."
     },
     {
       "cityName": "Deerfield",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Deerfield includes the villages of South Deerfield and Old Deerfield, which is home to two museums: Pocumtuck Valley Memorial Association and Historic Deerfield, Inc."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "The Pocumtuck Valley Memorial Association operates Memorial Hall Museum, which opened in 1880, as well as the Indian House Memorial Children's Museum and Bloody Brook Tavern."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Its eleven house museums offer interpretation of society, history, and culture from the colonial era through the late nineteenth century."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Settled near the Connecticut River in the 17th century during the colonial era, the population was 5090 as of the 2020 census."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 6,
       "fact": "Deerfield is part of the Springfield, Massachusetts Metropolitan Statistical Area in western Massachusetts, lying 30 miles (48 km) north of the city of Springfield."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The site of early 18th century colonial battles including the Raid on Deerfield, the town is a center of heritage tourism in the Pioneer Valley."
-    },
-    {
-      "cityName": "Deerfield",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Deerfield has numerous schools, including Deerfield Academy, a private secondary preparatory school; Frontier Regional High School; Deerfield Elementary; and two separate private junior boarding schools, Bement School, which is co-ed, and Eaglebrook School, which is a school for boys."
     },
     {
       "cityName": "Dennis",
@@ -1790,7 +2245,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Housing stock consists mostly of World War II\u2013era beach cottages built in the Cape Cod architectural style, although many have been expanded or replaced with larger, more contemporary beach houses."
+      "fact": "Housing stock consists mostly of World War 2–era beach cottages built in the Cape Cod architectural style, although many have been expanded or replaced with larger, more contemporary beach houses."
     },
     {
       "cityName": "Dennisport",
@@ -1839,7 +2294,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Famous residents of Dennis Port include U S military hero Benjamin F. Baker."
+      "fact": "Famous residents of Dennis Port include U S military hero Benjamin F Baker."
     },
     {
       "cityName": "Devens",
@@ -1847,6 +2302,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is the successor to Fort Devens, a military post that operated from 1917 to 1996."
+    },
+    {
+      "cityName": "Dighton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dighton is a town in Bristol County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dighton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,101 at the 2020 census."
+    },
+    {
+      "cityName": "Dighton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located on the western shore of the Taunton River in the southeastern part of the state."
     },
     {
       "cityName": "Dorchester",
@@ -1954,6 +2430,55 @@
       "fact": "Dover is bordered by Natick, Wellesley and Needham to the north, Westwood to the east, Walpole and Medfield to the south, and Sherborn to the west."
     },
     {
+      "cityName": "Dracut",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dracut DRAY-kət is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dracut",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the town's population was 32,617, making it the second most populous town in Massachusetts with an open town meeting system of governance."
+    },
+    {
+      "cityName": "Dracut",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town covers a total area of 21.36 square miles, 0.5 square miles of which are water."
+    },
+    {
+      "cityName": "Dudley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dudley is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dudley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,921 at the 2020 census."
+    },
+    {
+      "cityName": "Dunstable",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dunstable is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Dunstable",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,358 at the 2020 census."
+    },
+    {
       "cityName": "Duxbury",
       "state": "MA",
       "source": "Wikipedia",
@@ -2000,7 +2525,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "John F. Kennedy's great-grandfather was one of many Irish people to immigrate to East Boston, and the Kennedy family lived there for some time."
+      "fact": "John F Kennedy's great-grandfather was one of many Irish people to immigrate to East Boston, and the Kennedy family lived there for some time."
     },
     {
       "cityName": "East Boston",
@@ -2029,6 +2554,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is also a part of Massachusetts' 8th congressional district, of which it is represented by Stephen Lynch."
+    },
+    {
+      "cityName": "East Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Brookfield is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "East Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,224 at the 2020 United States Census."
+    },
+    {
+      "cityName": "East Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The census-designated place of East Brookfield (CDP) is located in the town."
     },
     {
       "cityName": "East Cambridge",
@@ -2231,7 +2777,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "East Taunton is served by Route 140; Route 79 also runs north\u2013south through East Taunton between Berkley and Middleborough, and serves as the town line for Taunton and Lakeville."
+      "fact": "East Taunton is served by Route 140; Route 79 also runs north–south through East Taunton between Berkley and Middleborough, and serves as the town line for Taunton and Lakeville."
     },
     {
       "cityName": "East Taunton",
@@ -2381,6 +2927,34 @@
       "fact": "Egremont consists of two villages, North Egremont and South Egremont, and their outlying areas, which are mostly lightly settled forests and farmland."
     },
     {
+      "cityName": "Erving",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Erving is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Erving",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,665 at the 2020 census."
+    },
+    {
+      "cityName": "Erving",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Erving shares the census-designated place of Millers Falls with Montague."
+    },
+    {
+      "cityName": "Erving",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is part of the Springfield, Massachusetts metropolitan statistical area."
+    },
+    {
       "cityName": "Essex",
       "state": "MA",
       "source": "Wikipedia",
@@ -2406,7 +2980,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Fall River is known for the Lizzie Borden case, the Fall River cult murders, Portuguese culture, its numerous 19th-century textile mills and Battleship Cove, home of the world's largest collection of World War II naval vessels (including the battleship USS Massachusetts)."
+      "fact": "Fall River is known for the Lizzie Borden case, the Fall River cult murders, Portuguese culture, its numerous 19th-century textile mills and Battleship Cove, home of the world's largest collection of World War 2 naval vessels (including the battleship USS Massachusetts)."
     },
     {
       "cityName": "Fall River",
@@ -2553,7 +3127,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "Of Agawam's four elementary schools and three middle/junior/senior high schools, only the junior high school and Granger Elementary are located in Feeding Hills."
+      "fact": "Of Agawam's four elementary schools and three middle, junior, and senior high schools, only the junior high school and Granger Elementary are located in Feeding Hills."
     },
     {
       "cityName": "Fitchburg",
@@ -2581,7 +3155,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Despite the town\u2019s name, Florida is statistically the coldest and snowiest town in Massachusetts."
+      "fact": "Despite the town’s name, Florida is statistically the coldest and snowiest town in Massachusetts."
     },
     {
       "cityName": "Florida",
@@ -2644,7 +3218,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Residents voted in favor of adopting a charter to transition from a representative town meeting system to a mayor\u2013council government in April 2017, and the municipality transitioned to city status on January 1, 2018."
+      "fact": "Residents voted in favor of adopting a charter to transition from a representative town meeting system to a mayor–council government in April 2017, and the municipality transitioned to city status on January 1, 2018."
     },
     {
       "cityName": "Framingham Center",
@@ -2672,14 +3246,14 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Residents voted in favor of adopting a charter to transition from a representative town meeting system to a mayor\u2013council government in April 2017, and the municipality transitioned to city status on January 1, 2018."
+      "fact": "Residents voted in favor of adopting a charter to transition from a representative town meeting system to a mayor–council government in April 2017, and the municipality transitioned to city status on January 1, 2018."
     },
     {
       "cityName": "Franklin",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It also contains the largest Catholic parish in the Boston Archdiocese, St. Mary's Catholic church, with some 15000 members."
+      "fact": "It also contains the largest Catholic parish in the Boston Archdiocese, Saint Mary's Catholic church, with some 15000 members."
     },
     {
       "cityName": "Franklin",
@@ -2728,7 +3302,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The town once included the city of Fall River (1659\u20131803), and a portion of Acushnet (1659\u20131815)."
+      "fact": "The town once included the city of Fall River (1659–1803), and a portion of Acushnet (1659–1815)."
     },
     {
       "cityName": "Freetown",
@@ -2777,7 +3351,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Gilbertville Historic District and Ware\u2013Hardwick Covered Bridge, which traverses the Ware River, are within the village."
+      "fact": "The Gilbertville Historic District and Ware–Hardwick Covered Bridge, which traverses the Ware River, are within the village."
     },
     {
       "cityName": "Gill",
@@ -2843,6 +3417,34 @@
       "fact": "Incorporated in 1735, the town is home to a Nipmuc village known as Hassanamisco Reservation, the Willard House and Clock Museum, Community Harvest Project, and the Tufts University Cummings School of Veterinary Medicine."
     },
     {
+      "cityName": "Granby",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Granby is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Granby",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,110 at the 2020 census."
+    },
+    {
+      "cityName": "Granby",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Granby",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The census-designated place of Granby corresponds to the main village of Granby in the center of the town."
+    },
+    {
       "cityName": "Granville",
       "state": "MA",
       "source": "Wikipedia",
@@ -2854,7 +3456,7 @@
       "state": "MA",
       "source": "Wikidata",
       "factNumber": 1,
-      "fact": "W.E.B. Du Bois was born in Great Barrington."
+      "fact": "W.E.B Du Bois was born in Great Barrington."
     },
     {
       "cityName": "Great Barrington",
@@ -3018,6 +3620,20 @@
       "fact": "The area around the Hampshire and Mountain Farms Malls along Route 9 is a major shopping destination for the surrounding communities."
     },
     {
+      "cityName": "Halifax",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Halifax is a town in Plymouth County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,749 at the 2020 census."
+    },
+    {
       "cityName": "Hamilton",
       "state": "MA",
       "source": "Wikipedia",
@@ -3037,6 +3653,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The namesake of Hampden is John Hampden, an English patriot."
+    },
+    {
+      "cityName": "Hancock",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hancock is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hancock",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hancock",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 757 at the 2020 census."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hanover is a town in Plymouth County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hanover",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 14,833 at the 2020 census."
     },
     {
       "cityName": "Hanson",
@@ -3064,7 +3715,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is also home to St. Benedict Abbey, a traditionalist Catholic monastery, and for over seventy years was home to Harvard University's Oak Ridge Observatory, at one time the most extensively equipped observatory in the Eastern United States."
+      "fact": "It is also home to Saint Benedict Abbey, a traditionalist Catholic monastery, and for over seventy years was home to Harvard University's Oak Ridge Observatory, at one time the most extensively equipped observatory in the Eastern United States."
     },
     {
       "cityName": "Harvard",
@@ -3172,6 +3823,34 @@
       "fact": "Also, one of its popular mottos is \"Three Harbors, One Port,\" referencing to Saquatucket, Wychmere, and Allen Harbor, which are all located in Harwich Port."
     },
     {
+      "cityName": "Hatfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hatfield is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hatfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,352 at the 2020 census."
+    },
+    {
+      "cityName": "Hatfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hatfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The census-designated place of Hatfield consists of the town center and surrounding areas."
+    },
+    {
       "cityName": "Haverhill",
       "state": "MA",
       "source": "Wikipedia",
@@ -3191,6 +3870,48 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The population was 67,787 at the 2020 United States census."
+    },
+    {
+      "cityName": "Hawley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hawley is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hawley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 353 at the 2020 census."
+    },
+    {
+      "cityName": "Hawley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Heath",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Heath is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Heath",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 723 at the 2020 census."
+    },
+    {
+      "cityName": "Heath",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Hingham",
@@ -3214,6 +3935,27 @@
       "fact": "Part of the Greater Boston region, it is located on the South Shore of Massachusetts."
     },
     {
+      "cityName": "Hinsdale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hinsdale is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hinsdale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Metropolitan Statistical Area of Pittsfield, Massachusetts."
+    },
+    {
+      "cityName": "Hinsdale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,919 at the 2020 census."
+    },
+    {
       "cityName": "Holbrook",
       "state": "MA",
       "source": "Wikipedia",
@@ -3225,7 +3967,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was founded in 1741, on All Hallow\u2019s Eve and the Town Square (Center, Common) was donated by John Hancock, former Governor of Massachusetts."
+      "fact": "The town was founded in 1741, on All Hallow’s Eve and the Town Square (Center, Common) was donated by John Hancock, former Governor of Massachusetts."
     },
     {
       "cityName": "Holden",
@@ -3235,67 +3977,144 @@
       "fact": "It includes the village of Jefferson."
     },
     {
+      "cityName": "Holland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holland is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Holland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,603 at the 2020 census."
+    },
+    {
+      "cityName": "Holland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Holliston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holliston is a New England town in Middlesex County, Massachusetts, United States in the Greater Boston area."
+    },
+    {
+      "cityName": "Holliston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 14,996 at the 2020 census."
+    },
+    {
+      "cityName": "Holliston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located in MetroWest, a Massachusetts region that is west of Boston."
+    },
+    {
+      "cityName": "Holliston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Holliston is the only town in Middlesex County that borders both Norfolk and Worcester counties."
+    },
+    {
       "cityName": "Holyoke",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Holyoke is also home to the Volleyball Hall of Fame and known as the \"Birthplace of Volleyball\", as the internationally played Olympic sport was invented and first played at the local YMCA chapter by William G. Morgan in 1895."
+      "fact": "Holyoke is among the early planned industrial cities in the United States, built in tandem with the Holyoke Dam to utilize the water power of Hadley Falls."
     },
     {
       "cityName": "Holyoke",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "During the late 19th century the city produced an estimated 80% of the writing paper used in the United States and was home to the largest paper mill architectural firm in the country, as well as the largest paper, silk, and alpaca wool mills in the world."
+      "fact": "During the late 19th century the city produced an estimated 80% of the writing paper used in the United States and was home to the largest paper, silk, and alpaca wool mills in the world."
     },
     {
       "cityName": "Holyoke",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "While managing the Holyoke Testing Flume in the 1880s, hydraulic engineer Clemens Herschel invented the Venturi meter to determine the water use of individual mills in the Holyoke Canal System."
+      "fact": "Holyoke is home to the Volleyball Hall of Fame and known as the Birthplace of Volleyball, as the sport was invented and first played at the local YMCA by William G Morgan in 1895."
     },
     {
       "cityName": "Holyoke",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Although a considerably smaller number of businesses in Holyoke work in the paper industry today, it is still commonly referred to as \"The Paper City\"."
+      "fact": "Although a considerably smaller number of businesses in Holyoke work in the paper industry today, it is still commonly referred to as The Paper City."
     },
     {
-      "cityName": "Holyoke",
+      "cityName": "Hopedale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hopedale is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Hopedale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located 25 miles southwest of Boston, in eastern Massachusetts."
+    },
+    {
+      "cityName": "Hopedale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "With origins as a Christian utopian community, the town was later home to Draper Corporation, a large loom manufacturer throughout the 20th century until its closure in 1980."
+    },
+    {
+      "cityName": "Hopedale",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Today, Hopedale has become a bedroom community for professionals working in Greater Boston and is home to highly ranked public schools."
+    },
+    {
+      "cityName": "Hopedale",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Today the city contains a number of specialty manufacturing companies, as well as the Massachusetts Green High Performance Computing Center, an intercollegiate research facility which opened in 2012."
+      "fact": "The population was 6,017 as of the 2020 census."
     },
     {
-      "cityName": "Holyoke",
+      "cityName": "Hopedale",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "As of the 2020 census, the city had a population 38248."
+      "fact": "It contains the census-designated place of the same name."
     },
     {
-      "cityName": "Holyoke",
+      "cityName": "Hopkinton",
       "state": "MA",
       "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Holyoke is among the early planned industrial cities in the United States."
+      "factNumber": 1,
+      "fact": "Hopkinton is a town in Middlesex County, Massachusetts, United States, 25 miles (40 km) west of Boston."
     },
     {
-      "cityName": "Holyoke",
+      "cityName": "Hopkinton",
       "state": "MA",
       "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Built in tandem with the Holyoke Dam to utilize the water power of Hadley Falls, it is one of a handful of cities in New England built on the grid plan."
+      "factNumber": 2,
+      "fact": "The town is notable as the starting point of the Boston Marathon, held annually on Patriots' Day each April, and as the headquarters for the Dell EMC corporation."
     },
     {
-      "cityName": "Holyoke",
+      "cityName": "Hopkinton",
       "state": "MA",
       "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "This device, the first accurate means of measuring large-scale flows, is widely used in a number of engineering applications today, including waterworks and carburetors, as well as aviation instrumentation."
+      "factNumber": 3,
+      "fact": "As of the 2020 census, the town had a population of 18,758, a population growth rate faster than any other municipality in the commonwealth."
     },
     {
       "cityName": "Hubbardston",
@@ -3305,11 +4124,74 @@
       "fact": "As of the 2020 U S census, the town population was 4328."
     },
     {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hudson is a town in Middlesex County, Massachusetts, United States, with a total population of 20,092 as of the 2020 census."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Before its incorporation as a town in 1866, Hudson was a neighborhood and unincorporated village of Marlborough, Massachusetts, and was known as Feltonville."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "From approximately 1850 until the last shoe factory burned down in 1968, Hudson was a mill town specializing in the production of shoes and related products."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "At one point, the town had 17 shoe factories, many of them powered by the Assabet River, which runs through town."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The many factories in Hudson attracted immigrants from Canada and Europe."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Today most residents are of either Portuguese or Irish descent, with a smaller percentage being of French, Italian, English, or Scotch-Irish descent."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "While some manufacturing remains in Hudson, the town is now primarily residential."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Hudson is served by the Hudson Public Schools district."
+    },
+    {
       "cityName": "Hull",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hull is home to the popular resort community of Nantasket Beach and has been the summer home to several luminaries throughout the years, including Calvin Coolidge and former Boston mayor John F. Fitzgerald (also known as \"Honey Fitz\"), the father of Rose Kennedy and grandfather of John F. Kennedy."
+      "fact": "Hull is home to the popular resort community of Nantasket Beach and has been the summer home to several luminaries throughout the years, including Calvin Coolidge and former Boston mayor John F Fitzgerald (also known as \"Honey Fitz\"), the father of Rose Kennedy and grandfather of John F Kennedy."
     },
     {
       "cityName": "Hull",
@@ -3526,7 +4408,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "John F. Kennedy's great-grandfather was one of many Irish people to immigrate to East Boston, and the Kennedy family lived there for some time."
+      "fact": "John F Kennedy's great-grandfather was one of many Irish people to immigrate to East Boston, and the Kennedy family lived there for some time."
     },
     {
       "cityName": "Jeffries Point",
@@ -3548,6 +4430,27 @@
       "source": "Wikipedia",
       "factNumber": 9,
       "fact": "Since the 1990s, the neighborhood witnessed growing numbers of Latin American immigrants, who have come to make up over fifty percent of the population according to the 2020 Census data."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kingston is a coastal town in Plymouth County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 13,708 at the 2020 census."
+    },
+    {
+      "cityName": "Kingston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
     },
     {
       "cityName": "Lakeville",
@@ -3578,6 +4481,27 @@
       "fact": "It contains the village of South Lancaster."
     },
     {
+      "cityName": "Lanesboro",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lanesborough is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Lanesboro",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lanesboro",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 3,038 at the 2020 census."
+    },
+    {
       "cityName": "Lawrence",
       "state": "MA",
       "source": "Wikidata",
@@ -3589,42 +4513,105 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lawrence is also the birthplace of composer and conductor Leonard Bernstein in 1918, and singer Robert Goulet in 1933."
+      "fact": "Lawrence is part of the Merrimack Valley, and was one of the first planned industrial cities in America."
     },
     {
       "cityName": "Lawrence",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Manufacturing products of the city include electronic equipment, textiles, footwear, paper products, computers, and foodstuffs."
-    },
-    {
-      "cityName": "Lawrence",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Lawrence is part of the Merrimack Valley."
-    },
-    {
-      "cityName": "Lawrence",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Surrounding communities include Methuen to the north, Andover to the southwest, and North Andover to the east."
-    },
-    {
-      "cityName": "Lawrence",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 5,
       "fact": "Lawrence and Salem were the county seats of Essex County, until the state abolished county government in 1999."
     },
     {
       "cityName": "Lawrence",
       "state": "MA",
       "source": "Wikipedia",
-      "factNumber": 6,
+      "factNumber": 3,
+      "fact": "Lawrence is the birthplace of composer and conductor Leonard Bernstein in 1918, and singer Robert Goulet in 1933."
+    },
+    {
+      "cityName": "Lawrence",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
       "fact": "Lawrence was the residence of the poet Robert Frost for his early school years; his essays and poems were first published in the Lawrence High School newspaper."
+    },
+    {
+      "cityName": "Lee",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lee is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Lee",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts, metropolitan statistical area."
+    },
+    {
+      "cityName": "Lee",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 5,788 at the 2020 census."
+    },
+    {
+      "cityName": "Lee",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lee, which includes the villages of South and East Lee and the census-designated place of Lee, is part of the Berkshires resort area."
+    },
+    {
+      "cityName": "Leicester",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leicester is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Leicester",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,087 at the 2020 United States census."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lenox is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is in Western Massachusetts and part of the Pittsfield Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 5,095 at the 2020 census."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Lenox is the site of Shakespeare & Company and Tanglewood, summer home of the Boston Symphony Orchestra."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Lenox includes the villages of New Lenox and Lenox Dale and the census-designated place of Lenox, and is a tourist destination during the summer."
     },
     {
       "cityName": "Leominster",
@@ -3655,6 +4642,27 @@
       "fact": "Leominster is bounded by Fitchburg and Lunenburg to the north, Lancaster to the east, Sterling and Princeton to the south, and Westminster to the west."
     },
     {
+      "cityName": "Leverett",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leverett is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Leverett",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,865 as of the 2020 census."
+    },
+    {
+      "cityName": "Leverett",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Lexington",
       "state": "MA",
       "source": "Wikipedia",
@@ -3683,11 +4691,67 @@
       "fact": "1642 as a farming community."
     },
     {
+      "cityName": "Leyden",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leyden is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Leyden",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 734 at the 2020 census."
+    },
+    {
+      "cityName": "Leyden",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Lincoln",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town, located in the MetroWest region of Boston's suburbs, has a large amount of colonial history and a sizeable amount of public conservation land."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Littleton is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 10,141 at the 2020 census."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of Littleton Common."
+    },
+    {
+      "cityName": "Longmeadow",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Longmeadow is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Longmeadow",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 15,853 at the 2020 census."
     },
     {
       "cityName": "Lowell",
@@ -3729,7 +4793,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "During the Cambodian genocide (1975\u20131979), the city took in an influx of refugees, leading to a Cambodia Town and America's second-largest Cambodian-American population."
+      "fact": "During the Cambodian genocide (1975–1979), the city took in an influx of refugees, leading to a Cambodia Town and America's second-largest Cambodian-American population."
     },
     {
       "cityName": "Lowell",
@@ -3757,7 +4821,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "The city has a baseball stadium, Edward A. LeLacheur Park, and a multipurpose indoor sports arena, the Tsongas Center, both of which have hosted collegiate and minor-league professional sports teams."
+      "fact": "The city has a baseball stadium, Edward A LeLacheur Park, and a multipurpose indoor sports arena, the Tsongas Center, both of which have hosted collegiate and minor-league professional sports teams."
     },
     {
       "cityName": "Lowell",
@@ -3779,6 +4843,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It has a sizable and visible Portuguese and Polish community."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lunenburg is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,782 at the 2020 census."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
     },
     {
       "cityName": "Lynn",
@@ -3835,6 +4920,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "At the time of the 2020 U S census, the population was 66263 people."
+    },
+    {
+      "cityName": "Manchester-by-the-Sea",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manchester-by-the-Sea is a coastal town on Cape Ann, in Essex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Manchester-by-the-Sea",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is known for scenic beaches and vista points."
+    },
+    {
+      "cityName": "Manchester-by-the-Sea",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the 2020 population census, the population is 5,395."
     },
     {
       "cityName": "Mansfield",
@@ -3960,7 +5066,21 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Marlborough was declared a town in 1660, and was incorporated as a city in 1890 when it changed its municipal charter from a New England town meeting system to a mayor\u2013council government."
+      "fact": "Marlborough was declared a town in 1660, and was incorporated as a city in 1890 when it changed its municipal charter from a New England town meeting system to a mayor–council government."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshfield is a town in Plymouth County, Massachusetts, United States, on Massachusetts's South Shore."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 25,825 at the 2020 census."
     },
     {
       "cityName": "Marstons Mills",
@@ -3981,7 +5101,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is the historic and contemporary home of the Mashpee Wampanoag Tribe\u2014federally recognized in 2007\u2014which maintains its headquarters in Mashpee."
+      "fact": "The town is the historic and contemporary home of the Mashpee Wampanoag Tribe—federally recognized in 2007—which maintains its headquarters in Mashpee."
     },
     {
       "cityName": "Mashpee",
@@ -4094,6 +5214,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Mattapoisett Center is located in the town."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maynard is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located 22 miles west of Boston, in the MetroWest and Greater Boston region of Massachusetts and borders Acton, Concord, Stow and Sudbury."
+    },
+    {
+      "cityName": "Maynard",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town's population was 10,746 as of the 2020 United States Census."
     },
     {
       "cityName": "Medfield",
@@ -4229,6 +5370,41 @@
       "fact": "In 2015, approximately 1400 acres (570 ha) of the town were used to grow the crop, accounting for 3% of all land used to harvest cranberry bogs in the United States."
     },
     {
+      "cityName": "Middlefield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middlefield is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Middlefield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 385 at the 2020 census."
+    },
+    {
+      "cityName": "Middlefield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middleton is a town in Essex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Middleton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,779 at the 2020 census."
+    },
+    {
       "cityName": "Milford",
       "state": "MA",
       "source": "Wikipedia",
@@ -4262,6 +5438,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Massachusetts state routes 109 and 115 run through Millis."
+    },
+    {
+      "cityName": "Millville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Millville is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Millville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,174 at the 2020 census."
+    },
+    {
+      "cityName": "Millville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Providence metropolitan area."
     },
     {
       "cityName": "Milton",
@@ -4311,6 +5508,111 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "This makes it the smallest town by population in mainland Massachusetts."
+    },
+    {
+      "cityName": "Monson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monson is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Monson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,150 at the 2020 census."
+    },
+    {
+      "cityName": "Monson",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Montague",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montague is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Montague",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,580 at the 2020 census."
+    },
+    {
+      "cityName": "Montague",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts metropolitan statistical area."
+    },
+    {
+      "cityName": "Monterey",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monterey is a small town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Monterey",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Monterey",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,095 at the 2020 census."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montgomery is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 819 at the 2020 census."
+    },
+    {
+      "cityName": "Montgomery",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mount Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Washington is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Mount Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mount Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It lies at the very southwestern corner of Massachusetts, bordering New York State and Salisbury, Connecticut."
     },
     {
       "cityName": "Nahant",
@@ -4387,7 +5689,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Massachusetts's center of population was in Natick at the censuses of 2000\u20132020, most recently in the vicinity of Hunters Lane."
+      "fact": "Massachusetts's center of population was in Natick at the censuses of 2000–2020, most recently in the vicinity of Hunters Lane."
     },
     {
       "cityName": "Needham",
@@ -4408,7 +5710,28 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It\u2019s also home to 4 commuter rail stations along the Needham Line."
+      "fact": "It’s also home to 4 commuter rail stations along the Needham Line."
+    },
+    {
+      "cityName": "New Ashford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Ashford is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "New Ashford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "New Ashford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 250 at the 2020 census."
     },
     {
       "cityName": "New Bedford",
@@ -4439,11 +5762,46 @@
       "fact": "It is the second-largest city in the Providence metropolitan area and included in the greater Boston combined statistical area."
     },
     {
+      "cityName": "New Braintree",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Braintree is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "New Braintree",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 996 at the 2020 census."
+    },
+    {
       "cityName": "New Marlboro",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "New Marlborough consists of five villages: Clayton, Hartsville, Mill River, New Marlborough Village and Southfield."
+    },
+    {
+      "cityName": "New Salem",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Salem is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "New Salem",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 983 at the 2020 census."
+    },
+    {
+      "cityName": "New Salem",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Newbury",
@@ -4499,7 +5857,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Newburyport is on a major north\u2013south highway, Interstate 95."
+      "fact": "Newburyport is on a major north–south highway, Interstate 95."
     },
     {
       "cityName": "Newburyport",
@@ -4737,7 +6095,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "North Amherst is located in the northern part of the city of Amherst at 42\u00b024\u203222\u2033N 72\u00b031\u203216\u2033W (42.406192, -72.521217)."
+      "fact": "North Amherst is located in the northern part of the city of Amherst at 42°24′22″N 72°31′16″W (42.406192, -72.521217)."
     },
     {
       "cityName": "North Amherst",
@@ -4745,6 +6103,20 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "It is bordered to the south by the Amherst Center CDP and to the southwest by the town of Hadley."
+    },
+    {
+      "cityName": "North Andover",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Andover is a town in Essex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "North Andover",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 30,915."
     },
     {
       "cityName": "North Attleboro",
@@ -4782,11 +6154,32 @@
       "fact": "It is the home to Faulkner and Talbot mills and the North Billerica Train Depot."
     },
     {
+      "cityName": "North Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Brookfield is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "North Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,735 at the 2020 census."
+    },
+    {
+      "cityName": "North Brookfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town includes the census-designated place of North Brookfield (CDP)."
+    },
+    {
       "cityName": "North Chelmsford",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "North Chelmsford's separate identity, though not a seriously debated issue, is still a topic of discussion\u2014the Lowell Sun ran an article on August 7, 2005, titled \"Chelmsford's civil war still raging on.\""
+      "fact": "North Chelmsford's separate identity, though not a seriously debated issue, is still a topic of discussion—the Lowell Sun ran an article on August 7, 2005, titled \"Chelmsford's civil war still raging on.\""
     },
     {
       "cityName": "North Chelmsford",
@@ -4842,7 +6235,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Additionally, unlike in other Northeastern cities, Springfield has been fortunate in that rather than leaving the area once adequate buying power is achieved (as has happened in many areas of California, for example), Springfield's Latino residents have chosen to stay\u2014and even to further increase."
+      "fact": "Additionally, unlike in other Northeastern cities, Springfield has been fortunate in that rather than leaving the area once adequate buying power is achieved (as has happened in many areas of California, for example), Springfield's Latino residents have chosen to stay—and even to further increase."
     },
     {
       "cityName": "North End",
@@ -4870,7 +6263,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "As of 2011, the contemporary Puerto Rican flavor of the North End is evident in numerous banners depicting traditional Carnival masks and the coqu\u00ed, Puerto Rico's unofficial mascot."
+      "fact": "As of 2011, the contemporary Puerto Rican flavor of the North End is evident in numerous banners depicting traditional Carnival masks and the coquí, Puerto Rico's unofficial mascot."
     },
     {
       "cityName": "North End",
@@ -4929,76 +6322,6 @@
       "fact": "It was formerly known as Gannet Corner."
     },
     {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 1,
-      "fact": "North Truro is located at 42\u00b003\u203235\u2033N 70\u00b008\u203231\u2033W. Over half of the land area of the town is part of the Cape Cod National Seashore (the area shown in green on the map), established in 1961 by President John F. Kennedy, and administered by the U S National Park Service."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "North Truro is also home to Highlands Links Golf Course, Massachusetts's oldest links course."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Due to its proximity to urbanized Provincetown, it is somewhat more densely developed than the rest of the town, with houses and small resort facilities lining the two main thoroughfares, U S Route 6 and MA Route 6A."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Pilgrim Lake) is a prominent feature while passing through on the main highway, Route 6."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "It is home to Truro Vineyards, one of two operating wineries (the other is in Falmouth) on Cape Cod."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "The large impoundment of East Harbor (a.k.a."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "From December 1969 until early 1970, North Truro was the location of Operation Have Horn, the launching of sounding rockets under project Nike-Hydac."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "On completion of the operation, the used devices were returned to the White Sands Missile Range."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "These experiments were conducted at the now closed North Truro Air Force Station."
-    },
-    {
-      "cityName": "North Truro",
-      "state": "MA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "The course runs along the highland cliffs on the Atlantic coast, and encompasses the Highland Light."
-    },
-    {
       "cityName": "Northampton",
       "state": "MA",
       "source": "Wikipedia",
@@ -5010,7 +6333,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Northampton is part of the Pioneer Valley and is one of the northernmost cities in the Knowledge Corridor\u2014a cross-state cultural and economic partnership with other Connecticut River Valley cities and towns."
+      "fact": "Northampton is part of the Pioneer Valley and is one of the northernmost cities in the Knowledge Corridor—a cross-state cultural and economic partnership with other Connecticut River Valley cities and towns."
     },
     {
       "cityName": "Northampton",
@@ -5045,7 +6368,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Based on U S Census demographics, election returns, and other criteria, the website Epodunk rates Northampton as the most politically liberal medium-size city (population 25000\u201399000) in the United States."
+      "fact": "Based on U S Census demographics, election returns, and other criteria, the website Epodunk rates Northampton as the most politically liberal medium-size city (population 25000–99000) in the United States."
     },
     {
       "cityName": "Northboro",
@@ -5053,6 +6376,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The official spelling of the town's name is \"Northborough,\" but the alternative spelling \"Northboro\" is also used."
+    },
+    {
+      "cityName": "Northbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,335 at the 2020 census."
+    },
+    {
+      "cityName": "Northbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Northbridge Town Hall is located at 7 Main Street in Whitinsville."
+    },
+    {
+      "cityName": "Northbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is now a part of the Blackstone River Valley National Heritage Corridor, of the National Park Service."
     },
     {
       "cityName": "Northfield",
@@ -5125,6 +6469,55 @@
       "fact": "It is one of the island's principal points of arrival for summer tourists, and is noted for its \"gingerbread cottages\" and other well-preserved mid- to late-nineteenth-century buildings."
     },
     {
+      "cityName": "Oakham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakham is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Oakham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,851 at the 2020 census."
+    },
+    {
+      "cityName": "Orange",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orange is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Orange",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,569 at the 2020 census."
+    },
+    {
+      "cityName": "Orange",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orleans is a town on Cape Cod in Massachusetts."
+    },
+    {
+      "cityName": "Orleans",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,307 at the 2020 census."
+    },
+    {
       "cityName": "Osterville",
       "state": "MA",
       "source": "Wikipedia",
@@ -5144,6 +6537,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The village of Osterville is located on the south side of Barnstable on Nantucket Sound."
+    },
+    {
+      "cityName": "Otis",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otis is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Otis",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Otis",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,634 at the 2020 census."
     },
     {
       "cityName": "Oxford",
@@ -5172,6 +6586,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Palmer is one of thirteen Massachusetts municipalities that have city forms of government but retain \"The town of\" in their official names."
+    },
+    {
+      "cityName": "Paxton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Paxton is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Paxton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,004 at the 2020 census."
     },
     {
       "cityName": "Peabody",
@@ -5213,7 +6641,21 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The library has a collection of Sidney M. Shattuck's (1876\u20131917) stuffed birds."
+      "fact": "The library has a collection of Sidney M Shattuck's (1876–1917) stuffed birds."
+    },
+    {
+      "cityName": "Peru",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peru is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Peru",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 814 at the 2020 census."
     },
     {
       "cityName": "Petersham",
@@ -5221,6 +6663,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Petersham is home to a considerable amount of conservation land, including the Quabbin Reservation, Harvard Forest, the Swift River Reservation, and Federated Women's Club State Forest."
+    },
+    {
+      "cityName": "Phillipston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Phillipston is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Phillipston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,724 at the 2020 census."
     },
     {
       "cityName": "Pinehurst",
@@ -5241,7 +6697,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Pittsfield\u2019s population was 43927 at the 2020 census."
+      "fact": "Pittsfield’s population was 43927 at the 2020 census."
     },
     {
       "cityName": "Pittsfield",
@@ -5249,6 +6705,104 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "In 2017, the Arts Vibrancy Index compiled by the National Center for Arts Research ranked Pittsfield and Berkshire County as the number-one medium-sized community in the nation for the arts."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plainfield is a town on the northwestern edge of Hampshire County, Massachusetts, United States, about 25 miles east of Pittsfield and 30 miles northwest of Northampton."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 633 at the 2020 census."
+    },
+    {
+      "cityName": "Plainfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plainville is a town in Norfolk County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,945 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Plainville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Plainville is part of the Boston and Providence metropolitan areas."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plymouth is a town in and the county seat of Plymouth County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in Greater Boston, the town holds a place of great prominence in American history, folklore, and culture, and is known as \"America's Hometown\"."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Plymouth was the site of the colony founded in 1620 by the Mayflower Pilgrims, where New England was first established."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is the oldest municipality in New England and one of the oldest in the United States."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town has served as the location of several prominent events, one of the more notable being the First Thanksgiving feast."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Plymouth served as the capital of Plymouth Colony from its founding in 1620 until the colony's merger with the Massachusetts Bay Colony in 1691."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The English explorer John Smith named the area Plymouth and the region 'New England' during his voyage of 1614."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "It was a later coincidence that, after an aborted attempt to make the 1620 trans-Atlantic crossing from Southampton, the Mayflower finally set sail for America from Plymouth, England."
     },
     {
       "cityName": "Plympton",
@@ -5304,7 +6858,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Known as the \"City of Presidents\", Quincy is the birthplace of two U S presidents\u2014John Adams and his son John Quincy Adams\u2014as well as John Hancock, the first signer of the Declaration of Independence and the first and third governor of Massachusetts."
+      "fact": "Known as the \"City of Presidents\", Quincy is the birthplace of two U S presidents—John Adams and his son John Quincy Adams—as well as John Hancock, the first signer of the Declaration of Independence and the first and third governor of Massachusetts."
     },
     {
       "cityName": "Quincy",
@@ -5384,6 +6938,20 @@
       "fact": "It has one village, Raynham Center."
     },
     {
+      "cityName": "Reading",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reading is a town in Middlesex County, Massachusetts, United States, 16 miles (26 km) north of central Boston."
+    },
+    {
+      "cityName": "Reading",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 25,518 at the 2020 census."
+    },
+    {
       "cityName": "Rehoboth",
       "state": "MA",
       "source": "Wikipedia",
@@ -5461,6 +7029,27 @@
       "fact": "It was incorporated as the City of Revere with the inauguration of its first mayor on January 4, 1915."
     },
     {
+      "cityName": "Richmond",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Richmond is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,407 at the 2020 census."
+    },
+    {
       "cityName": "Rochester",
       "state": "MA",
       "source": "Wikipedia",
@@ -5487,6 +7076,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Rockport borders Gloucester to its west, and is surrounded by the Atlantic Ocean in all other directions."
+    },
+    {
+      "cityName": "Rowe",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rowe is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Rowe",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 424 at the 2020 census."
+    },
+    {
+      "cityName": "Rowley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rowley is a town in Essex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Rowley",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,161 at the 2020 census."
     },
     {
       "cityName": "Roxbury",
@@ -5550,6 +7167,41 @@
       "source": "Wikipedia",
       "factNumber": 9,
       "fact": "When it was a separate municipality, Roxbury was in Suffolk County until it was added to the newly created Norfolk County in 1793; when it was incorporated into Boston, it returned to Suffolk County."
+    },
+    {
+      "cityName": "Royalston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Royalston is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Royalston",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,250 at the 2020 census."
+    },
+    {
+      "cityName": "Russell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Russell is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Russell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,643 at the 2020 census."
+    },
+    {
+      "cityName": "Russell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Rutland",
@@ -5657,6 +7309,27 @@
       "fact": "It is home to the new Salisbury Beach Boardwalk, full of souvenir shops, restaurants, cafes, arcades and panoramic views of the Atlantic Ocean."
     },
     {
+      "cityName": "Sandisfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sandisfield is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Sandisfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sandisfield",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 989 at the 2020 census."
+    },
+    {
       "cityName": "Sandwich",
       "state": "MA",
       "source": "Wikipedia",
@@ -5711,6 +7384,41 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "The club is located off Morrissey Boulevard, a main artery in the area."
+    },
+    {
+      "cityName": "Savoy",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Savoy is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Savoy",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Savoy",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 645 at the 2020 census."
+    },
+    {
+      "cityName": "Scituate",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scituate is a seacoast town in Plymouth County, Massachusetts, United States, on the South Shore, midway between Boston and Plymouth."
+    },
+    {
+      "cityName": "Scituate",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 19,063 at the 2020 census."
     },
     {
       "cityName": "Seekonk",
@@ -5794,7 +7502,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is home to the Massachusetts Correctional Institution \u2013 Shirley, a medium-security state prison."
+      "fact": "It is home to the Massachusetts Correctional Institution – Shirley, a medium-security state prison."
     },
     {
       "cityName": "Shirley",
@@ -5816,6 +7524,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town is governed under the New England representative town meeting system, headed by the Town Manager and five-member elected Select Board."
+    },
+    {
+      "cityName": "Shutesbury",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shutesbury is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Shutesbury",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,717 at the 2020 census."
+    },
+    {
+      "cityName": "Shutesbury",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield metropolitan area, Massachusetts."
     },
     {
       "cityName": "Somerset",
@@ -5860,6 +7589,13 @@
       "fact": "In 1972, 2009, and 2015, the city received the All-America City Award."
     },
     {
+      "cityName": "Somerville",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Somerville's Winter Hill neighborhood was the base of the Winter Hill Gang, a notorious organized crime group led by Whitey Bulger and Howie Winter from the 1960s through the 1990s."
+    },
+    {
       "cityName": "South Attleboro",
       "state": "MA",
       "source": "Wikipedia",
@@ -5892,7 +7628,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "South Attleboro is home to two schools: Robert J. Coelho Middle School and Hill Roberts Elementary School."
+      "fact": "South Attleboro is home to two schools: Robert J Coelho Middle School and Hill Roberts Elementary School."
     },
     {
       "cityName": "South Attleboro",
@@ -5913,7 +7649,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Depending on the boundaries, South Attleboro is home to approximately 7\u201310 thousand people."
+      "fact": "Depending on the boundaries, South Attleboro is home to approximately 7–10 thousand people."
     },
     {
       "cityName": "South Boston",
@@ -5969,7 +7705,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "South Boston is also home to the St. Patrick's Day Parade, a celebration of the Irish-American culture and the Evacuation Day observance."
+      "fact": "South Boston is also home to the Saint Patrick's Day Parade, a celebration of the Irish-American culture and the Evacuation Day observance."
     },
     {
       "cityName": "South Easton",
@@ -6140,11 +7876,67 @@
       "fact": "Light industrial land use is concentrated along main roads, primarily Massachusetts Route 9, and there are several small business districts in the villages and along Route 9."
     },
     {
+      "cityName": "Southbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southbridge is a city in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Southbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 17,740 at the 2020 census."
+    },
+    {
+      "cityName": "Southbridge",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Although Southbridge has a city form of government, it is legally known as the Town of Southbridge."
+    },
+    {
+      "cityName": "Southwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Southwick is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Southwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,232 at the 2020 census, down from 9,502 at the 2010 census."
+    },
+    {
+      "cityName": "Southwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Spencer is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,992 at the 2020 census."
+    },
+    {
       "cityName": "Springfield",
       "state": "MA",
       "source": "Wikidata",
       "factNumber": 1,
-      "fact": "Dr. Seuss was born in Springfield."
+      "fact": "Doctor Seuss was born in Springfield."
     },
     {
       "cityName": "Springfield",
@@ -6158,7 +7950,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Closing during the Lyndon B. Johnson administration, today the national park site features the largest collection of historic American firearms in the world."
+      "fact": "Closing during the Lyndon B Johnson administration, today the national park site features the largest collection of historic American firearms in the world."
     },
     {
       "cityName": "Springfield",
@@ -6172,7 +7964,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The Hartford\u2013Springfield region is known as the Knowledge Corridor because it hosts over 160000 university students and over 32 universities and liberal arts colleges\u2014the second-highest concentration of higher-learning institutions in the United States."
+      "fact": "The Hartford–Springfield region is known as the Knowledge Corridor because it hosts over 160000 university students and over 32 universities and liberal arts colleges—the second-highest concentration of higher-learning institutions in the United States."
     },
     {
       "cityName": "Springfield",
@@ -6217,6 +8009,20 @@
       "fact": "Subsequently it was the site of Shays' Rebellion."
     },
     {
+      "cityName": "Sterling",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sterling is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Sterling",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,985 at the 2020 census."
+    },
+    {
       "cityName": "Stockbridge",
       "state": "MA",
       "source": "Wikipedia",
@@ -6243,6 +8049,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Its population was 23244 at the 2020 census."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stoughton is a town in Norfolk County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 29,281 at the 2020 census."
+    },
+    {
+      "cityName": "Stoughton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located approximately 17 miles (27 km) from Boston, 31 miles (50 km) from Providence, Rhode Island, and 35 miles (56 km) from Cape Cod."
     },
     {
       "cityName": "Stow",
@@ -6287,6 +8114,27 @@
       "fact": "The town, located in Greater Boston's MetroWest region, has a colonial history."
     },
     {
+      "cityName": "Sunderland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunderland is a town in Franklin County, Massachusetts, United States, part of the Pioneer Valley."
+    },
+    {
+      "cityName": "Sunderland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,663 at the 2020 census."
+    },
+    {
+      "cityName": "Sunderland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Sutton",
       "state": "MA",
       "source": "Wikipedia",
@@ -6319,7 +8167,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Taunton is also known as the \"Silver City\", as it was a historic center of the silver industry beginning in the 19th century when companies such as Reed & Barton, F. B. Rogers, Poole Silver, and others produced fine-quality silver goods in the city."
+      "fact": "Taunton is also known as the \"Silver City\", as it was a historic center of the silver industry beginning in the 19th century when companies such as Reed & Barton, F B Rogers, Poole Silver, and others produced fine-quality silver goods in the city."
     },
     {
       "cityName": "Taunton",
@@ -6441,6 +8289,27 @@
       "fact": "Vineyard Haven in Tisbury is the main port of entrance to Martha's Vineyard, and is the only operational port on the island during most of the year."
     },
     {
+      "cityName": "Tolland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tolland is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Tolland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tolland",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 471 at the 2020 census, making it the smallest town in Hampden County by population."
+    },
+    {
       "cityName": "Topsfield",
       "state": "MA",
       "source": "Wikipedia",
@@ -6448,11 +8317,32 @@
       "fact": "Topsfield is located in the North Shore region of Massachusetts."
     },
     {
+      "cityName": "Townsend",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Townsend is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 9,127 at the 2020 census."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Truro",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Over half of the land area of the town is part of the Cape Cod National Seashore, established in 1961 by President John F. Kennedy, and administered by the U S National Park Service."
+      "fact": "Over half of the land area of the town is part of the Cape Cod National Seashore, established in 1961 by President John F Kennedy, and administered by the U S National Park Service."
     },
     {
       "cityName": "Truro",
@@ -6511,6 +8401,27 @@
       "fact": "By its location, the town serves as a suburb of neighboring cities such as Nashua, New Hampshire and Lowell, Massachusetts."
     },
     {
+      "cityName": "Tyringham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tyringham is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Tyringham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Tyringham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 427 at the 2020 census."
+    },
+    {
       "cityName": "Upton",
       "state": "MA",
       "source": "Wikipedia",
@@ -6550,7 +8461,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Indigenous Nipmuc people near \"Wacentug\" or \u201cWaentug\u201d (river bend), deeded land to 17th-century settlers."
+      "fact": "Indigenous Nipmuc people near \"Wacentug\" or “Waentug” (river bend), deeded land to 17th-century settlers."
     },
     {
       "cityName": "Uxbridge",
@@ -6606,7 +8517,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "By the 19th century, it was more commonly spelled \"Holmes Hole\", after the descendants of John Holmes (1730\u20131812), who had settled in the village during the second half of the 18th century."
+      "fact": "By the 19th century, it was more commonly spelled \"Holmes Hole\", after the descendants of John Holmes (1730–1812), who had settled in the village during the second half of the 18th century."
     },
     {
       "cityName": "Vineyard Haven",
@@ -6656,6 +8567,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Wakefield's population was 27090 at the 2020 census."
+    },
+    {
+      "cityName": "Wales",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wales is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Wales",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,838 at the 2020 census."
+    },
+    {
+      "cityName": "Wales",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Walpole",
@@ -6749,11 +8681,53 @@
       "fact": "The town contains the villages of Warren and West Warren."
     },
     {
+      "cityName": "Warwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warwick is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Warwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 780 at the 2020 census."
+    },
+    {
+      "cityName": "Warwick",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washington is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsfield, Massachusetts, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Washington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 494 at the 2020 census."
+    },
+    {
       "cityName": "Watertown",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is home to the Perkins School for the Blind, the Armenian Library and Museum of America, and the historic Watertown Arsenal, which produced military armaments from 1816 through World War II."
+      "fact": "The city is home to the Perkins School for the Blind, the Armenian Library and Museum of America, and the historic Watertown Arsenal, which produced military armaments from 1816 through World War 2."
     },
     {
       "cityName": "Watertown",
@@ -6854,6 +8828,41 @@
       "fact": "The town had a population of 3566 at the 2020 United States census, which swells nearly sixfold during the summer."
     },
     {
+      "cityName": "Wendell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wendell is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Wendell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 924 at the 2020 census."
+    },
+    {
+      "cityName": "Wendell",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wenham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wenham is a town in Essex County, Massachusetts."
+    },
+    {
+      "cityName": "Wenham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,979 at the time of the 2020 census."
+    },
+    {
       "cityName": "West Barnstable",
       "state": "MA",
       "source": "Wikipedia",
@@ -6880,6 +8889,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Although the town was split off from Boylston, it has a larger population than its eastern namesake."
+    },
+    {
+      "cityName": "West Bridgewater",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Bridgewater is a town in Plymouth County, Massachusetts, United States."
+    },
+    {
+      "cityName": "West Bridgewater",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,707 at the 2020 census."
     },
     {
       "cityName": "West Brookfield",
@@ -6966,6 +8989,55 @@
       "fact": "Westfield was first settled by Europeans in 1660."
     },
     {
+      "cityName": "Westford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westford is a town in Middlesex County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Westford",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was at 24,643 at the time of the 2020 Census."
+    },
+    {
+      "cityName": "Westhampton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westhampton is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Westhampton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,622 at the 2020 census."
+    },
+    {
+      "cityName": "Westhampton",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westminster is a town in Worcester County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the town population was 8,213."
+    },
+    {
       "cityName": "Weston",
       "state": "MA",
       "source": "Wikipedia",
@@ -7036,6 +9108,20 @@
       "fact": "This area is cut off from the rest of Massachusetts by water and Rhode Island."
     },
     {
+      "cityName": "Westwood",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westwood is a town in Norfolk County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Westwood",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 16,266 at the 2020 United States census."
+    },
+    {
       "cityName": "Weymouth",
       "state": "MA",
       "source": "Wikidata",
@@ -7071,11 +9157,32 @@
       "fact": "It also had a crime rate of 12.42 per 1000 residents."
     },
     {
+      "cityName": "Whately",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whately is a town in Franklin County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Whately",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,607 at the 2020 census."
+    },
+    {
+      "cityName": "Whately",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Whitinsville",
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Whitinsville has been designated as a mill village of national historic significance to America's earliest industrialization, and is one of only four villages selected by the John H. Chaffee Blackstone River Valley National Historic Corridor Commission to receive this designation."
+      "fact": "Whitinsville has been designated as a mill village of national historic significance to America's earliest industrialization, and is one of only four villages selected by the John H Chaffee Blackstone River Valley National Historic Corridor Commission to receive this designation."
     },
     {
       "cityName": "Whitinsville",
@@ -7104,6 +9211,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The chocolate chip cookie was invented in Whitman by Ruth Graves Wakefield at the Toll House Inn."
+    },
+    {
+      "cityName": "Wilbraham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilbraham is a town in Hampden County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Wilbraham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb of the City of Springfield, and part of the Springfield Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wilbraham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 14,613 at the 2020 census."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Williamsburg is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,504 at the 2020 census."
+    },
+    {
+      "cityName": "Williamsburg",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
     },
     {
       "cityName": "Williamstown",
@@ -7160,6 +9309,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is also one of the wealthiest municipalities in Massachusetts."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windsor is a town in Berkshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Metropolitan Statistical Area of Pittsfield, Massachusetts."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 831 at the 2020 census."
     },
     {
       "cityName": "Winter Hill",
@@ -7278,7 +9448,7 @@
       "state": "MA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "After World War II, manufacturing in Worcester waned, and the city declined economically and in terms of population."
+      "fact": "After World War 2, manufacturing in Worcester waned, and the city declined economically and in terms of population."
     },
     {
       "cityName": "Worcester",
@@ -7342,6 +9512,41 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Since the 1970s, and especially since the construction of Route 146 and interstates 90, 495, 190, 290, and 395, both Worcester and its surrounding towns have become more integrated with Boston's suburbs."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Worthington is a town in Hampshire County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,193 at the 2020 census, up from 1,156 at the 2010 census."
+    },
+    {
+      "cityName": "Worthington",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Springfield, Massachusetts Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wrentham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wrentham is a town in Norfolk County, Massachusetts, United States."
+    },
+    {
+      "cityName": "Wrentham",
+      "state": "MA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 12,178 at the 2020 census."
     },
     {
       "cityName": "Yarmouth",

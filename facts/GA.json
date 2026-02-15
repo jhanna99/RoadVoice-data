@@ -117,7 +117,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "From the mid-20th century, it received military investment during World War II and after, that helped develop the region."
+      "fact": "From the mid-20th century, it received military investment during World War 2 and after, that helped develop the region."
     },
     {
       "cityName": "Albany",
@@ -230,6 +230,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 U S census, Alpharetta's population was 65818; in 2010, the population had been 57551."
+    },
+    {
+      "cityName": "Alston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Alston is a town in Montgomery County, Georgia, United States, with a population of 178 at the 2020 census."
     },
     {
       "cityName": "Alto",
@@ -362,7 +369,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Richard B. Russell Airport is in Armuchee."
+      "fact": "The Richard B Russell Airport is in Armuchee."
     },
     {
       "cityName": "Arnoldsville",
@@ -404,77 +411,28 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Athens is a consolidated city-county in the U.S."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "Downtown Athens lies about 70 miles (110 km) northeast of downtown Atlanta."
     },
     {
       "cityName": "Athens",
       "state": "GA",
       "source": "Wikipedia",
-      "factNumber": 3,
+      "factNumber": 2,
       "fact": "The University of Georgia, the state's flagship public university and an R1 research institution, is in Athens and contributed to its initial growth."
     },
     {
       "cityName": "Athens",
       "state": "GA",
       "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "In 1991, after a vote the preceding year, the original City of Athens abandoned its charter to form a unified government with Clarke County, referred to jointly as Athens\u2013Clarke County, where it is the county seat."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "As of 2021, the Athens-Clarke County's official website's population of the consolidated city-county (all of Clarke County except Winterville and a portion of Bogart) was 128,711."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Athens is the sixth-most populous city in Georgia, and the principal city of the Athens metropolitan area, which had a 2020 population of 215,415, according to the U.S."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Metropolitan Athens is a component of the larger Atlanta\u2013Athens\u2013Clarke County\u2013Sandy Springs Combined Statistical Area."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "The city is a college town with a vibrant music scene centered in downtown Athens, next to the University of Georgia's North Campus."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "Major music acts associated with Athens include numerous alternative rock bands such as R.E.M., the B-52's, Widespread Panic, Drive-By Truckers, of Montreal, Neutral Milk Hotel, and Harvey Milk."
-    },
-    {
-      "cityName": "Athens",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "The city is also known as a recording site for such groups as the Atlanta-based Indigo Girls."
+      "factNumber": 3,
+      "fact": "In 1991, after a vote the preceding year, the original City of Athens abandoned its charter to form a unified government with Clarke County, referred to jointly as Athens–Clarke County, where it is the county seat."
     },
     {
       "cityName": "Atlanta",
       "state": "GA",
       "source": "Wikidata",
       "factNumber": 1,
-      "fact": "Famous people from Atlanta include Martin Luther King Jr., Kanye West, Margaret Mitchell, and Steven Soderbergh."
+      "fact": "Famous people from Atlanta include Martin Luther King Junior, Kanye West, Margaret Mitchell, and Steven Soderbergh."
     },
     {
       "cityName": "Atlanta",
@@ -488,7 +446,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "After World War II, Atlanta emerged as a manufacturing and technology hub."
+      "fact": "After World War 2, Atlanta emerged as a manufacturing and technology hub."
     },
     {
       "cityName": "Atlanta",
@@ -551,7 +509,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Attapulgus was the birthplace of civil rights leader Hosea Williams (1926\u20132000), who is said to have been run out of town by a lynch mob at the age of 13."
+      "fact": "Attapulgus was the birthplace of civil rights leader Hosea Williams (1926–2000), who is said to have been run out of town by a lynch mob at the age of 13."
     },
     {
       "cityName": "Attapulgus",
@@ -628,7 +586,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Augusta was established in 1736 and is named in honor of Princess Augusta of Saxe-Gotha (1719\u20131772), the bride of Frederick, Prince of Wales and the mother of the British monarch George III."
+      "fact": "Augusta was established in 1736 and is named in honor of Princess Augusta of Saxe-Gotha (1719–1772), the bride of Frederick, Prince of Wales and the mother of the British monarch George 3."
     },
     {
       "cityName": "Augusta",
@@ -720,6 +678,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city was incorporated in 1900."
+    },
+    {
+      "cityName": "Avondale Estates",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,567 in 2020."
+    },
+    {
+      "cityName": "Avondale Estates",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Atlanta metropolitan area and is near Decatur."
     },
     {
       "cityName": "Axson",
@@ -831,7 +803,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Initially the town was known as \"Spier's Turnout\", but was changed to honor the first Confederate officer to die in battle, Colonel Francis S. Bartow of Savannah, Georgia, who was killed at the Battle of Manassas, Virginia on July 21, 1861."
+      "fact": "Initially the town was known as \"Spier's Turnout\", but was changed to honor the first Confederate officer to die in battle, Colonel Francis S Bartow of Savannah, Georgia, who was killed at the Battle of Manassas, Virginia on July 21, 1861."
     },
     {
       "cityName": "Bartow",
@@ -1160,7 +1132,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bristol is located at the intersection of the concurrent Georgia State Route 15 and Georgia State Route 121, which runs north\u2013south through Bristol, and Georgia State Route 32, which runs east\u2013west."
+      "fact": "Bristol is located at the intersection of the concurrent Georgia State Route 15 and Georgia State Route 121, which runs north–south through Bristol, and Georgia State Route 32, which runs east–west."
     },
     {
       "cityName": "Bristol",
@@ -1202,7 +1174,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Incorporation officially took place on December 17, 2012, on which date municipal operations commenced. The new city stretches over 12 square miles (31\u00a0km2). With a population of 56,795 as of the 2020 census, it is the second largest city located fully within DeKalb County, behind Stonecrest.."
+      "fact": "Incorporation officially took place on December 17, 2012, on which date municipal operations commenced. The new city stretches over 12 square miles (31 km2). With a population of 56,795 as of the 2020 census, it is the second largest city located fully within DeKalb County, behind Stonecrest.."
     },
     {
       "cityName": "Brooklet",
@@ -1258,14 +1230,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Established as \"Brunswick\" after the German Duchy of Brunswick\u2013L\u00fcneburg, the ancestral home of the House of Hanover, the municipal community was incorporated as a city in 1856."
+      "fact": "Established as \"Brunswick\" after the German Duchy of Brunswick–Lüneburg, the ancestral home of the House of Hanover, the municipal community was incorporated as a city in 1856."
     },
     {
       "cityName": "Brunswick",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Throughout its history, Brunswick has served as an important port city; in World War II, for example, it served as a strategic military location with an operational base for escort blimps and a shipbuilding facility for the U S Maritime Commission."
+      "fact": "Throughout its history, Brunswick has served as an important port city; in World War 2, for example, it served as a strategic military location with an operational base for escort blimps and a shipbuilding facility for the U S Maritime Commission."
     },
     {
       "cityName": "Brunswick",
@@ -1307,7 +1279,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "The Port of Brunswick, one of Georgia's two seaports, handles approximately 10 percent of all U S roll-on/roll-off trade\u2014third in the U.S., behind the ports of Los Angeles and Newark."
+      "fact": "The Port of Brunswick, one of Georgia's two seaports, handles approximately 10 percent of all U S roll-on/roll-off trade—third in the US, behind the ports of Los Angeles and Newark."
     },
     {
       "cityName": "Brunswick",
@@ -1324,18 +1296,46 @@
       "fact": "Locally, the city's name is pronounced Buck-HAN-uhn."
     },
     {
+      "cityName": "Buckhead",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town had a population of 194."
+    },
+    {
       "cityName": "Buena Vista",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is the birthplace of baseball legend Josh Gibson and Medal of Honor recipient Luther H. Story."
+      "fact": "It is the birthplace of baseball legend Josh Gibson and Medal of Honor recipient Luther H Story."
     },
     {
       "cityName": "Buena Vista",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Formerly known as \"Pea Ridge\", the city changed its name to Buena Vista in honor of Zachary Taylor's victory in the Mexican\u2013American War."
+      "fact": "Formerly known as \"Pea Ridge\", the city changed its name to Buena Vista in honor of Zachary Taylor's victory in the Mexican–American War."
+    },
+    {
+      "cityName": "Buford",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a population of 17,144."
+    },
+    {
+      "cityName": "Buford",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Most of the city is in Gwinnett County, which is part of the Atlanta-Sandy Springs-Marietta Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Buford",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The northern sliver of the city is in Hall County, which comprises the Gainesville, Georgia Metropolitan Statistical Area and is part of the larger Atlanta-Athens-Clarke-Sandy Springs Combined Statistical Area."
     },
     {
       "cityName": "Butler",
@@ -1350,6 +1350,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "In 2020, its population was 422."
+    },
+    {
+      "cityName": "Byron",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A small portion of the city also extends into parts of Houston and Crawford counties."
+    },
+    {
+      "cityName": "Byron",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Byron had a population of 5,702."
+    },
+    {
+      "cityName": "Byron",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is in the Warner Robins metropolitan statistical area."
+    },
+    {
+      "cityName": "Cadwell",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 381 in 2020."
     },
     {
       "cityName": "Cairo",
@@ -1373,6 +1401,20 @@
       "fact": "As of the 2020 census, the city had a population of 16949."
     },
     {
+      "cityName": "Camak",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is located just off Interstate 20 between Atlanta and Augusta."
+    },
+    {
+      "cityName": "Camak",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 141 in 2020."
+    },
+    {
       "cityName": "Camilla",
       "state": "GA",
       "source": "Wikipedia",
@@ -1387,6 +1429,13 @@
       "fact": "Candler-McAfee neighborhood on the east side of Atlanta, Georgia, United States approximately 10 miles (16 km) east of Downtown Atlanta and to the south of Decatur, Georgia The population was 22468 in 2020."
     },
     {
+      "cityName": "Canon",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Canon had a population of 643."
+    },
+    {
       "cityName": "Canton",
       "state": "GA",
       "source": "Wikipedia",
@@ -1399,6 +1448,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Town population is 209 per the 2020 Census."
+    },
+    {
+      "cityName": "Carlton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 263 at the 2020 census."
     },
     {
       "cityName": "Carnesville",
@@ -1471,6 +1527,13 @@
       "fact": "Spring water is piped to local homes and businesses by the public-utility service of Cave Spring."
     },
     {
+      "cityName": "Cecil",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 286 at the 2010 census and 284 in 2020."
+    },
+    {
       "cityName": "Cedartown",
       "state": "GA",
       "source": "Wikipedia",
@@ -1520,11 +1583,18 @@
       "fact": "In 2016, Centerville was ranked 7th Happiest City in Georgia by zippia.com, a website devoted to career-related rankings."
     },
     {
+      "cityName": "Centralhatchee",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 348 in 2020."
+    },
+    {
       "cityName": "Chamblee",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Chamblee ( SHAM-blee) is a city in northern DeKalb County, Georgia, United States, northeast of Atlanta."
+      "fact": "Chamblee is a city in northern DeKalb County, Georgia, United States, northeast of Atlanta."
     },
     {
       "cityName": "Chamblee",
@@ -1538,7 +1608,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is the site of the coldest recorded temperature in Georgia, \u221217 \u00b0F (\u221227 \u00b0C) on January 27, 1940."
+      "fact": "The city is the site of the coldest recorded temperature in Georgia, −17 °F (−27 °C) on January 27, 1940."
     },
     {
       "cityName": "Chatsworth",
@@ -1618,6 +1688,20 @@
       "fact": "By 2020, its township population was 525."
     },
     {
+      "cityName": "Chickamauga",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,917 at the 2020 census."
+    },
+    {
+      "cityName": "Chickamauga",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Chattanooga metropolitan area."
+    },
+    {
       "cityName": "Chula",
       "state": "GA",
       "source": "Wikipedia",
@@ -1653,11 +1737,39 @@
       "fact": "As of the 2020 census, it had a population of 1911, up from the 2010 census population of 1733, up from 1248 at the 2000 census."
     },
     {
+      "cityName": "Claxton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,602 in 2020."
+    },
+    {
+      "cityName": "Claxton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Evans County."
+    },
+    {
       "cityName": "Clayton",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 2003 at the 2020 census."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 875 at the 2010 census."
+    },
+    {
+      "cityName": "Clermont",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Gainesville, Georgia Metropolitan Statistical Area."
     },
     {
       "cityName": "Cleveland",
@@ -1702,6 +1814,13 @@
       "fact": "The community is located along Georgia State Route 119, 8.1 miles (13.0 km) north-northeast of Springfield."
     },
     {
+      "cityName": "Cobbtown",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 341 in 2020."
+    },
+    {
       "cityName": "Cochran",
       "state": "GA",
       "source": "Wikipedia",
@@ -1720,7 +1839,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Cochran is named for Judge Arthur E. Cochran and was incorporated on March 19, 1869."
+      "fact": "Cochran is named for Judge Arthur E Cochran and was incorporated on March 19, 1869."
     },
     {
       "cityName": "Cochran",
@@ -1755,7 +1874,28 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Once known as Dykesboro, Cochran was settled by B. B. Dykes, who owned the site on which the town is built."
+      "fact": "Once known as Dykesboro, Cochran was settled by B B Dykes, who owned the site on which the town is built."
+    },
+    {
+      "cityName": "Cohutta",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dalton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cohutta",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 764 at the 2020 census."
+    },
+    {
+      "cityName": "Colbert",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 630 at the 2020 census."
     },
     {
       "cityName": "College Park",
@@ -1783,7 +1923,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Georgia International Convention Center and part of Hartsfield\u2013Jackson Atlanta International Airport are located in the city."
+      "fact": "Georgia International Convention Center and part of Hartsfield–Jackson Atlanta International Airport are located in the city."
+    },
+    {
+      "cityName": "Collins",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 540 in 2020."
     },
     {
       "cityName": "Colquitt",
@@ -1846,7 +1993,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The metro area joins the nearby Alabama cities of Auburn and Opelika to form the Columbus\u2013Auburn\u2013Opelika combined statistical area, which had a population of 563967 in 2020."
+      "fact": "The metro area joins the nearby Alabama cities of Auburn and Opelika to form the Columbus–Auburn–Opelika combined statistical area, which had a population of 563967 in 2020."
     },
     {
       "cityName": "Columbus",
@@ -1884,6 +2031,13 @@
       "fact": "As of the 2020 census, the city had a population of 7387."
     },
     {
+      "cityName": "Concord",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 378 in 2020."
+    },
+    {
       "cityName": "Conley",
       "state": "GA",
       "source": "Wikipedia",
@@ -1910,6 +2064,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The formerly separate town of Milstead is now part of Conyers."
+    },
+    {
+      "cityName": "Coolidge",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 528 in 2020."
     },
     {
       "cityName": "Cordele",
@@ -1940,6 +2101,34 @@
       "fact": "The community is located along the concurrent U S Route 411, Georgia State Route 2, and Georgia State Route 61, 7 miles (11 km) north of Chatsworth."
     },
     {
+      "cityName": "Crawford",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 821 at the 2020 census."
+    },
+    {
+      "cityName": "Crawfordville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 479 in 2020."
+    },
+    {
+      "cityName": "Culloden",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 200 in the 2020 census."
+    },
+    {
+      "cityName": "Culloden",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Macon metropolitan statistical area."
+    },
+    {
       "cityName": "Cumberland",
       "state": "GA",
       "source": "Wikipedia",
@@ -1959,6 +2148,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Despite this, Cusseta is not coterminous with the county; it remains a geographically distinct municipality within the county."
+    },
+    {
+      "cityName": "Cuthbert",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cuthbert had a population of 3,143."
     },
     {
       "cityName": "Dacula",
@@ -2045,11 +2241,18 @@
       "fact": "Standing on the courthouse balcony and pointing at the distant Findley Ridge, Doctor Stephenson was recalled in his speech as saying: \"Why go to California?"
     },
     {
+      "cityName": "Daisy",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 159 in 2020."
+    },
+    {
       "cityName": "Dallas",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for George M. Dallas, Vice President of the United States, under James K. Polk."
+      "fact": "It was named for George M Dallas, Vice President of the United States, under James K Polk."
     },
     {
       "cityName": "Dallas",
@@ -2094,6 +2297,27 @@
       "fact": "It is home to the Dalton Convention Center, which showcases the Georgia Athletic Coaches' Hall of Fame and hosts a variety of events."
     },
     {
+      "cityName": "Damascus",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 212 in the 2020 census, down from 254 in the 2010 census."
+    },
+    {
+      "cityName": "Danielsville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 654 at the 2020 census, up from 560 in 2010."
+    },
+    {
+      "cityName": "Danielsville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Madison County."
+    },
+    {
       "cityName": "Danville",
       "state": "GA",
       "source": "Wikipedia",
@@ -2113,6 +2337,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It lies on Georgia's coast at the mouth of the Altamaha River, approximately 50 miles (80 kilometers) south of Savannah, and is part of the Brunswick, Georgia metropolitan statistical area."
+    },
+    {
+      "cityName": "Dasher",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 890 in 2020."
     },
     {
       "cityName": "Davisboro",
@@ -2150,6 +2381,34 @@
       "fact": "The city head is Mayor John Walden, who was sworn in on December 18, 2023."
     },
     {
+      "cityName": "De Soto",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, De Soto had a population of 124."
+    },
+    {
+      "cityName": "De Soto",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Americus micropolitan statistical area."
+    },
+    {
+      "cityName": "Dearing",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 529 at the 2020 census."
+    },
+    {
+      "cityName": "Dearing",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta metropolitan area."
+    },
+    {
       "cityName": "Decatur",
       "state": "GA",
       "source": "Wikipedia",
@@ -2164,11 +2423,25 @@
       "fact": "The Druid Hills neighborhood is to the northwest of Decatur."
     },
     {
+      "cityName": "Deepstep",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 117 in 2020."
+    },
+    {
       "cityName": "Demorest",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is the home of Piedmont University."
+    },
+    {
+      "cityName": "Denton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 189 in 2020."
     },
     {
       "cityName": "Dewy Rose",
@@ -2197,6 +2470,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city population was 337."
+    },
+    {
+      "cityName": "Doerun",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 738 in 2020."
+    },
+    {
+      "cityName": "Donalsonville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,833 in 2020."
+    },
+    {
+      "cityName": "Dooling",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 68 at the 2020 census."
     },
     {
       "cityName": "Doraville",
@@ -2273,7 +2567,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town was renamed in 1874 after J. P. A. DuPont, an early settler."
+      "fact": "The town was renamed in 1874 after J P A DuPont, an early settler."
     },
     {
       "cityName": "Du Pont",
@@ -2283,11 +2577,25 @@
       "fact": "It was incorporated as a city in 1889."
     },
     {
+      "cityName": "Dublin",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,074 at the 2020 census."
+    },
+    {
+      "cityName": "Dudley",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 593 in 2020."
+    },
+    {
       "cityName": "Duluth",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is also home to Northside Hospital\u2013Duluth, an 81-bed hospital constructed in 2006, as well as GMC's Glancy Campus, a 30-bed facility located near downtown."
+      "fact": "It is also home to Northside Hospital–Duluth, an 81-bed hospital constructed in 2006, as well as GMC's Glancy Campus, a 30-bed facility located near downtown."
     },
     {
       "cityName": "Duluth",
@@ -2330,6 +2638,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of 2020, the city had a population of 51683."
+    },
+    {
+      "cityName": "East Dublin",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,492 in 2020."
     },
     {
       "cityName": "East Ellijay",
@@ -2423,6 +2738,27 @@
       "fact": "The name consists of his surname with the English suffix \"ton\", meaning \"town\"."
     },
     {
+      "cityName": "Echols County",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 3,697."
+    },
+    {
+      "cityName": "Echols County",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The county seat is Statenville."
+    },
+    {
+      "cityName": "Echols County",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Since 2008, Statenville is a disincorporated municipality."
+    },
+    {
       "cityName": "Eden",
       "state": "GA",
       "source": "Wikipedia",
@@ -2512,6 +2848,20 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Hyundai Motor Group Metaplant America was slated to be located in Ellabell."
+    },
+    {
+      "cityName": "Ellaville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ellaville had a population of 1,595."
+    },
+    {
+      "cityName": "Ellaville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Schley County."
     },
     {
       "cityName": "Ellenton",
@@ -2612,6 +2962,20 @@
       "fact": "Postal addresses within the city do not use the Ephesus name, instead using the city names of Roopville and Bowdon."
     },
     {
+      "cityName": "Eton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dalton, Georgia Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Eton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 824 at the 2020 census, down from 910 in 2010."
+    },
+    {
       "cityName": "Euharlee",
       "state": "GA",
       "source": "Wikipedia",
@@ -2693,7 +3057,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Also nearby is Stephen C. Foster State Park."
+      "fact": "Also nearby is Stephen C Foster State Park."
     },
     {
       "cityName": "Fargo",
@@ -2910,14 +3274,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Established in 1918 as Camp Benning, named after Confederate General Henry L. Benning in the American Civil War, it was the Home of the Infantry."
+      "fact": "Established in 1918 as Camp Benning, named after Confederate General Henry L Benning in the American Civil War, it was the Home of the Infantry."
     },
     {
       "cityName": "Fort Benning",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The base name now pays tribute to Corporal Fred G. Benning, who was awarded the Distinguished Service Cross for his extraordinary heroism in action during World War I with the U S Army in France in 1918."
+      "fact": "The base name now pays tribute to Corporal Fred G Benning, who was awarded the Distinguished Service Cross for his extraordinary heroism in action during World War 1 with the U S Army in France in 1918."
     },
     {
       "cityName": "Fort Benning",
@@ -3022,14 +3386,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Established in 1918 as Camp Benning, named after Confederate General Henry L. Benning in the American Civil War, it was the Home of the Infantry."
+      "fact": "Established in 1918 as Camp Benning, named after Confederate General Henry L Benning in the American Civil War, it was the Home of the Infantry."
     },
     {
       "cityName": "Fort Moore",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The base name now pays tribute to Corporal Fred G. Benning, who was awarded the Distinguished Service Cross for his extraordinary heroism in action during World War I with the U S Army in France in 1918."
+      "fact": "The base name now pays tribute to Corporal Fred G Benning, who was awarded the Distinguished Service Cross for his extraordinary heroism in action during World War 1 with the U S Army in France in 1918."
     },
     {
       "cityName": "Fort Moore",
@@ -3092,7 +3456,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is home to Lakeview \u2013 Fort Oglethorpe High School."
+      "fact": "It is home to Lakeview – Fort Oglethorpe High School."
     },
     {
       "cityName": "Fort Oglethorpe",
@@ -3106,35 +3470,21 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Fort Stewart is a United States Army post in the U S state of Georgia."
-    },
-    {
-      "cityName": "Fort Stewart",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "It lies primarily in Liberty and Bryan counties, but also extends into smaller portions of Evans, Long, and Tattnall Counties."
     },
     {
       "cityName": "Fort Stewart",
       "state": "GA",
       "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The nearby city of Hinesville, along with Fort Stewart and the rest of Liberty and Long Counties, comprise the Hinesville metropolitan area."
+    },
+    {
+      "cityName": "Fort Stewart",
+      "state": "GA",
+      "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The nearby city of Hinesville, along with Ft."
-    },
-    {
-      "cityName": "Fort Stewart",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 4,
       "fact": "Much of Fort Stewart's garrison are members of the 3rd Infantry Division."
-    },
-    {
-      "cityName": "Fort Stewart",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "The Fort Stewart Military Reservation includes about 280000 acres (1100 km2), including land that was formerly the town of Clyde, Georgia."
     },
     {
       "cityName": "Fort Valley",
@@ -3156,6 +3506,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is named after Benjamin Franklin."
+    },
+    {
+      "cityName": "Franklin Springs",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Franklin Springs had a population of 1,155."
+    },
+    {
+      "cityName": "Franklin Springs",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Emmanuel University is located here."
+    },
+    {
+      "cityName": "Funston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 402 in 2020."
     },
     {
       "cityName": "Gainesville",
@@ -3200,6 +3571,27 @@
       "fact": "Garden City is part of the Savannah metropolitan statistical area."
     },
     {
+      "cityName": "Garfield",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 257 in 2020."
+    },
+    {
+      "cityName": "Gay",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 110 in 2020."
+    },
+    {
+      "cityName": "Geneva",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 75 at the 2020 census."
+    },
+    {
       "cityName": "Georgetown",
       "state": "GA",
       "source": "Wikipedia",
@@ -3221,6 +3613,20 @@
       "fact": "The Hall County portion of Gillsville is part of the Gainesville, Georgia Metropolitan Statistical Area."
     },
     {
+      "cityName": "Girard",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 184 in 2020."
+    },
+    {
+      "cityName": "Girard",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
+    },
+    {
       "cityName": "Glennville",
       "state": "GA",
       "source": "Wikipedia",
@@ -3228,11 +3634,32 @@
       "fact": "As of the 2020 census, the town had a population of 3834."
     },
     {
+      "cityName": "Glenwood",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 850 in 2020."
+    },
+    {
+      "cityName": "Good Hope",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 339 in 2020."
+    },
+    {
       "cityName": "Gordon",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of 2020, its population was 1783."
+    },
+    {
+      "cityName": "Graham",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 263 in 2020."
     },
     {
       "cityName": "Grantville",
@@ -3263,6 +3690,20 @@
       "fact": "Its population was 3648 as of the 2020 census."
     },
     {
+      "cityName": "Greenville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 794 at the 2020 census, down from 876 in 2010."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located 60 miles (97 km) southwest of Atlanta and is part of the Atlanta metropolitan area."
+    },
+    {
       "cityName": "Gresham Park",
       "state": "GA",
       "source": "Wikipedia",
@@ -3274,42 +3715,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Griffin was founded in 1840 and named for landowner Col."
+      "fact": "It is part of the Atlanta metropolitan area."
     },
     {
       "cityName": "Griffin",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The University of Georgia maintains a branch campus in Griffin."
-    },
-    {
-      "cityName": "Griffin",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Griffin Technical College was located in Griffin from 1963 and a branch of Southern Crescent Technical College is in Griffin."
-    },
-    {
-      "cityName": "Griffin",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "The Griffin Synodical Female College was established by Presbyterians, but closed."
-    },
-    {
-      "cityName": "Griffin",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "As of the 2020 census, the city had a population of 23478."
-    },
-    {
-      "cityName": "Griffin",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Lewis Lawrence Griffin."
+      "fact": "As of the 2020 census, the city had a population of 23,478."
     },
     {
       "cityName": "Grovetown",
@@ -3396,11 +3809,46 @@
       "fact": "Haddock is part of the Macon Metropolitan Statistical Area."
     },
     {
+      "cityName": "Hagan",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 959 in 2020."
+    },
+    {
       "cityName": "Hahira",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is mentioned in several songs by the American singer and comedian Ray Stevens, most notably in the song \"Shriner's Convention.\""
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Columbus, Georgia metropolitan area."
+    },
+    {
+      "cityName": "Hamilton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,680 at the 2020 census, up from 307 at the 2000 census."
+    },
+    {
+      "cityName": "Hampton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2020 census was 8,368."
+    },
+    {
+      "cityName": "Hampton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a southeastern suburb in the Atlanta metropolitan area."
     },
     {
       "cityName": "Hapeville",
@@ -3431,6 +3879,27 @@
       "fact": "This city was named after the neighborhood in the borough of Manhattan."
     },
     {
+      "cityName": "Harrison",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 339 according to the 2020 census."
+    },
+    {
+      "cityName": "Hartwell",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hartwell had a population of 4,470."
+    },
+    {
+      "cityName": "Hartwell",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Hart County."
+    },
+    {
       "cityName": "Hawkinsville",
       "state": "GA",
       "source": "Wikipedia",
@@ -3450,6 +3919,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "As of 2020, it has a population of 3980."
+    },
+    {
+      "cityName": "Hazlehurst",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,088 in 2020."
     },
     {
       "cityName": "Helen",
@@ -3498,34 +3974,34 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Its name is derived from the Cherokee\u2014or perhaps Creek\u2014word Ayuhwasi, which means meadow, (A variant spelling, \"Hiwassee,\" is used for the local river and some other Appalachian place names.) Hiawassee is also known in the novel \"Restart\" by Gordon Korman."
+      "fact": "Its name is derived from the Cherokee—or perhaps Creek—word Ayuhwasi, which means meadow, (A variant spelling, \"Hiwassee,\" is used for the local river and some other Appalachian place names.) Hiawassee is also known in the novel \"Restart\" by Gordon Korman."
+    },
+    {
+      "cityName": "Higgston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 314 at the 2020 census."
+    },
+    {
+      "cityName": "Hiltonia",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 310 in 2020."
     },
     {
       "cityName": "Hinesville",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hinesville is a city in the U.S."
+      "fact": "The county seat of Liberty County, it had a population of 34,891 at the 2020 US census."
     },
     {
       "cityName": "Hinesville",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "state of Georgia and is located on the Atlantic coastal plain."
-    },
-    {
-      "cityName": "Hinesville",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "The county seat of Liberty County, it had a population of 34,891 at the 2020 U.S."
-    },
-    {
-      "cityName": "Hinesville",
-      "state": "GA",
-      "source": "Wikipedia",
-      "factNumber": 4,
       "fact": "It is the principal city of the Hinesville metropolitan area, which comprises all of Liberty County, including the Fort Stewart army installation, plus neighboring Long County."
     },
     {
@@ -3564,6 +4040,27 @@
       "fact": "It is a suburb of Atlanta, Georgia."
     },
     {
+      "cityName": "Homeland",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 886 in 2020."
+    },
+    {
+      "cityName": "Homer",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,141 at the 2010 census."
+    },
+    {
+      "cityName": "Homer",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is the county seat of Banks County."
+    },
+    {
       "cityName": "Homerville",
       "state": "GA",
       "source": "Wikipedia",
@@ -3592,6 +4089,55 @@
       "fact": "As of 2018 the estimated population was 1916."
     },
     {
+      "cityName": "Hull",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 230 at the 2020 census, up from 198 in 2010."
+    },
+    {
+      "cityName": "Ideal",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 407 at the 2020 census, down from 499 in 2010."
+    },
+    {
+      "cityName": "Ila",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 350 at the 2020 census."
+    },
+    {
+      "cityName": "Iron City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 312 in 2020."
+    },
+    {
+      "cityName": "Irwinton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 531 in 2020."
+    },
+    {
+      "cityName": "Irwinton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Wilkinson County."
+    },
+    {
+      "cityName": "Ivey",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,037 in 2020."
+    },
+    {
       "cityName": "Jackson",
       "state": "GA",
       "source": "Wikipedia",
@@ -3613,11 +4159,32 @@
       "fact": "In 2020, its population was 5557."
     },
     {
+      "cityName": "Jacksonville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 111 in 2020."
+    },
+    {
       "cityName": "Jakin",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Incorporated in 1895, Jakin's population was 131 in 2020."
+    },
+    {
+      "cityName": "Jasper",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,084 in 2020."
+    },
+    {
+      "cityName": "Jasper",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Pickens County."
     },
     {
       "cityName": "Jefferson",
@@ -3659,7 +4226,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It was evacuated during World War II by order of the US government."
+      "fact": "It was evacuated during World War 2 by order of the US government."
     },
     {
       "cityName": "Jekyll Island",
@@ -3702,6 +4269,34 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "The island is owned by the State of Georgia and run by a self-sustaining, self-governing body."
+    },
+    {
+      "cityName": "Jenkinsburg",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 391 in 2020, up from 370 at the 2010 census."
+    },
+    {
+      "cityName": "Jersey",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 146 at the 2020 census."
+    },
+    {
+      "cityName": "Jesup",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 9,809 at the 2020 census."
+    },
+    {
+      "cityName": "Jesup",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Wayne County."
     },
     {
       "cityName": "John's Creek",
@@ -3751,6 +4346,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The city's name was originally spelled Jonesborough."
+    },
+    {
+      "cityName": "Junction City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 138 at the 2020 census."
     },
     {
       "cityName": "Kathleen",
@@ -3823,6 +4425,20 @@
       "fact": "It includes the area surrounding South Lee Street between King Street and William Street."
     },
     {
+      "cityName": "Kingston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 722 at the 2020 census."
+    },
+    {
+      "cityName": "Kite",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 160 in 2020."
+    },
+    {
       "cityName": "La Grange",
       "state": "GA",
       "source": "Wikipedia",
@@ -3879,6 +4495,34 @@
       "fact": "LaFayette is part of the Chattanooga, TN-GA Metropolitan Statistical Area."
     },
     {
+      "cityName": "LaGrange",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of the city was estimated to be 30,858 in 2020 by the U.S Census Bureau."
+    },
+    {
+      "cityName": "LaGrange",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the LaGrange, Georgia Micropolitan Statistical Area, which is included in the Atlanta-Sandy Springs-Gainesville, Georgia-Alabama (part) combined statistical area."
+    },
+    {
+      "cityName": "LaGrange",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is about 60 miles (97 km) southwest of Atlanta and located in the foothills of the Georgian Piedmont."
+    },
+    {
+      "cityName": "Lake City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,952 in 2020."
+    },
+    {
       "cityName": "Lake Park",
       "state": "GA",
       "source": "Wikipedia",
@@ -3900,6 +4544,13 @@
       "fact": "Originally called Alapaha and then Milltown or Mill Town, Lakeland received its current name in 1925 in honor of its proximity to Grand Bay Lake, Lake Irma, and Banks Lake."
     },
     {
+      "cityName": "Lavonia",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lavonia had a population of 2,143."
+    },
+    {
       "cityName": "Lawrenceville",
       "state": "GA",
       "source": "Wikipedia",
@@ -3919,6 +4570,48 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "As of the 2020 census, the population of Lawrenceville was 30629."
+    },
+    {
+      "cityName": "Leary",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 524 in 2020."
+    },
+    {
+      "cityName": "Leesburg",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,480 at the 2020 census, up from 2,896 at the 2010 census."
+    },
+    {
+      "cityName": "Leesburg",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Albany, Georgia metropolitan area."
+    },
+    {
+      "cityName": "Lenox",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 752 at the 2020 census."
+    },
+    {
+      "cityName": "Leslie",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Leslie had a population of 344."
+    },
+    {
+      "cityName": "Leslie",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Americus micropolitan statistical area."
     },
     {
       "cityName": "Lexington",
@@ -4016,7 +4709,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Lithonia is in the heart of the Georgian granite-quarrying and viewing region, hence the name of the town, from the Greek lithos, for \u201cstone\u201d."
+      "fact": "Lithonia is in the heart of the Georgian granite-quarrying and viewing region, hence the name of the town, from the Greek lithos, for “stone”."
     },
     {
       "cityName": "Lithonia",
@@ -4061,6 +4754,27 @@
       "fact": "In 1900 the population of the city was 254 and is now over 5000."
     },
     {
+      "cityName": "Loganville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,516 as of 2023."
+    },
+    {
+      "cityName": "Loganville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Loganville is located about 36 mi (58 km) east of Atlanta and is part of the Atlanta metropolitan area."
+    },
+    {
+      "cityName": "Lone Oak",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 114 at the 2020 census."
+    },
+    {
       "cityName": "Lookout Mountain",
       "state": "GA",
       "source": "Wikipedia",
@@ -4079,7 +4793,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Its name is pronounced \"Lewis-ville\", though it and the differently pronounced city in Kentucky were both named for Louis XVI."
+      "fact": "Its name is pronounced \"Lewis-ville\", though it and the differently pronounced city in Kentucky were both named for Louis 16."
     },
     {
       "cityName": "Louisville",
@@ -4187,6 +4901,13 @@
       "fact": "Per the 2020 census, the population was 891."
     },
     {
+      "cityName": "Luthersville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 776 at the 2020 census, down from 874 in 2010."
+    },
+    {
       "cityName": "Lyerly",
       "state": "GA",
       "source": "Wikipedia",
@@ -4194,7 +4915,21 @@
       "fact": "As of the 2020 census, the town had a population of 454."
     },
     {
-      "cityName": "Mabelton",
+      "cityName": "Lyons",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,239 in 2020."
+    },
+    {
+      "cityName": "Lyons",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Toombs County."
+    },
+    {
+      "cityName": "Mableton",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
@@ -4411,6 +5146,20 @@
       "fact": "The 2019 estimate was 60867, making it one of Atlanta's largest suburbs."
     },
     {
+      "cityName": "Marshallville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,048 at the 2020 census, down from 1,448 in 2010."
+    },
+    {
+      "cityName": "Martin",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 381 at the 2010 census, up from 311 in 2000."
+    },
+    {
       "cityName": "Martinez",
       "state": "GA",
       "source": "Wikipedia",
@@ -4425,6 +5174,20 @@
       "fact": "It lies approximately 12 km south of Junction City."
     },
     {
+      "cityName": "Maxeys",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 210 at the 2000 census."
+    },
+    {
+      "cityName": "Maysville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,798 at the 2010 census, up from 1,247 at the 2000 census."
+    },
+    {
       "cityName": "McCaysville",
       "state": "GA",
       "source": "Wikipedia",
@@ -4437,6 +5200,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 29051 in 2020."
+    },
+    {
+      "cityName": "McIntyre",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 575 in 2020."
     },
     {
       "cityName": "McRae",
@@ -4474,6 +5244,27 @@
       "fact": "This includes the population held as inmates at McRae Correctional Institution."
     },
     {
+      "cityName": "Meansville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 266 at the 2020 census."
+    },
+    {
+      "cityName": "Meigs",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 928 at the 2020 census, down from 1,035 in 2010."
+    },
+    {
+      "cityName": "Menlo",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 480 at the 2020 census."
+    },
+    {
       "cityName": "Metter",
       "state": "GA",
       "source": "Wikipedia",
@@ -4500,6 +5291,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Portions of the community also extend into southeastern Harris County."
+    },
+    {
+      "cityName": "Midville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 269 at the 2010 census, and 385 in 2020."
+    },
+    {
+      "cityName": "Midville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
     },
     {
       "cityName": "Midway",
@@ -4569,7 +5374,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The city's layout\u2014modeled after the grid plans of Savannah, Georgia, and Washington, D.C.\u2014reflects Milledgeville's intended role as a planned seat of government."
+      "fact": "The city's layout—modeled after the grid plans of Savannah, Georgia, and Washington, D.C.—reflects Milledgeville's intended role as a planned seat of government."
     },
     {
       "cityName": "Milledgeville",
@@ -4663,6 +5468,41 @@
       "fact": "Mitchell is home to the Mitchell Depot Historical Museum."
     },
     {
+      "cityName": "Molena",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 392 in 2020."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located both one hour east of Atlanta via US 78 and GA 138 to I-20 and east of Hartsfield–Jackson International Airport and is one of the exurban cities in the Atlanta metropolitan area."
+    },
+    {
+      "cityName": "Monroe",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 14,928 at the 2020 US census."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,047 at the 2020 census, down from 3,460 in 2010."
+    },
+    {
+      "cityName": "Montezuma",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is home to the armory of Bravo Company, 648th Engineers of the Georgia Army National Guard."
+    },
+    {
       "cityName": "Monticello",
       "state": "GA",
       "source": "Wikipedia",
@@ -4675,6 +5515,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is 56 miles (90 km) southeast of Atlanta."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 203 in 2020."
     },
     {
       "cityName": "Moreland",
@@ -4696,6 +5543,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Newspaper columnist Lewis Grizzard grew up in the town."
+    },
+    {
+      "cityName": "Morgan",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,741 at the 2020 census."
+    },
+    {
+      "cityName": "Morgan",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Calhoun County."
+    },
+    {
+      "cityName": "Morganton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 285 at the 2020 census."
     },
     {
       "cityName": "Morrow",
@@ -4775,6 +5643,13 @@
       "fact": "The district includes the Colquitt Theatre."
     },
     {
+      "cityName": "Mount Airy",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,284 at the 2010 census, up from 604 at the 2000 census."
+    },
+    {
       "cityName": "Mount Berry",
       "state": "GA",
       "source": "Wikipedia",
@@ -4786,7 +5661,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is home to Brewton\u2013Parker College."
+      "fact": "It is home to Brewton–Parker College."
+    },
+    {
+      "cityName": "Mount Zion",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Mount Zion had a population of 1,766."
     },
     {
       "cityName": "Mountain City",
@@ -4814,7 +5696,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named after Patrick J. Murray, a local merchant."
+      "fact": "The community was named after Patrick J Murray, a local merchant."
     },
     {
       "cityName": "Murrayville",
@@ -4850,6 +5732,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The 2020 census listed a population of 139."
+    },
+    {
+      "cityName": "Nelson",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,145."
+    },
+    {
+      "cityName": "Nelson",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Atlanta metropolitan area."
+    },
+    {
+      "cityName": "Newborn",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 676 in 2020."
     },
     {
       "cityName": "Newnan",
@@ -4915,6 +5818,34 @@
       "fact": "The commercial center of the area is the Toco Hill Shopping Center, located near the intersection of North Druid Hills Road and LaVista Road."
     },
     {
+      "cityName": "North High Shoals",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 652 at the 2010 census."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 202 in 2020."
+    },
+    {
+      "cityName": "Nunez",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Portuguese variant is Nunes."
+    },
+    {
+      "cityName": "Nunez",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Notable people with the name include:"
+    },
+    {
       "cityName": "Oak Park",
       "state": "GA",
       "source": "Wikipedia",
@@ -4943,11 +5874,53 @@
       "fact": "Its population was 3498 at the 2020 census."
     },
     {
+      "cityName": "Odum",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 463 at the 2020 census."
+    },
+    {
+      "cityName": "Offerman",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Offerman had a population of 450."
+    },
+    {
+      "cityName": "Offerman",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Waycross Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Oglethorpe",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was named for Georgia's founder, James Oglethorpe."
+    },
+    {
+      "cityName": "Oliver",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 210 as of 2020."
+    },
+    {
+      "cityName": "Omega",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,318 in 2020."
+    },
+    {
+      "cityName": "Orchard Hill",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 219 in 2020."
     },
     {
       "cityName": "Oxford",
@@ -4962,6 +5935,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Much of the city is part of the Oxford Historic District on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Palmetto",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,071 at the 2020 census."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 749 in 2020."
     },
     {
       "cityName": "Pavo",
@@ -5013,6 +6000,20 @@
       "fact": "Peachtree Corners is the only Atlanta northern suburb developed as a planned community."
     },
     {
+      "cityName": "Pearson",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,821 in 2020."
+    },
+    {
+      "cityName": "Pearson",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Atkinson County."
+    },
+    {
       "cityName": "Pelham",
       "state": "GA",
       "source": "Wikipedia",
@@ -5046,6 +6047,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of 2019 the estimated population was 17894."
+    },
+    {
+      "cityName": "Pine Lake",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pine Lake is the smallest city in DeKalb County, Georgia, United States."
+    },
+    {
+      "cityName": "Pine Lake",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 752 at the 2020 census."
     },
     {
       "cityName": "Pine Mountain",
@@ -5090,6 +6105,13 @@
       "fact": "As of the 2020 census, the population of the city was 573."
     },
     {
+      "cityName": "Plainville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Plainville had a population of 356."
+    },
+    {
       "cityName": "Pooler",
       "state": "GA",
       "source": "Wikipedia",
@@ -5111,6 +6133,20 @@
       "fact": "The 2020 population was 10878, more than double the population of 5359 at the 2010 census."
     },
     {
+      "cityName": "Portal",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 638 in 2020."
+    },
+    {
+      "cityName": "Porterdale",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,799 in 2020."
+    },
+    {
       "cityName": "Poulan",
       "state": "GA",
       "source": "Wikipedia",
@@ -5129,7 +6165,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The 12000-capacity Walter H. Cantrell Stadium is located in Powder Springs."
+      "fact": "The 12000-capacity Walter H Cantrell Stadium is located in Powder Springs."
     },
     {
       "cityName": "Powder Springs",
@@ -5144,6 +6180,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "From 1857 to 2009, Preston was an incorporated municipality."
+    },
+    {
+      "cityName": "Pulaski",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 211 in 2020."
     },
     {
       "cityName": "Quitman",
@@ -5202,6 +6245,27 @@
       "fact": "The community is located along U S Route 23/441 south of Dillard."
     },
     {
+      "cityName": "Ray City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 956 in 2020."
+    },
+    {
+      "cityName": "Rayle",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 158 in 2020."
+    },
+    {
+      "cityName": "Rebecca",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 208 in 2020."
+    },
+    {
       "cityName": "Redan",
       "state": "GA",
       "source": "Wikipedia",
@@ -5220,7 +6284,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "According to tradition, the name \"Redan\" is an amalgamation of the names of two early settlers: N. M. Reid and Annie Alford."
+      "fact": "According to tradition, the name \"Redan\" is an amalgamation of the names of two early settlers: N M Reid and Annie Alford."
     },
     {
       "cityName": "Redan",
@@ -5258,6 +6322,13 @@
       "fact": "It was incorporated as a town in 1951, and chartered as a city under Georgia law in 2000."
     },
     {
+      "cityName": "Rentz",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 312 in 2020."
+    },
+    {
       "cityName": "Resaca",
       "state": "GA",
       "source": "Wikipedia",
@@ -5283,7 +6354,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Gwinnett County portion of Rest Haven is part of the Atlanta\u2013Sandy Springs\u2013Marietta, GA-AL metropolitan statistical area, while the Hall County portion is part of the Gainesville, GA metropolitan statistical area."
+      "fact": "The Gwinnett County portion of Rest Haven is part of the Atlanta–Sandy Springs–Marietta, GA-AL metropolitan statistical area, while the Hall County portion is part of the Gainesville, GA metropolitan statistical area."
     },
     {
       "cityName": "Rest Haven",
@@ -5314,6 +6385,34 @@
       "fact": "Although Rex is unincorporated, it has a post office, with the ZIP code of 30273; the ZCTA for ZIP code 30273 had a population of 16580 at the 2020 census."
     },
     {
+      "cityName": "Reynolds",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 926 in 2020."
+    },
+    {
+      "cityName": "Rhine",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The Rhine is one of the major rivers of Europe."
+    },
+    {
+      "cityName": "Rhine",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The river begins in the Swiss canton of Graubünden in the southeastern Swiss Alps."
+    },
+    {
+      "cityName": "Rhine",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It forms part of the Swiss-Liechtenstein border, then part of the Swiss-Austrian border."
+    },
+    {
       "cityName": "Riceboro",
       "state": "GA",
       "source": "Wikipedia",
@@ -5333,6 +6432,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Richmond Hill is part of the Savannah metropolitan statistical area."
+    },
+    {
+      "cityName": "Riddleville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riddleville is a town in Washington County, Georgia, United States."
     },
     {
       "cityName": "Rincon",
@@ -5368,6 +6474,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Riverdale is in Clayton County, Georgia, United States."
+    },
+    {
+      "cityName": "Roberta",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Roberta had a population of 813."
+    },
+    {
+      "cityName": "Roberta",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Macon metropolitan statistical area."
     },
     {
       "cityName": "Rochelle",
@@ -5440,6 +6560,27 @@
       "fact": "At the 2020 census, the city had a population of 37,713. It is the largest city in Northwest Georgia and the 26th-largest city in the state.."
     },
     {
+      "cityName": "Roopville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 231 in 2020, up from 218 at the 2010 census."
+    },
+    {
+      "cityName": "Rossville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,980 at the 2020 census."
+    },
+    {
+      "cityName": "Rossville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Roswell",
       "state": "GA",
       "source": "Wikipedia",
@@ -5452,6 +6593,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "A suburb of Atlanta, Roswell has an affluent National Register Historic District."
+    },
+    {
+      "cityName": "Royston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,649 at the 2020 census."
     },
     {
       "cityName": "Rutledge",
@@ -5507,28 +6655,28 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In 2020, the population of the St. George census county division (CCD) was 2237."
+      "fact": "In 2020, the population of the Saint George census county division (CCD) was 2237."
     },
     {
       "cityName": "Saint George",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Most of this population is in the town of St. George, but the figure also includes rural areas not recognized by the Census Bureau, including communities like Moniac."
+      "fact": "Most of this population is in the town of Saint George, but the figure also includes rural areas not recognized by the Census Bureau, including communities like Moniac."
     },
     {
       "cityName": "Saint Mary's",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Other attractions include the St. Marys Submarine Museum, Crooked River State Park, the history walk, and the waterfront park."
+      "fact": "Other attractions include the Saint Marys Submarine Museum, Crooked River State Park, the history walk, and the waterfront park."
     },
     {
       "cityName": "Saint Mary's",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city hosts annual Mardi Gras events, an Independence Day Festival, St. Marys Seafood Festival and a Music in the Park Series."
+      "fact": "The city hosts annual Mardi Gras events, an Independence Day Festival, Saint Marys Seafood Festival and a Music in the Park Series."
     },
     {
       "cityName": "Saint Mary's",
@@ -5556,7 +6704,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "St. Marys is the ferry departure point for the passenger ferry to Cumberland Island."
+      "fact": "Saint Marys is the ferry departure point for the passenger ferry to Cumberland Island."
     },
     {
       "cityName": "Saint Mary's",
@@ -5591,14 +6739,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Other attractions include the St. Marys Submarine Museum, Crooked River State Park, the history walk, and the waterfront park."
+      "fact": "Other attractions include the Saint Marys Submarine Museum, Crooked River State Park, the history walk, and the waterfront park."
     },
     {
       "cityName": "Saint Marys",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city hosts annual Mardi Gras events, an Independence Day Festival, St. Marys Seafood Festival and a Music in the Park Series."
+      "fact": "The city hosts annual Mardi Gras events, an Independence Day Festival, Saint Marys Seafood Festival and a Music in the Park Series."
     },
     {
       "cityName": "Saint Marys",
@@ -5626,7 +6774,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "St. Marys is the ferry departure point for the passenger ferry to Cumberland Island."
+      "fact": "Saint Marys is the ferry departure point for the passenger ferry to Cumberland Island."
     },
     {
       "cityName": "Saint Marys",
@@ -5668,7 +6816,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is the largest of Georgia's Golden Isles (along with Sea Island, Jekyll Island, and privately owned Little St. Simons Island)."
+      "fact": "It is the largest of Georgia's Golden Isles (along with Sea Island, Jekyll Island, and privately owned Little Saint Simons Island)."
     },
     {
       "cityName": "Saint Simons Island",
@@ -5682,7 +6830,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Located on the southeast Georgia coast, midway between Savannah and Jacksonville, St. Simons Island is both a seaside resort and residential community."
+      "fact": "Located on the southeast Georgia coast, midway between Savannah and Jacksonville, Saint Simons Island is both a seaside resort and residential community."
     },
     {
       "cityName": "Saint Simons Island",
@@ -5696,14 +6844,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The names of the community and the island are interchangeable, known simply as \"St. Simons Island\" or \"SSI\", or locally as \"The Island\"."
+      "fact": "The names of the community and the island are interchangeable, known simply as \"Saint Simons Island\" or \"SSI\", or locally as \"The Island\"."
     },
     {
       "cityName": "Saint Simons Island",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "St. Simons is part of the Brunswick metropolitan statistical area, and according to the 2020 U S census, the CDP had a population of 14982."
+      "fact": "Saint Simons is part of the Brunswick metropolitan statistical area, and according to the 2020 U S census, the CDP had a population of 14982."
     },
     {
       "cityName": "Saint Simons Island",
@@ -5725,6 +6873,13 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Much of the northern half remains marsh or woodland."
+    },
+    {
+      "cityName": "Sale City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 354 at the 2020 census."
     },
     {
       "cityName": "Sandersville",
@@ -5762,6 +6917,27 @@
       "fact": "The city has several Christmas-themed street names: Candy Cane Road, December Drive, Rudolph Way, Dancer Street, Prancer Street, and Sleigh Street."
     },
     {
+      "cityName": "Sardis",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Augusta, Georgia metropolitan area in the Central Savannah River Area (CSRA)."
+    },
+    {
+      "cityName": "Sasser",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 393 at the 2000 census."
+    },
+    {
+      "cityName": "Sasser",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Albany, Georgia metropolitan statistical area."
+    },
+    {
       "cityName": "Sautee Nacoochee",
       "state": "GA",
       "source": "Wikipedia",
@@ -5773,7 +6949,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Savannah's downtown area, which includes the Savannah Historic District, its 22 parklike squares, and the Savannah Victorian Historic District, is one of the largest National Historic Landmark Districts in the U.S., designated by the federal government in 1966."
+      "fact": "Savannah's downtown area, which includes the Savannah Historic District, its 22 parklike squares, and the Savannah Victorian Historic District, is one of the largest National Historic Landmark Districts in the US, designated by the federal government in 1966."
     },
     {
       "cityName": "Savannah",
@@ -5839,6 +7015,20 @@
       "fact": "Its population was 5016 at the 2020 census."
     },
     {
+      "cityName": "Shady Dale",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 252 in 2020."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 104 in 2020."
+    },
+    {
       "cityName": "Sharpsburg",
       "state": "GA",
       "source": "Wikipedia",
@@ -5858,6 +7048,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population was 402."
+    },
+    {
+      "cityName": "Siloam",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Silwan or Siloam is a predominantly Palestinian district in East Jerusalem, on the southeastern outskirts of the current Old City of Jerusalem."
     },
     {
       "cityName": "Skidaway Island",
@@ -5913,7 +7110,7 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is included in the Atlanta\u2013Sandy Springs\u2013Alpharetta MSA, which is included in the Atlanta\u2013Athens-Clarke\u2013Sandy Springs CSA."
+      "fact": "It is included in the Atlanta–Sandy Springs–Alpharetta MSA, which is included in the Atlanta–Athens-Clarke–Sandy Springs CSA."
     },
     {
       "cityName": "Smyrna",
@@ -5935,6 +7132,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 20573 at the 2020 census."
+    },
+    {
+      "cityName": "Social Circle",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Georgia, 45 miles (72 km) east of Atlanta."
+    },
+    {
+      "cityName": "Social Circle",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Social Circle had a population of 4,974."
+    },
+    {
+      "cityName": "Soperton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,889 in 2020."
+    },
+    {
+      "cityName": "Soperton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Treutlen County."
     },
     {
       "cityName": "South Fulton",
@@ -5970,6 +7195,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city's population was 1357 at the 2020 census."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,703 as of the 2020 census."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is the county seat of Effingham County and a part of the Savannah metropolitan area."
+    },
+    {
+      "cityName": "Stapleton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 402 in 2020."
     },
     {
       "cityName": "Statesboro",
@@ -6014,6 +7260,20 @@
       "fact": "In 2017, Statesboro was selected in the top three of the national America's Best Communities competition and was named one of nine Georgia \"live, work, play\" cities by the Georgia Municipal Association."
     },
     {
+      "cityName": "Statham",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,408 at the 2010 census, and 2,813 in 2020."
+    },
+    {
+      "cityName": "Stillmore",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 439 in 2020."
+    },
+    {
       "cityName": "Stockbridge",
       "state": "GA",
       "source": "Wikipedia",
@@ -6056,11 +7316,32 @@
       "fact": "SR 136 runs through the center of the town."
     },
     {
+      "cityName": "Summertown",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 121 in 2020."
+    },
+    {
+      "cityName": "Summerville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,435 at the 2020 census."
+    },
+    {
       "cityName": "Sumner",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Sumner High School is listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Surrency",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 194 in 2020."
     },
     {
       "cityName": "Suwanee",
@@ -6084,6 +7365,20 @@
       "fact": "As of the 2020 census, the city had a population of 7425."
     },
     {
+      "cityName": "Sycamore",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 692 in 2020."
+    },
+    {
+      "cityName": "Sylvania",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,634 in 2020."
+    },
+    {
       "cityName": "Sylvester",
       "state": "GA",
       "source": "Wikipedia",
@@ -6098,6 +7393,34 @@
       "fact": "Talbotton is the county seat and the largest city in Talbot County, Georgia, United States."
     },
     {
+      "cityName": "Talking Rock",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2020 census was 91."
+    },
+    {
+      "cityName": "Tallapoosa",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Tallapoosa had a population of 3,227."
+    },
+    {
+      "cityName": "Tallulah Falls",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Georgia near the Tallulah River."
+    },
+    {
+      "cityName": "Tallulah Falls",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 199 at the 2020 census."
+    },
+    {
       "cityName": "Talmo",
       "state": "GA",
       "source": "Wikipedia",
@@ -6105,11 +7428,60 @@
       "fact": "Talmo calls itself \"The Jewel of Jackson County\"."
     },
     {
+      "cityName": "Tarrytown",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the eastern bank of the Hudson River, approximately 25 miles (40 km) north of Midtown Manhattan in New York City, and is served by a stop on the Metro-North Hudson Line."
+    },
+    {
+      "cityName": "Tarrytown",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "To the north of Tarrytown is the village of Sleepy Hollow."
+    },
+    {
+      "cityName": "Tarrytown",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Tappan Zee Bridge crosses the Hudson at Tarrytown, carrying the New York State Thruway to South Nyack, Rockland County and points in Upstate New York."
+    },
+    {
+      "cityName": "Taylorsville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 252 at the 2020 census, up 20.0% from 210 at the 2010 census."
+    },
+    {
+      "cityName": "Temple",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,089 at the 2020 census, up from 4,228 in 2010, a 20.36% increase."
+    },
+    {
       "cityName": "Tennille",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is considered a suburb of Sandersville."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 9,816 at the 2020 census."
+    },
+    {
+      "cityName": "Thomaston",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of and is included in the Thomaston, Georgia Micropolitan Statistical Area, which is included in the Atlanta - Sandy Springs (GA) - Gainesville (GA) - Alabama (partial) CSA."
     },
     {
       "cityName": "Thomasville",
@@ -6210,11 +7582,46 @@
       "fact": "The area's public schools are administered by the Tift County School District."
     },
     {
+      "cityName": "Tiger",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The tiger is a large cat and a member of the genus Panthera native to Asia."
+    },
+    {
+      "cityName": "Tiger",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes."
+    },
+    {
+      "cityName": "Tiger",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands."
+    },
+    {
+      "cityName": "Tignall",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 485 in 2020."
+    },
+    {
       "cityName": "Toccoa",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It lies in the state's far northeast near the border with South Carolina, about 50 miles (80 km) from Athens and about 90 miles (140 km) northeast of Atlanta."
+    },
+    {
+      "cityName": "Toomsboro",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 383 in 2020."
     },
     {
       "cityName": "Townsend",
@@ -6243,6 +7650,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Townsend includes the United States Marine Corps's Townsend Bombing Range, which is an over 34000 acre area used for combat training by all the U S military branches' pilots."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,195 at the 2020 census."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Trenton is part of the Chattanooga metropolitan area."
     },
     {
       "cityName": "Trion",
@@ -6285,6 +7706,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is named for the Chetoogeta Mountain Tunnel, a 1497-foot (456 m) railroad tunnel built in the late 1840s."
+    },
+    {
+      "cityName": "Turin",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 347 in 2020, up from 274 at the 2010 census."
+    },
+    {
+      "cityName": "Turin",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Atlanta metropolitan area."
     },
     {
       "cityName": "Twin City",
@@ -6378,6 +7813,13 @@
       "fact": "Dooly State Prison is located in the northeast corner of the city."
     },
     {
+      "cityName": "Union City",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 26,830 at the 2020 census."
+    },
+    {
       "cityName": "Union Point",
       "state": "GA",
       "source": "Wikipedia",
@@ -6385,11 +7827,32 @@
       "fact": "As of the 2020 census, the city population was 1597."
     },
     {
+      "cityName": "Uvalda",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 439 at the 2020 census, down from 598 in 2010."
+    },
+    {
       "cityName": "Valdosta",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "With a city population of 55378 in 2020, Valdosta is the home of Valdosta State University, a regional university in the University System of Georgia with over 12000 students as of 2021."
+    },
+    {
+      "cityName": "Varnell",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dalton, Georgia Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Varnell",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,179 at the 2020 census."
     },
     {
       "cityName": "Vernonburg",
@@ -6462,6 +7925,27 @@
       "fact": "As of the 2020 census, the CDP had a total population of 12581."
     },
     {
+      "cityName": "Waco",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Waco had a population of 536."
+    },
+    {
+      "cityName": "Wadley",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,643 in 2020."
+    },
+    {
+      "cityName": "Waleska",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Waleska had a population of 921."
+    },
+    {
       "cityName": "Walthourville",
       "state": "GA",
       "source": "Wikipedia",
@@ -6476,6 +7960,13 @@
       "fact": "Walthourville is a part of the Hinesville-Fort Stewart metropolitan statistical area (MSA)."
     },
     {
+      "cityName": "Warm Springs",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 465 at the 2020 census."
+    },
+    {
       "cityName": "Warner Robins",
       "state": "GA",
       "source": "Wikipedia",
@@ -6487,14 +7978,14 @@
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The base's expansion and the suburbanization of nearby Macon have led to the city's growth in the post-World War II era."
+      "fact": "The base's expansion and the suburbanization of nearby Macon have led to the city's growth in the post-World War 2 era."
     },
     {
       "cityName": "Warner Robins",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is a component of the Macon\u2013Warner Robins\u2013Fort Valley combined statistical area, with an estimated 2018 population of 423572."
+      "fact": "It is a component of the Macon–Warner Robins–Fort Valley combined statistical area, with an estimated 2018 population of 423572."
     },
     {
       "cityName": "Warner Robins",
@@ -6509,6 +8000,27 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Robins Air Force Base, a U S Air Force maintenance and logistics complex that was founded as the Warner Robins Air Depot in 1942, is located east of the city limits."
+    },
+    {
+      "cityName": "Warrenton",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,744 in 2020."
+    },
+    {
+      "cityName": "Warwick",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is 9 miles (14 km) south of Coventry, and 19 miles (31 km) south-east of Birmingham."
+    },
+    {
+      "cityName": "Warwick",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjoined with Leamington Spa and Whitnash."
     },
     {
       "cityName": "Washington",
@@ -6551,6 +8063,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was first listed as a CDP in the 2020 census with a population of 284."
+    },
+    {
+      "cityName": "Waverly Hall",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Columbus, Georgia-Alabama metropolitan statistical area."
+    },
+    {
+      "cityName": "Waverly Hall",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 638 in 2020."
     },
     {
       "cityName": "Waycross",
@@ -6616,6 +8142,13 @@
       "fact": "In 2009, the former town was disincorporated and consolidated with the Unified Government of Webster County."
     },
     {
+      "cityName": "Whigham",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 428 in 2020."
+    },
+    {
       "cityName": "White",
       "state": "GA",
       "source": "Wikipedia",
@@ -6630,11 +8163,25 @@
       "fact": "The communities of Whitemarsh Island are a relatively affluent suburb of Savannah."
     },
     {
+      "cityName": "Whitesburg",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 596 in 2020."
+    },
+    {
       "cityName": "Wildwood",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The 2020 census listed a population of 382."
+    },
+    {
+      "cityName": "Willacoochee",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,240 in 2020."
     },
     {
       "cityName": "Wilmington Island",
@@ -6651,11 +8198,32 @@
       "fact": "The communities of Wilmington Island form a large and affluent suburb of Savannah, where most residents work."
     },
     {
+      "cityName": "Winder",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located east of Atlanta and is part of Metro Atlanta."
+    },
+    {
+      "cityName": "Winder",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 18,338 at the 2020 census."
+    },
+    {
       "cityName": "Winston",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Winston is located at 33.73\u00b0N 84.86\u00b0W / 33.73; -84.86 which is 33\u00b043\u203248\u2033N 84\u00b051\u203236\u2033W."
+      "fact": "Winston is an unincorporated community, formerly incorporated as a city, in southwestern Douglas County, Georgia, United States."
+    },
+    {
+      "cityName": "Winterville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,201 at the 2020 census."
     },
     {
       "cityName": "Woodbine",
@@ -6672,11 +8240,46 @@
       "fact": "Woodbine is a city in and the county seat of Camden County, Georgia, United States, an original county established when the state constitution was adopted in 1777."
     },
     {
+      "cityName": "Woodbury",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 908 at the 2020 census."
+    },
+    {
+      "cityName": "Woodland",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 305 in 2020."
+    },
+    {
       "cityName": "Woodstock",
       "state": "GA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city was the tenth fastest-growing suburb in the United States in 2007."
+    },
+    {
+      "cityName": "Woolsey",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 206 in 2020."
+    },
+    {
+      "cityName": "Wrens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,217 at the 2020 census."
+    },
+    {
+      "cityName": "Wrens",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Route 1, thirty miles west of Augusta."
     },
     {
       "cityName": "Wrightsville",
@@ -6691,6 +8294,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city limits include Johnson State Prison on the northeast side of town."
+    },
+    {
+      "cityName": "Yatesville",
+      "state": "GA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 408 at the 2000 census."
     },
     {
       "cityName": "Young Harris",

@@ -54,7 +54,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During World War II, the town was neighbored by Camp Atlanta, which housed more than 3000 Nazi German prisoners of war over three years."
+      "fact": "During World War 2, the town was neighbored by Camp Atlanta, which housed more than 3000 Nazi German prisoners of war over three years."
     },
     {
       "cityName": "Atlanta",
@@ -68,7 +68,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "His study is preserved at the John G. Neihardt State Historic Site in the village."
+      "fact": "His study is preserved at the John G Neihardt State Historic Site in the village."
     },
     {
       "cityName": "Bancroft",
@@ -355,7 +355,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Dixon is part of the Sioux City, IA\u2013NE\u2013SD Metropolitan Statistical Area."
+      "fact": "Dixon is part of the Sioux City, IA–NE–SD Metropolitan Statistical Area."
     },
     {
       "cityName": "Eagle",
@@ -572,7 +572,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During World War II, Hastings operated the largest Naval Ammunition Depot in the United States, and for this reason was awarded the distinction of American World War II Heritage City by the National Park Service in 2023."
+      "fact": "During World War 2, Hastings operated the largest Naval Ammunition Depot in the United States, and for this reason was awarded the distinction of American World War 2 Heritage City by the National Park Service in 2023."
     },
     {
       "cityName": "Hastings",
@@ -733,7 +733,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "The Bertram G. Goodhue\u2013designed state capitol building was completed in 1932, and is the nation's second-tallest capitol."
+      "fact": "The Bertram G Goodhue–designed state capitol building was completed in 1932, and is the nation's second-tallest capitol."
     },
     {
       "cityName": "Lincoln",
@@ -859,27 +859,20 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Niobrara (; Omaha: N\u00ed Ubth\u00e1tha T\u02b0\u00e1\u207fwa\u207fgtha\u207f, meaning \"water spread-out\") is a village in Knox County, Nebraska, United States."
+      "fact": "Niobrara (; Omaha: Ní Ubthátha Tʰáⁿwaⁿgthaⁿ, meaning \"water spread-out\") is a village in Knox County, Nebraska, United States."
     },
     {
       "cityName": "Norfolk",
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Norfolk is a city in Madison County, Nebraska, United States, 113 miles (182\u00a0km) northwest of Omaha and 76 miles southwest of Sioux City, Iowa, at the intersection of U.S."
-    },
-    {
-      "cityName": "Norfolk",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "The population was 24,955 at the 2020 census, making it the seventh-most populous city in Nebraska."
     },
     {
       "cityName": "Norfolk",
       "state": "NE",
       "source": "Wikipedia",
-      "factNumber": 3,
+      "factNumber": 2,
       "fact": "It is the principal city of the Norfolk Micropolitan Statistical Area."
     },
     {
@@ -887,7 +880,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Today, North Platte is served only by freight trains, but during World War II the city was known for the North Platte Canteen, a volunteer organization serving food to millions of traveling soldiers."
+      "fact": "Today, North Platte is served only by freight trains, but during World War 2 the city was known for the North Platte Canteen, a volunteer organization serving food to millions of traveling soldiers."
     },
     {
       "cityName": "Octavia",
@@ -901,49 +894,14 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Originally named Fort Crook, it was renamed in honor of World War I pilot and Omaha native 1st Lt."
+      "fact": "Offutt Air Force Base is a U.S Air Force base south of Omaha, adjacent to Bellevue in Sarpy County, Nebraska."
     },
     {
       "cityName": "Offutt AFB",
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Aviation use at Offutt began in September 1918 during World War I as an Army Air Service balloon field."
-    },
-    {
-      "cityName": "Offutt AFB",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Offutt AFB's legacy includes the construction of the Enola Gay and Bockscar, the planes that dropped Little Boy and Fat Man over Hiroshima and Nagasaki in World War II."
-    },
-    {
-      "cityName": "Offutt AFB",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Offutt Air Force Base (IATA: OFF, ICAO: KOFF, FAA LID: OFF) is a U S Air Force base south of Omaha, adjacent to Bellevue in Sarpy County, Nebraska."
-    },
-    {
-      "cityName": "Offutt AFB",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "It is the headquarters of the U S Strategic Command (USSTRATCOM), the 557th Weather Wing, and the 55th Wing (55 WG) of the Air Combat Command (ACC), the latter serving as the host unit."
-    },
-    {
-      "cityName": "Offutt AFB",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Jarvis Offutt in 1924."
-    },
-    {
-      "cityName": "Offutt AFB",
-      "state": "NE",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Offutt served over 40 years as the headquarters for the former Strategic Air Command (SAC) and home for its associated ground and aerial command centers for the United States in the case of nuclear war during the Cold War."
+      "fact": "It is the headquarters of the U.S Strategic Command (USSTRATCOM), the 557th Weather Wing, and the 55th Wing of the Air Combat Command (ACC), the latter serving as the host unit."
     },
     {
       "cityName": "Ogallala",
@@ -1006,7 +964,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Petersburg is the site of a memorial to Logan Fontenelle, an Omaha chief who was killed nearby, in a skirmish with Brul\u00e9 and Arapaho in 1855, at the site of the present-day Olson Nature Preserve."
+      "fact": "Petersburg is the site of a memorial to Logan Fontenelle, an Omaha chief who was killed nearby, in a skirmish with Brulé and Arapaho in 1855, at the site of the present-day Olson Nature Preserve."
     },
     {
       "cityName": "Pickrell",
@@ -1195,7 +1153,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Thirty-five trains a day\u2014most of them coal trains\u2014still pass through the area on the BNSF Railway main."
+      "fact": "Thirty-five trains a day—most of them coal trains—still pass through the area on the BNSF Railway main."
     },
     {
       "cityName": "South Sioux City",
@@ -1314,7 +1272,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The village is known as N\u012f\u0161oc in the Hooc\u0105k language."
+      "fact": "The village is known as Nįšoc in the Hoocąk language."
     },
     {
       "cityName": "Wolbach",
@@ -1335,7 +1293,7 @@
       "state": "NE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named after Chief \u201cItan\u201d, whose Native American tribe used to reside in the area."
+      "fact": "It is named after Chief “Itan”, whose Native American tribe used to reside in the area."
     },
     {
       "cityName": "Yutan",

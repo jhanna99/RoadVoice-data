@@ -1,0 +1,12 @@
+{"key":"colony_grill","displayName":"Colony Grill","category":"restaurant","useLocationName":false,"locations":[
+  {"lat":41.1557,"lon":-73.252,"city":"Fairfield","state":"CT","address":"1520 Post Rd","name":"Colony Grill"},
+  {"lat":41.2225,"lon":-73.0565,"city":"Milford","state":"CT","address":"36 Broad St","name":"Colony Grill"},
+  {"lat":41.118,"lon":-73.4185,"city":"Norwalk","state":"CT","address":"515 West Ave","name":"Colony Grill"},
+  {"lat":41.235,"lon":-73.131,"city":"Shelton","state":"CT","address":"902 Bridgeport Ave","name":"Colony Grill"},
+  {"lat":41.0534,"lon":-73.5387,"city":"Stamford","state":"CT","address":"172 Myrtle Ave","name":"Colony Grill"},
+  {"lat":27.7715,"lon":-82.6368,"city":"St. Petersburg","state":"FL","address":"670 Central Ave","name":"Colony Grill"},
+  {"lat":27.953,"lon":-82.4615,"city":"Tampa","state":"FL","address":"3640 Midtown Dr","name":"Colony Grill"},
+  {"lat":39.021,"lon":-77.164,"city":"Potomac","state":"MD","address":"11325 Seven Locks Rd","name":"Colony Grill"},
+  {"lat":41.0018,"lon":-73.6657,"city":"Port Chester","state":"NY","address":"35 Abendroth Ave","name":"Colony Grill"},
+  {"lat":38.8867,"lon":-77.0906,"city":"Arlington","state":"VA","address":"2800 Clarendon Blvd","name":"Colony Grill"}
+]}

@@ -1,6 +1,83 @@
 {
   "facts": [
     {
+      "cityName": "Andover",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Andover is a rural town in Tolland County, Connecticut, United States, roughly 10 miles east of Hartford."
+    },
+    {
+      "cityName": "Andover",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,151 at the 2020 census."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ansonia is a city in New Haven County, Connecticut, United States."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the Naugatuck River, it is immediately north of Derby, and about 12 miles (19 km) northwest of New Haven."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is part of the Naugatuck Valley Planning Region."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The population was 18,918 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The ZIP code for Ansonia is 06401."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The city is served by the Metro-North Railroad."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "Ansonia Station is a stop on the railroad passenger commuter service's Waterbury Branch connecting to New York's Grand Central Terminal."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Ansonia also is served by the Connecticut Transit bus carrier."
+    },
+    {
+      "cityName": "Ansonia",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "Connecticut Route 8 serves Ansonia."
+    },
+    {
       "cityName": "Ashford",
       "state": "CT",
       "source": "Wikipedia",
@@ -169,6 +246,27 @@
       "fact": "The post office also has nearly 100 Christmas-related stamps for customers to decorate their envelopes during the holiday season."
     },
     {
+      "cityName": "Bloomfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bloomfield is a suburb of Hartford in the Capitol Planning Region, Connecticut, United States."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town's population was 21,535 at the 2020 census, Bloomfield's highest decennial census count ever."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Bloomfield is best known as the headquarters of healthcare services company Cigna."
+    },
+    {
       "cityName": "Bolton",
       "state": "CT",
       "source": "Wikipedia",
@@ -271,14 +369,14 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Bridgewater was one of the last remaining dry towns (Eastford is still a dry town) in Connecticut until voters approved the sale of alcohol in a 2014 referendum, by a 660\u2013246 vote."
+      "fact": "Bridgewater was one of the last remaining dry towns (Eastford is still a dry town) in Connecticut until voters approved the sale of alcohol in a 2014 referendum, by a 660–246 vote."
     },
     {
       "cityName": "Bristol",
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bristol is a suburban city located in Hartford County, Connecticut, United States, 20 miles (32\u00a0km) southwest-west of Hartford. The city is also 120 miles southwest from Boston, and approximately 100 miles northeast of New York City. The city is part of the Naugatuck Valley Planning Region."
+      "fact": "Bristol is a suburban city located in Hartford County, Connecticut, United States, 20 miles (32 km) southwest-west of Hartford. The city is also 120 miles southwest from Boston, and approximately 100 miles northeast of New York City. The city is part of the Naugatuck Valley Planning Region."
     },
     {
       "cityName": "Bristol",
@@ -299,7 +397,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The parish later was renamed and incorporated as the town of Brookfield in 1788, named for Rev. Thomas Brooks, the first minister of the parish's Congregational church."
+      "fact": "The parish later was renamed and incorporated as the town of Brookfield in 1788, named for Reverend Thomas Brooks, the first minister of the parish's Congregational church."
     },
     {
       "cityName": "Brookfield",
@@ -638,6 +736,20 @@
       "fact": "The birthplace of Captain Nathan Hale, Coventry is home to the Nathan Hale Homestead, which is now a museum open to the public."
     },
     {
+      "cityName": "Cromwell",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cromwell is a town in Middlesex County, Connecticut, United States, located within the Lower Connecticut River Valley Planning Region."
+    },
+    {
+      "cityName": "Cromwell",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 14,225 at the 2020 census."
+    },
+    {
       "cityName": "Danbury",
       "state": "CT",
       "source": "Wikipedia",
@@ -764,6 +876,20 @@
       "fact": "The town is part of the Lower Connecticut River Valley Planning Region."
     },
     {
+      "cityName": "East Granby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Granby is a town in the Capitol Planning Region, Connecticut, United States."
+    },
+    {
+      "cityName": "East Granby",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,214 at the 2020 census."
+    },
+    {
       "cityName": "East Haddam",
       "state": "CT",
       "source": "Wikipedia",
@@ -782,7 +908,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Chatham Historical Society Museum and the Joseph N. Goff House Museum and Cultural Center are located in the town."
+      "fact": "The Chatham Historical Society Museum and the Joseph N Goff House Museum and Cultural Center are located in the town."
     },
     {
       "cityName": "East Hampton",
@@ -1009,6 +1135,48 @@
       "fact": "The town is part of the Greater Bridgeport Planning Region."
     },
     {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmington is a town in Hartford County in the Farmington Valley area of central Connecticut in the United States."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is part of the Capitol Planning Region."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 26,712 at the 2020 census."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It sits 10 miles west of Hartford at the hub of major I-84 interchanges, 25 miles south of Bradley International Airport and two hours by car from New York City and Boston."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It has been home to the world headquarters of several large corporations including Otis Elevator Company, United Technologies, and Carvel."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The northwestern section of Farmington is a suburban neighborhood called Unionville."
+    },
+    {
       "cityName": "Franklin",
       "state": "CT",
       "source": "Wikipedia",
@@ -1027,49 +1195,28 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The two historic districts are irregularly shaped, and are separated by a railroad cut and some non-contributing buildings."
+      "fact": "It is located along the eastern bank of the Thames River."
     },
     {
       "cityName": "Gales Ferry",
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Much of the core of the original settlement at the site of the former ferry has been included in two separate historic districts, each with several farmstead buildings from the late colonial and early national periods (late 18th and early 19th century)."
-    },
-    {
-      "cityName": "Gales Ferry",
-      "state": "CT",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Several farmsteads that are individually listed on the National Register of Historic Places are located close to Gales Ferry."
-    },
-    {
-      "cityName": "Gales Ferry",
-      "state": "CT",
-      "source": "Wikipedia",
-      "factNumber": 4,
       "fact": "The community developed as a result of having a ferry to Uncasville located at this site, and from which the village was named."
     },
     {
       "cityName": "Gales Ferry",
       "state": "CT",
       "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "These are the Nathan Lester House on Vinegar Hill Road, the Perkins-Bill House at 1040 Long Cove Road, and the Capt."
-    },
-    {
-      "cityName": "Gales Ferry",
-      "state": "CT",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Mark Stoddard Farmstead at 24 Vinegar Hill Road."
+      "factNumber": 3,
+      "fact": "Gales Ferry was listed as a census-designated place for the 2010 Census, with a population of 1,162."
     },
     {
       "cityName": "Glastonbury",
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Glastonbury ( GLAST-\u0259n-berr-ee) is a town in the Capitol Planning Region, Connecticut, United States, officially founded in 1693 and first settled in 1636."
+      "fact": "Glastonbury is a town in the Capitol Planning Region, Connecticut, United States, officially founded in 1693 and first settled in 1636."
     },
     {
       "cityName": "Glastonbury",
@@ -1958,7 +2105,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mystic Seaport, located in the village, is the largest maritime museum in the United States and has preserved a number of sailing ships, such as the whaling ship Charles W. Morgan."
+      "fact": "Mystic Seaport, located in the village, is the largest maritime museum in the United States and has preserved a number of sailing ships, such as the whaling ship Charles W Morgan."
     },
     {
       "cityName": "Mystic",
@@ -2126,7 +2273,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "New Haven had the first public tree planting program in the U.S., producing a canopy of mature trees (including some large elms) that gave the city the nickname \"The Elm City\"."
+      "fact": "New Haven had the first public tree planting program in the US, producing a canopy of mature trees (including some large elms) that gave the city the nickname \"The Elm City\"."
     },
     {
       "cityName": "New Haven",
@@ -2315,7 +2462,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "1888/1889); and over thirty buildings, in a wide variety of styles, designed by Alfredo S. G. Taylor (of the New York firm Taylor & Levi) in the four decades before the Second World War."
+      "fact": "1888/1889); and over thirty buildings, in a wide variety of styles, designed by Alfredo S G Taylor (of the New York firm Taylor & Levi) in the four decades before the Second World War."
     },
     {
       "cityName": "Norfolk",
@@ -2589,6 +2736,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Part of the Lower Connecticut River Valley Planning Region, the population was 10481 at the 2020 census."
+    },
+    {
+      "cityName": "Orange",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orange is a town in New Haven County, Connecticut, part of the South Central Connecticut Planning Region."
+    },
+    {
+      "cityName": "Orange",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 14,280 at the 2020 census."
+    },
+    {
+      "cityName": "Orange",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is governed by a Board of Selectmen."
     },
     {
       "cityName": "Oxford",
@@ -2868,7 +3036,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Rocky Hill\u2019s location on the Connecticut River made it a natural port for Wethersfield and an early center for shipbuilding, agriculture, and trade."
+      "fact": "Rocky Hill’s location on the Connecticut River made it a natural port for Wethersfield and an early center for shipbuilding, agriculture, and trade."
     },
     {
       "cityName": "Rocky Hill",
@@ -2904,6 +3072,27 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "Rocky Hill also was once the headquarters of Ames Department Stores, which ceased business operations in 2002."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roxbury is a town in Litchfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,260 at the 2020 census."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located 65 miles (105 km) northeast of New York City, and is part of the Northwest Hills Planning Region."
     },
     {
       "cityName": "Salem",
@@ -2981,6 +3170,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town is part of the Northwest Hills Planning Region."
+    },
+    {
+      "cityName": "Shelton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shelton is a city in Fairfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Shelton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 40,869 at the 2020 United States Census."
+    },
+    {
+      "cityName": "Shelton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is part of the Naugatuck Valley Planning Region."
     },
     {
       "cityName": "Sherman",
@@ -3190,7 +3400,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named after William Sprague III, who laid out the industrial section."
+      "fact": "The town was named after William Sprague 3, who laid out the industrial section."
     },
     {
       "cityName": "Sprague",
@@ -3344,7 +3554,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is part of the Greater Bridgeport Planning Region, and the Bridgeport\u2013Stamford\u2013Norwalk Metropolitan Statistical Area."
+      "fact": "The town is part of the Greater Bridgeport Planning Region, and the Bridgeport–Stamford–Norwalk Metropolitan Statistical Area."
     },
     {
       "cityName": "Stratford",
@@ -3540,7 +3750,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "After independence, the successful American Yankees named the town after one of their own, Jonathan Trumbull (1710\u20131785), a merchant, Patriot (American soldier) and statesman."
+      "fact": "After independence, the successful American Yankees named the town after one of their own, Jonathan Trumbull (1710–1785), a merchant, Patriot (American soldier) and statesman."
     },
     {
       "cityName": "Trumbull",
@@ -3977,6 +4187,27 @@
       "fact": "A new public library (formerly located within Hall Memorial School) opened in autumn 2006."
     },
     {
+      "cityName": "Wilton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wilton is a town in Fairfield County, Connecticut, United States."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the town population was 18,503."
+    },
+    {
+      "cityName": "Wilton",
+      "state": "CT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Western Connecticut Planning Region."
+    },
+    {
       "cityName": "Winchester",
       "state": "CT",
       "source": "Wikipedia",
@@ -4177,7 +4408,7 @@
       "state": "CT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The public buildings in the National Register Historic District include the First Congregational Church (1818), the Old Town Hall (1846), the United Methodist Church, the St. Paul's Episcopal Church (1785), and the North Congregational Church (1816)."
+      "fact": "The public buildings in the National Register Historic District include the First Congregational Church (1818), the Old Town Hall (1846), the United Methodist Church, the Saint Paul's Episcopal Church (1785), and the North Congregational Church (1816)."
     },
     {
       "cityName": "Woodbury",

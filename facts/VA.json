@@ -12,7 +12,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Abingdon is part of the Kingsport\u2212Bristol (TN) Metropolitan Statistical Area, which is a component of the Johnson City\u2212Kingsport\u2212Bristol, TN-VA Combined Statistical Area \u2212 commonly known as the Tri-Cities region."
+      "fact": "Abingdon is part of the Kingsport−Bristol (TN) Metropolitan Statistical Area, which is a component of the Johnson City−Kingsport−Bristol, TN-VA Combined Statistical Area − commonly known as the Tri-Cities region."
+    },
+    {
+      "cityName": "Accomac",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 526 at the 2020 census."
     },
     {
       "cityName": "Afton",
@@ -20,6 +27,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is newly listed as a CDP in the 2020 census with a population of 313."
+    },
+    {
+      "cityName": "Alberta",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 302 at the 2020 census."
     },
     {
       "cityName": "Aldie",
@@ -127,11 +141,39 @@
       "fact": "The city is therefore sometimes referred to as the \"City of Alexandria\" to avoid confusion."
     },
     {
+      "cityName": "Altavista",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is in the Lynchburg Metropolitan Area, and its population was 3,378 at the 2020 census."
+    },
+    {
+      "cityName": "Altavista",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded in 1907 by John Edward Lane and Henry L Lane of the Lane Company, and was chartered in September 1912."
+    },
+    {
       "cityName": "Amelia",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named for Princess Amelia of Great Britain, the second daughter of Great Britain's King George II, in 1735."
+      "fact": "The town was named for Princess Amelia of Great Britain, the second daughter of Great Britain's King George 2, in 1735."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Amherst had a population of 2,110."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Amherst County."
     },
     {
       "cityName": "Amissville",
@@ -148,6 +190,27 @@
       "fact": "It is home to the oldest and largest branch of the Northern Virginia Community College system, and to one of the D C area's Koreatowns."
     },
     {
+      "cityName": "Appalachia",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Appalachia had a population of 1,432."
+    },
+    {
+      "cityName": "Appomattox",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Appomattox had a population of 1,919."
+    },
+    {
+      "cityName": "Appomattox",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Appomattox County."
+    },
+    {
       "cityName": "Aquia Harbour",
       "state": "VA",
       "source": "Wikipedia",
@@ -159,7 +222,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Arlington County, or simply Arlington, is a county in the U.S."
+      "fact": "Arlington County, or simply Arlington, is a county in the US state of Virginia."
     },
     {
       "cityName": "Arlington",
@@ -174,55 +237,6 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The smallest self-governing county in the United States by area, Arlington County has both suburban and urbanized districts."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Its urbanized districts are located in proximity to several Washington Metro stations and lines."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Its seat of government is located in the Court House neighborhood, which hosts many of its administrative offices and county courthouse."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Originally part of the Nacotchtank tribe's territory prior to the establishment of the Colony of Virginia in 1606, English colonists began settling in Arlington by the 1670s; the area was eventually designated as part of Fairfax County in 1742."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The colonial-era economy was mostly based in tobacco agriculture operated with enslaved labor and indentured servants on large plantations."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Following the end of the Revolutionary War, Arlington's planters and yeoman farmers transitioned to other crops."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "Virginia ceded present-day Arlington to help form the District of Columbia, and from 1801 the area was known as Alexandria County; it was eventually retroceded back to Virginia in 1847 as a result of pressure from Alexandria, which was the county's primary commercial center."
-    },
-    {
-      "cityName": "Arlington",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "During the Civil War, Arlington formed part of the Union's defenses of Washington, which devastated its landscape and economy."
     },
     {
       "cityName": "Arrington",
@@ -260,6 +274,13 @@
       "fact": "Although comprising only one square mile when originally incorporated in 1858, today Ashland has grown through several annexations to a size of 7.16 square miles (18.5 km2)."
     },
     {
+      "cityName": "Atkins",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,143 at the 2010 census."
+    },
+    {
       "cityName": "Austinville",
       "state": "VA",
       "source": "Wikipedia",
@@ -271,7 +292,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is the birthplace of Stephen F. Austin, for whose family it is named."
+      "fact": "The town is the birthplace of Stephen F Austin, for whose family it is named."
     },
     {
       "cityName": "Austinville",
@@ -306,7 +327,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Later, in 1781, Todd's Bridge provided crossing of the Mattaponi as a part of the Washington\u2013Rochambeau Revolutionary Route Burlington, Holly Hill, Roseville Plantation, and Zoar are listed on the National Register of Historic Places."
+      "fact": "Later, in 1781, Todd's Bridge provided crossing of the Mattaponi as a part of the Washington–Rochambeau Revolutionary Route Burlington, Holly Hill, Roseville Plantation, and Zoar are listed on the National Register of Historic Places."
     },
     {
       "cityName": "Aylett",
@@ -509,7 +530,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "U. S. Racing Hall of Fame jockey Ted Atkinson (1916-2005) made his home in Beaverdam."
+      "fact": "U S Racing Hall of Fame jockey Ted Atkinson (1916-2005) made his home in Beaverdam."
     },
     {
       "cityName": "Beaverdam",
@@ -645,6 +666,13 @@
       "fact": "As of 2025, the population of Bentonville is 1625."
     },
     {
+      "cityName": "Berryville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,574 at the 2020 census, up from 4,185 at the 2010 census."
+    },
+    {
       "cityName": "Big Island",
       "state": "VA",
       "source": "Wikipedia",
@@ -701,11 +729,39 @@
       "fact": "Bland was originally known as Bland Court House."
     },
     {
+      "cityName": "Bloxom",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bloxom had a population of 387."
+    },
+    {
       "cityName": "Blue Ridge",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The CDP is located along U S Route 460."
+    },
+    {
+      "cityName": "Bluefield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bluefield is a town in Tazewell County, Virginia, United States, located along the Bluestone River."
+    },
+    {
+      "cityName": "Bluefield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,096 at the 2020 census."
+    },
+    {
+      "cityName": "Bluefield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Bluefield WV-VA micropolitan area which has a population of 106,363 in 2020."
     },
     {
       "cityName": "Bon Air",
@@ -729,11 +785,46 @@
       "fact": "The community is considered a suburb of the independent city of Richmond in the Richmond-Petersburg region and is a part of the Southside neighborhoods."
     },
     {
+      "cityName": "Boones Mill",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 239 in 2018, and as of the 2020 census, Boones Mill had a population of 259."
+    },
+    {
       "cityName": "Bowling Green",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Bowling Green is an incorporated town in Caroline County, Virginia, United States."
+    },
+    {
+      "cityName": "Boyce",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 749 at the 2020 census, up from 589 at the 2010 census."
+    },
+    {
+      "cityName": "Boydton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 302 at the 2020 census."
+    },
+    {
+      "cityName": "Boydton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Mecklenburg County, and it is near Kerr Lake."
+    },
+    {
+      "cityName": "Boykins",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 516 at the 2020 census, and in 2025 about 525."
     },
     {
       "cityName": "Bracey",
@@ -764,11 +855,39 @@
       "fact": "Construction started on the Brambleton community in 2001."
     },
     {
+      "cityName": "Branchville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 118 at the 2020 census."
+    },
+    {
       "cityName": "Brandermill",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Brandermill is a major suburban residential and commercial development in the Southside of Richmond, Virginia, United States."
+    },
+    {
+      "cityName": "Bremo Bluff",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The locale was established by the Cocke family in 1636."
+    },
+    {
+      "cityName": "Bremo Bluff",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "During the American Civil War, the family of General Robert E Lee sought refuge in the community."
+    },
+    {
+      "cityName": "Bremo Bluff",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to Bremo Power Station, which, at one point, generated 3 percent of the total electricity delivered by utility company Dominion Energy."
     },
     {
       "cityName": "Bridgewater",
@@ -841,6 +960,27 @@
       "fact": "According to Data US, which includes US Census American Community Survey data, between 2012 and 2016 Broadlands had an estimated population of 13872 people, with a median age of 33.9 and a median household income of $169353."
     },
     {
+      "cityName": "Broadway",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Broadway had a population of 4,170."
+    },
+    {
+      "cityName": "Broadway",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Harrisonburg metropolitan area."
+    },
+    {
+      "cityName": "Brodnax",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 283 at the 2020 census."
+    },
+    {
       "cityName": "Brookneal",
       "state": "VA",
       "source": "Wikipedia",
@@ -887,7 +1027,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Buena Vista ( BEW-n\u0259 VIS-t\u0259) is an independent city located in the Blue Ridge Mountains region of Virginia in the United States."
+      "fact": "Buena Vista ( BEW-nə VIS-tə) is an independent city located in the Blue Ridge Mountains region of Virginia in the United States."
     },
     {
       "cityName": "Buena Vista",
@@ -904,6 +1044,27 @@
       "fact": "The Bureau of Economic Analysis combines the independent cities of Buena Vista and Lexington, along with surrounding Rockbridge County, for statistical purposes."
     },
     {
+      "cityName": "Bull Run",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Aldie is an unincorporated community and census-designated place (CDP) located between Chantilly and Middleburg in Loudoun County, Virginia, United States."
+    },
+    {
+      "cityName": "Bull Run",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The historic village of Aldie is located on the John Mosby Highway in a gap between the Catoctin Mountains and Bull Run Mountains, through which the Little River flows."
+    },
+    {
+      "cityName": "Bull Run",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Aldie traditionally serves as the gateway to the Loudoun Valley and beyond."
+    },
+    {
       "cityName": "Bumpass",
       "state": "VA",
       "source": "Wikipedia",
@@ -915,7 +1076,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community was named for John T. Bumpass, one of the first postmasters in the area."
+      "fact": "The community was named for John T Bumpass, one of the first postmasters in the area."
     },
     {
       "cityName": "Bumpass",
@@ -1000,6 +1161,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is the only CDP designated area in the county that is outside of the Appalachian Mountains in the Virginia Piedmont."
+    },
+    {
+      "cityName": "Cape Charles",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,178 as of the 2020 Census."
+    },
+    {
+      "cityName": "Capon Bridge",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 418 at the 2020 census."
+    },
+    {
+      "cityName": "Capron",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 141 at the 2020 census."
     },
     {
       "cityName": "Carrollton",
@@ -1142,6 +1324,20 @@
       "fact": "Cave Spring covers much of the area known locally as \"Southwest County\" which has the most affluent suburbs of Roanoke."
     },
     {
+      "cityName": "Cedar Bluff",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cedar Bluff had a population of 1,069."
+    },
+    {
+      "cityName": "Cedar Bluff",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield, WV-VA micropolitan area, which has a population of 107,578."
+    },
+    {
       "cityName": "Centreville",
       "state": "VA",
       "source": "Wikipedia",
@@ -1153,14 +1349,21 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It had a population of 73518, making it the most-populous community in Fairfax County as of the 2020 U S census Centreville is approximately 20 miles (32 km) west of Washington, D.C."
+      "fact": "It had a population of 73,518, making it the most-populous community in Fairfax County as of the 2020 US census"
+    },
+    {
+      "cityName": "Chamberlayne",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,581 at the 2020 census."
     },
     {
       "cityName": "Champlain",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Glebe House of St. Anne's Parish, St. Matthew's Church, and Linden are listed on the National Register of Historic Places."
+      "fact": "The Glebe House of Saint Anne's Parish, Saint Matthew's Church, and Linden are listed on the National Register of Historic Places."
     },
     {
       "cityName": "Champlain",
@@ -1174,7 +1377,21 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "U S Route 50 and Virginia State Route 28 intersect in Chantilly, and these highways provide access to the Dulles/Reston/Tysons Corner technology corridor and other major employment centers in Northern Virginia and Washington, D.C."
+      "fact": "The population was 24,301 as of the 2020 census."
+    },
+    {
+      "cityName": "Chantilly",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located in the Northern Virginia portion of the Washington metropolitan area, Chantilly sits approximately 25 miles (40 km) west of Washington, D.C., via Interstate 66 and U.S Route 50."
+    },
+    {
+      "cityName": "Chantilly",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is located between Centreville to the south, Herndon and Reston to the north and northeast, respectively, and Fairfax 7 miles (11 km) to the southeast."
     },
     {
       "cityName": "Charles City",
@@ -1196,6 +1413,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Charles City lies at the intersection of State Routes 5 and 155."
+    },
+    {
+      "cityName": "Charlotte Court House",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 756 at the 2020 census."
     },
     {
       "cityName": "Charlottesville",
@@ -1258,7 +1482,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Chase City was incorporated in 1873 and named for Salmon P. Chase, United States Chief Justice and Lincoln's Secretary of the Treasury."
+      "fact": "Chase City was incorporated in 1873 and named for Salmon P Chase, United States Chief Justice and Lincoln's Secretary of the Treasury."
     },
     {
       "cityName": "Chase City",
@@ -1287,6 +1511,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Chatham is home to Chatham High School, Hargrave Military Academy, and Chatham Hall, an all-female boarding high school."
+    },
+    {
+      "cityName": "Cheriton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 486 at the 2020 census."
     },
     {
       "cityName": "Cherry Hill",
@@ -1538,7 +1769,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is the site of the Kenilworth home, once owned by Harry K. Thaw, the old Hopewell Meeting House, Stonewall Elementary School, the Clearbrook Park, and the Frederick County Fairgrounds."
+      "fact": "It is the site of the Kenilworth home, once owned by Harry K Thaw, the old Hopewell Meeting House, Stonewall Elementary School, the Clearbrook Park, and the Frederick County Fairgrounds."
     },
     {
       "cityName": "Clear Brook",
@@ -1560,6 +1791,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Fox's body was found March 9, 2006."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cleveland had a population of 136."
     },
     {
       "cityName": "Clifton",
@@ -1625,6 +1863,27 @@
       "fact": "Today, the southern and eastern portions of the area are heavily forested, with single-family homes, while the northern area has become equestrian areas."
     },
     {
+      "cityName": "Clinchco",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town, formerly known as Moss, was named for both the Clinchfield Railroad and the Clinchfield Coal Corporation."
+    },
+    {
+      "cityName": "Clinchco",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Clinchco had a population of 244."
+    },
+    {
+      "cityName": "Clinchco",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Clinchco post office was established in 1917."
+    },
+    {
       "cityName": "Clinchport",
       "state": "VA",
       "source": "Wikipedia",
@@ -1658,6 +1917,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Although originally called \"Holly Creek\" after a small stream that runs through the town, it was later named \"Clintwood\" after Major Henry Clinton Wood, a Confederate officer in the 37th Virginia Infantry Regiment."
+    },
+    {
+      "cityName": "Coeburn",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Coeburn had a population of 1,598."
     },
     {
       "cityName": "Collinsville",
@@ -1805,6 +2071,41 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "The Bureau of Economic Analysis combines the city of Covington with Alleghany county for statistical purposes."
+    },
+    {
+      "cityName": "Craigsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Craigsville had a population of 899."
+    },
+    {
+      "cityName": "Craigsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Crewe",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,262 at the 2020 census."
+    },
+    {
+      "cityName": "Crimora",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,209 at the 2010 census, a 23% increase from the 1,796 reported in 2000."
+    },
+    {
+      "cityName": "Crimora",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
     },
     {
       "cityName": "Cross Junction",
@@ -2066,6 +2367,20 @@
       "fact": "It hosts the Danville Otterbots baseball club of the Appalachian League."
     },
     {
+      "cityName": "Dayton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population is 1,688 as of the 2020 census."
+    },
+    {
+      "cityName": "Dayton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Harrisonburg metropolitan area."
+    },
+    {
       "cityName": "Deltaville",
       "state": "VA",
       "source": "Wikipedia",
@@ -2091,7 +2406,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Sculptor Leslie Garland Bolling was born in Dendron, as was mayor of Hopewell, Virginia, Curtis W. Harris."
+      "fact": "Sculptor Leslie Garland Bolling was born in Dendron, as was mayor of Hopewell, Virginia, Curtis W Harris."
     },
     {
       "cityName": "Dillwyn",
@@ -2119,7 +2434,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Originally called Hanover Junction, it was located on the Virginia Central Railroad (later, part of the C&O) at a crossing of the Richmond, Fredericksburg and Potomac Railroad, a north\u2013south route."
+      "fact": "Originally called Hanover Junction, it was located on the Virginia Central Railroad (later, part of the C&O) at a crossing of the Richmond, Fredericksburg and Potomac Railroad, a north–south route."
     },
     {
       "cityName": "Doswell",
@@ -2134,6 +2449,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The area near the Doswell train station is a popular train-watching site for railfans."
+    },
+    {
+      "cityName": "Drakes Branch",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Drakes Branch had a population of 533."
     },
     {
       "cityName": "Dranesville",
@@ -2178,6 +2500,13 @@
       "fact": "Dry Fork, Virginia may refer to: Dry Fork, Bland County, Virginia Dry Fork, Pittsylvania County, Virginia"
     },
     {
+      "cityName": "Dryden",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,208 at the 2010 census."
+    },
+    {
       "cityName": "Dublin",
       "state": "VA",
       "source": "Wikipedia",
@@ -2203,7 +2532,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "It is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Dugspur",
@@ -2217,28 +2546,28 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The headquarters of Northrop Grumman Innovation Systems and ODIN Technologies, as well as the former headquarters of MCI Inc."
+      "fact": "The headquarters of Northrop Grumman Innovation Systems and ODIN Technologies, as well as the former headquarters of MCI Inc and AOL are located in Dulles."
     },
     {
       "cityName": "Dulles",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "and AOL are located in Dulles."
+      "fact": "The National Weather Service Baltimore/Washington forecast office and the National Weather Service's Sterling Field Support Center are also both in Dulles."
     },
     {
-      "cityName": "Dulles",
+      "cityName": "Dumbarton",
       "state": "VA",
       "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "The National Weather Service Baltimore/Washington forecast office and the National Weather Service's Sterling Field Support Center are also both in Dulles."
+      "factNumber": 1,
+      "fact": "The population was 7,879 at the 2010 census."
     },
     {
       "cityName": "Dumfries",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Dumfries ( DUM-freez), officially the Town of Dumfries, is a town in Prince William County, Virginia, United States."
+      "fact": "Dumfries, officially the Town of Dumfries, is a town in Prince William County, Virginia, United States."
     },
     {
       "cityName": "Dungannon",
@@ -2252,7 +2581,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Dungannon is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "Dungannon is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Dunn Loring",
@@ -2273,7 +2602,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Natives of the community include Pauline C. Morton."
+      "fact": "Natives of the community include Pauline C Morton."
     },
     {
       "cityName": "Dutton",
@@ -2308,7 +2637,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Rev. John Gibson, a farmer and landowner, preached there for years."
+      "fact": "Reverend John Gibson, a farmer and landowner, preached there for years."
     },
     {
       "cityName": "Eagle Rock",
@@ -2318,11 +2647,32 @@
       "fact": "It was first listed as a CDP in the 2020 census with a population of 209."
     },
     {
+      "cityName": "East Highland Park",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 15,131 at the 2020 census."
+    },
+    {
       "cityName": "Eastville",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Northampton County Courthouse Historic District is part of the Eastville Historic District at the county seat."
+    },
+    {
+      "cityName": "Ebony",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2010 Census was 161."
+    },
+    {
+      "cityName": "Edinburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Edinburg had a population of 1,178."
     },
     {
       "cityName": "Elkton",
@@ -2518,7 +2868,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The same website also states another theory behind the town's name\u2014that it was named for Exmoor, Devon, in south west England."
+      "fact": "The same website also states another theory behind the town's name—that it was named for Exmoor, Devon, in south west England."
     },
     {
       "cityName": "Exmore",
@@ -2553,6 +2903,13 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
+      "fact": "The population was 12,420 at the 2020 census."
+    },
+    {
+      "cityName": "Fairfax Station",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
       "fact": "Located in Northern Virginia, its center is located 22 miles (35 km) southwest of Washington, D.C."
     },
     {
@@ -2561,6 +2918,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Fairfield, Virginia may refer to: Fairfield, part of Sandston, Virginia, in Henrico County Fairfield (Berryville, Virginia) Fairfield, Rockbridge County, Virginia"
+    },
+    {
+      "cityName": "Fairlawn",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is bounded by Interstate 295, Pennsylvania Avenue SE, Minnesota Avenue SE, Naylor Road SE, and Good Hope Road SE."
     },
     {
       "cityName": "Falls Church",
@@ -2612,6 +2976,13 @@
       "fact": "Situated on the north bank of the Rappahannock River at the falls, the community is north of and opposite the city of Fredericksburg."
     },
     {
+      "cityName": "Fancy Gap",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 237 at the 2010 census."
+    },
+    {
       "cityName": "Farmville",
       "state": "VA",
       "source": "Wikipedia",
@@ -2640,6 +3011,13 @@
       "fact": "US 15, VA 45 and US 460 now intersect at Farmville."
     },
     {
+      "cityName": "Farnham",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farnham is an unincorporated community in Richmond County, in the US state of Virginia."
+    },
+    {
       "cityName": "Ferrum",
       "state": "VA",
       "source": "Wikipedia",
@@ -2647,11 +3025,67 @@
       "fact": "Ferrum is home to Ferrum College and its Blue Ridge Folklife Festival."
     },
     {
+      "cityName": "Fieldale",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 879 at the 2010 census."
+    },
+    {
+      "cityName": "Fieldale",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Martinsville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fincastle",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 755 at the 2020 census."
+    },
+    {
+      "cityName": "Fincastle",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Botetourt County."
+    },
+    {
+      "cityName": "Fincastle",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Roanoke metropolitan area."
+    },
+    {
+      "cityName": "Fishersville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 9,629 at the 2020 census."
+    },
+    {
+      "cityName": "Fishersville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Flint Hill",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Flint Hill, Virginia may refer to: Flint Hill, Pittsylvania County, Virginia Flint Hill, Rappahannock County, Virginia Flint Hill School in Fairfax County"
+    },
+    {
+      "cityName": "Floris",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population at the 2020 census was 8,341."
     },
     {
       "cityName": "Floyd",
@@ -2666,6 +3100,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The name was subsequently changed to Floyd for Virginia governor John Floyd."
+    },
+    {
+      "cityName": "Forest",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 11,709 at the 2020 census."
+    },
+    {
+      "cityName": "Forest",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lynchburg Metropolitan Statistical Area."
     },
     {
       "cityName": "Fork Union",
@@ -2728,7 +3176,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was known as Camp A. A. Humphreys from 1917 to 1935 and Fort Belvoir afterward."
+      "fact": "It was known as Camp A A Humphreys from 1917 to 1935 and Fort Belvoir afterward."
     },
     {
       "cityName": "Fort Belvoir",
@@ -2766,6 +3214,13 @@
       "fact": "Fort Chiswell is located at the junction of Interstates 77 and 81."
     },
     {
+      "cityName": "Fort Defiance",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Fort Eustis",
       "state": "VA",
       "source": "Wikipedia",
@@ -2777,14 +3232,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In 2010, it was combined with nearby Langley Air Force Base to form Joint Base Langley\u2013Eustis."
+      "fact": "In 2010, it was combined with nearby Langley Air Force Base to form Joint Base Langley–Eustis."
     },
     {
       "cityName": "Fort Eustis",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The post is the home to the United States Army Training and Doctrine Command, the U S Army Aviation Logistics School, the 7th Transportation Brigade, and Joint Task Force \u2013 Civil Support."
+      "fact": "The post is the home to the United States Army Training and Doctrine Command, the U S Army Aviation Logistics School, the 7th Transportation Brigade, and Joint Task Force – Civil Support."
     },
     {
       "cityName": "Fort Eustis",
@@ -2910,7 +3365,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Although Virginia became part of the Confederate States of America, Fort Monroe remained in Union hands throughout the American Civil War (1861\u20131865)."
+      "fact": "Although Virginia became part of the Confederate States of America, Fort Monroe remained in Union hands throughout the American Civil War (1861–1865)."
     },
     {
       "cityName": "Fort Monroe",
@@ -2959,7 +3414,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is near the Springfield Mall shopping area and the Franconia\u2013Springfield Washington Metro station."
+      "fact": "It is near the Springfield Mall shopping area and the Franconia–Springfield Washington Metro station."
     },
     {
       "cityName": "Franconia",
@@ -3067,6 +3522,34 @@
       "fact": "Freeman is an unincorporated community located in Brunswick County, in the U S state of Virginia, formally known as Totaro."
     },
     {
+      "cityName": "Fries",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fries is an incorporated town located on the New River in Grayson County, Virginia, United States, 15.5 miles northeast of the county seat of Independence — in Virginia's Blue Ridge Highlands and on Virginia's musical heritage trail, The Crooked Road."
+    },
+    {
+      "cityName": "Front Royal",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Front Royal is the only incorporated town in Warren County, Virginia, United States."
+    },
+    {
+      "cityName": "Front Royal",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was estimated at 15,400 as of 2023."
+    },
+    {
+      "cityName": "Front Royal",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the county seat of Warren County."
+    },
+    {
       "cityName": "Gainesville",
       "state": "VA",
       "source": "Wikipedia",
@@ -3100,6 +3583,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Galax is bounded to the northeast by Carroll County and to the southwest by Grayson County."
+    },
+    {
+      "cityName": "Gasburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2010 Census was 481."
     },
     {
       "cityName": "Gate City",
@@ -3151,11 +3641,32 @@
       "fact": "Glasgow has had issues with flooding, notably during Hurricane Camille in 1969."
     },
     {
+      "cityName": "Glen Allen",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,187 as of the 2020 Census, up from 14,774 at the 2010 census."
+    },
+    {
       "cityName": "Glen Lyn",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Glen Lyn was incorporated as a town in 1926, and remained so until 2024 after its residents voted to dissolve the town's charter and become an unincorporated community."
+    },
+    {
+      "cityName": "Gloucester",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gloucester Courthouse is a census-designated place (CDP) in and the county seat of Gloucester County, Virginia, United States."
+    },
+    {
+      "cityName": "Gloucester",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,951 at the 2010 census."
     },
     {
       "cityName": "Gloucester Point",
@@ -3221,6 +3732,13 @@
       "fact": "The town is known for hosting Goshen Scout Reservation, one of the largest Boy Scout camps in America."
     },
     {
+      "cityName": "Grafton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2010 Census, the Grafton postal area had a population of 18,846."
+    },
+    {
       "cityName": "Great Falls",
       "state": "VA",
       "source": "Wikipedia",
@@ -3249,11 +3767,39 @@
       "fact": "The community between Fairfax City and Chantilly dates from the late 1960s, when it was developed by Levitt & Sons."
     },
     {
+      "cityName": "Greenville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 887 at the 2020 census."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Greenwood",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Greenwood, Virginia may refer to: Greenwood, Albemarle County, Virginia Greenwood, Bath County, Virginia"
+    },
+    {
+      "cityName": "Gretna",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gretna had a population of 1,310."
+    },
+    {
+      "cityName": "Gretna",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Danville Micropolitan Statistical Area."
     },
     {
       "cityName": "Grottoes",
@@ -3354,6 +3900,20 @@
       "fact": "Gum Spring is located at the intersection of U S routes 250 and 522, 18 miles (29 km) south-southeast of Louisa."
     },
     {
+      "cityName": "Halifax",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Halifax had a population of 1,118."
+    },
+    {
+      "cityName": "Halifax",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Halifax County."
+    },
+    {
       "cityName": "Hallwood",
       "state": "VA",
       "source": "Wikipedia",
@@ -3361,11 +3921,18 @@
       "fact": "As of the 2010 census, the town population was 206."
     },
     {
+      "cityName": "Hamilton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hamilton had a population of 619."
+    },
+    {
       "cityName": "Hampden-Sydney",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hampden Sydney is the home of Hampden\u2013Sydney College, a private all-male college that is the tenth-oldest institution of higher education in the United States."
+      "fact": "Hampden Sydney is the home of Hampden–Sydney College, a private all-male college that is the tenth-oldest institution of higher education in the United States."
     },
     {
       "cityName": "Hampton",
@@ -3554,7 +4121,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Hugh Hayes served in the Polk\u2019s Regiment during the American Revolution."
+      "fact": "Hugh Hayes served in the Polk’s Regiment during the American Revolution."
     },
     {
       "cityName": "Hayes",
@@ -3571,11 +4138,25 @@
       "fact": "One of the first chapters of the Commonwealth of Virginia.\""
     },
     {
+      "cityName": "Haymarket",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,545 as of the 2020 census."
+    },
+    {
       "cityName": "Haynesville",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Haynesville is located on U S Route 360 east of Warsaw."
+    },
+    {
+      "cityName": "Haysi",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Haysi had a population of 484."
     },
     {
       "cityName": "Heathsville",
@@ -3596,7 +4177,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Heathsville Historic District, Coan Baptist Church, Howland Chapel School, Kirkland Grove Campground, Rice's Hotel, Oakley, St. Stephen's Church, Sunnyside, and The Academy are listed on the National Register of Historic Places."
+      "fact": "The Heathsville Historic District, Coan Baptist Church, Howland Chapel School, Kirkland Grove Campground, Rice's Hotel, Oakley, Saint Stephen's Church, Sunnyside, and The Academy are listed on the National Register of Historic Places."
     },
     {
       "cityName": "Heathsville",
@@ -3620,11 +4201,32 @@
       "fact": "In 2020, the population at the census was 24655, which makes it the largest of three incorporated towns in the county."
     },
     {
+      "cityName": "Highland Springs",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,604 at the 2020 census."
+    },
+    {
+      "cityName": "Hillsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,897 at the 2020 census."
+    },
+    {
+      "cityName": "Hillsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Carroll County."
+    },
+    {
       "cityName": "Hiltons",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Kingsport-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "It is part of the Kingsport-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Hollins",
@@ -3639,6 +4241,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Hollins covers much of the area known locally as \"North County\"."
+    },
+    {
+      "cityName": "Hollymead",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2010 Census was 7,690."
+    },
+    {
+      "cityName": "Honaker",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,217 at the 2020 census."
     },
     {
       "cityName": "Hopewell",
@@ -3753,11 +4369,32 @@
       "fact": "There are also several high-rise apartment and condominium complexes on and near U S Route 1 where much of the CDP's population resides."
     },
     {
+      "cityName": "Hurley",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hurley is an unincorporated community in Buchanan County, Virginia, United States, located at the convergence of County Routes 643, 646, 650, and 697, a short distance from the Kentucky and West Virginia state lines."
+    },
+    {
       "cityName": "Hurt",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is included in the Danville, Virginia Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hybla Valley",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 15,801 at the 2010 census, down from 16,721 in 2000 due to a reduction in area, resulting from some of the eastward neighborhoods including much of Hollin Hills being moved to the Fort Hunt CDP."
+    },
+    {
+      "cityName": "Hybla Valley",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population increased to 16,319 in the 2020 census."
     },
     {
       "cityName": "Idylwood",
@@ -3806,7 +4443,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Town park is home to the Independence Farmers Market, which opens weekly from May\u2013October and online year-round."
+      "fact": "Town park is home to the Independence Farmers Market, which opens weekly from May–October and online year-round."
     },
     {
       "cityName": "Independence",
@@ -3820,7 +4457,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Remaining work includes bathrooms, utilities and sitework \u2014 as well as a stage."
+      "fact": "Remaining work includes bathrooms, utilities and sitework — as well as a stage."
     },
     {
       "cityName": "Independent Hill",
@@ -3849,6 +4486,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The Greenwood Gold Mine operated nearby for a few years before closing in 1885."
+    },
+    {
+      "cityName": "Iron Gate",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 324 at the 2020 census."
     },
     {
       "cityName": "Irvington",
@@ -3883,7 +4527,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "D. S. Tavern, Home Tract, Spring Hill, Woodstock Hall Tavern and Blue Ridge Swim Club are listed on the National Register of Historic Places."
+      "fact": "D S Tavern, Home Tract, Spring Hill, Woodstock Hall Tavern and Blue Ridge Swim Club are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "Jamesville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jamesville is an unincorporated community in Northampton County, Virginia, United States."
     },
     {
       "cityName": "Jarratt",
@@ -3914,6 +4565,20 @@
       "fact": "The town is centered around the intersection of SR 671 (Jetersville Road, a short loop segment of old US 360) and SR 640 (Perkinson Road)."
     },
     {
+      "cityName": "Jonesville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 872 as of the 2020 census."
+    },
+    {
+      "cityName": "Keller",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Keller had a population of 144."
+    },
+    {
       "cityName": "Kenbridge",
       "state": "VA",
       "source": "Wikipedia",
@@ -3932,7 +4597,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is home to the Lunenburg Girls\u2019 Softball league, Lunenburg Lightning Football and Cheerleading league and the United Futbol Soccer league."
+      "fact": "The town is home to the Lunenburg Girls’ Softball league, Lunenburg Lightning Football and Cheerleading league and the United Futbol Soccer league."
     },
     {
       "cityName": "Kenbridge",
@@ -3963,6 +4628,13 @@
       "fact": "Laughton and The Oaks are listed on the National Register of Historic Places."
     },
     {
+      "cityName": "Keswick",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Keswick is a census-designated place in Albemarle County, Virginia, United States, about six miles (9.7 km) east of Charlottesville."
+    },
+    {
       "cityName": "Keysville",
       "state": "VA",
       "source": "Wikipedia",
@@ -3988,7 +4660,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Lancaster Middle School, grades 4\u20138, is also located in town."
+      "fact": "Lancaster Middle School, grades 4–8, is also located in town."
     },
     {
       "cityName": "Kilmarnock",
@@ -4033,6 +4705,13 @@
       "fact": "The community is also known as King William Courthouse or, by an alternative spelling, King William Court House."
     },
     {
+      "cityName": "Kings Park West",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census the population was 13,465 people"
+    },
+    {
       "cityName": "Kingstowne",
       "state": "VA",
       "source": "Wikipedia",
@@ -4052,6 +4731,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It began construction in the 1980s through the Halle Companies and is still expanding today in the town center with commercial and office space and in the subdivisions with more single-family homes."
+    },
+    {
+      "cityName": "Kinsale",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named after Kinsale, in Ireland."
     },
     {
       "cityName": "La Crosse",
@@ -4086,14 +4772,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The lake is named for Doctor John W. Barcroft, who owned and operated a mill on Holmes Run during the mid-19th century."
+      "fact": "The lake is named for Doctor John W Barcroft, who owned and operated a mill on Holmes Run during the mid-19th century."
     },
     {
       "cityName": "Lake Barcroft",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is also the name of the privately owned lake\u2014part of the Cameron Run Watershed\u2014around which this population is located."
+      "fact": "It is also the name of the privately owned lake—part of the Cameron Run Watershed—around which this population is located."
     },
     {
       "cityName": "Lake Monticello",
@@ -4122,6 +4808,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is an annex of Woodbridge."
+    },
+    {
+      "cityName": "Lake of the Woods",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a gated subdivision covering approximately 2,600 acres with 4,260 lots distributed among 16 sections."
+    },
+    {
+      "cityName": "Lake of the Woods",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It includes more than 41 miles of paved private roads, and since 2020 has been listed in the Washington–Baltimore combined statistical area."
     },
     {
       "cityName": "Lakeside",
@@ -4292,6 +4992,20 @@
       "fact": "In a county along the southern border of the state, the town is near the northernmost area for cotton growing."
     },
     {
+      "cityName": "Lebanon",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lebanon had a population of 3,159."
+    },
+    {
+      "cityName": "Lebanon",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Russell County."
+    },
+    {
       "cityName": "Leesburg",
       "state": "VA",
       "source": "Wikipedia",
@@ -4383,6 +5097,20 @@
       "fact": "Lexington is an independent city in the Commonwealth of Virginia, United States."
     },
     {
+      "cityName": "Lincolnia",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 22,828 at the 2010 census, an increase of over 44% from 2000."
+    },
+    {
+      "cityName": "Linden",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located west of Washington, D.C. at exit 13 off Interstate 66."
+    },
+    {
       "cityName": "Linton Hall",
       "state": "VA",
       "source": "Wikipedia",
@@ -4415,14 +5143,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Fox Hill Plantation and St. Mary's, Whitechapel are listed on the National Register of Historic Places."
+      "fact": "Fox Hill Plantation and Saint Mary's, Whitechapel are listed on the National Register of Historic Places."
     },
     {
       "cityName": "Lively",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "State delegate Robert O. Norris, Junior was born in Lively."
+      "fact": "State delegate Robert O Norris, Junior was born in Lively."
     },
     {
       "cityName": "Lively",
@@ -4453,6 +5181,34 @@
       "fact": "Locust Hill may refer to the following places in the U S state of Virginia: Locust Hill, Middlesex County, Virginia Locust Hill, Prince William County, Virginia Locust Hill, Wythe County, Virginia"
     },
     {
+      "cityName": "Lorton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 20,072 as of the 2020 census."
+    },
+    {
+      "cityName": "Lottsburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lottsburg is an unincorporated community in Northumberland County, in the US state of Virginia."
+    },
+    {
+      "cityName": "Louisa",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,983 at the 2020 census."
+    },
+    {
+      "cityName": "Louisa",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Louisa County."
+    },
+    {
       "cityName": "Lovettsville",
       "state": "VA",
       "source": "Wikipedia",
@@ -4472,6 +5228,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was among the communities severely affected by flash flooding from Hurricane Camille in 1969."
+    },
+    {
+      "cityName": "Low Moor",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 258 at the 2010 census."
     },
     {
       "cityName": "Lowes Island",
@@ -4528,6 +5291,41 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Lynchburg is an independent city in Virginia, United States."
+    },
+    {
+      "cityName": "Madison",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 205 at the 2020 census."
+    },
+    {
+      "cityName": "Madison Heights",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,893 at the 2020 census."
+    },
+    {
+      "cityName": "Madison Heights",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lynchburg Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Manakin Sabot",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Manakin Sabot, consisting of the villages of Manakin and Sabot, is an affluent unincorporated community in Goochland County, Virginia, United States."
+    },
+    {
+      "cityName": "Manakin Sabot",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located northwest of Richmond in the Piedmont and is part of the Greater Richmond region."
     },
     {
       "cityName": "Manassas",
@@ -4656,6 +5454,13 @@
       "fact": "However, together with the neighborhoods, an additional 9000 residents residing in unincorporated Smyth County have Marion mailing addresses, granting the Marion ZIP code (24354) a total population of about 14500, which is approximately half of the county's total population."
     },
     {
+      "cityName": "Marshall",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of 2024 was 3,292."
+    },
+    {
       "cityName": "Martinsville",
       "state": "VA",
       "source": "Wikipedia",
@@ -4705,6 +5510,13 @@
       "fact": "The main roads in Mattaponi are SR 33 and SR 605."
     },
     {
+      "cityName": "Max Meadows",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 562 at the 2010 census."
+    },
+    {
       "cityName": "McKenney",
       "state": "VA",
       "source": "Wikipedia",
@@ -4723,7 +5535,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is the location of Hickory Hill, the former home of Ethel Kennedy, the widow of Robert F. Kennedy."
+      "fact": "It is the location of Hickory Hill, the former home of Ethel Kennedy, the widow of Robert F Kennedy."
     },
     {
       "cityName": "McLean",
@@ -4901,6 +5713,20 @@
       "fact": "Meherrin was originally named Moore's Ordinary."
     },
     {
+      "cityName": "Melfa",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 396 at the 2020 census."
+    },
+    {
+      "cityName": "Merrifield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 20,488 at the 2020 census."
+    },
+    {
       "cityName": "Middleburg",
       "state": "VA",
       "source": "Wikipedia",
@@ -4913,6 +5739,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Middleburg is known as the \"Nation's Horse and Hunt Capital\" for its foxhunting, steeplechases, and large estates."
+    },
+    {
+      "cityName": "Middletown",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Middletown had a population of 1,355."
+    },
+    {
+      "cityName": "Midlothian",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Settled as a coal town, Midlothian village experienced suburbanization effects and is now part of the western suburbs of Richmond, south of the James River in the Greater Richmond Region."
+    },
+    {
+      "cityName": "Midlothian",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Because of its unincorporated status, Midlothian has no formal government, and the name is used to represent the original small Village of Midlothian and a vast expanse of Chesterfield County in the northwestern portion of Southside Richmond served by the Midlothian post office."
     },
     {
       "cityName": "Milford",
@@ -4969,6 +5816,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "An affluent residential community surrounding a man-made lake and golf course, development began in the late 1960s and new home construction ended during the 1990s."
+    },
+    {
+      "cityName": "Monterey",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 165 at the 2020 census."
     },
     {
       "cityName": "Montpelier",
@@ -5041,6 +5895,13 @@
       "fact": "In June 2021, the Montpelier Foundation approved bylaws to share in governance of the estate with the Montpelier Descendants Committee, composed of descendants of those enslaved at the estate."
     },
     {
+      "cityName": "Montrose",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 7,909 at the 2020 census."
+    },
+    {
       "cityName": "Montross",
       "state": "VA",
       "source": "Wikipedia",
@@ -5076,6 +5937,13 @@
       "fact": "The privately owned Metro Richmond Zoo is located here and has operated year round on its 70-acre facility since 1995."
     },
     {
+      "cityName": "Mount Crawford",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is included in the Harrisonburg metropolitan area, and as of the 2020 census, the town had a population of 439."
+    },
+    {
       "cityName": "Mount Jackson",
       "state": "VA",
       "source": "Wikipedia",
@@ -5094,14 +5962,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Sidney Historic District and Mt."
-    },
-    {
-      "cityName": "Mount Sidney",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Sidney School are listed on the National Register of Historic Places."
+      "fact": "The population as of the 2010 Census was 663."
     },
     {
       "cityName": "Mount Vernon",
@@ -5123,6 +5984,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Per the 2020 census, the population was 533."
+    },
+    {
+      "cityName": "Nathalie",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population as of the 2010 census was 183."
     },
     {
       "cityName": "Natural Bridge",
@@ -5188,6 +6056,20 @@
       "fact": "The service district designation provides added access to utilities, such as water and sewer, and targets the area for growth."
     },
     {
+      "cityName": "New Canton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Route 15 below the James River, northeast of the county seat of Buckingham."
+    },
+    {
+      "cityName": "New Canton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It has a post office with the ZIP code 23123."
+    },
+    {
       "cityName": "New Castle",
       "state": "VA",
       "source": "Wikipedia",
@@ -5220,7 +6102,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Criss Cross and St. Peter's Church are listed on the National Register of Historic Places, and New Kent High School and George W. Watkins High School are National Historic Landmarks."
+      "fact": "Criss Cross and Saint Peter's Church are listed on the National Register of Historic Places, and New Kent High School and George W Watkins High School are National Historic Landmarks."
     },
     {
       "cityName": "New Kent",
@@ -5255,7 +6137,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The north\u2013south U S 11 and the east\u2013west U S 211 pass near it and cross Massanutten Mountain at the town's titular gap."
+      "fact": "The north–south U S 11 and the east–west U S 211 pass near it and cross Massanutten Mountain at the town's titular gap."
     },
     {
       "cityName": "Newington",
@@ -5279,6 +6161,27 @@
       "fact": "The 2010 census showed a significant decrease after half the population was split off to the newly created Newington Forest CDP."
     },
     {
+      "cityName": "Newport",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newport News is an independent city in southeastern Virginia, United States."
+    },
+    {
+      "cityName": "Newport",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 186,247."
+    },
+    {
+      "cityName": "Newport",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located in the Hampton Roads region, it is the fifth-most populous city in Virginia and 140th-most populous city in the United States."
+    },
+    {
       "cityName": "Newport News",
       "state": "VA",
       "source": "Wikipedia",
@@ -5297,7 +6200,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "In 1881, fifteen years of rapid development began under the leadership of Collis P. Huntington, whose new Peninsula Extension of the Chesapeake and Ohio Railway opened up means of transportation for the railroad to bring West Virginia bituminous coal to port for coastal shipping."
+      "fact": "In 1881, fifteen years of rapid development began under the leadership of Collis P Huntington, whose new Peninsula Extension of the Chesapeake and Ohio Railway opened up means of transportation for the railroad to bring West Virginia bituminous coal to port for coastal shipping."
     },
     {
       "cityName": "Newport News",
@@ -5318,7 +6221,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Most of the area now known as Newport News was once a part of Warwick County, one of the eight original shires of Virginia formed in the British Colony of Virginia by order of Charles I of England in 1634."
+      "fact": "Most of the area now known as Newport News was once a part of Warwick County, one of the eight original shires of Virginia formed in the British Colony of Virginia by order of Charles 1 of England in 1634."
     },
     {
       "cityName": "Newport News",
@@ -5346,14 +6249,21 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "With many residents employed at the expansive Newport News Shipbuilding, the joint U S Air Force\u2013Army installation at Joint Base Langley\u2013Eustis, and other military bases and suppliers, the city's economy is very connected to the military."
+      "fact": "With many residents employed at the expansive Newport News Shipbuilding, the joint U S Air Force–Army installation at Joint Base Langley–Eustis, and other military bases and suppliers, the city's economy is very connected to the military."
+    },
+    {
+      "cityName": "Newsoms",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Newsoms had a population of 286."
     },
     {
       "cityName": "Nickelsville",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "It is part of the Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Nokesville",
@@ -5402,7 +6312,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Norfolk (locally NOR-f\u0259k) is an independent city in the U S commonwealth of Virginia."
+      "fact": "Norfolk (locally NOR-fək) is an independent city in the U S commonwealth of Virginia."
     },
     {
       "cityName": "Norfolk",
@@ -5431,6 +6341,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "North is located on Virginia State Route 14, 4.75 miles (7.64 km) west of Mathews."
+    },
+    {
+      "cityName": "North Springfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 7,274 at the 2010 census."
     },
     {
       "cityName": "Norton",
@@ -5479,6 +6396,13 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
+      "fact": "The population was 36,732 at the 2020 census."
+    },
+    {
+      "cityName": "Oakton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
       "fact": "Located in Northern Virginia, its center is 16 miles (26 km) west of Washington, D.C."
     },
     {
@@ -5507,7 +6431,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The current mayor is Earnest W. Porta Junior Today, the town is a restored artists' community, with shops, outdoor dining, ghost walks, and a town boat dock, as well as historic buildings dating back to the 19th century."
+      "fact": "The current mayor is Earnest W Porta Junior Today, the town is a restored artists' community, with shops, outdoor dining, ghost walks, and a town boat dock, as well as historic buildings dating back to the 19th century."
     },
     {
       "cityName": "Occoquan",
@@ -5563,14 +6487,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "He recalled \u201cas a very small boy, I remember the sassafras logs laying about the woods and the holes where the stumps had been dug out."
+      "fact": "He recalled “as a very small boy, I remember the sassafras logs laying about the woods and the holes where the stumps had been dug out."
     },
     {
       "cityName": "Oilville",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "They used the stumps and roots only for distilling the oil.\u201d For more information see the story Oilville?"
+      "fact": "They used the stumps and roots only for distilling the oil.” For more information see the story Oilville?"
     },
     {
       "cityName": "Oilville",
@@ -5578,6 +6502,20 @@
       "source": "Wikipedia",
       "factNumber": 9,
       "fact": "by \"Wick Hunt\" in \"Oyster Ranching Etc.\", online."
+    },
+    {
+      "cityName": "Onancock",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Onancock had a population of 1,169."
+    },
+    {
+      "cityName": "Onley",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Onley had a population of 532."
     },
     {
       "cityName": "Orange",
@@ -5629,6 +6567,13 @@
       "fact": "The town is named after Paean, the Ancient Greek physician of the gods."
     },
     {
+      "cityName": "Painter",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Painter had a population of 272."
+    },
+    {
       "cityName": "Palmyra",
       "state": "VA",
       "source": "Wikipedia",
@@ -5643,6 +6588,27 @@
       "fact": "Palmyra lies on the eastern bank of the Rivanna River along U S Route 15."
     },
     {
+      "cityName": "Pamplin",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pamplin City is a town in Appomattox and Prince Edward counties in the US state of Virginia."
+    },
+    {
+      "cityName": "Pamplin",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 138 at the 2020 United States census."
+    },
+    {
+      "cityName": "Pamplin City",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 138 at the 2020 United States census."
+    },
+    {
       "cityName": "Parksley",
       "state": "VA",
       "source": "Wikipedia",
@@ -5650,11 +6616,53 @@
       "fact": "It is home to the Eastern Shore Railway Museum."
     },
     {
+      "cityName": "Pearisburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,909 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Pearisburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Pearisburg is part of the Blacksburg-Christiansburg metropolitan area."
+    },
+    {
       "cityName": "Pembroke",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Pembroke is home to the Mountain Lake Lodge that was featured in Dirty Dancing."
+    },
+    {
+      "cityName": "Penhook",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 801 at the 2010 census, up from 726 in 2000."
+    },
+    {
+      "cityName": "Penhook",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke metropolitan area."
+    },
+    {
+      "cityName": "Penn Laird",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Penn Laird is an unincorporated community in Rockingham County, Virginia, United States."
+    },
+    {
+      "cityName": "Pennington Gap",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,624 at the 2020 census."
     },
     {
       "cityName": "Petersburg",
@@ -5675,7 +6683,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "During the American Civil War (1861\u20131865), because of this railroad network, Petersburg became critical to Union plans to capture the Confederate States national capital established early in the war at Richmond."
+      "fact": "During the American Civil War (1861–1865), because of this railroad network, Petersburg became critical to Union plans to capture the Confederate States national capital established early in the war at Richmond."
     },
     {
       "cityName": "Petersburg",
@@ -5710,7 +6718,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "The 1864\u201365 Siege of Petersburg, which included the Battle of the Crater and nine months of trench warfare devastated the city."
+      "fact": "The 1864–65 Siege of Petersburg, which included the Battle of the Crater and nine months of trench warfare devastated the city."
     },
     {
       "cityName": "Petersburg",
@@ -5725,6 +6733,13 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Two Baptist churches in the city, whose congregations were founded in the late 18th century, are among the oldest black congregations and churches in the United States."
+    },
+    {
+      "cityName": "Phenix",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Phenix had a population of 232."
     },
     {
       "cityName": "Pilot",
@@ -5753,6 +6768,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It lies along the path of the now-defunct Virginia Blue Ridge Railway."
+    },
+    {
+      "cityName": "Pocahontas",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was named for Chief Powhatan's daughter, Pocahontas, who lived in the 17th-century Jamestown Settlement."
+    },
+    {
+      "cityName": "Pocahontas",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town was founded as a company mining town by the Southwest Virginia Improvement Company in 1881."
+    },
+    {
+      "cityName": "Pocahontas",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was the first company mining town in Virginia."
     },
     {
       "cityName": "Poquoson",
@@ -5888,6 +6924,13 @@
       "fact": "Potomac Mills may refer to: Potomac Mills (shopping mall) in Woodbridge, Virginia Potomac Mills, Prince William County, Virginia Potomac Mills, Westmoreland County, Virginia Potomac Mills (Shepherdstown, West Virginia)"
     },
     {
+      "cityName": "Pound",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pound had a population of 877."
+    },
+    {
       "cityName": "Pounding Mill",
       "state": "VA",
       "source": "Wikipedia",
@@ -5976,7 +7019,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The county is named after Prince William, Duke of Cumberland, the youngest son of King George II."
+      "fact": "The county is named after Prince William, Duke of Cumberland, the youngest son of King George 2."
     },
     {
       "cityName": "Prince William",
@@ -6084,6 +7127,20 @@
       "fact": "There, on the harbor of Hampton Roads, coal piers were built to load colliers for worldwide export shipment."
     },
     {
+      "cityName": "Pulaski",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pulaski had a population of 8,985."
+    },
+    {
+      "cityName": "Pulaski",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Pulaski County."
+    },
+    {
       "cityName": "Purcellville",
       "state": "VA",
       "source": "Wikipedia",
@@ -6123,7 +7180,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Crump's Mill and Millpond and New Kent High School and George W. Watkins High School are listed on the National Register of Historic Places."
+      "fact": "Crump's Mill and Millpond and New Kent High School and George W Watkins High School are listed on the National Register of Historic Places."
     },
     {
       "cityName": "Radford",
@@ -6193,7 +7250,28 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "In 1974, the pastor was Rev. Major Gorham, and Mrs. Ruth Harris was clerk."
+      "fact": "In 1974, the pastor was Reverend Major Gorham, and Missus Ruth Harris was clerk."
+    },
+    {
+      "cityName": "Raphine",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Raphine is an unincorporated community in Rockbridge County in the Shenandoah Valley in the US state of Virginia."
+    },
+    {
+      "cityName": "Raven",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,270 at the 2010 census."
+    },
+    {
+      "cityName": "Red House",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Red House is a small unincorporated community in Charlotte County, Virginia, United States."
     },
     {
       "cityName": "Remington",
@@ -6214,7 +7292,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The intent of Reston's founder, Robert E. Simon, was to build a town that would revolutionize post\u2013World War II concepts of land use and residential/corporate development in suburban America."
+      "fact": "The intent of Reston's founder, Robert E Simon, was to build a town that would revolutionize post–World War 2 concepts of land use and residential/corporate development in suburban America."
     },
     {
       "cityName": "Reston",
@@ -6252,11 +7330,39 @@
       "fact": "The nearest town to Rice is Farmville."
     },
     {
+      "cityName": "Rich Creek",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Rich Creek had a population of 749."
+    },
+    {
+      "cityName": "Rich Creek",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Blacksburg-Christiansburg metropolitan area."
+    },
+    {
+      "cityName": "Richlands",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,261 at the 2020 census."
+    },
+    {
+      "cityName": "Richlands",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield, WV-VA micropolitan area which has a population of 107,578."
+    },
+    {
       "cityName": "Richmond",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During the Revolutionary War period, several notable events occurred in the city, including Patrick Henry's \"Give me liberty or give me death!\" speech in 1775 at St. John's Church and the passage of the Virginia Statute for Religious Freedom written by Thomas Jefferson."
+      "fact": "During the Revolutionary War period, several notable events occurred in the city, including Patrick Henry's \"Give me liberty or give me death!\" speech in 1775 at Saint John's Church and the passage of the Virginia Statute for Religious Freedom written by Thomas Jefferson."
     },
     {
       "cityName": "Richmond",
@@ -6396,49 +7502,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "The post office was instead given the name of a prominent citizen of the village, Mr. David Riner, who later served in the Virginia House of Delegates."
+      "fact": "The post office was instead given the name of a prominent citizen of the village, Mister David Riner, who later served in the Virginia House of Delegates."
     },
     {
       "cityName": "Ringgold",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Samuel Ringgold, a hero of the Battle of Palo Alto in the U.S.-Mexican War."
-    },
-    {
-      "cityName": "Ringgold",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The community was named after Maj."
-    },
-    {
-      "cityName": "Ringgold",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 3,
       "fact": "The local high school is Dan River High School."
-    },
-    {
-      "cityName": "Ringgold",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Ringgold is an unincorporated community in Pittsylvania County in the U S state of Virginia with a postal zip code 24586."
-    },
-    {
-      "cityName": "Ringgold",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Ringgold lies twenty minutes' drive away from Danville, Virginia."
-    },
-    {
-      "cityName": "Ringgold",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Southern Ringgold touches the southern border of Virginia and North Carolina."
     },
     {
       "cityName": "Roanoke",
@@ -6501,14 +7572,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "Roanoke ( ROH-\u0259-nohk) is an independent city in Virginia, United States."
+      "fact": "Roanoke is an independent city in Virginia, United States."
     },
     {
       "cityName": "Roanoke",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "Roanoke is about 50 miles (80 km) north of the Virginia\u2013North Carolina border and 250 miles (400 km) southwest of Washington, D.C., along Interstate 81."
+      "fact": "Roanoke is about 50 miles (80 km) north of the Virginia–North Carolina border and 250 miles (400 km) southwest of Washington, D.C., along Interstate 81."
     },
     {
       "cityName": "Rockingham",
@@ -6609,6 +7680,20 @@
       "fact": "One example of this is Carrington Glen, a rural conservation development (meaning 70% of the land remains undeveloped and undisturbed by development) of new homes on an old farm tract."
     },
     {
+      "cityName": "Rocky Mount",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town is part of the Roanoke metropolitan area, and had a population of 4,903 as of the 2020 census."
+    },
+    {
+      "cityName": "Rocky Mount",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located in the Roanoke Region of Virginia."
+    },
+    {
       "cityName": "Rose Hill",
       "state": "VA",
       "source": "Wikipedia",
@@ -6651,46 +7736,18 @@
       "fact": "The community has also been known as Elway and Oaks Garage, the latter name coming from a service station in the settlement."
     },
     {
+      "cityName": "Roseland",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was among the communities severely affected by flash flooding from Hurricane Camille in 1969."
+    },
+    {
       "cityName": "Rosslyn",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Notable structures include the United States Marine Corps War Memorial, and the Netherlands Carillon and Freedom Park offer views of the Washington Monument and other Washington landmarks."
-    },
-    {
-      "cityName": "Rosslyn",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Rosslyn residents have an average household income of $105000 and 81% are college graduates."
-    },
-    {
-      "cityName": "Rosslyn",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "It is in Northern Virginia, north of Arlington National Cemetery and directly across the Potomac River from Georgetown and Foggy Bottom in Washington, D C Rosslyn encompasses the Arlington neighborhoods of North Rosslyn and Radnor/Ft."
-    },
-    {
-      "cityName": "Rosslyn",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Myer Heights, and is located east of Court House, another urbanized Arlington neighborhood."
-    },
-    {
-      "cityName": "Rosslyn",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Characterized as one of several \"urban villages\" by the county, the numerous skyscrapers in the dense business section of Rosslyn make its appearance in some ways more urban than nearby Washington."
-    },
-    {
-      "cityName": "Rosslyn",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Establishments in the neighborhood include Sinclair Broadcast Group-owned ABC affiliate WJLA located in the Rosslyn Twin Towers, and Marriott International's longest operating hotel, the former Key Bridge Marriott."
+      "fact": "It is in Northern Virginia, north of Arlington National Cemetery and directly across the Potomac River from Georgetown and Foggy Bottom in Washington, D.C."
     },
     {
       "cityName": "Round Hill",
@@ -6719,6 +7776,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The community lies amidst hills, mountain views, trees, and farmland."
+    },
+    {
+      "cityName": "Rural Retreat",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Rural Retreat had a population of 1,546."
     },
     {
       "cityName": "Rustburg",
@@ -6760,7 +7824,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Ruther Glen is an unincorporated community in Caroline County, Virginia, United States, located near the interchange between Interstate 95 and Virginia State Highway 207, at 37\u00b056\u203219.6152\u2033N 77\u00b028\u203217.2776\u2033W (37.938782, -77.471466)."
+      "fact": "Ruther Glen is an unincorporated community in Caroline County, Virginia, United States, located near the interchange between Interstate 95 and Virginia State Highway 207, at 37°56′19.6152″N 77°28′17.2776″W (37.938782, -77.471466)."
     },
     {
       "cityName": "Ruther Glen",
@@ -6781,7 +7845,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Politician Julian M. Quarles was born near the community."
+      "fact": "Politician Julian M Quarles was born near the community."
     },
     {
       "cityName": "Ruther Glen",
@@ -6795,7 +7859,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Virginia City Hybrid Energy Center, which powers 150000 homes, is located in St. Paul."
+      "fact": "Virginia City Hybrid Energy Center, which powers 150000 homes, is located in Saint Paul."
     },
     {
       "cityName": "Saint Stephens Church",
@@ -6851,7 +7915,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Kingsport\u2013Bristol (TN)\u2013Bristol (VA) Metropolitan Statistical Area, which is a component of the Johnson City\u2013Kingsport\u2013Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "It is part of the Kingsport–Bristol (TN)–Bristol (VA) Metropolitan Statistical Area, which is a component of the Johnson City–Kingsport–Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
+    },
+    {
+      "cityName": "Saluda",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saluda is a census-designated place (CDP) in and the county seat of Middlesex County, Virginia, United States."
     },
     {
       "cityName": "Sandston",
@@ -6901,6 +7972,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Saxe is 5.6 miles (9.0 km) southwest of Drakes Branch."
+    },
+    {
+      "cityName": "Saxis",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Saxis had a population of 172."
+    },
+    {
+      "cityName": "Scottsburg",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Scottsburg had a population of 127."
+    },
+    {
+      "cityName": "Scottsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 522 at the 2020 census."
+    },
+    {
+      "cityName": "Scottsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Charlottesville Metropolitan Statistical Area."
     },
     {
       "cityName": "Seven Corners",
@@ -6973,74 +8072,32 @@
       "fact": "The family likely took its name from the village of Shackleford, in the English county of Surrey, which adjoins Hampshire and is not far from London."
     },
     {
+      "cityName": "Shawsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,310 at the 2010 census."
+    },
+    {
+      "cityName": "Shawsville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Blacksburg–Christiansburg Metropolitan Statistical Area which encompasses all of Montgomery County, Virginia, and the city of Radford."
+    },
+    {
+      "cityName": "Shenandoah",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,486 at the 2020 census."
+    },
+    {
       "cityName": "Short Pump",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The crossroads was officially named Short Pump by 1853, according to a Henrico County map found in the Virginia Historical Society."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "According to local legend, it was named for the short handled water pump for stagecoach horses to drink from, which was located beneath the porch of the tavern, though there is some debate over the name's origin."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "This area was on the principal route between Richmond and Charlottesville, as well as other towns in the Blue Ridge Mountains."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "The original village of Short Pump was located at the intersection of Three Chopt Road (formerly known as Three Notched Trail), Richmond Turnpike and Pouncey Tract Road."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "The area first centered around a local tavern that was expanded by Col."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Robert H. Saunders beginning in 1814."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Thomas Jefferson, the Earl Cornwallis, the Marquis de Lafayette, General Peter Muhlenberg, Stonewall Jackson and Ulric Dahlgren all visited this area."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "It has now become part of Richmond's Far West End."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "In 2003, developers opened Short Pump Town Center, a 1200000-square-foot (110000 m2) open air shopping mall."
-    },
-    {
-      "cityName": "Short Pump",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "Other shopping and living spaces include West Broad Village."
+      "fact": "The population was 30,626 at the 2020 census."
     },
     {
       "cityName": "Skippers",
@@ -7071,6 +8128,55 @@
       "fact": "Originally an agricultural community, the primary industries are cotton and peanut farming."
     },
     {
+      "cityName": "Smithfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 8,533 at the 2020 census."
+    },
+    {
+      "cityName": "South Boston",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Boston, formerly Boyd's Ferry, is a town in Halifax County, Virginia, United States."
+    },
+    {
+      "cityName": "South Boston",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, South Boston had a population of 7,966."
+    },
+    {
+      "cityName": "South Boston",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the most populous town in Halifax County."
+    },
+    {
+      "cityName": "South Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Midlothian is an unincorporated area and census-designated place in Chesterfield County, Virginia, United States."
+    },
+    {
+      "cityName": "South Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Settled as a coal town, Midlothian village experienced suburbanization effects and is now part of the western suburbs of Richmond, south of the James River in the Greater Richmond Region."
+    },
+    {
+      "cityName": "South Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Because of its unincorporated status, Midlothian has no formal government, and the name is used to represent the original small Village of Midlothian and a vast expanse of Chesterfield County in the northwestern portion of Southside Richmond served by the Midlothian post office."
+    },
+    {
       "cityName": "South Hill",
       "state": "VA",
       "source": "Wikipedia",
@@ -7099,18 +8205,32 @@
       "fact": "South Hill has a close relationship with the neighboring town of La Crosse."
     },
     {
+      "cityName": "South Prince George",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 43,010."
+    },
+    {
+      "cityName": "South Prince George",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its county seat is Prince George."
+    },
+    {
       "cityName": "South Riding",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The population was 33877 at the 2020 census, The South Riding homeowner association was founded in January 1995 to provide services to the community."
+      "fact": "The population was 33,877 at the 2020 census, The South Riding homeowner association was founded in January 1995 to provide services to the community."
     },
     {
       "cityName": "South Riding",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Neighboring U S Route 50 and State Route 28 provide access to the Dulles/Reston/Tysons Corner technology corridor and other major employment centers in Northern Virginia and Washington, D.C."
+      "fact": "Neighboring U.S Route 50 and State Route 28 provide access to the Dulles/Reston/Tysons Corner technology corridor and other major employment centers in Northern Virginia and Washington, D.C."
     },
     {
       "cityName": "Speedwell",
@@ -7134,11 +8254,25 @@
       "fact": "Speedwell has been known to be called Speedville."
     },
     {
+      "cityName": "Spencer",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It takes its name from its earliest settler, James Spencer Senior, who moved from Loudoun County to Henry County with his sons in the eighteenth century."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Spencer's son ensign James Spencer, Junior died of wounds suffered during the Revolutionary War."
+    },
+    {
       "cityName": "Spotsylvania",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During the American Civil War, the crossroads community became a Union objective during the Battle of Spotsylvania Courthouse, fought May 8\u201321, 1864."
+      "fact": "During the American Civil War, the crossroads community became a Union objective during the Battle of Spotsylvania Courthouse, fought May 8–21, 1864."
     },
     {
       "cityName": "Spotsylvania",
@@ -7239,6 +8373,27 @@
       "fact": "The name is from Robert Stanard, a benefactor who donated land for public use."
     },
     {
+      "cityName": "Stanley",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Stanley had a population of 1,703."
+    },
+    {
+      "cityName": "Stanleytown",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,422 at the 2010 census."
+    },
+    {
+      "cityName": "Stanleytown",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Martinsville Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Staunton",
       "state": "VA",
       "source": "Wikidata",
@@ -7257,7 +8412,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Staunton ( STAN-t\u0259n) is an independent city in the U S Commonwealth of Virginia."
+      "fact": "Staunton is an independent city in the U S Commonwealth of Virginia."
     },
     {
       "cityName": "Staunton",
@@ -7306,14 +8461,14 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "A large section of the center of the town, including buildings and homes, covering 65 acres (26 ha), is part of the Newtown\u2013Stephensburg Historic District and was listed on the National Register of Historic Places in 1992."
+      "fact": "A large section of the center of the town, including buildings and homes, covering 65 acres (26 ha), is part of the Newtown–Stephensburg Historic District and was listed on the National Register of Historic Places in 1992."
     },
     {
       "cityName": "Stephens City",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Stephens City ( STEE-v\u0259nz) is an incorporated town in the southern part of Frederick County, Virginia, United States, with a population of 2016 at the time of the 2020 census, and an estimated population of 2096 in 2022."
+      "fact": "Stephens City is an incorporated town in the southern part of Frederick County, Virginia, United States, with a population of 2016 at the time of the 2020 census, and an estimated population of 2096 in 2022."
     },
     {
       "cityName": "Stephens City",
@@ -7327,7 +8482,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Stephens City was saved from intentional burning in 1864 by Union Major Joseph K. Stearns."
+      "fact": "Stephens City was saved from intentional burning in 1864 by Union Major Joseph K Stearns."
     },
     {
       "cityName": "Stephens City",
@@ -7372,6 +8527,13 @@
       "fact": "Stone Ridge is a Van Metre Homes planned, mixed-use community."
     },
     {
+      "cityName": "Stony Creek",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Stony Creek had a population of 209."
+    },
+    {
       "cityName": "Strasburg",
       "state": "VA",
       "source": "Wikipedia",
@@ -7383,14 +8545,28 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town of Stuart was named after Confederate Gen."
+      "fact": "As of the 2020 census, Stuart had a population of 1,431."
     },
     {
       "cityName": "Stuart",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "J.E B Stuart, of nearby Ararat, Virginia."
+      "fact": "The town of Stuart was named after Confederate General J.E.B Stuart, of nearby Ararat, Virginia."
+    },
+    {
+      "cityName": "Stuarts Draft",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area and adjacent to the South River."
+    },
+    {
+      "cityName": "Stuarts Draft",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Its population was 12,142 as of the 2020 census."
     },
     {
       "cityName": "Sudley",
@@ -7447,6 +8623,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "As of 2020, the population was 94324."
+    },
+    {
+      "cityName": "Sugar Grove",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 610 at the 2020 census."
     },
     {
       "cityName": "Sugarland Run",
@@ -7694,6 +8877,27 @@
       "fact": "After defeating them, he later made peace."
     },
     {
+      "cityName": "Tazewell",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Tazewell had a population of 4,486."
+    },
+    {
+      "cityName": "Tazewell",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield micropolitan area, which has a population of 107,578."
+    },
+    {
+      "cityName": "Tazewell",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the county seat of Tazewell County."
+    },
+    {
       "cityName": "Temperanceville",
       "state": "VA",
       "source": "Wikipedia",
@@ -7764,25 +8968,102 @@
       "fact": "According to the Geographic Names Information System, Thornburg has also been known as Mudd Tavern and Thornsburg throughout its history."
     },
     {
+      "cityName": "Timberlake",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 13,267 at the 2020 census."
+    },
+    {
+      "cityName": "Timberlake",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lynchburg Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Timberville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Timberville had a population of 2,963."
+    },
+    {
+      "cityName": "Timberville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Harrisonburg metropolitan area."
+    },
+    {
       "cityName": "Toano",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is in Virginia\u2019s 1st Congressional District."
+      "fact": "It is in Virginia’s 1st Congressional District."
+    },
+    {
+      "cityName": "Toms Brook",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Toms Brook had a population of 276."
+    },
+    {
+      "cityName": "Townsend",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Townsend is an unincorporated community in Northampton County, Virginia, United States."
     },
     {
       "cityName": "Triangle",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is bounded to the south by the Marine Corps Base Quantico, which surrounds the town of Quantico."
+      "fact": "A triangle is a polygon with three corners and three sides, one of the basic shapes in geometry."
     },
     {
       "cityName": "Triangle",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Part of the National Capital Region, it is approximately 32 miles southwest of Washington, D.C."
+      "fact": "The corners, also called vertices, are zero-dimensional points while the sides connecting them, also called edges, are one-dimensional line segments."
+    },
+    {
+      "cityName": "Triangle",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "A triangle has three internal angles, each one bounded by a pair of adjacent edges; the sum of angles of a triangle always equals a straight angle."
+    },
+    {
+      "cityName": "Troutdale",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 140 at the 2020 census."
+    },
+    {
+      "cityName": "Troutville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 458 at the 2020 census."
+    },
+    {
+      "cityName": "Troutville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located along the U.S Route 11 between Cloverdale and Buchanan."
+    },
+    {
+      "cityName": "Troutville",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Roanoke metropolitan area."
     },
     {
       "cityName": "Tuckahoe",
@@ -7806,6 +9087,20 @@
       "fact": "It has been called a quintessential example of an edge city."
     },
     {
+      "cityName": "Union Hall",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population estimate was approximately 1,091 according to a census in 2018."
+    },
+    {
+      "cityName": "Union Hall",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke metropolitan area."
+    },
+    {
       "cityName": "Unionville",
       "state": "VA",
       "source": "Wikipedia",
@@ -7824,7 +9119,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Urbanna means \u201cCity of Anne\u201d and was named in honor of England's Queen Anne."
+      "fact": "Urbanna means “City of Anne” and was named in honor of England's Queen Anne."
     },
     {
       "cityName": "Vansant",
@@ -7832,6 +9127,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Vansant is located just south of the town of Grundy."
+    },
+    {
+      "cityName": "Verona",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,239 at the 2010 census."
+    },
+    {
+      "cityName": "Verona",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Staunton–Waynesboro Micropolitan Statistical Area."
     },
     {
       "cityName": "Victoria",
@@ -7867,6 +9176,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The town's education is served mainly by Fairfax County Public Schools."
+    },
+    {
+      "cityName": "Vinton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 8,059 at the 2020 census."
+    },
+    {
+      "cityName": "Vinton",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Vinton is part of the Roanoke metropolitan area and the Roanoke Region of Virginia."
     },
     {
       "cityName": "Virgilina",
@@ -7932,6 +9255,13 @@
       "fact": "As of 2020, the city was the most representative locality of the state's income, race, and level of educational attainment."
     },
     {
+      "cityName": "Wachapreague",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 257 at the 2020 census."
+    },
+    {
       "cityName": "Wakefield",
       "state": "VA",
       "source": "Wikipedia",
@@ -7971,70 +9301,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Some of the World War II film Our Father was filmed on Wallops Island."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The National Advisory Committee for Aeronautics (NACA), forerunner of NASA, leased the lower 1000 acres (4.0 km2) for rocket launching facilities."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 3,
       "fact": "It is just south of Chincoteague Island, a popular tourist destination."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "The Wallops Island National Wildlife Refuge and the Chincoteague Bay Field Station are located on the island."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Wallops Island is a six-square-mile (16 km2) island in Accomack County, Virginia, part of the Virginia Barrier Islands that stretch along the eastern seaboard of the United States."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Wallops Island proper, originally known as Kegotank Island, was granted to John Wallop by the Crown on April 29, 1692."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Ownership was divided through the years, until the Commonwealth of Virginia seized the property in 1876 and 1877 in lieu of unpaid taxes."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "From 1877, ownership was again divided and subdivided until 1889, when it was held by various trustees for the Wallops Island Club."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "The club was incorporated and assumed ownership in 1933 as the Wallops Island Association, Inc."
-    },
-    {
-      "cityName": "Wallops Island",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "Association members and their families spent the summers fishing and swimming on the island."
     },
     {
       "cityName": "Warfield",
@@ -8112,6 +9379,13 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "The area was home to Bethel Military Academy."
+    },
+    {
+      "cityName": "Warsaw",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,637 at the 2020 census and is estimated to be 2,330 as of 2023."
     },
     {
       "cityName": "Washington",
@@ -8247,6 +9521,27 @@
       "fact": "Weber City is an incorporated town in Scott County, Virginia, United States."
     },
     {
+      "cityName": "West Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Midlothian is an unincorporated area and census-designated place in Chesterfield County, Virginia, United States."
+    },
+    {
+      "cityName": "West Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Settled as a coal town, Midlothian village experienced suburbanization effects and is now part of the western suburbs of Richmond, south of the James River in the Greater Richmond Region."
+    },
+    {
+      "cityName": "West Chesterfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Because of its unincorporated status, Midlothian has no formal government, and the name is used to represent the original small Village of Midlothian and a vast expanse of Chesterfield County in the northwestern portion of Southside Richmond served by the Midlothian post office."
+    },
+    {
       "cityName": "West Falls Church",
       "state": "VA",
       "source": "Wikipedia",
@@ -8275,11 +9570,32 @@
       "fact": "The bulk of it is made of subdivisions built in the 1940s and early 1950s, including Jefferson Village, Westlawn, Hillwood, Sleepy Hollow, Woodley, Raymondale and Broyhill Park."
     },
     {
+      "cityName": "West Gate",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Toll Gate is an unincorporated community in Ritchie County, West Virginia, United States."
+    },
+    {
+      "cityName": "West Gate",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Toll Gate is 3 miles (4.8 km) east-southeast of Pennsboro."
+    },
+    {
       "cityName": "West Point",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "West Point (formerly Delaware) is an incorporated town in King William County, Virginia, United States."
+    },
+    {
+      "cityName": "West Springfield",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 23,369 at the 2020 census."
     },
     {
       "cityName": "Weyers Cave",
@@ -8307,56 +9623,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "In addition to Greenway Court, the Bethel Memorial Church, Farnley, Guilford, Lucky Hit, Meadea, The Tuleyries, and the White Post Historic District are listed on the National Register of Historic Places."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "In the 1730s, Thomas Fairfax, 6th Lord Fairfax of Cameron (1693\u20131781), the major landowner in the lower Shenandoah Valley through an inheritance from his mother Catherine Culpeper, Lady Fairfax, settled here and built his \"Greenway Court\" manor home."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "White Post is located at the crossroads of White Post Road and Berrys Ferry Road off Lord Fairfax Highway (U S Route 340)."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "According to a tradition currently inscribed on a bronze plaque affixed to the post, then Col."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "George Washington set the original post to guide travelers to Lord Fairfax's residence."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Greenway Court plantation was unusual in that Lord Fairfax was titled and residing in the colony."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Ethnic German and Scots-Irish subsistence farmers, many of them recent immigrants, settled in the area, as well as the Meade, Randolph and Burwell families, which were among the First Families of Virginia."
-    },
-    {
-      "cityName": "White Post",
-      "state": "VA",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Although the original Anglican church for the community was at Old Chapel several miles away, by the late 19th century, Meade Memorial Church (Episcopal), a Methodist church and Masonic Lodge were all established near the intersection that gave the community its name."
+      "fact": "White Post is located at the crossroads of White Post Road and Berrys Ferry Road off Lord Fairfax Highway."
     },
     {
       "cityName": "White Stone",
@@ -8384,7 +9651,28 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is approximately four miles northeast of the North Carolina\u2013Tennessee\u2013Virginia Corners."
+      "fact": "The town is approximately four miles northeast of the North Carolina–Tennessee–Virginia Corners."
+    },
+    {
+      "cityName": "Wilkinson Terrace",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Logan County is a county in the US."
+    },
+    {
+      "cityName": "Wilkinson Terrace",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 32,567."
+    },
+    {
+      "cityName": "Wilkinson Terrace",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Logan County comprises the Logan, WV Micropolitan Statistical Area, which is also included in the Charleston–Huntington–Ashland, WV–OH–KY Combined Statistical Area."
     },
     {
       "cityName": "Williamsburg",
@@ -8412,7 +9700,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Of the nine colonial colleges in the U.S., it is the only one located in the American South."
+      "fact": "Of the nine colonial colleges in the US, it is the only one located in the American South."
     },
     {
       "cityName": "Williamsburg",
@@ -8517,7 +9805,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town's name was changed to Wise in 1924, after Henry A. Wise, the last Virginia governor before the American Civil War and the first governor to hail from the Eastern Shore of Virginia."
+      "fact": "The town's name was changed to Wise in 1924, after Henry A Wise, the last Virginia governor before the American Civil War and the first governor to hail from the Eastern Shore of Virginia."
     },
     {
       "cityName": "Wise",
@@ -8604,11 +9892,39 @@
       "fact": "Woodburn, Virginia may refer to: Woodburn, Fairfax County, Virginia Woodburn, Loudoun County, Virginia"
     },
     {
+      "cityName": "Woodford",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located primarily along Route 626 northwest of Bowling Green."
+    },
+    {
       "cityName": "Woodlake",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The suburban community is located on the western shore of Swift Creek Reservoir."
+    },
+    {
+      "cityName": "Woodlawn",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally a part of Mount Vernon, George Washington's historic plantation estate, it was subdivided in the 19th century by abolitionists to demonstrate the viability of a free labor system."
+    },
+    {
+      "cityName": "Woodlawn",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The address is now 9000 Richmond Highway, Alexandria, Virginia, but due to expansion of Fort Belvoir and reconstruction of historic Route 1, access is via Woodlawn Road slightly south of Jeff Todd Way/State Route 235."
+    },
+    {
+      "cityName": "Woodlawn",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The house is a designated National Historic Landmark, primarily for its association with the Washington family, but also for the role it played in the historic preservation movement."
     },
     {
       "cityName": "Woodstock",
@@ -8758,11 +10074,18 @@
       "fact": "It was attacked in 1863 (Toland's Raid) and 1865 (Stoneman's 1865 Raid)."
     },
     {
+      "cityName": "Yorkshire",
+      "state": "VA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,992 at the 2020 census."
+    },
+    {
       "cityName": "Yorktown",
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "One of Yorktown's historic sister cities is Zweibr\u00fccken, in Germany, due to the participation of a unit from there during the American Revolutionary War."
+      "fact": "One of Yorktown's historic sister cities is Zweibrücken, in Germany, due to the participation of a unit from there during the American Revolutionary War."
     },
     {
       "cityName": "Yorktown",
@@ -8776,7 +10099,7 @@
       "state": "VA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Yorktown also figured prominently in the American Civil War (1861\u20131865), serving as a major port to supply both northern and southern towns, depending upon who held Yorktown at the time."
+      "fact": "Yorktown also figured prominently in the American Civil War (1861–1865), serving as a major port to supply both northern and southern towns, depending upon who held Yorktown at the time."
     },
     {
       "cityName": "Yorktown",

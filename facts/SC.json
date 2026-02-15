@@ -33,7 +33,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Over the years Aiken became a winter home for many notable people, including George H. Bostwick, James B. Eustis, Madeleine Astor, William Kissam Vanderbilt, Eugene Grace, president of Bethlehem Steel, Allan Pinkerton, and W. Averell Harriman."
+      "fact": "Over the years Aiken became a winter home for many notable people, including George H Bostwick, James B Eustis, Madeleine Astor, William Kissam Vanderbilt, Eugene Grace, president of Bethlehem Steel, Allan Pinkerton, and W Averell Harriman."
     },
     {
       "cityName": "Aiken",
@@ -61,7 +61,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Thomas Hitchcock, Senior and William C. Whitney established the Aiken Winter Colony."
+      "fact": "Thomas Hitchcock, Senior and William C Whitney established the Aiken Winter Colony."
     },
     {
       "cityName": "Alcolu",
@@ -131,7 +131,21 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "General aviation airfield Robert F. Swinnie Airport is 2 miles (3 km) east of its central business district."
+      "fact": "General aviation airfield Robert F Swinnie Airport is 2 miles (3 km) east of its central business district."
+    },
+    {
+      "cityName": "Arcadia Lakes",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Arcadia Lakes had a population of 865."
+    },
+    {
+      "cityName": "Arcadia Lakes",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina, Metropolitan Statistical Area."
     },
     {
       "cityName": "Atlantic Beach",
@@ -141,11 +155,39 @@
       "fact": "Most of the land around the town is annexed into the city of North Myrtle Beach."
     },
     {
+      "cityName": "Awendaw",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Awendaw had a population of 1,399."
+    },
+    {
+      "cityName": "Awendaw",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Awendaw is part of the Charleston, South Carolina metropolitan area."
+    },
+    {
       "cityName": "Aynor",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Aynor High School consistently ranks as one of the best schools in Horry County and South Carolina."
+    },
+    {
+      "cityName": "Bamberg",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,607 at the 2010 census."
+    },
+    {
+      "cityName": "Barnwell",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Barnwell had a population of 4,652."
     },
     {
       "cityName": "Batesburg",
@@ -204,6 +246,13 @@
       "fact": "It was first listed as a CDP in the 2020 census with a population of 1421."
     },
     {
+      "cityName": "Belton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Belton had a population of 4,335."
+    },
+    {
       "cityName": "Belvedere",
       "state": "SC",
       "source": "Wikipedia",
@@ -216,6 +265,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2010 census, Bennettsville has a population of 9069."
+    },
+    {
+      "cityName": "Bethune",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bethune had a population of 315."
+    },
+    {
+      "cityName": "Bethune",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bishopville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,471 at the 2010 census."
+    },
+    {
+      "cityName": "Bishopville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Lee County."
     },
     {
       "cityName": "Blacksburg",
@@ -316,6 +393,48 @@
       "fact": "In the 2020 census, the population rose to 10405."
     },
     {
+      "cityName": "Bonneau",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bonneau had a population of 431."
+    },
+    {
+      "cityName": "Bonneau",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Charleston–North Charleston–Summerville Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bowman",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bowman had a population of 788."
+    },
+    {
+      "cityName": "Branchville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Branchville had a population of 998."
+    },
+    {
+      "cityName": "Briarcliffe Acres",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Briarcliffe Acres had a population of 479."
+    },
+    {
+      "cityName": "Brunson",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Brunson had a population of 431."
+    },
+    {
       "cityName": "Burnettown",
       "state": "SC",
       "source": "Wikipedia",
@@ -337,11 +456,60 @@
       "fact": "The town derives its name from James Edward Colhoun (or Calhoun)."
     },
     {
+      "cityName": "Camden",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Camden is the largest city in and the county seat of Kershaw County, South Carolina, United States."
+    },
+    {
+      "cityName": "Camden",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,788 in the 2020 census, and the 2022 population estimate is 8,213."
+    },
+    {
+      "cityName": "Camden",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Columbia, South Carolina, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cameron had a population of 376."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Campobello",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Campobello had a population of 675."
+    },
+    {
+      "cityName": "Carlisle",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Carlisle had a population of 321."
+    },
+    {
       "cityName": "Cassatt",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Cassatt was named after railroad executive Alexander J. Cassatt."
+      "fact": "Cassatt was named after railroad executive Alexander J Cassatt."
     },
     {
       "cityName": "Cassatt",
@@ -412,6 +580,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Contrary to its name, it is not near South Carolina's center."
+    },
+    {
+      "cityName": "Central Pacolet",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Central Pacolet had a population of 209."
     },
     {
       "cityName": "Chapin",
@@ -589,6 +764,13 @@
       "fact": "It has been nicknamed \"The Prettiest Town in Dixie\"."
     },
     {
+      "cityName": "Chesnee",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Chesnee had a population of 829."
+    },
+    {
       "cityName": "Chester",
       "state": "SC",
       "source": "Wikipedia",
@@ -601,6 +783,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Many African Americans, including the principal and teachers at Finley School, lived in East Chester."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,357 as of the 2020 census."
+    },
+    {
+      "cityName": "Chesterfield",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Chesterfield County, and least populous of all South Carolina county seats."
     },
     {
       "cityName": "Clearwater",
@@ -705,7 +901,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The name \"Columbia\", a poetic term referring to the U.S., derives from the name of Christopher Columbus, who explored the Caribbean on behalf of the Spanish Empire."
+      "fact": "The name \"Columbia\", a poetic term referring to the US, derives from the name of Christopher Columbus, who explored the Caribbean on behalf of the Spanish Empire."
     },
     {
       "cityName": "Columbia",
@@ -778,11 +974,39 @@
       "fact": "Since the completion of the Main Street USA project in the 1980s, Conway's downtown has been revitalized with shops and bistros."
     },
     {
+      "cityName": "Cope",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 37 at the 2020 census, a decline from 77 in 2010, making it the least populous town in South Carolina."
+    },
+    {
       "cityName": "Cordova",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Despite its small size, Cordova is home to both a High School and a Primary School, a fire department, and a single daycare."
+    },
+    {
+      "cityName": "Cottageville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 701 at the 2020 census."
+    },
+    {
+      "cityName": "Coward",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Coward had a population of 748."
+    },
+    {
+      "cityName": "Coward",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
     },
     {
       "cityName": "Cowpens",
@@ -804,6 +1028,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is centered at the junctions of South Carolina Highway 6 and South Carolina Highway 45."
+    },
+    {
+      "cityName": "Cross Hill",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cross Hill had a population of 404."
+    },
+    {
+      "cityName": "Cross Hill",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenville–Mauldin–Easley Metropolitan Statistical Area."
     },
     {
       "cityName": "Dalzell",
@@ -855,11 +1093,18 @@
       "fact": "Darlington is located 10 miles (16 km) northwest of Florence and 76 miles (122 km) northeast of the state capital, Columbia."
     },
     {
+      "cityName": "Denmark",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Denmark had a population of 3,186."
+    },
+    {
       "cityName": "Dillon",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Both the name of the city and county comes from James W. Dillon, an early settler and key figure in bringing a railroad through the area."
+      "fact": "Both the name of the city and county comes from James W Dillon, an early settler and key figure in bringing a railroad through the area."
     },
     {
       "cityName": "Dillon",
@@ -916,6 +1161,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The Upper South Carolina State Fair is located in Easley and is held annually in early September."
+    },
+    {
+      "cityName": "Eastover",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Eastover had a population of 614."
+    },
+    {
+      "cityName": "Eastover",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Edgefield",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Edgefield had a population of 2,322."
     },
     {
       "cityName": "Edisto Beach",
@@ -981,11 +1247,25 @@
       "fact": "According to the 2010 census the population was 193."
     },
     {
+      "cityName": "Elloree",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Elloree had a population of 570."
+    },
+    {
       "cityName": "Enoree",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2010 United States census, the population was 665."
+    },
+    {
+      "cityName": "Estill",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Estill had a population of 1,821."
     },
     {
       "cityName": "Eutawville",
@@ -1009,11 +1289,18 @@
       "fact": "As of the 2020 census, the population of Fair Play was 704."
     },
     {
+      "cityName": "Fairfax",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Fairfax had a population of 1,505."
+    },
+    {
       "cityName": "Five Forks",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is a growing, affluent suburb of Greenville and is part of the Greenville\u2013Mauldin\u2013Easley Metropolitan Statistical Area."
+      "fact": "It is a growing, affluent suburb of Greenville and is part of the Greenville–Mauldin–Easley Metropolitan Statistical Area."
     },
     {
       "cityName": "Florence",
@@ -1058,11 +1345,39 @@
       "fact": "In 1965, Florence was named an All-American City, presented by the National Civic League."
     },
     {
+      "cityName": "Folly Beach",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Folly Beach had a population of 2,078."
+    },
+    {
+      "cityName": "Folly Beach",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Folly Beach is within the Charleston-North Charleston-Summerville metropolitan area and the Charleston-North Charleston Urbanized Areas."
+    },
+    {
+      "cityName": "Forest Acres",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,617 at the 2020 census."
+    },
+    {
+      "cityName": "Forest Acres",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina metropolitan area and is an enclave of the city of Columbia."
+    },
+    {
       "cityName": "Fort Jackson",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Fort Jackson is named for Andrew Jackson, a United States Army general and the seventh president of the United States (1829\u20131837) who was born in the border region of North and South Carolina."
+      "fact": "Fort Jackson is named for Andrew Jackson, a United States Army general and the seventh president of the United States (1829–1837) who was born in the border region of North and South Carolina."
     },
     {
       "cityName": "Fort Jackson",
@@ -1077,6 +1392,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The US Army Training and Doctrine Command (TRADOC) operates one of four Basic Combat Training (BCT) programs on this installation."
+    },
+    {
+      "cityName": "Fort Lawn",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Fort Lawn had a population of 962."
     },
     {
       "cityName": "Fort Mill",
@@ -1098,6 +1420,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Some businesses and residents in the Indian Land community of neighboring Lancaster County share a Fort Mill mailing address, but the official town boundary extends only within York County."
+    },
+    {
+      "cityName": "Fountain Inn",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,416 at the 2020 census, up from 7,799 in 2010."
+    },
+    {
+      "cityName": "Fountain Inn",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenville-Mauldin-Easley Metropolitan Statistical Area."
     },
     {
       "cityName": "Furman",
@@ -1142,6 +1478,20 @@
       "fact": "The developed part of the beach extends south beyond the limits of the Garden City CDP, into Georgetown County, and ends on a peninsula at the mouth of Murrells Inlet."
     },
     {
+      "cityName": "Gaston",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gaston had a population of 1,608."
+    },
+    {
+      "cityName": "Gaston",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Georgetown",
       "state": "SC",
       "source": "Wikipedia",
@@ -1177,6 +1527,27 @@
       "fact": "Rice replaced indigo as the chief commodity crop in the antebellum era."
     },
     {
+      "cityName": "Gifford",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gifford had a population of 257."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gilbert had a population of 571."
+    },
+    {
+      "cityName": "Gilbert",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Gloverville",
       "state": "SC",
       "source": "Wikipedia",
@@ -1198,11 +1569,39 @@
       "fact": "As defined by the U S Office of Management and Budget, and used only by the U S Census Bureau and other federal agencies for statistical purposes, Goose Creek is included within the Charleston-North Charleston, SC Metropolitan Statistical Area."
     },
     {
+      "cityName": "Govan",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Govan had a population of 56."
+    },
+    {
       "cityName": "Graniteville",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It lies along U S Route 1, five miles (8.0 km) west of Aiken in Horse Creek Valley, which originates in the nearby town of Vaucluse."
+    },
+    {
+      "cityName": "Gray Court",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gray Court had a population of 763."
+    },
+    {
+      "cityName": "Gray Court",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenville–Mauldin–Easley Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Great Falls",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,951 at the 2020 census."
     },
     {
       "cityName": "Greeleyville",
@@ -1349,7 +1748,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town and the county are named after Wade Hampton III, a Confederate general in the Civil War."
+      "fact": "The town and the county are named after Wade Hampton 3, a Confederate general in the Civil War."
     },
     {
       "cityName": "Hanahan",
@@ -1385,6 +1784,69 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "According to Census estimates, Hardeeville posted the highest population growth rate of any municipality in South Carolina, growing 53.4 percent from 2010 to 2014."
+    },
+    {
+      "cityName": "Harleyville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 666 at the 2020 census, down slightly from 677 at the 2010 census."
+    },
+    {
+      "cityName": "Harleyville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Harleyville is part of the Charleston-North Charleston-Summerville metropolitan area."
+    },
+    {
+      "cityName": "Hartsville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartsville is the largest city in Darlington County, South Carolina, United States."
+    },
+    {
+      "cityName": "Hartsville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was chartered on December 11, 1891."
+    },
+    {
+      "cityName": "Hartsville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Hartsville had a population of 7,446."
+    },
+    {
+      "cityName": "Heath Springs",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 742 at the 2020 census."
+    },
+    {
+      "cityName": "Hemingway",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 504 as of the 2020 Census."
+    },
+    {
+      "cityName": "Hickory Grove",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 449 at the 2020 census.."
+    },
+    {
+      "cityName": "Hilda",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hilda had a population of 418."
     },
     {
       "cityName": "Hilton Head",
@@ -1576,11 +2038,32 @@
       "fact": "As of 2023, the estimated population is 1252."
     },
     {
+      "cityName": "Hollywood",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hollywood had a population of 5,339."
+    },
+    {
+      "cityName": "Hollywood",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hollywood is part of the Charleston, South Carolina metropolitan area and the Charleston-North Charleston Urbanized Area."
+    },
+    {
+      "cityName": "Honea Path",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,686 at the 2020 census."
+    },
+    {
       "cityName": "Hopkins",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was founded circa 1836 and named after John Hopkins (1739\u20131775)."
+      "fact": "It was founded circa 1836 and named after John Hopkins (1739–1775)."
     },
     {
       "cityName": "Hopkins",
@@ -1632,6 +2115,20 @@
       "fact": "With a population of 3665 at the 2020 census, Inman residents have access to nearby Lake Bowen that affords water recreational sports and fishing, and Inman is accessible by Interstate 26 and Interstate 85."
     },
     {
+      "cityName": "Irmo",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Columbia Metropolitan Statistical Area and is located 12 miles (19 km) northwest of the city center."
+    },
+    {
+      "cityName": "Irmo",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of Irmo was 11,569 at the 2020 census."
+    },
+    {
       "cityName": "Isle of Palms",
       "state": "SC",
       "source": "Wikipedia",
@@ -1644,6 +2141,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Isle of Palms is a barrier island on the South Carolina coast."
+    },
+    {
+      "cityName": "Iva",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,015 at the 2020 census."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Jackson had a population of 1,521."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
     },
     {
       "cityName": "Jacksonboro",
@@ -1672,6 +2190,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Walterboro, the Colleton County seat, is 16 miles (26 km) to the northwest via South Carolina Highway 64."
+    },
+    {
+      "cityName": "James Island",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located in the central and southern parts of James Island."
+    },
+    {
+      "cityName": "James Island",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "James Island is included within the Charleston, South Carolina metropolitan area and the Charleston Urbanized Area."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Jamestown had a population of 68."
     },
     {
       "cityName": "Jefferson",
@@ -1772,6 +2311,13 @@
       "fact": "The town's official welcome sign states that it is \"Peach Capital of the World\"."
     },
     {
+      "cityName": "Jonesville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 911 at the 2010 United States census."
+    },
+    {
       "cityName": "Kershaw",
       "state": "SC",
       "source": "Wikipedia",
@@ -1811,7 +2357,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Kiawah ( KEY-\u0259-w\u0259) is a sea island, or barrier island, on the Atlantic coast of the United States."
+      "fact": "Kiawah is a sea island, or barrier island, on the Atlantic coast of the United States."
     },
     {
       "cityName": "Kiawah Island",
@@ -1842,6 +2388,20 @@
       "fact": "Alternative spellings and variants of the name itself include \"Kiawa\", \"Kittiwar\" (in DuBose Heyward's novel Porgy), and \"Kittiwah\" (in George Gershwin's opera Porgy and Bess)."
     },
     {
+      "cityName": "Kingstree",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,328 at the 2010 census."
+    },
+    {
+      "cityName": "Kline",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Kline had a population of 148."
+    },
+    {
       "cityName": "Ladson",
       "state": "SC",
       "source": "Wikipedia",
@@ -1870,11 +2430,18 @@
       "fact": "Located in central South Carolina, it is south of Florence and included as part of the Florence Metropolitan Statistical Area."
     },
     {
+      "cityName": "Lake View",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lake View had a population of 764."
+    },
+    {
       "cityName": "Lake Wylie",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lake Wylie is located on a peninsula along the shore of Lake Wylie, a reservoir that was named for Doctor W. Gil Wylie in 1960."
+      "fact": "Lake Wylie is located on a peninsula along the shore of Lake Wylie, a reservoir that was named for Doctor W Gil Wylie in 1960."
     },
     {
       "cityName": "Lake Wylie",
@@ -1882,6 +2449,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is a suburb of Charlotte, North Carolina."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lamar had a population of 862."
+    },
+    {
+      "cityName": "Lamar",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence, SC Metropolitan Statistical Area."
     },
     {
       "cityName": "Lancaster",
@@ -1903,6 +2484,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Landrum was founded in 1880 and incorporated in 1912."
+    },
+    {
+      "cityName": "Lane",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 480 at the 2020 census."
     },
     {
       "cityName": "Latta",
@@ -1938,6 +2526,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The housing area first opened in the mid-1950s."
+    },
+    {
+      "cityName": "Laurens",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Laurens had a population of 9,335."
+    },
+    {
+      "cityName": "Laurens",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Laurens County."
+    },
+    {
+      "cityName": "Laurens",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Greenville-Mauldin-Easley metropolitan area."
     },
     {
       "cityName": "Leesville",
@@ -2003,6 +2612,27 @@
       "fact": "The Little River inlet has long been a breakpoint for tropical cyclone warnings."
     },
     {
+      "cityName": "Livingston",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Livingston had a population of 132."
+    },
+    {
+      "cityName": "Lockhart",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lockhart had a population of 384."
+    },
+    {
+      "cityName": "Lodge",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lodge had a population of 82."
+    },
+    {
       "cityName": "Longs",
       "state": "SC",
       "source": "Wikipedia",
@@ -2010,11 +2640,46 @@
       "fact": "It lies north of Myrtle Beach, located at the intersection of S.circa 9 and S.circa 905."
     },
     {
+      "cityName": "Loris",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Loris had a population of 2,449."
+    },
+    {
+      "cityName": "Lowndesville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 120 at the 2020 census."
+    },
+    {
+      "cityName": "Lowrys",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lowrys had a population of 184."
+    },
+    {
+      "cityName": "Luray",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 127 at the 2010 census."
+    },
+    {
       "cityName": "Lyman",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 6173 at the 2020 census."
+    },
+    {
+      "cityName": "Lynchburg",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lynchburg had a population of 318."
     },
     {
       "cityName": "Manning",
@@ -2029,6 +2694,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is named for Francis Marion, a brigadier general from South Carolina in the American Revolutionary War."
+    },
+    {
+      "cityName": "Mauldin",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 24,724 at the 2020 census, making it the 19th-most populous city in South Carolina."
+    },
+    {
+      "cityName": "Mauldin",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located in the Greenville-Anderson-Greer, SC Metropolitan Statistical Area."
     },
     {
       "cityName": "Mayesville",
@@ -2050,6 +2729,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "McBee is approximately 36 miles (58 km) northwest of Florence and 62 miles (100 km) northeast of Columbia."
+    },
+    {
+      "cityName": "McClellanville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 605 at the 2020 census."
+    },
+    {
+      "cityName": "McClellanville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is situated on the Atlantic coast, on land surrounded by Francis Marion National Forest, and has traditionally derived its livelihood from the Atlantic Ocean and coastal marshes by fishing, shrimping and oystering."
+    },
+    {
+      "cityName": "McClellanville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "McClellanville is part of the Charleston-North Charleston-Summerville metropolitan area and the Charleston-North Charleston Urbanized Area."
     },
     {
       "cityName": "McColl",
@@ -2098,7 +2798,14 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Since 1976, the tribe\u2019s official seat of government has operated on land awarded to the tribe in Marlboro County."
+      "fact": "Since 1976, the tribe’s official seat of government has operated on land awarded to the tribe in Marlboro County."
+    },
+    {
+      "cityName": "McConnells",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 255 at the 2010 census."
     },
     {
       "cityName": "McCormick",
@@ -2115,6 +2822,20 @@
       "fact": "As of 2024, McCormick, South Carolina population is 2225 as of July, 2024."
     },
     {
+      "cityName": "Meggett",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,226 at the 2010 census."
+    },
+    {
+      "cityName": "Meggett",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Meggett is part of the Charleston-North Charleston-Summerville metropolitan area."
+    },
+    {
       "cityName": "Modoc",
       "state": "SC",
       "source": "Wikipedia",
@@ -2129,6 +2850,13 @@
       "fact": "As defined by the U S Census Bureau, Moncks Corner is included within the Charleston-North Charleston, SC Metropolitan Statistical Area."
     },
     {
+      "cityName": "Monetta",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Monetta had a population of 205."
+    },
+    {
       "cityName": "Mount Croghan",
       "state": "SC",
       "source": "Wikipedia",
@@ -2140,7 +2868,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "At the foot of the Arthur Ravenel Bridge is Patriots Point, a naval and maritime museum, home to the World War II aircraft carrier USS Yorktown, which is now a museum ship."
+      "fact": "At the foot of the Arthur Ravenel Bridge is Patriots Point, a naval and maritime museum, home to the World War 2 aircraft carrier USS Yorktown, which is now a museum ship."
     },
     {
       "cityName": "Mount Pleasant",
@@ -2175,28 +2903,14 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Incorporated on March 4, 1872, Mullins was named after Col."
-    },
-    {
-      "cityName": "Mullins",
-      "state": "SC",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "As of the 2010 census, the city population was 4663."
-    },
-    {
-      "cityName": "Mullins",
-      "state": "SC",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "William S. Mullins, who served as a representative for Marion County in the South Carolina State Legislature from 1852 to 1866."
+      "fact": "As of the 2020 census, Mullins had a population of 4,026."
     },
     {
       "cityName": "Murrells Inlet",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is known for the Murrells Inlet Marshwalk, a 1\u20442-mile-long (0.8 km) boardwalk overlooking a salt marsh."
+      "fact": "It is known for the Murrells Inlet Marshwalk, a 1⁄2-mile-long (0.8 km) boardwalk overlooking a salt marsh."
     },
     {
       "cityName": "Murrells Inlet",
@@ -2276,6 +2990,27 @@
       "fact": "More than 104000 people moved to the area over eight years, representing a nearly 28% growth in population."
     },
     {
+      "cityName": "Neeses",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 320 at the 2020 census."
+    },
+    {
+      "cityName": "New Ellenton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,210 at the 2020 census."
+    },
+    {
+      "cityName": "New Ellenton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
+    },
+    {
       "cityName": "Newberry",
       "state": "SC",
       "source": "Wikipedia",
@@ -2304,6 +3039,13 @@
       "fact": "As a result, the city was listed as a town in the 2000 census."
     },
     {
+      "cityName": "Nichols",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Nichols had a population of 234."
+    },
+    {
       "cityName": "Ninety Six",
       "state": "SC",
       "source": "Wikipedia",
@@ -2316,6 +3058,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the town had a population of 2096, making it the second-largest municipality in the county behind the City of Greenwood."
+    },
+    {
+      "cityName": "Norris",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Norris had a population of 741."
+    },
+    {
+      "cityName": "Norris",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenville–Mauldin–Easley Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "North",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 696 at the 2020 census."
     },
     {
       "cityName": "North Augusta",
@@ -2353,6 +3116,13 @@
       "fact": "As of the 2020 census, the population was 18790."
     },
     {
+      "cityName": "Norway",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Norway had a population of 289."
+    },
+    {
       "cityName": "Okatie",
       "state": "SC",
       "source": "Wikipedia",
@@ -2378,7 +3148,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The headquarters of the Beaufort-Jasper Water and Sewer Authority are located in Okatie, as are the Beaufort-Jasper Academy for Career Excellence and John Paul II Catholic High School."
+      "fact": "The headquarters of the Beaufort-Jasper Water and Sewer Authority are located in Okatie, as are the Beaufort-Jasper Academy for Career Excellence and John Paul 2 Catholic High School."
     },
     {
       "cityName": "Okatie",
@@ -2416,11 +3186,39 @@
       "fact": "Previous efforts to incorporate the community have been unsuccessful, due in part to conflicting opinions on the future of growth and development in the area."
     },
     {
+      "cityName": "Olanta",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Olanta had a population of 550."
+    },
+    {
+      "cityName": "Olanta",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Olar",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Olar had a population of 215."
+    },
+    {
       "cityName": "Orangeburg",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Two historically black institutions of higher education are located in Orangeburg: Claflin University (a liberal arts college) and South Carolina State University (a public university)."
+    },
+    {
+      "cityName": "Pacolet",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,274 at the 2020 census."
     },
     {
       "cityName": "Pageland",
@@ -2442,6 +3240,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "In 1952, Pageland adopted the title of \"The Watermelon Capital of the World.\" Many of the town's benches and business display watermelons and Pageland's water tower features a watermelon painted on the tank."
+    },
+    {
+      "cityName": "Pamplico",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pamplico had a population of 1,061."
+    },
+    {
+      "cityName": "Pamplico",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Parksville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Parksville had a population of 120."
+    },
+    {
+      "cityName": "Patrick",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Patrick had a population of 266."
     },
     {
       "cityName": "Pauline",
@@ -2507,6 +3333,27 @@
       "fact": "The town was named after Joseph Pack."
     },
     {
+      "cityName": "Peak",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 51 at the 2020 census."
+    },
+    {
+      "cityName": "Pelion",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pelion had a population of 631."
+    },
+    {
+      "cityName": "Pelion",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Pelzer",
       "state": "SC",
       "source": "Wikipedia",
@@ -2535,6 +3382,20 @@
       "fact": "Near Pendleton are the historic plantation homes Ashtabula and Woodburn."
     },
     {
+      "cityName": "Perry",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Perry had a population of 194."
+    },
+    {
+      "cityName": "Perry",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
+    },
+    {
       "cityName": "Pickens",
       "state": "SC",
       "source": "Wikipedia",
@@ -2549,11 +3410,39 @@
       "fact": "Pickens changed its classification from a town to a city in 1998, but it was not reported to the Census Bureau until 2001."
     },
     {
+      "cityName": "Pine Ridge",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pine Ridge had a population of 2,167."
+    },
+    {
+      "cityName": "Pine Ridge",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Pinewood",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is included in the Sumter, South Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Plum Branch",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Plum Branch had a population of 72."
+    },
+    {
+      "cityName": "Pomaria",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 127 at the 2020 census."
     },
     {
       "cityName": "Port Royal",
@@ -2563,11 +3452,137 @@
       "fact": "Port Royal is home to Marine Corps Recruit Depot Parris Island and United States Naval Hospital Beaufort."
     },
     {
+      "cityName": "Prosperity",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,178 at the 2020 US census."
+    },
+    {
+      "cityName": "Quinby",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Quinby had a population of 915."
+    },
+    {
+      "cityName": "Quinby",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ravenel",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ravenel had a population of 2,542."
+    },
+    {
+      "cityName": "Ravenel",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ravenel is part of the Charleston-North Charleston-Summerville metropolitan area."
+    },
+    {
+      "cityName": "Reevesville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Reevesville had a population of 201."
+    },
+    {
+      "cityName": "Reevesville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As defined by the U.S Office of Management and Budget, and used by the U.S Census Bureau for statistical purposes only, Reevesville is included within the Charleston-North Charleston-Summerville metropolitan area."
+    },
+    {
+      "cityName": "Reidville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Reidville had a population of 1,634."
+    },
+    {
       "cityName": "Rembert",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is included in the Sumter, South Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Richburg",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Richburg had a population of 280."
+    },
+    {
+      "cityName": "Ridge Spring",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ridge Spring had a population of 579."
+    },
+    {
+      "cityName": "Ridge Spring",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, SC Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Ridgeland",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town incorporation limits extend into Beaufort County up to the Broad River."
+    },
+    {
+      "cityName": "Ridgeland",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,749 at the 2020 census, all of which resided in Jasper County."
+    },
+    {
+      "cityName": "Ridgeland",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Ridgeland is included in the Hilton Head Island–Bluffton metropolitan area."
+    },
+    {
+      "cityName": "Ridgeville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,672 at the 2020 census, down from 1,979 at the 2010 census and below the level of 2000."
+    },
+    {
+      "cityName": "Ridgeville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ridgeville is part of the Charleston-North Charleston-Summerville metropolitan area."
+    },
+    {
+      "cityName": "Ridgeway",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ridgeway had a population of 266."
+    },
+    {
+      "cityName": "Ridgeway",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, SC Metropolitan Statistical Area."
     },
     {
       "cityName": "Rock Hill",
@@ -2609,7 +3624,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "On J. G. W. De Brahm's 1757 \"Map of South Carolina and a Part of Georgia,\" a round geographical feature labeled \"Round O Savannah\" is clearly visible west of the Edisto River in St. Bartholomew's Parish."
+      "fact": "On J G W De Brahm's 1757 \"Map of South Carolina and a Part of Georgia,\" a round geographical feature labeled \"Round O Savannah\" is clearly visible west of the Edisto River in Saint Bartholomew's Parish."
     },
     {
       "cityName": "Round O",
@@ -2626,6 +3641,20 @@
       "fact": "According to tradition, the community received its name from a local Native American whose name was too long to pronounce, hence the name Round O, and painted his torso with a circular design."
     },
     {
+      "cityName": "Rowesville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Rowesville had a population of 253."
+    },
+    {
+      "cityName": "Ruby",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 307 at the 2020 census."
+    },
+    {
       "cityName": "Ruffin",
       "state": "SC",
       "source": "Wikipedia",
@@ -2637,14 +3666,14 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Saint George is included within the Charleston-North Charleston, SC Metropolitan Statistical Area, as defined by the U S Office of Management and Budget, and used by the U. S. Census Bureau for statistical purposes only."
+      "fact": "Saint George is included within the Charleston-North Charleston, SC Metropolitan Statistical Area, as defined by the U S Office of Management and Budget, and used by the U S Census Bureau for statistical purposes only."
     },
     {
       "cityName": "Saint Helena Island",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Helena Island is a Sea Island in Beaufort County, South Carolina, United States."
+      "fact": "Saint Helena Island is a Sea Island in Beaufort County, South Carolina, United States."
     },
     {
       "cityName": "Saint Helena Island",
@@ -2679,7 +3708,35 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "St. Matthews is part of the Columbia, South Carolina Metropolitan Statistical Area."
+      "fact": "Saint Matthews is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Saint Stephen",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stephen or Saint Stephen is a town in Berkeley County, South Carolina, United States."
+    },
+    {
+      "cityName": "Saint Stephen",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Stephen had a population of 1,571."
+    },
+    {
+      "cityName": "Salem",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "town in Oconee County, South Carolina."
+    },
+    {
+      "cityName": "Salem",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 120 at the 2020 United States census."
     },
     {
       "cityName": "Salley",
@@ -2722,6 +3779,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Salters is the location of Federal Correctional Institution, Williamsburg."
+    },
+    {
+      "cityName": "Saluda",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Saluda had a population of 3,122."
+    },
+    {
+      "cityName": "Saluda",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Saluda County."
     },
     {
       "cityName": "Sangaree",
@@ -2808,6 +3879,27 @@
       "fact": "The plant was completed and operational as of June 1, 2008."
     },
     {
+      "cityName": "Scotia",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Scotia had a population of 158."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 932 at the 2010 census."
+    },
+    {
+      "cityName": "Scranton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Seabrook Island",
       "state": "SC",
       "source": "Wikipedia",
@@ -2815,11 +3907,32 @@
       "fact": "Seabrook Island, formerly known as Simmons Island, is a barrier island in Charleston County, South Carolina, United States."
     },
     {
+      "cityName": "Sellers",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Sellers had a population of 147."
+    },
+    {
       "cityName": "Seneca",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Seneca was named for the nearby Cherokee town of Isunigu, which English colonists knew as \"Seneca Town\"."
+    },
+    {
+      "cityName": "Sharon",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Sharon had a population of 462."
+    },
+    {
+      "cityName": "Silverstreet",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Silverstreet had a population of 164."
     },
     {
       "cityName": "Simpsonville",
@@ -2885,6 +3998,27 @@
       "fact": "The median rental costs in recent years is $618 per month, and the median house value is $258700 Six Mile was named \"Six Mile\" because it was located six miles from Fort Prince George."
     },
     {
+      "cityName": "Smoaks",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Smoaks had a population of 98."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Smyrna had a population of 55."
+    },
+    {
+      "cityName": "Snelling",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Snelling had a population of 250."
+    },
+    {
       "cityName": "Society Hill",
       "state": "SC",
       "source": "Wikipedia",
@@ -2917,7 +4051,21 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Society Hill was originally settled in the 18th century by a colony of Baptists, who named the community after their \"St. David's Society,\" the predecessor to the Society Hill Library Society."
+      "fact": "Society Hill was originally settled in the 18th century by a colony of Baptists, who named the community after their \"Saint David's Society,\" the predecessor to the Society Hill Library Society."
+    },
+    {
+      "cityName": "South Congaree",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, South Congaree had a population of 2,377."
+    },
+    {
+      "cityName": "South Congaree",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
     },
     {
       "cityName": "Spartanburg",
@@ -2955,6 +4103,20 @@
       "fact": "Springdale is the name of some places in the U S state of South Carolina: Springdale, Lancaster County, South Carolina Springdale, Lexington County, South Carolina"
     },
     {
+      "cityName": "Springfield",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Springfield had a population of 455."
+    },
+    {
+      "cityName": "Stuckey",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Stuckey had a population of 200."
+    },
+    {
       "cityName": "Sullivan's Island",
       "state": "SC",
       "source": "Wikipedia",
@@ -2976,6 +4138,20 @@
       "fact": "It lies approximately five miles from the Ashley River."
     },
     {
+      "cityName": "Summit",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Summit had a population of 423."
+    },
+    {
+      "cityName": "Summit",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Sumter",
       "state": "SC",
       "source": "Wikipedia",
@@ -2987,7 +4163,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Sumter County, along with Clarendon and Lee counties, form the core of Sumter\u2013Lee\u2013Clarendon tri-county (or East Midlands) area of South Carolina that includes three counties straddling the border of the Sandhills (or Midlands), Pee Dee, and Lowcountry regions."
+      "fact": "Sumter County, along with Clarendon and Lee counties, form the core of Sumter–Lee–Clarendon tri-county (or East Midlands) area of South Carolina that includes three counties straddling the border of the Sandhills (or Midlands), Pee Dee, and Lowcountry regions."
     },
     {
       "cityName": "Surfside Beach",
@@ -3002,6 +4178,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is considered a part of the Grand Strand."
+    },
+    {
+      "cityName": "Swansea",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Swansea had a population of 722."
+    },
+    {
+      "cityName": "Swansea",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Columbia, South Carolina Metropolitan Statistical Area."
     },
     {
       "cityName": "Sycamore",
@@ -3067,6 +4257,20 @@
       "fact": "It lies 12 miles (19 km) north of Taylors, 10 miles (16 km) northeast of Travelers Rest, and 14 miles (23 km) northwest of Greer."
     },
     {
+      "cityName": "Timmonsville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Timmonsville had a population of 2,099."
+    },
+    {
+      "cityName": "Timmonsville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Florence Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Townville",
       "state": "SC",
       "source": "Wikipedia",
@@ -3114,6 +4318,62 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Later, the Dry Goods Warehouse became the start to the Swamp Rabbitfoot Trail."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Trenton had a population of 200."
+    },
+    {
+      "cityName": "Troy",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Troy had a population of 83."
+    },
+    {
+      "cityName": "Turbeville",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Turbeville had a population of 760."
+    },
+    {
+      "cityName": "Ulmer",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 65 at the 2020 census."
+    },
+    {
+      "cityName": "Union",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city of Union is the county seat of Union County, South Carolina, United States."
+    },
+    {
+      "cityName": "Union",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Union had a population of 8,174."
+    },
+    {
+      "cityName": "Union",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the principal city of the Union Micropolitan Statistical Area, which includes all of Union County and which is further included in the greater Greenville-Spartanburg-Anderson, South Carolina Combined Statistical Area."
+    },
+    {
+      "cityName": "Vance",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Vance had a population of 128."
     },
     {
       "cityName": "Varnville",
@@ -3211,7 +4471,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "At the foot of the Arthur Ravenel Bridge is Patriots Point, a naval and maritime museum, home to the World War II aircraft carrier USS Yorktown, which is now a museum ship."
+      "fact": "At the foot of the Arthur Ravenel Bridge is Patriots Point, a naval and maritime museum, home to the World War 2 aircraft carrier USS Yorktown, which is now a museum ship."
     },
     {
       "cityName": "Wando",
@@ -3228,11 +4488,39 @@
       "fact": "In the Lowcountry, it is the fourth-most populous municipality in South Carolina, and for several years was one of the state's fastest-growing areas, doubling in population between 1990 and 2000."
     },
     {
+      "cityName": "Ward",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ward had a population of 119."
+    },
+    {
+      "cityName": "Ware Shoals",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of South Carolina, along the Saluda River."
+    },
+    {
+      "cityName": "Ware Shoals",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 1,701."
+    },
+    {
       "cityName": "Warrenville",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Warrenville is located in historic Horse Creek Valley."
+    },
+    {
+      "cityName": "Waterloo",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Waterloo had a population of 149."
     },
     {
       "cityName": "Wedgefield",
@@ -3282,6 +4570,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Welcome has been noted for its colorful place name."
+    },
+    {
+      "cityName": "Wellford",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,293 at the 2020 census, up from 2,378 in 2010."
     },
     {
       "cityName": "West Ashley",
@@ -3340,11 +4635,25 @@
       "fact": "A small portion of the city borders the town of Lexington to the east."
     },
     {
+      "cityName": "West Pelzer",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 962 at the 2020 census."
+    },
+    {
       "cityName": "West Union",
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Although its name suggests that it is near Union, they are approximately four counties apart."
+    },
+    {
+      "cityName": "Westminster",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Westminster had a population of 2,353."
     },
     {
       "cityName": "Westville",
@@ -3358,7 +4667,7 @@
       "state": "SC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In 1888, resident John C. West applied for the establishment of a post office and became the first postmaster."
+      "fact": "In 1888, resident John C West applied for the establishment of a post office and became the first postmaster."
     },
     {
       "cityName": "Westville",
@@ -3410,6 +4719,20 @@
       "fact": "The town was named for George Fredrick Whitmire, who came from Stuttgart, Germany."
     },
     {
+      "cityName": "Williams",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Williams had a population of 98."
+    },
+    {
+      "cityName": "Williamston",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,043 at the 2020 census."
+    },
+    {
       "cityName": "Williston",
       "state": "SC",
       "source": "Wikipedia",
@@ -3436,6 +4759,55 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "This section of the train route is now part of the South Carolina Heritage Corridor."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Windsor had a population of 115."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Augusta, Georgia metropolitan area."
+    },
+    {
+      "cityName": "Winnsboro",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,550 at the 2010 census."
+    },
+    {
+      "cityName": "Winnsboro",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,215 at the 2020 census, a population decrease of approximately 9.5% for the same 10 year period."
+    },
+    {
+      "cityName": "Winnsboro",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the county seat of Fairfield County."
+    },
+    {
+      "cityName": "Woodruff",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,333 at the 2020 census."
+    },
+    {
+      "cityName": "Woodruff",
+      "state": "SC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is part of the Greenville-Spartanburg-Anderson Combined Statistical Area."
     },
     {
       "cityName": "Yemassee",

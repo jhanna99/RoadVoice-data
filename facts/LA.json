@@ -8,11 +8,46 @@
       "fact": "At the 2020 population estimates program, the population of the city was 11927."
     },
     {
+      "cityName": "Abita Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Abita Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,365 at the 2010 census, up from 1,957 in 2000."
+    },
+    {
+      "cityName": "Abita Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Addis",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,731 at the 2020 census."
+    },
+    {
+      "cityName": "Addis",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Albany",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "District 95 State Representative Sherman Q. Mack, an attorney, resides in Albany."
+      "fact": "District 95 State Representative Sherman Q Mack, an attorney, resides in Albany."
     },
     {
       "cityName": "Alexandria",
@@ -36,11 +71,39 @@
       "fact": "In 2010, the population was 47723, an increase of 3 percent from the 2000 census."
     },
     {
-      "cityName": "Amite",
+      "cityName": "Amite City",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Amite City ( ay-MEET or ay-MIT; commonly just Amite) is a town in and the parish seat of Tangipahoa Parish in southeastern Louisiana, United States."
+    },
+    {
+      "cityName": "Anacoco",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 869 at the 2010 census."
+    },
+    {
+      "cityName": "Anacoco",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Angie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 240 at the 2000 census."
+    },
+    {
+      "cityName": "Angie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bogalusa Micropolitan Statistical Area."
     },
     {
       "cityName": "Arcadia",
@@ -55,6 +118,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "At the 2020 population estimates program, it had a population of 1041."
+    },
+    {
+      "cityName": "Athens",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 249 at the 2010 census."
+    },
+    {
+      "cityName": "Atlanta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 163 at the 2010 census, and had been 150 in 2000."
     },
     {
       "cityName": "Baker",
@@ -96,7 +173,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The base was established in 1932 as Barksdale Field, named for World War I aviator and test pilot Lieutenant Eugene Hoy Barksdale (1896\u20131926)."
+      "fact": "The base was established in 1932 as Barksdale Field, named for World War 1 aviator and test pilot Lieutenant Eugene Hoy Barksdale (1896–1926)."
     },
     {
       "cityName": "Barksdale AFB",
@@ -148,6 +225,13 @@
       "fact": "Equipped with about 44 B-52H Stratofortress bombers, 2 BW provides flexible, responsive global combat capability and trains all AFGSC and AFRC Boeing B-52 Stratofortress crews."
     },
     {
+      "cityName": "Basile",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,214 in 2020."
+    },
+    {
       "cityName": "Baskin",
       "state": "LA",
       "source": "Wikipedia",
@@ -166,7 +250,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is included in the Monroe Metropolitan Statistical Area and is part of the Monroe\u2013Ruston Combined Statistical Area."
+      "fact": "It is included in the Monroe Metropolitan Statistical Area and is part of the Monroe–Ruston Combined Statistical Area."
     },
     {
       "cityName": "Batchelor",
@@ -194,7 +278,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Baton Rouge is the capital city of the U.S. state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city."
+      "fact": "Baton Rouge is the capital city of the US state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city."
     },
     {
       "cityName": "Baton Rouge",
@@ -218,6 +302,20 @@
       "fact": "It is also known as Bayou Boeuf."
     },
     {
+      "cityName": "Belcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 263 at the 2010 census."
+    },
+    {
+      "cityName": "Belcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport- Bossier city metropolitan statistical area."
+    },
+    {
       "cityName": "Belle Chasse",
       "state": "LA",
       "source": "Wikipedia",
@@ -232,6 +330,20 @@
       "fact": "The town is named for 19th century U S Senator Thomas Hart Benton, a Democrat from Missouri and an ally of U S President Andrew Jackson."
     },
     {
+      "cityName": "Bernice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,689 at the 2010 census, a decrease from 1,809 in 2000."
+    },
+    {
+      "cityName": "Bernice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Berwick",
       "state": "LA",
       "source": "Wikipedia",
@@ -239,11 +351,18 @@
       "fact": "The town relocated the Southwest Reef Light and has been trying to save the Ship Shoal Light"
     },
     {
+      "cityName": "Bienville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 218 at the 2010 census."
+    },
+    {
       "cityName": "Blanchard",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "With a population of 3538 at the 2020 U S census, it is part of the Shreveport\u2013Bossier City metropolitan statistical area."
+      "fact": "With a population of 3538 at the 2020 U S census, it is part of the Shreveport–Bossier City metropolitan statistical area."
     },
     {
       "cityName": "Bogalusa",
@@ -258,6 +377,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city's name comes from the Choctaw words meaning dark waters, referring to the nearby Pearl River and its tannin-stained waters."
+    },
+    {
+      "cityName": "Bonita",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 170 at the 2020 census, down from 284 in 2010."
     },
     {
       "cityName": "Bossier City",
@@ -327,21 +453,21 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Breaux Bridge (; French: Pont-Breaux; Cajun French: Pont-(de)-Breaux pronounced ) is a city in St. Martin Parish, Louisiana, United States."
+      "fact": "Breaux Bridge (; French: Pont-Breaux; Cajun French: Pont-(de)-Breaux pronounced ) is a city in Saint Martin Parish, Louisiana, United States."
     },
     {
       "cityName": "Breaux Bridge",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Originally dubbed La Capitale Mondiale de l\u2019\u00c9crevisse, by its French-speaking residents, Breaux Bridge was officially designated the \"Crawfish Capital of the World\" by Bob Angelle, then serving as Speaker of the Louisiana House of Representatives."
+      "fact": "Originally dubbed La Capitale Mondiale de l’Écrevisse, by its French-speaking residents, Breaux Bridge was officially designated the \"Crawfish Capital of the World\" by Bob Angelle, then serving as Speaker of the Louisiana House of Representatives."
     },
     {
       "cityName": "Bridge City",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was established in the 1930s during the construction of the Huey P. Long Bridge over the Mississippi River."
+      "fact": "It was established in the 1930s during the construction of the Huey P Long Bridge over the Mississippi River."
     },
     {
       "cityName": "Bridge City",
@@ -363,6 +489,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Broussard is part of the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Brusly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,589 at the 2010 census."
+    },
+    {
+      "cityName": "Brusly",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bryceland",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 108 as of the 2010 census."
+    },
+    {
+      "cityName": "Bunkie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bunkie had a population of 3,346."
     },
     {
       "cityName": "Buras",
@@ -407,6 +561,13 @@
       "fact": "Calhoun is located in a rural area with a landscape mixture of hills and woodlands on the former transcontinental route U S 80 near Interstate 20, approximately 10 miles west of West Monroe."
     },
     {
+      "cityName": "Calvin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 236 at the 2000 census."
+    },
+    {
       "cityName": "Cameron",
       "state": "LA",
       "source": "Wikipedia",
@@ -426,6 +587,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Considerable herds of cattle are also raised in the general area."
+    },
+    {
+      "cityName": "Cankton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Cankton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 484 at the 2010 census."
+    },
+    {
+      "cityName": "Cankton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Opelousas–Eunice Micropolitan Statistical Area."
     },
     {
       "cityName": "Carencro",
@@ -523,7 +705,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Chalmette is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "Chalmette is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Chalmette",
@@ -533,11 +715,46 @@
       "fact": "Chalmette was appended to the family name after acquiring their Louisiana plantation, in honour of Louis-Xavier Martin de Lino's paternal great-grandmother, Antoinette Chalmette (died 1711) Chalmette, in French, means \"pasture\", or \"fallow land\", (and traces to the Proto-Celtic word *kalm)."
     },
     {
+      "cityName": "Chataignier",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 259 at the 2020 census."
+    },
+    {
       "cityName": "Chatham",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Southwest of Chatham is Caney Lake and the Jimmie Davis State Park."
+    },
+    {
+      "cityName": "Cheneyville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cheneyville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 625 at the 2010 census."
+    },
+    {
+      "cityName": "Choudrant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 845 at the 2010 census."
+    },
+    {
+      "cityName": "Choudrant",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
     },
     {
       "cityName": "Church Point",
@@ -547,11 +764,46 @@
       "fact": "Church Point is known as the Buggy Capital of the World as it used to be host to the annual Buggy Festival which has since gone defunct."
     },
     {
+      "cityName": "Clarence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 499 at the 2010 census."
+    },
+    {
+      "cityName": "Clarence",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located some seven miles east of the parish seat of Natchitoches and is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Clarks",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Clarks is the largest community by population in Caldwell Parish."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 711 at the 2010 census."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Cotton is a principal commodity in the area."
+    },
+    {
+      "cityName": "Clayton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Clayton is located on the Tensas River, important for fishing and boating, promoted through a U.S Army Corps of Engineers-maintained boat launch."
     },
     {
       "cityName": "Clinton",
@@ -582,6 +834,20 @@
       "fact": "The town was the site of the 1873 Colfax massacre."
     },
     {
+      "cityName": "Collinston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 274 at the 2020 census."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 277 in 2020."
+    },
+    {
       "cityName": "Convent",
       "state": "LA",
       "source": "Wikipedia",
@@ -601,6 +867,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The 2018 median household income was $52292 above the state's average."
+    },
+    {
+      "cityName": "Converse",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 440 at the 2010 census."
+    },
+    {
+      "cityName": "Cotton Valley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,010 at the 2010 census."
+    },
+    {
+      "cityName": "Cottonport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,006 at the 2010 census."
     },
     {
       "cityName": "Coushatta",
@@ -638,11 +925,46 @@
       "fact": "Covington is part of the Slidell-Mandeville-Covington statistical area."
     },
     {
+      "cityName": "Creola",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was incorporated on January 23, 2002, under the provisions of the Lawrason Act."
+    },
+    {
+      "cityName": "Creola",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "An incorporation election was held in October 2000 with 36 people (97.3%) voting in favor of the measure and 1 (2.7%) voting against."
+    },
+    {
+      "cityName": "Creola",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, Creola had a population of 213."
+    },
+    {
       "cityName": "Crowley",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is also part of the larger Lafayette\u2013Acadiana combined statistical area."
+      "fact": "It is also part of the larger Lafayette–Acadiana combined statistical area."
+    },
+    {
+      "cityName": "Cullen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,163 at the 2010 census."
+    },
+    {
+      "cityName": "Cullen",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
     },
     {
       "cityName": "Cut Off",
@@ -726,14 +1048,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The 2010 U S census placed the population at 10215, up from 8757 at the 2000 U. S. census."
+      "fact": "The 2010 U S census placed the population at 10215, up from 8757 at the 2000 U S. census."
     },
     {
       "cityName": "Des Allemands",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town, known as the \"Catfish Capital of the Universe\", is along the Bayou des Allemands, which is the boundary of Lafourche and St. Charles parishes."
+      "fact": "The town, known as the \"Catfish Capital of the Universe\", is along the Bayou des Allemands, which is the boundary of Lafourche and Saint Charles parishes."
     },
     {
       "cityName": "Des Allemands",
@@ -747,14 +1069,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The St. Charles Parish portion of Des Allemands is part of the New Orleans metropolitan statistical area, while the Lafourche Parish portion is part of the Houma\u2013Bayou Cane\u2013Thibodaux metropolitan statistical area."
+      "fact": "The Saint Charles Parish portion of Des Allemands is part of the New Orleans metropolitan statistical area, while the Lafourche Parish portion is part of the Houma–Bayou Cane–Thibodaux metropolitan statistical area."
     },
     {
       "cityName": "Destrehan",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Destrehan is part of the New Orleans\u2014Metairie\u2014Kenner metropolitan statistical area."
+      "fact": "Destrehan is part of the New Orleans—Metairie—Kenner metropolitan statistical area."
     },
     {
       "cityName": "Dixie Inn",
@@ -762,6 +1084,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Minden, the seat of Webster Parish, is located some three miles to the east."
+    },
+    {
+      "cityName": "Dodson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 357 at the 2000 census, which decreased to 337 in 2010."
     },
     {
       "cityName": "Donaldsonville",
@@ -838,28 +1167,49 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Downsville was named for U S Senator Solomon W. Downs."
+      "fact": "The population as of the 2010 census was 143, an increase from 118 in the 2000 census."
     },
     {
-      "cityName": "Downsville",
+      "cityName": "Doyline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 818 at the 2010 census."
+    },
+    {
+      "cityName": "Doyline",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Downtown Downsville, Holmesville, Point- Wilhite, Mt."
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
     },
     {
-      "cityName": "Downsville",
+      "cityName": "Dry Prong",
       "state": "LA",
       "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Ararat Baptist Church Community."
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
     },
     {
-      "cityName": "Downsville",
+      "cityName": "Dry Prong",
       "state": "LA",
       "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "There are several more."
+      "factNumber": 2,
+      "fact": "The population was 436 at the 2010 census."
+    },
+    {
+      "cityName": "Dubach",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 908 in 2020."
+    },
+    {
+      "cityName": "Dubach",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Dubach is part of the Ruston micropolitan statistical area."
     },
     {
       "cityName": "Dubberly",
@@ -873,7 +1223,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named after Curley Duson, a sheriff of St. Landry Parish."
+      "fact": "The town was named after Curley Duson, a sheriff of Saint Landry Parish."
     },
     {
       "cityName": "Duson",
@@ -904,6 +1254,20 @@
       "fact": "Dutchtown High School"
     },
     {
+      "cityName": "East Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 289 at the 2010 census, down from 366 at the 2000 census."
+    },
+    {
+      "cityName": "East Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Edgard",
       "state": "LA",
       "source": "Wikipedia",
@@ -911,11 +1275,18 @@
       "fact": "Edgard is part of the German Coast of Louisiana."
     },
     {
+      "cityName": "Edgefield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 190 at the 2000 census."
+    },
+    {
       "cityName": "Egan",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named for William M. Egan, a businessman of Crowley, Louisiana."
+      "fact": "The community was named for William M Egan, a businessman of Crowley, Louisiana."
     },
     {
       "cityName": "Egan",
@@ -937,6 +1308,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Elmwood was part of neighboring Jefferson's census area from 1960 to 1990."
+    },
+    {
+      "cityName": "Elton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 992 at the 2020 census, down from 1,128 at the 2010 census."
+    },
+    {
+      "cityName": "Elton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jennings Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Epps",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 358 at the 2020 census."
+    },
+    {
+      "cityName": "Erath",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,114 at the 2010 census, and 2,030 at the 2020 population estimates program."
+    },
+    {
+      "cityName": "Erath",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Abbeville micropolitan statistical area and the Lafayette metropolitan area."
+    },
+    {
+      "cityName": "Eros",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 130 at the 2020 Census It is part of the Ruston Micropolitan Statistical Area."
     },
     {
       "cityName": "Erwinville",
@@ -965,6 +1378,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Estelle is located south of Marrero; the urbanized areas of the communities meet, and some businesses in Estelle list their addresses as \"Marrero\"."
+    },
+    {
+      "cityName": "Estherwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 889 at the 2010 census."
+    },
+    {
+      "cityName": "Estherwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
     },
     {
       "cityName": "Eunice",
@@ -1027,7 +1454,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Elaine Dundy explored both celebrities and townsfolk in her book, Ferriday, Louisiana, published by E. P. Dutton in 1991."
+      "fact": "Elaine Dundy explored both celebrities and townsfolk in her book, Ferriday, Louisiana, published by E P Dutton in 1991."
     },
     {
       "cityName": "Ferriday",
@@ -1035,6 +1462,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Churches of several major denominations are located here, including a large Pentecostal congregation south of town on Louisiana Highway 15, as well as Baptist, Assembly of God, Presbyterian, Methodist, and Catholic."
+    },
+    {
+      "cityName": "Fisher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 230 at the 2010 census, down from 268 in 2000."
     },
     {
       "cityName": "Florien",
@@ -1051,74 +1485,67 @@
       "fact": "The town is named after the wife of Grover Cleveland, Frances Folsom."
     },
     {
+      "cityName": "Fordoche",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 928 at the 2010 census."
+    },
+    {
+      "cityName": "Fordoche",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Forest",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 275 at the 2000 census."
+    },
+    {
+      "cityName": "Forest Hill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Forest Hill",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was placed at 605 according to the 2020 census."
+    },
+    {
       "cityName": "Fort Polk",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Some 100000 acres (160 sq mi) are owned by the Department of the Army and 98125 acres (153.320 sq mi) by the U S Forest Service, mostly in the Kisatchie National Forest."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Fort Polk is now home to the Joint Readiness Training Center (JRTC), the 3rd Brigade Combat Team, 10th Mountain Division, 115th Combat Support Hospital, U S Army Garrison and Bayne-Jones Army Community Hospital."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "The land that is now Fort Polk is part of a region of cultural resources, including archaeological sites, historic houses and structures, and other sites of historical value."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "William Henry Johnson, a World War I Medal of Honor recipient from North Carolina who served in the 369th U S Infantry Regiment."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Originally named after Confederate general (and Episcopal Bishop) Leonidas Polk, Fort Polk became Fort Johnson during a re-designation ceremony on June 13, 2023 in honor of Sgt."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 6,
       "fact": "Fort Polk, formerly Fort Johnson, is a United States Army installation located in Vernon Parish, Louisiana, about 10 miles (15 km) east of Leesville and 30 miles (50 km) north of DeRidder in Beauregard Parish."
     },
     {
-      "cityName": "Fort Polk",
+      "cityName": "Franklin",
       "state": "LA",
       "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The post encompasses about 198000 acres (309 sq mi)."
+      "factNumber": 1,
+      "fact": "Mary Parish, Louisiana, United States."
     },
     {
-      "cityName": "Fort Polk",
+      "cityName": "Franklin",
       "state": "LA",
       "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "In 2013, there were 10877 troops stationed at Fort Polk, which generated an annual payroll of $980 million."
+      "factNumber": 2,
+      "fact": "The population was 6,229 as of 2024."
     },
     {
-      "cityName": "Fort Polk",
+      "cityName": "Franklin",
       "state": "LA",
       "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "Louisiana officials lobbied the Army and the United States Congress to keep troop strength at full capacity despite looming defense cuts."
-    },
-    {
-      "cityName": "Fort Polk",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "Fort Polk began as a base for the Louisiana Maneuvers in the 1940s."
+      "factNumber": 3,
+      "fact": "The city is located on Bayou Teche, southeast of the cities of Lafayette, 47 miles (76 km) and New Iberia, 28 miles (45 km), and 22 miles (35 km) northwest of Morgan City."
     },
     {
       "cityName": "Franklin Parish",
@@ -1195,7 +1622,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "French Settlement (historically French: La C\u00f4te-Fran\u00e7aise) is a village in Livingston Parish, Louisiana, United States."
+      "fact": "French Settlement (historically French: La Côte-Française) is a village in Livingston Parish, Louisiana, United States."
     },
     {
       "cityName": "Frierson",
@@ -1209,7 +1636,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community is part of the Shreveport\u2013Bossier City Metropolitan Statistical Area."
+      "fact": "The community is part of the Shreveport–Bossier City Metropolitan Statistical Area."
     },
     {
       "cityName": "Frierson",
@@ -1237,7 +1664,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Galveztown (), or Villa de G\u00e1lvez (Spanish: ), is a ghost town located at the confluence of Bayou Manchac and the Amite River in Ascension Parish, Louisiana."
+      "fact": "Galveztown (), or Villa de Gálvez (Spanish: ), is a ghost town located at the confluence of Bayou Manchac and the Amite River in Ascension Parish, Louisiana."
     },
     {
       "cityName": "Galvez",
@@ -1251,7 +1678,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Some former residents remained in the area and established the community of G\u00e1lvez, Louisiana during the first half of the nineteenth century."
+      "fact": "Some former residents remained in the area and established the community of Gálvez, Louisiana during the first half of the nineteenth century."
     },
     {
       "cityName": "Gardere",
@@ -1324,6 +1751,20 @@
       "fact": "The area is vulnerable to hurricanes and tropical systems due to its low elevation and its proximity to the coast of southeast Louisiana."
     },
     {
+      "cityName": "Georgetown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Georgetown",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 327 at the 2010 census."
+    },
+    {
       "cityName": "Gibsland",
       "state": "LA",
       "source": "Wikipedia",
@@ -1345,11 +1786,25 @@
       "fact": "The Gilbert welcome sign describes the village as the home of U S Lieutenant General Claire Chennault."
     },
     {
+      "cityName": "Gilliam",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 164 at the 2010 census."
+    },
+    {
+      "cityName": "Gilliam",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Glenmora",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Claude Kirkpatrick, a member of the Louisiana House of Representatives from Jefferson Davis Parish from 1952\u20131960, a candidate for governor in 1963, and the instigator of Toledo Bend Reservoir was born in Glenmora but moved to Lake Charles when he was six years of age."
+      "fact": "Claude Kirkpatrick, a member of the Louisiana House of Representatives from Jefferson Davis Parish from 1952–1960, a candidate for governor in 1963, and the instigator of Toledo Bend Reservoir was born in Glenmora but moved to Lake Charles when he was six years of age."
     },
     {
       "cityName": "Glenmora",
@@ -1454,7 +1909,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is named after P. G. Grambling."
+      "fact": "The city is named after P G Grambling."
     },
     {
       "cityName": "Grambling",
@@ -1462,6 +1917,41 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Grambling was designated a \"city\" in the early 1990s (either in 1992 or 1993), but was erroneously considered a \"town\" during the 2000 census."
+    },
+    {
+      "cityName": "Gramercy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the New Orleans Metropolitan Area."
+    },
+    {
+      "cityName": "Gramercy",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,613 at the time of the 2010 US census and 3,188 according to the 2020 population estimates program."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 242 at the 2010 census, up from 191 in 2000."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Grand Cane",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the hometown of women's basketball pioneer Linda Gamble."
     },
     {
       "cityName": "Grand Coteau",
@@ -1482,7 +1972,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town of Grand Isle is statistically part of the New Orleans\u2212Metairie\u2212Kenner metropolitan statistical area, though it is not connected to New Orleans' continuous urbanized area."
+      "fact": "The town of Grand Isle is statistically part of the New Orleans−Metairie−Kenner metropolitan statistical area, though it is not connected to New Orleans' continuous urbanized area."
     },
     {
       "cityName": "Grand Isle",
@@ -1511,6 +2001,13 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Grand Isle is also the name of a former sulphur mine located 7 miles of the coast of the island, which was completed in 1960 as the first ever offshore Frasch sulphur mine."
+    },
+    {
+      "cityName": "Grayson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 532 at the 2010 census."
     },
     {
       "cityName": "Greensburg",
@@ -1559,7 +2056,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Grosse T\u00eate is part of the Baton Rouge metropolitan statistical area."
+      "fact": "Grosse Tête is part of the Baton Rouge metropolitan statistical area."
     },
     {
       "cityName": "Gueydan",
@@ -1664,14 +2161,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Riley J. Wilson, who held Louisiana's 5th congressional district seat from 1915 to 1937, resided in Harrisonburg, where he was principal of Harrisonburg High School and state district court judge prior to his election to Congress."
+      "fact": "Riley J Wilson, who held Louisiana's 5th congressional district seat from 1915 to 1937, resided in Harrisonburg, where he was principal of Harrisonburg High School and state district court judge prior to his election to Congress."
     },
     {
       "cityName": "Harvey",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Harvey is on the south side (referred to as the \"West Bank\") of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "Harvey is on the south side (referred to as the \"West Bank\") of the Mississippi River, within the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Harvey",
@@ -1679,6 +2176,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The 2020 census determined that 22236 people live in Harvey."
+    },
+    {
+      "cityName": "Haughton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,539 in 2020."
+    },
+    {
+      "cityName": "Haughton",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport-Bossier City metropolitan area."
     },
     {
       "cityName": "Hayes",
@@ -1709,6 +2220,48 @@
       "fact": "Kendrick-Lacy begins with memories of her childhood, when she was introduced to butterflies by her grandmother."
     },
     {
+      "cityName": "Heflin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 245 at the 2000 census."
+    },
+    {
+      "cityName": "Heflin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Part of the Lafayette metropolitan area, its population was 1,617 at the 2020 US census."
+    },
+    {
+      "cityName": "Hessmer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 802 at the 2010 census."
+    },
+    {
+      "cityName": "Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 470 at the 2010 census."
+    },
+    {
+      "cityName": "Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Holden",
       "state": "LA",
       "source": "Wikipedia",
@@ -1720,7 +2273,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In 1907, the east\u2013west line of the Baton Rouge, Hammond & Eastern Railroad was constructed."
+      "fact": "In 1907, the east–west line of the Baton Rouge, Hammond & Eastern Railroad was constructed."
     },
     {
       "cityName": "Holden",
@@ -1741,7 +2294,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "LA Hwy 441 which runs through Holden in a northwest\u2013southeast direction is the road that connected Springfield with Baton Rouge to the west and points in Mississippi to the east."
+      "fact": "LA Hwy 441 which runs through Holden in a northwest–southeast direction is the road that connected Springfield with Baton Rouge to the west and points in Mississippi to the east."
     },
     {
       "cityName": "Holden",
@@ -1755,7 +2308,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Another person who contributed to the economic growth of the area was James \"Jim\" F. McCarroll, who had the town surveyed into lots."
+      "fact": "Another person who contributed to the economic growth of the area was James \"Jim\" F McCarroll, who had the town surveyed into lots."
     },
     {
       "cityName": "Holden",
@@ -1804,7 +2357,35 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The other courthouses are in St. Francisville, St. Martinville and Thibodaux."
+      "fact": "The other courthouses are in Saint Francisville, Saint Martinville and Thibodaux."
+    },
+    {
+      "cityName": "Hornbeck",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 480 at the 2010 census, up from 435 in 2000."
+    },
+    {
+      "cityName": "Hornbeck",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Hosston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 318 at the 2010 census."
+    },
+    {
+      "cityName": "Hosston",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
     },
     {
       "cityName": "Houma",
@@ -1839,7 +2420,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Inniswold is a neighborhood of St. George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
+      "fact": "Inniswold is a neighborhood of Saint George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
     },
     {
       "cityName": "Inniswold",
@@ -1853,7 +2434,49 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is in the newly incorporated City of St. George."
+      "fact": "It is in the newly incorporated City of Saint George."
+    },
+    {
+      "cityName": "Iota",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,304 in 2020."
+    },
+    {
+      "cityName": "Iota",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Iota is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Iowa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,436 in 2020."
+    },
+    {
+      "cityName": "Iowa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,842 at the 2010 US census, down from 4,130 in 2000; the 2020 population estimates program determined Jackson had a population of 3,707."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
     },
     {
       "cityName": "Jamestown",
@@ -1895,7 +2518,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Jefferson is part of the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "Jefferson is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Jefferson",
@@ -1903,6 +2526,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is often known by locals as \"Old Jefferson\" (to distinguish itself from the rest of Jefferson Parish), but should not be confused with Old Jefferson in East Baton Rouge Parish, Louisiana."
+    },
+    {
+      "cityName": "Jena",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,155 at the 2020 census."
     },
     {
       "cityName": "Jennings",
@@ -1917,6 +2547,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is also part of the large, 22-parish Acadiana region of the state, with a large Francophone population, many descended from early Acadian settlers."
+    },
+    {
+      "cityName": "Jonesboro",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,106 in 2020."
     },
     {
       "cityName": "Jonesville",
@@ -1961,6 +2598,20 @@
       "fact": "The Union Parish portion of Junction City is part of the Monroe Metropolitan Statistical Area."
     },
     {
+      "cityName": "Kaplan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,600 at the 2010 census, and 4,345 at the 2020 population estimates program."
+    },
+    {
+      "cityName": "Kaplan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Abbeville micropolitan statistical area in Acadiana."
+    },
+    {
       "cityName": "Keachi",
       "state": "LA",
       "source": "Wikipedia",
@@ -1993,7 +2644,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Kenner is a city in the U.S. state of Louisiana. It is the most populous city in Jefferson Parish, and is the largest incorporated suburb of New Orleans. The population was 66,448 at the 2020 census, making it the sixth-most populous city in Louisiana.."
+      "fact": "Kenner is a city in the US state of Louisiana. It is the most populous city in Jefferson Parish, and is the largest incorporated suburb of New Orleans. The population was 66,448 at the 2020 census, making it the sixth-most populous city in Louisiana.."
     },
     {
       "cityName": "Kentwood",
@@ -2001,6 +2652,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Kentwood is best known as the hometown of singer Britney Spears."
+    },
+    {
+      "cityName": "Kilbourne",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 416 at the 2010 census."
+    },
+    {
+      "cityName": "Killian",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,206 at the 2010 census."
+    },
+    {
+      "cityName": "Killian",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
     },
     {
       "cityName": "Kinder",
@@ -2021,14 +2693,35 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Kinder was the birthplace of the late Mayor J. Rayburn Bertrand of Lafayette, who served from 1960 to 1972 and presided over the near doubling of the municipal population."
+      "fact": "Kinder was the birthplace of the late Mayor J Rayburn Bertrand of Lafayette, who served from 1960 to 1972 and presided over the near doubling of the municipal population."
     },
     {
       "cityName": "Kinder",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The Lieutenant Douglas B. Fournet Memorial Park, an American Legion enterprise, was dedicated on June 11, 1988, in Kinder to remember those who died in military service to the nation."
+      "fact": "The Lieutenant Douglas B Fournet Memorial Park, an American Legion enterprise, was dedicated on June 11, 1988, in Kinder to remember those who died in military service to the nation."
+    },
+    {
+      "cityName": "Krotz Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landry Parish, Louisiana, United States, on the Atchafalaya River."
+    },
+    {
+      "cityName": "Krotz Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,198 at the 2010 census, down from 1,219 in 2000."
+    },
+    {
+      "cityName": "Krotz Springs",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Opelousas–Eunice Micropolitan Statistical Area."
     },
     {
       "cityName": "La Place",
@@ -2070,7 +2763,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lafayette is the most populous city in and the parish seat of Lafayette Parish in the U.S. state of Louisiana, located along the Vermilion River. It is Louisiana's fourth-most populous city with a 2020 census population of 121,374; the consolidated city-parish's population was 241,753 in 2020."
+      "fact": "Lafayette is the most populous city in and the parish seat of Lafayette Parish in the US state of Louisiana, located along the Vermilion River. It is Louisiana's fourth-most populous city with a 2020 census population of 121,374; the consolidated city-parish's population was 241,753 in 2020."
     },
     {
       "cityName": "Lafayette",
@@ -2098,7 +2791,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The current mayor is Sampson \u201cponcho\u201d Lejeune."
+      "fact": "The current mayor is Sampson “poncho” Lejeune."
     },
     {
       "cityName": "Lake Charles",
@@ -2196,7 +2889,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "US Highway 71, Louisiana\u2019s major north-south route which connects Baton Rouge and Shreveport, runs through Lecompte."
+      "fact": "US Highway 71, Louisiana’s major north-south route which connects Baton Rouge and Shreveport, runs through Lecompte."
     },
     {
       "cityName": "Leesville",
@@ -2204,6 +2897,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city is home to the Fort Polk (known as Fort Johnson from 2023-2025) U S Army installation."
+    },
+    {
+      "cityName": "Leonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Leonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,084 at the 2010 census."
+    },
+    {
+      "cityName": "Leonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Opelousas–Eunice Micropolitan Statistical Area."
     },
     {
       "cityName": "Lettsworth",
@@ -2231,7 +2945,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The father of journalist Howard K. Smith was originally from Lettsworth."
+      "fact": "The father of journalist Howard K Smith was originally from Lettsworth."
     },
     {
       "cityName": "Lillie",
@@ -2304,6 +3018,48 @@
       "fact": "Livingston hosts one of the two LIGO gravitational wave detector sites, the other one being located in Hanford, Washington."
     },
     {
+      "cityName": "Livonia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,442 at the 2010 census, up from 1,339 in 2000."
+    },
+    {
+      "cityName": "Livonia",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lockport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,490 in 2020."
+    },
+    {
+      "cityName": "Lockport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Houma–Bayou Cane–Thibodaux metropolitan statistical area."
+    },
+    {
+      "cityName": "Logansport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,340 in 2020."
+    },
+    {
+      "cityName": "Logansport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City metropolitan statistical area."
+    },
+    {
       "cityName": "Longstreet",
       "state": "LA",
       "source": "Wikipedia",
@@ -2346,11 +3102,67 @@
       "fact": "The Loranger School District is bordered by the school districts of Folsom, Amite, Independence, and Hammond."
     },
     {
+      "cityName": "Loreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 658 (estimated) at the 2020 census, down from 938 at the 2000 census."
+    },
+    {
+      "cityName": "Loreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Iberia micropolitan statistical area, and the Lafayette metropolitan statistical area."
+    },
+    {
+      "cityName": "Lucky",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 272 at the 2010 census."
+    },
+    {
       "cityName": "Luling",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Luling is part of the New Orleans\u2014Metairie\u2014Kenner metropolitan statistical area."
+      "fact": "Luling is part of the New Orleans—Metairie—Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Lutcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Greater New Orleans metropolitan area."
+    },
+    {
+      "cityName": "Lutcher",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,559 at the 2010 US census, and 3,127 at the 2020 population estimates program."
+    },
+    {
+      "cityName": "Madisonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 748 at the 2010 US census, and 850 at the 2020 US census."
+    },
+    {
+      "cityName": "Madisonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Mamou",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,242 at the 2010 census, down from 3,566 in 2000."
     },
     {
       "cityName": "Mandeville",
@@ -2385,14 +3197,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is named for Wiley P. Mangham, the publisher of the Richland Beacon-News, a weekly newspaper in Rayville, the seat of Richland Parish."
+      "fact": "It is named for Wiley P Mangham, the publisher of the Richland Beacon-News, a weekly newspaper in Rayville, the seat of Richland Parish."
     },
     {
       "cityName": "Mansfield",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mansfield is part of the Shreveport\u2013Bossier City metropolitan statistical area, with a 2020 population of 4714."
+      "fact": "Mansfield is part of the Shreveport–Bossier City metropolitan statistical area, with a 2020 population of 4714."
     },
     {
       "cityName": "Mansura",
@@ -2400,6 +3212,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Mansura is home to the Cochon de Lait Festival, and claims to be the Cochon de Lait capital of the world."
+    },
+    {
+      "cityName": "Many",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,853 at the 2010 census, a decrease of 36 or 1.246% from 2000."
     },
     {
       "cityName": "Maringouin",
@@ -2434,7 +3253,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Marrero is on the south side (referred to as the \"West Bank\") of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "Marrero is on the south side (referred to as the \"West Bank\") of the Mississippi River, within the New Orleans–Metairie–Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Martin",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 594 at the 2010 census."
     },
     {
       "cityName": "Maurepas",
@@ -2458,6 +3284,34 @@
       "fact": "Louisiana Highway 22 passes through the community and Whitehall lies two miles to the east."
     },
     {
+      "cityName": "Maurice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 964 at the 2010 census and 2,118 for the 2020 Census."
+    },
+    {
+      "cityName": "Maurice",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Abbeville micropolitan statistical area."
+    },
+    {
+      "cityName": "McNary",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana, Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "McNary",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 211 at the 2000 census."
+    },
+    {
       "cityName": "Melville",
       "state": "LA",
       "source": "Wikipedia",
@@ -2477,6 +3331,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The name is French for \"Red Sea\"."
+    },
+    {
+      "cityName": "Mermentau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 661 at the 2010 census."
+    },
+    {
+      "cityName": "Mermentau",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Merryville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,103 at the 2010 census."
+    },
+    {
+      "cityName": "Merryville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the DeRidder Micropolitan Statistical Area."
     },
     {
       "cityName": "Metairie",
@@ -2518,7 +3400,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Monroe is the ninth-largest city in the U.S. state of Louisiana, and is the parish seat and largest city of Ouachita Parish."
+      "fact": "Monroe is the ninth-largest city in the US state of Louisiana, and is the parish seat and largest city of Ouachita Parish."
     },
     {
       "cityName": "Monroe",
@@ -2598,6 +3480,13 @@
       "fact": "Mooringsport is an incorporated municipality in the U S state of Louisiana, located in Caddo Parish."
     },
     {
+      "cityName": "Moreauville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 929 at the 2010 census."
+    },
+    {
       "cityName": "Morgan City",
       "state": "LA",
       "source": "Wikipedia",
@@ -2637,7 +3526,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Morgan City, and all of St. Mary Parish, is included in the Lafayette-Opelousas-Morgan City CSA."
+      "fact": "Morgan City, and all of Saint Mary Parish, is included in the Lafayette-Opelousas-Morgan City CSA."
     },
     {
       "cityName": "Morganza",
@@ -2658,28 +3547,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Southern Pacific Railroad had built a line here in 1895 connecting Midland and Gueydan and named it Morse Station after the railroad's New Orleans\u2013based passenger agent, Col."
+      "fact": "The population was 812 at the 2010 census."
     },
     {
       "cityName": "Morse",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Laid out in 1898 on land owned by J. M. Crabtree, Morse was settled by farmers from Illinois and Iowa and incorporated as a village in 1906."
-    },
-    {
-      "cityName": "Morse",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Samuel Finley Breese Morse, a cousin of the inventor of the telegraph."
-    },
-    {
-      "cityName": "Morse",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Morse had promoted immigration efforts targeting the area."
+      "fact": "It is part of the Crowley Micropolitan Statistical Area."
     },
     {
       "cityName": "Moss Bluff",
@@ -2724,6 +3599,34 @@
       "fact": "Mount Hermon is part of the Washington Parish School Board, alongside other schools such as Franklinton, Pine, and Varnado."
     },
     {
+      "cityName": "Mount Lebanon",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 83 at the 2010 census."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 660 at the 2010 census."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pierre Part Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Napoleonville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is best known as the location where the film Because of Winn-Dixie, based on Kate DiCamillo's Newbery Prize-winning novel, was shot."
+    },
+    {
       "cityName": "Natchez",
       "state": "LA",
       "source": "Wikipedia",
@@ -2735,7 +3638,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Established in 1714 by Louis Juchereau de St. Denis as part of French Louisiana, the community was named after the indigenous Natchitoches people."
+      "fact": "Established in 1714 by Louis Juchereau de Saint Denis as part of French Louisiana, the community was named after the indigenous Natchitoches people."
     },
     {
       "cityName": "Natchitoches",
@@ -2756,7 +3659,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Natchitoches ( NAK-\u0259-tish; French: Les Natchitoches, ) is a city in and the parish seat of Natchitoches Parish, Louisiana, United States."
+      "fact": "Natchitoches ( NAK-ə-tish; French: Les Natchitoches, ) is a city in and the parish seat of Natchitoches Parish, Louisiana, United States."
     },
     {
       "cityName": "Natchitoches",
@@ -2770,7 +3673,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "New Iberia (French: La Nouvelle-Ib\u00e9rie; Spanish: Nueva Iberia; Louisiana Creole: Nouv\u00e8l Ib\u00e9ri) is the largest city in and the parish seat of Iberia Parish in the U S state of Louisiana."
+      "fact": "New Iberia (French: La Nouvelle-Ibérie; Spanish: Nueva Iberia; Louisiana Creole: Nouvèl Ibéri) is the largest city in and the parish seat of Iberia Parish in the U S state of Louisiana."
     },
     {
       "cityName": "New Iberia",
@@ -2791,7 +3694,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "New Iberia is served by Amtrak\u2019s Sunset Limited, operating between Los Angeles and New Orleans."
+      "fact": "New Iberia is served by Amtrak’s Sunset Limited, operating between Los Angeles and New Orleans."
     },
     {
       "cityName": "New Iberia",
@@ -2833,7 +3736,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "New Orleans in 1840 was the third most populous city in the United States, and it was the largest city in the American South from the Antebellum era until after World War II."
+      "fact": "New Orleans in 1840 was the third most populous city in the United States, and it was the largest city in the American South from the Antebellum era until after World War 2."
     },
     {
       "cityName": "New Orleans",
@@ -2896,7 +3799,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "New Roads (historically French: Poste-de-Pointe-Coup\u00e9e) is a city in and the parish seat of Pointe Coupee Parish, Louisiana, United States."
+      "fact": "New Roads (historically French: Poste-de-Pointe-Coupée) is a city in and the parish seat of Pointe Coupee Parish, Louisiana, United States."
     },
     {
       "cityName": "New Roads",
@@ -2917,14 +3820,49 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Further south toward St. Joseph, the parish seat of government, is another ox-bow lake, Lake Bruin, a part of which is the popular Lake Bruin State Park."
+      "fact": "Further south toward Saint Joseph, the parish seat of government, is another ox-bow lake, Lake Bruin, a part of which is the popular Lake Bruin State Park."
     },
     {
       "cityName": "Newellton",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Newellton is west of the Mississippi River on Lake St. Joseph, an ox-bow lake."
+      "fact": "Newellton is west of the Mississippi River on Lake Saint Joseph, an ox-bow lake."
+    },
+    {
+      "cityName": "Noble",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 259 at the 2000 census."
+    },
+    {
+      "cityName": "North Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 388 at the 2010 census, down from 436 at the 2000 census."
+    },
+    {
+      "cityName": "North Hodge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Ruston Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 322 at the 2010 census."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
     },
     {
       "cityName": "Oak Grove",
@@ -2938,35 +3876,35 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Oak Hills Place is a neighborhood of St. George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
+      "fact": "Oak Hills Place is a neighborhood of Saint George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
     },
     {
       "cityName": "Oak Hills Place",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is in the City of St. George."
+      "fact": "It is in the City of Saint George."
+    },
+    {
+      "cityName": "Oak Ridge",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 124 at the 2020 census."
     },
     {
       "cityName": "Oakdale",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The history of Allen Parish is preserved at the Leatherwood Museum, which reopened on September 27, 2008, in a renovated facility at 202 E. 7th Ave."
-    },
-    {
-      "cityName": "Oakdale",
-      "state": "LA",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Oakdale was founded as \"Dunnsville\" by William T. Dunn."
+      "fact": "As of the 2020 census, Oakdale had a population of 6,692."
     },
     {
       "cityName": "Oberlin",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Oberlin was the home of Ernest S. Clements, a Democratic member of the Louisiana State Senate and, later, the Louisiana Public Service Commission."
+      "fact": "Oberlin was the home of Ernest S Clements, a Democratic member of the Louisiana State Senate and, later, the Louisiana Public Service Commission."
     },
     {
       "cityName": "Oberlin",
@@ -2994,7 +3932,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "For Old Jefferson in Jefferson Parish, Louisiana, see: Jefferson, Louisiana Old Jefferson is a neighborhood of St. George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
+      "fact": "For Old Jefferson in Jefferson Parish, Louisiana, see: Jefferson, Louisiana Old Jefferson is a neighborhood of Saint George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
     },
     {
       "cityName": "Olla",
@@ -3085,7 +4023,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Opelousas (; French: Les Op\u00e9lousas; Spanish: Los Opeluz\u00e1s) is a small city in and the parish seat of St. Landry Parish, Louisiana, United States."
+      "fact": "Opelousas (; French: Les Opélousas; Spanish: Los Opeluzás) is a small city in and the parish seat of Saint Landry Parish, Louisiana, United States."
     },
     {
       "cityName": "Opelousas",
@@ -3130,11 +4068,53 @@
       "fact": "During the tenure of Sheriff Cat Doucet, from 1936 to 1940 and again from 1952 to 1968, the section of Opelousas along Highway 190 was a haven of gambling and prostitution, the profits from which he skimmed a take."
     },
     {
+      "cityName": "Palmetto",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landry Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Palmetto",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 188 at the 2000 census."
+    },
+    {
+      "cityName": "Palmetto",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Opelousas–Eunice Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Parks",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Parks is a village in St. Martin Parish, Louisiana, United States."
+      "fact": "Parks is a village in Saint Martin Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mary Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Patterson had a population of 5,931."
+    },
+    {
+      "cityName": "Patterson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Morgan City Micropolitan Statistical Area."
     },
     {
       "cityName": "Paulina",
@@ -3149,6 +4129,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was first listed in the 2010 census with a population of 1178."
+    },
+    {
+      "cityName": "Pearl River",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,506 at the 2010 US census, and 2,618 at the 2020 population estimates program."
+    },
+    {
+      "cityName": "Pearl River",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Pierre Part",
@@ -3207,6 +4201,13 @@
       "fact": "The businesses surround the 62-436 intersection and flow north on Hwy 62 toward the \"New\" High School."
     },
     {
+      "cityName": "Pine Prairie",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,610 at the 2010 census, up from 1,087 in 2000."
+    },
+    {
       "cityName": "Pineville",
       "state": "LA",
       "source": "Wikipedia",
@@ -3225,7 +4226,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Central Louisiana State Hospital, the Pinecrest Supports and Services Center, the Huey P. Long Memorial Hospital (closed), the Alexandria Veterans Administration Medical Center, and the Alexandria National Cemetery are all located in Pineville."
+      "fact": "The Central Louisiana State Hospital, the Pinecrest Supports and Services Center, the Huey P Long Memorial Hospital (closed), the Alexandria Veterans Administration Medical Center, and the Alexandria National Cemetery are all located in Pineville."
+    },
+    {
+      "cityName": "Pioneer",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 171 at the 2000 census."
     },
     {
       "cityName": "Pitkin",
@@ -3256,11 +4264,60 @@
       "fact": "Burl Cain, former warden of the Louisiana State Penitentiary at Angola and commissioner of the Mississippi Department of Corrections, was reared in Pitkin."
     },
     {
+      "cityName": "Plain Dealing",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 893 in 2020."
+    },
+    {
+      "cityName": "Plain Dealing",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City metropolitan statistical area."
+    },
+    {
+      "cityName": "Plaquemine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
+      "cityName": "Plaquemine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2010 United States census, the population was 7,119; the 2020 census determined its population was 6,269."
+    },
+    {
+      "cityName": "Plaucheville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 248 at the 2010 census."
+    },
+    {
       "cityName": "Pleasant Hill",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Pleasant Hill, Louisiana may refer to the following places in the United States: Pleasant Hill, Lincoln Parish, Louisiana, in Lincoln Parish, Louisiana Pleasant Hill, Natchitoches Parish, Louisiana, in Natchitoches Parish, Louisiana Pleasant Hill, Sabine Parish, Louisiana"
+    },
+    {
+      "cityName": "Pollock",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pollock",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 469 as of the 2010 census, up from 376 in 2000."
     },
     {
       "cityName": "Ponchatoula",
@@ -3289,6 +4346,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town began in 1760 as an Indian trading post at the place where Bayou Teche flows out of Bayou Courtableau."
+    },
+    {
+      "cityName": "Port Vincent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 741 at the 2010 census."
+    },
+    {
+      "cityName": "Port Vincent",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Powhatan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 141 at the 2000 census."
+    },
+    {
+      "cityName": "Powhatan",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
     },
     {
       "cityName": "Prairieville",
@@ -3361,6 +4446,20 @@
       "fact": "Some of the area has been annexed into the city of Lake Charles."
     },
     {
+      "cityName": "Provencal",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 611 at the 2010 census."
+    },
+    {
+      "cityName": "Provencal",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Quitman",
       "state": "LA",
       "source": "Wikipedia",
@@ -3400,7 +4499,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Behind the tabernacle are the grave sites of former Governor Jimmie Davis and his first wife, n\u00e9e Alvern Adams."
+      "fact": "Behind the tabernacle are the grave sites of former Governor Jimmie Davis and his first wife, née Alvern Adams."
     },
     {
       "cityName": "Raceland",
@@ -3421,7 +4520,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "On April 19, 1855, a daughter of Kittredge, Olivia Corrinne, married George W. Race."
+      "fact": "On April 19, 1855, a daughter of Kittredge, Olivia Corrinne, married George W Race."
     },
     {
       "cityName": "Raceland",
@@ -3456,7 +4555,28 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The City Hall, located next to the U S Post Office across from U S Highway 80, is named for former Rayville Mayor Joe Kalil (1922\u20131996)."
+      "fact": "The City Hall, located next to the U S Post Office across from U S Highway 80, is named for former Rayville Mayor Joe Kalil (1922–1996)."
+    },
+    {
+      "cityName": "Reeves",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 232 at the 2010 census."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 511 at the 2020 census, down from 577 in 2010."
+    },
+    {
+      "cityName": "Richmond",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tallulah Micropolitan Statistical Area."
     },
     {
       "cityName": "Richwood",
@@ -3464,6 +4584,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was incorporated December 31, 1974, under the provision of Louisiana Revised Statute 33:52 and operates under a form of government consisting of an elected mayor and a board of alder persons, which has five elected members."
+    },
+    {
+      "cityName": "Ridgecrest",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 694 at the 2010 census."
     },
     {
       "cityName": "Ringgold",
@@ -3508,6 +4635,20 @@
       "fact": "Its population was 546 as of the 2010 census."
     },
     {
+      "cityName": "Robeline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 183 at the 2000 census."
+    },
+    {
+      "cityName": "Robeline",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Natchitoches Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Robert",
       "state": "LA",
       "source": "Wikipedia",
@@ -3529,6 +4670,34 @@
       "fact": "The community, which has 20 streets and one stoplight, was thrust into the international spotlight when the Deepwater Horizon Unified Command was established at the Shell Robert Training and Conference Center to coordinate response to the Deepwater Horizon oil spill in 2010."
     },
     {
+      "cityName": "Rodessa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 270 at the 2010 census."
+    },
+    {
+      "cityName": "Rodessa",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 664 in 2020."
+    },
+    {
+      "cityName": "Rosedale",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
       "cityName": "Roseland",
       "state": "LA",
       "source": "Wikipedia",
@@ -3541,6 +4710,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Roseland is part of the Hammond MSA."
+    },
+    {
+      "cityName": "Rosepine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,692 at the 2010 census."
+    },
+    {
+      "cityName": "Rosepine",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
     },
     {
       "cityName": "Ruston",
@@ -3561,7 +4744,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named after the St. Amant family, some of the early settlers in the region."
+      "fact": "It is named after the Saint Amant family, some of the early settlers in the region."
     },
     {
       "cityName": "Saint Amant",
@@ -3582,7 +4765,28 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It was established in the 18th century during Louisiana's Spanish colonial era as the center of Isle\u00f1o settlers."
+      "fact": "It was established in the 18th century during Louisiana's Spanish colonial era as the center of Isleño settlers."
+    },
+    {
+      "cityName": "Saint Francisville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Francisville is a town in and the parish seat of West Feliciana Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Saint Francisville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,557 at the 2020 census."
+    },
+    {
+      "cityName": "Saint Francisville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
     },
     {
       "cityName": "Saint Gabriel",
@@ -3596,7 +4800,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city of St. Gabriel includes the Carville neighborhood and portions of Sunshine."
+      "fact": "The city of Saint Gabriel includes the Carville neighborhood and portions of Sunshine."
     },
     {
       "cityName": "Saint Gabriel",
@@ -3610,14 +4814,28 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "St. Gabriel was incorporated as a town in 1994 and received city designation in 2001."
+      "fact": "Saint Gabriel was incorporated as a town in 1994 and received city designation in 2001."
     },
     {
       "cityName": "Saint Gabriel",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Bayou Manchac serves as the official boundary between St. Gabriel, Ascension Parish, and East Baton Rouge Parish."
+      "fact": "Bayou Manchac serves as the official boundary between Saint Gabriel, Ascension Parish, and East Baton Rouge Parish."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "George is a city in East Baton Rouge Parish in Louisiana, USA."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 86,316, it is the second most populous city in the parish and fifth most populous in the state."
     },
     {
       "cityName": "Saint James",
@@ -3631,14 +4849,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. James Parish is a part of the New Orleans\u2013Metairie, Louisiana metropolitan statistical area, sitting between New Orleans and Baton Rouge on the Mississippi River."
+      "fact": "Saint James Parish is a part of the New Orleans–Metairie, Louisiana metropolitan statistical area, sitting between New Orleans and Baton Rouge on the Mississippi River."
     },
     {
       "cityName": "Saint James Parish",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "St. James Parish (French: Paroisse de Saint-Jacques) is a parish located in the U S state of Louisiana."
+      "fact": "Saint James Parish (French: Paroisse de Saint-Jacques) is a parish located in the U S state of Louisiana."
     },
     {
       "cityName": "Saint James Parish",
@@ -3680,7 +4898,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Mary Parish (French: Paroisse de Sainte-Marie) is a parish located in the U S state of Louisiana."
+      "fact": "Saint Mary Parish (French: Paroisse de Sainte-Marie) is a parish located in the U S state of Louisiana."
     },
     {
       "cityName": "Saint Mary Parish",
@@ -3718,11 +4936,25 @@
       "fact": "Saline is pronounced \"Suh-LEEN\"."
     },
     {
+      "cityName": "Sarepta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 891 at the 2010 census."
+    },
+    {
+      "cityName": "Sarepta",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Minden Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Schriever",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named for railroad official John George Schriever (1844\u20131898) during the 1870s opening of the New Orleans, Opelousas and Great Western Railroad line to Houma."
+      "fact": "The community was named for railroad official John George Schriever (1844–1898) during the 1870s opening of the New Orleans, Opelousas and Great Western Railroad line to Houma."
     },
     {
       "cityName": "Scott",
@@ -3743,14 +4975,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Shenandoah is a neighborhood of St. George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
+      "fact": "Shenandoah is a neighborhood of Saint George and former census designated place in East Baton Rouge Parish, Louisiana, United States."
     },
     {
       "cityName": "Shenandoah",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is now within the city limits city of St. George."
+      "fact": "It is now within the city limits city of Saint George."
     },
     {
       "cityName": "Shongaloo",
@@ -3778,14 +5010,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Shreveport is a city in the U.S. state of Louisiana. It is the third-most populous city in Louisiana after New Orleans and Baton Rouge. The bulk of Shreveport is in Caddo Parish, of which it is the parish seat. It extends along the west bank of the Red River into neighboring Bossier Parish."
+      "fact": "Shreveport is a city in the US state of Louisiana. It is the third-most populous city in Louisiana after New Orleans and Baton Rouge. The bulk of Shreveport is in Caddo Parish, of which it is the parish seat. It extends along the west bank of the Red River into neighboring Bossier Parish."
     },
     {
       "cityName": "Shreveport",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The 2020 census tabulation for the city's population was 187,593, while the Shreveport\u2013Bossier City metropolitan area had a population of 393,406.."
+      "fact": "The 2020 census tabulation for the city's population was 187,593, while the Shreveport–Bossier City metropolitan area had a population of 393,406.."
     },
     {
       "cityName": "Sibley",
@@ -3809,18 +5041,53 @@
       "fact": "The former Sibley High School, now known as Lakeside Junior/Senior High School, is located south of town off Louisiana Highway 7."
     },
     {
+      "cityName": "Sicily Island",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 336 at the 2020 census."
+    },
+    {
       "cityName": "Sikes",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The village was named after Sikes Bowman, (1856\u20131925), a leader in the Winn Parish Baptist church, musician, and the first postmaster in the local area."
+      "fact": "The village was named after Sikes Bowman, (1856–1925), a leader in the Winn Parish Baptist church, musician, and the first postmaster in the local area."
+    },
+    {
+      "cityName": "Simmesport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,161 at the 2010 census."
+    },
+    {
+      "cityName": "Simmesport",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the northernmost town on the Atchafalaya River, located near the Old River which connects the Red and Atchafalaya rivers with the Mississippi River."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 638 at the 2010 census."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Fort Johnson South Micropolitan Statistical Area."
     },
     {
       "cityName": "Simsboro",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "A 19th Century lawmaker who lived in Simsboro was Representative George M. Lomax, who in 1894 introduced the enabling legislation, Act 68, to establish the future Louisiana Tech University."
+      "fact": "A 19th Century lawmaker who lived in Simsboro was Representative George M Lomax, who in 1894 introduced the enabling legislation, Act 68, to establish the future Louisiana Tech University."
     },
     {
       "cityName": "Singer",
@@ -3865,11 +5132,88 @@
       "fact": "Slidell is the gateway to the Honey Island Swamp, one of the least-altered river swamps in the country and home to the legendary Honey Island Swamp Monster."
     },
     {
+      "cityName": "Sorrento",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sorrento, officially Comune di Sorrento is a city and comune overlooking the Bay of Naples in Southern Italy."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A popular tourist destination, Sorrento is located on the Sorrentine Peninsula at the southern terminus of a main branch of the Circumvesuviana rail network, within easy access from Naples and Pompei."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is widely known for its small ceramics, lacework and marquetry (woodwork) shops."
+    },
+    {
+      "cityName": "South Mansfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 346 at the 2010 census."
+    },
+    {
+      "cityName": "South Mansfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Spearsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 126 at the 2020 census, a decrease from 137 in 2010."
+    },
+    {
+      "cityName": "Spearsville",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Monroe Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 427 as of the 2020 census."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Baton Rouge metropolitan statistical area."
+    },
+    {
       "cityName": "Springhill",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Springhill population is 34 percent African American, compared to 25 percent minority in 2000."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 107 at the 2010 census, down from 145 in 2000."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Shreveport–Bossier City Metropolitan Statistical Area."
     },
     {
       "cityName": "Starks",
@@ -3912,6 +5256,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Sulphur is part of the Lake Charles metropolitan statistical area."
+    },
+    {
+      "cityName": "Sun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tammany Parish, Louisiana, United States."
+    },
+    {
+      "cityName": "Sun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 470 at the 2010 census, and 392 in 2020."
+    },
+    {
+      "cityName": "Sun",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the New Orleans–Metairie–Kenner metropolitan statistical area."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunset is the disappearance of the Sun at the end of the Sun path, below the horizon of the Earth due to its rotation."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As viewed from everywhere on Earth, it is a phenomenon that happens approximately once every 24 hours, except in areas close to the poles."
+    },
+    {
+      "cityName": "Sunset",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The equinox Sun sets due west at the moment of both the spring and autumn equinoxes."
     },
     {
       "cityName": "Talisheek",
@@ -3981,7 +5367,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Terrebonne Parish ( TERR-\u0259-BOHN; French: Paroisse de Terrebonne) is a parish located in the southern part of the U S state of Louisiana."
+      "fact": "Terrebonne Parish ( TERR-ə-BOHN; French: Paroisse de Terrebonne) is a parish located in the southern part of the U S state of Louisiana."
     },
     {
       "cityName": "Terrebonne Parish",
@@ -4016,7 +5402,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is a suburb within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "It is a suburb within the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Terrytown",
@@ -4061,11 +5447,39 @@
       "fact": "It was originally inhabited by Italian-American immigrants and continues to have a distinct Italian-American heritage."
     },
     {
+      "cityName": "Tullos",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area takes its name from the Vale of Tullos, which lies between Tullos Hill and Torry Hill."
+    },
+    {
+      "cityName": "Tullos",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Tullos derived its name from a corruption of the Gaelic ‘Tulach’ meaning a hill."
+    },
+    {
       "cityName": "Urania",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The late state Representative Thomas \"Bud\" Brady was born in Urania in 1938."
+    },
+    {
+      "cityName": "Varnado",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,461 at the 2010 census."
+    },
+    {
+      "cityName": "Varnado",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bogalusa Micropolitan Statistical Area."
     },
     {
       "cityName": "Venice",
@@ -4079,7 +5493,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "This location has earned it the nickname \"The end of the world.\u201d In 2001, the combined population of Venice and the neighboring communities of Orchard and Boothville was about 2740 people, with approximately 975 families; about 460 of those residents lived in Venice."
+      "fact": "This location has earned it the nickname \"The end of the world.” In 2001, the combined population of Venice and the neighboring communities of Orchard and Boothville was about 2740 people, with approximately 975 families; about 460 of those residents lived in Venice."
     },
     {
       "cityName": "Venice",
@@ -4114,7 +5528,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city of Natchez, Mississippi, lies on the opposite bank of the river, connected by the Natchez\u2013Vidalia Bridge, carrying U S Routes 65, 84, and 425."
+      "fact": "The city of Natchez, Mississippi, lies on the opposite bank of the river, connected by the Natchez–Vidalia Bridge, carrying U S Routes 65, 84, and 425."
     },
     {
       "cityName": "Vienna",
@@ -4163,14 +5577,14 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The area was named for U S Senator George Augustus Waggaman (1782\u20131843)."
+      "fact": "The area was named for U S Senator George Augustus Waggaman (1782–1843)."
     },
     {
       "cityName": "Waggaman",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Waggaman is on the West Bank of the Mississippi River, within the New Orleans\u2013Metairie\u2013Kenner metropolitan statistical area."
+      "fact": "Waggaman is on the West Bank of the Mississippi River, within the New Orleans–Metairie–Kenner metropolitan statistical area."
     },
     {
       "cityName": "Wakefield",
@@ -4198,7 +5612,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Washington was the largest inland port between New Orleans and St. Louis for much of the 19th century."
+      "fact": "Washington was the largest inland port between New Orleans and Saint Louis for much of the 19th century."
     },
     {
       "cityName": "Waterproof",
@@ -4250,6 +5664,20 @@
       "fact": "Industrial-scale cotton is the major commodity crop, but corn and soybeans are also important."
     },
     {
+      "cityName": "Welsh",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,226 at the time of the 2010 census."
+    },
+    {
+      "cityName": "Welsh",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jennings Micropolitan Statistical Area."
+    },
+    {
       "cityName": "West Monroe",
       "state": "LA",
       "source": "Wikipedia",
@@ -4285,6 +5713,20 @@
       "fact": "There are many chemical plants and oil refineries situated around the Westlake area."
     },
     {
+      "cityName": "Westwego",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a suburban community of New Orleans in the Greater New Orleans metropolitan area and lies along the west bank of the Mississippi River."
+    },
+    {
+      "cityName": "Westwego",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of the city of Westwego was 8,568 at the 2020 United States census."
+    },
+    {
       "cityName": "White Castle",
       "state": "LA",
       "source": "Wikipedia",
@@ -4296,7 +5738,7 @@
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Three governors of the state of Louisiana were from Winnfield: Huey Long, Earl K. Long, and Oscar K. Allen."
+      "fact": "Three governors of the state of Louisiana were from Winnfield: Huey Long, Earl K Long, and Oscar K Allen."
     },
     {
       "cityName": "Winnsboro",
@@ -4306,18 +5748,39 @@
       "fact": "As of 2020, its population was 4862."
     },
     {
+      "cityName": "Wisner",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 964 at the 2010 census, down from 1,140 in 2000."
+    },
+    {
+      "cityName": "Woodworth",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Alexandria, Louisiana Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Woodworth",
+      "state": "LA",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,096 at the 2010 census."
+    },
+    {
       "cityName": "Youngsville",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Youngsville was the birthplace of Louisiana businessman and politician Dudley J. LeBlanc, the entrepreneur of the Hadacol fortune of the 1950s."
+      "fact": "Youngsville was the birthplace of Louisiana businessman and politician Dudley J LeBlanc, the entrepreneur of the Hadacol fortune of the 1950s."
     },
     {
       "cityName": "Youngsville",
       "state": "LA",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Bernard LeBas of Ville Platte has represented Evangeline and St. Landry parishes in the Louisiana House of Representatives since 2008."
+      "fact": "Bernard LeBas of Ville Platte has represented Evangeline and Saint Landry parishes in the Louisiana House of Representatives since 2008."
     },
     {
       "cityName": "Youngsville",

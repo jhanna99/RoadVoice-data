@@ -96,7 +96,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town's residents voted to incorporate in a 61\u20139 vote on March 29, 2016."
+      "fact": "The town's residents voted to incorporate in a 61–9 vote on March 29, 2016."
     },
     {
       "cityName": "Bristol",
@@ -152,7 +152,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Buffalo Gap (Lakota: pt\u00e9 t\u021fath\u00edyopa ot\u021f\u00fa\u014bwahe; \"buffalo gap village\") is a town in Custer County, South Dakota, United States."
+      "fact": "Buffalo Gap (Lakota: pté tȟathíyopa otȟúŋwahe; \"buffalo gap village\") is a town in Custer County, South Dakota, United States."
     },
     {
       "cityName": "Butler",
@@ -208,7 +208,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The city was named by Norwegian settler and former legislator James M. Wahl."
+      "fact": "The city was named by Norwegian settler and former legislator James M Wahl."
     },
     {
       "cityName": "Canton",
@@ -271,7 +271,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Colton has the name of J. E. Colton, a railroad official."
+      "fact": "Colton has the name of J E Colton, a railroad official."
     },
     {
       "cityName": "Crooks",
@@ -285,14 +285,14 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town's present name honors W. A. Crooks, a local politician."
+      "fact": "The town's present name honors W A Crooks, a local politician."
     },
     {
       "cityName": "Davis",
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Davis was founded in 1893, and named for either Edna V. Davis, a local landowner, or J. A. Davis, owner of the town site."
+      "fact": "Davis was founded in 1893, and named for either Edna 5 Davis, a local landowner, or J A Davis, owner of the town site."
     },
     {
       "cityName": "Deadwood",
@@ -348,7 +348,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Also included on the same historic marker is Bluebird Locker, a local business in Delmont known for its \u201cDelmont Sausage\u201d but also serves as a butchery for other types of meats."
+      "fact": "Also included on the same historic marker is Bluebird Locker, a local business in Delmont known for its “Delmont Sausage” but also serves as a butchery for other types of meats."
     },
     {
       "cityName": "Delmont",
@@ -390,7 +390,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Draper was laid out in 1906, and named in honor of C. A. Draper, a railroad official."
+      "fact": "Draper was laid out in 1906, and named in honor of C A Draper, a railroad official."
     },
     {
       "cityName": "Dupree",
@@ -698,7 +698,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Herreid was laid out in 1901 when a branch of the Soo Line reached the city, and named after Charles N. Herreid, fourth Governor of South Dakota."
+      "fact": "Herreid was laid out in 1901 when a branch of the Soo Line reached the city, and named after Charles N Herreid, fourth Governor of South Dakota."
     },
     {
       "cityName": "Herreid",
@@ -845,7 +845,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Interior (Lakota: mak\u021f\u00f3\u0161i\u010da ot\u021f\u00fa\u014bwahe; \"Badlands village\") is a town in Jackson County, South Dakota, United States."
+      "fact": "Interior (Lakota: makȟóšiča otȟúŋwahe; \"Badlands village\") is a town in Jackson County, South Dakota, United States."
     },
     {
       "cityName": "Irene",
@@ -866,7 +866,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The school building (K\u201312) is located in Kingsbury County, while the school parking lot is located in Beadle County."
+      "fact": "The school building (K–12) is located in Kingsbury County, while the school parking lot is located in Beadle County."
     },
     {
       "cityName": "Iroquois",
@@ -887,7 +887,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Java received its name from railroad crews on the Chicago, Milwaukee & St. Paul Railway Line who would stop for coffee in the town prior to the railroad's relocation in 1908."
+      "fact": "Java received its name from railroad crews on the Chicago, Milwaukee & Saint Paul Railway Line who would stop for coffee in the town prior to the railroad's relocation in 1908."
     },
     {
       "cityName": "Java",
@@ -957,7 +957,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lane was laid out in 1903, and named in honor of T. W. Lane, an early settler."
+      "fact": "Lane was laid out in 1903, and named in honor of T W Lane, an early settler."
     },
     {
       "cityName": "Langford",
@@ -978,14 +978,21 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lemmon is named after George Ed Lemmon, a cattleman, who founded the town in 1906."
+      "fact": "Portland is the most populous city in the US state of Oregon."
     },
     {
       "cityName": "Lemmon",
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The City of Lemmon received the South Dakota Community of the Year Award in 2012."
+      "fact": "Located in the Pacific Northwest at the confluence of the Willamette and Columbia rivers, it is the 28th-most populous city in the United States, sixth-most populous on the West Coast, and third-most populous in the Pacific Northwest, with a population of 652,503 at the 2020 census."
+    },
+    {
+      "cityName": "Lemmon",
+      "state": "SD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Portland metropolitan area, with over 2.54 million residents, is the 26th-largest metropolitan area in the nation."
     },
     {
       "cityName": "Leola",
@@ -999,7 +1006,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Letcher has the name of O. T. Letcher, a local landowner."
+      "fact": "Letcher has the name of O T Letcher, a local landowner."
     },
     {
       "cityName": "Long Lake",
@@ -1013,7 +1020,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lowry was founded in 1907 as a station stop on a branch line of the Minneapolis and St. Louis Railway built that year between Conde and LeBeau, South Dakota."
+      "fact": "Lowry was founded in 1907 as a station stop on a branch line of the Minneapolis and Saint Louis Railway built that year between Conde and LeBeau, South Dakota."
     },
     {
       "cityName": "Lowry",
@@ -1069,21 +1076,21 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "McLaughlin (Lakota: mat\u021f\u00f3 Ak\u00ed\u010dita or Mak\u00e1\u021fle\u010da; \"Bear Soldier\") is a city in northeastern Corson County, South Dakota, United States."
+      "fact": "McLaughlin (Lakota: matȟó Akíčita or Makáȟleča; \"Bear Soldier\") is a city in northeastern Corson County, South Dakota, United States."
     },
     {
       "cityName": "McLaughlin",
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Most Lak\u021f\u00f3ta speakers refer to the town as Mak\u00e1\u021fle\u010da or Mat\u021f\u00f3 Ak\u00ed\u010dita."
+      "fact": "Most Lakȟóta speakers refer to the town as Makáȟleča or Matȟó Akíčita."
     },
     {
       "cityName": "Mellette",
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mellette was laid out in 1881, and named in honor of Governor Arthur C. Mellette."
+      "fact": "Mellette was laid out in 1881, and named in honor of Governor Arthur C Mellette."
     },
     {
       "cityName": "Menno",
@@ -1125,7 +1132,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mobridge, also known as K\u021fow\u00e1kata\u014b Ot\u021f\u00fa\u014bwahe (Lakota: K\u021fow\u00e1kata\u014b Ot\u021f\u00fa\u014bwahe; lit."
+      "fact": "Mobridge, also known as Kȟowákataŋ Otȟúŋwahe (Lakota: Kȟowákataŋ Otȟúŋwahe; lit."
     },
     {
       "cityName": "Mount Vernon",
@@ -1188,7 +1195,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "New Underwood (Lakota: w\u00f3\u021fe\u0161ma t\u021f\u00e9\u010da; \"new undergrowth\") is a city in Pennington County, South Dakota, United States."
+      "fact": "New Underwood (Lakota: wóȟešma tȟéča; \"new undergrowth\") is a city in Pennington County, South Dakota, United States."
     },
     {
       "cityName": "New Underwood",
@@ -1202,7 +1209,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Until 2017, it was home to the world\u2019s smallest biker bar, which is now closed."
+      "fact": "Until 2017, it was home to the world’s smallest biker bar, which is now closed."
     },
     {
       "cityName": "New Witten",
@@ -1237,7 +1244,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city has the name of F. H. Newell, director of the United States Reclamation Service."
+      "fact": "The city has the name of F H Newell, director of the United States Reclamation Service."
     },
     {
       "cityName": "Nisland",
@@ -1258,7 +1265,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Oelrichs (Lakota: \u0161u\u014bkp\u021f\u00e1waksa; \"Severed Horse Head\") is a town in Fall River County, South Dakota, United States."
+      "fact": "Oelrichs (Lakota: šuŋkpȟáwaksa; \"Severed Horse Head\") is a town in Fall River County, South Dakota, United States."
     },
     {
       "cityName": "Oldham",
@@ -1314,7 +1321,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named after U S Army General Lewis A. Pick, former director of the Missouri River Office of the United States Army Corps of Engineers."
+      "fact": "It was named after U S Army General Lewis A Pick, former director of the Missouri River Office of the United States Army Corps of Engineers."
     },
     {
       "cityName": "Piedmont",
@@ -1391,7 +1398,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named for W. H. Pringle, a cattleman who lived in the area."
+      "fact": "The town is named for W H Pringle, a cattleman who lived in the area."
     },
     {
       "cityName": "Pukwana",
@@ -1433,7 +1440,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Known as the \"Gateway to the Black Hills\" and the \"City of Presidents\" because of the life-size bronze president statues downtown, Rapid City is split by a low mountain ridge that divides the city's western and eastern parts, called \u2018The Gap.\u2019 Ellsworth Air Force Base is on the city's outskirts."
+      "fact": "Known as the \"Gateway to the Black Hills\" and the \"City of Presidents\" because of the life-size bronze president statues downtown, Rapid City is split by a low mountain ridge that divides the city's western and eastern parts, called ‘The Gap.’ Ellsworth Air Force Base is on the city's outskirts."
     },
     {
       "cityName": "Rapid City",
@@ -1489,7 +1496,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city was named for J. B. Redfield, a railroad official."
+      "fact": "The city was named for J B Redfield, a railroad official."
     },
     {
       "cityName": "Reliance",
@@ -1524,14 +1531,14 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Francis is named after the St. Francis Indian School, which was named after Francis of Assisi and was operated by the Catholic Franciscan order."
+      "fact": "Saint Francis is named after the Saint Francis Indian School, which was named after Francis of Assisi and was operated by the Catholic Franciscan order."
     },
     {
       "cityName": "Saint Francis",
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "St. Francis, also known as S\u00e1pau\u014b th\u00ed (Lakota: S\u00e1pau\u014b th\u00ed; \"Catholic House\") is a city in the Rosebud Indian Reservation in Todd County, South Dakota, United States."
+      "fact": "Saint Francis, also known as Sápauŋ thí (Lakota: Sápauŋ thí; \"Catholic House\") is a city in the Rosebud Indian Reservation in Todd County, South Dakota, United States."
     },
     {
       "cityName": "Saint Joseph",
@@ -1580,14 +1587,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town has the name of E. A."
-    },
-    {
-      "cityName": "Sherman",
-      "state": "SD",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Sherman, a Dakota Territory banker."
+      "fact": "The population was 81 at the 2020 census."
     },
     {
       "cityName": "Sioux City",
@@ -1720,7 +1720,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is the county seat of Meade County and is named after Samuel D. Sturgis, a Union general during the Civil War."
+      "fact": "It is the county seat of Meade County and is named after Samuel D Sturgis, a Union general during the Civil War."
     },
     {
       "cityName": "Sturgis",
@@ -1909,7 +1909,7 @@
       "state": "SD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Wall (Lakota: Mak\u021f\u00f3\u0161i\u010da Agl\u00e1gla Ot\u021fu\u014bwahe, \"Town alongside the Badlands\") is a city in Pennington County, South Dakota, United States."
+      "fact": "Wall (Lakota: Makȟóšiča Aglágla Otȟuŋwahe, \"Town alongside the Badlands\") is a city in Pennington County, South Dakota, United States."
     },
     {
       "cityName": "Wasta",

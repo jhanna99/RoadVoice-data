@@ -8,6 +8,20 @@
       "fact": "Albright was incorporated in 1914."
     },
     {
+      "cityName": "Alderson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of West Virginia, on both sides of the Greenbrier River."
+    },
+    {
+      "cityName": "Alderson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 975 at the 2020 census."
+    },
+    {
       "cityName": "Alma",
       "state": "WV",
       "source": "Wikipedia",
@@ -64,11 +78,46 @@
       "fact": "Its elevation is 722 feet (220 m)."
     },
     {
+      "cityName": "Anawalt",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At one time it was known as Jeanette."
+    },
+    {
+      "cityName": "Anawalt",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is named in honor of James White Anawalt, who was then manager of Union Supply Company, a subsidiary of the United States Steel Company."
+    },
+    {
+      "cityName": "Anawalt",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 186 at the 2020 census."
+    },
+    {
       "cityName": "Anmoore",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town derives its name from nearby Ann Moore Run."
+    },
+    {
+      "cityName": "Ansted",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,303 at the 2020 census."
+    },
+    {
+      "cityName": "Ansted",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is situated on high bluffs along U.S Route 60 on a portion of the Midland Trail near Hawks Nest overlooking the New River far below."
     },
     {
       "cityName": "Apple Grove",
@@ -183,6 +232,34 @@
       "fact": "The community has the name of the local Baker family."
     },
     {
+      "cityName": "Bancroft",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 389 at the 2020 census."
+    },
+    {
+      "cityName": "Bancroft",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
+    },
+    {
+      "cityName": "Barboursville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,456 at the 2020 census."
+    },
+    {
+      "cityName": "Barboursville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
+    },
+    {
       "cityName": "Barrackville",
       "state": "WV",
       "source": "Wikipedia",
@@ -267,6 +344,13 @@
       "fact": "Notable colonial visitors to the area included George Washington and James Rumsey."
     },
     {
+      "cityName": "Bayard",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 200 at the 2020 census."
+    },
+    {
       "cityName": "Beckley",
       "state": "WV",
       "source": "Wikipedia",
@@ -323,6 +407,13 @@
       "fact": "Beech Bottom was incorporated in 1953."
     },
     {
+      "cityName": "Belington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,804 as of the 2020 census."
+    },
+    {
       "cityName": "Belle",
       "state": "WV",
       "source": "Wikipedia",
@@ -342,6 +433,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Belle Reynolds, an early postmaster, gave the town her first name."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Parkersburg–Vienna metropolitan area."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 872 at the 2020 census."
+    },
+    {
+      "cityName": "Benwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling metropolitan area."
+    },
+    {
+      "cityName": "Benwood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,269 at the 2020 census."
     },
     {
       "cityName": "Berkeley Springs",
@@ -414,6 +533,20 @@
       "fact": "It is best known as the home of Bethany College, a private liberal arts college that was the first institution of higher education in what is now West Virginia."
     },
     {
+      "cityName": "Bethlehem",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling, West Virginia Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bethlehem",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,605 at the 2020 census."
+    },
+    {
       "cityName": "Beverly",
       "state": "WV",
       "source": "Wikipedia",
@@ -460,7 +593,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "At the end of the Civil War, and West Virginia's separation from Virginia, it was replaced by a new county seat with the name of Union General Ulysses S. Grant."
+      "fact": "At the end of the Civil War, and West Virginia's separation from Virginia, it was replaced by a new county seat with the name of Union General Ulysses S Grant."
     },
     {
       "cityName": "Bigbend",
@@ -526,11 +659,32 @@
       "fact": "The city is home to Bluefield State University, a public historically black university serving nearly 1300 students."
     },
     {
+      "cityName": "Bolivar",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,072 at the 2020 census."
+    },
+    {
       "cityName": "Bradshaw",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Bradshaw was incorporated in December 1979 and named for a pioneer settler."
+    },
+    {
+      "cityName": "Bramwell",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 277 at the 2020 census."
+    },
+    {
+      "cityName": "Bramwell",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield, WV-VA micropolitan area which has a population of 107,578."
     },
     {
       "cityName": "Branchland",
@@ -552,6 +706,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Branchland Post Office serves addresses within Sheridan Magisterial District of Lincoln County as well as addresses in southern Cabell County and eastern Wayne County, West Virginia."
+    },
+    {
+      "cityName": "Brandonville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 136 at the 2020 census."
     },
     {
       "cityName": "Brandywine",
@@ -586,7 +747,28 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Sue Cline (1946\u20132021), West Virginia State Senator and businesswoman, lived in Brenton."
+      "fact": "Sue Cline (1946–2021), West Virginia State Senator and businesswoman, lived in Brenton."
+    },
+    {
+      "cityName": "Bridgeport",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 9,325 at the 2020 census."
+    },
+    {
+      "cityName": "Bridgeport",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Clarksburg micropolitan area in North Central West Virginia."
+    },
+    {
+      "cityName": "Bruceton Mills",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 64 at the 2020 census, making it the second-least populous town in West Virginia, after Thurmond."
     },
     {
       "cityName": "Buckhannon",
@@ -622,6 +804,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, its population was 347 (down from 487 at the 2010 census)."
+    },
+    {
+      "cityName": "Buffalo",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,211 at the time of the 2020 census It is part of the Huntington–Ashland metropolitan area."
     },
     {
       "cityName": "Bunker Hill",
@@ -680,6 +869,13 @@
       "fact": "An exit on the West Virginia Turnpike is located near here."
     },
     {
+      "cityName": "Cairo",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 174 at the 2020 census."
+    },
+    {
       "cityName": "Caldwell",
       "state": "WV",
       "source": "Wikipedia",
@@ -691,7 +887,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community has the name of James R. Caldwell, the original owner of the town site."
+      "fact": "The community has the name of James R Caldwell, the original owner of the town site."
     },
     {
       "cityName": "Calvin",
@@ -705,7 +901,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town derives its name from Johnson N. Camden, a senator who was the proprietor of several businesses on the nearby Gauley River."
+      "fact": "The town derives its name from Johnson N Camden, a senator who was the proprietor of several businesses on the nearby Gauley River."
     },
     {
       "cityName": "Camden-on-Gauley",
@@ -713,6 +909,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town was originally called Lanes Bottom, but was changed to Camden-on-Gauley when incorporated in 1904."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling metropolitan area."
+    },
+    {
+      "cityName": "Cameron",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 849 at the 2020 census."
     },
     {
       "cityName": "Camp Creek",
@@ -740,7 +950,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Around 1910, Charles William \u201cBill\u201d Bryant owned a general store and was selling canvas gloves which were a huge hit with the community."
+      "fact": "Around 1910, Charles William “Bill” Bryant owned a general store and was selling canvas gloves which were a huge hit with the community."
     },
     {
       "cityName": "Canvas",
@@ -748,6 +958,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "At that point, residents held a meeting and it was decided that they would rename the community to Canvas."
+    },
+    {
+      "cityName": "Capon Bridge",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 418 at the 2020 census."
     },
     {
       "cityName": "Carpendale",
@@ -761,7 +978,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is a combination of three subdivisions of which its name reflects: Carpenters Addition, Millerdale I, and Millerdale II."
+      "fact": "The town is a combination of three subdivisions of which its name reflects: Carpenters Addition, Millerdale 1, and Millerdale 2."
     },
     {
       "cityName": "Carpendale",
@@ -776,6 +993,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Cassville was named after Lewis Cass, a prominent American statesman who served as Secretary of War, Secretary of State, and Governor of Michigan."
+    },
+    {
+      "cityName": "Cedar Grove",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 714 at the 2020 census."
+    },
+    {
+      "cityName": "Ceredo",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,408 at the 2020 census."
+    },
+    {
+      "cityName": "Ceredo",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Ceredo is a part of the Huntington–Ashland, WV-KY-OH Metropolitan Statistical Area (MSA)."
+    },
+    {
+      "cityName": "Ceredo",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2000 census, the MSA had a population of 288,649."
     },
     {
       "cityName": "Chapmanville",
@@ -883,6 +1128,41 @@
       "fact": "The community has the name of Chelyan Calvert, the child of an early postmaster."
     },
     {
+      "cityName": "Chesapeake",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,336 at the 2020 census."
+    },
+    {
+      "cityName": "Chesapeake",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is situated on the Kanawha River."
+    },
+    {
+      "cityName": "Chester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,214 at the 2020 census."
+    },
+    {
+      "cityName": "Chester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located along the Ohio River in the state's northern panhandle and is the northernmost city in West Virginia."
+    },
+    {
+      "cityName": "Chester",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Chester is considered part of the Weirton–Steubenville metropolitan area and is home to the Chester teapot attraction, dubbed the \"world's largest teapot\"."
+    },
+    {
       "cityName": "Circleville",
       "state": "WV",
       "source": "Wikipedia",
@@ -904,11 +1184,46 @@
       "fact": "Circleville was originally named Zirkleville after John Zirkle, who ran a dry goods store in the town."
     },
     {
+      "cityName": "Clarksburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,039 at the 2020 census, making it the tenth-most populous city in West Virginia."
+    },
+    {
+      "cityName": "Clarksburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Clarksburg micropolitan area in North Central West Virginia, which had a population of 90,434 in 2020."
+    },
+    {
       "cityName": "Clay",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Clay was incorporated in 2020."
+    },
+    {
+      "cityName": "Clearview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling metropolitan area."
+    },
+    {
+      "cityName": "Clearview",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 472 at the 2020 census."
+    },
+    {
+      "cityName": "Clendenin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 850 at the 2020 census."
     },
     {
       "cityName": "Clothier",
@@ -974,6 +1289,13 @@
       "fact": "Cool Ridge is located on U S Route 19, 3.5 miles (5.6 km) south of Shady Spring."
     },
     {
+      "cityName": "Cowen",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 488 at the 2020 census."
+    },
+    {
       "cityName": "Crawley",
       "state": "WV",
       "source": "Wikipedia",
@@ -1037,6 +1359,13 @@
       "fact": "Danville was formerly known as Newport and Red House."
     },
     {
+      "cityName": "Davis",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 595 at the 2020 census."
+    },
+    {
       "cityName": "Davy",
       "state": "WV",
       "source": "Wikipedia",
@@ -1049,6 +1378,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Davy was officially incorporated in 1948."
+    },
+    {
+      "cityName": "Delbarton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 522 at the 2020 census."
     },
     {
       "cityName": "Drennen",
@@ -1065,18 +1401,32 @@
       "fact": "Drennen is located on West Virginia Route 39, 8 miles (13 km) west of Summersville."
     },
     {
+      "cityName": "Dunbar",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 7,479 at the 2020 census."
+    },
+    {
       "cityName": "Durbin",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named in 1895 in honor of Charles R. Durbin Sr, the Grafton, WV bank official responsible for lending funds to John T. McGraw to purchase the site of the town in 1890."
+      "fact": "The town was named in 1895 in honor of Charles R Durbin Sr, the Grafton, WV bank official responsible for lending funds to John T McGraw to purchase the site of the town in 1890."
+    },
+    {
+      "cityName": "East Bank",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 820 at the 2020 census."
     },
     {
       "cityName": "Eleanor",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town, named for Eleanor Roosevelt, was established as a New Deal project in the 1930s like other Franklin D. Roosevelt towns around the nation (e.g."
+      "fact": "The town, named for Eleanor Roosevelt, was established as a New Deal project in the 1930s like other Franklin D Roosevelt towns around the nation (e.g."
     },
     {
       "cityName": "Eleanor",
@@ -1091,6 +1441,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Greenbelt, Greenhills, Greendale, Hanford, or Norris)."
+    },
+    {
+      "cityName": "Elizabeth",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 724 as of the 2020 census."
     },
     {
       "cityName": "Elk Garden",
@@ -1139,7 +1496,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It lies along the Tygart Valley River and was incorporated in 1890, taking its name from Stephen B. Elkins, the city's co-founder and later U S Senator from West Virginia."
+      "fact": "It lies along the Tygart Valley River and was incorporated in 1890, taking its name from Stephen B Elkins, the city's co-founder and later U S Senator from West Virginia."
     },
     {
       "cityName": "Elkview",
@@ -1212,6 +1569,20 @@
       "fact": "The town took its name from the old Fairview Inn near the original town site."
     },
     {
+      "cityName": "Falling Spring",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is also known as Renick from the name of its post office."
+    },
+    {
+      "cityName": "Falling Spring",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 171 at the 2020 census."
+    },
+    {
       "cityName": "Falling Waters",
       "state": "WV",
       "source": "Wikipedia",
@@ -1247,6 +1618,34 @@
       "fact": "Fayetteville was listed as one of the 2006 \"Top 10 Coolest Small Towns in America\" by Budget Travel Magazine, and as \"Best River Town 2013\" by Blue Ridge Outdoors magazine."
     },
     {
+      "cityName": "Flatwoods",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Flatwoods is a town in Braxton County, West Virginia, United States, located approximately one mile from exit 67 of Interstate 79."
+    },
+    {
+      "cityName": "Flemington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 311 at the 2020 census."
+    },
+    {
+      "cityName": "Follansbee",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,853 at the 2020 census, a decrease from 2,986 at the 2010 census."
+    },
+    {
+      "cityName": "Follansbee",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Weirton–Steubenville metropolitan area."
+    },
+    {
       "cityName": "Fort Ashby",
       "state": "WV",
       "source": "Wikipedia",
@@ -1259,6 +1658,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Fort Ashby is the location of the Mineral County Fair."
+    },
+    {
+      "cityName": "Fort Gay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located within the Huntington–Ashland metropolitan area, and adjoins Louisa, Kentucky."
+    },
+    {
+      "cityName": "Fort Gay",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 677 at the 2020 census."
     },
     {
       "cityName": "Foster",
@@ -1300,14 +1713,21 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is home to the West Virginia State Wildlife Center \u2014 formerly the \"French Creek Game Farm\" \u2014 a zoological park featuring native and introduced fauna."
+      "fact": "It is home to the West Virginia State Wildlife Center — formerly the \"French Creek Game Farm\" — a zoological park featuring native and introduced fauna."
     },
     {
       "cityName": "French Creek",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "French Creek is 9\u00bd miles south of the county seat, Buckhannon, on West Virginia Route 20."
+      "fact": "French Creek is 9½ miles south of the county seat, Buckhannon, on West Virginia Route 20."
+    },
+    {
+      "cityName": "Friendly",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 100 at the 2020 census."
     },
     {
       "cityName": "Gallipolis",
@@ -1328,7 +1748,28 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is the site of the Robert C. Byrd Locks & Dam on the Ohio."
+      "fact": "It is the site of the Robert C Byrd Locks & Dam on the Ohio."
+    },
+    {
+      "cityName": "Gary",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the city had a population of 762."
+    },
+    {
+      "cityName": "Gary",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was named for Elbert Henry Gary, one of the founders of U.S Steel."
+    },
+    {
+      "cityName": "Gary",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The former coal towns of Elbert, Filbert, Thorpe, and Wilcoe became part of Gary at the time of its incorporation in 1971."
     },
     {
       "cityName": "Gassaway",
@@ -1377,7 +1818,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community is named for Genoa Reed, the daughter of a former postmaster, E. P. Reed."
+      "fact": "The community is named for Genoa Reed, the daughter of a former postmaster, E P Reed."
     },
     {
       "cityName": "Gerrardstown",
@@ -1422,6 +1863,13 @@
       "fact": "On July 1, 2023, after a months-long design contest, the town announced its new flag, \"The Star of Bright Promise.\""
     },
     {
+      "cityName": "Glasgow",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 708 at the 2020 census."
+    },
+    {
       "cityName": "Glen Dale",
       "state": "WV",
       "source": "Wikipedia",
@@ -1433,7 +1881,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is in the northwest part of the county, which is above the Mason\u2013Dixon line and forms the base of the Northern Panhandle of West Virginia."
+      "fact": "It is in the northwest part of the county, which is above the Mason–Dixon line and forms the base of the Northern Panhandle of West Virginia."
     },
     {
       "cityName": "Glen Daniel",
@@ -1485,11 +1933,18 @@
       "fact": "Grafton was also among the first cities in the United States to observe Memorial Day."
     },
     {
+      "cityName": "Grant Town",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 690 at the 2020 census."
+    },
+    {
       "cityName": "Grantsville",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was established along the Little Kanawha River in 1865 and named for Ulysses S. Grant."
+      "fact": "The town was established along the Little Kanawha River in 1865 and named for Ulysses S Grant."
     },
     {
       "cityName": "Grantsville",
@@ -1497,6 +1952,69 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Grantsville is home to Wayne Underwood Park, which includes a.25-mile-long (0.40 km) walking trail, and to the annual West Virginia Wood Festival."
+    },
+    {
+      "cityName": "Granville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,355 at the 2020 census."
+    },
+    {
+      "cityName": "Granville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Morgantown metropolitan area."
+    },
+    {
+      "cityName": "Hambleton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 216 at the 2020 census."
+    },
+    {
+      "cityName": "Hamlin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was recorded as 1,040 at the 2020 census."
+    },
+    {
+      "cityName": "Hamlin",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
+    },
+    {
+      "cityName": "Handley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 224 at the 2020 census."
+    },
+    {
+      "cityName": "Handley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Handley was first established in 1877 and known as Upper Creek until July 29, 1881, when its name was changed to Handley for pioneer settlers who farmed the area."
+    },
+    {
+      "cityName": "Handley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Handley has the distinction of bearing a name like no other town in the United States."
+    },
+    {
+      "cityName": "Harman",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 96 at the 2020 census."
     },
     {
       "cityName": "Harpers Ferry",
@@ -1560,6 +2078,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Municipal elections are held every two years."
+    },
+    {
+      "cityName": "Hartford City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartford City, also known as Hartford, is a town in Mason County, West Virginia, United States."
+    },
+    {
+      "cityName": "Hartford City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 509 at the 2020 census."
+    },
+    {
+      "cityName": "Hartford City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Point Pleasant, WV–OH Micropolitan Statistical Area."
     },
     {
       "cityName": "Harts",
@@ -1688,6 +2227,13 @@
       "fact": "On April 2, 2024, an EF2 tornado caused significant damage just to the south of Hico."
     },
     {
+      "cityName": "Hillsboro",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 232 at the 2020 census."
+    },
+    {
       "cityName": "Hinton",
       "state": "WV",
       "source": "Wikipedia",
@@ -1723,6 +2269,62 @@
       "fact": "It was named for the fact that local resident Henry \"Old Hundred\" Church was a centenarian."
     },
     {
+      "cityName": "Huntington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat of Cabell County and sits at the confluence of the Ohio and Guyandotte rivers in the southwestern part of the state."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "With a population of 46,842 at the 2020 census, Huntington is the second-most populous city in West Virginia."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Huntington–Ashland metropolitan area, spanning seven counties across West Virginia, Kentucky and Ohio, has an estimated 368,000 residents."
+    },
+    {
+      "cityName": "Hurricane",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,977 at the 2020 census."
+    },
+    {
+      "cityName": "Hurricane",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located roughly equidistant from Charleston and Huntington, it is part of the Huntington–Ashland metropolitan area."
+    },
+    {
+      "cityName": "Huttonsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 163 at the 2020 census."
+    },
+    {
+      "cityName": "Iaeger",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 257 at the 2020 census."
+    },
+    {
+      "cityName": "Jane Lew",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 409 at the time of the 2020 census."
+    },
+    {
       "cityName": "Jesse",
       "state": "WV",
       "source": "Wikipedia",
@@ -1735,6 +2337,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is centrally located between three other small rural hamlets along Sleepy Creek and is named for the \"Johnson's Mill\" that once operated here."
+    },
+    {
+      "cityName": "Junior",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 384 at the 2020 census."
     },
     {
       "cityName": "Kanawha City",
@@ -1762,7 +2371,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Kanawha City was first developed in the 1890's by former West Virginia governor William A. MacCorckle and other businessmen."
+      "fact": "Kanawha City was first developed in the 1890's by former West Virginia governor William A MacCorckle and other businessmen."
     },
     {
       "cityName": "Kanawha City",
@@ -1804,7 +2413,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The community was named in honor of John E. Kenna, a United States Senator from West Virginia."
+      "fact": "The community was named in honor of John E Kenna, a United States Senator from West Virginia."
     },
     {
       "cityName": "Kenova",
@@ -1849,6 +2458,20 @@
       "fact": "Kermit is located along the Tug Fork, opposite Warfield, Kentucky."
     },
     {
+      "cityName": "Keyser",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cumberland micropolitan area."
+    },
+    {
+      "cityName": "Keyser",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,853 at the 2020 census."
+    },
+    {
       "cityName": "Keystone",
       "state": "WV",
       "source": "Wikipedia",
@@ -1881,14 +2504,14 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Kimball was incorporated in 1911 and named for Frederick J. Kimball, a railroad official."
+      "fact": "Kimball was incorporated in 1911 and named for Frederick J Kimball, a railroad official."
     },
     {
       "cityName": "Kimball",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Kimball is the site of the first war memorial building erected in memory of the African-American veterans of World War I. As of 2024, the town still has a municipal government, where the mayor also acts as the town's only police officer."
+      "fact": "Kimball is the site of the first war memorial building erected in memory of the African-American veterans of World War 1 As of 2024, the town still has a municipal government, where the mayor also acts as the town's only police officer."
     },
     {
       "cityName": "Kimball",
@@ -1996,6 +2619,20 @@
       "fact": "Lenore is located on West Virginia Route 65, 7.5 miles (12.1 km) southeast of Kermit."
     },
     {
+      "cityName": "Leon",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 137 at the 2020 census."
+    },
+    {
+      "cityName": "Leon",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Point Pleasant, WV–OH Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Lerona",
       "state": "WV",
       "source": "Wikipedia",
@@ -2007,7 +2644,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named after Jules F. M. LeSage, an early settler."
+      "fact": "The community was named after Jules F M LeSage, an early settler."
     },
     {
       "cityName": "Lesage",
@@ -2043,6 +2680,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community was named after Champ Lester, a local pioneer."
+    },
+    {
+      "cityName": "Lewisburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,930 at the 2020 census."
     },
     {
       "cityName": "Lindside",
@@ -2115,6 +2759,20 @@
       "fact": "On Old Turnpike Road is Little Birch Baptist Church, affiliated to the Southern Baptist Convention."
     },
     {
+      "cityName": "Logan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,438 at the 2020 census."
+    },
+    {
+      "cityName": "Logan",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Logan County."
+    },
+    {
       "cityName": "Lookout",
       "state": "WV",
       "source": "Wikipedia",
@@ -2127,6 +2785,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The community was so named because Indians used the elevated site to look out over the surrounding area."
+    },
+    {
+      "cityName": "Lost Creek",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 359 at the 2020 census."
     },
     {
       "cityName": "Lumberport",
@@ -2154,7 +2819,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named after John C. Maben, the original owner of the town site."
+      "fact": "The community was named after John C Maben, the original owner of the town site."
     },
     {
       "cityName": "Maben",
@@ -2203,7 +2868,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Cyrus H. Scott was married to Fannie I. Logan and, after Fannie's death, to her sister Emma Crawford Logan."
+      "fact": "Cyrus H Scott was married to Fannie I Logan and, after Fannie's death, to her sister Emma Crawford Logan."
     },
     {
       "cityName": "Macarthur",
@@ -2211,6 +2876,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Originally, it was named Hollywood and renamed MacArthur after General of the Army Douglas MacArthur in 1942."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,911 at the 2020 census."
+    },
+    {
+      "cityName": "Madison",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Boone County."
     },
     {
       "cityName": "Mahan",
@@ -2248,6 +2927,27 @@
       "fact": "Located along the Greenbrier River, it is known for its scenery."
     },
     {
+      "cityName": "Marmet",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,501 at the 2020 census."
+    },
+    {
+      "cityName": "Martinsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 18,773 at the 2020 census, making Martinsburg the largest city in the eastern panhandle of West Virginia and the sixth-most populous city in the state."
+    },
+    {
+      "cityName": "Martinsburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a principal city of the Hagerstown–Martinsburg metropolitan area extending into Maryland, which had 293,844 residents in 2020."
+    },
+    {
       "cityName": "Mason",
       "state": "WV",
       "source": "Wikipedia",
@@ -2260,6 +2960,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Mason was initially known as Waggener's Bottom."
+    },
+    {
+      "cityName": "Masontown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 510 at the 2020 census."
     },
     {
       "cityName": "Matewan",
@@ -2290,6 +2997,20 @@
       "fact": "Maysel is located on West Virginia Route 4, 2.5 miles (4.0 km) northwest of Clay."
     },
     {
+      "cityName": "McMechen",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling metropolitan area."
+    },
+    {
+      "cityName": "McMechen",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,714 at the 2020 census."
+    },
+    {
       "cityName": "Meadow Bridge",
       "state": "WV",
       "source": "Wikipedia",
@@ -2318,6 +3039,13 @@
       "fact": "Miami is 4.5 miles (7.2 km) south of East Bank along Cabin Creek."
     },
     {
+      "cityName": "Middlebourne",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 715 at the 2020 census."
+    },
+    {
       "cityName": "Mill Creek",
       "state": "WV",
       "source": "Wikipedia",
@@ -2337,6 +3065,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Although Millwood is unincorporated, it has a post office, with the ZIP code of 25262."
+    },
+    {
+      "cityName": "Milton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,831 at the 2020 census."
+    },
+    {
+      "cityName": "Milton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
     },
     {
       "cityName": "Mineral Wells",
@@ -2399,7 +3141,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The local economy is largely driven by education and healthcare, anchored by West Virginia University and the Robert C. Byrd Health Sciences Center."
+      "fact": "The local economy is largely driven by education and healthcare, anchored by West Virginia University and the Robert C Byrd Health Sciences Center."
     },
     {
       "cityName": "Morgantown",
@@ -2458,74 +3200,18 @@
       "fact": "A post office was established as Mount Gay in 1916."
     },
     {
+      "cityName": "Mount Hope",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,125 at the 2020 census."
+    },
+    {
       "cityName": "Mount Lookout",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Before that, a store called the Poke \u2018N Tote served the area."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The southern portion of the community is bordered by the Meadow River while the Summersville Lake recreational area is just north of the community."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Mount Lookout is located at 38\u00b010\u203200\u2033N 80\u00b054\u203242\u2033W (38.1667776, -80.9117644)."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Mount Lookout's name is descriptive of the elevated town site."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Post Office Box service is available as well as highway contract street delivery."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "As of 2016, there is (1) delivery route serving the community Mount Lookout has (1) elementary school, Mt."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Lookout Elementary, as well as a Head Start program."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "For many years there was (1) small general store, Kountry Mart, selling pop, bread, snacks, etc."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "Sometime prior to 2016, the Kountry Mart had been turned into apartments and a new Family Dollar store was constructed across the street."
-    },
-    {
-      "cityName": "Mount Lookout",
-      "state": "WV",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "The area is served by the Wilderness Volunteer Fire Department."
+      "fact": "Mount Lookout is a small unincorporated community in Nicholas County, West Virginia, United States, 10 miles (16 km) south of Summersville."
     },
     {
       "cityName": "Mount Storm",
@@ -2605,11 +3291,39 @@
       "fact": "As of the 2020 census, its population was 494."
     },
     {
+      "cityName": "New Cumberland",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,020 at the 2020 census."
+    },
+    {
+      "cityName": "New Cumberland",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located along the Ohio River in the northern panhandle of West Virginia, it is part of the Weirton–Steubenville metropolitan area and is near Mountaineer Casino Resort."
+    },
+    {
       "cityName": "New Haven",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named after New Haven, Connecticut, the native home of the local mine proprietors."
+    },
+    {
+      "cityName": "New Martinsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,186 at the 2020 census."
+    },
+    {
+      "cityName": "Newburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 275 at the 2020 census."
     },
     {
       "cityName": "Nimitz",
@@ -2687,6 +3401,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Country singer Hank Williams died in Oak Hill on his way to a concert on January 1, 1953."
+    },
+    {
+      "cityName": "Oakvale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 137 at the 2020 census."
+    },
+    {
+      "cityName": "Oakvale",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield, WV-VA micropolitan area which has a population of 107,578."
+    },
+    {
+      "cityName": "Oceana",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,462 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Oceana",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Oceana is the oldest city in Wyoming County and was the county seat until 1907."
     },
     {
       "cityName": "Old Fields",
@@ -2847,7 +3589,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "On May 29, 1961, Paynesville residents Mr. and Mrs. Alderson Muncy were the first people in the United States to receive food stamps under the modern food stamp program."
+      "fact": "On May 29, 1961, Paynesville residents Mister and Missus Alderson Muncy were the first people in the United States to receive food stamps under the modern food stamp program."
     },
     {
       "cityName": "Paynesville",
@@ -2885,6 +3627,20 @@
       "fact": "The town was platted circa 1820 by Charles Penn, and named for him."
     },
     {
+      "cityName": "Petersburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,251 at the 2020 census."
+    },
+    {
+      "cityName": "Petersburg",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Grant County."
+    },
+    {
       "cityName": "Peterstown",
       "state": "WV",
       "source": "Wikipedia",
@@ -2896,7 +3652,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is the site of the 1928 discovery of the 34.48 carat (6.896 g) Jones Diamond by Grover C. Jones and his son, William \"Punch\" Jones."
+      "fact": "The town is the site of the 1928 discovery of the 34.48 carat (6.896 g) Jones Diamond by Grover C Jones and his son, William \"Punch\" Jones."
     },
     {
       "cityName": "Philippi",
@@ -2955,6 +3711,34 @@
       "fact": "The Hastings plant is unique in that there are traffic signals approximately 0.75 mile away from the plant in either direction to stop traffic in case of an emergency."
     },
     {
+      "cityName": "Pineville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 648 at the 2020 census."
+    },
+    {
+      "cityName": "Pleasant Valley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Point Pleasant is a city in and the county seat of Mason County, West Virginia, United States, at the confluence of the Ohio and Kanawha Rivers."
+    },
+    {
+      "cityName": "Pleasant Valley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,101 at the 2020 census."
+    },
+    {
+      "cityName": "Pleasant Valley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the principal city of the Point Pleasant micropolitan area extending into Ohio."
+    },
+    {
       "cityName": "Poca",
       "state": "WV",
       "source": "Wikipedia",
@@ -2969,6 +3753,13 @@
       "fact": "The town is best known for the Mothman, a purported humanoid creature reportedly sighted in the area that has become a part of West Virginia folklore, and more broadly part of American popular culture."
     },
     {
+      "cityName": "Pratt",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 482 at the 2020 census."
+    },
+    {
       "cityName": "Prichard",
       "state": "WV",
       "source": "Wikipedia",
@@ -2981,6 +3772,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, its population was 461."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,872 at the 2020 census."
+    },
+    {
+      "cityName": "Princeton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bluefield micropolitan area."
     },
     {
       "cityName": "Pullman",
@@ -3015,7 +3820,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community's name is an amalgamation of the names of its proprietors Quin Morton and W. S. Wood."
+      "fact": "The community's name is an amalgamation of the names of its proprietors Quin Morton and W S Wood."
     },
     {
       "cityName": "Rainelle",
@@ -3030,6 +3835,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The only means of transportation to and from Rainelle are roads; primarily US 60 and WV 20, which merge on the western end of the town, and the James River and Kanawha Turnpike, which enters from the south."
+    },
+    {
+      "cityName": "Ranson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,433 at the 2020 census."
+    },
+    {
+      "cityName": "Ranson",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the northwestern fringes of the Washington metropolitan area."
+    },
+    {
+      "cityName": "Ravenswood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,865 at the 2020 census."
+    },
+    {
+      "cityName": "Reedsville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 530 at the 2020 census."
     },
     {
       "cityName": "Reedy",
@@ -3078,7 +3911,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Ridgeley was initially known as St. Clairsville, named for Sir John St Clair, Lt Colonel and Quartermaster General for the British General Edward Braddock."
+      "fact": "Ridgeley was initially known as Saint Clairsville, named for Sir John St Clair, Lt Colonel and Quartermaster General for the British General Edward Braddock."
     },
     {
       "cityName": "Ridgeley",
@@ -3093,6 +3926,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "St Clair accompanied Braddock on his ill-fated march on Fort Duquesne and his disastrous defeat on July 9, 1755."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,074 at the 2020 census."
+    },
+    {
+      "cityName": "Rivesville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 830 at the 2020 census."
     },
     {
       "cityName": "Roanoke",
@@ -3179,6 +4026,13 @@
       "fact": "The town was established in 1762 along with Shepherdstown; together, they are the two oldest towns in West Virginia."
     },
     {
+      "cityName": "Ronceverte",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,572 at the 2020 census."
+    },
+    {
       "cityName": "Rowlesburg",
       "state": "WV",
       "source": "Wikipedia",
@@ -3186,18 +4040,46 @@
       "fact": "A former railroad town, it is home to the Downtown Rowlesburg Historic District, and was the site of action during the American Civil War."
     },
     {
+      "cityName": "Rupert",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 881 at the 2020 census."
+    },
+    {
+      "cityName": "Saint Albans",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Albans is a city in western Kanawha County, West Virginia, United States, at the confluence of the Kanawha and Coal rivers."
+    },
+    {
+      "cityName": "Saint Albans",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 10,861 at the 2020 census."
+    },
+    {
+      "cityName": "Saint Albans",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Charleston metropolitan area."
+    },
+    {
       "cityName": "Saint Marys",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Marys was established in 1849 by Alexander Creel, who is said to have had a vision of Mary while passing the townsite by boat on the Ohio River."
+      "fact": "Saint Marys was established in 1849 by Alexander Creel, who is said to have had a vision of Mary while passing the townsite by boat on the Ohio River."
     },
     {
       "cityName": "Saint Marys",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Train tracks run down the middle of 2nd Street in St. Marys, and freight trains running through the middle of downtown St. Marys are a common sight."
+      "fact": "Train tracks run down the middle of 2nd Street in Saint Marys, and freight trains running through the middle of downtown Saint Marys are a common sight."
     },
     {
       "cityName": "Saint Marys",
@@ -3233,6 +4115,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Although Salt Rock is unincorporated, it has a post office, with the ZIP Code of 25559."
+    },
+    {
+      "cityName": "Sand Fork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 182 at the 2020 census."
+    },
+    {
+      "cityName": "Sand Fork",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located along the Little Kanawha River, at the mouth of the Sand Fork."
     },
     {
       "cityName": "Saulsville",
@@ -3491,7 +4387,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is home to the Charleston Ordnance Center, a former naval munitions factory established for use in World War I. The city is serviced by Interstate 64, U S Route 60, U S Route 119, West Virginia Route 601 and West Virginia Route 214, and is adjacent to the Kanawha River."
+      "fact": "It is home to the Charleston Ordnance Center, a former naval munitions factory established for use in World War 1 The city is serviced by Interstate 64, U S Route 60, U S Route 119, West Virginia Route 601 and West Virginia Route 214, and is adjacent to the Kanawha River."
     },
     {
       "cityName": "South Charleston",
@@ -3529,6 +4425,27 @@
       "fact": "South Charleston serves as the headquarters to the West Virginia Division of Natural Resources and the West Virginia State Police."
     },
     {
+      "cityName": "Spencer",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Originally known as \"California,\" Spencer was chartered in 1858, and named after Spencer Roane (1762–1822), a distinguished jurist from Virginia, who served on the Virginia Supreme Court of Appeals, and for whom Roane County was named."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,062 at the 2020 census."
+    },
+    {
+      "cityName": "Spencer",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Spencer is the home of the annual West Virginia Black Walnut Festival."
+    },
+    {
       "cityName": "Springfield",
       "state": "WV",
       "source": "Wikipedia",
@@ -3550,6 +4467,41 @@
       "fact": "The community was named after nearby Stanaford Branch."
     },
     {
+      "cityName": "Star City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,779 at the 2020 census."
+    },
+    {
+      "cityName": "Star City",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Morgantown metropolitan area."
+    },
+    {
+      "cityName": "Stonewood",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,810 at the 2020 census."
+    },
+    {
+      "cityName": "Summersville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,459 at the 2020 census."
+    },
+    {
+      "cityName": "Summersville",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Nicholas County."
+    },
+    {
       "cityName": "Sutton",
       "state": "WV",
       "source": "Wikipedia",
@@ -3561,7 +4513,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Interstate 79, a major north\u2013south route, connects with Appalachian Corridor L (U S Route 19), another significant north\u2013south route, passes several miles south of town."
+      "fact": "Interstate 79, a major north–south route, connects with Appalachian Corridor L (U S Route 19), another significant north–south route, passes several miles south of town."
     },
     {
       "cityName": "Sylvester",
@@ -3582,7 +4534,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Its elevation is 1526 feet (465 m), and it is located at about 37\u00b039\u20322\u2033N 80\u00b045\u20324\u2033W (37.6506762, -80.7511921)."
+      "fact": "Its elevation is 1526 feet (465 m), and it is located at about 37°39′2″N 80°45′4″W (37.6506762, -80.7511921)."
     },
     {
       "cityName": "Teays Valley",
@@ -3597,6 +4549,55 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The community is divided by the two magisterial districts of Teays and Scott."
+    },
+    {
+      "cityName": "Terra Alta",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,415 at the 2020 census."
+    },
+    {
+      "cityName": "Thomas",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 623 at the 2020 census."
+    },
+    {
+      "cityName": "Thurmond",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was recorded as 5 in the 2020 census."
+    },
+    {
+      "cityName": "Thurmond",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "During the heyday of coal mining in the New River Gorge, Thurmond was a prosperous town with a number of businesses and facilities for the Chesapeake and Ohio Railway."
+    },
+    {
+      "cityName": "Triadelphia",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Wheeling Metropolitan Area."
+    },
+    {
+      "cityName": "Triadelphia",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 669 at the 2020 census."
+    },
+    {
+      "cityName": "Tunnelton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 307 at the 2020 census."
     },
     {
       "cityName": "Union",
@@ -3646,6 +4647,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, its population was 177 (down from 211 at the 2010 census)."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,676 at the 2020 census."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second-largest city in the Parkersburg–Vienna metropolitan area."
     },
     {
       "cityName": "Walker",
@@ -3743,7 +4758,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Also home to Sabic Plastics Washington Works (previously GE Plastics, acquired from Borg Warner Plastics, n\u00e9e Marbon), Kuraray Washington Works, Dupont Washington Works and a Linde air separation plant."
+      "fact": "Also home to Sabic Plastics Washington Works (previously GE Plastics, acquired from Borg Warner Plastics, née Marbon), Kuraray Washington Works, Dupont Washington Works and a Linde air separation plant."
     },
     {
       "cityName": "Washington",
@@ -3751,6 +4766,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Dupont polluted Washington with Perfluorooctanoic acid or PFOA, which it used to make Teflon."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,441 at the 2020 census."
+    },
+    {
+      "cityName": "Wayne",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
     },
     {
       "cityName": "Webster Springs",
@@ -3809,11 +4838,25 @@
       "fact": "Government offices for the municipality, county, and state are available in the town."
     },
     {
+      "cityName": "Weirton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Ohio River in the state's northern panhandle bordering Ohio and Pennsylvania."
+    },
+    {
+      "cityName": "Weirton",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 19,163 at the 2020 census, making it the seventh-most populous city in West Virginia."
+    },
+    {
       "cityName": "Weirton Heights",
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Weirton Heights was incorporated in 1938, and was named for steel manufacturer Ernest T. Weir."
+      "fact": "Weirton Heights was incorporated in 1938, and was named for steel manufacturer Ernest T Weir."
     },
     {
       "cityName": "Weirton Heights",
@@ -3865,6 +4908,20 @@
       "fact": "West Hamlin is west of the county seat at Hamlin, hence the name."
     },
     {
+      "cityName": "West Liberty",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,557 at the 2020 census."
+    },
+    {
+      "cityName": "West Liberty",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wheeling metropolitan area and is home to West Liberty University."
+    },
+    {
       "cityName": "West Logan",
       "state": "WV",
       "source": "Wikipedia",
@@ -3893,6 +4950,20 @@
       "fact": "It is home to the Museum of American Glass in West Virginia and the Trans-Allegheny Lunatic Asylum."
     },
     {
+      "cityName": "Westover",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,995 at the 2020 census."
+    },
+    {
+      "cityName": "Westover",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Morgantown metropolitan area."
+    },
+    {
       "cityName": "Wharton",
       "state": "WV",
       "source": "Wikipedia",
@@ -3918,7 +4989,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "After the decline of heavy industry and subsequent population loss following World War II, its major industries now include healthcare, education, legal services, entertainment and tourism, and energy."
+      "fact": "After the decline of heavy industry and subsequent population loss following World War 2, its major industries now include healthcare, education, legal services, entertainment and tourism, and energy."
     },
     {
       "cityName": "Wheeling",
@@ -3940,6 +5011,27 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Wheeling was the state capital of West Virginia from 1861 to 1870, and again from 1875 to 1885."
+    },
+    {
+      "cityName": "White Hall",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 706 at the 2020 census."
+    },
+    {
+      "cityName": "White Hall",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Incorporated on December 8, 1992, White Hall is adjacent to the county seat, Fairmont, and is part of the Fairmont, West Virginia, Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "White Hall",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "White Hall has many different stores and restaurants."
     },
     {
       "cityName": "White Sulphur Springs",
@@ -3981,7 +5073,7 @@
       "state": "WV",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town derives its name from B. W. White, a pioneer settler."
+      "fact": "The town derives its name from B W White, a pioneer settler."
     },
     {
       "cityName": "Wilcoe",
@@ -4040,6 +5132,27 @@
       "fact": "The wall incorporates floodgates along major access points which, when locked, form a solid barrier against floodwaters."
     },
     {
+      "cityName": "Williamstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Parkersburg–Vienna metropolitan area."
+    },
+    {
+      "cityName": "Williamstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,997 at the 2020 census."
+    },
+    {
+      "cityName": "Williamstown",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The now closed Fenton Art Glass Company was located in the city."
+    },
+    {
       "cityName": "Windsor Heights",
       "state": "WV",
       "source": "Wikipedia",
@@ -4052,6 +5165,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Windsor Heights was incorporated in 1989."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,397 at the 2020 census."
+    },
+    {
+      "cityName": "Winfield",
+      "state": "WV",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Huntington–Ashland metropolitan area."
     },
     {
       "cityName": "Womelsdorf (Coalton)",

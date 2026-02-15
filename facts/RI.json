@@ -33,7 +33,7 @@
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The post\u2013World War II baby boom increased suburbanization trends, resulting in a large population increase."
+      "fact": "The post–World War 2 baby boom increased suburbanization trends, resulting in a large population increase."
     },
     {
       "cityName": "Barrington",
@@ -106,6 +106,20 @@
       "fact": "Prominent communities include Portuguese-Americans, mostly Azoreans, and Italian-Americans."
     },
     {
+      "cityName": "Burrillville",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burrillville is a town in Providence County, Rhode Island."
+    },
+    {
+      "cityName": "Burrillville",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 16,158 at the 2020 census."
+    },
+    {
       "cityName": "Central Falls",
       "state": "RI",
       "source": "Wikipedia",
@@ -167,6 +181,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "As of the 2010 census, the CDP had a population of 1675."
+    },
+    {
+      "cityName": "Coventry",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coventry is a town in Kent County, Rhode Island."
+    },
+    {
+      "cityName": "Coventry",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 35,688 at the 2020 census and is part of the Pawtuxet River Valley."
     },
     {
       "cityName": "Cranston",
@@ -253,6 +281,20 @@
       "fact": "East Greenwich Village is located in the northeastern part of the town and extends north about 0.93 mi (1.5 km) into the city of Warwick, Rhode Island."
     },
     {
+      "cityName": "East Providence",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Providence is a city in Providence County, Rhode Island, United States."
+    },
+    {
+      "cityName": "East Providence",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 47,139 at the 2020 census, making it the fifth-largest city in the state."
+    },
+    {
       "cityName": "Exeter",
       "state": "RI",
       "source": "Wikipedia",
@@ -265,6 +307,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is bordered to the north by West Greenwich and East Greenwich, and to the south by Hopkinton, Richmond, and South Kingstown."
+    },
+    {
+      "cityName": "Foster",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Foster is a town in Providence County, Rhode Island, United States."
+    },
+    {
+      "cityName": "Foster",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,469 at the 2020 census."
     },
     {
       "cityName": "Glocester",
@@ -351,6 +407,20 @@
       "fact": "It was previously named Rhodesville, after eighteenth-century privateer Captain William Rhodes."
     },
     {
+      "cityName": "Hopkinton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hopkinton is a town in Washington County, Rhode Island, United States."
+    },
+    {
+      "cityName": "Hopkinton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,398 at the 2020 census."
+    },
+    {
       "cityName": "Jamestown",
       "state": "RI",
       "source": "Wikipedia",
@@ -397,7 +467,7 @@
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lincoln is in the lower Blackstone Valley of Rhode Island and in the John H. Chafee, Blackstone River Valley National Heritage Corridor, New England's historic National Park area."
+      "fact": "Lincoln is in the lower Blackstone Valley of Rhode Island and in the John H Chafee, Blackstone River Valley National Heritage Corridor, New England's historic National Park area."
     },
     {
       "cityName": "Lincoln",
@@ -461,6 +531,20 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Lincoln's villages include Manville, Albion, Lime Rock, Lonsdale, Fairlawn, Quinnville, and Saylesville."
+    },
+    {
+      "cityName": "Little Compton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Little Compton is a coastal town in Newport County, Rhode Island, United States, bounded on the south by the Atlantic Ocean, on the west by the Sakonnet River, on the north by the town of Tiverton, and on the east by the town of Westport, Massachusetts."
+    },
+    {
+      "cityName": "Little Compton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,589 as of 2022 Town Records."
     },
     {
       "cityName": "Middletown",
@@ -607,7 +691,7 @@
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "It was the location of \"Summer White Houses\" of presidents Dwight D. Eisenhower and John F. Kennedy."
+      "fact": "It was the location of \"Summer White Houses\" of presidents Dwight D Eisenhower and John F Kennedy."
     },
     {
       "cityName": "Newport East",
@@ -636,6 +720,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Its population was 27732 in the 2020 census."
+    },
+    {
+      "cityName": "North Providence",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Providence is a town in Providence County, Rhode Island, United States."
+    },
+    {
+      "cityName": "North Providence",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 34,114 at the 2020 census."
     },
     {
       "cityName": "North Scituate",
@@ -727,6 +825,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The Peace Dale Historic District was listed on the National Register of Historic Places as a historic district in 1987."
+    },
+    {
+      "cityName": "Portsmouth",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 17,871 at the 2020 US census."
+    },
+    {
+      "cityName": "Portsmouth",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Portsmouth is the second-oldest municipality in Rhode Island, after Providence; it was one of the four colonies which merged to form the Colony of Rhode Island and Providence Plantations, the others being Providence, Newport, and Warwick."
     },
     {
       "cityName": "Providence",
@@ -834,6 +946,20 @@
       "fact": "Its population is 6245."
     },
     {
+      "cityName": "Scituate",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Scituate is a town in Providence County, Rhode Island, United States."
+    },
+    {
+      "cityName": "Scituate",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 10,384 at the 2020 census."
+    },
+    {
       "cityName": "Smithfield",
       "state": "RI",
       "source": "Wikipedia",
@@ -846,6 +972,41 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Smithfield is home to Bryant University, a private, four-year university."
+    },
+    {
+      "cityName": "South Kingstown",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "South Kingstown is a town in, and the county seat of, Washington County, Rhode Island, United States."
+    },
+    {
+      "cityName": "South Kingstown",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 31,931 at the 2020 census."
+    },
+    {
+      "cityName": "South Kingstown",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "South Kingstown is the second largest town in Rhode Island by total geographic area, behind New Shoreham, and the third largest town in Rhode Island by geographic land area, behind Exeter and Coventry."
+    },
+    {
+      "cityName": "Tiverton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tiverton is a town in Newport County, Rhode Island, United States."
+    },
+    {
+      "cityName": "Tiverton",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 16,359 at the 2020 census."
     },
     {
       "cityName": "Wakefield",
@@ -890,11 +1051,25 @@
       "fact": "According to the 2020 census, its population was 8925."
     },
     {
+      "cityName": "Warren",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Warren is a town in Bristol County, Rhode Island, United States."
+    },
+    {
+      "cityName": "Warren",
+      "state": "RI",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,147 at the 2020 census."
+    },
+    {
       "cityName": "Warwick",
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Warwick was also the home of Revolutionary War General Nathanael Greene, George Washington's second-in-command, and Civil War General George S. Greene, a hero of the Battle of Gettysburg."
+      "fact": "Warwick was also the home of Revolutionary War General Nathanael Greene, George Washington's second-in-command, and Civil War General George S Greene, a hero of the Battle of Gettysburg."
     },
     {
       "cityName": "Warwick",
@@ -922,14 +1097,14 @@
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "It was decimated during King Philip's War (1675\u20131676) and was the site of the Gaspee Affair, the first act of armed resistance against the British, preceding even the Boston Tea Party, and a significant prelude to the American Revolution."
+      "fact": "It was decimated during King Philip's War (1675–1676) and was the site of the Gaspee Affair, the first act of armed resistance against the British, preceding even the Boston Tea Party, and a significant prelude to the American Revolution."
     },
     {
       "cityName": "Warwick",
       "state": "RI",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Today, it is home to Rhode Island's main airport, T. F. Green Airport, which serves the Providence area and also functions as a reliever for Logan International Airport in Boston, Massachusetts."
+      "fact": "Today, it is home to Rhode Island's main airport, T F Green Airport, which serves the Providence area and also functions as a reliever for Logan International Airport in Boston, Massachusetts."
     },
     {
       "cityName": "West Greenwich",

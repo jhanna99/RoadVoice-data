@@ -1,9 +1,17 @@
 {
-  "version": 6,
-  "generated": "2026-01-27T03:14:11.022Z",
+  "version": 7,
+  "generated": "2026-02-15T22:28:22.000Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
+    "24_hour_fitness": {
+      "displayName": "24 Hour Fitness",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 237,
+      "fileSize": 27283,
+      "checksum": "c701342cdc495ed9b1fd86f0502471a9"
+    },
     "7_eleven": {
       "displayName": "7-Eleven",
       "category": "gas_station",
@@ -41,16 +49,16 @@
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 98,
-      "fileSize": 11551,
-      "checksum": "f12fbd2d6dcff50765c50b8d1d73d3f3"
+      "fileSize": 11552,
+      "checksum": "a5a9ead0ac6f928afdb0bf86665b9ad4"
     },
     "aldi": {
       "displayName": "Aldi",
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 2625,
-      "fileSize": 293761,
-      "checksum": "0cfc696bab64f3821fd6b52f50cacb9b"
+      "fileSize": 293763,
+      "checksum": "5f4c2eed522a02641d9845996dacd770"
     },
     "aloft": {
       "displayName": "Aloft",
@@ -65,16 +73,16 @@
       "category": "shopping",
       "useLocationName": false,
       "locationCount": 15762,
-      "fileSize": 1928409,
-      "checksum": "7fd5b358258580d4d5a2c69634ee681e"
+      "fileSize": 1928416,
+      "checksum": "2d45dc1ff9f547f60d28a055126fa8bb"
     },
     "amc_theatres": {
       "displayName": "AMC Theatres",
       "category": "entertainment",
       "useLocationName": false,
       "locationCount": 529,
-      "fileSize": 59531,
-      "checksum": "148a4f1694f996d9cd4e787b95a2592d"
+      "fileSize": 59533,
+      "checksum": "e2b1e7553f0525e1a30666d58edfb101"
     },
     "americinn": {
       "displayName": "AmericInn",
@@ -83,6 +91,14 @@
       "locationCount": 227,
       "fileSize": 25056,
       "checksum": "d9d205ee4f3803171e27a77316edd0ee"
+    },
+    "amusement_park": {
+      "displayName": "Amusement Parks",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 97,
+      "fileSize": 10694,
+      "checksum": "d61411fd01ccf5b14326904b51daa790"
     },
     "andaz": {
       "displayName": "Andaz",
@@ -97,8 +113,8 @@
       "category": "fitness",
       "useLocationName": false,
       "locationCount": 2326,
-      "fileSize": 255548,
-      "checksum": "8799702a491853901b4b51911d6686fd"
+      "fileSize": 255557,
+      "checksum": "405373388675d28f5fc090ffffff45e5"
     },
     "applebees": {
       "displayName": "Applebee's",
@@ -113,8 +129,8 @@
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 42,
-      "fileSize": 4710,
-      "checksum": "55cb0eb51d5622062ce348f94e1e8ddd"
+      "fileSize": 4711,
+      "checksum": "f9cc106317271b46e688e596e0ffedfd"
     },
     "arbys": {
       "displayName": "Arby's",
@@ -168,25 +184,33 @@
       "displayName": "Baskin-Robbins",
       "category": "sweets",
       "useLocationName": false,
-      "locationCount": 2115,
-      "fileSize": 234453,
-      "checksum": "b77380b60606b1a789971c5f42e35b0f"
+      "locationCount": 2114,
+      "fileSize": 234349,
+      "checksum": "bbb96fddf4417cf31e4095b96c153272"
     },
     "bass_pro_shops": {
       "displayName": "Bass Pro Shops",
       "category": "shopping",
+      "useLocationName": false,
       "locationCount": 97,
-      "fileSize": 10,
-      "checksum": "5748e18ce344909e0becb867866b921f",
-      "source": "osm"
+      "fileSize": 9949,
+      "checksum": "5748e18ce344909e0becb867866b921f"
+    },
+    "bath_body_works": {
+      "displayName": "Bath & Body Works",
+      "category": "shopping",
+      "useLocationName": false,
+      "locationCount": 1816,
+      "fileSize": 202937,
+      "checksum": "8110207869c3b9e957421b77cfbf7212"
     },
     "battlefield": {
       "displayName": "Battlefields",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 25,
-      "fileSize": 3398,
-      "checksum": "a34005bff71ce57313f32c678016f385"
+      "fileSize": 3399,
+      "checksum": "949d7fae6909fbabf63c40b5deb78e11"
     },
     "baymont": {
       "displayName": "Baymont",
@@ -201,8 +225,8 @@
       "category": "sweets",
       "useLocationName": false,
       "locationCount": 197,
-      "fileSize": 23412,
-      "checksum": "b61100bb4a7c7091b86a25d9b97f813c"
+      "fileSize": 23411,
+      "checksum": "6d3d99ccf374fd0596ea3c7cd6de5fd6"
     },
     "benihana": {
       "displayName": "Benihana",
@@ -233,8 +257,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 2031,
-      "fileSize": 228804,
-      "checksum": "2b66716f95ca18bb961f1d74e73d3ef7"
+      "fileSize": 228806,
+      "checksum": "e7ba653046cf72af2dfc9173575e28ef"
     },
     "best_western_plus": {
       "displayName": "Best Western Plus",
@@ -263,18 +287,18 @@
     "biggby_coffee": {
       "displayName": "Biggby Coffee",
       "category": "coffee",
+      "useLocationName": false,
       "locationCount": 189,
-      "fileSize": 18,
-      "checksum": "8b3afc03fe882fb83247b4d20bd84dcd",
-      "source": "osm"
+      "fileSize": 18162,
+      "checksum": "8b3afc03fe882fb83247b4d20bd84dcd"
     },
     "bjs": {
       "displayName": "BJ's Wholesale",
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 277,
-      "fileSize": 30469,
-      "checksum": "33a6d48b4229c03bf5f85df5f7500dc8"
+      "fileSize": 30471,
+      "checksum": "f956eced11c695bd556dcf626c987469"
     },
     "blank_street_coffee": {
       "displayName": "Blank Street Coffee",
@@ -336,17 +360,17 @@
       "displayName": "Bowling",
       "category": "entertainment",
       "useLocationName": false,
-      "locationCount": 366,
-      "fileSize": 39919,
-      "checksum": "03f874f43633aaddd8c348499d6c6e31"
+      "locationCount": 365,
+      "fileSize": 39820,
+      "checksum": "3b405fe09ec250a04a16e81f3d04f38a"
     },
     "bp": {
       "displayName": "BP",
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 7976,
-      "fileSize": 869056,
-      "checksum": "49571062effda6e5061f2d438e5aaaeb"
+      "fileSize": 869058,
+      "checksum": "715c545ea31b9b5cf35f25182d834cee"
     },
     "brueggers": {
       "displayName": "Bruegger's Bagels",
@@ -361,24 +385,24 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 50,
-      "fileSize": 5665,
-      "checksum": "ac7f0975ff49f96c6e184919bab4427c"
+      "fileSize": 5676,
+      "checksum": "08d24412d27e70e8aa232820f20e1ccd"
     },
     "buffalo_wild_wings": {
       "displayName": "Buffalo Wild Wings",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1392,
-      "fileSize": 160764,
-      "checksum": "caeba13f028c8b2e4825300814d49414"
+      "fileSize": 160766,
+      "checksum": "5bffd8cceb5a8b6e8bdeefd197de7011"
     },
     "burger_king": {
       "displayName": "Burger King",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 6307,
-      "fileSize": 707188,
-      "checksum": "b0d8da25e47ee4ed6b609635ac85bef5"
+      "locationCount": 6306,
+      "fileSize": 707074,
+      "checksum": "c51042c18bbbd721845b4b9bf4b9fec7"
     },
     "bw_signature": {
       "displayName": "BW Signature Collection",
@@ -391,10 +415,10 @@
     "cabelas": {
       "displayName": "Cabela's",
       "category": "shopping",
+      "useLocationName": false,
       "locationCount": 66,
-      "fileSize": 7,
-      "checksum": "129700be5c666aa6ba9338a90814253e",
-      "source": "osm"
+      "fileSize": 6835,
+      "checksum": "129700be5c666aa6ba9338a90814253e"
     },
     "caesars_casino": {
       "displayName": "Caesars Casinos",
@@ -441,8 +465,8 @@
       "category": "shopping",
       "useLocationName": true,
       "locationCount": 2728,
-      "fileSize": 365480,
-      "checksum": "75a87a702229b9dd2d8ba283873be42e"
+      "fileSize": 365538,
+      "checksum": "ba11cbab27208ec6327008cc3d0f4fb0"
     },
     "caribou": {
       "displayName": "Caribou Coffee",
@@ -484,21 +508,29 @@
       "fileSize": 82685,
       "checksum": "b8100f99b613c7b2da7cb35bf300fd8e"
     },
+    "cheddars": {
+      "displayName": "Cheddar's Scratch Kitchen",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 187,
+      "fileSize": 23844,
+      "checksum": "236c2c98d0b40647056a61dc3b230e78"
+    },
     "chevron": {
       "displayName": "Chevron",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 16896,
-      "fileSize": 1860745,
-      "checksum": "fbcf162aad4575a9a866063d1fae718c"
+      "locationCount": 8545,
+      "fileSize": 941144,
+      "checksum": "3a868dff410f7dfbe8a8c1d4f7db5361"
     },
     "chick_fil_a": {
       "displayName": "Chick-fil-A",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 3316,
-      "fileSize": 375760,
-      "checksum": "df981d6e3d561ccaa9c5c56aca0e3f63"
+      "locationCount": 3313,
+      "fileSize": 375401,
+      "checksum": "d02650aa794988612bef89e2aaab6fbe"
     },
     "chilis": {
       "displayName": "Chili's",
@@ -529,8 +561,8 @@
       "category": "entertainment",
       "useLocationName": false,
       "locationCount": 311,
-      "fileSize": 34585,
-      "checksum": "61be8cfe47b365b45a58cf1e989e321e"
+      "fileSize": 34587,
+      "checksum": "bf3085a3e88ce4d3dd06b3a97b3d2dc9"
     },
     "cinnabon": {
       "displayName": "Cinnabon",
@@ -544,9 +576,9 @@
       "displayName": "Circle K",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 6658,
-      "fileSize": 726351,
-      "checksum": "bc317ac5874a7e399e9cc8cff5adb0cd"
+      "locationCount": 6596,
+      "fileSize": 719546,
+      "checksum": "e1351e92b842d75387321aaf2008e179"
     },
     "clarion": {
       "displayName": "Clarion",
@@ -569,16 +601,24 @@
       "category": "sweets",
       "useLocationName": false,
       "locationCount": 1094,
-      "fileSize": 127248,
-      "checksum": "bb549470effa0e7272995913adbcfdcd"
+      "fileSize": 127250,
+      "checksum": "293335e4d6dcf142fd51faff18b8d06a"
+    },
+    "colony_grill": {
+      "displayName": "Colony Grill",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 10,
+      "fileSize": 1265,
+      "checksum": "dd6a984fa826c907a7bd2013909789f6"
     },
     "comfort_inn": {
       "displayName": "Comfort Inn",
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 930,
-      "fileSize": 104121,
-      "checksum": "81a1ed373337b5b740286a8fec23c14a"
+      "fileSize": 104123,
+      "checksum": "0ea345089832a7ceef54771998db244b"
     },
     "comfort_suites": {
       "displayName": "Comfort Suites",
@@ -592,9 +632,9 @@
       "displayName": "Conoco/Phillips 66/76",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 5988,
-      "fileSize": 651474,
-      "checksum": "7a6cc8d5e734920ea72a2faa24dcc284"
+      "locationCount": 5953,
+      "fileSize": 647462,
+      "checksum": "0f505fa8d56c70ff31da6f8271e3e3ab"
     },
     "cookout": {
       "displayName": "Cook Out",
@@ -609,8 +649,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 640,
-      "fileSize": 71336,
-      "checksum": "51e15a96fe2b938934b4be82ce168fea"
+      "fileSize": 71338,
+      "checksum": "3a72f692f989afde12754cba43cf4c1e"
     },
     "country_inn": {
       "displayName": "Country Inn & Suites",
@@ -632,9 +672,9 @@
       "displayName": "Cracker Barrel",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 654,
-      "fileSize": 73016,
-      "checksum": "ae9b43ea3b95307a843cb0e5ad29384a"
+      "locationCount": 653,
+      "fileSize": 72908,
+      "checksum": "8143d5072c151348db072fb639b57e60"
     },
     "crossfit": {
       "displayName": "CrossFit",
@@ -660,13 +700,21 @@
       "fileSize": 127679,
       "checksum": "46b2d2b33d6b1a0e94268468c69f28f6"
     },
+    "crunch": {
+      "displayName": "Crunch Fitness",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 560,
+      "fileSize": 62079,
+      "checksum": "c682ca0f052ce323374da91cdadba9b7"
+    },
     "culvers": {
       "displayName": "Culver's",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1064,
-      "fileSize": 118286,
-      "checksum": "a64de4b85dfc6bc6cf82dd2efb47b2ed"
+      "fileSize": 118288,
+      "checksum": "5be82be9090aca0d45c421d216820c65"
     },
     "cumberland_farms": {
       "displayName": "Cumberland Farms",
@@ -689,16 +737,16 @@
       "category": "pharmacy",
       "useLocationName": false,
       "locationCount": 7862,
-      "fileSize": 935064,
-      "checksum": "42cd644ac8bdee6ea8aab8d62ae2c0f0"
+      "fileSize": 935066,
+      "checksum": "ee9dc4ad2924d78e3e272f28bc6261f7"
     },
     "dairy_queen": {
       "displayName": "Dairy Queen",
       "category": "sweets",
       "useLocationName": false,
-      "locationCount": 4137,
-      "fileSize": 451433,
-      "checksum": "f139813b758369f835ea45f7d200c3a5"
+      "locationCount": 4136,
+      "fileSize": 451330,
+      "checksum": "8b9098c90b2f8cf6aed0a0d0be1cd62f"
     },
     "dave_busters": {
       "displayName": "Dave & Buster's",
@@ -760,9 +808,9 @@
       "displayName": "Dollar General",
       "category": "shopping",
       "useLocationName": false,
-      "locationCount": 20465,
-      "fileSize": 2194212,
-      "checksum": "a9806a00217f61f432c6144fca92b3f1"
+      "locationCount": 20463,
+      "fileSize": 2194009,
+      "checksum": "df0885d5dac64a1d1f5bba47297b7522"
     },
     "dollar_tree": {
       "displayName": "Dollar Tree",
@@ -791,26 +839,26 @@
     "duluth_trading": {
       "displayName": "Duluth Trading",
       "category": "shopping",
+      "useLocationName": false,
       "locationCount": 26,
-      "fileSize": 3,
-      "checksum": "5f0bbef74f53511dbc8064e4f2fe2a0e",
-      "source": "osm"
+      "fileSize": 2815,
+      "checksum": "5f0bbef74f53511dbc8064e4f2fe2a0e"
     },
     "dunkin": {
       "displayName": "Dunkin'",
       "category": "coffee",
       "useLocationName": false,
-      "locationCount": 9463,
-      "fileSize": 1037029,
-      "checksum": "6014ed6cd47b164ca520ffa5f4a39b58"
+      "locationCount": 9450,
+      "fileSize": 1035529,
+      "checksum": "357461c67329fe95899f348d24d05c22"
     },
     "dutch_bros": {
       "displayName": "Dutch Bros",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 1137,
-      "fileSize": 124939,
-      "checksum": "b8b797e2a53b6b9497a41a5a45a563aa"
+      "fileSize": 124941,
+      "checksum": "655e37f36647a91b02c279d5c29f0646"
     },
     "econo_lodge": {
       "displayName": "Econo Lodge",
@@ -826,7 +874,7 @@
       "useLocationName": false,
       "locationCount": 581,
       "fileSize": 63320,
-      "checksum": "61ffe27b"
+      "checksum": "61ffe27b4d011a81d8e993d0efc9700e"
     },
     "embassy_suites": {
       "displayName": "Embassy Suites",
@@ -849,8 +897,8 @@
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 6163,
-      "fileSize": 678735,
-      "checksum": "a16e24a1d7ef883806c0407f893c1384"
+      "fileSize": 678737,
+      "checksum": "60a85a29ba75e2b7a78404750e3dd32b"
     },
     "fairfield": {
       "displayName": "Fairfield Inn",
@@ -866,7 +914,7 @@
       "useLocationName": false,
       "locationCount": 193,
       "fileSize": 21241,
-      "checksum": "2b9382c8"
+      "checksum": "2b9382c8a8e96e3b30dd31d554d14240"
     },
     "firehouse_subs": {
       "displayName": "Firehouse Subs",
@@ -875,6 +923,14 @@
       "locationCount": 1277,
       "fileSize": 147651,
       "checksum": "93cc471aa9a3192824ee9ba2659ff510"
+    },
+    "first_watch": {
+      "displayName": "First Watch",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 641,
+      "fileSize": 82081,
+      "checksum": "21731f6ae73a694fc55893e1c024fc1f"
     },
     "five_below": {
       "displayName": "Five Below",
@@ -913,8 +969,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 1175,
-      "fileSize": 134985,
-      "checksum": "5dc946eb7c2ecf00980c5b96854e1844"
+      "fileSize": 134993,
+      "checksum": "f10cc9713d16a4c2bf66e718754e9b1a"
     },
     "four_points": {
       "displayName": "Four Points",
@@ -1040,17 +1096,17 @@
       "displayName": "Hardee's",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 1489,
-      "fileSize": 161883,
-      "checksum": "c075695ae79cc1a964e00276e4e2f5ab"
+      "locationCount": 1488,
+      "fileSize": 161736,
+      "checksum": "2660fd6951688e4ea693a4e57d08a867"
     },
     "hilton": {
       "displayName": "Hilton",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 6393,
-      "fileSize": 717683,
-      "checksum": "c402dafcb47262987c9a2abfe045448f"
+      "locationCount": 6348,
+      "fileSize": 712617,
+      "checksum": "793fa0f2a4cbd02a18e23496222a5809"
     },
     "hilton_garden_inn": {
       "displayName": "Hilton Garden Inn",
@@ -1081,8 +1137,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 2325,
-      "fileSize": 260457,
-      "checksum": "28a5a13595bb70ee17e1ecfdd83193b6"
+      "fileSize": 260461,
+      "checksum": "0891848169aade71be6caac31da2df04"
     },
     "home2_suites": {
       "displayName": "Home2 Suites",
@@ -1096,9 +1152,9 @@
       "displayName": "HomeGoods",
       "category": "shopping",
       "useLocationName": false,
-      "locationCount": 3737,
-      "fileSize": 492061,
-      "checksum": "d090ddf1caee28208351f03bfeec805e"
+      "locationCount": 3397,
+      "fileSize": 447024,
+      "checksum": "1ea2392ad48518d4f7ac3474f03b39ca"
     },
     "homewood_suites": {
       "displayName": "Homewood Suites",
@@ -1154,15 +1210,15 @@
       "useLocationName": false,
       "locationCount": 175,
       "fileSize": 18539,
-      "checksum": "c24cbe30"
+      "checksum": "c24cbe30c394c25dc71f347850e35ed9"
     },
     "hyatt": {
       "displayName": "Hyatt",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 614,
-      "fileSize": 78198,
-      "checksum": "90cae361ba488361b70abe8e8581164d"
+      "locationCount": 611,
+      "fileSize": 77807,
+      "checksum": "b58c459e3430c8a1fc8ec28b2349c418"
     },
     "hyatt_centric": {
       "displayName": "Hyatt Centric",
@@ -1185,7 +1241,7 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 226,
-      "fileSize": 28538,
+      "fileSize": 28532,
       "checksum": "921491d160051c087d5376792ca62373"
     },
     "hyatt_regency": {
@@ -1193,7 +1249,7 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 69,
-      "fileSize": 8752,
+      "fileSize": 8704,
       "checksum": "5c7787df5210d291a3606058770890d6"
     },
     "ihop": {
@@ -1201,8 +1257,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 1707,
-      "fileSize": 187037,
-      "checksum": "8b92cc10545a6a3b6777d4e0d60531ed"
+      "fileSize": 187043,
+      "checksum": "fd498221a8db844a04b86071e4eecf03"
     },
     "in_n_out": {
       "displayName": "In-N-Out",
@@ -1255,18 +1311,18 @@
     "jeremiahs_italian_ice": {
       "displayName": "Jeremiah's Italian Ice",
       "category": "sweets",
+      "useLocationName": false,
       "locationCount": 17,
-      "fileSize": 2,
-      "checksum": "f7edb18d6dae167b0d0bd875473d4008",
-      "source": "osm"
+      "fileSize": 1757,
+      "checksum": "f7edb18d6dae167b0d0bd875473d4008"
     },
     "kfc": {
       "displayName": "KFC",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 3994,
-      "fileSize": 449193,
-      "checksum": "b6c344bb2b9387925b8d420488a1f8d7"
+      "locationCount": 3988,
+      "fileSize": 448546,
+      "checksum": "7d420611bb569fbe6035150adf5c801c"
     },
     "kimpton": {
       "displayName": "Kimpton",
@@ -1288,17 +1344,25 @@
       "displayName": "Krispy Kreme",
       "category": "sweets",
       "useLocationName": false,
-      "locationCount": 349,
-      "fileSize": 39318,
-      "checksum": "916dbc5cba05bec1882f9d8188217a2d"
+      "locationCount": 348,
+      "fileSize": 39207,
+      "checksum": "2e6695404d5429d2442b377d51b0c622"
     },
     "kroger": {
       "displayName": "Kroger",
       "category": "grocery",
       "useLocationName": false,
-      "locationCount": 6779,
-      "fileSize": 750540,
-      "checksum": "ca53be3b7998603ab591942412bd8634"
+      "locationCount": 3587,
+      "fileSize": 397586,
+      "checksum": "06d60093712b0f5b2cc4a77ec3b1a785"
+    },
+    "la_fitness": {
+      "displayName": "LA Fitness",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 604,
+      "fileSize": 81210,
+      "checksum": "e56a6d291deada757c12b111b8eede0c"
     },
     "la_quinta": {
       "displayName": "La Quinta",
@@ -1307,6 +1371,14 @@
       "locationCount": 872,
       "fileSize": 97213,
       "checksum": "d90ef27793b1909efb4b1de8cc94c066"
+    },
+    "lifetime_fitness": {
+      "displayName": "Life Time",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 210,
+      "fileSize": 23615,
+      "checksum": "2eed089c85513884993c31989f28c3c9"
     },
     "loves": {
       "displayName": "Love's",
@@ -1360,17 +1432,17 @@
       "displayName": "Marathon",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 7869,
-      "fileSize": 871342,
-      "checksum": "fae645e0126e231c6b59425d752f0051"
+      "locationCount": 7843,
+      "fileSize": 868529,
+      "checksum": "0a14d35f31e17406a404b5ae9147b25c"
     },
     "market_basket": {
       "displayName": "Market Basket",
       "category": "grocery",
       "useLocationName": false,
-      "locationCount": 95,
-      "fileSize": 8832,
-      "checksum": "7d7ed751e57ec2a87801b7ca4c06edaf"
+      "locationCount": 88,
+      "fileSize": 9599,
+      "checksum": "9c9773f5e0706937b0a77cb2c12f6fed"
     },
     "marriott": {
       "displayName": "Marriott",
@@ -1401,8 +1473,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 12489,
-      "fileSize": 1375538,
-      "checksum": "153ba6e3b56c4bf8476982d32f359f73"
+      "fileSize": 1375544,
+      "checksum": "0edcda43015c02a0c3348a66cf3fdd47"
+    },
+    "meijer": {
+      "displayName": "Meijer",
+      "category": "grocery",
+      "useLocationName": false,
+      "locationCount": 755,
+      "fileSize": 81874,
+      "checksum": "4afdc89aadc25400de95b2d529ad32d1"
     },
     "menards": {
       "displayName": "Menards",
@@ -1425,24 +1505,32 @@
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 30,
-      "fileSize": 3791,
-      "checksum": "07129afef9f5c340203f58c14f628eea"
+      "fileSize": 3792,
+      "checksum": "cb08355875465f9d901b8885d6c19b0e"
     },
     "mobil": {
       "displayName": "Mobil",
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 5175,
-      "fileSize": 569401,
-      "checksum": "22cf583d49d5821d912e763eb27efe69"
+      "fileSize": 569403,
+      "checksum": "d022795831406eb9cdf4827e549095f6"
     },
     "mochinut": {
       "displayName": "Mochinut",
       "category": "sweets",
+      "useLocationName": false,
       "locationCount": 49,
-      "fileSize": 5,
-      "checksum": "f0971cf014f8fb5f2c3295da25dcf15e",
-      "source": "osm"
+      "fileSize": 4940,
+      "checksum": "f0971cf014f8fb5f2c3295da25dcf15e"
+    },
+    "motel_6": {
+      "displayName": "Motel 6",
+      "category": "hotels",
+      "useLocationName": false,
+      "locationCount": 1493,
+      "fileSize": 170253,
+      "checksum": "f464525c65b9630fcb466fb3903c9874"
     },
     "murphy_usa": {
       "displayName": "Murphy USA",
@@ -1457,88 +1545,88 @@
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 78,
-      "fileSize": 10774,
-      "checksum": "a48968777624d135a569fdc9092dd41e"
+      "fileSize": 10783,
+      "checksum": "d9c74699ec57eef561e92f44ea9b63a6"
     },
     "national_historical_park": {
       "displayName": "National Historical Parks",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 64,
-      "fileSize": 8973,
-      "checksum": "3ddb761d2905601153555ea3a7fb1b10"
+      "fileSize": 8987,
+      "checksum": "5342a3363101a54e4c2643c081d4f906"
     },
     "national_lakeshore": {
       "displayName": "National Lakeshores",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 3,
-      "fileSize": 520,
-      "checksum": "086de12daf1ef2fd1b1d33207fab4e7e"
+      "fileSize": 521,
+      "checksum": "006143246485e9a65bc82eff9a6fa798"
     },
     "national_memorial": {
       "displayName": "National Memorials",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 19,
-      "fileSize": 2586,
-      "checksum": "b3fcf6170c31dc7b60321fff3d5a69e8"
+      "fileSize": 2587,
+      "checksum": "f80e24cf7bb3a8c86f7ff820eb47d040"
     },
     "national_monument": {
       "displayName": "National Monuments",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 88,
-      "fileSize": 11652,
-      "checksum": "c921f62cb59fb93297aaf6a31225a46d"
+      "fileSize": 11661,
+      "checksum": "8a13206590eb2d82c24b111b88531015"
     },
     "national_park": {
       "displayName": "National Parks",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 51,
-      "fileSize": 6411,
-      "checksum": "21e31e35b18e4fe4871b25e64c1d08a0"
+      "fileSize": 6420,
+      "checksum": "cf1b1f37fb1a124309c3a5bb3acc3c79"
     },
     "national_recreation_area": {
       "displayName": "National Recreation Areas",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 18,
-      "fileSize": 2583,
-      "checksum": "2cc34a8c81df504153783d4cc017163f"
+      "fileSize": 2584,
+      "checksum": "47f903a4cca7117ce3e01faf05b7c26b"
     },
     "national_seashore": {
       "displayName": "National Seashores",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 10,
-      "fileSize": 1411,
-      "checksum": "eb4732068dd3329680e2a839841a5279"
+      "fileSize": 1412,
+      "checksum": "025b232b5574085d1f955fa703cb6179"
     },
     "nba_arena": {
       "displayName": "NBA Arenas",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 30,
-      "fileSize": 3814,
-      "checksum": "0bcb60f22bf5b340a6a19f5dccad0054"
+      "fileSize": 3815,
+      "checksum": "2c28c32f764eb920d8c6780e477719d1"
     },
     "nfl_stadium": {
       "displayName": "NFL Stadiums",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 30,
-      "fileSize": 3910,
-      "checksum": "b3af01d1bb7cf390a9bc77338eb9e378"
+      "fileSize": 3911,
+      "checksum": "131145a24d733f99147baa7ae704ad4a"
     },
     "nhl_arena": {
       "displayName": "NHL Arenas",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 33,
-      "fileSize": 4167,
-      "checksum": "f29fe87e0a88c8cdb648ec80b0a32a47"
+      "fileSize": 4168,
+      "checksum": "0ae8bcff35b6cdc67ba541f141c357bc"
     },
     "nike": {
       "displayName": "Nike",
@@ -1577,8 +1665,16 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 849,
-      "fileSize": 95379,
-      "checksum": "b42c7ac2709c2999d86e6e1677b9a118"
+      "fileSize": 95381,
+      "checksum": "df31be5a927184502421bf007883d4c8"
+    },
+    "orangetheory": {
+      "displayName": "Orangetheory",
+      "category": "fitness",
+      "useLocationName": false,
+      "locationCount": 1256,
+      "fileSize": 145605,
+      "checksum": "cd050e855b0bc8fdc93c1cf5fb7caeb2"
     },
     "outback": {
       "displayName": "Outback Steakhouse",
@@ -1609,8 +1705,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 3177,
-      "fileSize": 354934,
-      "checksum": "24c2ec0f994cbb2abbcf11dc77b136b3"
+      "fileSize": 354936,
+      "checksum": "4c3f5f57fc049ee8ae05ee30a5646952"
     },
     "paris_baguette": {
       "displayName": "Paris Baguette",
@@ -1688,9 +1784,9 @@
       "displayName": "Pizza Hut",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 6487,
-      "fileSize": 716343,
-      "checksum": "d5ec7345bf26f8018bfda6423ad5e133"
+      "locationCount": 6462,
+      "fileSize": 713562,
+      "checksum": "9ec569e53201ff8ccc9b7b2070cea7bc"
     },
     "pjs_coffee": {
       "displayName": "PJ's Coffee",
@@ -1705,16 +1801,16 @@
       "category": "fitness",
       "useLocationName": false,
       "locationCount": 2144,
-      "fileSize": 238730,
-      "checksum": "916a3b50461b29c92e1919fbe179e29d"
+      "fileSize": 238735,
+      "checksum": "f0ccbf1094b1caf13f6cd3c727c44c82"
     },
     "popeyes": {
       "displayName": "Popeyes",
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 3142,
-      "fileSize": 353808,
-      "checksum": "0787d6ace43ffbbaf461b28685abdff2"
+      "fileSize": 353810,
+      "checksum": "2f12953334dcac1df3690001f23d30a6"
     },
     "publix": {
       "displayName": "Publix",
@@ -1729,8 +1825,8 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 1298,
-      "fileSize": 144843,
-      "checksum": "2c0e6930fa7965fd10217ddc3473d02c"
+      "fileSize": 144845,
+      "checksum": "d858f59b4b9a6752102c18a4d382d8a1"
     },
     "quiktrip": {
       "displayName": "QuikTrip",
@@ -1748,6 +1844,14 @@
       "fileSize": 14957,
       "checksum": "b3ab9f0777c124f5c03c632306b60d6d"
     },
+    "racetrac": {
+      "displayName": "RaceTrac",
+      "category": "gas_station",
+      "useLocationName": false,
+      "locationCount": 609,
+      "fileSize": 67508,
+      "checksum": "2b5438140aeb5de6dd594fc3d5047a08"
+    },
     "radisson": {
       "displayName": "Radisson",
       "category": "hotels",
@@ -1761,8 +1865,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 942,
-      "fileSize": 106222,
-      "checksum": "820fe3f9d0bad9f1052ec4b873bbb953"
+      "fileSize": 106224,
+      "checksum": "73d9444653f3252628a26e83c417a65f"
     },
     "ramada": {
       "displayName": "Ramada",
@@ -1784,9 +1888,17 @@
       "displayName": "Red Roof Inn",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 716,
-      "fileSize": 79063,
-      "checksum": "765bd753e0c9f3f3c82f4d4695910bf0"
+      "locationCount": 694,
+      "fileSize": 76442,
+      "checksum": "5f83339457afb3360e1f9a71feeadc2e"
+    },
+    "regal": {
+      "displayName": "Regal Cinemas",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 406,
+      "fileSize": 44802,
+      "checksum": "20c18d08504c2220c62e491dc48b3cfa"
     },
     "residence_inn": {
       "displayName": "Residence Inn",
@@ -1809,16 +1921,16 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 353,
-      "fileSize": 39284,
-      "checksum": "0c81ca4ec23b86916041024901d47ec7"
+      "fileSize": 39286,
+      "checksum": "689f881f64c4e6c3bee322a8f314c2e0"
     },
     "roller_skating_rinks": {
       "displayName": "Roller Skating Rinks",
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 481,
-      "fileSize": 99413,
-      "checksum": "f6742e9fe407bba28f0fd08590b760fd"
+      "fileSize": 95558,
+      "checksum": "8b90e8590229f462776f32048c6ba8ca"
     },
     "royal_farms": {
       "displayName": "Royal Farms",
@@ -1840,9 +1952,9 @@
       "displayName": "Safeway",
       "category": "grocery",
       "useLocationName": false,
-      "locationCount": 1932,
-      "fileSize": 213106,
-      "checksum": "5ff31059f19b451e22193556a653b989"
+      "locationCount": 1926,
+      "fileSize": 212451,
+      "checksum": "022b721683f4a6dbc38222d8ddbafb42"
     },
     "save_a_lot": {
       "displayName": "Save-A-Lot",
@@ -1879,10 +1991,10 @@
     "seven_brew": {
       "displayName": "7 Brew",
       "category": "coffee",
+      "useLocationName": false,
       "locationCount": 30,
-      "fileSize": 3,
-      "checksum": "42123f00c80dd47279ba79f0331b3035",
-      "source": "osm"
+      "fileSize": 3394,
+      "checksum": "42123f00c80dd47279ba79f0331b3035"
     },
     "shake_shack": {
       "displayName": "Shake Shack",
@@ -1904,9 +2016,9 @@
       "displayName": "Shell",
       "category": "gas_station",
       "useLocationName": false,
-      "locationCount": 13359,
-      "fileSize": 1470898,
-      "checksum": "aebdc5cd8b92e802357b612be57f73ec"
+      "locationCount": 13355,
+      "fileSize": 1470464,
+      "checksum": "985af9a8db339955de57836a8caa503a"
     },
     "sheraton": {
       "displayName": "Sheraton",
@@ -1945,8 +2057,8 @@
       "category": "fitness",
       "useLocationName": false,
       "locationCount": 471,
-      "fileSize": 52827,
-      "checksum": "7d0fbfa527341aa1cd3d3f4cbc1285ba"
+      "fileSize": 52829,
+      "checksum": "adfa2ca6fbf055e702c54827307d8a8d"
     },
     "sonesta": {
       "displayName": "Sonesta",
@@ -1980,6 +2092,14 @@
       "fileSize": 67878,
       "checksum": "4dad611bee59fc0e0bc0fd36e8708e61"
     },
+    "sprouts": {
+      "displayName": "Sprouts",
+      "category": "grocery",
+      "useLocationName": false,
+      "locationCount": 483,
+      "fileSize": 54435,
+      "checksum": "90138b5806283f741aa4a93e105ca254"
+    },
     "staples": {
       "displayName": "Staples",
       "category": "shopping",
@@ -1992,17 +2112,17 @@
       "displayName": "Starbucks",
       "category": "coffee",
       "useLocationName": false,
-      "locationCount": 15340,
-      "fileSize": 1719610,
-      "checksum": "05f4fa4c6194e0f89837bb9701c7562f"
+      "locationCount": 15337,
+      "fileSize": 1719294,
+      "checksum": "8fdbbe180e89bdcedd6a9b9b8cc2638e"
     },
     "state_liquor_store": {
       "displayName": "State Liquor Stores",
       "category": "shopping",
       "useLocationName": true,
       "locationCount": 2125,
-      "fileSize": 290623,
-      "checksum": "be25bd3de09acf7fbef00d91518b71db"
+      "fileSize": 290624,
+      "checksum": "ecb09383aa8ba4f3aaa885c0c6e9a429"
     },
     "staybridge_suites": {
       "displayName": "Staybridge Suites",
@@ -2017,8 +2137,8 @@
       "category": "restaurant",
       "useLocationName": false,
       "locationCount": 18250,
-      "fileSize": 2213460,
-      "checksum": "d536739d30525abac9b09871b2f844f7"
+      "fileSize": 2213489,
+      "checksum": "b9feb4f98fa6da9ef7d5d79cb425581a"
     },
     "sunoco": {
       "displayName": "Sunoco",
@@ -2073,16 +2193,16 @@
       "category": "hotels",
       "useLocationName": false,
       "locationCount": 11,
-      "fileSize": 1359,
-      "checksum": "b138eb68e6a40749f5caaf9134a6f208"
+      "fileSize": 1345,
+      "checksum": "efe00b27d4299aced5810d738db01494"
     },
     "tim_hortons": {
       "displayName": "Tim Hortons",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 691,
-      "fileSize": 75968,
-      "checksum": "7c72ef68d9e20b2715f38c7e3cadaf4e"
+      "fileSize": 75979,
+      "checksum": "f74b30a19b9822e0508bb6e179834502"
     },
     "tjmaxx": {
       "displayName": "TJ Maxx",
@@ -2121,8 +2241,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 630,
-      "fileSize": 69630,
-      "checksum": "cfa9bf07d9d8a93f0fdd95458e6594fd"
+      "fileSize": 69632,
+      "checksum": "ba9cde9f84aee534bfa7fda73b2b1012"
     },
     "travelodge": {
       "displayName": "Travelodge",
@@ -2172,29 +2292,37 @@
       "fileSize": 492896,
       "checksum": "9eef9bc65ca59e912cb942f129afce8f"
     },
+    "water_park": {
+      "displayName": "Water Parks",
+      "category": "entertainment",
+      "useLocationName": true,
+      "locationCount": 68,
+      "fileSize": 7386,
+      "checksum": "05bfbb463c2cc26a1e410dc1d680b465"
+    },
     "wawa": {
       "displayName": "Wawa",
       "category": "gas_station",
       "useLocationName": false,
       "locationCount": 881,
-      "fileSize": 96700,
-      "checksum": "8dfd60efcbe4193504e003288fbeff79"
+      "fileSize": 96702,
+      "checksum": "097c7c6f7b6a83363b7e0bfc21dd4a6d"
     },
     "wegmans": {
       "displayName": "Wegmans",
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 114,
-      "fileSize": 12612,
-      "checksum": "ffcde5b288a26d9cc6760e9df59efcfe"
+      "fileSize": 12614,
+      "checksum": "10ef8c272901fc0d48ba57042dae6612"
     },
     "wendys": {
       "displayName": "Wendy's",
       "category": "restaurant",
       "useLocationName": false,
-      "locationCount": 5814,
-      "fileSize": 647681,
-      "checksum": "8780eeca1761b298844dfe439e582d1d"
+      "locationCount": 5813,
+      "fileSize": 647572,
+      "checksum": "3d31df7feb18d52f5ae502067e41eea5"
     },
     "whataburger": {
       "displayName": "Whataburger",
@@ -2209,8 +2337,8 @@
       "category": "grocery",
       "useLocationName": false,
       "locationCount": 490,
-      "fileSize": 54032,
-      "checksum": "b6a05f7c6e5b687ee77062f8af110601"
+      "fileSize": 54034,
+      "checksum": "3cc0d89d20857de098c71cfbb524c347"
     },
     "wingate": {
       "displayName": "Wingate",
@@ -2240,9 +2368,9 @@
       "displayName": "Wyndham",
       "category": "hotels",
       "useLocationName": false,
-      "locationCount": 5902,
-      "fileSize": 660893,
-      "checksum": "f48cf12440b784e37970013f92aa3a62"
+      "locationCount": 5869,
+      "fileSize": 657191,
+      "checksum": "099e0cfbab85be1cb759bec3355cf2ee"
     },
     "wyndham_garden": {
       "displayName": "Wyndham Garden",
@@ -2256,9 +2384,9 @@
       "displayName": "YMCA",
       "category": "fitness",
       "useLocationName": false,
-      "locationCount": 2685,
-      "fileSize": 294311,
-      "checksum": "dcb36160242baf9da52fc17d7c4c54c5"
+      "locationCount": 2582,
+      "fileSize": 283159,
+      "checksum": "4bc842889656884736cb3bebc9e087c3"
     },
     "yogurtland": {
       "displayName": "Yogurtland",
@@ -2281,103 +2409,8 @@
       "category": "entertainment",
       "useLocationName": true,
       "locationCount": 132,
-      "fileSize": 13858,
-      "checksum": "5d289e4ffa245ee6adc6b336b4f51ca9"
-    },
-    "meijer": {
-      "displayName": "Meijer",
-      "category": "grocery",
-      "useLocationName": false,
-      "locationCount": 755,
-      "fileSize": 81874,
-      "checksum": "4afdc89aadc25400de95b2d529ad32d1"
-    },
-    "bath_body_works": {
-      "displayName": "Bath & Body Works",
-      "category": "shopping",
-      "useLocationName": false,
-      "locationCount": 1816,
-      "fileSize": 202937,
-      "checksum": "8110207869c3b9e957421b77cfbf7212"
-    },
-    "motel_6": {
-      "displayName": "Motel 6",
-      "category": "hotels",
-      "useLocationName": false,
-      "locationCount": 1493,
-      "fileSize": 170253,
-      "checksum": "f464525c65b9630fcb466fb3903c9874"
-    },
-    "racetrac": {
-      "displayName": "RaceTrac",
-      "category": "gas_station",
-      "useLocationName": false,
-      "locationCount": 609,
-      "fileSize": 67508,
-      "checksum": "2b5438140aeb5de6dd594fc3d5047a08"
-    },
-    "lifetime_fitness": {
-      "displayName": "Life Time",
-      "category": "fitness",
-      "useLocationName": false,
-      "locationCount": 210,
-      "fileSize": 23615,
-      "checksum": "2eed089c85513884993c31989f28c3c9"
-    },
-    "24_hour_fitness": {
-      "displayName": "24 Hour Fitness",
-      "category": "fitness",
-      "useLocationName": false,
-      "locationCount": 237,
-      "fileSize": 27283,
-      "checksum": "c701342cdc495ed9b1fd86f0502471a9"
-    },
-    "orangetheory": {
-      "displayName": "Orangetheory",
-      "category": "fitness",
-      "useLocationName": false,
-      "locationCount": 1256,
-      "fileSize": 145605,
-      "checksum": "cd050e855b0bc8fdc93c1cf5fb7caeb2"
-    },
-    "crunch": {
-      "displayName": "Crunch Fitness",
-      "category": "fitness",
-      "useLocationName": false,
-      "locationCount": 560,
-      "fileSize": 62079,
-      "checksum": "c682ca0f052ce323374da91cdadba9b7"
-    },
-    "sprouts": {
-      "displayName": "Sprouts",
-      "category": "grocery",
-      "useLocationName": false,
-      "locationCount": 483,
-      "fileSize": 54435,
-      "checksum": "90138b5806283f741aa4a93e105ca254"
-    },
-    "regal": {
-      "displayName": "Regal Cinemas",
-      "category": "entertainment",
-      "useLocationName": false,
-      "locationCount": 406,
-      "fileSize": 44802,
-      "checksum": "20c18d08504c2220c62e491dc48b3cfa"
-    },
-    "la_fitness": {
-      "displayName": "LA Fitness",
-      "category": "fitness",
-      "useLocationName": false,
-      "locationCount": 604,
-      "fileSize": 81210,
-      "checksum": "e56a6d291deada757c12b111b8eede0c"
+      "fileSize": 13859,
+      "checksum": "8fdb55b23c3d12bf670d0c66e192a8dd"
     }
-  },
-  "lastUpdated": "2026-01-11",
-  "zip": {
-    "filename": "brands.zip",
-    "checksum": "078ae57c66ba16115e1ad51059d8fb98",
-    "size": 11196017,
-    "generated": "2026-01-12T14:40:02.405Z"
   }
 }

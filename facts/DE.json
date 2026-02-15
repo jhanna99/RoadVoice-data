@@ -54,7 +54,7 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The outspoken Young was famous for having joined the NAACP in 1912 at the age of 12, lectured and worked conferences with W. E. B. Du Bois in the 1930s, and in 1965 marched with Martin Luther King Junior in Alabama."
+      "fact": "The outspoken Young was famous for having joined the NAACP in 1912 at the age of 12, lectured and worked conferences with W E B Du Bois in the 1930s, and in 1965 marched with Martin Luther King Junior in Alabama."
     },
     {
       "cityName": "Ardencroft",
@@ -117,14 +117,14 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "Civil rights and suffragist activist, prolific writer, pilot, librarian, lecturer, and educator Pauline A. Young (1900 to 1991) moved into Ardencroft around this time."
+      "fact": "Civil rights and suffragist activist, prolific writer, pilot, librarian, lecturer, and educator Pauline A Young (1900 to 1991) moved into Ardencroft around this time."
     },
     {
       "cityName": "Ardentown",
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Ardentown was founded by Donald Stephens in 1922 as an outgrowth of Arden with a conceptual lifestyle based on Henry George's Single tax movement and William Morris\u2019s Arts and Crafts principles."
+      "fact": "Ardentown was founded by Donald Stephens in 1922 as an outgrowth of Arden with a conceptual lifestyle based on Henry George's Single tax movement and William Morris’s Arts and Crafts principles."
     },
     {
       "cityName": "Ardentown",
@@ -239,6 +239,34 @@
       "fact": "According to the 2020 census, the population is 2568."
     },
     {
+      "cityName": "Camden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Camden",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,715 in 2020."
+    },
+    {
+      "cityName": "Cheswold",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Cheswold",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,923 in 2020."
+    },
+    {
       "cityName": "Christiana",
       "state": "DE",
       "source": "Wikipedia",
@@ -279,6 +307,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Located almost entirely in Kent County, it is part of the Dover, Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dagsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 805 at the 2010 census."
+    },
+    {
+      "cityName": "Dagsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Delaware City",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,885 as of 2020."
+    },
+    {
+      "cityName": "Delaware City",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a small port town on the eastern terminus of the Chesapeake and Delaware Canal and is the location of the Forts Ferry Crossing to Fort Delaware on Pea Patch Island."
     },
     {
       "cityName": "Delmar",
@@ -334,7 +390,7 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Dover ( DOH-v\u0259r) is the capital and the second-most populous city of the U S state of Delaware, after Wilmington."
+      "fact": "Dover is the capital and the second-most populous city of the U S state of Delaware, after Wilmington."
     },
     {
       "cityName": "Dover",
@@ -351,11 +407,102 @@
       "fact": "As of 2020, its population was 39403."
     },
     {
+      "cityName": "Ellendale",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 487 at the 2020 census, an increase of 27.8% since the 2010 census, and a 48.9% increase since the year 2000."
+    },
+    {
+      "cityName": "Ellendale",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Elsmere",
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2010 Census, the population of the town is 6131."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Felton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Felton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,316 in 2020."
+    },
+    {
+      "cityName": "Fenwick Island",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to 2020 census figures, the population of the town is 355, a 2.6% decrease over the last decade."
+    },
+    {
+      "cityName": "Fenwick Island",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland–Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Fenwick Island",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is located on Fenwick Island, a barrier spit."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 847 at the 2010 census, an increase of 18.6% over the previous decade."
+    },
+    {
+      "cityName": "Frankford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,073 in 2020."
+    },
+    {
+      "cityName": "Frederica",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "ILC Dover, the company which manufactured the spacesuits for the Apollo and Skylab astronauts of the 1960s and 1970s, along with fabricating the suit component of the Space Shuttle's Extravehicular Mobility Unit (EMU), is located nearby."
     },
     {
       "cityName": "Georgetown",
@@ -379,6 +526,20 @@
       "fact": "The community is also home to the private residence of Joe Biden, the 46th president of the United States, and many Du Pont family descendants."
     },
     {
+      "cityName": "Greenwood",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 973 at the 2010 census, an increase of 16.2% over the previous decade."
+    },
+    {
+      "cityName": "Greenwood",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Harbeson",
       "state": "DE",
       "source": "Wikipedia",
@@ -400,6 +561,20 @@
       "fact": "Harrington hosts the annual Delaware State Fair each July."
     },
     {
+      "cityName": "Hartly",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Hartly",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 73 in 2020, making it the least populous municipality in Delaware."
+    },
+    {
       "cityName": "Henlopen Acres",
       "state": "DE",
       "source": "Wikipedia",
@@ -411,14 +586,28 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for John W. Houston."
+      "fact": "It was named for John W Houston."
     },
     {
       "cityName": "Houston",
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town was named after John W. Houston who was Delaware's Secretary of State from 1841 to 1844."
+      "fact": "The town was named after John W Houston who was Delaware's Secretary of State from 1841 to 1844."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 215 in 2020."
     },
     {
       "cityName": "Laurel",
@@ -435,6 +624,20 @@
       "fact": "It once hosted the Laurel Blue Hens of the Eastern Shore Baseball League."
     },
     {
+      "cityName": "Leipsic",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Leipsic",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 178 in 2020."
+    },
+    {
       "cityName": "Lewes",
       "state": "DE",
       "source": "Wikipedia",
@@ -446,7 +649,7 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Lewes ( LOO-\u0259ss) is an incorporated city on the Delaware Bay in eastern Sussex County, Delaware, United States."
+      "fact": "Lewes is an incorporated city on the Delaware Bay in eastern Sussex County, Delaware, United States."
     },
     {
       "cityName": "Lewes",
@@ -460,7 +663,7 @@
       "state": "DE",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The city lies within the Salisbury, Maryland\u2013Delaware Metropolitan Statistical Area."
+      "fact": "The city lies within the Salisbury, Maryland–Delaware Metropolitan Statistical Area."
     },
     {
       "cityName": "Lewes",
@@ -512,6 +715,20 @@
       "fact": "First, the city of Milford is quickly growing towards Lincoln and could eventually envelop the town."
     },
     {
+      "cityName": "Little Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan statistical area."
+    },
+    {
+      "cityName": "Little Creek",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 195 in 2020."
+    },
+    {
       "cityName": "Magnolia",
       "state": "DE",
       "source": "Wikipedia",
@@ -531,6 +748,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2021 Census, the population of the town is 24164."
+    },
+    {
+      "cityName": "Milford",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population of the city is 11,190 people and 4,356 households in the city."
+    },
+    {
+      "cityName": "Millsboro",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Millsboro is part of the Salisbury metropolitan area."
+    },
+    {
+      "cityName": "Millville",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population in 2020 was 1,825, It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area and lies within Baltimore Hundred."
     },
     {
       "cityName": "Milton",
@@ -701,6 +939,27 @@
       "fact": "As of 2020, its population was 1108."
     },
     {
+      "cityName": "Rehoboth Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of 2020, its population was 1,108."
+    },
+    {
+      "cityName": "Rehoboth Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Along with the neighboring coastal town of Lewes, Rehoboth Beach is one of the principal cities of Delaware's rapidly growing Cape Region."
+    },
+    {
+      "cityName": "Rehoboth Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Rehoboth Beach lies within the Salisbury metropolitan area."
+    },
+    {
       "cityName": "Seaford",
       "state": "DE",
       "source": "Wikipedia",
@@ -713,6 +972,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 2167 at the 2010 census, an increase of 31.7% over the previous decade."
+    },
+    {
+      "cityName": "Slaughter Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 207 at the 2010 census, an increase of 4.5% over the past decade."
+    },
+    {
+      "cityName": "Slaughter Beach",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
     },
     {
       "cityName": "Smyrna",
@@ -785,6 +1058,20 @@
       "fact": "The center of population of Delaware is located in Townsend."
     },
     {
+      "cityName": "Viola",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover metropolitan area."
+    },
+    {
+      "cityName": "Viola",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 140 in 2020."
+    },
+    {
       "cityName": "Wilmington",
       "state": "DE",
       "source": "Wikipedia",
@@ -818,6 +1105,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Its modern economy is focused on national banking and finance institutions."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Dover, Delaware Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Woodside",
+      "state": "DE",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 190 in 2020."
     },
     {
       "cityName": "Wyoming",

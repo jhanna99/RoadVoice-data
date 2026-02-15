@@ -12,7 +12,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Adamsville is named after George D. Adams, who operated an inn and stagecoach stop in the 1840s."
+      "fact": "Adamsville is named after George D Adams, who operated an inn and stagecoach stop in the 1840s."
     },
     {
       "cityName": "Alamo",
@@ -22,11 +22,46 @@
       "fact": "Its population was 2461 at the time of the 2010 U S census."
     },
     {
+      "cityName": "Alcoa",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 10,978 at the 2020 census."
+    },
+    {
+      "cityName": "Alcoa",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Knoxville, TN Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Alexandria",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 981 at the 2020 census."
+    },
+    {
+      "cityName": "Algood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,963 at the 2020 census."
+    },
+    {
+      "cityName": "Algood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Cookeville Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Allardt",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The current mayor Mrs. Yvonne M. Gernt was elected in 2022."
+      "fact": "The current mayor Missus Yvonne M Gernt was elected in 2022."
     },
     {
       "cityName": "Allons",
@@ -34,6 +69,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is concentrated along State Route 52 (Celina Highway) north of Livingston."
+    },
+    {
+      "cityName": "Altamont",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,117 at the 2020 census."
     },
     {
       "cityName": "Andersonville",
@@ -110,7 +152,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located in Middle Tennessee, it is part of the Nashville-Davidson\u2013Murfreesboro\u2013Franklin, TN Metropolitan Statistical Area."
+      "fact": "Located in Middle Tennessee, it is part of the Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area."
     },
     {
       "cityName": "Ashland City",
@@ -118,6 +160,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2024 U S Census Bureau estimate, the population was 5689, an increase from 5193 in the 2020 census."
+    },
+    {
+      "cityName": "Athens",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is the county seat of McMinn County, Tennessee, United States and the principal city of the Athens Micropolitan Statistical Area has a population of 53,569."
+    },
+    {
+      "cityName": "Athens",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The city is located almost equidistantly between the major cities of Knoxville and Chattanooga."
+    },
+    {
+      "cityName": "Athens",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 14,084 at the 2020 census."
     },
     {
       "cityName": "Atoka",
@@ -131,56 +194,14 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "World War I Medal of Honor recipient Sgt."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Covington, the county seat, has the second largest population."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 4,
       "fact": "Today the City of New Orleans Amtrak passenger train makes its daily route between New Orleans and Chicago, through Atoka."
     },
     {
       "cityName": "Atoka",
       "state": "TN",
       "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Historians and genealogists can trace Atoka's origins back to the 1838 charter of Portersville."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Atoka adopted Portersville's charter as its own."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Joseph B. Adkison lived in Atoka, and he is buried nearby."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Five public parks exist within the town limits."
-    },
-    {
-      "cityName": "Atoka",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "The town has grown significantly since the 1990 census, at which time the population was only 659."
+      "factNumber": 3,
+      "fact": "The population was 10,008 at the 2020 census, making the Town of Atoka the largest municipality in Tipton County."
     },
     {
       "cityName": "Atwood",
@@ -188,6 +209,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Atwood was incorporated as a town in 1941."
+    },
+    {
+      "cityName": "Auburntown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 272 as of the 2020 census, up from 269 at the 2010 census."
     },
     {
       "cityName": "Baileyton",
@@ -222,7 +250,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city was named after Major Gabriel M. Bartlett, a planter who donated land for a train depot."
+      "fact": "The city was named after Major Gabriel M Bartlett, a planter who donated land for a train depot."
     },
     {
       "cityName": "Bartlett",
@@ -230,6 +258,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Bartlett has been recognized as one of the safest cities in Tennessee."
+    },
+    {
+      "cityName": "Baxter",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,578 at the 2020 census."
+    },
+    {
+      "cityName": "Baxter",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Cookeville, Tennessee Micropolitan Statistical Area."
     },
     {
       "cityName": "Bean Station",
@@ -243,7 +285,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In the early 20th century, Bean Station experienced renewed growth with the development of Tate Springs mineral springs resort, investment from U S Senator John K. Shields, and the construction of the Peavine Railroad which provided passenger rail services to Knoxville."
+      "fact": "In the early 20th century, Bean Station experienced renewed growth with the development of Tate Springs mineral springs resort, investment from U S Senator John K Shields, and the construction of the Peavine Railroad which provided passenger rail services to Knoxville."
     },
     {
       "cityName": "Bean Station",
@@ -456,6 +498,13 @@
       "fact": "In the 1950s, Bellevue was a small community which existed primarily to serve the needs of nearby farms."
     },
     {
+      "cityName": "Bells",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,463 at the 2020 census."
+    },
+    {
       "cityName": "Belvidere",
       "state": "TN",
       "source": "Wikipedia",
@@ -505,11 +554,39 @@
       "fact": "The area has its own Post Office."
     },
     {
+      "cityName": "Big Sandy",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 486 at the 2020 census."
+    },
+    {
       "cityName": "Birchwood",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is a rural area located along Tennessee State Route 60 and Tennessee State Route 312 (Birchwood Pike) northwest of Chattanooga."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Blaine, formerly known as Blaine's Crossroads, is a city in Grainger County, Tennessee, United States, and a suburb of neighboring Knoxville."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of both the Knoxville Metropolitan Statistical Area and the Morristown Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,084 at the 2020 census."
     },
     {
       "cityName": "Bloomington Springs",
@@ -524,6 +601,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Blountville was incorporated in 2010."
+    },
+    {
+      "cityName": "Bluff City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of this town according to the 2024 census is 1,839 occupants."
+    },
+    {
+      "cityName": "Bluff City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area, commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Bolivar",
@@ -572,7 +663,35 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named after Joseph P. Braden."
+      "fact": "The town is named after Joseph P Braden."
+    },
+    {
+      "cityName": "Bradford",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Bradford had a population of 1,001."
+    },
+    {
+      "cityName": "Brentwood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 45,373 as of the 2020 United States census."
+    },
+    {
+      "cityName": "Brentwood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb of Nashville and included in the Nashville metropolitan area."
+    },
+    {
+      "cityName": "Brighton",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Brighton had a population of 2,888."
     },
     {
       "cityName": "Bristol",
@@ -715,11 +834,102 @@
       "fact": "The town was named for the famous gunsmith, John Bull, who made his home in the gap of mountains."
     },
     {
+      "cityName": "Burlison",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Burlison had a population of 367."
+    },
+    {
+      "cityName": "Burns",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Burns",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Burns had a population of 1,573."
+    },
+    {
+      "cityName": "Byrdstown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 798 at the 2020 census."
+    },
+    {
+      "cityName": "Byrdstown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Pickett County."
+    },
+    {
+      "cityName": "Calhoun",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Athens Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Calhoun",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was estimated at 536 in 2020."
+    },
+    {
+      "cityName": "Camden",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,674 at the 2020 census."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Carthage had a population of 2,291."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located on the Cumberland River, which was important to its early development."
+    },
+    {
+      "cityName": "Caryville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Caryville had a population of 2,212."
+    },
+    {
       "cityName": "Cedar Hill",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population was 301."
+    },
+    {
+      "cityName": "Celina",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,422 at the 2020 census."
+    },
+    {
+      "cityName": "Centertown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Centertown had a population of 297."
     },
     {
       "cityName": "Centerville",
@@ -741,6 +951,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is included in the Cleveland Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,656 at the 2020 census."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Dickson County."
+    },
+    {
+      "cityName": "Charlotte",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This town is part of the Nashville metropolitan area."
     },
     {
       "cityName": "Chattanooga",
@@ -810,7 +1041,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Cheatham County ( CHEE-t\u0259m) is a county located in the U S state of Tennessee."
+      "fact": "Cheatham County is a county located in the U S state of Tennessee."
     },
     {
       "cityName": "Cheatham",
@@ -831,7 +1062,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Cheatham County is located in Middle Tennessee, and is part of the Nashville-Davidson\u2013Murfreesboro\u2013Franklin, TN Metropolitan Statistical Area."
+      "fact": "Cheatham County is located in Middle Tennessee, and is part of the Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area."
     },
     {
       "cityName": "Christiana",
@@ -853,6 +1084,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The 2020 population of the CDP was 4305."
+    },
+    {
+      "cityName": "Church Hill",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,998 at the 2020 census and 6,737 at the 2010 census."
+    },
+    {
+      "cityName": "Church Hill",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area, which is a component of the \"Tri-Cities\" region."
+    },
+    {
+      "cityName": "Church Hill",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the largest municipality located entirely within Hawkins County."
     },
     {
       "cityName": "Clarkrange",
@@ -939,6 +1191,27 @@
       "fact": "The site of the 101st Airborne Division (Air Assault), Fort Campbell is located about 10 miles (16 km) from downtown Clarksville and straddles the Tennessee-Kentucky state line."
     },
     {
+      "cityName": "Cleveland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cleveland is the county seat of and the largest city in Bradley County, Tennessee."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 47,356 at the 2020 census."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the principal city of the Cleveland metropolitan area, Tennessee, which is included in the Chattanooga–Cleveland–Dalton, TN–GA–AL Combined Statistical Area."
+    },
+    {
       "cityName": "Clifton",
       "state": "TN",
       "source": "Wikipedia",
@@ -999,7 +1272,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Founded by 19th-century businessman Jesse R. Collier in 1836, the settlement was the site of the first and second battles of Collierville during the American Civil War, during which the town suffered severe damage."
+      "fact": "Founded by 19th-century businessman Jesse R Collier in 1836, the settlement was the site of the first and second battles of Collierville during the American Civil War, during which the town suffered severe damage."
     },
     {
       "cityName": "Collierville",
@@ -1028,6 +1301,13 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "After a period of regrowth, Collierville saw substantial economic expansion in the twentieth and twenty-first centuries and now boasts a high quality of life."
+    },
+    {
+      "cityName": "Collinwood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Collinwood had a population of 898."
     },
     {
       "cityName": "Columbia",
@@ -1069,7 +1349,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located in Middle Tennessee, Coopertown is part of the Nashville-Davidson\u2013Murfreesboro\u2013Franklin, TN Metropolitan Statistical Area."
+      "fact": "Located in Middle Tennessee, Coopertown is part of the Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area."
     },
     {
       "cityName": "Coopertown",
@@ -1177,6 +1457,27 @@
       "fact": "The city's population was 9038 at the time of the 2010 U S census."
     },
     {
+      "cityName": "Cowan",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Cowan had a population of 1,759."
+    },
+    {
+      "cityName": "Cowan",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Tullahoma, Tennessee Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Crab Orchard",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 719 at the 2020 census."
+    },
+    {
       "cityName": "Cross Plains",
       "state": "TN",
       "source": "Wikipedia",
@@ -1189,6 +1490,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Cross Plains was the first area of Robertson County that was settled by European settlers, with the arrival of Thomas Kilgore in 1778."
+    },
+    {
+      "cityName": "Crossville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Crossville Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Crossville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 12,071 at the 2020 census."
+    },
+    {
+      "cityName": "Crump",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,428 at the 2010 census, and 1,594 at the 2020 census."
     },
     {
       "cityName": "Cumberland City",
@@ -1275,11 +1597,32 @@
       "fact": "Dayton was the site of the Scopes Trial in 1925 dealing with the rejection of evolution by religious groups."
     },
     {
+      "cityName": "Decatur",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,563 at the 2020 census."
+    },
+    {
+      "cityName": "Decatur",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Meigs County."
+    },
+    {
       "cityName": "Decaturville",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is named for American Revolutionary War Commodore Stephen Decatur, Junior"
+    },
+    {
+      "cityName": "Decherd",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,379 at the 2020 census and 2,361 at the 2010 census."
     },
     {
       "cityName": "Delano",
@@ -1342,7 +1685,28 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Dover is part of the Clarksville, TN\u2013Kentucky Metropolitan Statistical Area."
+      "fact": "Dover is part of the Clarksville, TN–Kentucky Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dowelltown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Dowelltown had a population of 342."
+    },
+    {
+      "cityName": "Doyle",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Doyle had a population of 493."
+    },
+    {
+      "cityName": "Dresden",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Dresden had a population of 3,019."
     },
     {
       "cityName": "Drummonds",
@@ -1352,11 +1716,46 @@
       "fact": "Drummonds Elementary School is in Drummonds, TN."
     },
     {
+      "cityName": "Ducktown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 461 at the 2020 census and 475 at the 2010 census."
+    },
+    {
+      "cityName": "Ducktown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Cleveland, Tennessee metropolitan area."
+    },
+    {
+      "cityName": "Dunlap",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,357 at the 2020 census and 4,815 at the 2010 census."
+    },
+    {
       "cityName": "Dyer",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Dyer was originally known as Dyer Station, a name given by railroad workers in the early days of rail."
+    },
+    {
+      "cityName": "Dyersburg",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located in northwest Tennessee, 79 miles (127 km) northeast of Memphis on the Forked Deer River."
+    },
+    {
+      "cityName": "Dyersburg",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 16,164 at the 2020 census, down 5.72% from the 2010 census."
     },
     {
       "cityName": "Eads",
@@ -1391,14 +1790,14 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Urbanization began during World War II, driven by the arrival of workers for the local ALCOA plant."
+      "fact": "Urbanization began during World War 2, driven by the arrival of workers for the local ALCOA plant."
     },
     {
       "cityName": "Eagleton Village",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community is named after the first Eagleton School, built in the 1800s on land donated by Scottish immigrant David Eagleton (1748\u20131828)."
+      "fact": "The community is named after the first Eagleton School, built in the 1800s on land donated by Scottish immigrant David Eagleton (1748–1828)."
     },
     {
       "cityName": "Eagleton Village",
@@ -1443,6 +1842,20 @@
       "fact": "The Bachman Tubes beneath Missionary Ridge link East Ridge with downtown Chattanooga."
     },
     {
+      "cityName": "Eastview",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Eastview had a population of 763."
+    },
+    {
+      "cityName": "Eastview",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located on the Southside outskirts of Selmer, Tennessee."
+    },
+    {
       "cityName": "Elizabethton",
       "state": "TN",
       "source": "Wikipedia",
@@ -1461,7 +1874,14 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was within the secessionist North Carolina \"State of Franklin\" territory (1784\u20131788)."
+      "fact": "It was within the secessionist North Carolina \"State of Franklin\" territory (1784–1788)."
+    },
+    {
+      "cityName": "Elkton",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Elkton had a population of 545."
     },
     {
       "cityName": "Elora",
@@ -1469,6 +1889,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It lies approximately 16 miles (26 km) southeast of Fayetteville and 2 miles (3.2 km) north of the Alabama state line."
+    },
+    {
+      "cityName": "Englewood",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,590 in 2024."
+    },
+    {
+      "cityName": "Enville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Enville had a population of 188."
+    },
+    {
+      "cityName": "Erin",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,224 at the time of the 2020 census and 1,324 at the time of the 2010 census."
+    },
+    {
+      "cityName": "Erwin",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,083 at the 2020 census."
+    },
+    {
+      "cityName": "Erwin",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Johnson City metropolitan area, which is a component of the \"Tri-Cities\" region."
     },
     {
       "cityName": "Estill Springs",
@@ -1483,6 +1938,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is usually referred to simply as \"Estill\" by its inhabitants."
+    },
+    {
+      "cityName": "Ethridge",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ethridge had a population of 537."
+    },
+    {
+      "cityName": "Etowah",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,613 at the 2020 census."
     },
     {
       "cityName": "Evensville",
@@ -1517,7 +1986,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Fall Branch is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City\u2013Kingsport\u2013Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "Fall Branch is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City–Kingsport–Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Farragut",
@@ -1539,6 +2008,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The city's population was 7095 at the 2020 census."
+    },
+    {
+      "cityName": "Finger",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 350 at the 2000 census."
     },
     {
       "cityName": "Five Points",
@@ -1566,7 +2042,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Forest Hills is an incorporated city in Davidson County, Tennessee that operates its own municipal government under a general law manager\u2013commission charter."
+      "fact": "Forest Hills is an incorporated city in Davidson County, Tennessee that operates its own municipal government under a general law manager–commission charter."
     },
     {
       "cityName": "Fountain City",
@@ -1639,6 +2115,13 @@
       "fact": "Despite recent growth and development, Franklin is noted for its many older buildings and neighborhoods, which are protected by city ordinances."
     },
     {
+      "cityName": "Friendship",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Friendship had a population of 613."
+    },
+    {
       "cityName": "Friendsville",
       "state": "TN",
       "source": "Wikipedia",
@@ -1658,6 +2141,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is the birthplace of Hall of Fame rock guitarist Scotty Moore, who played with Elvis Presley and Ricky Nelson."
+    },
+    {
+      "cityName": "Gainesboro",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 920 at the 2020 census."
     },
     {
       "cityName": "Gallatin",
@@ -1695,6 +2185,27 @@
       "fact": "In 2017, Gallatin was ranked as \"The Nicest Place In America\" by Reader's Digest."
     },
     {
+      "cityName": "Gallaway",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gallaway had a population of 528."
+    },
+    {
+      "cityName": "Garland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Garland had a population of 289."
+    },
+    {
+      "cityName": "Gates",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gates had a population of 664."
+    },
+    {
       "cityName": "Gatlinburg",
       "state": "TN",
       "source": "Wikipedia",
@@ -1713,7 +2224,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Bradley County portion of Georgetown is part of the Cleveland, TN Metropolitan Statistical Area, while the Hamilton County portion is part of the Chattanooga, TN\u2013GA Metropolitan Statistical Area."
+      "fact": "The Bradley County portion of Georgetown is part of the Cleveland, TN Metropolitan Statistical Area, while the Hamilton County portion is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
     },
     {
       "cityName": "Germantown",
@@ -1786,6 +2297,27 @@
       "fact": "The Arbor Day Foundation has designated Germantown a \"Tree City USA\" for 23 consecutive years."
     },
     {
+      "cityName": "Gibson",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gibson, once known as Pickettville in the 1800s, is a town in Gibson County, Tennessee."
+    },
+    {
+      "cityName": "Gibson",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Gibson had a population of 366."
+    },
+    {
+      "cityName": "Gilt Edge",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gilt Edge had a population of 476."
+    },
+    {
       "cityName": "Gleason",
       "state": "TN",
       "source": "Wikipedia",
@@ -1821,6 +2353,13 @@
       "fact": "In 1963, when the city of Nashville merged with the government of Davidson County, Goodlettsville chose to remain autonomous."
     },
     {
+      "cityName": "Gordonsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Gordonsville had a population of 1,363."
+    },
+    {
       "cityName": "Grand Junction",
       "state": "TN",
       "source": "Wikipedia",
@@ -1839,7 +2378,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "A museum connected to the Gray Fossil Site, an early Pliocene Lagerst\u00e4tte discovered during road construction in 2000, opened in 2007."
+      "fact": "A museum connected to the Gray Fossil Site, an early Pliocene Lagerstätte discovered during road construction in 2000, opened in 2007."
     },
     {
       "cityName": "Gray",
@@ -1877,6 +2416,13 @@
       "fact": "Some of the area of Gray has been annexed by Johnson City."
     },
     {
+      "cityName": "Graysville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,471 at the 2020 census and 1,502 at the 2010 census."
+    },
+    {
       "cityName": "Greenback",
       "state": "TN",
       "source": "Wikipedia",
@@ -1889,6 +2435,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is included in the Knoxville Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Greenbrier",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,898 at the 2020 United States census."
     },
     {
       "cityName": "Greeneville",
@@ -1916,7 +2469,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Greeneville is part of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "Greeneville is part of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Greeneville",
@@ -1954,6 +2507,20 @@
       "fact": "The U S Navy Los Angeles-class submarine USS Greeneville was named in honor of the town."
     },
     {
+      "cityName": "Greenfield",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Greenfield had a population of 2,031."
+    },
+    {
+      "cityName": "Greenfield",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,078 in 2018."
+    },
+    {
       "cityName": "Grimsley",
       "state": "TN",
       "source": "Wikipedia",
@@ -1965,14 +2532,21 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "As its name implies, Gruetli-Laager consists of two communities\u2014 Gruetli and Laager\u2014 incorporated as a single city."
+      "fact": "As its name implies, Gruetli-Laager consists of two communities— Gruetli and Laager— incorporated as a single city."
     },
     {
       "cityName": "Gruetli-Laager",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "As its name implies, Gruetli-Laager consists of two communities\u2014 Gruetli and Laager\u2014 incorporated as a single city."
+      "fact": "As its name implies, Gruetli-Laager consists of two communities— Gruetli and Laager— incorporated as a single city."
+    },
+    {
+      "cityName": "Guys",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Guys had a population of 414."
     },
     {
       "cityName": "Halls",
@@ -1986,7 +2560,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is named after Hansford R. Hall, one of the founders."
+      "fact": "It is named after Hansford R Hall, one of the founders."
     },
     {
       "cityName": "Halls",
@@ -2003,6 +2577,13 @@
       "fact": "Located a few miles southeast of Elizabethton and northwest of Roan Mountain, Hampton is surrounded on all sides by the Unaka Mountains."
     },
     {
+      "cityName": "Harriman",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of Harriman was 5,892 at the time of the 2020 census."
+    },
+    {
       "cityName": "Harrison",
       "state": "TN",
       "source": "Wikipedia",
@@ -2010,11 +2591,39 @@
       "fact": "Harrison Bay State Park, the Hamilton County Landfill, Bear Trace Golf Course, a course designed by Jack Nicklaus, and Skull Island, a recreational area owned by TVA, are all located in Harrison."
     },
     {
+      "cityName": "Harrogate",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrogate is the largest city in Claiborne County, Tennessee, United States."
+    },
+    {
+      "cityName": "Harrogate",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjacent to Cumberland Gap National Historical Park."
+    },
+    {
       "cityName": "Hartford",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community is located at the northeastern tip of the Great Smoky Mountains and lies within the Cherokee National Forest."
+    },
+    {
+      "cityName": "Hartsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat of Trousdale County, with which it shares a consolidated city-county government."
+    },
+    {
+      "cityName": "Hartsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of Hartsville was 11,615 as of 2020."
     },
     {
       "cityName": "Heiskell",
@@ -2029,6 +2638,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Helenwood was incorporated in 2000."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Henderson had a population of 6,308."
     },
     {
       "cityName": "Hendersonville",
@@ -2059,6 +2675,13 @@
       "fact": "Hendersonville is located 18 miles (29 km) northeast of downtown Nashville."
     },
     {
+      "cityName": "Henning",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 871 at the 2020 census."
+    },
+    {
       "cityName": "Henry",
       "state": "TN",
       "source": "Wikipedia",
@@ -2070,70 +2693,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hermitage is a neighborhood of Nashville, adjacent to \u2013 and named in honor of \u2013 The Hermitage, the historic home of Andrew Jackson, seventh President of the United States."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Hermitage is divided from Donelson by the Stones River and its bottom lands, Clover Bottom."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 3,
       "fact": "Although the area is incorporated as part of the Metropolitan Government of Nashville and Davidson County, it maintains its own identity as a residential and commercial suburban area."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Hermitage is located immediately to the east of Donelson, a Nashville borough named in honor of Andrew Jackson's father-in-law John Donelson, and just to the west of Mt."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Juliet in adjacent Wilson County."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Once a rural area, Hermitage is now a thriving district with a highly developed network of retail stores and typical suburban tract houses, ranging from the \"starter home\" to the \"executive residence\"."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The technology headquarters of Deloitte Touche Tohmatsu, one of the Big Four auditors, is located in Hermitage, sprawling across 200000 square feet (19000 m2) and employing more than 1000 people."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Major thoroughfares include U S Route 70, Interstate 40, and State Route 45."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "Hermitage has a station on the WeGo Star commuter rail service and is home to the Tennessee Secondary School Athletic Association, the organization that administers junior and senior high school sporting events."
-    },
-    {
-      "cityName": "Hermitage",
-      "state": "TN",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "It has benefited from the impoundment of the Stones by J. Percy Priest Dam, a nearby United States Army Corps of Engineers project that provides a number of recreation opportunities, particularly in the summer months."
     },
     {
       "cityName": "Hickory Valley",
@@ -2266,7 +2826,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The name \"Hohenwald\" derives from German meaning \u201cHigh Forest\"."
+      "fact": "The name \"Hohenwald\" derives from German meaning “High Forest\"."
     },
     {
       "cityName": "Hohenwald",
@@ -2318,11 +2878,74 @@
       "fact": "Hollow Rock is just west of, and adjacent to, the town of Bruceton and is 70 km (43 mi) northeast of Jackson."
     },
     {
+      "cityName": "Hornbeak",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Hornbeak had a population of 511."
+    },
+    {
+      "cityName": "Hornbeak",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Union City, TN–KY Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Hornsby",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is just east of Bolivar along U S Highway 64."
+    },
+    {
+      "cityName": "Humboldt",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Humboldt had a population of 7,874."
+    },
+    {
+      "cityName": "Humboldt",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of and is included in the Humboldt, Tennessee Micropolitan Statistical Area, which is included in the Jackson-Henderson-Humboldt, Tennessee Metropolitan Area."
+    },
+    {
+      "cityName": "Huntingdon",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,439 at the 2020 census and 3,985 in 2010."
+    },
+    {
+      "cityName": "Huntingdon",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Carroll County."
+    },
+    {
+      "cityName": "Huntland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 872 at the 2010 census and 886 at the 2020 census."
+    },
+    {
+      "cityName": "Huntsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,270 at the 2020 census and 1,248 at the 2010 census."
+    },
+    {
+      "cityName": "Huntsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Scott County."
     },
     {
       "cityName": "Hurricane Mills",
@@ -2381,6 +3004,20 @@
       "fact": "Iron City was incorporated as a city from 1887 to 1901, and again from 1962 until 2010, when its residents voted to disincorporate."
     },
     {
+      "cityName": "Jacksboro",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,306 at the 2020 census."
+    },
+    {
+      "cityName": "Jacksboro",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Campbell County."
+    },
+    {
       "cityName": "Jackson",
       "state": "TN",
       "source": "Wikipedia",
@@ -2435,6 +3072,13 @@
       "source": "Wikipedia",
       "factNumber": 8,
       "fact": "In the antebellum era, Jackson was the market city for an agricultural area based on cultivation of cotton, the major commodity crop."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of the city was 1,935 at the 2020 census."
     },
     {
       "cityName": "Jasper",
@@ -2500,6 +3144,48 @@
       "fact": "Its population was 5860 as of 2020."
     },
     {
+      "cityName": "Jonesborough",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 5,860 as of 2020."
+    },
+    {
+      "cityName": "Jonesborough",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is \"Tennessee's oldest town\"."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Kenton had a population of 1,205."
+    },
+    {
+      "cityName": "Kenton",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Gibson County portion of Kenton is part of the Humboldt, TN Micropolitan Statistical Area, while the Obion County portion is part of the Union City, TN–KY Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Kimball",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,545 at the 2020 census and 1,395 in 2010."
+    },
+    {
+      "cityName": "Kimball",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Kingsport",
       "state": "TN",
       "source": "Wikipedia",
@@ -2547,6 +3233,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "This city is thirty-six miles southwest of Knoxville."
+    },
+    {
+      "cityName": "Kingston Springs",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 2,824."
     },
     {
       "cityName": "Knoxville",
@@ -2616,7 +3309,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "While the city's official spelling is one word (\"LaFollette\")\u2014after its founders, Harvey Marion LaFollette and his younger brother Grant LaFollette\u2014several federal agencies spell the city's name with two words (\"La Follette\")."
+      "fact": "While the city's official spelling is one word (\"LaFollette\")—after its founders, Harvey Marion LaFollette and his younger brother Grant LaFollette—several federal agencies spell the city's name with two words (\"La Follette\")."
     },
     {
       "cityName": "La Grange",
@@ -2633,6 +3326,34 @@
       "fact": "La Vergne lies within the Nashville Metropolitan Statistical Area."
     },
     {
+      "cityName": "LaFollette",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 7,456 at the 2010 census, with an estimated population in 2018 of 6,737."
+    },
+    {
+      "cityName": "LaFollette",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the LaFollette, Tennessee micropolitan statistical area, which includes all of Campbell County, and is a component of the Knoxville Metropolitan Area."
+    },
+    {
+      "cityName": "LaFollette",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "While the city's official spelling is one word (\"LaFollette\")—after its founders, Harvey Marion LaFollette and his younger brother Grant LaFollette—several federal agencies spell the city's name with two words."
+    },
+    {
+      "cityName": "Lafayette",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,474 at the 2010 census, and had 5,584 in 2020."
+    },
+    {
       "cityName": "Lake City",
       "state": "TN",
       "source": "Wikipedia",
@@ -2647,25 +3368,32 @@
       "fact": "Most of the community is in Anderson County and is included in the Knoxville Metropolitan Statistical Area."
     },
     {
+      "cityName": "Lakeland",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lakeland had a population of 13,904."
+    },
+    {
       "cityName": "Lakesite",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is a northern suburb of the Chattanooga, TN\u2013GA Metropolitan Statistical Area, located 15 miles north of the city."
+      "fact": "It is a northern suburb of the Chattanooga, TN–GA Metropolitan Statistical Area, located 15 miles north of the city."
     },
     {
       "cityName": "Lascassas",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The American actor John M. Pickard was born in Lascassas and died in Rutherford County."
+      "fact": "The American actor John M Pickard was born in Lascassas and died in Rutherford County."
     },
     {
       "cityName": "Lascassas",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community's namesake is Bartolom\u00e9 de las Casas (1484\u20131566), a Spanish missionary on Christopher Columbus's third expedition who was known as the \"Apostle of the Indians\" in recognition of his efforts to protect the native population from slavery and abuse."
+      "fact": "The community's namesake is Bartolomé de las Casas (1484–1566), a Spanish missionary on Christopher Columbus's third expedition who was known as the \"Apostle of the Indians\" in recognition of his efforts to protect the native population from slavery and abuse."
     },
     {
       "cityName": "Lascassas",
@@ -2736,6 +3464,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Lebanon is part of the Nashville Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lenoir City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,117 at the 2020 census."
+    },
+    {
+      "cityName": "Lenoir City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Knoxville metropolitan area in East Tennessee, along the Tennessee River southwest of Knoxville."
     },
     {
       "cityName": "Leoma",
@@ -2819,7 +3561,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Limestone is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "Limestone is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Linden",
@@ -2868,7 +3610,14 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bordering its sister city of Lookout Mountain, Georgia to the south, Lookout Mountain is part of the Chattanooga, TN\u2013GA Metropolitan Statistical Area."
+      "fact": "Bordering its sister city of Lookout Mountain, Georgia to the south, Lookout Mountain is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Loretto",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,714 at the 2010 census, and 1,739 at the 2020 census."
     },
     {
       "cityName": "Loudon",
@@ -3046,6 +3795,20 @@
       "fact": "The United States Census Bureau treated the community as a CDP for the 2020 census and the population was 586."
     },
     {
+      "cityName": "McEwen",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, McEwen had a population of 1,643."
+    },
+    {
+      "cityName": "McKenzie",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, McKenzie had a population of 5,529."
+    },
+    {
       "cityName": "McLemoresville",
       "state": "TN",
       "source": "Wikipedia",
@@ -3058,6 +3821,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was named after Governor Joseph McMinn."
+    },
+    {
+      "cityName": "Medina",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,126 at the 2020 census,"
     },
     {
       "cityName": "Medon",
@@ -3092,7 +3862,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It is home to the Memphis Grizzlies of the NBA and several colleges and universities, including the University of Memphis, LeMoyne\u2013Owen College, and Rhodes College."
+      "fact": "It is home to the Memphis Grizzlies of the NBA and several colleges and universities, including the University of Memphis, LeMoyne–Owen College, and Rhodes College."
     },
     {
       "cityName": "Memphis",
@@ -3137,6 +3907,13 @@
       "fact": "Situated along the Mississippi River, it had a population of 633104 at the 2020 census, making it the second-most populous city in Tennessee, the fifth-most populous in the Southeast, and the 28th-most populous in the US."
     },
     {
+      "cityName": "Michie",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 591 at the 2010 census and 679 at the 2020 census."
+    },
+    {
       "cityName": "Middleton",
       "state": "TN",
       "source": "Wikipedia",
@@ -3165,6 +3942,20 @@
       "fact": "The Milan Endowment for Growth in Academics (MEGA) was the first private community financial endowment for public schools in Tennessee."
     },
     {
+      "cityName": "Milledgeville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Milledgeville had a population of 271."
+    },
+    {
+      "cityName": "Millersville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,229 at the 2020 United States census"
+    },
+    {
       "cityName": "Millington",
       "state": "TN",
       "source": "Wikipedia",
@@ -3184,6 +3975,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "There is also a general aviation airport that features the third longest runway in Tennessee."
+    },
+    {
+      "cityName": "Minor Hill",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 504 at the 2020 census."
+    },
+    {
+      "cityName": "Mitchellville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Mitchellville had a population of 163."
     },
     {
       "cityName": "Monroe",
@@ -3207,6 +4012,27 @@
       "fact": "Monroe's zipcode also extends into Pickett County."
     },
     {
+      "cityName": "Monteagle",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Tennessee, in the Cumberland Plateau region of the southeastern part of the state."
+    },
+    {
+      "cityName": "Monteagle",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,238 at the 2000 census – 804 of the town's 1,238 residents (64.9%) lived in Grundy County, 428 (34.6%) in Marion County, and 6 (0.5%) in Franklin County."
+    },
+    {
+      "cityName": "Monteagle",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population at the 2020 census was 1,393."
+    },
+    {
       "cityName": "Monterey",
       "state": "TN",
       "source": "Wikipedia",
@@ -3219,6 +4045,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 941 as of the 2010 census."
+    },
+    {
+      "cityName": "Morrison",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Morrison had a population of 733."
     },
     {
       "cityName": "Morristown",
@@ -3274,14 +4107,21 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Moscow is also known as the \u201cLand Between Two Rivers,\u201d due to its location after the Army Corps of Engineers rerouted the waterways, moving the main channel west to its current location."
+      "fact": "Moscow is also known as the “Land Between Two Rivers,” due to its location after the Army Corps of Engineers rerouted the waterways, moving the main channel west to its current location."
     },
     {
       "cityName": "Moscow",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town was named after Moscow, Russia, by its founder J. A. Dilliard to honor his wife Alexandra, a native of the Russian city, whom he met on a business trip to Russia in 1834."
+      "fact": "The town was named after Moscow, Russia, by its founder J A Dilliard to honor his wife Alexandra, a native of the Russian city, whom he met on a business trip to Russia in 1834."
+    },
+    {
+      "cityName": "Mosheim",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,479 at the 2020 census."
     },
     {
       "cityName": "Mount Carmel",
@@ -3330,7 +4170,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mount Pleasant was the birthplace of 19th-century writer and humorist Samuel R. Watkins and formerly titled \"The Phosphate Capital of the World.\" The population was 4561 at the 2010 census, and 4784 in 2020."
+      "fact": "Mount Pleasant was the birthplace of 19th-century writer and humorist Samuel R Watkins and formerly titled \"The Phosphate Capital of the World.\" The population was 4561 at the 2010 census, and 4784 in 2020."
     },
     {
       "cityName": "Mountain City",
@@ -3338,6 +4178,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Mountain City was incorporated in 2020."
+    },
+    {
+      "cityName": "Munford",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Munford had a population of 6,302."
+    },
+    {
+      "cityName": "Munford",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was listed as a town at the 2010 census."
     },
     {
       "cityName": "Murfreesboro",
@@ -3424,6 +4278,48 @@
       "fact": "Nashville's hot chicken, a spicy fried chicken dish, originated at Prince's Hot Chicken Shack in the 1930s."
     },
     {
+      "cityName": "New Hope",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "New Johnsonville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, New Johnsonville had a population of 1,804."
+    },
+    {
+      "cityName": "New Market",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Morristown metropolitan area."
+    },
+    {
+      "cityName": "New Market",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,334 at the 2010 census and 1,349 at the 2020 census."
+    },
+    {
+      "cityName": "New Tazewell",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,037 at the 2010 census."
+    },
+    {
+      "cityName": "New Tazewell",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,769 at the 2020 census."
+    },
+    {
       "cityName": "Newbern",
       "state": "TN",
       "source": "Wikipedia",
@@ -3443,6 +4339,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The estimated population in 2018 was 6801."
+    },
+    {
+      "cityName": "Niota",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was estimated at 772 in 2020 by the U.S Census Bureau."
     },
     {
       "cityName": "Nolensville",
@@ -3519,7 +4422,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It is named in honor of George W. Norris, a Senator from Nebraska, who was a long-term supporter of the TVA."
+      "fact": "It is named in honor of George W Norris, a Senator from Nebraska, who was a long-term supporter of the TVA."
     },
     {
       "cityName": "Oak Hill",
@@ -3554,7 +4457,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Oak Ridge was established in 1942 as a production site for the Manhattan Project\u2014the massive American, British, and Canadian operation that developed the atomic bomb."
+      "fact": "Oak Ridge was established in 1942 as a production site for the Manhattan Project—the massive American, British, and Canadian operation that developed the atomic bomb."
     },
     {
       "cityName": "Oak Ridge",
@@ -3585,6 +4488,13 @@
       "fact": "Oak Ridge National Laboratory, Y-12 National Security Complex, and several private nuclear and scientific facilities are still in Oak Ridge, and scientific and technological development plays a crucial role in its economy and culture."
     },
     {
+      "cityName": "Oakdale",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 203 at the 2020 census, a decrease from the 2010 census figure of 212."
+    },
+    {
       "cityName": "Oakland",
       "state": "TN",
       "source": "Wikipedia",
@@ -3599,11 +4509,25 @@
       "fact": "In 2023, the town was found to be one of the safest in Tennessee, rating 2nd."
     },
     {
+      "cityName": "Obion",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Obion had a population of 991."
+    },
+    {
+      "cityName": "Obion",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Union City, TN–KY Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Ocoee",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Ocoee (Cherokee: \u13a4\u13e9\u13aa\u13af, romanized: Uwagohi) is an unincorporated community in Polk County, Tennessee, United States and named after the Cherokee settlement located in the area."
+      "fact": "Ocoee (Cherokee: ᎤᏩᎪᎯ, romanized: Uwagohi) is an unincorporated community in Polk County, Tennessee, United States and named after the Cherokee settlement located in the area."
     },
     {
       "cityName": "Ocoee",
@@ -3676,6 +4600,20 @@
       "fact": "The Mayor of Orlinda is Tabitha Swearingen and the City Manager is Kevin Breeding."
     },
     {
+      "cityName": "Orme",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 87 as of the 2020 census, down from 126 as of the 2010 census."
+    },
+    {
+      "cityName": "Orme",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Chattanooga, TN–GA Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Palmersville",
       "state": "TN",
       "source": "Wikipedia",
@@ -3722,7 +4660,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The community is part of the Clarksville, TN\u2013KY Metropolitan Statistical Area."
+      "fact": "The community is part of the Clarksville, TN–KY Metropolitan Statistical Area."
     },
     {
       "cityName": "Palmyra",
@@ -3765,6 +4703,55 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "A 70-foot (21 m) replica of the Eiffel Tower stands in the southern part of Paris."
+    },
+    {
+      "cityName": "Parker's Crossroads",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Parkers Crossroads is a city in Henderson County, Tennessee, United States."
+    },
+    {
+      "cityName": "Parker's Crossroads",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 330 as of the 2010 census, up from 241 at the 2000 census."
+    },
+    {
+      "cityName": "Parrottsville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Parrottsville had a population of 217."
+    },
+    {
+      "cityName": "Parsons",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Parsons had a population of 2,100."
+    },
+    {
+      "cityName": "Parsons",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Parsons is the largest city by population in Decatur County."
+    },
+    {
+      "cityName": "Pegram",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the population was 2,072."
+    },
+    {
+      "cityName": "Pegram",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Backdrop in the movie “Ruth and Boaz.”"
     },
     {
       "cityName": "Pelham",
@@ -3921,6 +4908,13 @@
       "fact": "Plainview is located in the southern part of the county, south of Maynardville, the county seat."
     },
     {
+      "cityName": "Pleasant Hill",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Pleasant Hill had a population of 540."
+    },
+    {
       "cityName": "Pleasant Shade",
       "state": "TN",
       "source": "Wikipedia",
@@ -3932,7 +4926,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located in Middle Tennessee, it is part of the Nashville-Davidson\u2013Murfreesboro\u2013Franklin, TN Metropolitan Statistical Area."
+      "fact": "Located in Middle Tennessee, it is part of the Nashville-Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area."
     },
     {
       "cityName": "Pleasant View",
@@ -4005,6 +4999,13 @@
       "fact": "It was named after Casimir Pulaski, a noted Polish-born general on the Patriot side in the American Revolutionary War."
     },
     {
+      "cityName": "Puryear",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Puryear had a population of 706."
+    },
+    {
       "cityName": "Ramer",
       "state": "TN",
       "source": "Wikipedia",
@@ -4017,6 +5018,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Reagan may refer to: Reagan, Henderson County, Tennessee Reagan, McMinn County, Tennessee Reagantown, Tennessee, in Sevier County former name for Decatur, Tennessee, in Meigs County"
+    },
+    {
+      "cityName": "Red Boiling Springs",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,205 at the 2020 census."
     },
     {
       "cityName": "Riceville",
@@ -4045,6 +5053,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Locally, the city is also known as Shepherd Hills, after the bigger of its two subdivisions, the other being Crescent Park."
+    },
+    {
+      "cityName": "Ridgetop",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,155 at the 2020 census."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ripley had a population of 7,800."
+    },
+    {
+      "cityName": "Ripley",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Lauderdale County."
     },
     {
       "cityName": "Rives",
@@ -4236,11 +5265,25 @@
       "fact": "Located along U S Route 11E-Tennessee State Route 34 (US 11E/SR 34), it is situated approximately at a midpoint between Whitesburg and Morristown."
     },
     {
+      "cityName": "Rutherford",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Rutherford had a population of 1,163."
+    },
+    {
       "cityName": "Rutledge",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city had a total population of 1321."
+    },
+    {
+      "cityName": "Saint Joseph",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 782 at the 2010 census, down from 829 in 2000."
     },
     {
       "cityName": "Sale Creek",
@@ -4327,6 +5370,13 @@
       "fact": "As of the 2020 census, the population of the city was 4446."
     },
     {
+      "cityName": "Sevierville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 17,889 at the 2020 United States Census."
+    },
+    {
       "cityName": "Seymour",
       "state": "TN",
       "source": "Wikipedia",
@@ -4397,6 +5447,20 @@
       "fact": "The town population was 8852 as of the 2020 census and estimated to be 8567 in 2018."
     },
     {
+      "cityName": "Silerton",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Silerton had a population of 97."
+    },
+    {
+      "cityName": "Slayden",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Slayden had a population of 170."
+    },
+    {
       "cityName": "Smithville",
       "state": "TN",
       "source": "Wikipedia",
@@ -4411,6 +5475,20 @@
       "fact": "Smyrna's population was 53070 at the 2020 census, making it the largest town in Tennessee by population in that census."
     },
     {
+      "cityName": "Sneedville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sneedville is the only city in and the county seat of Hancock County, Tennessee, United States."
+    },
+    {
+      "cityName": "Sneedville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,282 per the 2020 census."
+    },
+    {
       "cityName": "Soddy Daisy",
       "state": "TN",
       "source": "Wikipedia",
@@ -4451,6 +5529,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Sequoyah Nuclear Generating Station is located in Soddy-Daisy."
+    },
+    {
+      "cityName": "South Carthage",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, South Carthage had a population of 1,490."
+    },
+    {
+      "cityName": "South Carthage",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located along the Cumberland River opposite Carthage."
     },
     {
       "cityName": "South Cleveland",
@@ -4509,6 +5601,20 @@
       "fact": "It is home to Fall Creek Falls State Park."
     },
     {
+      "cityName": "Spring City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,949 at the 2020 census and 1,981 at the 2010 census."
+    },
+    {
+      "cityName": "Spring City",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located along Watts Bar Lake, and Watts Bar Dam and the Watts Bar Nuclear Generating Station are nearby."
+    },
+    {
       "cityName": "Spring Hill",
       "state": "TN",
       "source": "Wikipedia",
@@ -4521,6 +5627,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city's population was 18782."
+    },
+    {
+      "cityName": "Stantonville",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Stantonville had a population of 335."
     },
     {
       "cityName": "Strawberry Plains",
@@ -4542,6 +5655,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Some rural areas in neighboring Lewis and Maury counties also use a \"Summertown\" mailing address, but their population is not included in the Census figures."
+    },
+    {
+      "cityName": "Sunbright",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 519 at the 2020 census."
     },
     {
       "cityName": "Surgoinsville",
@@ -4597,14 +5717,14 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named for Tazewell, Virginia, which itself was named for Henry Tazewell (1753\u20131799), a U S senator from Virginia."
+      "fact": "The town is named for Tazewell, Virginia, which itself was named for Henry Tazewell (1753–1799), a U S senator from Virginia."
     },
     {
       "cityName": "Telford",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area \u2013 commonly known as the \"Tri-Cities\" region."
+      "fact": "The community is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
     },
     {
       "cityName": "Telford",
@@ -4712,11 +5832,32 @@
       "fact": "Although there are no definitive archives to specifically document who named the stream Ten Mile Creek or why, based on early maps of the area, the best educated guess is that the length of the creek measures approximately 10 miles."
     },
     {
+      "cityName": "Tennessee Ridge",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,332 at the 2020 census and 1,368 at the 2010 census."
+    },
+    {
+      "cityName": "Thompson's Station",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population has grown from 2,194 at the 2010 Census to 7,485 in the 2020 Census."
+    },
+    {
+      "cityName": "Thompson's Station",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Locations in Thompson's Station listed on the U.S National Register of Historic Places include the Jacob Critz House and the Thomas L Critz House, Thompson's Station Bank, John Neely House, James P Johnson House, Homestead Manor and James Giddens House."
+    },
+    {
       "cityName": "Thompsons Station",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Locations in Thompson's Station listed on the U S National Register of Historic Places include the Jacob Critz House and the Thomas L. Critz House, Thompson's Station Bank, John Neely House, James P. Johnson House, Homestead Manor and James Giddens House."
+      "fact": "Locations in Thompson's Station listed on the U S National Register of Historic Places include the Jacob Critz House and the Thomas L Critz House, Thompson's Station Bank, John Neely House, James P Johnson House, Homestead Manor and James Giddens House."
     },
     {
       "cityName": "Three Way",
@@ -4730,7 +5871,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Before the city was officially incorporated in 1998, the area was commonly known as \"Three Way\" for a number of years because of the split by U S Route 45 along its north\u2013south route into US 45W towards Humboldt and US 45E towards Milan."
+      "fact": "Before the city was officially incorporated in 1998, the area was commonly known as \"Three Way\" for a number of years because of the split by U S Route 45 along its north–south route into US 45W towards Humboldt and US 45E towards Milan."
     },
     {
       "cityName": "Tiptonville",
@@ -4745,6 +5886,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is also home to the Northwest Correctional Complex, a maximum security prison."
+    },
+    {
+      "cityName": "Toone",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Toone had a population of 270."
     },
     {
       "cityName": "Tracy City",
@@ -4773,6 +5921,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population was 4240."
+    },
+    {
+      "cityName": "Trezevant",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,001 at the 2020 census and 959 at the 2010 census."
+    },
+    {
+      "cityName": "Trimble",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Trimble had a population of 547."
     },
     {
       "cityName": "Tullahoma",
@@ -4845,6 +6007,20 @@
       "fact": "Tusculum is a suburb of nearby Greeneville."
     },
     {
+      "cityName": "Unicoi",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,833 at the 2020 census."
+    },
+    {
+      "cityName": "Unicoi",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City–Kingsport–Bristol Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
+    },
+    {
       "cityName": "Union City",
       "state": "TN",
       "source": "Wikipedia",
@@ -4873,6 +6049,13 @@
       "fact": "The town is named for Anthony Wayne Van Leer, onetime operator of the iron works in nearby Cumberland Furnace."
     },
     {
+      "cityName": "Viola",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Viola had a population of 93."
+    },
+    {
       "cityName": "Vonore",
       "state": "TN",
       "source": "Wikipedia",
@@ -4880,11 +6063,32 @@
       "fact": "The city hall, library, community center, police department, and fire department are located on Church Street."
     },
     {
+      "cityName": "Walden",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The text is a reflection upon the author's simple living in natural surroundings."
+    },
+    {
+      "cityName": "Walden",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and—to some degree—a manual for self-reliance."
+    },
+    {
       "cityName": "Walland",
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Its population was 281 as of the 2020 census."
+    },
+    {
+      "cityName": "Wartburg",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Wartburg had a population of 848."
     },
     {
       "cityName": "Wartrace",
@@ -4915,6 +6119,34 @@
       "fact": "As of the 2020 United States census, the total population of Washburn was 3289."
     },
     {
+      "cityName": "Watauga",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population 353 in the 2020 census."
+    },
+    {
+      "cityName": "Watauga",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Johnson City Metropolitan Statistical Area, which is a component of the Johnson City-Kingsport-Bristol, TN-VA Combined Statistical Area – commonly known as the \"Tri-Cities\" region."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,297 at the 2020 census."
+    },
+    {
+      "cityName": "Waynesboro",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Waynesboro had a population of 2,317."
+    },
+    {
       "cityName": "Westmoreland",
       "state": "TN",
       "source": "Wikipedia",
@@ -4936,6 +6168,20 @@
       "fact": "It is approximately twenty-two miles north of downtown Nashville."
     },
     {
+      "cityName": "White Pine",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Morristown metropolitan area."
+    },
+    {
+      "cityName": "White Pine",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,471 at the 2020 census."
+    },
+    {
       "cityName": "Whites Creek",
       "state": "TN",
       "source": "Wikipedia",
@@ -4954,7 +6200,7 @@
       "state": "TN",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The community is named for the creek of the same name running north\u2013south along U S Route 431."
+      "fact": "The community is named for the creek of the same name running north–south along U S Route 431."
     },
     {
       "cityName": "Whites Creek",
@@ -5034,6 +6280,13 @@
       "fact": "Williamsport was platted in 1817, and named after Edward Williams, a pioneer settler."
     },
     {
+      "cityName": "Williston",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Williston had a population of 349."
+    },
+    {
       "cityName": "Winfield",
       "state": "TN",
       "source": "Wikipedia",
@@ -5053,6 +6306,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Woodbury is part of the Nashville Metropolitan Statistical Area and is located 55 miles (89 km) southeast of downtown Nashville."
+    },
+    {
+      "cityName": "Woodland Mills",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Woodland Mills had a population of 346."
+    },
+    {
+      "cityName": "Woodland Mills",
+      "state": "TN",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Union City, TN–KY Micropolitan Statistical Area."
     },
     {
       "cityName": "Yuma",

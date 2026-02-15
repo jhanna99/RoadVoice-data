@@ -26,7 +26,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is in the northern suburbs of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area, which the United States Census Bureau estimated had a population of 2673376 in 2020."
+      "fact": "The city is in the northern suburbs of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area, which the United States Census Bureau estimated had a population of 2673376 in 2020."
     },
     {
       "cityName": "Altamonte Springs",
@@ -159,7 +159,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area."
     },
     {
       "cityName": "Atlantic Beach",
@@ -404,7 +404,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area."
     },
     {
       "cityName": "Belleair",
@@ -418,14 +418,35 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of Tampa\u2013Saint Petersburg\u2013Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay Area."
+      "fact": "It is part of Tampa–Saint Petersburg–Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay Area."
+    },
+    {
+      "cityName": "Belleair Bluffs",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Petersburg–Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay Area."
+    },
+    {
+      "cityName": "Belleair Bluffs",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The City of Belleair Bluffs was officially incorporated as a municipality."
+    },
+    {
+      "cityName": "Belleair Bluffs",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,311 at the 2020 census."
     },
     {
       "cityName": "Belleair Shore",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Town of Belleair Shore is part of the Tampa\u2013Saint Petersburg\u2013Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay area."
+      "fact": "The Town of Belleair Shore is part of the Tampa–Saint Petersburg–Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay area."
     },
     {
       "cityName": "Belleair Shore",
@@ -509,7 +530,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Boca Raton ( BOH-k\u0259 r\u0259-TOHN; Spanish: Boca Rat\u00f3n ) is a city in Palm Beach County, Florida, United States."
+      "fact": "Boca Raton ( BOH-kə rə-TOHN; Spanish: Boca Ratón ) is a city in Palm Beach County, Florida, United States."
     },
     {
       "cityName": "Boca Raton",
@@ -593,7 +614,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Boynton Beach's population grew rapidly in the first few decades following World War II, with more than a three-fold increase in the 1950s, while development of the city expanded westward, particularly in the 1980s."
+      "fact": "Boynton Beach's population grew rapidly in the first few decades following World War 2, with more than a three-fold increase in the 1950s, while development of the city expanded westward, particularly in the 1980s."
     },
     {
       "cityName": "Boynton Beach",
@@ -664,6 +685,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Bradenton is the spring training home of the Pittsburgh Pirates at LECOM Park."
+    },
+    {
+      "cityName": "Bradenton Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 908 at the 2020 census, down from 1,171 in 2010."
+    },
+    {
+      "cityName": "Bradenton Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the North Port-Bradenton-Sarasota, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Brandon",
@@ -740,14 +775,14 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, FL metropolitan statistical area and is named after an early resident, Alvah A. Bunnell, a shingle maker and supplier of wood to the area's fledgling rail industry."
+      "fact": "The city is part of the Deltona–Daytona Beach–Ormond Beach, FL metropolitan statistical area and is named after an early resident, Alvah A Bunnell, a shingle maker and supplier of wood to the area's fledgling rail industry."
     },
     {
       "cityName": "Bushnell",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of The Villages metropolitan area, which consists of all of Sumter County and is included in the Orlando\u2013Lakeland\u2013Deltona combined statistical area."
+      "fact": "It is part of The Villages metropolitan area, which consists of all of Sumter County and is included in the Orlando–Lakeland–Deltona combined statistical area."
     },
     {
       "cityName": "Callahan",
@@ -761,7 +796,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Panama City\u2013Panama City Beach, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Panama City–Panama City Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Campbellton",
@@ -1013,7 +1048,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Town of Cinco Bayou is part of the Crestview\u2013Fort Walton Beach\u2013Destin, Florida Metropolitan Statistical Area."
+      "fact": "The Town of Cinco Bayou is part of the Crestview–Fort Walton Beach–Destin, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Clearwater",
@@ -1265,7 +1300,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "With an elevation of 236 feet (72\u00a0m) above sea level, it is one of the highest points in the state."
+      "fact": "With an elevation of 236 feet (72 m) above sea level, it is one of the highest points in the state."
     },
     {
       "cityName": "Cross City",
@@ -1349,7 +1384,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city was named after U S Army Major Francis L Dade, who was killed\u2014alongside most of the men he led from Fort Brooke (present-day Tampa) to Fort King (present-day Ocala)\u2014in the Dade Battle, a pivotal event that sparked the Second Seminole War."
+      "fact": "The city was named after U S Army Major Francis L Dade, who was killed—alongside most of the men he led from Fort Brooke (present-day Tampa) to Fort King (present-day Ocala)—in the Dade Battle, a pivotal event that sparked the Second Seminole War."
     },
     {
       "cityName": "Dania Beach",
@@ -1427,6 +1462,13 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The city is the headquarters of NASCAR."
+    },
+    {
+      "cityName": "Daytona Beach Shores",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,179 at the 2020 census."
     },
     {
       "cityName": "DeBary",
@@ -1601,7 +1643,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It is a suburb of Orlando and is part of the Orlando\u2013Kissimmee\u2013Sanford, Florida Metropolitan Statistical Area."
+      "fact": "It is a suburb of Orlando and is part of the Orlando–Kissimmee–Sanford, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Doral",
@@ -1671,7 +1713,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The name comes from D\u00f9n \u00c8ideann, the Scottish Gaelic name for Edinburgh, the capital city of Scotland."
+      "fact": "The name comes from Dùn Èideann, the Scottish Gaelic name for Edinburgh, the capital city of Scotland."
     },
     {
       "cityName": "Dunedin",
@@ -1769,7 +1811,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area."
     },
     {
       "cityName": "El Portal",
@@ -1944,7 +1986,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Flagler Beach is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, FL metropolitan statistical area."
+      "fact": "Flagler Beach is part of the Deltona–Daytona Beach–Ormond Beach, FL metropolitan statistical area."
     },
     {
       "cityName": "Florida City",
@@ -2035,7 +2077,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The city is a popular tourist destination with an average year-round temperature of 75.5 \u00b0F (24.2 \u00b0C) and 3000 hours of sunshine per year."
+      "fact": "The city is a popular tourist destination with an average year-round temperature of 75.5 °F (24.2 °C) and 3000 hours of sunshine per year."
     },
     {
       "cityName": "Fort Lauderdale",
@@ -2070,7 +2112,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "The forts took their name from Major William Lauderdale (1782\u20131838), younger brother of Lieutenant Colonel James Lauderdale."
+      "fact": "The forts took their name from Major William Lauderdale (1782–1838), younger brother of Lieutenant Colonel James Lauderdale."
     },
     {
       "cityName": "Fort Lauderdale",
@@ -2126,7 +2168,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Together with the larger and more residential city of Cape Coral, it anchors the Cape Coral\u2013Fort Myers metropolitan statistical area, which encompasses Lee County and has a population of 834573 as of 2023."
+      "fact": "Together with the larger and more residential city of Cape Coral, it anchors the Cape Coral–Fort Myers metropolitan statistical area, which encompasses Lee County and has a population of 834573 as of 2023."
     },
     {
       "cityName": "Fort Myers",
@@ -2168,7 +2210,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "An hour north of West Palm Beach, the city is part of the Treasure Coast region of Florida\u2019s Atlantic Coast."
+      "fact": "An hour north of West Palm Beach, the city is part of the Treasure Coast region of Florida’s Atlantic Coast."
     },
     {
       "cityName": "Fort Pierce",
@@ -2231,14 +2273,14 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area."
     },
     {
       "cityName": "Gainesville",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Gainesville is home to the University of Florida, the third-largest public university campus by enrollment in the United States as of the 2023\u20132024 academic year."
+      "fact": "Gainesville is home to the University of Florida, the third-largest public university campus by enrollment in the United States as of the 2023–2024 academic year."
     },
     {
       "cityName": "Gainesville",
@@ -2357,7 +2399,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Frederick E. Bryant, Harold J. Bryant, and William Greenwood of the Palm Beach Farms Company began buying and selling thousands of acres of land in the area by 1909."
+      "fact": "Frederick E Bryant, Harold J Bryant, and William Greenwood of the Palm Beach Farms Company began buying and selling thousands of acres of land in the area by 1909."
     },
     {
       "cityName": "Greenacres",
@@ -2371,7 +2413,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Lawrence Carter \"L. C.\" Swain then platted the original section of Greenacres beginning in 1923."
+      "fact": "Lawrence Carter \"L C.\" Swain then platted the original section of Greenacres beginning in 1923."
     },
     {
       "cityName": "Greenacres",
@@ -2462,7 +2504,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Gulfport is part of the Tampa\u2013Saint Petersburg\u2013Clearwater metropolitan statistical area."
+      "fact": "Gulfport is part of the Tampa–Saint Petersburg–Clearwater metropolitan statistical area."
     },
     {
       "cityName": "Haines City",
@@ -2637,14 +2679,14 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Highland Park is part of the Lakeland\u2013Winter Haven Metropolitan Statistical Area."
+      "fact": "Highland Park is part of the Lakeland–Winter Haven Metropolitan Statistical Area."
     },
     {
       "cityName": "Hillcrest Heights",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hillcrest Heights is part of the Lakeland\u2013Winter Haven Metropolitan Statistical Area."
+      "fact": "Hillcrest Heights is part of the Lakeland–Winter Haven Metropolitan Statistical Area."
     },
     {
       "cityName": "Hilliard",
@@ -2707,7 +2749,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Homestead is immediately north and east of Florida City, and these two cities comprise the greater Homestead\u2013Florida City area."
+      "fact": "Homestead is immediately north and east of Florida City, and these two cities comprise the greater Homestead–Florida City area."
     },
     {
       "cityName": "Homestead",
@@ -2749,7 +2791,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Naples\u2013Marco Island metropolitan area."
+      "fact": "It is part of the Naples–Marco Island metropolitan area."
     },
     {
       "cityName": "Indialantic",
@@ -2857,6 +2899,20 @@
       "fact": "It is near the 10950-acre (4430 ha) Flying Eagle Preserve."
     },
     {
+      "cityName": "Islamorada",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located directly between Miami and Key West on five islands—Tea Table Key, Lower Matecumbe Key, Upper Matecumbe Key, Windley Key, and Plantation Key—in the Florida Keys."
+    },
+    {
+      "cityName": "Islamorada",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the village had a population of 7,107, up from 6,119 in 2010."
+    },
+    {
       "cityName": "Jacksonville",
       "state": "FL",
       "source": "Wikipedia",
@@ -2910,7 +2966,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "During the brief period of British rule (1763\u20131783), a settlement developed at a narrow point on the river where cattle crossed, known as Wacca Pilatka to the Seminole and \"Cow Ford\" to the British."
+      "fact": "During the brief period of British rule (1763–1783), a settlement developed at a narrow point on the river where cattle crossed, known as Wacca Pilatka to the Seminole and \"Cow Ford\" to the British."
     },
     {
       "cityName": "Jacksonville",
@@ -2980,7 +3036,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located in the Florida Panhandle in North Florida, it is part of the Pensacola\u2013Ferry Pass\u2013Brent, Florida Metropolitan Statistical Area."
+      "fact": "Located in the Florida Panhandle in North Florida, it is part of the Pensacola–Ferry Pass–Brent, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Jennings",
@@ -3120,14 +3176,14 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Naval Air Station Key West is an important year-round training site for naval aviation due to the tropical weather, which is also the reason Key West was chosen as the site of President Harry S. Truman's Winter White House."
+      "fact": "Naval Air Station Key West is an important year-round training site for naval aviation due to the tropical weather, which is also the reason Key West was chosen as the site of President Harry S Truman's Winter White House."
     },
     {
       "cityName": "Key West",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Key West is the southern terminus of U S Route 1 \u2013 the longest north\u2013south road in the United States, as well as State Road A1A, the East Coast Greenway and, before 1935, the Florida East Coast Railway."
+      "fact": "Key West is the southern terminus of U S Route 1 – the longest north–south road in the United States, as well as State Road A1A, the East Coast Greenway and, before 1935, the Florida East Coast Railway."
     },
     {
       "cityName": "Key West",
@@ -3186,11 +3242,25 @@
       "fact": "The Key West International Airport provides airline service."
     },
     {
+      "cityName": "Keystone Heights",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city's name is derived from the state of Pennsylvania's nickname, the \"Keystone State\"."
+    },
+    {
+      "cityName": "Keystone Heights",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of the city was 1,446 at the 2020 census, up from 1,350 at the 2010 census."
+    },
+    {
       "cityName": "Kissimmee",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Kissimmee\u2013Saint Cloud, Florida urban area had a 2020 population of 418404, making it the 100th largest in the United States."
+      "fact": "The Kissimmee–Saint Cloud, Florida urban area had a 2020 population of 418404, making it the 100th largest in the United States."
     },
     {
       "cityName": "Kissimmee",
@@ -3207,20 +3277,6 @@
       "fact": "Downtown Kissimmee sits on the shores of Lake Tohopekaliga, one of Florida's best bass fishing lakes and home to the Kissimmee Lakefront Park."
     },
     {
-      "cityName": "La Crosse",
-      "state": "FL",
-      "source": "Wikipedia",
-      "factNumber": 1,
-      "fact": "The area around LaCrosse is devoted to agriculture, especially potatoes; the area is known as the \"Potato District.\" Other products of the area include tobacco, vegetables, and cattle."
-    },
-    {
-      "cityName": "La Crosse",
-      "state": "FL",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The LaCrosse is part of the Gainesville, Florida Metropolitan Statistical Area."
-    },
-    {
       "cityName": "LaBelle",
       "state": "FL",
       "source": "Wikipedia",
@@ -3235,6 +3291,20 @@
       "fact": "It was named for Laura June Hendry and Carrie Belle Hendry, daughters of pioneer cattleman Francis Asbury Hendry."
     },
     {
+      "cityName": "LaCrosse",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The area around LaCrosse is devoted to agriculture, especially potatoes; the area is known as the \"Potato District.\" Other products of the area include tobacco, vegetables, and cattle."
+    },
+    {
+      "cityName": "LaCrosse",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The LaCrosse is part of the Gainesville, Florida Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Lady Lake",
       "state": "FL",
       "source": "Wikipedia",
@@ -3246,7 +3316,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Lakeland\u2013Winter Haven Metropolitan Statistical Area."
+      "fact": "It is part of the Lakeland–Winter Haven Metropolitan Statistical Area."
     },
     {
       "cityName": "Lake Buena Vista",
@@ -3386,7 +3456,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Deltona–Daytona Beach–Ormond Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Lake Mary",
@@ -3470,7 +3540,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city's name is derived from the body of water along its eastern border known as the Lake Worth Lagoon, which was named for General William J. Worth, who led United States Army forces during the last part of the Second Seminole War."
+      "fact": "The city's name is derived from the body of water along its eastern border known as the Lake Worth Lagoon, which was named for General William J Worth, who led United States Army forces during the last part of the Second Seminole War."
     },
     {
       "cityName": "Lake Worth Beach",
@@ -3484,7 +3554,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Thereafter, Lake Worth grew rapidly during the 1920s land boom and in the decades following World War II."
+      "fact": "Thereafter, Lake Worth grew rapidly during the 1920s land boom and in the decades following World War 2."
     },
     {
       "cityName": "Lake Worth Beach",
@@ -3505,7 +3575,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lakeland is situated among several lakes including Lake Morton downtown and is sometimes locally referred to by the nickname \"Swan City\" due to its sizeable population of swans, all of whom are descendants of two mute swans given to Lakeland by Queen Elizabeth II in 1957."
+      "fact": "Lakeland is situated among several lakes including Lake Morton downtown and is sometimes locally referred to by the nickname \"Swan City\" due to its sizeable population of swans, all of whom are descendants of two mute swans given to Lakeland by Queen Elizabeth 2 in 1957."
     },
     {
       "cityName": "Lakeland",
@@ -3620,7 +3690,7 @@
       "fact": "As of the 2020 United States census, the city's population was 35954."
     },
     {
-      "cityName": "Lauderdale-By-The-Sea",
+      "cityName": "Lauderdale-by-the-Sea",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
@@ -3632,6 +3702,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city's population was 74482."
+    },
+    {
+      "cityName": "Laurel Hill",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Crestview–Fort Walton Beach–Destin, Florida Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Laurel Hill",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 584 at the 2020 US Census, up from 537 at the 2010 census."
     },
     {
       "cityName": "Lawtey",
@@ -3680,7 +3764,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lake\u2013Sumter State College and Beacon College are located in Leesburg."
+      "fact": "Lake–Sumter State College and Beacon College are located in Leesburg."
     },
     {
       "cityName": "Leesburg",
@@ -3764,14 +3848,35 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford, Florida Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Loxahatchee Groves",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was incorporated November 1, 2006, as the 38th municipality in Palm Beach County."
+    },
+    {
+      "cityName": "Loxahatchee Groves",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The first election for town council members was held on March 13, 2007."
+    },
+    {
+      "cityName": "Loxahatchee Groves",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The area had been settled since 1917, although Loxahatchee Groves did not become a municipality until 2006."
     },
     {
       "cityName": "Lynn Haven",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Panama City\u2014Panama City Beach, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Panama City—Panama City Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Macclenny",
@@ -3806,7 +3911,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Madison is home to the Four Freedoms Monument honoring Colin P. Kelly, recognized as the first U.S. hero of World War II."
+      "fact": "Madison is home to the Four Freedoms Monument honoring Colin P Kelly, recognized as the first US hero of World War 2."
     },
     {
       "cityName": "Madison",
@@ -3834,7 +3939,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "A SunRail station is located in Maitland on Highway 17\u201392."
+      "fact": "A SunRail station is located in Maitland on Highway 17–92."
     },
     {
       "cityName": "Maitland",
@@ -3911,7 +4016,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The island has a tropical climate; specifically, a tropical wet and dry or savanna type (Aw under the K\u00f6ppen system)."
+      "fact": "The island has a tropical climate; specifically, a tropical wet and dry or savanna type (Aw under the Köppen system)."
     },
     {
       "cityName": "Margate",
@@ -3939,7 +4044,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Flagler County portion of Marineland is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, FL metropolitan statistical area, while the Saint Johns County portion is part of the Jacksonville Metropolitan Statistical Area."
+      "fact": "The Flagler County portion of Marineland is part of the Deltona–Daytona Beach–Ormond Beach, FL metropolitan statistical area, while the Saint Johns County portion is part of the Jacksonville Metropolitan Statistical Area."
     },
     {
       "cityName": "Marineland",
@@ -3953,7 +4058,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Crestview\u2013Fort Walton Beach\u2013Destin, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Crestview–Fort Walton Beach–Destin, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Mascotte",
@@ -4003,6 +4108,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Downtown Melbourne and most of the city lie inland of the Indian River Lagoon, with a small part extending over to the barrier island."
+    },
+    {
+      "cityName": "Melbourne Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Palm Bay–Melbourne–Titusville, Florida Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Melbourne Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population had 3,231 residents at the 2020 United States Census, up from 3,101 at the 2010 census."
+    },
+    {
+      "cityName": "Melbourne Village",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Palm Bay–Melbourne–Titusville, Florida Metropolitan Statistical Area, and is the smallest incorporated municipality in Brevard County."
+    },
+    {
+      "cityName": "Melbourne Village",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 681 at the 2020 US Census, up from 662 at the 2010 census."
     },
     {
       "cityName": "Merritt Island",
@@ -4548,7 +4681,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Originally named \"Fulford-by-the-Sea\" in 1926, after Captain William H. Fulford of the U S Coast Guard, the city was renamed \"North Miami Beach\" in 1931."
+      "fact": "Originally named \"Fulford-by-the-Sea\" in 1926, after Captain William H Fulford of the U S Coast Guard, the city was renamed \"North Miami Beach\" in 1931."
     },
     {
       "cityName": "North Palm Beach",
@@ -4625,7 +4758,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Deltona–Daytona Beach–Ormond Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Oakland",
@@ -4730,7 +4863,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Oldsmar name dates to April 12, 1916, when automobile pioneer Ransom E. Olds purchased 37541 acres (151.92 km2) of land north of Tampa Bay to establish a planned community."
+      "fact": "The Oldsmar name dates to April 12, 1916, when automobile pioneer Ransom E Olds purchased 37541 acres (151.92 km2) of land north of Tampa Bay to establish a planned community."
     },
     {
       "cityName": "Opa-locka",
@@ -4765,7 +4898,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town's name reflects the hope of its founders for a fruit-growing industry, but their crops were destroyed in the Great Freeze of 1894\u20131895."
+      "fact": "The town's name reflects the hope of its founders for a fruit-growing industry, but their crops were destroyed in the Great Freeze of 1894–1895."
     },
     {
       "cityName": "Orange Park",
@@ -4793,7 +4926,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Town of Orchid is part of the Sebastian\u2013Vero Beach Metropolitan Statistical Area."
+      "fact": "The Town of Orchid is part of the Sebastian–Vero Beach Metropolitan Statistical Area."
     },
     {
       "cityName": "Orchid",
@@ -5066,7 +5199,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Palm Beach Gardens is a city in Palm Beach County, Florida, United States, approximately 80 miles (130\u00a0km) north of Miami."
+      "fact": "Palm Beach Gardens is a city in Palm Beach County, Florida, United States, approximately 80 miles (130 km) north of Miami."
     },
     {
       "cityName": "Palm Beach Shores",
@@ -5129,7 +5262,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "William A. Boutwell operated a dairy farm on 5 acres (2.0 ha) of land in modern-day Palm Springs beginning in 1927, which expanded to about 700 acres (280 ha) prior to his retirement in 1956."
+      "fact": "William A Boutwell operated a dairy farm on 5 acres (2.0 ha) of land in modern-day Palm Springs beginning in 1927, which expanded to about 700 acres (280 ha) prior to his retirement in 1956."
     },
     {
       "cityName": "Palm Springs",
@@ -5269,7 +5402,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Town of Paxton is located on the Florida Panhandle, and is part of the Crestview\u2013Fort Walton Beach\u2013Destin, Florida Metropolitan Statistical Area."
+      "fact": "The Town of Paxton is located on the Florida Panhandle, and is part of the Crestview–Fort Walton Beach–Destin, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Pembroke Park",
@@ -5290,7 +5423,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Pembroke Pines /\u02c8p\u025bm\u02ccbro\u028ak \u02c8pa\u026anz/ is a city in southern Broward County, Florida, United States."
+      "fact": "Pembroke Pines /ˈpɛmˌbroʊk ˈpaɪnz/ is a city in southern Broward County, Florida, United States."
     },
     {
       "cityName": "Pembroke Pines",
@@ -5388,7 +5521,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is part of the Deltona\u2013Daytona Beach\u2013Ormond Beach, Florida Metropolitan Statistical Area."
+      "fact": "The town is part of the Deltona–Daytona Beach–Ormond Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Pierson",
@@ -5458,7 +5591,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Polk City is the southern trailhead of the General James A. Van Fleet State Trail, a 29-mile paved path running through rural Florida to Mabel."
+      "fact": "Polk City is the southern trailhead of the General James A Van Fleet State Trail, a 29-mile paved path running through rural Florida to Mabel."
     },
     {
       "cityName": "Pomona Park",
@@ -5507,7 +5640,21 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Town of Ponce de Leon was named after Spanish explorer, Juan Ponce de Le\u00f3n."
+      "fact": "The Town of Ponce de Leon was named after Spanish explorer, Juan Ponce de León."
+    },
+    {
+      "cityName": "Port Charlotte",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 60,625 at the 2020 census, up from 54,392 at the 2010 census."
+    },
+    {
+      "cityName": "Port Charlotte",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Sarasota metropolitan area."
     },
     {
       "cityName": "Port Orange",
@@ -5556,7 +5703,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is located 125 miles (201\u00a0km) southeast of Orlando and 113 miles (182\u00a0km) north of Miami."
+      "fact": "It is located 125 miles (201 km) southeast of Orlando and 113 miles (182 km) north of Miami."
     },
     {
       "cityName": "Port Saint Lucie",
@@ -5668,7 +5815,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The county is part of the Tampa\u2013Saint Petersburg\u2013Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay Area."
+      "fact": "The county is part of the Tampa–Saint Petersburg–Clearwater Metropolitan Statistical Area, more commonly known as the Tampa Bay Area."
     },
     {
       "cityName": "Riviera Beach",
@@ -5717,7 +5864,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city's population was 27678 at the 2020 Census, up from 24926 at the 2010 United States census, and is part of the Palm Bay\u2212Melbourne\u2212Titusville Metropolitan Statistical Area."
+      "fact": "The city's population was 27678 at the 2020 Census, up from 24926 at the 2010 United States census, and is part of the Palm Bay−Melbourne−Titusville Metropolitan Statistical Area."
     },
     {
       "cityName": "Royal Palm Beach",
@@ -5759,7 +5906,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located 40 miles (64\u00a0km) south of downtown Jacksonville, the city is on the Atlantic coast of northeastern Florida."
+      "fact": "Located 40 miles (64 km) south of downtown Jacksonville, the city is on the Atlantic coast of northeastern Florida."
     },
     {
       "cityName": "Saint Augustine",
@@ -5767,6 +5914,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Founded in 1565 by Spanish settlers, it is the oldest continuously inhabited European-established settlement in what is now the contiguous United States."
+    },
+    {
+      "cityName": "Saint Augustine Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saint Augustine Beach or Saint Augustine Beach is a city in Saint Johns County, Florida, United States."
+    },
+    {
+      "cityName": "Saint Augustine Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,803 at the 2020 US census, up from 6,176 at the 2010 census."
+    },
+    {
+      "cityName": "Saint Augustine Beach",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Jacksonville, Florida metropolitan area."
     },
     {
       "cityName": "Saint Cloud",
@@ -5780,7 +5948,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is on the southern shore of East Lake Tohopekaliga in Central Florida, about 26 miles (41.8\u00a0km) southeast of Orlando."
+      "fact": "It is on the southern shore of East Lake Tohopekaliga in Central Florida, about 26 miles (41.8 km) southeast of Orlando."
     },
     {
       "cityName": "Saint Leo",
@@ -5941,7 +6109,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "More than half the island is made up of wildlife refuges, the largest being J. N. \"Ding\" Darling National Wildlife Refuge."
+      "fact": "More than half the island is made up of wildlife refuges, the largest being J N. \"Ding\" Darling National Wildlife Refuge."
     },
     {
       "cityName": "Sanibel",
@@ -5962,7 +6130,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "It is a barrier island\u2014a collection of sand on the leeward side of the more solid coral-rock of Pine Island."
+      "fact": "It is a barrier island—a collection of sand on the leeward side of the more solid coral-rock of Pine Island."
     },
     {
       "cityName": "Sanibel",
@@ -6032,7 +6200,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Satellite Beach is part of the Palm Bay\u2013Melbourne\u2013Titusville, Florida Metropolitan Statistical Area."
+      "fact": "Satellite Beach is part of the Palm Bay–Melbourne–Titusville, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Sea Ranch Lakes",
@@ -6137,21 +6305,21 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "On September 26, 2004, Hurricane Jeanne made landfall on Hutchinson Island, just east of Sewall's Point, exactly three weeks after Hurricane Frances did so at the same location."
+      "fact": "The population was 1,991 at the 2020 census."
     },
     {
       "cityName": "Sewall's Point",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Both the town and the peninsula are named for Capt."
+      "fact": "Both the town and the peninsula are named for Captain Henry Edwin Sewall."
     },
     {
       "cityName": "Sewall's Point",
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Henry Edwin Sewall (August 22, 1848 \u2013 August 1, 1925)."
+      "fact": "It is an eastern suburb of Stuart, which is the county seat of Martin County."
     },
     {
       "cityName": "Shalimar",
@@ -6165,7 +6333,28 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is part of the Crestview\u2013Fort Walton Beach\u2013Destin, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Crestview–Fort Walton Beach–Destin, Florida Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Siesta Key",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Florida, located between Roberts Bay and the Gulf of Mexico."
+    },
+    {
+      "cityName": "Siesta Key",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A portion of it lies within the city boundary of Sarasota, but the majority of the key is a census-designated place (CDP) in Sarasota County."
+    },
+    {
+      "cityName": "Siesta Key",
+      "state": "FL",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Siesta Key is part of the North Port–Bradenton–Sarasota, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Silver Springs",
@@ -6249,7 +6438,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The entire town is approximately 5\u20448 of a mile (1.0 km) long along South Ocean Boulevard (Florida State Road A1A), its only street."
+      "fact": "The entire town is approximately 5⁄8 of a mile (1.0 km) long along South Ocean Boulevard (Florida State Road A1A), its only street."
     },
     {
       "cityName": "South Pasadena",
@@ -6312,7 +6501,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Starke may have been named in honor of local landowner George W. Cole's fianc\u00e9e's family or in honor of Madison Starke Perry, fourth governor of Florida."
+      "fact": "Starke may have been named in honor of local landowner George W Cole's fiancée's family or in honor of Madison Starke Perry, fourth governor of Florida."
     },
     {
       "cityName": "Stuart",
@@ -6326,7 +6515,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Stuart is frequently cited as one of the best small towns to visit in the U.S., in large part because of its proximity to the Saint Lucie River, Indian River Lagoon, and the Atlantic Ocean."
+      "fact": "Stuart is frequently cited as one of the best small towns to visit in the US, in large part because of its proximity to the Saint Lucie River, Indian River Lagoon, and the Atlantic Ocean."
     },
     {
       "cityName": "Sunny Isles Beach",
@@ -6340,7 +6529,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Sunny Isles Beach (SIB, or more commonly Sunny Isles, informally \u201cLittle Moscow\u201d, and officially the City of Sunny Isles Beach) is a city located on a barrier island in northeast Miami-Dade County, Florida, United States."
+      "fact": "Sunny Isles Beach (SIB, or more commonly Sunny Isles, informally “Little Moscow”, and officially the City of Sunny Isles Beach) is a city located on a barrier island in northeast Miami-Dade County, Florida, United States."
     },
     {
       "cityName": "Sunny Isles Beach",
@@ -6529,7 +6718,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 11,
-      "fact": "Tampa is the spring training home of the New York Yankees at George M. Steinbrenner Field."
+      "fact": "Tampa is the spring training home of the New York Yankees at George M Steinbrenner Field."
     },
     {
       "cityName": "Tampa",
@@ -6578,7 +6767,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford Metropolitan Statistical Area."
     },
     {
       "cityName": "Tavares",
@@ -6606,7 +6795,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is a cross between the mandarin orange\u2014also called the tangerine\u2014and the common sweet orange; it was named after Florida-born William Chase Temple, one-time owner of the Pittsburgh Pirates, founder of the Temple Cup, and first president of the Florida Citrus Exchange."
+      "fact": "It is a cross between the mandarin orange—also called the tangerine—and the common sweet orange; it was named after Florida-born William Chase Temple, one-time owner of the Pittsburgh Pirates, founder of the Temple Cup, and first president of the Florida Citrus Exchange."
     },
     {
       "cityName": "Temple Terrace",
@@ -6732,7 +6921,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Panama City\u2014Panama City Beach, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Panama City—Panama City Beach, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Vero Beach",
@@ -6837,7 +7026,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is part of the Orlando\u2013Kissimmee\u2013Sanford, Florida Metropolitan Statistical Area."
+      "fact": "It is part of the Orlando–Kissimmee–Sanford, Florida Metropolitan Statistical Area."
     },
     {
       "cityName": "Welaka",
@@ -7026,7 +7215,7 @@
       "state": "FL",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located 14 miles (23\u00a0km) west of Downtown Orlando, it is part of the Orlando metropolitan area."
+      "fact": "Located 14 miles (23 km) west of Downtown Orlando, it is part of the Orlando metropolitan area."
     },
     {
       "cityName": "Winter Garden",

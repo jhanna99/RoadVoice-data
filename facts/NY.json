@@ -96,7 +96,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The name derives from the Greek word \u1f04\u03ba\u03c1\u03bf\u03bd signifying a summit or high point."
+      "fact": "The name derives from the Greek word ἄκρον signifying a summit or high point."
     },
     {
       "cityName": "Akron",
@@ -117,63 +117,21 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The portion in New York state is known as the federally recognized St. Regis Mohawk Reservation."
+      "fact": "The Mohawk Nation at Akwesasne is a Mohawk Nation (Kanienʼkehá:ka) territory that straddles the intersection of international borders and provincial boundaries on both banks of the Saint Lawrence River."
     },
     {
       "cityName": "Akwesasne",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community was founded in the mid-18th century by Mohawk families from Kahnawake (also known as Caughnawaga), a Catholic Mohawk village that developed south of Montreal along the St. Lawrence River."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "In Mohawk, the name Akwesasne means \"Land Where the Partridge Drums\", referring to the rich wildlife in the area."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
       "fact": "Although divided by an international border, the residents consider themselves to be one community."
     },
     {
       "cityName": "Akwesasne",
       "state": "NY",
       "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "From its development in the mid-eighteenth century, Akwesasne was considered one of the Seven Nations of Canada."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "With settlement of the border between Canada and the United States in the early 19th century, a larger portion of the territory was defined as being within the United States."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The portion in Ontario is referred to as Akwesasne Reserve No."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "59 (Mohawk: Kawehn\u00f2:ke), and the portions in Quebec as Akwesasne Reserve No."
-    },
-    {
-      "cityName": "Akwesasne",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "15 (Mohawk: Kan\u00e1:takon & Tsi Sna\u00edhne)."
+      "factNumber": 3,
+      "fact": "They maintain separate police forces due to jurisdictional issues and national laws."
     },
     {
       "cityName": "Albany",
@@ -243,7 +201,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "In 1664, the English took over the Dutch settlements, renaming the city Albany in honor of the Scottish title of the Duke of York (later James II of England and Ireland and James VII of Scotland): the Duke of Albany."
+      "fact": "In 1664, the English took over the Dutch settlements, renaming the city Albany in honor of the Scottish title of the Duke of York (later James 2 of England and Ireland and James 7 of Scotland): the Duke of Albany."
     },
     {
       "cityName": "Albany",
@@ -554,6 +512,27 @@
       "fact": "As of the 2010 Census, Angola had a population of 2127."
     },
     {
+      "cityName": "Antwerp",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Antwerp is a town in Jefferson County, New York, United States."
+    },
+    {
+      "cityName": "Antwerp",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,683 at the 2020 census."
+    },
+    {
+      "cityName": "Antwerp",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is named after Antwerp, Belgium, the home of the early investors in the town, who had organized under the name of the Antwerp Company."
+    },
+    {
       "cityName": "Apalachin",
       "state": "NY",
       "source": "Wikipedia",
@@ -617,6 +596,69 @@
       "fact": "Ardsley should not be confused with the nearby hamlet of Ardsley-on-Hudson, which is part of the village of Irvington."
     },
     {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Argyle is a village in the town of Argyle in Washington County, New York, United States."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Glens Falls Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village population was 289 at the 2020 census."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Village and Town are named after Argyllshire, Scotland."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Many of the original settlers came from Scotland and settled here in the mid-1700s."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "German, Irish, Dutch, and Polish settlers were also attracted to this area."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The 1800s found Argyle residents active in the Underground Railroad and abolitionist movement."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Moses Kill provided waterpower for mills in the village."
+    },
+    {
+      "cityName": "Argyle",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 9,
+      "fact": "The early 1900s brought a library and running water to residents."
+    },
+    {
       "cityName": "Arkport",
       "state": "NY",
       "source": "Wikipedia",
@@ -649,7 +691,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Arrochar (\u0259-ROH-sh\u0259r) is a neighborhood in northeastern Staten Island in New York City, United States."
+      "fact": "Arrochar (ə-ROH-shər) is a neighborhood in northeastern Staten Island in New York City, United States."
     },
     {
       "cityName": "Arrochar",
@@ -663,7 +705,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Arverne extends from Beach 54th Street to Beach 79th Street, along its main thoroughfare Beach Channel Drive, alternatively known as Rev. Joseph H. May Drive."
+      "fact": "Arverne extends from Beach 54th Street to Beach 79th Street, along its main thoroughfare Beach Channel Drive, alternatively known as Reverend Joseph H May Drive."
     },
     {
       "cityName": "Arverne",
@@ -677,7 +719,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was initially developed by Remington Vernam, whose signature \"R. Vernam\" inspired the name of the neighborhood."
+      "fact": "It was initially developed by Remington Vernam, whose signature \"R Vernam\" inspired the name of the neighborhood."
     },
     {
       "cityName": "Arverne",
@@ -685,6 +727,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "It is patrolled by the New York City Police Department's 100th Precinct."
+    },
+    {
+      "cityName": "Asharoken",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Asharoken is a village in the Town of Huntington in Suffolk County, on the North Shore of Long Island in New York."
+    },
+    {
+      "cityName": "Asharoken",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 654 at the 2010 census."
     },
     {
       "cityName": "Ashville",
@@ -796,7 +852,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Incorporated Village of Atlantic Beach is located on Long Beach Barrier Island \u2013 one of the outer barrier islands \u2013 which it shares with Long Beach, East Atlantic Beach, Lido Beach, and Point Lookout."
+      "fact": "The Incorporated Village of Atlantic Beach is located on Long Beach Barrier Island – one of the outer barrier islands – which it shares with Long Beach, East Atlantic Beach, Lido Beach, and Point Lookout."
     },
     {
       "cityName": "Atlantic Beach",
@@ -992,7 +1048,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Those in the area often refer to it as \"B\u2019ville.\" Baldwinsville (the village itself) is located in Lysander and Van Buren, astride the Seneca River."
+      "fact": "Those in the area often refer to it as \"B’ville.\" Baldwinsville (the village itself) is located in Lysander and Van Buren, astride the Seneca River."
     },
     {
       "cityName": "Baldwinsville",
@@ -1027,7 +1083,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The population of the village, named after Rev. Eliphalet Ball, a Congregationalist clergyman and an early settler, was 5111 at the 2020 census."
+      "fact": "The population of the village, named after Reverend Eliphalet Ball, a Congregationalist clergyman and an early settler, was 5111 at the 2020 census."
     },
     {
       "cityName": "Ballston Spa",
@@ -1041,7 +1097,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Ballston Spa School District encompassing most of the combined towns of Milton, Malta, and Ballston is often referred to locally as \u2018Ballston Spa\u2019 with the village proper being referred to as \u2018The Village\u2019 or 'Town'."
+      "fact": "The Ballston Spa School District encompassing most of the combined towns of Milton, Malta, and Ballston is often referred to locally as ‘Ballston Spa’ with the village proper being referred to as ‘The Village’ or 'Town'."
     },
     {
       "cityName": "Bardonia",
@@ -1076,7 +1132,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The name is derived from the name of the Dutch statesman Johan van Oldenbarnevelt (1547\u20131619)."
+      "fact": "The name is derived from the name of the Dutch statesman Johan van Oldenbarnevelt (1547–1619)."
     },
     {
       "cityName": "Barneveld",
@@ -1090,7 +1146,63 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Previously known as \"The River,\" the hamlet was renamed for William T. Barry, postmaster general under President Andrew Jackson."
+      "fact": "Previously known as \"The River,\" the hamlet was renamed for William T Barry, postmaster general under President Andrew Jackson."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Batavia is a city in and the county seat of Genesee County, New York, United States."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located near the center of the county, surrounded by the Town of Batavia, which is a separate municipality."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Batavia's population, as of the 2020 census, was 15,600."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is considered to be part of the Rochester–Batavia–Seneca Falls combined statistical area."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Its name comes from the Batavian Republic (1795–1806), a republican government of the Netherlands and home of the investors of the Holland Land Company."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "In 2006, a national magazine, Site Selection, ranked Batavia third among the nation's micropolitans, based on economic development."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 7,
+      "fact": "The New York State Thruway passes north of the city."
+    },
+    {
+      "cityName": "Batavia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 8,
+      "fact": "Genesee County Airport (GVQ) is also north of the city."
     },
     {
       "cityName": "Bath",
@@ -1223,7 +1335,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "After the end of World War II, residential development in Bayside increased dramatically, particularly because of its station on the Long Island Rail Road's Port Washington Branch, where a commuter could ride one train straight to Manhattan."
+      "fact": "After the end of World War 2, residential development in Bayside increased dramatically, particularly because of its station on the Long Island Rail Road's Port Washington Branch, where a commuter could ride one train straight to Manhattan."
     },
     {
       "cityName": "Bayside",
@@ -1335,7 +1447,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The LIMP was built by William Kissam Vanderbilt, a descendant of the family that presided over the New York Central Railroad and Western Union; it is now part of the Brooklyn\u2013Queens Greenway."
+      "fact": "The LIMP was built by William Kissam Vanderbilt, a descendant of the family that presided over the New York Central Railroad and Western Union; it is now part of the Brooklyn–Queens Greenway."
     },
     {
       "cityName": "Bellaire",
@@ -1408,6 +1520,34 @@
       "fact": "Belle Harbor was the site of the 2001 crash of American Airlines Flight 587, which killed 265 people."
     },
     {
+      "cityName": "Belle Terre",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Belle Terre is a village in the Town of Brookhaven in Suffolk County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Belle Terre",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 808 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Bellerose",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bellerose is a village in the Town of Hempstead in Nassau County, on Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Bellerose",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,173 at the time of 2020 census."
+    },
+    {
       "cityName": "Bellmore",
       "state": "NY",
       "source": "Wikipedia",
@@ -1454,7 +1594,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "John F. Kennedy Int'l Airport is located within 15 miles (24 km) of Bellmore, making it convenient for travelers."
+      "fact": "John F Kennedy Int'l Airport is located within 15 miles (24 km) of Bellmore, making it convenient for travelers."
     },
     {
       "cityName": "Bellport",
@@ -1734,7 +1874,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bloomingdale is a hamlet located in the town of St. Armand, Essex County, in the State of New York, United States."
+      "fact": "Bloomingdale is a hamlet located in the town of Saint Armand, Essex County, in the State of New York, United States."
     },
     {
       "cityName": "Blue Point",
@@ -1790,7 +1930,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named after Sim\u00f3n Bol\u00edvar."
+      "fact": "The town is named after Simón Bolívar."
     },
     {
       "cityName": "Bolivar",
@@ -1833,6 +1973,48 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Bombay is in the northwestern part of Franklin County."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boonville is a town in Oneida County, New York, United States."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is in the northeastern section of the county."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 4,518 at the 2020 census."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town includes a village, also called Boonville."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town and village are named after Gerrit Boon, an agent of the Holland Land Company."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "As of 2024, the village's mayor is Judith Dellerba."
     },
     {
       "cityName": "Borough Park",
@@ -1954,6 +2136,48 @@
       "fact": "The village, which is the most densely populated portion of the county, was named for two early farmer landowners, Walter and James Brewster, who donated land for the Brewster railroad station in 1848."
     },
     {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Briarcliff Manor is a suburban village in Westchester County, New York, 30 miles (50 km) north of New York City."
+    },
+    {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is on 5.9 square miles (15 km2) of land on the east bank of the Hudson River, geographically shared by the towns of Mount Pleasant and Ossining."
+    },
+    {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Briarcliff Manor includes the communities of Scarborough and Chilmark, and is served by the Scarborough station of the Metro-North Railroad's Hudson Line."
+    },
+    {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "A section of the village, including buildings and homes covering 376 acres (152 ha), is part of the Scarborough Historic District and was listed on the National Register of Historic Places in 1984."
+    },
+    {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The village motto is \"A village between two rivers\", reflecting Briarcliff Manor's location between the Hudson and Pocantico Rivers."
+    },
+    {
+      "cityName": "Briarcliff Manor",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Although the Pocantico is the primary boundary between Mount Pleasant and Ossining, since its incorporation the village has spread into Mount Pleasant."
+    },
+    {
       "cityName": "Bridgehampton",
       "state": "NY",
       "source": "Wikipedia",
@@ -1979,7 +2203,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "At the head of Sagg Pond, the settlers established a community called Bullhead, later renamed Bridgehampton\u2014after the bridge built across the pond."
+      "fact": "At the head of Sagg Pond, the settlers established a community called Bullhead, later renamed Bridgehampton—after the bridge built across the pond."
     },
     {
       "cityName": "Bridgehampton",
@@ -2140,7 +2364,7 @@
       "state": "NY",
       "source": "Wikidata",
       "factNumber": 1,
-      "fact": "Dennis M. Ritchie was born in Bronxville."
+      "fact": "Dennis M Ritchie was born in Bronxville."
     },
     {
       "cityName": "Bronxville",
@@ -2245,7 +2469,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It has several bridge and tunnel connections to the borough of Manhattan, across the East River, including the architecturally significant Brooklyn Bridge, and is connected to Staten Island by the Verrazzano\u2013Narrows Bridge."
+      "fact": "It has several bridge and tunnel connections to the borough of Manhattan, across the East River, including the architecturally significant Brooklyn Bridge, and is connected to Staten Island by the Verrazzano–Narrows Bridge."
     },
     {
       "cityName": "Brooklyn",
@@ -2297,6 +2521,20 @@
       "fact": "With Jews forming around a fifth of its population, the borough has been described as one of the main global hubs for Jewish culture."
     },
     {
+      "cityName": "Brookville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookville is a village located within the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Brookville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,939 at the time of the 2020 census."
+    },
+    {
       "cityName": "Brownsville",
       "state": "NY",
       "source": "Wikidata",
@@ -2315,7 +2553,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The neighborhood is bordered by Crown Heights to the northwest; Bedford\u2013Stuyvesant and the subsection of Ocean Hill to the north; East New York to the east; Canarsie to the south; and East Flatbush to the west."
+      "fact": "The neighborhood is bordered by Crown Heights to the northwest; Bedford–Stuyvesant and the subsection of Ocean Hill to the north; East New York to the east; Canarsie to the south; and East Flatbush to the west."
     },
     {
       "cityName": "Brownsville",
@@ -2420,7 +2658,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It lies in Western New York at the eastern end of Lake Erie and at the head of the Niagara River on the Canada\u2013United States border."
+      "fact": "It lies in Western New York at the eastern end of Lake Erie and at the head of the Niagara River on the Canada–United States border."
     },
     {
       "cityName": "Buffalo",
@@ -2434,7 +2672,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Buffalo\u2013Niagara Falls metropolitan area, with over 1.16 million residents, is the 51st-largest metropolitan area in the United States."
+      "fact": "The Buffalo–Niagara Falls metropolitan area, with over 1.16 million residents, is the 51st-largest metropolitan area in the United States."
     },
     {
       "cityName": "Buffalo",
@@ -2553,7 +2791,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is bound by the neighborhood of Ridgewood, Queens, to the northeast; Williamsburg to the northwest; the cemeteries of Highland Park to the southeast; and Bedford\u2013Stuyvesant to the south and southwest."
+      "fact": "It is bound by the neighborhood of Ridgewood, Queens, to the northeast; Williamsburg to the northwest; the cemeteries of Highland Park to the southeast; and Bedford–Stuyvesant to the south and southwest."
     },
     {
       "cityName": "Bushwick",
@@ -2693,7 +2931,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is bounded by Springfield Boulevard, Francis Lewis Boulevard, and St. Albans to the west, the Elmont, Nassau County border on the east, Queens Village to the north, and Montefiore Cemetery and Laurelton, Springfield Gardens, and Rosedale to the south."
+      "fact": "It is bounded by Springfield Boulevard, Francis Lewis Boulevard, and Saint Albans to the west, the Elmont, Nassau County border on the east, Queens Village to the north, and Montefiore Cemetery and Laurelton, Springfield Gardens, and Rosedale to the south."
     },
     {
       "cityName": "Cambria Heights",
@@ -2847,77 +3085,21 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Canandaigua is part of the Greater Rochester area and is Rochester\u2019s southernmost suburb."
+      "fact": "Canandaigua is part of the Greater Rochester area and is Rochester’s southernmost suburb."
     },
     {
       "cityName": "Canarsie",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is adjacent to the neighborhoods of East Flatbush to the west, Flatlands and Bergen Beach to the southwest, Starrett City to the east, East New York to the northeast, and Brownsville to the north."
+      "fact": "Canarsie is bordered on the east by Fresh Creek Basin, East 108th Street, and Louisiana Avenue, on the north by Linden Boulevard, on the west by Ralph Avenue, on the southwest by Paerdegat Basin, and on the south by Jamaica Bay."
     },
     {
       "cityName": "Canarsie",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "After European settlement, Canarsie was initially a fishing community, but became a popular summer resort in the late 19th and early 20th centuries."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "By the late 1930s and early 1940, the resorts had been destroyed, and Canarsie was developed as a largely Italian American and Jewish suburb."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Canarsie ( k\u0259-NAR-see) is a mostly residential neighborhood in the southeastern portion of Brooklyn, New York City."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Canarsie is bordered on the east by Fresh Creek Basin, East 108th Street, and Louisiana Avenue; on the north by Linden Boulevard; on the west by Ralph Avenue; on the southwest by Paerdegat Basin; and on the south by Jamaica Bay."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "The area near Canarsie was originally settled by the Canarse Native Americans."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The community's name is adapted from a Lenape word meaning \"fenced area\"."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "In the 1970s, racial tensions developed around an argument over the zoning of the area's schools, and in the aftermath, Canarsie became a mainly black neighborhood with a high West Indian population in the late 1990s."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "It is patrolled by the 69th Precinct of the New York City Police Department."
-    },
-    {
-      "cityName": "Canarsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "Fire services are provided by the New York City Fire Department's Engine Co."
+      "fact": "It is adjacent to the neighborhoods of East Flatbush to the west, Flatlands and Bergen Beach to the southwest, Starrett City to the east, East New York to the northeast, and Brownsville to the north."
     },
     {
       "cityName": "Canaseraga",
@@ -3001,7 +3183,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Canton is the home of St. Lawrence University and the State University of New York at Canton."
+      "fact": "Canton is the home of Saint Lawrence University and the State University of New York at Canton."
     },
     {
       "cityName": "Canton",
@@ -3015,7 +3197,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Canton is an incorporated town in St. Lawrence County, New York, United States."
+      "fact": "Canton is an incorporated town in Saint Lawrence County, New York, United States."
     },
     {
       "cityName": "Canton",
@@ -3078,7 +3260,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The hamlet is the site of the historic County Court House (built 1814), the David D. Bruen County Office Building, and other structures, and borders Lake Gleneida."
+      "fact": "The hamlet is the site of the historic County Court House (built 1814), the David D Bruen County Office Building, and other structures, and borders Lake Gleneida."
     },
     {
       "cityName": "Carmel Hamlet",
@@ -3214,6 +3396,20 @@
       "fact": "Its first Chairman of the Board was local resident Mike Martin."
     },
     {
+      "cityName": "Castorland",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castorland is a village in Lewis County, New York, United States; it is north of Lowville and southeast of Carthage."
+    },
+    {
+      "cityName": "Castorland",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 360 in 2019."
+    },
+    {
       "cityName": "Cato",
       "state": "NY",
       "source": "Wikipedia",
@@ -3319,11 +3515,67 @@
       "fact": "The Town of Cayuta occupies the southeastern corner of the county and is northeast of Elmira."
     },
     {
+      "cityName": "Cazenovia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cazenovia is an incorporated town in Madison County, New York, United States."
+    },
+    {
+      "cityName": "Cazenovia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,740 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Cazenovia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is named after Theophile Cazenove, the Agent General of the Holland Land Company."
+    },
+    {
+      "cityName": "Cazenovia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village of Cazenovia is located in the center of the town."
+    },
+    {
+      "cityName": "Cazenovia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The town is on the county's western border."
+    },
+    {
       "cityName": "Cedarhurst",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Incorporated Village of Cedarhurst is located in the region of Long Island's South Shore known as the Five Towns."
+    },
+    {
+      "cityName": "Celoron",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Celoron is a village in Chautauqua County, New York, United States."
+    },
+    {
+      "cityName": "Celoron",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the town of Ellicott and sits on the west boundary of the city of Jamestown."
+    },
+    {
+      "cityName": "Celoron",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population of Celoron was 1,082 at the 2020 census."
     },
     {
       "cityName": "Center Moriches",
@@ -3414,7 +3666,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "In Centerport, an example of this is the estate of William Kissam Vanderbilt II, otherwise known as Eagles Nest."
+      "fact": "In Centerport, an example of this is the estate of William Kissam Vanderbilt 2, otherwise known as Eagles Nest."
     },
     {
       "cityName": "Central Square",
@@ -3582,7 +3834,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Chazy is 8 miles (13 km) south of the Canada\u2013United States border."
+      "fact": "Chazy is 8 miles (13 km) south of the Canada–United States border."
     },
     {
       "cityName": "Cheektowaga",
@@ -3603,7 +3855,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Cheektowaga ( CHEEK-t\u0259-WAH-g\u0259; Seneca: Chictawauga) is a town in Erie County, New York, United States."
+      "fact": "Cheektowaga ( CHEEK-tə-WAH-gə; Seneca: Chictawauga) is a town in Erie County, New York, United States."
     },
     {
       "cityName": "Cheektowaga",
@@ -3687,7 +3939,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Chittenango is the birthplace of L. Frank Baum, author of The Wonderful Wizard of Oz."
+      "fact": "Chittenango is the birthplace of L Frank Baum, author of The Wonderful Wizard of Oz."
     },
     {
       "cityName": "Chittenango",
@@ -3757,7 +4009,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is named in honor of Prince William, Duke of Clarence and St Andrews (1765\u20131837), the third son of King George III and later king himself, as William IV."
+      "fact": "The town is named in honor of Prince William, Duke of Clarence and St Andrews (1765–1837), the third son of King George 3 and later king himself, as William 4."
     },
     {
       "cityName": "Clarence",
@@ -3834,7 +4086,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named after John M. Clayton, a federal political leader from Delaware."
+      "fact": "The town is named after John M Clayton, a federal political leader from Delaware."
     },
     {
       "cityName": "Clayton",
@@ -3865,6 +4117,27 @@
       "fact": "The village of Clayville (formerly called Paris Furnace) is inside the town of Paris."
     },
     {
+      "cityName": "Cleveland",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cleveland is a village in Oswego County, New York, United States."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 750 at the 2010 census."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is located at the eastern boundary of the town of Constantia on NY Route 49."
+    },
+    {
       "cityName": "Clifton Park",
       "state": "NY",
       "source": "Wikipedia",
@@ -3877,6 +4150,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town's name is derived from an early land patent."
+    },
+    {
+      "cityName": "Clifton Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clifton Springs is a village located in Ontario County, New York, United States."
+    },
+    {
+      "cityName": "Clifton Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,209 at the 2020 Census."
+    },
+    {
+      "cityName": "Clifton Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village takes its name from local mineral springs."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clinton, New York may refer to:Clinton County, New York Clinton, Clinton County, New York Clinton, Dutchess County, New York Clinton, Oneida County, New York Clinton, Manhattan, or Hell's Kitchen, a neighborhood in New York City East Greenbush, New York, originally Clinton, a town in Rensselaer County, New York"
     },
     {
       "cityName": "Clyde",
@@ -3960,7 +4261,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Cohoes ( k\u0259-HOHZ) is an incorporated city located in the northeast corner of Albany County in the U S state of New York."
+      "fact": "Cohoes ( kə-HOHZ) is an incorporated city located in the northeast corner of Albany County in the U S state of New York."
     },
     {
       "cityName": "Cohoes",
@@ -3981,7 +4282,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The name Cohoes is believed to be derived from a Mohawk term, Kah\u00f3n:ios, referring to the Cohoes Falls and meaning \"Place of the Falling Canoe,\" an interpretation noted by Horatio Gates Spafford in his 1823 publication \"A Gazetteer of the State of New York\"."
+      "fact": "The name Cohoes is believed to be derived from a Mohawk term, Kahón:ios, referring to the Cohoes Falls and meaning \"Place of the Falling Canoe,\" an interpretation noted by Horatio Gates Spafford in his 1823 publication \"A Gazetteer of the State of New York\"."
     },
     {
       "cityName": "Cohoes",
@@ -4002,7 +4303,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is the birthplace of General Gouverneur K. Warren, who was an important figure in the Union Army during the Civil War."
+      "fact": "The town is the birthplace of General Gouverneur K Warren, who was an important figure in the Union Army during the Civil War."
     },
     {
       "cityName": "Cold Spring",
@@ -4058,7 +4359,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town derives its name from Cadwallader D. Colden, a state senator."
+      "fact": "The town derives its name from Cadwallader D Colden, a state senator."
     },
     {
       "cityName": "Colden",
@@ -4219,7 +4520,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "However, they declined in popularity after World War II and, following years of neglect, several structures were torn down."
+      "fact": "However, they declined in popularity after World War 2 and, following years of neglect, several structures were torn down."
     },
     {
       "cityName": "Coney Island",
@@ -4324,7 +4625,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is in the northern part of the county, along the Canada\u2013United States border north of Malone."
+      "fact": "The town is in the northern part of the county, along the Canada–United States border north of Malone."
     },
     {
       "cityName": "Constableville",
@@ -4432,18 +4733,53 @@
       "fact": "The town contains a village also named Corinth."
     },
     {
+      "cityName": "Corning",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corning is a city in Steuben County, New York, United States, on the Chemung River."
+    },
+    {
+      "cityName": "Corning",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 10,551 at the 2020 census."
+    },
+    {
+      "cityName": "Corning",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is named for Erastus Corning, an Albany financier and railroad executive who was an investor in the company that developed the community."
+    },
+    {
+      "cityName": "Corning",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The city is best known as the headquarters of Fortune 500 company Corning Incorporated, formerly Corning Glass Works, a manufacturer of glass and ceramic products for industrial, scientific and technical uses."
+    },
+    {
+      "cityName": "Corning",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "Corning is roughly equidistant from New York City and Toronto, being about 220 miles (350 km) from both."
+    },
+    {
       "cityName": "Cornwall",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Commuter rail service to North Jersey and New York City is available via the Salisbury Mills\u2013Cornwall train station, operated by NJ Transit on behalf of Metro-North Railroad."
+      "fact": "Commuter rail service to North Jersey and New York City is available via the Salisbury Mills–Cornwall train station, operated by NJ Transit on behalf of Metro-North Railroad."
     },
     {
       "cityName": "Cornwall",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Government offices, churches, parks, the riverfront, and St. Luke's Cornwall Hospital, a part of the Montefiore Health System, are situated within walking distance of downtown."
+      "fact": "Government offices, churches, parks, the riverfront, and Saint Luke's Cornwall Hospital, a part of the Montefiore Health System, are situated within walking distance of downtown."
     },
     {
       "cityName": "Cornwall",
@@ -4492,14 +4828,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "After World War II, the majority of the neighborhood's residents were mostly Italian, German, Irish and of other European ancestries."
+      "fact": "After World War 2, the majority of the neighborhood's residents were mostly Italian, German, Irish and of other European ancestries."
     },
     {
       "cityName": "Corona",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It borders Flushing and Flushing Meadows\u2013Corona Park to the east, Jackson Heights and Elmhurst to the west, Forest Hills and Rego Park to the south, and East Elmhurst to the north."
+      "fact": "It borders Flushing and Flushing Meadows–Corona Park to the east, Jackson Heights and Elmhurst to the west, Forest Hills and Rego Park to the south, and East Elmhurst to the north."
     },
     {
       "cityName": "Corona",
@@ -4579,6 +4915,20 @@
       "fact": "It is a mostly residential area."
     },
     {
+      "cityName": "Cove Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cove Neck is a village located within the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York."
+    },
+    {
+      "cityName": "Cove Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 286 at the 2010 census."
+    },
+    {
       "cityName": "Coxsackie",
       "state": "NY",
       "source": "Wikipedia",
@@ -4625,7 +4975,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Both the village and town are locally pronounced \\Kr\u014d-gun\\ (with a hard g and silent h, emphasis on the first syllable)."
+      "fact": "Both the village and town are locally pronounced \\Krō-gun\\ (with a hard g and silent h, emphasis on the first syllable)."
     },
     {
       "cityName": "Cropseyville",
@@ -4842,7 +5192,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The name de Ruyter (de Ru\u0133ter) means \"the Rider\"."
+      "fact": "The name de Ruyter (de Ruĳter) means \"the Rider\"."
     },
     {
       "cityName": "DeRuyter",
@@ -4982,7 +5332,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Village residents voted on January 17, 2017, to not dissolve the Village of Depew into the Towns of Lancaster and Cheektowaga, by a margin of 3006\u20131165."
+      "fact": "Village residents voted on January 17, 2017, to not dissolve the Village of Depew into the Towns of Lancaster and Cheektowaga, by a margin of 3006–1165."
     },
     {
       "cityName": "Deposit",
@@ -5171,7 +5521,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Douglaston\u2013Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens."
+      "fact": "Douglaston–Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens."
     },
     {
       "cityName": "Douglaston",
@@ -5206,7 +5556,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Douglaston\u2013Little Neck represents one of the least traditionally urban communities in New York City, with many areas (particularly those north of Northern Boulevard) having a distinctly suburban feel, similar to that of Nassau County towns located nearby such as Great Neck."
+      "fact": "Douglaston–Little Neck represents one of the least traditionally urban communities in New York City, with many areas (particularly those north of Northern Boulevard) having a distinctly suburban feel, similar to that of Nassau County towns located nearby such as Great Neck."
     },
     {
       "cityName": "Douglaston",
@@ -5409,7 +5759,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The village's East and West Main Street runs along the Madison\u2013Chenango county line."
+      "fact": "The village's East and West Main Street runs along the Madison–Chenango county line."
     },
     {
       "cityName": "Earlville",
@@ -5668,7 +6018,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The hamlet is mostly a commercial and industrial area, and it also includes Nassau Community College \u2013 along with the majority of Hofstra University's northern campus."
+      "fact": "The hamlet is mostly a commercial and industrial area, and it also includes Nassau Community College – along with the majority of Hofstra University's northern campus."
     },
     {
       "cityName": "East Glenville",
@@ -6060,7 +6410,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Before that, it was part of the Setauket\u2013East Setauket CDP."
+      "fact": "Before that, it was part of the Setauket–East Setauket CDP."
     },
     {
       "cityName": "East Syracuse",
@@ -6158,7 +6508,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "By the middle of the century, it grew to include a large immigrant population \u2013 including what was once referred to as Manhattan's Little Germany \u2013 and was considered part of the nearby Lower East Side."
+      "fact": "By the middle of the century, it grew to include a large immigrant population – including what was once referred to as Manhattan's Little Germany – and was considered part of the nearby Lower East Side."
     },
     {
       "cityName": "East Village",
@@ -6214,7 +6564,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "After World War II, the late 19th and early 20th century resorts and cheap bungalows that lined the boardwalk were considered outdated and undesirable by city officials."
+      "fact": "After World War 2, the late 19th and early 20th century resorts and cheap bungalows that lined the boardwalk were considered outdated and undesirable by city officials."
     },
     {
       "cityName": "Edgemere",
@@ -6228,7 +6578,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Edgemere was founded in 1892 by Frederick J. Lancaster, who originally called it New Venice."
+      "fact": "Edgemere was founded in 1892 by Frederick J Lancaster, who originally called it New Venice."
     },
     {
       "cityName": "Edgemere",
@@ -6364,6 +6714,27 @@
       "fact": "Its population was 4167 at the 2020 census."
     },
     {
+      "cityName": "Ellicottville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ellicottville is a town in Cattaraugus County, New York, United States."
+    },
+    {
+      "cityName": "Ellicottville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,317 at the 2020 census."
+    },
+    {
+      "cityName": "Ellicottville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is named after Joseph Ellicott, principal land agent of the Holland Land Company."
+    },
+    {
       "cityName": "Ellisburg",
       "state": "NY",
       "source": "Wikipedia",
@@ -6448,6 +6819,41 @@
       "fact": "It is in the Southern Tier of New York, a short distance north of the Pennsylvania state line."
     },
     {
+      "cityName": "Elmira Heights",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Elmira Heights is a village in Chemung County, New York, United States."
+    },
+    {
+      "cityName": "Elmira Heights",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,097 at the 2010 census."
+    },
+    {
+      "cityName": "Elmira Heights",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is primarily within the town of Horseheads, but part of the village is in the town of Elmira."
+    },
+    {
+      "cityName": "Elmira Heights",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village is a northern suburb of the city of Elmira."
+    },
+    {
+      "cityName": "Elmira Heights",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "It is part of the Elmira, New York Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Elmont",
       "state": "NY",
       "source": "Wikipedia",
@@ -6516,6 +6922,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The hamlet, given its location in the center of the Town of Huntington, is referred to as \"The Heart Of Huntington.\""
+    },
+    {
+      "cityName": "Endicott",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 13,392 at the 2010 census."
+    },
+    {
+      "cityName": "Endicott",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Binghamton metropolitan area."
+    },
+    {
+      "cityName": "Endicott",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is named after Henry B Endicott, a founding member of the Endicott Johnson Corporation shoe manufacturing company, who founded the community as the \"Home of the Square Deal\"."
     },
     {
       "cityName": "Endwell",
@@ -6851,14 +7278,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The first U. S. Post Office in New York state was established in Fishkill by Samuel Loudon, its first Postmaster."
+      "fact": "The first U S Post Office in New York state was established in Fishkill by Samuel Loudon, its first Postmaster."
     },
     {
       "cityName": "Flatbush",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Post-World War II, the neighborhood underwent tremendous demographic shifts, becoming home to increasing numbers of immigrants from the Caribbean, Asia, and elsewhere."
+      "fact": "Post-World War 2, the neighborhood underwent tremendous demographic shifts, becoming home to increasing numbers of immigrants from the Caribbean, Asia, and elsewhere."
     },
     {
       "cityName": "Flatbush",
@@ -6984,7 +7411,21 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The neighborhood of Floral Park in the New York City borough of Queens is adjacent to \u2013 but not part of \u2013 the village."
+      "fact": "The neighborhood of Floral Park in the New York City borough of Queens is adjacent to – but not part of – the village."
+    },
+    {
+      "cityName": "Florida",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "This is a list of municipalities in New York other than towns, which includes all 532 villages and 62 cities of New York State."
+    },
+    {
+      "cityName": "Florida",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Of the total 594 municipalities, 587 are non-town municipalities, while six are coterminous town-villages, villages that are coterminous with their town, and one is a consolidated town-village, where the village is smaller in size and population than the town, but they still share the same government."
     },
     {
       "cityName": "Flower Hill",
@@ -7152,7 +7593,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Its main subway line is the IND Concourse Line (B and \u200bD trains), operating under the Grand Concourse, with the IRT Jerome Avenue Line (4 train) on its western border."
+      "fact": "Its main subway line is the IND Concourse Line (B and ​D trains), operating under the Grand Concourse, with the IRT Jerome Avenue Line (4 train) on its western border."
     },
     {
       "cityName": "Fordham",
@@ -7187,7 +7628,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Dedicated in 1937, it educates students in grades 9\u201312 and is operated by the New York City Department of Education."
+      "fact": "Dedicated in 1937, it educates students in grades 9–12 and is operated by the New York City Department of Education."
     },
     {
       "cityName": "Forest Hills",
@@ -7243,7 +7684,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town is on the county's northern border, which is also the Canada\u2013United States border."
+      "fact": "The town is on the county's northern border, which is also the Canada–United States border."
     },
     {
       "cityName": "Fort Drum",
@@ -7264,7 +7705,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "In the region, winter temperatures can reach as low as \u221230 \u00b0F (\u221234 \u00b0C)."
+      "fact": "In the region, winter temperatures can reach as low as −30 °F (−34 °C)."
     },
     {
       "cityName": "Fort Edward",
@@ -7600,7 +8041,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named after General Edmund P. Gaines."
+      "fact": "The town is named after General Edmund P Gaines."
     },
     {
       "cityName": "Gainesville",
@@ -7705,7 +8146,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Rockland Community College symbolically recognized David J. Rojas of Garnerville as the \"millionth graduate\" of the State University of New York (SUNY) at the 46th commencement ceremony held on June 3, 2007."
+      "fact": "Rockland Community College symbolically recognized David J Rojas of Garnerville as the \"millionth graduate\" of the State University of New York (SUNY) at the 46th commencement ceremony held on June 3, 2007."
     },
     {
       "cityName": "Garnerville",
@@ -7740,7 +8181,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The schools in Garnerville include North Garnerville Elementary School and St. Gregory Barbarigo Parochial School; the hamlet is part of the North Rockland Central School District."
+      "fact": "The schools in Garnerville include North Garnerville Elementary School and Saint Gregory Barbarigo Parochial School; the hamlet is part of the North Rockland Central School District."
     },
     {
       "cityName": "Garrison",
@@ -7852,7 +8293,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The English name \"Geneseo\" is an anglicization of the Seneca name for the earlier Seneca town there, Jo\u2019n\u00e9hsiyoh, meaning \"Good sand there.\" The village of Geneseo lies within the western portion of the town."
+      "fact": "The English name \"Geneseo\" is an anglicization of the Seneca name for the earlier Seneca town there, Jo’néhsiyoh, meaning \"Good sand there.\" The village of Geneseo lies within the western portion of the town."
     },
     {
       "cityName": "Geneva",
@@ -7950,7 +8391,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Of Nassau County's five municipalities, Glen Cove is one of two that are cities, rather than towns \u2013 the other being Long Beach."
+      "fact": "Of Nassau County's five municipalities, Glen Cove is one of two that are cities, rather than towns – the other being Long Beach."
     },
     {
       "cityName": "Glen Cove",
@@ -7971,7 +8412,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The local opportunities\u2014for potential business owners, entrepreneurs, and those seeking employment\u2014attracted numerous immigrants from Europe, largely from Ireland, Italy, and Eastern Europe."
+      "fact": "The local opportunities—for potential business owners, entrepreneurs, and those seeking employment—attracted numerous immigrants from Europe, largely from Ireland, Italy, and Eastern Europe."
     },
     {
       "cityName": "Glen Cove",
@@ -8090,7 +8531,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Glens Falls is known as \"Hometown U.S.A.\", a title Look magazine gave it in 1944."
+      "fact": "Glens Falls is known as \"Hometown USA\", a title Look magazine gave it in 1944."
     },
     {
       "cityName": "Glens Falls",
@@ -8202,7 +8643,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The town is near the southwestern border of St. Lawrence County and is southwest of Canton, the county seat."
+      "fact": "The town is near the southwestern border of Saint Lawrence County and is southwest of Canton, the county seat."
     },
     {
       "cityName": "Gowanda",
@@ -8265,14 +8706,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town's name is derived from the French name La Grande \u00cele; Grand Island is the largest island in the Niagara River and the third largest in New York state."
+      "fact": "The town's name is derived from the French name La Grande Île; Grand Island is the largest island in the Niagara River and the third largest in New York state."
     },
     {
       "cityName": "Grand Island",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town of Grand Island is in the northwestern corner of Erie County, and on the Canada\u2013US border, although there is no river crossing to Canada."
+      "fact": "The town of Grand Island is in the northwestern corner of Erie County, and on the Canada–US border, although there is no river crossing to Canada."
     },
     {
       "cityName": "Grand Island",
@@ -8293,7 +8734,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The phrase La Grande \u00cele appears on the town seal."
+      "fact": "The phrase La Grande Île appears on the town seal."
     },
     {
       "cityName": "Grand Island",
@@ -8527,6 +8968,34 @@
       "fact": "Great Neck Gardens is featured on many maps as a name of one such hamlet, even as the name is seldom used by local residents."
     },
     {
+      "cityName": "Great Neck Estates",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Great Neck Estates is a village on the Great Neck Peninsula in the Town of North Hempstead, in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Great Neck Estates",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,990 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Great Neck Plaza",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Great Neck Plaza is a village on the Great Neck Peninsula in the Town of North Hempstead, in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Great Neck Plaza",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,482 at the time of the 2020 census."
+    },
+    {
       "cityName": "Great Valley",
       "state": "NY",
       "source": "Wikipedia",
@@ -8615,7 +9084,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is bordered on the southwest by Williamsburg at Bushwick Inlet Park and McCarren Park; on the southeast by the Brooklyn\u2013Queens Expressway and East Williamsburg; on the north by Newtown Creek and the neighborhood of Long Island City in Queens; and on the west by the East River."
+      "fact": "It is bordered on the southwest by Williamsburg at Bushwick Inlet Park and McCarren Park; on the southeast by the Brooklyn–Queens Expressway and East Williamsburg; on the north by Newtown Creek and the neighborhood of Long Island City in Queens; and on the west by the East River."
     },
     {
       "cityName": "Greenpoint",
@@ -8853,7 +9322,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Town of Hammond is in the northwestern corner of St. Lawrence County."
+      "fact": "The Town of Hammond is in the northwestern corner of Saint Lawrence County."
     },
     {
       "cityName": "Hammond",
@@ -8986,70 +9455,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Harlem is a neighborhood in Upper Manhattan, New York City."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "It is bounded roughly by the Hudson River on the west; the Harlem River and 155th Street on the north; Fifth Avenue on the east; and 110th Street on the south."
     },
     {
       "cityName": "Harlem",
       "state": "NY",
       "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "The greater Harlem area encompasses several other neighborhoods and extends west and north to 155th Street, east to the East River, and south to Martin Luther King Jr."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Boulevard, Central Park, and East 96th Street."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Originally a Dutch village, formally organized in 1658, it is named after the city of Haarlem in the Netherlands."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Harlem's history has been defined by a series of economic boom-and-bust cycles, with significant population shifts accompanying each cycle."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "Harlem was predominantly occupied by Jewish and Italian Americans in the late 19th century, while African-American residents began to arrive in large numbers during the Great Migration in the early 20th century."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "In the 1920s and 1930s, Central and West Harlem were the center of the Harlem Renaissance, a major African-American cultural movement."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "With job losses during the Great Depression of the 1930s and the deindustrialization of New York City after World War II, rates of crime and poverty increased significantly."
-    },
-    {
-      "cityName": "Harlem",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "In the 21st century, crime rates decreased significantly, and Harlem started to gentrify."
+      "factNumber": 2,
+      "fact": "The greater Harlem area encompasses several other neighborhoods and extends west and north to 155th Street, east to the East River, and south to Martin Luther King Junior Boulevard, Central Park, and East 96th Street."
     },
     {
       "cityName": "Harpursville",
@@ -9073,6 +9486,27 @@
       "fact": "The region is named after Asa Harris, a former officer in the American Colonial Army, who established a tavern near the top of a low hill northeast of Buffalo."
     },
     {
+      "cityName": "Harrison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harrison is a town and village in Westchester County, New York, United States."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a suburb of New York City, located 22 miles (35 km) northeast of Manhattan."
+    },
+    {
+      "cityName": "Harrison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 28,218 at the 2020 census."
+    },
+    {
       "cityName": "Harrisville",
       "state": "NY",
       "source": "Wikipedia",
@@ -9084,7 +9518,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "On May 15, 2018, residents voted to dissolve the village by a vote of 112\u201370, and it took effect on December 31, 2018."
+      "fact": "On May 15, 2018, residents voted to dissolve the village by a vote of 112–70, and it took effect on December 31, 2018."
     },
     {
       "cityName": "Harrisville",
@@ -9350,7 +9784,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Great Lakes Seaway Trail runs through the town along New York State Route 3 and includes a monument to its founder, William E. Tyson."
+      "fact": "The Great Lakes Seaway Trail runs through the town along New York State Route 3 and includes a monument to its founder, William E Tyson."
     },
     {
       "cityName": "Henderson",
@@ -9399,7 +9833,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Heuvelton is an incorporated village in St. Lawrence County, New York, United States."
+      "fact": "Heuvelton is an incorporated village in Saint Lawrence County, New York, United States."
     },
     {
       "cityName": "Heuvelton",
@@ -9469,7 +9903,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Village of Hewlett Harbor is considered part of the Greater Hewlett area, which is anchored by Hewlett \u2013 and it is located within the region of Long Island known as the Five Towns."
+      "fact": "The Village of Hewlett Harbor is considered part of the Greater Hewlett area, which is anchored by Hewlett – and it is located within the region of Long Island known as the Five Towns."
     },
     {
       "cityName": "Hewlett Harbor",
@@ -9479,11 +9913,53 @@
       "fact": "This area, like Back/Old Lawrence is unique because its rural affluence is similar in character to the more well-known Gold Coast of the North Shore instead of being more urbanized like the rest of the South Shore of Nassau County."
     },
     {
+      "cityName": "Hewlett Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hewlett Neck is a village located within the Town of Hempstead in Nassau County, on the South Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Hewlett Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 569 at the time of the 2020 census."
+    },
+    {
       "cityName": "Hicksville",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The CDP's population was 43869 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Highland Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highland Falls, formerly named Buttermilk Falls, is a village in Orange County, New York, United States."
+    },
+    {
+      "cityName": "Highland Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,684 at the 2020 census."
+    },
+    {
+      "cityName": "Highland Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village was founded in 1906."
+    },
+    {
+      "cityName": "Highland Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is part of the Kiryas Joel–Poughkeepsie–Newburgh metropolitan area as well as the larger New York metropolitan area."
     },
     {
       "cityName": "Hillburn",
@@ -9504,7 +9980,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community was named for the Rev. Charles A. Hilton and is entirely within the town of Parma."
+      "fact": "The community was named for the Reverend Charles A Hilton and is entirely within the town of Parma."
     },
     {
       "cityName": "Hinsdale",
@@ -9539,14 +10015,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It lies on NY 37 near the Canadian-US border at the confluence of the St. Regis River with the Saint Lawrence Seaway."
+      "fact": "It lies on NY 37 near the Canadian-US border at the confluence of the Saint Regis River with the Saint Lawrence Seaway."
     },
     {
       "cityName": "Hogansburg",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Hogansburg borders the St. Regis Mohawk Reservation."
+      "fact": "Hogansburg borders the Saint Regis Mohawk Reservation."
     },
     {
       "cityName": "Holbrook",
@@ -9554,6 +10030,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community borders the eastern side of Long Island MacArthur Airport."
+    },
+    {
+      "cityName": "Holland Patent",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holland Patent is a village in Oneida County, New York, United States."
+    },
+    {
+      "cityName": "Holland Patent",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 416 at the 2020 census."
+    },
+    {
+      "cityName": "Holland Patent",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is named after a land grant, and is in the western part of the town Trenton at the junction of routes 274, 291, and 365."
     },
     {
       "cityName": "Holley",
@@ -9609,7 +10106,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "An IRS Processing Center is located in Holtsville, along with NYPA's Richard M. Flynn Power Plant."
+      "fact": "An IRS Processing Center is located in Holtsville, along with NYPA's Richard M Flynn Power Plant."
     },
     {
       "cityName": "Homer",
@@ -9666,6 +10163,41 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "It also contains several restaurants, a doctor's office, dentist's office, and Honeoye Central School, which is K-12."
+    },
+    {
+      "cityName": "Honeoye Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Honeoye Falls is a village within the town of Mendon in Monroe County, New York, United States."
+    },
+    {
+      "cityName": "Honeoye Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,706 at the 2020 census."
+    },
+    {
+      "cityName": "Honeoye Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is sited next to a small waterfall on Honeoye Creek, which gives the village its name."
+    },
+    {
+      "cityName": "Honeoye Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The name \"Honeoye\" comes from the Seneca word ha-ne-a-yah, which means \"lying finger\", or \"where the finger lies\"."
+    },
+    {
+      "cityName": "Honeoye Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The name comes from the local story of a Native American whose finger was bitten by a rattlesnake and who therefore cut off his finger with a tomahawk."
     },
     {
       "cityName": "Hoosick Falls",
@@ -9763,7 +10295,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Town of Hopkinton is located in the Southeast corner of St. Law."
+      "fact": "The Town of Hopkinton is located in the Southeast corner of Saint Law."
     },
     {
       "cityName": "Hopkinton",
@@ -9833,7 +10365,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is bordered to the north by the Belt Parkway and Conduit Avenue in Ozone Park, to the south by Jamaica Bay in Broad Channel, to the east by 102nd\u2013104th Streets in South Ozone Park, and to the west by 75th Street in East New York, Brooklyn."
+      "fact": "It is bordered to the north by the Belt Parkway and Conduit Avenue in Ozone Park, to the south by Jamaica Bay in Broad Channel, to the east by 102nd–104th Streets in South Ozone Park, and to the west by 75th Street in East New York, Brooklyn."
     },
     {
       "cityName": "Howard Beach",
@@ -10015,14 +10547,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hyde Park is home to the main campus of the Culinary Institute of America, a four-year college for culinary and baking and pastry arts, and the Franklin D. Roosevelt Presidential Library and Museum, the first presidential library in the United States."
+      "fact": "Hyde Park is home to the main campus of the Culinary Institute of America, a four-year college for culinary and baking and pastry arts, and the Franklin D Roosevelt Presidential Library and Museum, the first presidential library in the United States."
     },
     {
       "cityName": "Hyde Park",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Hyde Park is known as the hometown of Franklin D. Roosevelt, the 32nd president of the United States."
+      "fact": "Hyde Park is known as the hometown of Franklin D Roosevelt, the 32nd president of the United States."
     },
     {
       "cityName": "Hyde Park",
@@ -10106,14 +10638,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Historically, Irving developed in the early 1800s around lumber shipping, grain milling, and ferry traffic at the creek\u2019s natural harbor."
+      "fact": "Historically, Irving developed in the early 1800s around lumber shipping, grain milling, and ferry traffic at the creek’s natural harbor."
     },
     {
       "cityName": "Irving",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Although it was once considered as a possible western terminus of the New York & Erie Railroad, the choice of Dunkirk curtailed its industrial prospects, and the community centered instead on farming \u2014 first grains and later grapes, as part of the Lake Erie viticultural belt."
+      "fact": "Although it was once considered as a possible western terminus of the New York & Erie Railroad, the choice of Dunkirk curtailed its industrial prospects, and the community centered instead on farming — first grains and later grapes, as part of the Lake Erie viticultural belt."
     },
     {
       "cityName": "Irving",
@@ -10141,14 +10673,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "It also encompasses a large part of the Cattaraugus Reservation of the Seneca Nation of Indians, and serves as one of the nation\u2019s two alternating capitals (along with Jimerson Town on the Allegany Reservation)."
+      "fact": "It also encompasses a large part of the Cattaraugus Reservation of the Seneca Nation of Indians, and serves as one of the nation’s two alternating capitals (along with Jimerson Town on the Allegany Reservation)."
     },
     {
       "cityName": "Irving",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "It is the site of the Thomas Indian School (1855\u20131957), a state-run boarding school for Native American children that is remembered today both as a significant local institution and as a site of cultural trauma for the Seneca and other Haudenosaunee (Iroquois) peoples."
+      "fact": "It is the site of the Thomas Indian School (1855–1957), a state-run boarding school for Native American children that is remembered today both as a significant local institution and as a site of cultural trauma for the Seneca and other Haudenosaunee (Iroquois) peoples."
     },
     {
       "cityName": "Irvington",
@@ -10162,7 +10694,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Because many of Irvington's residents \u2013 especially those in the upper income brackets \u2013 live in Irvington and work in New York City, the village has a reputation as a \"commuter town\" or a \"bedroom community\"."
+      "fact": "Because many of Irvington's residents – especially those in the upper income brackets – live in Irvington and work in New York City, the village has a reputation as a \"commuter town\" or a \"bedroom community\"."
     },
     {
       "cityName": "Irvington",
@@ -10177,6 +10709,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is a neighbor to Long Beach to the south, and Oceanside to the north."
+    },
+    {
+      "cityName": "Islandia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Islandia is a village in the northern part of the Town of Islip in Suffolk County, on Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Islandia",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,567 at the time of the 2020 census."
     },
     {
       "cityName": "Islip",
@@ -10274,70 +10820,21 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Jackson Heights is a neighborhood in the northwestern part of the borough of Queens in New York City."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "Jackson Heights is neighbored by North Corona to the east, Elmhurst to the south, Woodside to the west, and today northern Astoria (Ditmars-Steinway) to the northwest, and East Elmhurst to the north and northeast."
     },
     {
       "cityName": "Jackson Heights",
       "state": "NY",
       "source": "Wikipedia",
-      "factNumber": 3,
+      "factNumber": 2,
       "fact": "Jackson Heights has an ethnically diverse community, with half the population having been foreign-born since the 2000s."
     },
     {
       "cityName": "Jackson Heights",
       "state": "NY",
       "source": "Wikipedia",
-      "factNumber": 4,
+      "factNumber": 3,
       "fact": "The New York Times has called it \"the most culturally diverse neighborhood in New York, if not on the planet.\" According to the 2010 United States census, the neighborhood has a population of 108,152."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "The site of Jackson Heights was a vast marsh named Trains Meadow until 1909 when Edward A."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "MacDougall's Queensboro Corporation bought 325 acres (132 ha) of undeveloped land and farms."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The Queensboro Corporation named the land Jackson Heights after Jackson Avenue, which was in turn named after John C."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "Jackson, a descendant of one of the original Queens families."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "He was a respected Queens entrepreneur."
-    },
-    {
-      "cityName": "Jackson Heights",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "Jackson Avenue was the northern border of the ambitious Garden City development of the Queensboro Corporation."
     },
     {
       "cityName": "Jamaica",
@@ -10379,7 +10876,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Jamaica is the location of several government buildings such as Queens Civil Court, the civil branch of the Queens County Supreme Court, the Queens County Family Court and the Joseph P. Addabbo Federal Building, home to the Social Security Administration's Northeastern Program Service Center."
+      "fact": "Jamaica is the location of several government buildings such as Queens Civil Court, the civil branch of the Queens County Supreme Court, the Queens County Family Court and the Joseph P Addabbo Federal Building, home to the Social Security Administration's Northeastern Program Service Center."
     },
     {
       "cityName": "Jamaica",
@@ -10407,7 +10904,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "John F. Kennedy International Airport and the hotels nearby are also located in Jamaica."
+      "fact": "John F Kennedy International Airport and the hotels nearby are also located in Jamaica."
     },
     {
       "cityName": "Jamesport",
@@ -10429,6 +10926,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Jamesport consists of a downtown area and surrounding farms."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jamestown is a city in southern Chautauqua County, New York, United States."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 28,712 at the 2020 census."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Situated between Lake Erie to the north and the Allegheny National Forest to the south, Jamestown is the largest city in the county."
+    },
+    {
+      "cityName": "Jamestown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Nearby Chautauqua Lake is a freshwater resource used by fishermen, boaters, and naturalists."
     },
     {
       "cityName": "Jamesville",
@@ -10603,7 +11128,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Kaser (English pronunciation: /\u02c8ke\u026az\u0259\u0279/ or /\u02c8k\u0251\u02d0s\u0259\u0279/ from Yiddish: \u05db\u05bc\u05ea\u05e8, romanized: keser, lit."
+      "fact": "Kaser (from Yiddish: כּתר, romanized: keser, lit."
     },
     {
       "cityName": "Kaser",
@@ -10799,7 +11324,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Forest Park is to the west and the neighborhood of Forest Hills to the northwest, Flushing Meadows\u2013Corona Park north, Richmond Hill south, Briarwood southeast, and Kew Gardens Hills east."
+      "fact": "Forest Park is to the west and the neighborhood of Forest Hills to the northwest, Flushing Meadows–Corona Park north, Richmond Hill south, Briarwood southeast, and Kew Gardens Hills east."
     },
     {
       "cityName": "Kew Gardens",
@@ -10820,7 +11345,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The borders are Flushing Meadows\u2013Corona Park to the west, the Long Island Expressway to the north, Union Turnpike to the south, and Kissena/Parsons Boulevards to the east."
+      "fact": "The borders are Flushing Meadows–Corona Park to the west, the Long Island Expressway to the north, Union Turnpike to the south, and Kissena/Parsons Boulevards to the east."
     },
     {
       "cityName": "Kew Gardens Hills",
@@ -10891,6 +11416,20 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "The town of Kinderhook contains two villages, one of which is also named Kinderhook; the other is the village of Valatie."
+    },
+    {
+      "cityName": "Kings Point",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kings Point is a village on the Great Neck Peninsula in the Town of North Hempstead in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Kings Point",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,619 at the time of the 2020 census."
     },
     {
       "cityName": "Kingston",
@@ -10998,6 +11537,41 @@
       "fact": "Abe Wieder has served as mayor of Kiryas Joel since 1997; Gedalye Szegedin has served as its administrator since 2004 or earlier."
     },
     {
+      "cityName": "Lackawanna",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lackawanna is a city in Erie County, New York, United States, just south of the city of Buffalo in western New York State."
+    },
+    {
+      "cityName": "Lackawanna",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 19,949 at the 2020 census."
+    },
+    {
+      "cityName": "Lackawanna",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is one of the fastest-growing cities in New York, growing in population by 10% from 2010 to 2020."
+    },
+    {
+      "cityName": "Lackawanna",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is part of the Buffalo-Niagara Falls metropolitan area."
+    },
+    {
+      "cityName": "Lackawanna",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The city of Lackawanna is in the western part of Erie County."
+    },
+    {
       "cityName": "Lacona",
       "state": "NY",
       "source": "Wikipedia",
@@ -11066,6 +11640,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Lake George, New York may refer to one of several locations in New York State in the United States: Lake George (lake), New York Lake George (town), New York Lake George (village), New York, which sits within the town of Lake George"
+    },
+    {
+      "cityName": "Lake Grove",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Grove is a village in the Town of Brookhaven in Suffolk County, New York, United States."
+    },
+    {
+      "cityName": "Lake Grove",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 11,163 at the 2010 census."
     },
     {
       "cityName": "Lake Katrine",
@@ -11159,6 +11747,20 @@
       "fact": "Located on the north and east sides of the eponymous lake, Lake Ronkonkoma is mainly located in the Town of Brookhaven, with the northwestern section being located within the Town of Smithtown and the lake itself located in the Town of Islip."
     },
     {
+      "cityName": "Lake Success",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lake Success is a village in the Town of North Hempstead in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Lake Success",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,828 at the time of the 2020 census."
+    },
+    {
       "cityName": "Lakeview",
       "state": "NY",
       "source": "Wikipedia",
@@ -11229,6 +11831,41 @@
       "fact": "As of the 2020 census, the population was 13680."
     },
     {
+      "cityName": "Lattingtown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lattingtown is a village located within the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Lattingtown",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,881 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Laurel Hollow",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Laurel Hollow is a village in the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Laurel Hollow",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,952 at the 2010 census."
+    },
+    {
+      "cityName": "Laurel Hollow",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to Bloomberg BusinessWeek, Laurel Hollow is the eighth wealthiest town in America."
+    },
+    {
       "cityName": "Laurelton",
       "state": "NY",
       "source": "Wikipedia",
@@ -11247,7 +11884,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Merrick Boulevard, which bisects the community in a generally east\u2013west direction, forms its commercial spine."
+      "fact": "Merrick Boulevard, which bisects the community in a generally east–west direction, forms its commercial spine."
     },
     {
       "cityName": "Laurelton",
@@ -11275,7 +11912,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Lawrence, New York may refer to: Lawrence, Nassau County, New York, a village Lawrence, St. Lawrence County, New York, a town"
+      "fact": "Lawrence, New York may refer to: Lawrence, Nassau County, New York, a village Lawrence, Saint Lawrence County, New York, a town"
     },
     {
       "cityName": "Le Roy",
@@ -11471,7 +12108,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Douglaston\u2013Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens."
+      "fact": "Douglaston–Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens."
     },
     {
       "cityName": "Little Neck",
@@ -11506,7 +12143,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Douglaston\u2013Little Neck represents one of the least traditionally urban communities in New York City, with many areas (particularly those north of Northern Boulevard) having a distinctly suburban feel, similar to that of Nassau County towns located nearby such as Great Neck."
+      "fact": "Douglaston–Little Neck represents one of the least traditionally urban communities in New York City, with many areas (particularly those north of Northern Boulevard) having a distinctly suburban feel, similar to that of Nassau County towns located nearby such as Great Neck."
     },
     {
       "cityName": "Little Neck",
@@ -11807,7 +12444,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The island extends from New York Harbor 118 miles (190 km) eastward into the ocean with a maximum north\u2013south width of 23 miles (37 km)."
+      "fact": "The island extends from New York Harbor 118 miles (190 km) eastward into the ocean with a maximum north–south width of 23 miles (37 km)."
     },
     {
       "cityName": "Long Island",
@@ -11957,6 +12594,20 @@
       "fact": "Despite popular folk etymology, the name Lowville has nothing to do with its low elevation or the lowing cattle of the many nearby dairy farms."
     },
     {
+      "cityName": "Lynbrook",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lynbrook is a village located within the Town of Hempstead in Nassau County, on the South Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Lynbrook",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 20,438 at the time of the 2020 census."
+    },
+    {
       "cityName": "Lyndonville",
       "state": "NY",
       "source": "Wikipedia",
@@ -11985,6 +12636,34 @@
       "fact": "The Town of Lyons is in the south-central part of the county and contains a hamlet also named Lyons, formerly a village."
     },
     {
+      "cityName": "Lyons Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lyons Falls is a village in Lewis County, New York, United States."
+    },
+    {
+      "cityName": "Lyons Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 566 at the 2010 census."
+    },
+    {
+      "cityName": "Lyons Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is on the border of the towns of West Turin and Lyonsdale."
+    },
+    {
+      "cityName": "Lyons Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is at the junction of state Routes 12 and 12D, approximately 14 miles (23 km) south of Lowville, the county seat."
+    },
+    {
       "cityName": "Macedon",
       "state": "NY",
       "source": "Wikipedia",
@@ -11997,6 +12676,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town is east of Rochester and west of Syracuse."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madison is a town in Madison County, New York, United States."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,766 at the 2020 census."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village of Madison is the largest community within the town."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Madison, along with the rest of Madison County, is part of the Syracuse Metropolitan Area."
     },
     {
       "cityName": "Madrid",
@@ -12076,6 +12783,20 @@
       "fact": "The town is an interior town located in the north-central part of the county."
     },
     {
+      "cityName": "Malverne",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Malverne is a village in the Town of Hempstead in Nassau County, on Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Malverne",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,560 at the time of the 2020 census."
+    },
+    {
       "cityName": "Mamaroneck",
       "state": "NY",
       "source": "Wikipedia",
@@ -12129,7 +12850,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Additionally, the hamlet serves as the town seat of North Hempstead, and North Hempstead Town Hall \u2013 the town's governmental headquarters \u2013 is located within Manhasset's downtown, along Plandome Road."
+      "fact": "Additionally, the hamlet serves as the town seat of North Hempstead, and North Hempstead Town Hall – the town's governmental headquarters – is located within Manhasset's downtown, along Plandome Road."
     },
     {
       "cityName": "Manhattan",
@@ -12339,7 +13060,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named after Governor William L. Marcy."
+      "fact": "The town was named after Governor William L Marcy."
     },
     {
       "cityName": "Marcy",
@@ -12472,7 +13193,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Massena is along the county's northern border, just south of the St. Lawrence River and the Three Nations Crossing of the Canada\u2013United States border."
+      "fact": "Massena is along the county's northern border, just south of the Saint Lawrence River and the Three Nations Crossing of the Canada–United States border."
     },
     {
       "cityName": "Massena",
@@ -12500,7 +13221,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The Long Island Rail Road built a station in 1882 and, on July 15, 1960, the stop was moved 7010 feet (2140 m) west and renamed Mastic\u2013Shirley."
+      "fact": "The Long Island Rail Road built a station in 1882 and, on July 15, 1960, the stop was moved 7010 feet (2140 m) west and renamed Mastic–Shirley."
     },
     {
       "cityName": "Mastic",
@@ -12517,11 +13238,25 @@
       "fact": "Mastic Beach was incorporated in 2010."
     },
     {
+      "cityName": "Matinecock",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Matinecock is a village located within the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Matinecock",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 847 at the time of the 2020 census."
+    },
+    {
       "cityName": "Mattydale",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Although born in nearby Chittenango, New York, Wizard of Oz author L. Frank Baum spent much of his childhood on the site of Roxboro Road Middle School."
+      "fact": "Although born in nearby Chittenango, New York, Wizard of Oz author L Frank Baum spent much of his childhood on the site of Roxboro Road Middle School."
     },
     {
       "cityName": "Mattydale",
@@ -12557,6 +13292,27 @@
       "source": "Wikipedia",
       "factNumber": 6,
       "fact": "Built in succession following fires, the last roadhouse/hotel succumbed to blazes in 1957 and the final fire in 1958."
+    },
+    {
+      "cityName": "Maybrook",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maybrook is a village in Orange County, New York, United States."
+    },
+    {
+      "cityName": "Maybrook",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,150 at the 2020 census."
+    },
+    {
+      "cityName": "Maybrook",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Kiryas Joel-Poughkeepsie–Newburgh, NY Metropolitan Statistical Area as well as the larger New York–Newark–Bridgeport, NY-NJ-CT-PA Combined Statistical Area."
     },
     {
       "cityName": "Mayfield",
@@ -12668,7 +13424,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Auclair\u2013Button Farmstead and Cartin\u2013Snyder\u2013Overacker Farmstead were listed on the National Register of Historic Places in 2013."
+      "fact": "The Auclair–Button Farmstead and Cartin–Snyder–Overacker Farmstead were listed on the National Register of Historic Places in 2013."
     },
     {
       "cityName": "Melrose",
@@ -12759,42 +13515,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The community is situated between the hamlets of Coram and Ridge to the west and east, respectively \u2013 and the hamlets of Rocky Point and Yaphank to the north and south."
+      "fact": "The community is situated between the hamlets of Coram and Ridge to the west and east, respectively – and the hamlets of Rocky Point and Yaphank to the north and south."
     },
     {
       "cityName": "Middle Village",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The small trapezoid-shaped area bounded by Mt."
-    },
-    {
-      "cityName": "Middle Village",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Olivet Crescent to the east, Fresh Pond Road to the west, Eliot Avenue to the north, and Metropolitan Avenue and Admiral Avenue to the south is often counted as part of Middle Village, but is sometimes considered part of nearby Ridgewood."
-    },
-    {
-      "cityName": "Middle Village",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Middle Village is bordered by the neighborhoods of Elmhurst to the north, Maspeth and Ridgewood to the west, Glendale to the south, and Rego Park to the east."
-    },
-    {
-      "cityName": "Middle Village",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Housing in the neighborhood is largely single-family homes with many attached homes, and small apartment buildings."
-    },
-    {
-      "cityName": "Middle Village",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "It is patrolled by the New York City Police Department's 104th Precinct."
+      "fact": "The small trapezoid-shaped area bounded by Mount Olivet Crescent to the east, Fresh Pond Road to the west, Eliot Avenue to the north, and Metropolitan Avenue and Admiral Avenue to the south is often counted as part of Middle Village, but is sometimes considered part of nearby Ridgewood."
     },
     {
       "cityName": "Middleburgh",
@@ -12857,7 +13585,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Middletown falls within the Kiryas Joel\u2013Poughkeepsie\u2013Newburgh Metropolitan Statistical Area, which belongs to the larger New York\u2013Newark\u2013Bridgeport, NY\u2013NJ\u2013CT\u2013PA Combined Statistical Area."
+      "fact": "Middletown falls within the Kiryas Joel–Poughkeepsie–Newburgh Metropolitan Statistical Area, which belongs to the larger New York–Newark–Bridgeport, NY–NJ–CT–PA Combined Statistical Area."
     },
     {
       "cityName": "Middletown",
@@ -12965,6 +13693,20 @@
       "fact": "The town is northeast of the City of Oneonta."
     },
     {
+      "cityName": "Mill Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mill Neck is a village in the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Mill Neck",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,054 at the time of the 2020 census."
+    },
+    {
       "cityName": "Millbrook",
       "state": "NY",
       "source": "Wikipedia",
@@ -12990,7 +13732,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Millbrook is part of the Kiryas Joel\u2013Poughkeepsie\u2013Newburgh, NY Metropolitan Statistical Area as well as the larger New York\u2013Newark\u2013Bridgeport Combined Statistical Area."
+      "fact": "Millbrook is part of the Kiryas Joel–Poughkeepsie–Newburgh, NY Metropolitan Statistical Area as well as the larger New York–Newark–Bridgeport Combined Statistical Area."
     },
     {
       "cityName": "Miller Place",
@@ -13158,21 +13900,21 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "There is a private lake, Mohegan Lake, also known as \"Lake Mohegan\", with beaches which are occasionally closed for swimming due to harmful algal blooms."
+      "fact": "Freehold Township is a township in western Monmouth County, in the US state of New Jersey."
     },
     {
       "cityName": "Mohegan Lake",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "They included the Skyview Colony and Lakeview Colony off U S Route 6."
+      "fact": "Crisscrossed by several major highways, the township is a commercial hub for Central New Jersey and is a suburban bedroom community of New York City, located within the Raritan Valley Region of the much larger New York Area."
     },
     {
       "cityName": "Mohegan Lake",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town was home to several former summer bungalow colonies in the 1950s and 1960s."
+      "fact": "The township is located roughly 38 miles (61 km) away from Manhattan and about 20 miles (32 km) away from Staten Island."
     },
     {
       "cityName": "Moira",
@@ -13193,7 +13935,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The correct pronunciation of Moira is mo\u028a-a\u026a-r\u028c (or moh-I-ruh)."
+      "fact": "The correct pronunciation of Moira is moʊ-aɪ-rʌ (or moh-I-ruh)."
     },
     {
       "cityName": "Mongaup Valley",
@@ -13501,7 +14243,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Morrisania ( MORR-ih-SAY-nee-\u0259) is a residential neighborhood in the southwestern Bronx, New York City, New York."
+      "fact": "Morrisania ( MORR-ih-SAY-nee-ə) is a residential neighborhood in the southwestern Bronx, New York City, New York."
     },
     {
       "cityName": "Morrisania",
@@ -13536,7 +14278,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Both are buried in the crypt at St. Ann's Church of Morrisania."
+      "fact": "Both are buried in the crypt at Saint Ann's Church of Morrisania."
     },
     {
       "cityName": "Morrisania",
@@ -14012,7 +14754,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "New Dorp ( NEW-dorp) is a neighborhood on the South Shore of Staten Island, New York City, United States."
+      "fact": "New Dorp is a neighborhood on the South Shore of Staten Island, New York City, United States."
     },
     {
       "cityName": "New Dorp",
@@ -14173,7 +14915,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "New Square (Yiddish: \u05e9\u05d9\u05db\u05d5\u05df \u05e1\u05e7\u05d5\u05d5\u05d9\u05e8\u05d0, romanized: Shikun Skvir) is an all-Hasidic village in the town of Ramapo, Rockland County, New York, United States."
+      "fact": "New Square (Yiddish: שיכון סקווירא, romanized: Shikun Skvir) is an all-Hasidic village in the town of Ramapo, Rockland County, New York, United States."
     },
     {
       "cityName": "New Square",
@@ -14271,7 +15013,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "The city came under English control in 1664 and was temporarily renamed New York after King Charles II granted the lands to his brother, the Duke of York, before this name was permanently adopted in 1674."
+      "fact": "The city came under English control in 1664 and was temporarily renamed New York after King Charles 2 granted the lands to his brother, the Duke of York, before this name was permanently adopted in 1674."
     },
     {
       "cityName": "New York Mills",
@@ -14376,7 +15118,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "George Washington and Franklin Delano Roosevelt had ties to the city; Ulysses S. Grant, Robert F. Kennedy, and Theodore Roosevelt also visited, the latter delivering a famous speech at a nearby shipyard."
+      "fact": "George Washington and Franklin Delano Roosevelt had ties to the city; Ulysses S Grant, Robert F Kennedy, and Theodore Roosevelt also visited, the latter delivering a famous speech at a nearby shipyard."
     },
     {
       "cityName": "Newfane",
@@ -14666,6 +15408,34 @@
       "fact": "Each have strong identities and hinder efforts by the town to have a centralized identity."
     },
     {
+      "cityName": "North Haven",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Haven is a village in the Town of Southampton in Suffolk County, on the South Fork of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "North Haven",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,162 at the 2020 census."
+    },
+    {
+      "cityName": "North Hills",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "North Hills is a village in the Town of North Hempstead in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "North Hills",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,464 at the time of the 2020 census."
+    },
+    {
       "cityName": "North Hornell",
       "state": "NY",
       "source": "Wikipedia",
@@ -14862,6 +15632,34 @@
       "fact": "Northville, New York may refer to two places in the United States: Northville, Fulton County, New York Northville, Suffolk County, New York"
     },
     {
+      "cityName": "Norwich",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norwich is a city in and the county seat of Chenango County, New York, United States."
+    },
+    {
+      "cityName": "Norwich",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Surrounded on all sides by the Town of Norwich, the city's name is taken from Norwich, England."
+    },
+    {
+      "cityName": "Norwich",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Norwich had a population of 7,051."
+    },
+    {
+      "cityName": "Norwich",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Norwich is best known as the headquarters of the strained yogurt company Chobani."
+    },
+    {
       "cityName": "Norwood",
       "state": "NY",
       "source": "Wikipedia",
@@ -14929,7 +15727,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "TSPL, \u201cTrampoline Soccer Premier League\u201d was also created here."
+      "fact": "TSPL, “Trampoline Soccer Premier League” was also created here."
     },
     {
       "cityName": "Oakfield",
@@ -15006,7 +15804,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is at the northern border of New York at the mouth of the Oswegatchie River on the south bank of the St. Lawrence River."
+      "fact": "The city is at the northern border of New York at the mouth of the Oswegatchie River on the south bank of the Saint Lawrence River."
     },
     {
       "cityName": "Ogdensburg",
@@ -15027,14 +15825,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The port of Ogdensburg is the only U S port on the St. Lawrence Seaway."
+      "fact": "The port of Ogdensburg is the only U S port on the Saint Lawrence Seaway."
     },
     {
       "cityName": "Ogdensburg",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The Ogdensburg\u2013Prescott International Bridge, northeast of the city, links the United States and Canada, with a direct highway from Prescott to Ottawa, the capital of Canada."
+      "fact": "The Ogdensburg–Prescott International Bridge, northeast of the city, links the United States and Canada, with a direct highway from Prescott to Ottawa, the capital of Canada."
     },
     {
       "cityName": "Olcott",
@@ -15128,6 +15926,20 @@
       "fact": "The village population was 2020 at the time of the 2020 census."
     },
     {
+      "cityName": "Old Field",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Old Field is a village located in the Town of Brookhaven in Suffolk County, on Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Old Field",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 918 at the 2010 census."
+    },
+    {
       "cityName": "Old Westbury",
       "state": "NY",
       "source": "Wikipedia",
@@ -15139,7 +15951,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Old Westbury Gardens \u2013 located within the village \u2013 has been recognized as one of the three best public gardens in the world by Four Seasons Hotels magazine."
+      "fact": "Old Westbury Gardens – located within the village – has been recognized as one of the three best public gardens in the world by Four Seasons Hotels magazine."
     },
     {
       "cityName": "Olean",
@@ -15296,6 +16108,41 @@
       "fact": "The village of Oriskany is in the town of Whitestown, southeast of Rome; NY-69 passes through the village, which is south of the Erie Canal."
     },
     {
+      "cityName": "Oriskany Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oriskany Falls is a village in Oneida County, New York, United States."
+    },
+    {
+      "cityName": "Oriskany Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 732 at the 2010 census."
+    },
+    {
+      "cityName": "Oriskany Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The name is derived from a waterfall on a nearby stream."
+    },
+    {
+      "cityName": "Oriskany Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The village is largely in the southeast section of the town of Augusta, but partly overlaps the town of Marshall."
+    },
+    {
+      "cityName": "Oriskany Falls",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The community is at the intersection of routes 12B and 26, which share a brief concurrency within the village and south to Bouckville."
+    },
+    {
       "cityName": "Ossining",
       "state": "NY",
       "source": "Wikipedia",
@@ -15314,7 +16161,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During World War II, Fort Ontario was the site of the only Jewish refugee camp in the United States."
+      "fact": "During World War 2, Fort Ontario was the site of the only Jewish refugee camp in the United States."
     },
     {
       "cityName": "Oswego",
@@ -15748,7 +16595,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "Fifth Avenue and Seventh Avenue are its primary commercial streets, while its east\u2013west side streets are lined with brownstones and apartment buildings."
+      "fact": "Fifth Avenue and Seventh Avenue are its primary commercial streets, while its east–west side streets are lined with brownstones and apartment buildings."
     },
     {
       "cityName": "Park Slope",
@@ -15783,7 +16630,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Incorporated Village of Patchogue is located approximately 60 miles (100 km) east of Manhattan, along the shore of Patchogue Bay \u2013 itself part of the Great South Bay."
+      "fact": "The Incorporated Village of Patchogue is located approximately 60 miles (100 km) east of Manhattan, along the shore of Patchogue Bay – itself part of the Great South Bay."
     },
     {
       "cityName": "Patterson",
@@ -15804,7 +16651,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The original name was spelled \u201cPaterson,\u201d but was changed to its current spelling in the mid-19th century, reportedly because mail delivery confusion with Paterson, New Jersey."
+      "fact": "The original name was spelled “Paterson,” but was changed to its current spelling in the mid-19th century, reportedly because mail delivery confusion with Paterson, New Jersey."
     },
     {
       "cityName": "Pattersonville",
@@ -15833,6 +16680,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town of Pavilion is in the southeastern corner of Genesee County and is southeast of the city of Batavia."
+    },
+    {
+      "cityName": "Pawling",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pawling may refer to:Pawling (town), New York, in Dutchess County Pawling (village), New York, in the town of Pawling Pawling, train station for the village Pawling Nature Reserve, in the northern section of the town of Pawling Pawling Hall, a historic meeting hall in Hagaman, Montgomery County, New York, United States Pawling & Harnischfeger, a United States mining-equipment manufacturer in Wisconsin, 1880s–1930s"
     },
     {
       "cityName": "Pearl River",
@@ -15902,14 +16756,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The Bronx\u2013Whitestone Bridge is approximately 8.5 miles (13.7 km) south of the town."
+      "fact": "The Bronx–Whitestone Bridge is approximately 8.5 miles (13.7 km) south of the town."
     },
     {
       "cityName": "Pelham",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "It is also 13 miles (21 km) northeast of LaGuardia Airport and 19.5 miles (31.4 km) north of John F. Kennedy International Airport."
+      "fact": "It is also 13 miles (21 km) northeast of LaGuardia Airport and 19.5 miles (31.4 km) north of John F Kennedy International Airport."
     },
     {
       "cityName": "Pelham Manor",
@@ -16136,6 +16990,27 @@
       "fact": "Both are in the northeastern part of Jefferson County."
     },
     {
+      "cityName": "Philmont",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Philmont is a village in Columbia County, New York, United States."
+    },
+    {
+      "cityName": "Philmont",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,377 at the 2020 census."
+    },
+    {
+      "cityName": "Philmont",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is located in the northeastern part of the town of Claverack on New York State Route 217."
+    },
+    {
       "cityName": "Phoenix",
       "state": "NY",
       "source": "Wikipedia",
@@ -16168,7 +17043,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It was derived by combining a local natural feature \u2013 Tallman Mountain \u2013 and the most prominent man-made feature of the village \u2013 the long Erie Railroad pier."
+      "fact": "It was derived by combining a local natural feature – Tallman Mountain – and the most prominent man-made feature of the village – the long Erie Railroad pier."
     },
     {
       "cityName": "Piermont",
@@ -16217,7 +17092,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Pine Bush is part of the Poughkeepsie\u2013Newburgh\u2013Middletown, NY Metropolitan Statistical Area as well as the larger New York\u2013Newark\u2013Bridgeport, NY-NJ-CT-PA Combined Statistical Area."
+      "fact": "Pine Bush is part of the Poughkeepsie–Newburgh–Middletown, NY Metropolitan Statistical Area as well as the larger New York–Newark–Bridgeport, NY-NJ-CT-PA Combined Statistical Area."
     },
     {
       "cityName": "Pine City",
@@ -16315,7 +17190,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is one of the three villages which comprise the area of Cow Neck known as the Plandomes \u2013 and it is also considered part of the Greater Manhasset area, which is anchored by Manhasset."
+      "fact": "It is one of the three villages which comprise the area of Cow Neck known as the Plandomes – and it is also considered part of the Greater Manhasset area, which is anchored by Manhasset."
     },
     {
       "cityName": "Plandome",
@@ -16406,7 +17281,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It has been an important military outpost for much of its history, from hosting one of the largest Citizens' Military Training Camps prior to World War I, and Plattsburgh Air Force Base, the east coast center of operations for the Strategic Air Command during much of the Cold War period."
+      "fact": "It has been an important military outpost for much of its history, from hosting one of the largest Citizens' Military Training Camps prior to World War 1, and Plattsburgh Air Force Base, the east coast center of operations for the Strategic Air Command during much of the Cold War period."
     },
     {
       "cityName": "Plattsburgh",
@@ -16707,7 +17582,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The community's port remains active as the terminus of the Bridgeport & Port Jefferson Ferry \u2013 one of two commercial ferry lines between Long Island and Connecticut \u2013 and is supplemented by the terminus of the Long Island Rail Road's Port Jefferson Branch."
+      "fact": "The community's port remains active as the terminus of the Bridgeport & Port Jefferson Ferry – one of two commercial ferry lines between Long Island and Connecticut – and is supplemented by the terminus of the Long Island Rail Road's Port Jefferson Branch."
     },
     {
       "cityName": "Port Jefferson",
@@ -16952,14 +17827,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Educational institutions include Marist University, Vassar College, Dutchess Community College and The Culinary Institute of America."
+      "fact": "It is surrounded by the Town of Poughkeepsie and had a population of 31,577 at the 2020 census, while the Kiryas Joel–Poughkeepsie–Newburgh metropolitan area has an estimated 712,000 residents."
     },
     {
       "cityName": "Poughkeepsie",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Major bridges in the city include the Walkway over the Hudson, a former railroad bridge which reopened as a public walkway in 2009; and the Mid-Hudson Bridge, a major thoroughfare built in 1930 that carries U S Route 44."
+      "fact": "Poughkeepsie is in the Hudson Valley region, midway between the core of the New York metropolitan area and the state capital of Albany."
     },
     {
       "cityName": "Poughkeepsie",
@@ -16967,48 +17842,6 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is served by the nearby Hudson Valley Regional Airport and Stewart International Airport in Orange County, New York."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Poughkeepsie has been called \"The Queen City of the Hudson\"."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Originally part of New Netherland, it was settled in the 17th century by the Dutch and became New York State's second capital shortly after the American Revolution."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "It was chartered as a city in 1854."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The city of Poughkeepsie lies in New York's 18th congressional district."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "The City of Poughkeepsie and neighboring Town of Poughkeepsie are generally viewed as a single place and are commonly referred to collectively as \"Poughkeepsie\", with a combined population of 77048 in 2020."
-    },
-    {
-      "cityName": "Poughkeepsie",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "In 2024 and 2025, Poughkeepsie was ranked as one of the top cities in the U.S."
     },
     {
       "cityName": "Poughquag",
@@ -17092,7 +17925,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Although the village takes its name after General Casimir Pulaski ( p\u0259-LAS-kee), area residents have traditionally pronounced it with a long \"i\" ( p\u0259-LAS-kye)."
+      "fact": "Although the village takes its name after General Casimir Pulaski ( pə-LAS-kee), area residents have traditionally pronounced it with a long \"i\" ( pə-LAS-kye)."
     },
     {
       "cityName": "Purchase",
@@ -17134,7 +17967,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Among its landmarks are Flushing Meadows\u2013Corona Park; Citi Field, home to the New York Mets baseball team; the USTA Billie Jean King National Tennis Center, site of the U S Open tennis tournament; Kaufman Astoria Studios; Silvercup Studios; and the Aqueduct Racetrack."
+      "fact": "Among its landmarks are Flushing Meadows–Corona Park; Citi Field, home to the New York Mets baseball team; the USTA Billie Jean King National Tennis Center, site of the U S Open tennis tournament; Kaufman Astoria Studios; Silvercup Studios; and the Aqueduct Racetrack."
     },
     {
       "cityName": "Queens",
@@ -17155,7 +17988,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The settlement was named after the English Queen and Portuguese royal princess Catherine of Braganza (1638\u20131705)."
+      "fact": "The settlement was named after the English Queen and Portuguese royal princess Catherine of Braganza (1638–1705)."
     },
     {
       "cityName": "Queens",
@@ -17211,7 +18044,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The LIMP was built by William Kissam Vanderbilt, a descendant of the family that presided over the New York Central Railroad and Western Union; it is now part of the Brooklyn\u2013Queens Greenway."
+      "fact": "The LIMP was built by William Kissam Vanderbilt, a descendant of the family that presided over the New York Central Railroad and Western Union; it is now part of the Brooklyn–Queens Greenway."
     },
     {
       "cityName": "Queens Village",
@@ -17323,7 +18156,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Ransomville is north of the City of Niagara Falls and is part of the Buffalo\u2013Niagara Falls Metropolitan Statistical Area."
+      "fact": "Ransomville is north of the City of Niagara Falls and is part of the Buffalo–Niagara Falls Metropolitan Statistical Area."
     },
     {
       "cityName": "Ransomville",
@@ -17358,7 +18191,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The New York State Office of Real Property Tax Services\u2014an office within the New York State Department of Taxation and Finance\u2014has an office here as well."
+      "fact": "The New York State Office of Real Property Tax Services—an office within the New York State Department of Taxation and Finance—has an office here as well."
     },
     {
       "cityName": "Ray Brook",
@@ -17393,7 +18226,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "The headquarters of the New York State Police Troop B was built in Ray Brook in 1979; Troop B is responsible for Clinton, Essex, Franklin, Hamilton and St. Lawrence counties."
+      "fact": "The headquarters of the New York State Police Troop B was built in Ray Brook in 1979; Troop B is responsible for Clinton, Essex, Franklin, Hamilton and Saint Lawrence counties."
     },
     {
       "cityName": "Raymondville",
@@ -17407,7 +18240,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Raymondville is a hamlet in St. Lawrence County, New York, United States."
+      "fact": "Raymondville is a hamlet in Saint Lawrence County, New York, United States."
     },
     {
       "cityName": "Red Creek",
@@ -17792,7 +18625,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Riverdale Avenue is the primary north\u2013south thoroughfare through Riverdale."
+      "fact": "Riverdale Avenue is the primary north–south thoroughfare through Riverdale."
     },
     {
       "cityName": "Riverdale",
@@ -17863,6 +18696,20 @@
       "source": "Wikipedia",
       "factNumber": 9,
       "fact": "This led to the creation of Polish Town, a section of the town and county seat where the popular Polish Town Fair is held annually."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riverside is the name of several places in the US."
+    },
+    {
+      "cityName": "Riverside",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "state of New York:Riverside, Buffalo, a neighborhood in Buffalo, New York Riverside, Steuben County, New York, a village Riverside, Suffolk County, New York, a hamlet and census-designated place Riverside, a hamlet in the Town of Unadilla, New York"
     },
     {
       "cityName": "Rochester",
@@ -18030,7 +18877,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Rome is one of two principal cities in the Utica\u2013Rome Metropolitan Statistical Area, which lies in the \"Leatherstocking Country\" made famous by James Fenimore Cooper's Leatherstocking Tales, set in frontier days before the American Revolutionary War."
+      "fact": "Rome is one of two principal cities in the Utica–Rome Metropolitan Statistical Area, which lies in the \"Leatherstocking Country\" made famous by James Fenimore Cooper's Leatherstocking Tales, set in frontier days before the American Revolutionary War."
     },
     {
       "cityName": "Rome",
@@ -18282,7 +19129,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Also located in the northeastern corner of the town of Champlain, it is north of the city of Plattsburgh and is on the Canada\u2013United States border."
+      "fact": "Also located in the northeastern corner of the town of Champlain, it is north of the city of Plattsburgh and is on the Canada–United States border."
     },
     {
       "cityName": "Roxbury",
@@ -18324,14 +19171,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The Roman Catholic Church of St. Wendelinus was founded as a mission station of St. Peter's in Rondoubt."
+      "fact": "The Roman Catholic Church of Saint Wendelinus was founded as a mission station of Saint Peter's in Rondoubt."
     },
     {
       "cityName": "Ruby",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "By 1914, it had become a mission of St. Ann's in Sawkill."
+      "fact": "By 1914, it had become a mission of Saint Ann's in Sawkill."
     },
     {
       "cityName": "Ruby",
@@ -18374,6 +19221,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is one of two villages in Ontario County that spans across two townships and the only village in the county divided between two counties."
+    },
+    {
+      "cityName": "Russell Gardens",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Russell Gardens is a village on the Great Neck Peninsula in the Town of North Hempstead, in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Russell Gardens",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 978 at the 2020 census."
     },
     {
       "cityName": "Rye",
@@ -18488,6 +19349,20 @@
       "fact": "Sackets Harbor is in the western part of the town of Hounsfield and is west of Watertown."
     },
     {
+      "cityName": "Saddle Rock",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saddle Rock is a village on the Great Neck Peninsula in the Town of North Hempstead, in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Saddle Rock",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 989 at the time of the 2020 census."
+    },
+    {
       "cityName": "Sag Harbor",
       "state": "NY",
       "source": "Wikipedia",
@@ -18537,11 +19412,32 @@
       "fact": "It had the first United States custom house erected on Long Island."
     },
     {
+      "cityName": "Sagaponack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sagaponack is a village in the Town of Southampton in Suffolk County, on the East End of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Sagaponack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population of the village was 770 at the 2020 census."
+    },
+    {
+      "cityName": "Sagaponack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Sagaponack is the second wealthiest zip code in the United States."
+    },
+    {
       "cityName": "Saint Albans",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The small western enclave of Addisleigh Park is a U S historic district where many notable African Americans have lived, including Jackie Robinson, W. E. B. Du Bois, Lena Horne, and many jazz musicians such as Fats Waller, Ella Fitzgerald and Count Basie."
+      "fact": "The small western enclave of Addisleigh Park is a U S historic district where many notable African Americans have lived, including Jackie Robinson, W E B Du Bois, Lena Horne, and many jazz musicians such as Fats Waller, Ella Fitzgerald and Count Basie."
     },
     {
       "cityName": "Saint Albans",
@@ -18555,14 +19451,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "St. Albans is a residential neighborhood in the southeastern portion of the New York City borough of Queens."
+      "fact": "Saint Albans is a residential neighborhood in the southeastern portion of the New York City borough of Queens."
     },
     {
       "cityName": "Saint Albans",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "St. Albans is centered on the intersection of Linden Boulevard and Farmers Boulevard, about two miles north of John F. Kennedy International Airport."
+      "fact": "Saint Albans is centered on the intersection of Linden Boulevard and Farmers Boulevard, about two miles north of John F Kennedy International Airport."
     },
     {
       "cityName": "Saint Albans",
@@ -18576,7 +19472,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. James is part of the Town of Smithtown and is located on the North Shore of Long Island."
+      "fact": "Saint James is part of the Town of Smithtown and is located on the North Shore of Long Island."
     },
     {
       "cityName": "Saint Johnsville",
@@ -18590,7 +19486,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town contains a village, also called St. Johnsville."
+      "fact": "The town contains a village, also called Saint Johnsville."
     },
     {
       "cityName": "Saint Johnsville",
@@ -18604,7 +19500,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named after Jos\u00e9 de Salamanca, a Spanish nobleman and cabinet minister of the mid-19th century."
+      "fact": "It was named after José de Salamanca, a Spanish nobleman and cabinet minister of the mid-19th century."
     },
     {
       "cityName": "Salamanca",
@@ -18786,7 +19682,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The village of Saranac Lake covers parts of three towns (Harrietstown, St. Armand, and North Elba) and two counties (Franklin and Essex)."
+      "fact": "The village of Saranac Lake covers parts of three towns (Harrietstown, Saint Armand, and North Elba) and two counties (Franklin and Essex)."
     },
     {
       "cityName": "Saranac Lake",
@@ -18856,7 +19752,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The principal village within the town of Saratoga is Schuylerville, which is frequently\u2014but not officially\u2014referred to as Old Saratoga."
+      "fact": "The principal village within the town of Saratoga is Schuylerville, which is frequently—but not officially—referred to as Old Saratoga."
     },
     {
       "cityName": "Saratoga",
@@ -18975,7 +19871,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Town of Scarsdale is coextensive with the Village of Scarsdale, but the community has opted to operate solely with a village government \u2013 one of several villages in the state that have a similar governmental situation."
+      "fact": "The Town of Scarsdale is coextensive with the Village of Scarsdale, but the community has opted to operate solely with a village government – one of several villages in the state that have a similar governmental situation."
     },
     {
       "cityName": "Scarsdale",
@@ -19024,7 +19920,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Schenectady ( sk\u0259-NEKT-\u0259-dee) is a city in Schenectady County, New York, United States, of which it is the county seat."
+      "fact": "Schenectady ( skə-NEKT-ə-dee) is a city in Schenectady County, New York, United States, of which it is the county seat."
     },
     {
       "cityName": "Schenectady",
@@ -19059,7 +19955,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The name \"Schenectady\" is derived from the Mohawk word skahn\u00e9htati, meaning \"beyond the pines\" and used for the area around Albany, New York."
+      "fact": "The name \"Schenectady\" is derived from the Mohawk word skahnéhtati, meaning \"beyond the pines\" and used for the area around Albany, New York."
     },
     {
       "cityName": "Schenectady",
@@ -19153,11 +20049,53 @@
       "fact": "Schuyler Falls is in the south-central part of the county and is southwest of Plattsburgh."
     },
     {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Schuylerville is a village in Saratoga County, New York, United States."
+    },
+    {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is located in the northeastern part of the Town of Saratoga, east of Saratoga Springs."
+    },
+    {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Capital Region of New York."
+    },
+    {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The Village of Victory is adjacent to Schuylerville to the southwest and the Hudson River forms the village's eastern border."
+    },
+    {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "The population was 1,370 at the 2020 census."
+    },
+    {
+      "cityName": "Schuylerville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "The village was incorporated in 1831 and is named after the Schuyler family, a prominent family of Dutch descent in colonial America."
+    },
+    {
       "cityName": "Scotchtown",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Mills Industrial Park at 874 Silver Lake Scotchtown Road (41\u00b028\u203239\u2033N 74\u00b021\u203249\u2033W) was the original planned location for the 1969 Woodstock Festival; however, after the Town of Walkill's board voted against holding the festival, it was moved to Bethel, where it was held less than a month later."
+      "fact": "The Mills Industrial Park at 874 Silver Lake Scotchtown Road (41°28′39″N 74°21′49″W) was the original planned location for the 1969 Woodstock Festival; however, after the Town of Walkill's board voted against holding the festival, it was moved to Bethel, where it was held less than a month later."
     },
     {
       "cityName": "Scotchtown",
@@ -19220,7 +20158,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Seaside contains New York City Subway stations on the IND Rockaway Line (A and \u200bS trains) at Beach 105th and Beach 98th Streets."
+      "fact": "Seaside contains New York City Subway stations on the IND Rockaway Line (A and ​S trains) at Beach 105th and Beach 98th Streets."
     },
     {
       "cityName": "Seaside",
@@ -19241,42 +20179,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "137, and Schoonmaker House are listed on the National Register of Historic Places."
-    },
-    {
-      "cityName": "Selkirk",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The route is also used by traffic from New York City via the Alfred H. Smith Memorial Bridge to points west, a detour known as the Selkirk hurdle."
-    },
-    {
-      "cityName": "Selkirk",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "A major freight railyard operated by the Selkirk Subdivision of CSX Transportation is located there; all of the CSX freight traffic going to or from Boston goes through Selkirk on its way to points north, south or west."
-    },
-    {
-      "cityName": "Selkirk",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Also in Selkirk is Audubon International, a non-profit environmental educational organization."
-    },
-    {
-      "cityName": "Selkirk",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "The Doctor John Babcock House, Bethlehem Grange No."
-    },
-    {
-      "cityName": "Selkirk",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Selkirk is accessible via the New York State Thruway at Exit 22, a stop that has connecting routes New York State Route 396 and New York State Route 144."
+      "fact": "It is located south of the city of Albany and is a suburb of that city."
     },
     {
       "cityName": "Setauket",
@@ -19389,6 +20292,34 @@
       "source": "Wikipedia",
       "factNumber": 8,
       "fact": "The Setaukets remain a mostly residential area, while bordering the more commercial enclaves of Port Jefferson and Stony Brook."
+    },
+    {
+      "cityName": "Sharon Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sharon Springs is a village in Schoharie County, New York, United States."
+    },
+    {
+      "cityName": "Sharon Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 558 at the 2010 census."
+    },
+    {
+      "cityName": "Sharon Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Its name derives from the hometown of the first colonial settlers, Sharon, Connecticut, and the important springs in the village."
+    },
+    {
+      "cityName": "Sharon Springs",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Likewise, Sharon Springs, Kansas was settled by former residents of this upstate New York village."
     },
     {
       "cityName": "Sheepshead Bay",
@@ -19713,6 +20644,27 @@
       "fact": "Despite this designation, Sleepy Hollow has also been called \"one of the safest places to live in the United States\"."
     },
     {
+      "cityName": "Sloan",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sloan is a village in Erie County, New York, United States."
+    },
+    {
+      "cityName": "Sloan",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,661 at the 2010 census."
+    },
+    {
+      "cityName": "Sloan",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Buffalo-Niagara Falls metropolitan area and is in the town of Cheektowaga."
+    },
+    {
       "cityName": "Sloansville",
       "state": "NY",
       "source": "Wikipedia",
@@ -19860,6 +20812,27 @@
       "fact": "The Village of Sodus Point is in the northeastern part of the Town of Sodus."
     },
     {
+      "cityName": "Solvay",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Solvay is a village located in the town of Geddes, Onondaga County, New York, United States, and a suburb of the city of Syracuse."
+    },
+    {
+      "cityName": "Solvay",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, the population was 6,645."
+    },
+    {
+      "cityName": "Solvay",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village is named after the Solvay brothers, Belgian inventors of the chemical process employed by the Solvay Process Company, formerly the major industry of the village."
+    },
+    {
       "cityName": "Somers",
       "state": "NY",
       "source": "Wikipedia",
@@ -19885,7 +20858,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "South Beach is a neighborhood on the East Shore of Staten Island, New York City, situated directly south of the Verrazzano\u2013Narrows Bridge."
+      "fact": "South Beach is a neighborhood on the East Shore of Staten Island, New York City, situated directly south of the Verrazzano–Narrows Bridge."
     },
     {
       "cityName": "South Beach",
@@ -19969,7 +20942,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "South Fallsburg is located within the Town of Fallsburg at 41\u00b042\u203259\u2033N 74\u00b037\u203249\u2033W (41.716489, -74.630279)."
+      "fact": "South Fallsburg is located within the Town of Fallsburg at 41°42′59″N 74°37′49″W (41.716489, -74.630279)."
     },
     {
       "cityName": "South Farmingdale",
@@ -20060,7 +21033,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "It is also home to St. Anthony's High School, Walt Whitman High School and the South Huntington Public Library."
+      "fact": "It is also home to Saint Anthony's High School, Walt Whitman High School and the South Huntington Public Library."
     },
     {
       "cityName": "South Huntington",
@@ -20137,7 +21110,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is just north of John F. Kennedy International Airport, between Aqueduct Racetrack to the west and the Van Wyck Expressway to the east."
+      "fact": "It is just north of John F Kennedy International Airport, between Aqueduct Racetrack to the west and the Van Wyck Expressway to the east."
     },
     {
       "cityName": "South Ozone Park",
@@ -20165,7 +21138,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Osborn\u2013Bouton\u2013Mead House was added to the National Register of Historic Places in 2004."
+      "fact": "The Osborn–Bouton–Mead House was added to the National Register of Historic Places in 2004."
     },
     {
       "cityName": "South Setauket",
@@ -20221,7 +21194,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It is for students, grades 6\u201312, with dyslexia and similar language-based learning disabilities."
+      "fact": "It is for students, grades 6–12, with dyslexia and similar language-based learning disabilities."
     },
     {
       "cityName": "South Wales",
@@ -20389,7 +21362,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Springfield Gardens is a neighborhood in the southeastern area of the New York City borough of Queens, bounded to the north by St. Albans, to the east by Laurelton and Rosedale, to the south by John F. Kennedy International Airport, and to the west by Farmers Boulevard."
+      "fact": "Springfield Gardens is a neighborhood in the southeastern area of the New York City borough of Queens, bounded to the north by Saint Albans, to the east by Laurelton and Rosedale, to the south by John F Kennedy International Airport, and to the west by Farmers Boulevard."
     },
     {
       "cityName": "Springfield Gardens",
@@ -20452,7 +21425,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Spuyten Duyvil (, SPY-t\u0259n-DIE-v\u0259l) is a neighborhood of the Bronx, New York City."
+      "fact": "Spuyten Duyvil (, SPY-tən-DIE-vəl) is a neighborhood of the Bronx, New York City."
     },
     {
       "cityName": "Staatsburg",
@@ -20487,7 +21460,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was a long-time commercial center of the island, but has struggled to revive after several decades of neglect following the 1964 construction of the Verrazzano\u2013Narrows Bridge, which shifted the commercial development of the island to its interior."
+      "fact": "It was a long-time commercial center of the island, but has struggled to revive after several decades of neglect following the 1964 construction of the Verrazzano–Narrows Bridge, which shifted the commercial development of the island to its interior."
     },
     {
       "cityName": "Stapleton",
@@ -20522,7 +21495,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It contains the designated St. George Historic District and the St. Paul's Avenue-Stapleton Heights Historic District, which feature large Victorian houses."
+      "fact": "It contains the designated Saint George Historic District and the Saint Paul's Avenue-Stapleton Heights Historic District, which feature large Victorian houses."
     },
     {
       "cityName": "Staten Island",
@@ -20536,14 +21509,14 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Staten Island has Metropolitan Transportation Authority (MTA) bus lines and an MTA rapid transit line, the Staten Island Railway, which runs from the ferry terminal at St. George to Tottenville."
+      "fact": "Staten Island has Metropolitan Transportation Authority (MTA) bus lines and an MTA rapid transit line, the Staten Island Railway, which runs from the ferry terminal at Saint George to Tottenville."
     },
     {
       "cityName": "Staten Island",
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Staten Island ( STAT-\u0259n) is the southernmost of the five boroughs of New York City, coextensive with Richmond County and situated at the southernmost point of the State of New York."
+      "fact": "Staten Island is the southernmost of the five boroughs of New York City, coextensive with Richmond County and situated at the southernmost point of the State of New York."
     },
     {
       "cityName": "Staten Island",
@@ -20676,7 +21649,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "U S Route 9W, U S Route 202, and the Palisades Interstate Parkway are major north\u2013south routes through the town."
+      "fact": "U S Route 9W, U S Route 202, and the Palisades Interstate Parkway are major north–south routes through the town."
     },
     {
       "cityName": "Stony Point",
@@ -20746,7 +21719,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Suffern (/\u02c8s\u028cf\u0259rn/ ) is a village that was incorporated in 1796 in the town of Ramapo in Rockland County, New York."
+      "fact": "Suffern is a village that was incorporated in 1796 in the town of Ramapo in Rockland County, New York."
     },
     {
       "cityName": "Suffern",
@@ -20977,7 +21950,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The name comes from the Mohawk tekontar\u00f3:ken, meaning \"it is at the junction of two waterways\"."
+      "fact": "The name comes from the Mohawk tekontaró:ken, meaning \"it is at the junction of two waterways\"."
     },
     {
       "cityName": "Ticonderoga",
@@ -20991,7 +21964,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Its downtown and surrounding built up areas in the southeastern part of town comprise the Ticonderoga census designated place, which contains two thirds of the town\u2019s population."
+      "fact": "Its downtown and surrounding built up areas in the southeastern part of town comprise the Ticonderoga census designated place, which contains two thirds of the town’s population."
     },
     {
       "cityName": "Times Square",
@@ -21054,7 +22027,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "The Times Square\u201342nd Street and 42nd Street\u2013Port Authority Bus Terminal stations have consistently ranked as the busiest in the New York City Subway system, transporting more than 200000 passengers daily."
+      "fact": "The Times Square–42nd Street and 42nd Street–Port Authority Bus Terminal stations have consistently ranked as the busiest in the New York City Subway system, transporting more than 200000 passengers daily."
     },
     {
       "cityName": "Times Square",
@@ -21138,7 +22111,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The local subway is the IND Concourse Line (B and \u200bD trains), operating along the Grand Concourse."
+      "fact": "The local subway is the IND Concourse Line (B and ​D trains), operating along the Grand Concourse."
     },
     {
       "cityName": "Tremont",
@@ -21159,7 +22132,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Tribeca ( try-BEK-\u0259), originally written as TriBeCa, is a neighborhood in Lower Manhattan in New York City."
+      "fact": "Tribeca ( try-BEK-ə), originally written as TriBeCa, is a neighborhood in Lower Manhattan in New York City."
     },
     {
       "cityName": "Tribeca",
@@ -21260,6 +22233,27 @@
       "fact": "The village's application for a post office established the present spelling."
     },
     {
+      "cityName": "Tuckahoe",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tuckahoe is a village in Westchester County, New York, United States."
+    },
+    {
+      "cityName": "Tuckahoe",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "One-and-a-half miles long and three-quarters of a mile wide, with the Bronx River serving as its western boundary, the Village of Tuckahoe is approximately sixteen miles north of midtown Manhattan in southern Westchester County."
+    },
+    {
+      "cityName": "Tuckahoe",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2010 census, the village's population was 6,486."
+    },
+    {
       "cityName": "Tully",
       "state": "NY",
       "source": "Wikipedia",
@@ -21355,7 +22349,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "While there exists an alternative theory regarding the Munsee word p'tuxseepu, which is said to mean 'crooked water' or 'crooked river', the Unami name for this location survives: t\u00f9kwsitu, \"place of the Wolf-Clan People\"."
+      "fact": "While there exists an alternative theory regarding the Munsee word p'tuxseepu, which is said to mean 'crooked water' or 'crooked river', the Unami name for this location survives: tùkwsitu, \"place of the Wolf-Clan People\"."
     },
     {
       "cityName": "Tuxedo Park",
@@ -21369,7 +22363,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Its name is derived from an indigenous Lenape word ptukwsiit (Munsee dialect) or t\u00f9kwsit (Unami dialect), meaning \"round foot\" or Wolf Clan."
+      "fact": "Its name is derived from an indigenous Lenape word ptukwsiit (Munsee dialect) or tùkwsit (Unami dialect), meaning \"round foot\" or Wolf Clan."
     },
     {
       "cityName": "Tuxedo Park",
@@ -21517,6 +22511,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The following places in New York are called Unionville: Unionville, Albany County, New York Unionville, Orange County, New York Unionville, a hamlet in Potsdam (town), New York Hawthorne, New York, in Westchester County, formerly known as Unionville."
+    },
+    {
+      "cityName": "Upper Brookville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Upper Brookville is a village located within the Town of Oyster Bay in Nassau County, on the North Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Upper Brookville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,786 at the time of the 2020 census."
+    },
+    {
+      "cityName": "Upper Nyack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Upper Nyack is a village incorporated in 1872 in the town of Clarkstown, Rockland County, New York, United States."
+    },
+    {
+      "cityName": "Upper Nyack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located north of the village of Nyack, east of Valley Cottage, south of Rockland Lake State Park, and west of the Hudson River."
+    },
+    {
+      "cityName": "Upper Nyack",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,063 at the 2010 census."
     },
     {
       "cityName": "Upper West Side",
@@ -21799,6 +22828,20 @@
       "fact": "Victor is part of the Greater Rochester area; Victor's strategic location led to extensive suburban growth in the late 20th and early 21st century."
     },
     {
+      "cityName": "Victory",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The term victory originally applied to warfare, and denotes success achieved in personal combat, after military operations in general or, by extension, in any competition."
+    },
+    {
+      "cityName": "Victory",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Success in a military campaign constitutes a strategic victory, while the success in a military engagement is a tactical victory."
+    },
+    {
       "cityName": "Village of the Branch",
       "state": "NY",
       "source": "Wikipedia",
@@ -21817,7 +22860,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named after a French author, Constantin Fran\u00e7ois de Chasseb\u0153uf, comte de Volney, who toured the area in 1808."
+      "fact": "The town was named after a French author, Constantin François de Chassebœuf, comte de Volney, who toured the area in 1808."
     },
     {
       "cityName": "Volney",
@@ -21831,7 +22874,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The village is named after a railroad attorney, Alonzo B. Voorhees."
+      "fact": "The village is named after a railroad attorney, Alonzo B Voorhees."
     },
     {
       "cityName": "Waddington",
@@ -21894,7 +22937,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "It was also previously known as \u201cLonsefekwa\u201d."
+      "fact": "It was also previously known as “Lonsefekwa”."
     },
     {
       "cityName": "Wainscott",
@@ -22007,6 +23050,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It has a hamlet, also called Walworth."
+    },
+    {
+      "cityName": "Wampsville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wampsville is a village within the town of Lenox in Madison County, New York, United States."
+    },
+    {
+      "cityName": "Wampsville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Madison County."
+    },
+    {
+      "cityName": "Wampsville",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 573 as of the 2020 census."
     },
     {
       "cityName": "Wantagh",
@@ -22398,7 +23462,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Former governor of New York Andrew M. Cuomo awarded fourteen projects in hopes that they would be catalysts for increased private investment in the village."
+      "fact": "Former governor of New York Andrew M Cuomo awarded fourteen projects in hopes that they would be catalysts for increased private investment in the village."
     },
     {
       "cityName": "Watkins Glen",
@@ -22413,6 +23477,20 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "As of December 2023, the majority of the awarded projects have been completed."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waverly is the name of some places in the US."
+    },
+    {
+      "cityName": "Waverly",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "state of New York:Waverly, Tioga County, New York, a village in New York's Southern Tier Waverly, Franklin County, New York, a town in Northern New York Waverly, Cattaraugus County, New York, a hamlet in Western New York, now known as Otto, within the town of Otto, New York"
     },
     {
       "cityName": "Wawarsing",
@@ -22545,7 +23623,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The village is named after the pioneer family of Abner Wells (1737\u20131797) who came from Southold on Long Island."
+      "fact": "The village is named after the pioneer family of Abner Wells (1737–1797) who came from Southold on Long Island."
     },
     {
       "cityName": "Wellsburg",
@@ -22597,6 +23675,27 @@
       "fact": "The village and the town have two separate, paid governments."
     },
     {
+      "cityName": "Wesley Hills",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wesley Hills is a village in the town of Ramapo, Rockland County, New York, United States."
+    },
+    {
+      "cityName": "Wesley Hills",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located north of Viola, east of Harriman State Park, south of Pomona, and west of New Hempstead."
+    },
+    {
+      "cityName": "Wesley Hills",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 5,628 at the 2010 census."
+    },
+    {
       "cityName": "West Albany",
       "state": "NY",
       "source": "Wikipedia",
@@ -22629,7 +23728,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Though the neighborhood is predominately Italian-American, it remains diverse with the Polish American Citizens Club, the West Albany Italian Benevolent Society, the Bet Shraga Hebrew Academy, and a Korean worship center in the former St. Francis de Sales Catholic Church."
+      "fact": "Though the neighborhood is predominately Italian-American, it remains diverse with the Polish American Citizens Club, the West Albany Italian Benevolent Society, the Bet Shraga Hebrew Academy, and a Korean worship center in the former Saint Francis de Sales Catholic Church."
     },
     {
       "cityName": "West Bloomfield",
@@ -22884,6 +23983,20 @@
       "fact": "Westhampton is in the Town of Southampton."
     },
     {
+      "cityName": "Westhampton Beach",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westhampton Beach is an incorporated village in the Town of Southampton, in Suffolk County, on the South Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Westhampton Beach",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2010 census, the population was 1,721."
+    },
+    {
       "cityName": "Westmere",
       "state": "NY",
       "source": "Wikipedia",
@@ -23133,7 +24246,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Williamsburg is a neighborhood in the New York City borough of Brooklyn, bordered by Greenpoint to the north; Bedford\u2013Stuyvesant to the south; Bushwick and East Williamsburg to the east; and the East River to the west."
+      "fact": "Williamsburg is a neighborhood in the New York City borough of Brooklyn, bordered by Greenpoint to the north; Bedford–Stuyvesant to the south; Bushwick and East Williamsburg to the east; and the East River to the west."
     },
     {
       "cityName": "Williamsburg",
@@ -23364,7 +24477,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Metro-North Harlem Valley\u2013Wingdale station is located between the Evangelical Center and the Harlem Valley Golf Course in the southern part of the CDP."
+      "fact": "The Metro-North Harlem Valley–Wingdale station is located between the Evangelical Center and the Harlem Valley Golf Course in the southern part of the CDP."
     },
     {
       "cityName": "Wingdale",
@@ -23427,7 +24540,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The St. Regis River, a tributary of the St. Lawrence River, forms the southeastern border."
+      "fact": "The Saint Regis River, a tributary of the Saint Lawrence River, forms the southeastern border."
     },
     {
       "cityName": "Winthrop",
@@ -23441,7 +24554,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The community is in northeastern St. Lawrence County, in the northeastern part of the town of Stockholm."
+      "fact": "The community is in northeastern Saint Lawrence County, in the northeastern part of the town of Stockholm."
     },
     {
       "cityName": "Winthrop",
@@ -23647,6 +24760,20 @@
       "fact": "Woodrow is patrolled by the 123rd Precinct of the New York City Police Department."
     },
     {
+      "cityName": "Woodsburgh",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodsburgh is a village located within the Town of Hempstead in Nassau County, on the South Shore of Long Island, in New York, United States."
+    },
+    {
+      "cityName": "Woodsburgh",
+      "state": "NY",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 897 at the time of the 2020 census."
+    },
+    {
       "cityName": "Woodside",
       "state": "NY",
       "source": "Wikipedia",
@@ -23770,7 +24897,7 @@
       "state": "NY",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Other major roads are Whiteview Road (NY 136), a primarily residential road that leads to US 4; and West Sand Lake Road (NY 150)."
+      "fact": "The population was 4,050 at the 2020 census."
     },
     {
       "cityName": "Wynantskill",
@@ -23785,27 +24912,6 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The community is a suburb of Troy."
-    },
-    {
-      "cityName": "Wynantskill",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "State Route 66 (Pawling Ave."
-    },
-    {
-      "cityName": "Wynantskill",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "in Wynantskill) is the main route through the community."
-    },
-    {
-      "cityName": "Wynantskill",
-      "state": "NY",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Wynantskill has a major grocery store, several banks and restaurants, a craft beverage store, convenience stores, hardware store and a post office with almost all houses located on side streets off Main Ave."
     },
     {
       "cityName": "Wyoming",

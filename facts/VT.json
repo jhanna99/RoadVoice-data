@@ -29,6 +29,34 @@
       "fact": "Alburgh is on the Alburgh Tongue, a peninsula extending from Canada into Lake Champlain, and lies on the only road-based route across Lake Champlain to New York state north of Addison, Vermont."
     },
     {
+      "cityName": "Andover",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Andover is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Andover",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 568 at the 2020 census."
+    },
+    {
+      "cityName": "Arlington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Arlington is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Arlington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,457 at the 2020 census."
+    },
+    {
       "cityName": "Ascutney",
       "state": "VT",
       "source": "Wikipedia",
@@ -36,11 +64,53 @@
       "fact": "As of the 2010 census, the population of the CDP was 540."
     },
     {
+      "cityName": "Athens",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is a town in Windham County, Vermont, United States."
+    },
+    {
+      "cityName": "Athens",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 380 at the 2020 census."
+    },
+    {
+      "cityName": "Bakersfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bakersfield is a town in Franklin County, Vermont, United States."
+    },
+    {
+      "cityName": "Bakersfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,273 at the 2020 census."
+    },
+    {
       "cityName": "Baltimore",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population of Baltimore was recorded as 229."
+    },
+    {
+      "cityName": "Barnard",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Barnard is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Barnard",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 992 at the 2020 census."
     },
     {
       "cityName": "Barnet",
@@ -229,7 +299,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Berlin ( BUR-lin) is a town in Washington County, Vermont, United States, founded in 1763."
+      "fact": "Berlin is a town in Washington County, Vermont, United States, founded in 1763."
     },
     {
       "cityName": "Bethel",
@@ -251,6 +321,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town includes the locations of Bethel village, Bethel-Gilead, East Bethel, Lilliesville, Lympus (formerly Olympus), and West Bethel."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bloomfield is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 217 at the 2020 census."
+    },
+    {
+      "cityName": "Bloomfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, New Hampshire-Vermont Micropolitan Statistical Area."
     },
     {
       "cityName": "Bolton",
@@ -404,7 +495,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The charter was granted to Samuel Averill and sixty-three associates in the name of Pocock\u2014in honor of a distinguished English admiral of that name."
+      "fact": "The charter was granted to Samuel Averill and sixty-three associates in the name of Pocock—in honor of a distinguished English admiral of that name."
     },
     {
       "cityName": "Bristol",
@@ -446,7 +537,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "In 2006, Brookfield was one of the first American towns to have its citizens pass a resolution endorsing the impeachment of President George W. Bush."
+      "fact": "In 2006, Brookfield was one of the first American towns to have its citizens pass a resolution endorsing the impeachment of President George W Bush."
     },
     {
       "cityName": "Brookfield",
@@ -489,6 +580,34 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "Work began in 2014, and was completed May 2015."
+    },
+    {
+      "cityName": "Brookline",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brookline is a town in Windham County, Vermont, United States."
+    },
+    {
+      "cityName": "Brookline",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 540 at the 2020 census."
+    },
+    {
+      "cityName": "Brownington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brownington is a town in Orleans County, Vermont, United States."
+    },
+    {
+      "cityName": "Brownington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,042 as of the 2020 census."
     },
     {
       "cityName": "Brunswick",
@@ -561,6 +680,34 @@
       "fact": "In 2015, Burlington became the first city in the U S to run entirely on renewable energy."
     },
     {
+      "cityName": "Cabot",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cabot is a six-mile-square town located in the northeast corner of Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Cabot",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,443 at the 2020 census."
+    },
+    {
+      "cityName": "Cabot",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the unincorporated villages of Cabot Village, Cabot Plain, South Cabot (Hookerville), East Cabot, Lower Cabot, and West Hill."
+    },
+    {
+      "cityName": "Cabot",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "There was also a community known as Petersville until property owners there sold a total of 100 acres to Molly’s Falls Electric Light and Power Company, and in 1925 a large dam was constructed on Molly’s Brook, that completely flooded the area that had been farms and homes to create what is now known as Molly’s Falls Reservoir, or sometimes “Marshfield Dam,” which is located close to the Cabot/Marshfield town line."
+    },
+    {
       "cityName": "Calais",
       "state": "VT",
       "source": "Wikipedia",
@@ -586,7 +733,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Due to Qu\u00e9b\u00e9cois ancestry, 26% of Canaan residents speak French as their primary language, making the town one of New England's \"Little Canadas.\" This is a decrease from 1982, when nearly 44% spoke French as their native language."
+      "fact": "Due to Québécois ancestry, 26% of Canaan residents speak French as their primary language, making the town one of New England's \"Little Canadas.\" This is a decrease from 1982, when nearly 44% spoke French as their native language."
     },
     {
       "cityName": "Castleton",
@@ -631,6 +778,48 @@
       "fact": "The town was named for Queen Charlotte, though unlike Charlotte, North Carolina, Charlottesville, Virginia, and other cities and towns that bear her name, the town's name is pronounced with the accent on the second syllable."
     },
     {
+      "cityName": "Chelsea",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chelsea is a town in and the shire town of Orange County, Vermont, United States."
+    },
+    {
+      "cityName": "Chelsea",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,233 at the 2020 census."
+    },
+    {
+      "cityName": "Chester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chester is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Chester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,005 at the 2020 census."
+    },
+    {
+      "cityName": "Chittenden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chittenden is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Chittenden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,237 at the 2020 census."
+    },
+    {
       "cityName": "Clarendon",
       "state": "VT",
       "source": "Wikipedia",
@@ -659,6 +848,27 @@
       "fact": "As of the 2020 census, the population of Colchester was 17524."
     },
     {
+      "cityName": "Concord",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Concord is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "Concord",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,141 at the 2020 census."
+    },
+    {
+      "cityName": "Concord",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH –VT Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Corinth",
       "state": "VT",
       "source": "Wikipedia",
@@ -673,11 +883,60 @@
       "fact": "It was founded November 3, 1761."
     },
     {
+      "cityName": "Coventry",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Coventry is a town in Orleans County, Vermont, United States."
+    },
+    {
+      "cityName": "Coventry",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,100 at the 2020 census."
+    },
+    {
       "cityName": "Craftsbury",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Craftsbury was incorporated in 2020."
+    },
+    {
+      "cityName": "Danby",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danby is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Danby",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,284 at the 2020 census."
+    },
+    {
+      "cityName": "Danville",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Danville is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Danville",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,335 at the 2020 census."
+    },
+    {
+      "cityName": "Danville",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The primary settlement in town is recorded as the Danville census-designated place (CDP) and had a population of 385 at the 2020 census."
     },
     {
       "cityName": "Derby",
@@ -810,7 +1069,56 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community is located along Vermont Route 36 11.2 miles (18.0 km) east of St. Albans City."
+      "fact": "The community is located along Vermont Route 36 11.2 miles (18.0 km) east of Saint Albans City."
+    },
+    {
+      "cityName": "East Haven",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Haven is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "East Haven",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 270 at the 2020 census."
+    },
+    {
+      "cityName": "East Haven",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH–VT Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "East Montpelier",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Montpelier is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "East Montpelier",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,598 at the 2020 census."
+    },
+    {
+      "cityName": "Eden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eden is a town in Lamoille County, Vermont, United States."
+    },
+    {
+      "cityName": "Eden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,338 at the 2020 census."
     },
     {
       "cityName": "Elmore",
@@ -824,7 +1132,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It was granted by the Vermont Republic in 1780, and was named for Colonel Samuel Elmore (1720\u20131805), one of the original grantees."
+      "fact": "It was granted by the Vermont Republic in 1780, and was named for Colonel Samuel Elmore (1720–1805), one of the original grantees."
     },
     {
       "cityName": "Enosburgh",
@@ -908,7 +1216,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Essex Junction became Vermont\u2019s 10th city on July 1, 2022."
+      "fact": "Essex Junction became Vermont’s 10th city on July 1, 2022."
     },
     {
       "cityName": "Essex Junction",
@@ -932,11 +1240,18 @@
       "fact": "The town is noted for its late 19th century residential and commercial architecture."
     },
     {
+      "cityName": "Fairfax",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fairfax is a town in Franklin County, Vermont, United States, with a population of 5,014 at the 2020 census."
+    },
+    {
       "cityName": "Fairfield",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "President Chester A. Arthur was born in Fairfield in 1829, and lived there for the first three years of his life."
+      "fact": "President Chester A Arthur was born in Fairfield in 1829, and lived there for the first three years of his life."
     },
     {
       "cityName": "Fairfield",
@@ -960,6 +1275,20 @@
       "fact": "It includes the village of Ely."
     },
     {
+      "cityName": "Fayston",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fayston is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Fayston",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,364 at the 2020 census."
+    },
+    {
       "cityName": "Ferrisburgh",
       "state": "VT",
       "source": "Wikipedia",
@@ -974,11 +1303,39 @@
       "fact": "The town is sometimes spelled Ferrisburg."
     },
     {
+      "cityName": "Fletcher",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fletcher is a town in Franklin County, Vermont, United States."
+    },
+    {
+      "cityName": "Fletcher",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,346 at the 2020 census."
+    },
+    {
       "cityName": "Franklin",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The original name was \"Huntsburgh\", but the name was changed to \"Franklin\" in 1817."
+    },
+    {
+      "cityName": "Georgia",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Georgia is a town in Franklin County, Vermont, United States."
+    },
+    {
+      "cityName": "Georgia",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,845 at the 2020 census."
     },
     {
       "cityName": "Glover",
@@ -1013,7 +1370,35 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Glover's residents include John S. Rodgers, who became the Lieutenant Governor of Vermont in 2025."
+      "fact": "Glover's residents include John S Rodgers, who became the Lieutenant Governor of Vermont in 2025."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Goshen is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Goshen",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 172 at the 2020 census."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Grafton is a town in Windham County, Vermont, United States."
+    },
+    {
+      "cityName": "Grafton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 645 at the 2020 census."
     },
     {
       "cityName": "Granby",
@@ -1198,6 +1583,27 @@
       "fact": "It includes the villages of Hartland, Hartland Four Corners, and North Hartland."
     },
     {
+      "cityName": "Highgate",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Highgate is a town in Franklin County, Vermont, United States."
+    },
+    {
+      "cityName": "Highgate",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,472 at the 2020 census."
+    },
+    {
+      "cityName": "Highgate",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is on the Canada–US border and is a border town with Philipsburg, Quebec."
+    },
+    {
       "cityName": "Hinesburg",
       "state": "VT",
       "source": "Wikipedia",
@@ -1224,6 +1630,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town was named for Thomas Hubbard, a landholder."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Huntington is a town in Chittenden County, Vermont, United States."
+    },
+    {
+      "cityName": "Huntington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,938 at the 2020 census."
+    },
+    {
+      "cityName": "Hyde Park",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hyde Park, Vermont, may refer to:Hyde Park (town), Vermont, a town in and the shire town of Lamoille County, Vermont, United States."
+    },
+    {
+      "cityName": "Hyde Park",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Hyde Park (village), Vermont, a village in the town of Hyde Park, Vermont, United States North Hyde Park, Vermont, a village in the town of Hyde Park, Vermont, United States"
     },
     {
       "cityName": "Hyde Park (town)",
@@ -1293,7 +1727,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Isle La Motte (French: \u00cele La Motte) is an island in Lake Champlain in northwestern Vermont, United States."
+      "fact": "Isle La Motte (French: Île La Motte) is an island in Lake Champlain in northwestern Vermont, United States."
     },
     {
       "cityName": "Isle La Motte",
@@ -1363,7 +1797,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Jay is one of the northernmost towns in Orleans County, Vermont, United States, located on the Canada\u2013US border."
+      "fact": "Jay is one of the northernmost towns in Orleans County, Vermont, United States, located on the Canada–US border."
     },
     {
       "cityName": "Jay",
@@ -1415,6 +1849,69 @@
       "fact": "The town was previously named Sherburne, but was renamed to its original name, \"Killington\", in 1999."
     },
     {
+      "cityName": "Kirby",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kirby is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Kirby",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 575 at the 2020 census."
+    },
+    {
+      "cityName": "Landgrove",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Landgrove is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Landgrove",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 177 at the 2020 census."
+    },
+    {
+      "cityName": "Leicester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Leicester is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Leicester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 990 at the 2020 census."
+    },
+    {
+      "cityName": "Lemington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lemington is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "Lemington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 87 as of the 2020 census."
+    },
+    {
+      "cityName": "Lemington",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH –VT Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Lincoln",
       "state": "VT",
       "source": "Wikipedia",
@@ -1448,6 +1945,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town contains the villages of Londonderry and South Londonderry."
+    },
+    {
+      "cityName": "Lowell",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lowell is the westernmost town in Orleans County, Vermont, United States."
+    },
+    {
+      "cityName": "Lowell",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 887 at the 2020 census."
     },
     {
       "cityName": "Ludlow",
@@ -1492,6 +2003,27 @@
       "fact": "There is also, where the town started, a village of Ludlow located in the town."
     },
     {
+      "cityName": "Lunenburg",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lunenburg is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,246 at the 2020 census, the most populous in Essex County."
+    },
+    {
+      "cityName": "Lunenburg",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Lunenburg contains the villages of Lunenburg and Gilman and hamlets of West Lunenburg, South Lunenburg, and Mill Village, and is part of the Berlin, NH –VT Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Lyndon",
       "state": "VT",
       "source": "Wikipedia",
@@ -1510,7 +2042,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Lyndon is the second-most populous town in the Northeast Kingdom; only neighboring St. Johnsbury is larger."
+      "fact": "Lyndon is the second-most populous town in the Northeast Kingdom; only neighboring Saint Johnsbury is larger."
     },
     {
       "cityName": "Lyndon",
@@ -1562,6 +2094,34 @@
       "fact": "Potash Hill hosts the Marlboro Music School and Festival each summer, as well as other arts and education programs throughout the year."
     },
     {
+      "cityName": "Marshfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshfield is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,583 at the 2020 census."
+    },
+    {
+      "cityName": "Mendon",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mendon is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Mendon",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,149 at the 2020 census."
+    },
+    {
       "cityName": "Middlebury",
       "state": "VT",
       "source": "Wikipedia",
@@ -1581,6 +2141,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Most of the village is listed on the National Register of Historic Places as the Middlebury Village Historic District."
+    },
+    {
+      "cityName": "Middlesex",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middlesex is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Middlesex",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,779 at the 2020 census."
+    },
+    {
+      "cityName": "Middletown Springs",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Middletown Springs is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Middletown Springs",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 794 at the 2020 census."
     },
     {
       "cityName": "Milton",
@@ -1609,6 +2197,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The Town website can be found here: https://www.miltonvt.gov/"
+    },
+    {
+      "cityName": "Monkton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monkton is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Monkton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,079 at the 2020 census."
     },
     {
       "cityName": "Montgomery",
@@ -1702,6 +2304,20 @@
       "fact": "As of the 2020 census, the population was 8074, with a daytime population growth of about 21000 due to the large number of jobs within city limits."
     },
     {
+      "cityName": "Moretown",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moretown is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Moretown",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,753 at the 2020 census."
+    },
+    {
       "cityName": "Morgan",
       "state": "VT",
       "source": "Wikipedia",
@@ -1744,11 +2360,53 @@
       "fact": "It includes the hamlets of Belmont, Healdville, Hortonville, and Tarbellville."
     },
     {
+      "cityName": "Mount Tabor",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Tabor is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Mount Tabor",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 210 at the 2020 census."
+    },
+    {
       "cityName": "New Haven",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "In addition to the town center, New Haven contains the communities of Belden (sometimes called Belden Falls), Brooksville, New Haven Junction and New Haven Mills."
+    },
+    {
+      "cityName": "Newark",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newark is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Newark",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 584 at the 2020 census."
+    },
+    {
+      "cityName": "Newbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newbury could be either of the following places in the US."
+    },
+    {
+      "cityName": "Newbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "state of Vermont:Newbury (town), Vermont Newbury (village), Vermont, within the town of Newbury"
     },
     {
       "cityName": "Newbury (town)",
@@ -1884,11 +2542,39 @@
       "fact": "The town's total population was 5918 at the 2020 census."
     },
     {
+      "cityName": "Norton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norton is a town in Essex County, Vermont, United States."
+    },
+    {
+      "cityName": "Norton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 153 at the 2020 census."
+    },
+    {
+      "cityName": "Norton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Berlin, NH –VT Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Norton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is located on the Canada–US border, immediately south of Stanhope, Quebec."
+    },
+    {
       "cityName": "Norwich",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is part of the Dresden School District, the first interstate school district in the United States, signed into law by President John F. Kennedy."
+      "fact": "The town is part of the Dresden School District, the first interstate school district in the United States, signed into law by President John F Kennedy."
     },
     {
       "cityName": "Norwich",
@@ -1903,6 +2589,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Home to some of the state of Vermont's wealthiest residents, the municipality is a commuter town for nearby Hanover, New Hampshire across the Connecticut River."
+    },
+    {
+      "cityName": "Orange",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orange is a town in Orange County, Vermont, United States."
+    },
+    {
+      "cityName": "Orange",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,048 at the 2020 census."
     },
     {
       "cityName": "Orleans",
@@ -1926,11 +2626,67 @@
       "fact": "The 300-acre (1.2 km2) site is now one of Vermont's premier state-operated historic sites."
     },
     {
+      "cityName": "Panton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Panton is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Panton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 646 at the 2020 census."
+    },
+    {
+      "cityName": "Pawlet",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pawlet is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Pawlet",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,424 at the 2020 census."
+    },
+    {
+      "cityName": "Peacham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Peacham is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Peacham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 715 at the 2020 census."
+    },
+    {
       "cityName": "Peru",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Originally known as Bromley, the town name was changed to \"Peru\" by the land grantees as a way of attracting land buyers to an area that had been described as 36 square miles (93 km2) of \"trees, bears and mountain lions\"."
+    },
+    {
+      "cityName": "Pittsfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pittsfield is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Pittsfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 504 at the 2020 census."
     },
     {
       "cityName": "Pittsford",
@@ -1973,6 +2729,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The State of Vermont Division for Historic Preservation owns and maintains the Coolidge Homestead and the village of Plymouth Notch."
+    },
+    {
+      "cityName": "Pomfret",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pomfret is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Pomfret",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 916 at the 2020 census."
     },
     {
       "cityName": "Poultney",
@@ -2105,7 +2875,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "When the area was originally settled there were three villages\u2014Randolph Center, East Randolph and West Randolph\u2014the current locations of the three fire departments."
+      "fact": "When the area was originally settled there were three villages—Randolph Center, East Randolph and West Randolph—the current locations of the three fire departments."
     },
     {
       "cityName": "Randolph",
@@ -2113,6 +2883,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "What is now Randolph, the primary village of the town, had previously been the village of West Randolph."
+    },
+    {
+      "cityName": "Reading",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Reading is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Reading",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 687 at the 2020 census."
     },
     {
       "cityName": "Readsboro",
@@ -2133,7 +2917,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Richford is the birthplace of R. G. LeTourneau, an industrialist who founded LeTourneau University in Longview, Texas."
+      "fact": "Richford is the birthplace of R G LeTourneau, an industrialist who founded LeTourneau University in Longview, Texas."
     },
     {
       "cityName": "Richford",
@@ -2148,6 +2932,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census the population was 4167."
+    },
+    {
+      "cityName": "Ripton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ripton is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Ripton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 739 at the 2020 census."
     },
     {
       "cityName": "Rochester",
@@ -2196,7 +2994,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The approximate center is the Rockingham Meeting House, passed by Route 103, a popular east\u2013west route across the state."
+      "fact": "The approximate center is the Rockingham Meeting House, passed by Route 103, a popular east–west route across the state."
     },
     {
       "cityName": "Rockingham",
@@ -2204,6 +3002,20 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "The houses, hotel, and store that burned were not rebuilt."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Roxbury is a town in Washington County, Vermont, United States, created by Vermont charter on August 6, 1781."
+    },
+    {
+      "cityName": "Roxbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 678 at the 2020 census."
     },
     {
       "cityName": "Royalton",
@@ -2294,14 +3106,14 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town completely surrounds St. Albans City, which is a separate municipality."
+      "fact": "The town completely surrounds Saint Albans City, which is a separate municipality."
     },
     {
       "cityName": "Saint Albans (city)",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Albans City is completely surrounded by St. Albans Town, which is a separate municipality."
+      "fact": "Saint Albans City is completely surrounded by Saint Albans Town, which is a separate municipality."
     },
     {
       "cityName": "Saint Albans (city)",
@@ -2311,11 +3123,32 @@
       "fact": "The city is in Northwestern Vermont, about 15 miles south of the Canadian border and 30 miles north of Burlington."
     },
     {
+      "cityName": "Saint George",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Saint George, also George of Lydda, was an early Christian martyr, born in Cappadocia in Anatolia, who is venerated as a saint."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "According to holy tradition, he was a soldier in the Roman army."
+    },
+    {
+      "cityName": "Saint George",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Saint George’s mother Saint Polychronia is believed to have come from Syria Palaestina and his father Saint Gerontios is believed to be of Syrian Cappadocian origin."
+    },
+    {
       "cityName": "Saint Johnsbury",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Johnsbury is situated on the Passumpsic River and is located approximately six miles northwest of the Connecticut River and 48 miles (77 km) south of the Canada\u2013U S border."
+      "fact": "Saint Johnsbury is situated on the Passumpsic River and is located approximately six miles northwest of the Connecticut River and 48 miles (77 km) south of the Canada–U S border."
     },
     {
       "cityName": "Saint Johnsbury",
@@ -2329,7 +3162,63 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The more densely settled southern one-third of the town is defined by the U S Census Bureau as the St. Johnsbury census-designated place, where over 81% of the population resides."
+      "fact": "The more densely settled southern one-third of the town is defined by the U S Census Bureau as the Saint Johnsbury census-designated place, where over 81% of the population resides."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Salisbury is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Salisbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,221 at the 2020 census."
+    },
+    {
+      "cityName": "Sandgate",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sandgate is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Sandgate",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 387 at the 2020 census."
+    },
+    {
+      "cityName": "Searsburg",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Searsburg is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Searsburg",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 126 at the 2020 census."
+    },
+    {
+      "cityName": "Shaftsbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shaftsbury is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Shaftsbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,598 at the 2020 census."
     },
     {
       "cityName": "Sharon",
@@ -2353,6 +3242,20 @@
       "fact": "The town is also home to The Sharon Academy, an independent middle and high school."
     },
     {
+      "cityName": "Sheffield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sheffield is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Sheffield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 682 at the 2020 census."
+    },
+    {
       "cityName": "Shelburne",
       "state": "VT",
       "source": "Wikipedia",
@@ -2372,6 +3275,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Sheldon was incorporated in 2020."
+    },
+    {
+      "cityName": "Shoreham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Shoreham is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Shoreham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,260 at the 2020 census."
     },
     {
       "cityName": "Shrewsbury",
@@ -2493,11 +3410,39 @@
       "fact": "As of the 2020 census, the population was 9062."
     },
     {
+      "cityName": "Stamford",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stamford is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Stamford",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 861 at the 2020 census."
+    },
+    {
       "cityName": "Stannard",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town has no paved roads."
+    },
+    {
+      "cityName": "Starksboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Starksboro is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Starksboro",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,756 at the 2020 census."
     },
     {
       "cityName": "Stockbridge",
@@ -2539,7 +3484,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town of Strafford was created on August 12, 1761, by way of a royal charter which King George III of Great Britain issued to Governor Benning Wentworth of New Hampshire."
+      "fact": "The town of Strafford was created on August 12, 1761, by way of a royal charter which King George 3 of Great Britain issued to Governor Benning Wentworth of New Hampshire."
     },
     {
       "cityName": "Strafford",
@@ -2547,6 +3492,69 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Strafford was one of thirteen Vermont towns isolated by flooding caused by Hurricane Irene in 2011."
+    },
+    {
+      "cityName": "Stratton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stratton is a town in Windham County, Vermont, United States."
+    },
+    {
+      "cityName": "Stratton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 440 at the 2020 census."
+    },
+    {
+      "cityName": "Sudbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sudbury is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Sudbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 545 at the 2020 census."
+    },
+    {
+      "cityName": "Sunderland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sunderland is a town in Bennington County, Vermont, United States."
+    },
+    {
+      "cityName": "Sunderland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,056 at the 2020 census."
+    },
+    {
+      "cityName": "Sunderland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is home to the mail-order company Orvis."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sutton is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Sutton",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 913 at the 2020 census."
     },
     {
       "cityName": "Swanton",
@@ -2596,6 +3604,20 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Camp Farnsworth originally started under private ownership by Chelebe and Madama Farnsworth in 1909 when it was called Camp Hanoum."
+    },
+    {
+      "cityName": "Tinmouth",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Tinmouth is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "Tinmouth",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 553 at the 2020 census."
     },
     {
       "cityName": "Topsham",
@@ -2710,11 +3732,46 @@
       "fact": "It was created by a Vermont charter on February 25, 1782, and was granted to militia Generals Benjamin Wait, Roger Enos and others."
     },
     {
+      "cityName": "Walden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Walden is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Walden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 956 at the 2020 census."
+    },
+    {
+      "cityName": "Walden",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The community has no ZIP code of its own; mail is routed through the West Danville and East Hardwick post offices."
+    },
+    {
       "cityName": "Wallingford",
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Wallingford also contains the villages of East Wallingford and South Wallingford."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waltham is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 446 at the 2020 census."
     },
     {
       "cityName": "Wardsboro",
@@ -2749,7 +3806,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The Long Trail, a hiking trail running from the border with Massachusetts to the Canada\u2013US border, traverses the town."
+      "fact": "The Long Trail, a hiking trail running from the border with Massachusetts to the Canada–US border, traverses the town."
     },
     {
       "cityName": "Washington",
@@ -2805,7 +3862,35 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "It gained its present form during the 1930s when dairy entrepreneur John W. Davies bought much of the village at that time and removed many barns and homes, saving the ones that interested him and imposing the exterior colors of white with green shutters."
+      "fact": "It gained its present form during the 1930s when dairy entrepreneur John W Davies bought much of the village at that time and removed many barns and homes, saving the ones that interested him and imposing the exterior colors of white with green shutters."
+    },
+    {
+      "cityName": "Waterville",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waterville is a town in Lamoille County, Vermont, United States."
+    },
+    {
+      "cityName": "Waterville",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 686 at the 2020 census."
+    },
+    {
+      "cityName": "Weathersfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weathersfield is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Weathersfield",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,842 at the 2020 census."
     },
     {
       "cityName": "Wells",
@@ -2829,6 +3914,55 @@
       "fact": "The village is a major service point for the nearby Mount Snow ski area."
     },
     {
+      "cityName": "West Fairlee",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Fairlee is a town in Orange County, Vermont, United States."
+    },
+    {
+      "cityName": "West Fairlee",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 621 at the 2020 census."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Haven is a town in Rutland County, Vermont, United States."
+    },
+    {
+      "cityName": "West Haven",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 239 at the 2020 census."
+    },
+    {
+      "cityName": "West Rutland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,214 at the 2020 census."
+    },
+    {
+      "cityName": "West Rutland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town center, located in the south-central portion of the town and where about 87% of the population resides, is defined by the U.S Census Bureau as a census-designated place (CDP)."
+    },
+    {
+      "cityName": "West Rutland",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Rutland micropolitan NECTA."
+    },
+    {
       "cityName": "West Windsor",
       "state": "VT",
       "source": "Wikipedia",
@@ -2848,6 +3982,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Westfield is home to the Immaculate Heart of Mary Abbey, a contemplative order of women, following the Benedictine rule."
+    },
+    {
+      "cityName": "Westford",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westford is a town in Chittenden County, Vermont, United States."
+    },
+    {
+      "cityName": "Westford",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,062 at the 2020 census."
     },
     {
       "cityName": "Westminster",
@@ -2883,6 +4031,55 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Westmore was incorporated in 2020."
+    },
+    {
+      "cityName": "Weston",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weston is a town in Windsor County, Vermont, United States."
+    },
+    {
+      "cityName": "Weston",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 623 at the 2020 census."
+    },
+    {
+      "cityName": "Weston",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Home to the Weston Playhouse Theatre Company, it includes the villages of Weston and The Island."
+    },
+    {
+      "cityName": "Weybridge",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weybridge is a town in Addison County, Vermont, United States."
+    },
+    {
+      "cityName": "Weybridge",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 814 at the 2020 census."
+    },
+    {
+      "cityName": "Wheelock",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wheelock is a town in Caledonia County, Vermont, United States."
+    },
+    {
+      "cityName": "Wheelock",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 759 at the 2020 census."
     },
     {
       "cityName": "White River Junction",
@@ -2973,7 +4170,7 @@
       "state": "VT",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Since the 2020 census, which recorded a population of 3146, Wilder\u2019s population has grown by approximately 30.96%."
+      "fact": "Since the 2020 census, which recorded a population of 3146, Wilder’s population has grown by approximately 30.96%."
     },
     {
       "cityName": "Williamstown",
@@ -3081,6 +4278,20 @@
       "fact": "The town was named for General Oliver Wolcott, a signer of the Declaration of Independence."
     },
     {
+      "cityName": "Woodbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodbury is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Woodbury",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 928 at the 2020 census."
+    },
+    {
       "cityName": "Woodford",
       "state": "VT",
       "source": "Wikipedia",
@@ -3100,6 +4311,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It includes the villages of Woodstock, South Woodstock, Taftsville, and West Woodstock."
+    },
+    {
+      "cityName": "Worcester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Worcester is a town in Washington County, Vermont, United States."
+    },
+    {
+      "cityName": "Worcester",
+      "state": "VT",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 964 at the 2020 census."
     }
   ]
 }

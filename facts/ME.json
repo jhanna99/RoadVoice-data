@@ -29,11 +29,25 @@
       "fact": "The town was named after English author Joseph Addison."
     },
     {
+      "cityName": "Albion",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Albion is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "Albion",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,006 at the 2020 census."
+    },
+    {
       "cityName": "Alexander",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster\u2013Ashburton Treaty which ended the Aroostook War in 1838\u20131839."
+      "fact": "The town is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster–Ashburton Treaty which ended the Aroostook War in 1838–1839."
     },
     {
       "cityName": "Alfred",
@@ -85,6 +99,34 @@
       "fact": "The community is named after an Alton in England."
     },
     {
+      "cityName": "Amherst",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amherst is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Amherst",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 248 at the 2020 census."
+    },
+    {
+      "cityName": "Amity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Amity is a town in Aroostook County, eastern Maine, United States, near the Canada–United States border."
+    },
+    {
+      "cityName": "Amity",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 253 at the 2020 census."
+    },
+    {
       "cityName": "Andover",
       "state": "ME",
       "source": "Wikipedia",
@@ -127,6 +169,34 @@
       "fact": "In 2014, Arundel was named \"Best Place to Live in Maine\" by Downeast Magazine."
     },
     {
+      "cityName": "Ashland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ashland is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Ashland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,202 at the 2020 census."
+    },
+    {
+      "cityName": "Athens",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Athens is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Athens",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 952 at the 2020 census."
+    },
+    {
       "cityName": "Auburn",
       "state": "ME",
       "source": "Wikipedia",
@@ -138,14 +208,14 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Auburn and its sister city Lewiston are known locally as the Twin Cities or Lewiston\u2013Auburn (L\u2013A)."
+      "fact": "Auburn and its sister city Lewiston are known locally as the Twin Cities or Lewiston–Auburn (L–A)."
     },
     {
       "cityName": "Augusta",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Augusta is the capital city of the U.S. state of Maine. The city's population was 18,899 at the 2020 United States census, making it the 12th-most populous city in Maine, and third-least populous state capital in the United States. Augusta is the seat of and most populous city in Kennebec County.."
+      "fact": "Augusta is the capital city of the US state of Maine. The city's population was 18,899 at the 2020 United States census, making it the 12th-most populous city in Maine, and third-least populous state capital in the United States. Augusta is the seat of and most populous city in Kennebec County.."
     },
     {
       "cityName": "Aurora",
@@ -202,6 +272,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The business flourished and expanded until it comprised several factories, which burned down in 1921."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Baldwin is a town in Cumberland County, Maine, United States."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,520 at the 2020 census."
+    },
+    {
+      "cityName": "Baldwin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Portland-South Portland-Biddeford metropolitan area."
     },
     {
       "cityName": "Bangor",
@@ -306,14 +397,14 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The island is directly accessible by air at Hancock County\u2013Bar Harbor Airport, and by ferry from Winter Harbor, Maine, and Yarmouth, Nova Scotia."
+      "fact": "The island is directly accessible by air at Hancock County–Bar Harbor Airport, and by ferry from Winter Harbor, Maine, and Yarmouth, Nova Scotia."
     },
     {
       "cityName": "Baring Plantation",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The plantation is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster\u2013Ashburton Treaty which ended the Aroostook War in 1838\u20131839."
+      "fact": "The plantation is named for Alexander Baring, 1st Baron Ashburton, the British negotiator of the Webster–Ashburton Treaty which ended the Aroostook War in 1838–1839."
     },
     {
       "cityName": "Baring Plantation",
@@ -419,6 +510,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named after Manwarren Beal, an early settler."
+    },
+    {
+      "cityName": "Beaver Cove",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Beaver Cove is a town in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Beaver Cove",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 133 at the 2020 census."
     },
     {
       "cityName": "Beddington",
@@ -589,6 +694,27 @@
       "fact": "Bingham is a historic town located beside the Kennebec River."
     },
     {
+      "cityName": "Blaine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 667 at the 2020 census."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was known as Alva prior to incorporation in 1874, when it was renamed in honor of James G Blaine, then Speaker of the U.S House of Representatives."
+    },
+    {
+      "cityName": "Blaine",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "According to the Blaine 1974 Centennial Celebration Pamphlet, the town's namesake donated a schoolhouse bell in return for the town changing its name."
+    },
+    {
       "cityName": "Blue Hill",
       "state": "ME",
       "source": "Wikipedia",
@@ -617,6 +743,41 @@
       "fact": "It includes the neighborhoods of Back Narrows, Dover, Linekin, Oak Hill, Ocean Point, Spruce Shores, and the villages of East Boothbay and Trevett."
     },
     {
+      "cityName": "Boothbay Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Boothbay Harbor is a town in Lincoln County, Maine, United States."
+    },
+    {
+      "cityName": "Boothbay Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,027 at the 2020 census."
+    },
+    {
+      "cityName": "Boothbay Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It includes the neighborhoods of Mount Pisgah, and Sprucewold, the Bayville and West Boothbay Harbor villages, the Isle of Springs summer colony, and the Boothbay Harbor census-designated place."
+    },
+    {
+      "cityName": "Boothbay Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Boothbay Harbor is surrounded by the larger town of Boothbay."
+    },
+    {
+      "cityName": "Boothbay Harbor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "During summer months, it is a popular yachting and tourist destination."
+    },
+    {
       "cityName": "Bowdoin",
       "state": "ME",
       "source": "Wikipedia",
@@ -628,7 +789,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Bowdoin is located 36 miles (58 km) north-northeast of Portland, and 28 miles (45 km) miles south-southwest of Augusta (Maine\u2019s state capital)."
+      "fact": "Bowdoin is located 36 miles (58 km) north-northeast of Portland, and 28 miles (45 km) miles south-southwest of Augusta (Maine’s state capital)."
     },
     {
       "cityName": "Bowdoinham",
@@ -636,6 +797,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Bowdoinham was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Bowerbank",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bowerbank is a town in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Bowerbank",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 136 at the 2020 census."
+    },
+    {
+      "cityName": "Bradford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bradford is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Bradford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bangor, Maine Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bradford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,184 at the 2020 census."
     },
     {
       "cityName": "Bradley",
@@ -701,6 +897,20 @@
       "fact": "Finally, in 1812, Brewer broke away from Orrington and incorporated as a separate town."
     },
     {
+      "cityName": "Bridgewater",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bridgewater is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Bridgewater",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 532 at the 2020 census."
+    },
+    {
       "cityName": "Bridgton",
       "state": "ME",
       "source": "Wikipedia",
@@ -750,11 +960,25 @@
       "fact": "The village was called Pemquit by the French."
     },
     {
+      "cityName": "Brooklin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Brooklin is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Brooklin",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 827 at the 2020 census."
+    },
+    {
       "cityName": "Brooks",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was incorporated on December 10, 1816, and was named after John Brooks, the Federalist candidate for Governor of Massachusetts in 1815\u20131816, when the town incorporated."
+      "fact": "The town was incorporated on December 10, 1816, and was named after John Brooks, the Federalist candidate for Governor of Massachusetts in 1815–1816, when the town incorporated."
     },
     {
       "cityName": "Brooks",
@@ -838,7 +1062,42 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bucksport is across the Penobscot River estuary from Fort Knox and the Penobscot Narrows Bridge, which replaced the Waldo\u2013Hancock Bridge."
+      "fact": "Bucksport is across the Penobscot River estuary from Fort Knox and the Penobscot Narrows Bridge, which replaced the Waldo–Hancock Bridge."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burlington is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bangor Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Burlington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 373 at the 2020 census."
+    },
+    {
+      "cityName": "Burnham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Burnham is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Burnham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,096 at the 2020 census."
     },
     {
       "cityName": "Buxton",
@@ -873,7 +1132,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city has three Canada\u2013US border crossings (also known as ports of entry) over the St. Croix River connecting to St. Stephen, New Brunswick, Canada."
+      "fact": "The city has three Canada–US border crossings (also known as ports of entry) over the Saint Croix River connecting to Saint Stephen, New Brunswick, Canada."
     },
     {
       "cityName": "Calais",
@@ -888,6 +1147,55 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Retail, service, and construction businesses are the primary components of the Calais economy."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cambridge is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Cambridge",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 443 at the 2020 census."
+    },
+    {
+      "cityName": "Camden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Camden is a town in Knox County, Maine, United States."
+    },
+    {
+      "cityName": "Camden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,232 at the 2020 census."
+    },
+    {
+      "cityName": "Camden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Located on Penobscot Bay at the mouth of the Megunticook River, Camden is one of the few places on the Atlantic seaboard where mountains meet the sea."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Canaan is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Canaan",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,193 at the 2020 census."
     },
     {
       "cityName": "Canton",
@@ -936,7 +1244,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford, Maine, metropolitan statistical area."
+      "fact": "The town is part of the Portland–South Portland–Biddeford, Maine, metropolitan statistical area."
     },
     {
       "cityName": "Cape Elizabeth",
@@ -953,6 +1261,20 @@
       "fact": "Cape Elizabeth has a single community school department."
     },
     {
+      "cityName": "Caratunk",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caratunk is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Caratunk",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 81 at the 2020 census."
+    },
+    {
       "cityName": "Caribou",
       "state": "ME",
       "source": "Wikipedia",
@@ -967,6 +1289,41 @@
       "fact": "The city is a service center for the agricultural and tourism industries, and the location of a National Weather Service Forecast Office."
     },
     {
+      "cityName": "Carmel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carmel is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Carmel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Bangor Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Carmel",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,867 at the 2020 census."
+    },
+    {
+      "cityName": "Carrabassett Valley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carrabassett Valley is a town in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Carrabassett Valley",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 673 at the 2020 census."
+    },
+    {
       "cityName": "Carroll Plantation",
       "state": "ME",
       "source": "Wikipedia",
@@ -979,6 +1336,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Carroll Plantation is a plantation in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Carthage is a town in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Carthage",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 509 at the 2020 census."
     },
     {
       "cityName": "Casco",
@@ -1042,6 +1413,48 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The town is named after Jean-Vincent d'Abbadie de Saint-Castin."
+    },
+    {
+      "cityName": "Castle Hill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castle Hill is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Castle Hill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 373 people at the 2020 census."
+    },
+    {
+      "cityName": "Caswell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Caswell is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Caswell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 293 at the 2020 census."
+    },
+    {
+      "cityName": "Chapman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chapman is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Chapman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 491 at the 2020 census."
     },
     {
       "cityName": "Charleston",
@@ -1135,6 +1548,76 @@
       "fact": "In 1826, the part of Steuben known as Narraguagus was annexed onto Cherryfield."
     },
     {
+      "cityName": "Chester",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chester is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Chester",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 549 at the 2020 census."
+    },
+    {
+      "cityName": "Chesterville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Chesterville is a town in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "Chesterville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,328 at the 2020 census."
+    },
+    {
+      "cityName": "China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "China is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,408 at the 2020 census."
+    },
+    {
+      "cityName": "China",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "China is included in the Augusta, Maine micropolitan NECTA."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Clifton is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 840 at the 2020 census."
+    },
+    {
+      "cityName": "Clifton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Bangor Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Clinton",
       "state": "ME",
       "source": "Wikipedia",
@@ -1154,6 +1637,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Columbia was first settled by Europeans in the 1750s."
+    },
+    {
+      "cityName": "Columbia Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Columbia Falls is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Columbia Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 476 at the 2020 census."
     },
     {
       "cityName": "Cooper",
@@ -1177,6 +1674,20 @@
       "fact": "The village of Corinna is in the southern part of the town."
     },
     {
+      "cityName": "Corinth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Corinth is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Corinth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,900 at the 2020 census."
+    },
+    {
       "cityName": "Cornish",
       "state": "ME",
       "source": "Wikipedia",
@@ -1191,11 +1702,53 @@
       "fact": "Cornish is home to the first concrete bridge in North America."
     },
     {
+      "cityName": "Cornville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cornville is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Cornville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,317 at the 2020 census."
+    },
+    {
+      "cityName": "Cranberry Isles",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Cranberry Isles is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Cranberry Isles",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 160 at the 2020 census."
+    },
+    {
       "cityName": "Crawford",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named after William H. Crawford, Secretary of the Treasury."
+      "fact": "The town was named after William H Crawford, Secretary of the Treasury."
+    },
+    {
+      "cityName": "Crystal",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Crystal is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Crystal",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 248 at the 2020 census."
     },
     {
       "cityName": "Cumberland",
@@ -1310,6 +1863,48 @@
       "fact": "Dennistown Plantation (French: Plantation de Dennistown) is a plantation in Somerset County, Maine, United States."
     },
     {
+      "cityName": "Dennistown Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dennistown Plantation is a plantation in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Dennistown Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 61 at the 2020 census."
+    },
+    {
+      "cityName": "Dennysville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dennysville is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Dennysville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 300 at the 2020 census."
+    },
+    {
+      "cityName": "Detroit",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Detroit is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Detroit",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 885 at the 2020 census."
+    },
+    {
       "cityName": "Dexter",
       "state": "ME",
       "source": "Wikipedia",
@@ -1336,6 +1931,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Doctor Elijeh Dix, a substantial landowner in the area, bought the town (and Dixmont) which bears his name."
+    },
+    {
+      "cityName": "Dixmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dixmont is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Dixmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,211 at the 2020 census."
+    },
+    {
+      "cityName": "Dixmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Bangor Metropolitan Statistical Area."
     },
     {
       "cityName": "Dover-Foxcroft",
@@ -1394,11 +2010,60 @@
       "fact": "It is the home of Washington Academy, a private school founded in 1792."
     },
     {
+      "cityName": "East Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "East Millinocket is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "East Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,572 at the 2020 census."
+    },
+    {
+      "cityName": "East Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains a census-designated place of the same name."
+    },
+    {
       "cityName": "East Waterboro",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community is located at the junction of U S Route 202, Maine State Route 4, and Maine State Route 5."
+    },
+    {
+      "cityName": "Eastbrook",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eastbrook is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Eastbrook",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 424 at the 2020 census."
+    },
+    {
+      "cityName": "Easton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Easton is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Easton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,320 at the 2020 census."
     },
     {
       "cityName": "Eastport",
@@ -1436,6 +2101,34 @@
       "fact": "It includes the neighborhoods of East Edgecomb, North Edgecomb, and Pools Landing."
     },
     {
+      "cityName": "Edinburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Edinburg is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Edinburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 134 at the 2020 census."
+    },
+    {
+      "cityName": "Edinburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Bangor Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Edinburg",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "It is located between the towns of Argyle and Howland along Maine State Route 116 on the west bank of the Penobscot River."
+    },
+    {
       "cityName": "Eliot",
       "state": "ME",
       "source": "Wikipedia",
@@ -1464,11 +2157,39 @@
       "fact": "The 2020 Census determined it had a population of 8399."
     },
     {
+      "cityName": "Embden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Embden is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Embden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 902 at the 2020 census."
+    },
+    {
       "cityName": "Enfield",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "There is also a large seasonal population with many cottages located on Cold Stream Pond, a lake within the town."
+    },
+    {
+      "cityName": "Etna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Etna is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Etna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,226 at the 2020 census."
     },
     {
       "cityName": "Eustis",
@@ -1483,6 +2204,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of late 2025, the current mayor of Eustis is Willie Hawkins."
+    },
+    {
+      "cityName": "Exeter",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Exeter is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Exeter",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 963 at the 2020 census."
     },
     {
       "cityName": "Fairfield",
@@ -1513,6 +2248,27 @@
       "fact": "The town is home to three private golf clubs and the Portland Yacht Club."
     },
     {
+      "cityName": "Farmingdale",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Farmingdale is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "Farmingdale",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,995 at the 2020 census."
+    },
+    {
+      "cityName": "Farmingdale",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Farmingdale is included in the Augusta, Maine micropolitan New England City and Town Area."
+    },
+    {
       "cityName": "Farmington",
       "state": "ME",
       "source": "Wikipedia",
@@ -1534,6 +2290,20 @@
       "fact": "A popular recreation spot in central Maine, Fayette is part of the Winthrop Lakes Region."
     },
     {
+      "cityName": "Fort Fairfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Fort Fairfield is a town in Aroostook County, eastern Maine, United States, located along the Canada–US border."
+    },
+    {
+      "cityName": "Fort Fairfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,322 at the 2020 census."
+    },
+    {
       "cityName": "Fort Kent",
       "state": "ME",
       "source": "Wikipedia",
@@ -1553,6 +2323,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Fort Kent is the northern terminus of U S 1 and the ending point of the Northern Forest Canoe Trail."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Frankfort is a town on the Penobscot River estuary in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Frankfort",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,231 at the 2020 census."
     },
     {
       "cityName": "Franklin",
@@ -1702,6 +2486,20 @@
       "fact": "Garfield Plantation is a plantation in Aroostook County, Maine, United States."
     },
     {
+      "cityName": "Garland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Garland is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Garland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,026 at the 2020 census."
+    },
+    {
       "cityName": "Georgetown",
       "state": "ME",
       "source": "Wikipedia",
@@ -1714,6 +2512,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Located on an island accessible by car from the mainland, Georgetown includes the villages of Five Islands, Georgetown, Bay Point, Marrtown, West Georgetown and Robinhood."
+    },
+    {
+      "cityName": "Gilead",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Gilead is a town in Oxford County, Maine, United States."
+    },
+    {
+      "cityName": "Gilead",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Upon incorporation in 1804, it was named for the large quantity of Balm of Gilead trees in the town center."
+    },
+    {
+      "cityName": "Gilead",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 195 at the 2020 census."
     },
     {
       "cityName": "Glenburn",
@@ -1755,7 +2574,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Initially named Narragansett Number 7, the village was renamed Gorhamtown Plantation in honor of the famous New England Ranger John Gorham I, the great grandfather of John Gorham 4th."
+      "fact": "Initially named Narragansett Number 7, the village was renamed Gorhamtown Plantation in honor of the famous New England Ranger John Gorham 1, the great grandfather of John Gorham 4th."
     },
     {
       "cityName": "Gouldsboro",
@@ -1867,7 +2686,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Gleason Archer Senior (1880\u20131966), the founder and first president of Suffolk University in Boston, was born in Great Pond."
+      "fact": "Gleason Archer Senior (1880–1966), the founder and first president of Suffolk University in Boston, was born in Great Pond."
     },
     {
       "cityName": "Great Pond",
@@ -1947,6 +2766,20 @@
       "fact": "Hamlin is noted for being the closest continental location in the U S to Europe; the town's northeastern corner is situated at a distance of 2508 miles (4018 km) from Achill Head in Ireland, making it the closest point in the mainland U S to Western Europe."
     },
     {
+      "cityName": "Hammond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hammond is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Hammond",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 91 at the 2020 census."
+    },
+    {
       "cityName": "Hampden",
       "state": "ME",
       "source": "Wikipedia",
@@ -1966,6 +2799,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is a popular vacation and recreation area."
+    },
+    {
+      "cityName": "Harmony",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Harmony is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Harmony",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 825 at the 2020 census."
     },
     {
       "cityName": "Harpswell",
@@ -2017,6 +2864,41 @@
       "fact": "Hartford is included in the Lewiston-Auburn, Maine metropolitan New England City and Town Area."
     },
     {
+      "cityName": "Hartland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hartland is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Hartland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,705 at the 2020 census."
+    },
+    {
+      "cityName": "Hartland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains a census-designated place of the same name."
+    },
+    {
+      "cityName": "Haynesville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Haynesville is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Haynesville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 97 at the 2020 census."
+    },
+    {
       "cityName": "Hebron",
       "state": "ME",
       "source": "Wikipedia",
@@ -2036,6 +2918,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "There is an elementary school, Hebron Station School, located on Station Road."
+    },
+    {
+      "cityName": "Hermon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hermon is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Hermon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,461 at the 2020 census."
+    },
+    {
+      "cityName": "Hersey",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hersey is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Hersey",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 73 at the 2020 census."
     },
     {
       "cityName": "Highland Plantation",
@@ -2071,6 +2981,55 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Hodgdon's population was 1290 at the 2020 census."
+    },
+    {
+      "cityName": "Holden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Holden is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Holden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,277 at the 2020 census."
+    },
+    {
+      "cityName": "Hollis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hollis is a town in York County, Maine, United States."
+    },
+    {
+      "cityName": "Hollis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,745 at the 2020 census."
+    },
+    {
+      "cityName": "Hollis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Hollis is a rural bedroom community of Portland and is part of the Portland-South Portland-Biddeford metropolitan area."
+    },
+    {
+      "cityName": "Hope",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hope is a town in Knox County, Maine, United States."
+    },
+    {
+      "cityName": "Hope",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,698 at the 2020 census."
     },
     {
       "cityName": "Houlton",
@@ -2143,6 +3102,20 @@
       "fact": "Howland is a town in Penobscot County, Maine, United States, which was settled in 1818."
     },
     {
+      "cityName": "Hudson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Hudson is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,416 at the 2020 census."
+    },
+    {
       "cityName": "Industry",
       "state": "ME",
       "source": "Wikipedia",
@@ -2183,6 +3156,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It has a summer colony accessible by state ferry service from Lincolnville Beach three miles to the west, by private boat, or by air taxi service."
+    },
+    {
+      "cityName": "Jackman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Jackman is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Jackman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 783 at the 2020 census."
     },
     {
       "cityName": "Jackson",
@@ -2232,6 +3219,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It contains the villages or hamlets of Jonesport, Mason Bay, Monsapec, and West Jonesport."
+    },
+    {
+      "cityName": "Kenduskeag",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kenduskeag is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Kenduskeag",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,346 at the 2020 census."
     },
     {
       "cityName": "Kennebunk",
@@ -2367,11 +3368,39 @@
       "fact": "The town was named for General Henry Knox, the first United States Secretary of War."
     },
     {
+      "cityName": "LaGrange",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "LaGrange is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "LaGrange",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 635 at the 2020 census."
+    },
+    {
       "cityName": "Lake View Plantation",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Lake View Plantation is a plantation in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Lakeville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lakeville is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Lakeville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 104 at the 2020 census."
     },
     {
       "cityName": "Lamoine",
@@ -2413,7 +3442,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Lebanon is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area."
+      "fact": "Lebanon is part of the Portland–South Portland–Biddeford, Maine metropolitan statistical area."
     },
     {
       "cityName": "Lee",
@@ -2458,6 +3487,20 @@
       "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
     },
     {
+      "cityName": "Levant",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Levant is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Levant",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,970 at the 2020 census."
+    },
+    {
       "cityName": "Lewiston",
       "state": "ME",
       "source": "Wikipedia",
@@ -2469,7 +3512,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "According to some sources, it has the largest French-speaking population in the United States by total number, though second to St. Martin Parish, Louisiana, by percentage of speakers."
+      "fact": "According to some sources, it has the largest French-speaking population in the United States by total number, though second to Saint Martin Parish, Louisiana, by percentage of speakers."
     },
     {
       "cityName": "Lewiston",
@@ -2483,7 +3526,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The city has 44 properties listed on the National Register of Historic Places, the Androscoggin Bank Colis\u00e9e, and two major medical centers: Central Maine Medical Center and Saint Mary's Regional Medical Center."
+      "fact": "The city has 44 properties listed on the National Register of Historic Places, the Androscoggin Bank Colisée, and two major medical centers: Central Maine Medical Center and Saint Mary's Regional Medical Center."
     },
     {
       "cityName": "Lewiston",
@@ -2504,7 +3547,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "Notable institutions include the Basilica of Saints Peter and Paul\u2014the only basilica in Maine\u2014along with Bates College and four other colleges and universities."
+      "fact": "Notable institutions include the Basilica of Saints Peter and Paul—the only basilica in Maine—along with Bates College and four other colleges and universities."
     },
     {
       "cityName": "Lewiston",
@@ -2518,7 +3561,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "Lewiston forms one half of the Lewiston\u2013Auburn metropolitan statistical area, commonly referred to as \"L/A\" or \"L-A.\" The city has undergone significant demographic transformation, particularly since the late 20th century."
+      "fact": "Lewiston forms one half of the Lewiston–Auburn metropolitan statistical area, commonly referred to as \"L/A\" or \"L-A.\" The city has undergone significant demographic transformation, particularly since the late 20th century."
     },
     {
       "cityName": "Lewiston",
@@ -2526,6 +3569,48 @@
       "source": "Wikipedia",
       "factNumber": 10,
       "fact": "While English remains the predominant language, Lewiston is home to a substantial French-Canadian population."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Liberty is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Liberty",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 934 at the 2020 census."
+    },
+    {
+      "cityName": "Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Limerick is a town in York County, Maine, United States."
+    },
+    {
+      "cityName": "Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Portland-South Portland-Biddeford metropolitan area."
+    },
+    {
+      "cityName": "Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 3,188 at the 2020 census."
+    },
+    {
+      "cityName": "Limerick",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Limerick contains part of the census-designated place of Lake Arrowhead."
     },
     {
       "cityName": "Limestone",
@@ -2602,7 +3687,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is included in both the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston\u2013Auburn, Maine Metropolitan New England city and town area."
+      "fact": "It is included in both the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston–Auburn, Maine Metropolitan New England city and town area."
     },
     {
       "cityName": "Lisbon",
@@ -2617,6 +3702,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Litchfield is a rural town in Kennebec County, Maine, United States known for its farms, lakes, and natural scenery."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Littleton is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 997 at the 2020 census."
     },
     {
       "cityName": "Livermore",
@@ -2640,6 +3739,34 @@
       "fact": "It is included in both the Lewiston-Auburn, Maine, Metropolitan Statistical Area and the Lewiston-Auburn, Maine, Metropolitan New England City and Town Area."
     },
     {
+      "cityName": "Livermore Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Livermore Falls is a town in Androscoggin County, Maine, United States."
+    },
+    {
+      "cityName": "Livermore Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,060 at the 2020 census."
+    },
+    {
+      "cityName": "Livermore Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is included in both the Lewiston-Auburn, Maine Metropolitan Statistical Area and the Lewiston-Auburn, Maine Metropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Livermore Falls",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "High school students in Livermore Falls attend Spruce Mountain High School."
+    },
+    {
       "cityName": "Long Island",
       "state": "ME",
       "source": "Wikipedia",
@@ -2654,11 +3781,39 @@
       "fact": "Lovell is the site of Kezar Lake, a resort area."
     },
     {
+      "cityName": "Lowell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Lowell is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Lowell",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 368 at the 2020 census."
+    },
+    {
       "cityName": "Lubec",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town, with a population of 1237 at the 2020 census, is home to Quoddy Head State Park."
+    },
+    {
+      "cityName": "Ludlow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ludlow is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Ludlow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 434 at the 2020 census."
     },
     {
       "cityName": "Lyman",
@@ -2710,11 +3865,46 @@
       "fact": "Macwahoc Plantation is a plantation in Aroostook County, Maine, United States."
     },
     {
+      "cityName": "Macwahoc Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Macwahoc Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Macwahoc Plantation",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 62 at the 2020 census."
+    },
+    {
       "cityName": "Madawaska",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Madawaska is opposite Edmundston, Madawaska County in New Brunswick, Canada, to which it is connected by the Edmundston\u2013Madawaska Bridge over the Saint John River."
+      "fact": "Madawaska is opposite Edmundston, Madawaska County in New Brunswick, Canada, to which it is connected by the Edmundston–Madawaska Bridge over the Saint John River."
+    },
+    {
+      "cityName": "Madison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Madison is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Madison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,726 at the 2020 census."
+    },
+    {
+      "cityName": "Madison",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
     },
     {
       "cityName": "Manchester",
@@ -2722,6 +3912,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The southern part of the town bordering Cobbosseecontee Lake is a popular recreation spot in central Maine, and part of the Winthrop Lakes Region."
+    },
+    {
+      "cityName": "Mapleton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mapleton is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Mapleton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,886 at the 2020 census."
+    },
+    {
+      "cityName": "Mariaville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mariaville is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Mariaville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 472 at the 2020 census."
     },
     {
       "cityName": "Mars Hill",
@@ -2736,6 +3954,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The region is mainly agricultural."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Marshfield is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Marshfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 528 at the 2020 census."
+    },
+    {
+      "cityName": "Masardis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Masardis is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Masardis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 204 at the 2020 census."
     },
     {
       "cityName": "Matinicus Isle",
@@ -2766,6 +4012,20 @@
       "fact": "The village of Mattawamkeag is in the southwestern part of the town."
     },
     {
+      "cityName": "Maxfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Maxfield is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Maxfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 89 at the 2020 census."
+    },
+    {
       "cityName": "Mechanic Falls",
       "state": "ME",
       "source": "Wikipedia",
@@ -2773,11 +4033,67 @@
       "fact": "It is included in the Lewiston-Auburn, Maine metropolitan statistical area and the Lewiston-Auburn, Maine metropolitan New England city and town area."
     },
     {
+      "cityName": "Meddybemps",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Meddybemps is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Meddybemps",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 139 at the 2020 census."
+    },
+    {
+      "cityName": "Medford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Medford is a town in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Medford",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 230 at the 2020 census."
+    },
+    {
+      "cityName": "Medway",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Medway is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Medway",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,187 at the 2020 census."
+    },
+    {
       "cityName": "Mercer",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named after the Revolutionary War hero Hugh Mercer."
+    },
+    {
+      "cityName": "Merrill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Merrill is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Merrill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 208 at the 2020 census."
     },
     {
       "cityName": "Mexico",
@@ -2808,6 +4124,27 @@
       "fact": "The town's slogan is the \"Best little town by a dam site,\" referring to the Milford Dam abutting Milford on the Penobscot River, south of the Penobscot Indian Island Reservation."
     },
     {
+      "cityName": "Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Millinocket is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,114 at the 2020 census."
+    },
+    {
+      "cityName": "Millinocket",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
+    },
+    {
       "cityName": "Milltown",
       "state": "ME",
       "source": "Wikipedia",
@@ -2819,7 +4156,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The city has three Canada\u2013US border crossings (also known as ports of entry) over the St. Croix River connecting to St. Stephen, New Brunswick, Canada."
+      "fact": "The city has three Canada–US border crossings (also known as ports of entry) over the Saint Croix River connecting to Saint Stephen, New Brunswick, Canada."
     },
     {
       "cityName": "Milltown",
@@ -2834,6 +4171,34 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Retail, service, and construction businesses are the primary components of the Calais economy."
+    },
+    {
+      "cityName": "Milo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Milo is a town in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Milo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,251 at the 2020 census."
+    },
+    {
+      "cityName": "Milo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Milo includes the village of Derby and census-designated place of Milo."
+    },
+    {
+      "cityName": "Milo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "The town sits in the valley of the Piscataquis, Sebec and Pleasant Rivers in the foothills of the Longfellow Mountains and is the gateway to many pristine hunting, fishing, hiking, boating, and other outdoor tourist locations such as Schoodic, Seboeis, and Sebec Lakes, Mount Katahdin and its backcountry in Baxter State Park and the Katahdin Woods and Waters National Monument, Katahdin Iron Works and Gulf Hagas."
     },
     {
       "cityName": "Minot",
@@ -2854,7 +4219,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Monhegan ( mon-HEE-g\u0259n) is a historic island plantation in the Gulf of Maine, approximately 12 nautical miles (22 km; 14 mi) off the coast of Maine."
+      "fact": "Monhegan ( mon-HEE-gən) is a historic island plantation in the Gulf of Maine, approximately 12 nautical miles (22 km; 14 mi) off the coast of Maine."
     },
     {
       "cityName": "Monhegan",
@@ -2948,18 +4313,46 @@
       "fact": "It is not uncommon to see many hikers in town resting before (or after) their trip into the Wilderness, and several lodging places in town cater directly to these hikers."
     },
     {
+      "cityName": "Monticello",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Monticello is a town in Aroostook County, Maine, United States on the northern branch of the Meduxnekeag River."
+    },
+    {
+      "cityName": "Monticello",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 737 at the 2020 census."
+    },
+    {
+      "cityName": "Montville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Montville is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Montville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,020 at the 2020 census."
+    },
+    {
       "cityName": "Moose River",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Samuel Holden who in 1820 opened an inn as a stop for cattle drivers en route from Boston to Quebec."
+      "fact": "The population was 188 at the 2020 census."
     },
     {
       "cityName": "Moose River",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It was first settled by Capt."
+      "fact": "It was first settled by Captain Samuel Holden who in 1820 opened an inn as a stop for cattle drivers en route from Boston to Quebec."
     },
     {
       "cityName": "Moro Plantation",
@@ -2967,6 +4360,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Moro Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Morrill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morrill is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Morrill",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 971 at the 2020 census."
+    },
+    {
+      "cityName": "Moscow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Moscow is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Moscow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 475 at the 2020 census."
+    },
+    {
+      "cityName": "Mount Chase",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Mount Chase is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Mount Chase",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 187 at the 2020 census."
     },
     {
       "cityName": "Mount Desert",
@@ -2995,6 +4430,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Nashville Plantation is a plantation in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "New Canada",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Canada is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "New Canada",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 310 at the 2020 census."
     },
     {
       "cityName": "New Gloucester",
@@ -3060,6 +4509,48 @@
       "fact": "New Sharon is a town in Franklin County, Maine, United States, incorporated in 1794."
     },
     {
+      "cityName": "New Sweden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Sweden is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "New Sweden",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 577 at the 2020 census."
+    },
+    {
+      "cityName": "New Vineyard",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "New Vineyard is a town in Franklin County, Maine, United States."
+    },
+    {
+      "cityName": "New Vineyard",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 721 at the 2020 census."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Newburgh is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Newburgh",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,595 at the time of the 2020 census."
+    },
+    {
       "cityName": "Newcastle",
       "state": "ME",
       "source": "Wikipedia",
@@ -3085,7 +4576,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area."
+      "fact": "The town is part of the Portland–South Portland–Biddeford metropolitan statistical area."
     },
     {
       "cityName": "Newport",
@@ -3106,7 +4597,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town\u2019s year-round population was 411 at the 2020 census."
+      "fact": "The town’s year-round population was 411 at the 2020 census."
     },
     {
       "cityName": "Newry",
@@ -3127,7 +4618,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Nobleboro is named for Arthur Noble's son Arthur II."
+      "fact": "Nobleboro is named for Arthur Noble's son Arthur 2."
     },
     {
       "cityName": "Nobleboro",
@@ -3135,6 +4626,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Part of Nobleboro was part of Shem Drowne's claim in the 1730s."
+    },
+    {
+      "cityName": "Norridgewock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Norridgewock is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Norridgewock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,278 at the 2020 census."
+    },
+    {
+      "cityName": "Norridgewock",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It contains the census-designated place of the same name."
     },
     {
       "cityName": "North Berwick",
@@ -3200,6 +4712,20 @@
       "fact": "North Yarmouth is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
     },
     {
+      "cityName": "Northfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Northfield is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Northfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 178 at the 2020 census."
+    },
+    {
       "cityName": "Northport",
       "state": "ME",
       "source": "Wikipedia",
@@ -3219,6 +4745,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Norway was included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Oakfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oakfield is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Oakfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 661 at the 2020 census."
+    },
+    {
+      "cityName": "Oakfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The village of Oakfield, listed as a census-designated place, is in the northwestern corner of the town."
     },
     {
       "cityName": "Oakland",
@@ -3282,6 +4829,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The city's developed area is chiefly located on the relatively large Marsh Island, but its boundaries extend beyond it."
+    },
+    {
+      "cityName": "Orient",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orient is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Orient",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 156 at the 2020 census."
+    },
+    {
+      "cityName": "Orland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orland is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Orland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,221 at the 2020 census."
     },
     {
       "cityName": "Orono",
@@ -3354,6 +4929,48 @@
       "fact": "A Penobscot River crossing ferry operated in the 19th century."
     },
     {
+      "cityName": "Orrington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Orrington is a town on the Penobscot River estuary in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Orrington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,812 at the 2020 census."
+    },
+    {
+      "cityName": "Osborn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Osborn is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Osborn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 65 at the 2020 census."
+    },
+    {
+      "cityName": "Otis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Otis is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Otis",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 673 at the 2020 census."
+    },
+    {
       "cityName": "Otisfield",
       "state": "ME",
       "source": "Wikipedia",
@@ -3401,6 +5018,41 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town includes the village of Welchville."
+    },
+    {
+      "cityName": "Palermo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palermo is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Palermo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,570 at the 2020 census."
+    },
+    {
+      "cityName": "Palermo",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Palermo is included in the Augusta, Maine, micropolitan New England City and Town Area."
+    },
+    {
+      "cityName": "Palmyra",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Palmyra is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Palmyra",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,924 at the 2020 census."
     },
     {
       "cityName": "Paris",
@@ -3480,6 +5132,20 @@
       "fact": "The town was named after Maine's 33rd governor, Sidney Perham."
     },
     {
+      "cityName": "Perry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Perry is a town in Washington County, Maine, United States, on the Canada–United States border."
+    },
+    {
+      "cityName": "Perry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the town had a population of 802."
+    },
+    {
       "cityName": "Peru",
       "state": "ME",
       "source": "Wikipedia",
@@ -3536,6 +5202,20 @@
       "fact": "Pleasant Ridge Plantation is a plantation in Somerset County, Maine, United States."
     },
     {
+      "cityName": "Plymouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Plymouth is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Plymouth",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,325 at the 2020 census."
+    },
+    {
       "cityName": "Poland",
       "state": "ME",
       "source": "Wikipedia",
@@ -3555,6 +5235,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It is included in the Lewiston-Auburn, Maine metropolitan statistical area, which itself is part of the Greater Portland-Lewiston Combined Statistical Area."
+    },
+    {
+      "cityName": "Portage Lake",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Portage Lake is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Portage Lake",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 359 at the 2020 census."
     },
     {
       "cityName": "Porter",
@@ -3722,7 +5416,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is a summer recreation area and is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area."
+      "fact": "It is a summer recreation area and is part of the Portland–South Portland–Biddeford, Maine metropolitan statistical area."
     },
     {
       "cityName": "Raymond",
@@ -3786,6 +5480,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community was named after Brigadier General Eleazer Wheelock Ripley of the War of 1812."
+    },
+    {
+      "cityName": "Robbinston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Robbinston is a town in Washington County, Maine, United States."
+    },
+    {
+      "cityName": "Robbinston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 539 at the 2020 census."
     },
     {
       "cityName": "Rockland",
@@ -3893,6 +5601,34 @@
       "fact": "Saco's twin-city is Biddeford."
     },
     {
+      "cityName": "Saint Agatha",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Agatha is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Saint Agatha",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 730 at the 2020 census."
+    },
+    {
+      "cityName": "Saint Albans",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Albans is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Saint Albans",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,045 at the 2020 census."
+    },
+    {
       "cityName": "Saint Francis",
       "state": "ME",
       "source": "Wikipedia",
@@ -3911,7 +5647,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "A favorite with artists, writers and naturalists, St. George is home to the Brothers and Hay Ledge nature preserve, comprising four islands off Port Clyde."
+      "fact": "A favorite with artists, writers and naturalists, Saint George is home to the Brothers and Hay Ledge nature preserve, comprising four islands off Port Clyde."
     },
     {
       "cityName": "Saint George",
@@ -3925,7 +5661,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. John Plantation (French: Plantation de Saint-Jean) is a plantation in Aroostook County, Maine, United States, on the banks of the Saint John River."
+      "fact": "Saint John Plantation (French: Plantation de Saint-Jean) is a plantation in Aroostook County, Maine, United States, on the banks of the Saint John River."
     },
     {
       "cityName": "Sandy River Plantation",
@@ -3960,7 +5696,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "On January 8, 2013, Maura A. Herlihy was appointed as Sanford's first mayor."
+      "fact": "On January 8, 2013, Maura A Herlihy was appointed as Sanford's first mayor."
     },
     {
       "cityName": "Sanford",
@@ -4005,6 +5741,34 @@
       "fact": "The community is located along Maine State Route 175, 21 miles (34 km) southwest of Ellsworth."
     },
     {
+      "cityName": "Scarborough",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Located about 7 miles (11 km) south of Portland, Scarborough is part of the Portland–South Portland–Biddeford, Maine metropolitan statistical area."
+    },
+    {
+      "cityName": "Scarborough",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 22,135 at the 2020 census, making it the most populous town in Maine."
+    },
+    {
+      "cityName": "Searsmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Searsmont is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Searsmont",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,400 at the 2020 census."
+    },
+    {
       "cityName": "Searsport",
       "state": "ME",
       "source": "Wikipedia",
@@ -4017,6 +5781,41 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Searsport is an incorporated town and deep water seaport located at the confluence of the Penobscot River estuary and the Penobscot Bay immediately northwest of Sears Island and Cape Jellison in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Sebago",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sebago is a town in Cumberland County, Maine, United States."
+    },
+    {
+      "cityName": "Sebago",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,911 at the 2020 census."
+    },
+    {
+      "cityName": "Sebago",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Portland-South Portland-Biddeford metropolitan area."
+    },
+    {
+      "cityName": "Sebec",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sebec is a town in Piscataquis County, Maine, United States."
+    },
+    {
+      "cityName": "Sebec",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 665 at the 2020 census."
     },
     {
       "cityName": "Seboeis Plantation",
@@ -4052,6 +5851,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Shapleigh is divided into the villages of North Shapleigh, Shapleigh Corner, Ross Corner and Emery Mills."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sherman is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Sherman",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 815 at the 2020 census."
     },
     {
       "cityName": "Shirley",
@@ -4121,7 +5934,35 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town was named after the Rev. Henry Smith, an early settler."
+      "fact": "The town was named after the Reverend Henry Smith, an early settler."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Smyrna is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Smyrna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 439 at the 2020 census."
+    },
+    {
+      "cityName": "Solon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Solon is a town in Somerset County, Maine, United States."
+    },
+    {
+      "cityName": "Solon",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 978 at the 2020 census."
     },
     {
       "cityName": "Somerville",
@@ -4129,6 +5970,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Somerville is located 15 miles east of the state capital, Augusta."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Sorrento is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Sorrento",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 279 at the 2020 census."
     },
     {
       "cityName": "South Berwick",
@@ -4292,6 +6147,20 @@
       "fact": "The municipality contains within it the villages of Southwest Harbor, Manset, Seawall, Wonderland, and Pemetic Hills."
     },
     {
+      "cityName": "Springfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Springfield is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Springfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 293 at the 2020 census."
+    },
+    {
       "cityName": "Springvale",
       "state": "ME",
       "source": "Wikipedia",
@@ -4355,11 +6224,39 @@
       "fact": "Incorporated in 1795, it was named after Baron Friedrich Wilhelm von Steuben, the Inspector General of the U S Army during the Revolutionary War."
     },
     {
+      "cityName": "Stockholm",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stockholm is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Stockholm",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 250 at the 2020 census."
+    },
+    {
       "cityName": "Stockton Springs",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Stockton Springs is home to Fort Point State Park and Fort Point Light, both located on Fort Point, a peninsula on Cape Jellison."
+    },
+    {
+      "cityName": "Stoneham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stoneham is a town in Oxford County, Maine, United States."
+    },
+    {
+      "cityName": "Stoneham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 261 at the 2020 census."
     },
     {
       "cityName": "Stonington",
@@ -4381,6 +6278,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "In 2011, 14854989 pounds of lobster were landed by Stonington fishermen, with a value of $46.3 million."
+    },
+    {
+      "cityName": "Stow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stow is a town in Oxford County, Maine, United States."
+    },
+    {
+      "cityName": "Stow",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 393 at the 2020 census."
     },
     {
       "cityName": "Strong",
@@ -4408,7 +6319,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Colloquially referred to as \"Sully\" or \"the Sullivans\"\u2014like many Maine municipalities composed of villages with geographic designations of the town proper\u2014the municipality was incorporated in 1789."
+      "fact": "Colloquially referred to as \"Sully\" or \"the Sullivans\"—like many Maine municipalities composed of villages with geographic designations of the town proper—the municipality was incorporated in 1789."
     },
     {
       "cityName": "Sullivan",
@@ -4430,6 +6341,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town includes the villages of West Sumner and East Sumner."
+    },
+    {
+      "cityName": "Surry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Surry is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Surry",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,632 at the 2020 census."
     },
     {
       "cityName": "Swan's Island",
@@ -4488,6 +6413,20 @@
       "fact": "The island has a summertime population of approximately 1000."
     },
     {
+      "cityName": "Swanville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Swanville is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Swanville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,377 at the 2020 census."
+    },
+    {
       "cityName": "Sweden",
       "state": "ME",
       "source": "Wikipedia",
@@ -4534,7 +6473,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Thomaston, formerly known as Fort St. Georges, Fort Wharf, and Lincoln, is a town in Knox County, Maine, United States."
+      "fact": "Thomaston, formerly known as Fort Saint Georges, Fort Wharf, and Lincoln, is a town in Knox County, Maine, United States."
     },
     {
       "cityName": "Thorndike",
@@ -4542,6 +6481,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named after Israel Thorndike, a landowner."
+    },
+    {
+      "cityName": "Topsfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Topsfield may refer to:Topsfield, Maine Topsfield, Massachusetts Topsfield (CDP), Massachusetts, a census-designated place Andrew Topsfield, Keeper of Eastern Art at the Ashmolean Museum"
     },
     {
       "cityName": "Topsham",
@@ -4583,7 +6529,21 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In January 1969, town voters defeated 144\u201377 an attempt to build a nuclear power plant and aluminum refinery in Trenton."
+      "fact": "In January 1969, town voters defeated 144–77 an attempt to build a nuclear power plant and aluminum refinery in Trenton."
+    },
+    {
+      "cityName": "Troy",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Troy is a town in Waldo County, Maine, United States."
+    },
+    {
+      "cityName": "Troy",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,018 at the 2020 census."
     },
     {
       "cityName": "Turner",
@@ -4649,6 +6609,20 @@
       "fact": "The town is the service center for the northern portion of Waldo County."
     },
     {
+      "cityName": "Upton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Upton is a town in Oxford County, Maine, United States."
+    },
+    {
+      "cityName": "Upton",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 69 at the 2020 census."
+    },
+    {
       "cityName": "Van Buren",
       "state": "ME",
       "source": "Wikipedia",
@@ -4667,14 +6641,14 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Vanceboro is also connected to St. Croix by the Saint Croix\u2013Vanceboro Railway Bridge, which is used by the New Brunswick Southern Railway."
+      "fact": "Vanceboro is also connected to Saint Croix by the Saint Croix–Vanceboro Railway Bridge, which is used by the New Brunswick Southern Railway."
     },
     {
       "cityName": "Vanceboro",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Vanceboro is across the St. Croix River from St. Croix, New Brunswick, Canada, to which it is connected by the Saint Croix\u2013Vanceboro Bridge."
+      "fact": "Vanceboro is across the Saint Croix River from Saint Croix, New Brunswick, Canada, to which it is connected by the Saint Croix–Vanceboro Bridge."
     },
     {
       "cityName": "Vanceboro",
@@ -4712,6 +6686,34 @@
       "fact": "It became a separate town in 1853 because General Veazie, its wealthiest citizen, felt that Bangor's property taxes were excessive."
     },
     {
+      "cityName": "Verona Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Verona Island is a town located on an island of the same name in the Penobscot River in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Verona Island",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 507 at the 2020 census."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Vienna is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 578 at the 2020 census."
+    },
+    {
       "cityName": "Vinalhaven",
       "state": "ME",
       "source": "Wikipedia",
@@ -4731,6 +6733,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Since there is no bridge to the island, Vinalhaven is primarily accessible from Rockland via an approximately 75-minute state ferry ride across West Penobscot Bay, or by air taxi from Knox County Regional Airport."
+    },
+    {
+      "cityName": "Wade",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wade is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Wade",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 229 at the 2020 census."
     },
     {
       "cityName": "Waite",
@@ -4796,11 +6812,81 @@
       "fact": "The regional Oak Hill High School opened in Wales in 1976."
     },
     {
+      "cityName": "Wallagrass",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wallagrass is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Wallagrass",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 519 at the 2020 census."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Waltham is a town in Hancock County, Maine, United States."
+    },
+    {
+      "cityName": "Waltham",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 332 at the 2020 census."
+    },
+    {
       "cityName": "Warren",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It includes the villages of East Warren, Warren and South Warren, the latter home to the Maine State Prison and minimum security Bolduc Correctional Facility."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washburn is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was incorporated on February 25, 1861, and named after Israel Washburn, the governor of Maine at the time."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 1,527 at the 2020 census."
+    },
+    {
+      "cityName": "Washburn",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Wilder House, which was built in 1852, is located on Main Street in Washburn and predates the town's incorporation by nine years."
+    },
+    {
+      "cityName": "Washington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Washington, officially the Town of Washington, is a town in Knox County, Maine, United States."
+    },
+    {
+      "cityName": "Washington",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,590 at the 2020 United States census."
     },
     {
       "cityName": "Waterboro",
@@ -4957,6 +7043,27 @@
       "fact": "West Forks is a plantation in Somerset County, Maine, United States."
     },
     {
+      "cityName": "West Gardiner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "West Gardiner is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "West Gardiner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,671 at the 2020 census."
+    },
+    {
+      "cityName": "West Gardiner",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "West Gardiner is included in the Augusta, Maine micropolitan New England City and Town Area."
+    },
+    {
       "cityName": "West Newfield",
       "state": "ME",
       "source": "Wikipedia",
@@ -4968,7 +7075,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area."
+      "fact": "The town is part of the Portland–South Portland–Biddeford metropolitan statistical area."
     },
     {
       "cityName": "West Paris",
@@ -4989,7 +7096,49 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Westbrook is a city in Cumberland County, Maine, United States and a suburb of Portland. The population was 20,400 at the 2020 census, making it the fastest-growing city in Maine between 2010 and 2020. It is part of the Portland\u2013South Portland\u2013Biddeford, Maine metropolitan statistical area.."
+      "fact": "Westbrook is a city in Cumberland County, Maine, United States and a suburb of Portland. The population was 20,400 at the 2020 census, making it the fastest-growing city in Maine between 2010 and 2020. It is part of the Portland–South Portland–Biddeford, Maine metropolitan statistical area.."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westfield is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Westfield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 455 at the 2020 census."
+    },
+    {
+      "cityName": "Westmanland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Westmanland is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Westmanland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 79 at the 2020 census."
+    },
+    {
+      "cityName": "Weston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Weston is a town in Aroostook County, Maine, United States."
+    },
+    {
+      "cityName": "Weston",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 245 at the 2020 census."
     },
     {
       "cityName": "Westport Island",
@@ -4997,6 +7146,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "In the 19th century the island was known as Jeremysquam, a nickname islanders still use for it."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whitefield is a town in Lincoln County, Maine, United States."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,408 at the 2020 census."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Whitefield is named for the celebrated British evangelist George Whitefield, who inspired the colonists before the town was settled in 1770, mainly by Irish Catholics."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "They remembered him when incorporation came in 1809."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 5,
+      "fact": "In the early twenty-first century it was the boyhood home of Sean and Jamie Oshima, who formed their folk-pop duo Oshima Brothers there."
+    },
+    {
+      "cityName": "Whitefield",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 6,
+      "fact": "Whitefield is included in the Augusta, Maine micropolitan New England City and Town Area."
     },
     {
       "cityName": "Whiting",
@@ -5020,6 +7211,13 @@
       "fact": "The town was named after Colonel Joseph Whitney, a mill owner."
     },
     {
+      "cityName": "Willimantic",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Willimantic may refer to:Willimantic, Connecticut, village of Windham, in Windham County, Connecticut, United States Willimantic, Maine, town in Piscataquis County, Maine, United States USS Willimantic (ID-3549), United States Navy cargo ship Willimantic River, a tributary of the Shetucket River"
+    },
+    {
       "cityName": "Wilton",
       "state": "ME",
       "source": "Wikipedia",
@@ -5034,11 +7232,32 @@
       "fact": "It includes the villages of South Windham and North Windham."
     },
     {
+      "cityName": "Windsor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Windsor is a town in Kennebec County, Maine, United States."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,632 at the 2020 census."
+    },
+    {
+      "cityName": "Windsor",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Windsor is included in the Augusta, Maine, micropolitan New England City and Town Area."
+    },
+    {
       "cityName": "Winn",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was named for John M. Winn, an early landholder."
+      "fact": "The town was named for John M Winn, an early landholder."
     },
     {
       "cityName": "Winslow",
@@ -5059,14 +7278,14 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Schoodic Point District of Acadia National Park is adjacent to the town, and has played an important role in the community\u2019s economic and social development."
+      "fact": "The Schoodic Point District of Acadia National Park is adjacent to the town, and has played an important role in the community’s economic and social development."
     },
     {
       "cityName": "Winter Harbor",
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Winter Harbor hosts the annual Winter Harbor Lobster Festival each August, which celebrates the community\u2019s history, culture, and economic activity."
+      "fact": "Winter Harbor hosts the annual Winter Harbor Lobster Festival each August, which celebrates the community’s history, culture, and economic activity."
     },
     {
       "cityName": "Winter Harbor",
@@ -5080,7 +7299,7 @@
       "state": "ME",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Winter Harbor was once the location of a US Naval Station, NSGA-WH, which closed in the mid-2000s, and is now home to the Schoodic Institute\u2019s Education and Research Center."
+      "fact": "Winter Harbor was once the location of a US Naval Station, NSGA-WH, which closed in the mid-2000s, and is now home to the Schoodic Institute’s Education and Research Center."
     },
     {
       "cityName": "Winter Harbor",
@@ -5202,6 +7421,20 @@
       "fact": "The municipality is located in the state of Maine's Mid Coast region."
     },
     {
+      "cityName": "Woodland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A woodland is, in the broad sense, land covered with woody plants, or in a narrow sense, synonymous with wood, a low-density forest forming open habitats with plenty of sunlight and limited shade."
+    },
+    {
+      "cityName": "Woodland",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some savannas may also be woodlands, such as savanna woodland, where trees and shrubs form a light canopy."
+    },
+    {
       "cityName": "Woodstock",
       "state": "ME",
       "source": "Wikipedia",
@@ -5214,6 +7447,48 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Woodstock is included in the Lewiston-Auburn, Maine metropolitan New England city and town area."
+    },
+    {
+      "cityName": "Woodville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woodville is a town in Penobscot County, Maine, United States."
+    },
+    {
+      "cityName": "Woodville",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 201 at the 2020 census."
+    },
+    {
+      "cityName": "Woolwich",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Woolwich is a town in Sagadahoc County, Maine, United States."
+    },
+    {
+      "cityName": "Woolwich",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,068 at the 2020 census."
+    },
+    {
+      "cityName": "Woolwich",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Portland-South Portland-Biddeford metropolitan area."
+    },
+    {
+      "cityName": "Woolwich",
+      "state": "ME",
+      "source": "Wikipedia",
+      "factNumber": 4,
+      "fact": "Woolwich is a suburb of the city of Bath located on the opposite shore of Merrymeeting Bay."
     },
     {
       "cityName": "Yarmouth",

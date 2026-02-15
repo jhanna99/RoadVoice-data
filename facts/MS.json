@@ -64,6 +64,13 @@
       "fact": "Aberdeen Lock and Dam is part of the Tennessee-Tombigbee waterway system."
     },
     {
+      "cityName": "Ackerman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,594 according to 2020 census, which shows an increase from 1,510 reported in the 2010 census."
+    },
+    {
       "cityName": "Agricola",
       "state": "MS",
       "source": "Wikipedia",
@@ -134,6 +141,27 @@
       "fact": "As a result, Cotton Gin Port, along the Tombigbee River to the west, was abandoned as businesses and people moved for railroad access."
     },
     {
+      "cityName": "Anguilla",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 496 at the 2020 census, down from 726 at the 2010 census."
+    },
+    {
+      "cityName": "Arcola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 304 at the 2020 census, down from 361 at the 2010 census."
+    },
+    {
+      "cityName": "Artesia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 304 at the 2020 census, down from 440 at the 2010 census."
+    },
+    {
       "cityName": "Ashland",
       "state": "MS",
       "source": "Wikipedia",
@@ -155,11 +183,39 @@
       "fact": "Banner is located along Mississippi Highway 9W, 7 miles (11 km) north-northwest of Bruce."
     },
     {
+      "cityName": "Bassfield",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 192 at the 2020 census, down from 254 at the 2010 census."
+    },
+    {
       "cityName": "Batesville",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Batesville is one of two county seats which the legislature established for Panola County, related to a longstanding rivalry between towns on either side of the Tallahatchie River; the other is Sardis, located north of the river."
+    },
+    {
+      "cityName": "Bay Saint Louis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Bay Saint Louis is a city in and the county seat of Hancock County, Mississippi, in the United States."
+    },
+    {
+      "cityName": "Bay Saint Louis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Located on the Gulf Coast on the west side of the Bay of Saint Louis, it is part of the Gulfport-Biloxi metropolitan area."
+    },
+    {
+      "cityName": "Bay Saint Louis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 9,284 at the 2020 census, up from 9,260 at the 2010 census."
     },
     {
       "cityName": "Bay Springs",
@@ -197,11 +253,25 @@
       "fact": "Its population has declined slightly since 2000."
     },
     {
+      "cityName": "Beaumont",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hattiesburg, Mississippi Metropolitan Statistical Area, and located on the edge of the De Soto National Forest."
+    },
+    {
+      "cityName": "Beaumont",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 951 at the 2010 census."
+    },
+    {
       "cityName": "Beauregard",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Beauregard is named for P. G. T. Beauregard."
+      "fact": "Beauregard is named for P G T Beauregard."
     },
     {
       "cityName": "Belden",
@@ -209,6 +279,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Most of the community is located within the city of Tupelo."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,021 at the 2010 census."
     },
     {
       "cityName": "Belzoni",
@@ -299,7 +376,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Beulah is named after the Christian hymn Beulah Land, a favorite of Frank A. Montgomery, an early settler to western Bolivar County."
+      "fact": "Beulah is named after the Christian hymn Beulah Land, a favorite of Frank A Montgomery, an early settler to western Bolivar County."
     },
     {
       "cityName": "Beulah",
@@ -314,6 +391,13 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "Beulah is served by Mississippi Highway 1."
+    },
+    {
+      "cityName": "Big Creek",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 154 at the 2010 census."
     },
     {
       "cityName": "Biloxi",
@@ -351,6 +435,13 @@
       "fact": "Keesler Air Force Base lies within the city and is home to the 81st Training Wing and the 403rd Wing of the U S Air Force Reserve."
     },
     {
+      "cityName": "Blue Mountain",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 926 at the 2023 census."
+    },
+    {
       "cityName": "Blue Springs",
       "state": "MS",
       "source": "Wikipedia",
@@ -363,6 +454,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Located near Tupelo in northeastern Mississippi, the village had a population of 144 at the 2000 census."
+    },
+    {
+      "cityName": "Bolton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 567 at the 2010 census, down from 629 at the 2000 census."
+    },
+    {
+      "cityName": "Bolton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson Metropolitan Statistical Area."
     },
     {
       "cityName": "Booneville",
@@ -400,6 +505,13 @@
       "fact": "It is one of 21 certified Mississippi retirement cities."
     },
     {
+      "cityName": "Boyle",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 650 at the 2010 census."
+    },
+    {
       "cityName": "Brandon",
       "state": "MS",
       "source": "Wikipedia",
@@ -425,7 +537,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Sam D. Hamilton Noxubee National Wildlife Refuge is located west of the town, and the Black Prairie Wildlife Management Area is located to the north."
+      "fact": "The Sam D Hamilton Noxubee National Wildlife Refuge is located west of the town, and the Black Prairie Wildlife Management Area is located to the north."
     },
     {
       "cityName": "Bruce",
@@ -484,6 +596,27 @@
       "fact": "American Railcar Industries operates a large maintenance shop in Bude."
     },
     {
+      "cityName": "Burnsville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 936 at the 2010 census."
+    },
+    {
+      "cityName": "Byhalia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Byhalia, is a town in Marshall County, Mississippi, United States."
+    },
+    {
+      "cityName": "Byhalia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,339 as of the 2020 census."
+    },
+    {
       "cityName": "Byram",
       "state": "MS",
       "source": "Wikipedia",
@@ -496,6 +629,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was incorporated for a second time in its history on June 16, 2009."
+    },
+    {
+      "cityName": "Caledonia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,041 at the 2010 census."
+    },
+    {
+      "cityName": "Calhoun City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,774 at the 2010 census."
     },
     {
       "cityName": "Canton",
@@ -524,6 +671,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The largest chicken processing plant in the world is located in Carthage."
+    },
+    {
+      "cityName": "Cary",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 241 at the 2020 United States census."
     },
     {
       "cityName": "Centreville",
@@ -575,6 +729,13 @@
       "fact": "Choctaw may refer to either of the following places in the U S state of Mississippi: Choctaw, Bolivar County, Mississippi Choctaw, Neshoba County, Mississippi"
     },
     {
+      "cityName": "Chunky",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 344 at the 2000 census."
+    },
+    {
       "cityName": "Clarksdale",
       "state": "MS",
       "source": "Wikipedia",
@@ -607,7 +768,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "It\u2019s located in the Mississippi Delta region of Mississippi."
+      "fact": "It’s located in the Mississippi Delta region of Mississippi."
     },
     {
       "cityName": "Clarksdale",
@@ -638,6 +799,20 @@
       "fact": "Cleveland has a large commercial economy, with numerous restaurants, stores, and services along U S 61."
     },
     {
+      "cityName": "Clinton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Situated in the Jackson metropolitan area, it is the 10th most populous city in Mississippi."
+    },
+    {
+      "cityName": "Clinton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 28,100 at the 2020 United States census."
+    },
+    {
       "cityName": "Coahoma",
       "state": "MS",
       "source": "Wikipedia",
@@ -656,7 +831,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is named after John Coffee (1772\u20131833), a planter and military leader."
+      "fact": "It is named after John Coffee (1772–1833), a planter and military leader."
     },
     {
       "cityName": "Coffeeville",
@@ -687,6 +862,27 @@
       "fact": "A post office first began operation under the name Coila in 1849."
     },
     {
+      "cityName": "Coldwater",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,381 at the 2010 census."
+    },
+    {
+      "cityName": "Collins",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Collins had a population of 2,342."
+    },
+    {
+      "cityName": "Collins",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Covington County."
+    },
+    {
       "cityName": "Columbia",
       "state": "MS",
       "source": "Wikipedia",
@@ -715,6 +911,13 @@
       "fact": "It is approximately 146 miles (235 km) northeast of Jackson, 92 miles (148 km) north of Meridian, 63 miles (101 km) south of Tupelo, 60 miles (97 km) northwest of Tuscaloosa, Alabama, and 120 miles (193 km) west of Birmingham, Alabama."
     },
     {
+      "cityName": "Como",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,279 as of the 2010 census."
+    },
+    {
       "cityName": "Conehatta",
       "state": "MS",
       "source": "Wikipedia",
@@ -736,6 +939,27 @@
       "fact": "It lies on the state line with Tennessee."
     },
     {
+      "cityName": "Courtland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 511 at the time of the 2010 census."
+    },
+    {
+      "cityName": "Crawford",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 641 at the 2010 census."
+    },
+    {
+      "cityName": "Crenshaw",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "state of Mississippi, with a population of 885 in the 2010 census."
+    },
+    {
       "cityName": "Crosby",
       "state": "MS",
       "source": "Wikipedia",
@@ -743,11 +967,60 @@
       "fact": "Its population was 242 at the 2020 census."
     },
     {
+      "cityName": "Crowder",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 712 at the 2010 census."
+    },
+    {
       "cityName": "Cruger",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Per the 2020 census, the population was 268."
+    },
+    {
+      "cityName": "Crystal Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the city had a population of 4,862."
+    },
+    {
+      "cityName": "Crystal Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "D'Iberville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 12,721 at the 2020 census."
+    },
+    {
+      "cityName": "D'Iberville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Gulfport–Biloxi metropolitan area."
+    },
+    {
+      "cityName": "D'Lo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 373 at the 2020 census."
+    },
+    {
+      "cityName": "D'Lo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson, Mississippi metropolitan area."
     },
     {
       "cityName": "De Kalb",
@@ -762,6 +1035,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "This town is named after war hero Stephen Decatur Junior"
+    },
+    {
+      "cityName": "Derma",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,025 at the 2010 census."
     },
     {
       "cityName": "Diamondhead",
@@ -803,7 +1083,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Lucie E. Campbell Gospel and Heritage Festival takes place each summer in Duck Hill."
+      "fact": "The Lucie E Campbell Gospel and Heritage Festival takes place each summer in Duck Hill."
     },
     {
       "cityName": "Duck Hill",
@@ -818,6 +1098,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Big Bogue Creek flows east and north of the town."
+    },
+    {
+      "cityName": "Dumas",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 470 at the 2010 census."
     },
     {
       "cityName": "Duncan",
@@ -876,6 +1163,20 @@
       "fact": "Per the 2020 Census, the population was 133."
     },
     {
+      "cityName": "Edwards",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,034 at the 2010 census, down from 1,347 at the 2000 census."
+    },
+    {
+      "cityName": "Edwards",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Ellisville",
       "state": "MS",
       "source": "Wikipedia",
@@ -890,11 +1191,67 @@
       "fact": "The state legislature authorized a second county seat at Laurel, to the northeast, which developed as the center of lumber and textile mills, with a much larger population."
     },
     {
+      "cityName": "Ethel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "town in Attala County, Mississippi."
+    },
+    {
+      "cityName": "Ethel",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 418 at the 2010 census."
+    },
+    {
+      "cityName": "Eupora",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eupora is the largest city in Webster County, Mississippi, United States."
+    },
+    {
+      "cityName": "Eupora",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Eupora had a population of 2,018."
+    },
+    {
+      "cityName": "Falcon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 116 at the 2020 census."
+    },
+    {
       "cityName": "Falkner",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town was named for William Clark Falkner, the great-grandfather of author William Faulkner."
+    },
+    {
+      "cityName": "Farmington",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,055 at the 2020 census."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Fayette had a population of 1,445."
+    },
+    {
+      "cityName": "Fayette",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Jefferson County."
     },
     {
       "cityName": "Flora",
@@ -918,11 +1275,32 @@
       "fact": "A suburb of Jackson, Flowood is part of the Jackson Metropolitan Statistical Area, and is located northeast of the state capital."
     },
     {
+      "cityName": "Forest",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Forest had a population of 5,430."
+    },
+    {
+      "cityName": "Forest",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population is a minority-majority."
+    },
+    {
       "cityName": "Foxworth",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, it had a population of 523."
+    },
+    {
+      "cityName": "French Camp",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 174 at the 2010 census, down from 393 in 2000."
     },
     {
       "cityName": "Friars Point",
@@ -937,6 +1315,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Per the 2020 census, the population was 896."
+    },
+    {
+      "cityName": "Fulton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,542 at the 2020 census."
+    },
+    {
+      "cityName": "Gattman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 77 at the 2020 census, down from 90 in 2010."
     },
     {
       "cityName": "Gautier",
@@ -974,6 +1366,48 @@
       "fact": "With its eastern border formed by the Pearl River, it is part of the Jackson Metropolitan Statistical Area."
     },
     {
+      "cityName": "Glen",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 382 at the 2020 census, down from 412 at the 2010 census."
+    },
+    {
+      "cityName": "Glendora",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 154 at the 2020 census."
+    },
+    {
+      "cityName": "Gloster",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 897 at the 2020 census."
+    },
+    {
+      "cityName": "Gluckstadt",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It was a census-designated place and unincorporated community until the municipal incorporation of the City of Gluckstadt became effective in June 2021."
+    },
+    {
+      "cityName": "Gluckstadt",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, prior to incorporation, the Gluckstadt CDP had a population of 3,208."
+    },
+    {
+      "cityName": "Gluckstadt",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The city is located along Interstate 55 in south-central Madison County, between the cities of Madison and Canton."
+    },
+    {
       "cityName": "Golden",
       "state": "MS",
       "source": "Wikipedia",
@@ -1000,6 +1434,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Although an unincorporated community, Gore Springs has a post office and a zip code of 38929."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Greenville is the ninth-most populous city in the US state of Mississippi, and the largest city by population in the Mississippi Delta region."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Washington County."
+    },
+    {
+      "cityName": "Greenville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 29,670 at the 2020 Census."
     },
     {
       "cityName": "Greenwood",
@@ -1083,7 +1538,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Founded in 1887 by William H. Hardy as a terminus for the Gulf and Ship Island Railroad, the city was further developed by Philadelphia oil tycoon Joseph T. Jones, who funded the railroad, harbor, and channel dredging."
+      "fact": "Founded in 1887 by William H Hardy as a terminus for the Gulf and Ship Island Railroad, the city was further developed by Philadelphia oil tycoon Joseph T Jones, who funded the railroad, harbor, and channel dredging."
     },
     {
       "cityName": "Gulfport",
@@ -1156,11 +1611,39 @@
       "fact": "Per the 2020 census, the population was 295."
     },
     {
+      "cityName": "Guntown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Guntown, officially the City of Guntown, is a city in Lee County, Mississippi, United States."
+    },
+    {
+      "cityName": "Guntown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located in the northern part of the Tupelo micropolitan area."
+    },
+    {
+      "cityName": "Guntown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,410 at the 2020 Census."
+    },
+    {
       "cityName": "Hamilton",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, it had a population of 404."
+    },
+    {
+      "cityName": "Hatley",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 495 at the 2020 census."
     },
     {
       "cityName": "Hattiesburg",
@@ -1195,7 +1678,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Founded in 1882 by civil engineer William H. Hardy, Hattiesburg was named in honor of Hardy's wife Hattie."
+      "fact": "Founded in 1882 by civil engineer William H Hardy, Hattiesburg was named in honor of Hardy's wife Hattie."
     },
     {
       "cityName": "Hattiesburg",
@@ -1233,6 +1716,13 @@
       "fact": "Its economy is based on agriculture, particularly tomatoes and cabbage."
     },
     {
+      "cityName": "Heidelberg",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 718 at the 2010 census, down from 840 at the 2000 census."
+    },
+    {
       "cityName": "Hernando",
       "state": "MS",
       "source": "Wikipedia",
@@ -1252,6 +1742,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is named after Andrew Jackson, who was nicknamed \"Old Hickory.\""
+    },
+    {
+      "cityName": "Hickory Flat",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 601 at the 2010 census."
     },
     {
       "cityName": "Holcomb",
@@ -1310,6 +1807,20 @@
       "fact": "Hillcrest Cemetery contains the graves of five Confederate generals and has been called \"Little Arlington of the South\"."
     },
     {
+      "cityName": "Horn Lake",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located 1.2 mi (1.9 km) south of Memphis, Tennessee."
+    },
+    {
+      "cityName": "Horn Lake",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 26,736 at the 2020 census, making it the 13th most populous city in Mississippi."
+    },
+    {
       "cityName": "Houlka",
       "state": "MS",
       "source": "Wikipedia",
@@ -1336,6 +1847,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "In the 19th century, much of the land was developed for cotton plantations and the market town did good business."
+    },
+    {
+      "cityName": "Houston",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Houston had a population of 3,797."
+    },
+    {
+      "cityName": "Indianola",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Indianola had a population of 9,646."
     },
     {
       "cityName": "Inverness",
@@ -1464,6 +1989,13 @@
       "fact": "Per the 2020 census, the population was 962."
     },
     {
+      "cityName": "Jumpertown",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 480 at the 2010 census."
+    },
+    {
       "cityName": "Kilmichael",
       "state": "MS",
       "source": "Wikipedia",
@@ -1478,6 +2010,20 @@
       "fact": "Oprah Winfrey was born in Kosciusko."
     },
     {
+      "cityName": "Kossuth",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 160 at the 2020 census."
+    },
+    {
+      "cityName": "Lake",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 408 at the 2000 census."
+    },
+    {
       "cityName": "Lamar",
       "state": "MS",
       "source": "Wikipedia",
@@ -1490,6 +2036,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It was first named as a CDP in the 2020 Census which listed a population of 39."
+    },
+    {
+      "cityName": "Lambert",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,273 at the 2020 census."
     },
     {
       "cityName": "Laurel",
@@ -1539,6 +2092,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is served by the junction of Mississippi routes 57 and 63."
+    },
+    {
+      "cityName": "Learned",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Learned is a town in Hinds County, Mississippi, United States."
+    },
+    {
+      "cityName": "Leland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located within the Mississippi Delta, on the banks of Deer Creek."
+    },
+    {
+      "cityName": "Leland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,988 at the 2020 census."
+    },
+    {
+      "cityName": "Leland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It was once a railway town and had long been a center of cotton culture, which is still an important commodity crop in the rural area."
     },
     {
       "cityName": "Lena",
@@ -1660,6 +2241,41 @@
       "fact": "On June 18, 2023, the town was hit by a destructive EF3 tornado causing 1 death."
     },
     {
+      "cityName": "Louise",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 199 at the 2010 census, down from 315 at the 2000 census."
+    },
+    {
+      "cityName": "Louisville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,072 at the 2020 census."
+    },
+    {
+      "cityName": "Lucedale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Pascagoula, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lucedale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Lucedale had a population of 2,869."
+    },
+    {
+      "cityName": "Lucedale",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is the county seat of George County."
+    },
+    {
       "cityName": "Lula",
       "state": "MS",
       "source": "Wikipedia",
@@ -1667,11 +2283,116 @@
       "fact": "Per the 2020 census, the population was 204."
     },
     {
+      "cityName": "Lumberton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hattiesburg, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lumberton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Lumberton had a population of 1,617."
+    },
+    {
       "cityName": "Lyon",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Per the 2020 census, the population was 296."
+    },
+    {
+      "cityName": "Maben",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 871 at the 2010 census."
+    },
+    {
+      "cityName": "Macon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Macon had a population of 2,582."
+    },
+    {
+      "cityName": "Macon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Noxubee County."
+    },
+    {
+      "cityName": "Madison",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 27,747 at the 2020 census, up from 24,149 in 2010."
+    },
+    {
+      "cityName": "Madison",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Magee",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Jackson metropolitan area."
+    },
+    {
+      "cityName": "Magee",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Magee had a population of 3,988."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Magnolia had a population of 1,883."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Magnolia is within the McComb, Mississippi Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mantachie",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,121 in the 2020 census."
+    },
+    {
+      "cityName": "Mantachie",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located 14 miles (23 km) northeast of Tupelo at the intersection of Mississippi Highways 363 and 371 and 5 miles (8 km) north of Interstate 22."
+    },
+    {
+      "cityName": "Mantee",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 232 at the 2010 census."
+    },
+    {
+      "cityName": "Marietta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 248 at the 2000 census."
     },
     {
       "cityName": "Marion",
@@ -1686,6 +2407,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the city population was 1444."
+    },
+    {
+      "cityName": "Mathiston",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 831 at the 2020 census."
     },
     {
       "cityName": "Mayersville",
@@ -1707,6 +2435,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2010 census, the city had a total population of 12790."
+    },
+    {
+      "cityName": "McCool",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 135 at the 2010 census."
+    },
+    {
+      "cityName": "McLain",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 441 at the 2010 census, down from 603 at the 2000 census."
     },
     {
       "cityName": "Meadville",
@@ -1856,6 +2598,20 @@
       "fact": "It is the home of the Mississippi Watermelon Festival."
     },
     {
+      "cityName": "Monticello",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,571 at the 2010 census."
+    },
+    {
+      "cityName": "Montrose",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 140 at the 2010 census."
+    },
+    {
       "cityName": "Mooreville",
       "state": "MS",
       "source": "Wikipedia",
@@ -1875,6 +2631,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "This dropped in 2022 and the population recorded was 1512."
+    },
+    {
+      "cityName": "Morgan City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Morgan City, Mississippi is a town in Leflore County along Mississippi Highway 7."
+    },
+    {
+      "cityName": "Morgan City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 255 at the 2010 census, down from 305 at the 2000 census."
+    },
+    {
+      "cityName": "Morgan City",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is part of the Greenwood, Mississippi micropolitan area."
+    },
+    {
+      "cityName": "Morton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Morton had a population of 3,711."
     },
     {
       "cityName": "Moss Point",
@@ -1905,25 +2689,25 @@
       "fact": "It was founded as an independent black community in 1887 by former slaves led by Isaiah Montgomery."
     },
     {
+      "cityName": "Mount Olive",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 895 at the 2020 census."
+    },
+    {
       "cityName": "Mount Pleasant",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Mount Pleasant (or Mt."
-    },
-    {
-      "cityName": "Mount Pleasant",
-      "state": "MS",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "The community has a volunteer fire department on Boswell Road, and a K-12 school located off Highway 72."
     },
     {
-      "cityName": "Mount Pleasant",
+      "cityName": "Myrtle",
       "state": "MS",
       "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "It was first named as a CDP in the 2020 Census, which listed a population of 293."
+      "factNumber": 1,
+      "fact": "The population was 490 at the 2010 census."
     },
     {
       "cityName": "Natchez",
@@ -1975,6 +2759,13 @@
       "fact": "New Augusta is located about two miles south of \"Old\" Augusta, which was the county seat until 1906."
     },
     {
+      "cityName": "New Hebron",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 386 at the 2020 census."
+    },
+    {
       "cityName": "New Houlka",
       "state": "MS",
       "source": "Wikipedia",
@@ -2001,6 +2792,48 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "In the 19th century, much of the land was developed for cotton plantations and the market town did good business."
+    },
+    {
+      "cityName": "Newton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,195 in the 2020 census."
+    },
+    {
+      "cityName": "Newton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The populations is about 70 percent African American."
+    },
+    {
+      "cityName": "North Carrollton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 473 at the 2010 census."
+    },
+    {
+      "cityName": "North Carrollton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenwood, Mississippi micropolitan area."
+    },
+    {
+      "cityName": "Noxapater",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 472 at the 2010 census."
+    },
+    {
+      "cityName": "Oakland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 527 at the time of the 2010 census."
     },
     {
       "cityName": "Ocean Springs",
@@ -2087,6 +2920,27 @@
       "fact": "The peak of its population was in 1910."
     },
     {
+      "cityName": "Oxford",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Oxford is the 14th most populous city in Mississippi, United States, and the county seat of Lafayette County, 75 miles (121 km) southeast of Memphis."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "A college town, Oxford surrounds the University of Mississippi or \"Ole Miss\"."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Founded in 1837, the city is named after Oxford, England."
+    },
+    {
       "cityName": "Pace",
       "state": "MS",
       "source": "Wikipedia",
@@ -2099,6 +2953,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Per the 2020 census, the population was 183."
+    },
+    {
+      "cityName": "Pachuta",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 261 at the 2010 census."
+    },
+    {
+      "cityName": "Paden",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 116 at the 2010 census."
     },
     {
       "cityName": "Pascagoula",
@@ -2122,6 +2990,41 @@
       "fact": "Amtrak service also began serving the city when the Mardi Gras Service debuted on August 18, 2025."
     },
     {
+      "cityName": "Pass Christian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pass Christian, nicknamed The Pass, is a city in Harrison County, Mississippi, United States."
+    },
+    {
+      "cityName": "Pass Christian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Gulfport–Biloxi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pass Christian",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "As of the 2020 census, Pass Christian had a population of 5,686."
+    },
+    {
+      "cityName": "Pearl",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 27,115 as of the 2020 census."
+    },
+    {
+      "cityName": "Pearl",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson, Mississippi metropolitan area."
+    },
+    {
       "cityName": "Pelahatchie",
       "state": "MS",
       "source": "Wikipedia",
@@ -2133,7 +3036,28 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community is part of the Gulfport\u2013Biloxi, Mississippi Metropolitan Statistical Area."
+      "fact": "The community is part of the Gulfport–Biloxi, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Petal",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hattiesburg, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Petal",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 10,454 in the 2010 census, increasing to 11,010 in the 2020 census."
+    },
+    {
+      "cityName": "Philadelphia",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 7,118 at the 2020 census."
     },
     {
       "cityName": "Picayune",
@@ -2147,7 +3071,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Picayune is part of the New Orleans\u2013Metairie\u2013Hammond combined statistical area."
+      "fact": "Picayune is part of the New Orleans–Metairie–Hammond combined statistical area."
     },
     {
       "cityName": "Pickens",
@@ -2155,6 +3079,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Per the 2020 census, the population was 920."
+    },
+    {
+      "cityName": "Pittsboro",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 202 at the 2010 census."
+    },
+    {
+      "cityName": "Plantersville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 868 at the 2020 census."
+    },
+    {
+      "cityName": "Polkville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population is at 833 as of the 2010 census."
     },
     {
       "cityName": "Pontotoc",
@@ -2168,7 +3113,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Pontotoc is a Chickasaw word that means, \u201cLand of the Hanging Grapes.\u201d A section of the city largely along Main Street and Liberty Street has been designated the Pontotoc Historic District and is listed on the National Register of Historic Places."
+      "fact": "Pontotoc is a Chickasaw word that means, “Land of the Hanging Grapes.” A section of the city largely along Main Street and Liberty Street has been designated the Pontotoc Historic District and is listed on the National Register of Historic Places."
     },
     {
       "cityName": "Pontotoc",
@@ -2176,6 +3121,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The Treaty of Pontotoc Site is also listed on the National Register."
+    },
+    {
+      "cityName": "Pope",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 241 at the 2000 census."
     },
     {
       "cityName": "Poplarville",
@@ -2190,6 +3142,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It hosts an annual Blueberry Jubilee, which includes rides, craft vendors and rodeos."
+    },
+    {
+      "cityName": "Port Gibson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Port Gibson had a population of 1,269."
+    },
+    {
+      "cityName": "Port Gibson",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is bordered on the west by the Mississippi River."
+    },
+    {
+      "cityName": "Potts Camp",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 416 at the 2020 census, down from 523 in 2010."
     },
     {
       "cityName": "Prentiss",
@@ -2227,11 +3200,18 @@
       "fact": "Purves, born March 8, 1820, was a second generation Scottish-American; his grandfather emigrated to Charleston, South Carolina in 1765."
     },
     {
+      "cityName": "Quitman",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Quitman had a population of 2,061."
+    },
+    {
       "cityName": "Raleigh",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Named for English explorer Sir Walter Raleigh, Raleigh has been home to such Mississippians as Governor Robert Lowry, Governor/U S Senator Anselm McLaurin and pioneer William H. Hardy."
+      "fact": "Named for English explorer Sir Walter Raleigh, Raleigh has been home to such Mississippians as Governor Robert Lowry, Governor/U S Senator Anselm McLaurin and pioneer William H Hardy."
     },
     {
       "cityName": "Randolph",
@@ -2295,6 +3275,41 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "A suburb of Jackson, Richland is part of the Jackson Metropolitan Statistical Area, and is located southeast of the state capital."
+    },
+    {
+      "cityName": "Richton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hattiesburg, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Richton",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,068 at the 2010 census."
+    },
+    {
+      "cityName": "Ridgeland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 24,340 at the 2020 census."
+    },
+    {
+      "cityName": "Ridgeland",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Jackson metropolitan area."
+    },
+    {
+      "cityName": "Rienzi",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 317 at the 2010 census."
     },
     {
       "cityName": "Ripley",
@@ -2374,11 +3389,46 @@
       "fact": "About 2/3 of its population is African American and 1/3 white."
     },
     {
+      "cityName": "Ruleville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Ruleville had a population of 2,642."
+    },
+    {
+      "cityName": "Ruleville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the second-largest community in the rural county."
+    },
+    {
+      "cityName": "Sallis",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 134 at the 2010 census."
+    },
+    {
       "cityName": "Saltillo",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Founded in 1849, the population was 4922 at the 2020 Census."
+    },
+    {
+      "cityName": "Sandersville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 636 at the 2020 census, down from 731 at the 2010 census."
+    },
+    {
+      "cityName": "Sandersville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Laurel micropolitan area."
     },
     {
       "cityName": "Sarah",
@@ -2423,11 +3473,32 @@
       "fact": "Per the 2020 Census, the population was 41, Mississippi's smallest incorporated municipality by population."
     },
     {
+      "cityName": "Schlater",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 310 at the 2010 census, down from 388 at the 2000 census."
+    },
+    {
+      "cityName": "Schlater",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenwood, Mississippi micropolitan area."
+    },
+    {
       "cityName": "Scooba",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Founded in 1858, the population was 744 as of the 2020 Census."
+    },
+    {
+      "cityName": "Sebastopol",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 266 at the 2020 census."
     },
     {
       "cityName": "Seminary",
@@ -2514,6 +3585,20 @@
       "fact": "That is down from 501 from the 2010 census."
     },
     {
+      "cityName": "Sidon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 509 at the 2010 census."
+    },
+    {
+      "cityName": "Sidon",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Greenwood, Mississippi micropolitan area."
+    },
+    {
       "cityName": "Silver Creek",
       "state": "MS",
       "source": "Wikipedia",
@@ -2528,11 +3613,25 @@
       "fact": "Silver Creek is accessed from U S Route 84 and Mississippi Highway 43."
     },
     {
+      "cityName": "Slate Springs",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 110 at the 2010 census."
+    },
+    {
       "cityName": "Sledge",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the town had a total population of 368."
+    },
+    {
+      "cityName": "Snow Lake Shores",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 319 at the 2010 census."
     },
     {
       "cityName": "Sontag",
@@ -2633,6 +3732,13 @@
       "fact": "Steens is located northeast of Columbus."
     },
     {
+      "cityName": "Stonewall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,088 at the 2010 census."
+    },
+    {
       "cityName": "Stringer",
       "state": "MS",
       "source": "Wikipedia",
@@ -2724,6 +3830,48 @@
       "fact": "It also houses the Emmett Till Interpretive Center, which opened in 2012 in his honor."
     },
     {
+      "cityName": "Sumrall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Hattiesburg, Mississippi Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Sumrall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,421 at the 2010 census."
+    },
+    {
+      "cityName": "Sunflower",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,159 at the 2010 census."
+    },
+    {
+      "cityName": "Sylvarena",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 120 at the 2000 census."
+    },
+    {
+      "cityName": "Taylorsville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,148 at the 2020 census."
+    },
+    {
+      "cityName": "Taylorsville",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the most populous community in Smith County."
+    },
+    {
       "cityName": "Tchula",
       "state": "MS",
       "source": "Wikipedia",
@@ -2764,6 +3912,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Agricultural products produced by the town include cotton, corn, poultry, cattle, and timber."
+    },
+    {
+      "cityName": "Tishomingo",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population of the city of Tishomingo was 339 at the 2010 census."
     },
     {
       "cityName": "Toccopola",
@@ -2892,6 +4047,13 @@
       "fact": "Its population was 1515 at the 2020 census."
     },
     {
+      "cityName": "Union",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,042 at the 2020 census."
+    },
+    {
       "cityName": "University",
       "state": "MS",
       "source": "Wikipedia",
@@ -2920,11 +4082,18 @@
       "fact": "The town's population was 1316 at the time of the 2010 United States census."
     },
     {
+      "cityName": "Verona",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,792 at the 2020 census, down from 3,006 at the 2010 census."
+    },
+    {
       "cityName": "Vicksburg",
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During the American Civil War, it was a key Confederate river-port, and its July 1863 surrender to Ulysses S. Grant, along with the concurrent Battle of Gettysburg, marked the turning-point of the war."
+      "fact": "During the American Civil War, it was a key Confederate river-port, and its July 1863 surrender to Ulysses S Grant, along with the concurrent Battle of Gettysburg, marked the turning-point of the war."
     },
     {
       "cityName": "Vicksburg",
@@ -2997,6 +4166,27 @@
       "fact": "As of the 2010 census it had a population of 1162, with an estimated population of 1463 in 2018."
     },
     {
+      "cityName": "Walnut",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 771 at the 2010 census."
+    },
+    {
+      "cityName": "Walthall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 144 at the 2010 census."
+    },
+    {
+      "cityName": "Walthall",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Webster County, designated in 1876."
+    },
+    {
       "cityName": "Washington",
       "state": "MS",
       "source": "Wikipedia",
@@ -3039,6 +4229,20 @@
       "fact": "Waveland was nearly destroyed by Hurricane Camille on August 17, 1969, and by Hurricane Katrina on August 29, 2005."
     },
     {
+      "cityName": "Webb",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 565 at the 2010 census."
+    },
+    {
+      "cityName": "Weir",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 459 at the 2010 census, down from 553 at the 2000 census."
+    },
+    {
       "cityName": "West",
       "state": "MS",
       "source": "Wikipedia",
@@ -3057,7 +4261,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Gulfport is a port city in Harrison County, Mississippi, United States, and its co-county seat. It had a population of 72,926 at the 2020 census, making it the second-most populous city in Mississippi after Jackson. The Gulfport\u2013Biloxi metropolitan area had a population of 416,259."
+      "fact": "Gulfport is a port city in Harrison County, Mississippi, United States, and its co-county seat. It had a population of 72,926 at the 2020 census, making it the second-most populous city in Mississippi after Jackson. The Gulfport–Biloxi metropolitan area had a population of 416,259."
     },
     {
       "cityName": "West Gulfport",
@@ -3072,6 +4276,34 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It had a decline in population from 6305 at the 2000 census to 5909 at the 2010 census."
+    },
+    {
+      "cityName": "West Point",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,105 at the 2020 census."
+    },
+    {
+      "cityName": "West Point",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Clay County and the principal city of the West Point Micropolitan Statistical Area, which is part of the larger Columbus-West Point Combined Statistical Area."
+    },
+    {
+      "cityName": "Wiggins",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Gulfport-Biloxi metropolitan area."
+    },
+    {
+      "cityName": "Wiggins",
+      "state": "MS",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 4,272 at the 2020 census."
     },
     {
       "cityName": "Winona",
@@ -3106,7 +4338,7 @@
       "state": "MS",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named after the Yazoo River, which, in turn was named by the French explorer Robert La Salle in 1682 as \"Rivi\u00e8re des Yazous\" in reference to the Yazoo tribe living near the river's mouth."
+      "fact": "It was named after the Yazoo River, which, in turn was named by the French explorer Robert La Salle in 1682 as \"Rivière des Yazous\" in reference to the Yazoo tribe living near the river's mouth."
     },
     {
       "cityName": "Yazoo City",

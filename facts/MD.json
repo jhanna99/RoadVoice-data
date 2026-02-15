@@ -75,7 +75,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Annapolis is the home of St. John's College, founded 1696."
+      "fact": "Annapolis is the home of Saint John's College, founded 1696."
     },
     {
       "cityName": "Annapolis",
@@ -89,7 +89,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Annapolis ( \u0259-NAP-\u0259l-iss) is the capital of the U S state of Maryland."
+      "fact": "Annapolis ( ə-NAP-əl-iss) is the capital of the U S state of Maryland."
     },
     {
       "cityName": "Annapolis",
@@ -103,7 +103,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "This city served as the seat of the Confederation Congress, formerly the Second Continental Congress, and temporary national capital of the United States in 1783\u20131784."
+      "fact": "This city served as the seat of the Confederation Congress, formerly the Second Continental Congress, and temporary national capital of the United States in 1783–1784."
     },
     {
       "cityName": "Annapolis",
@@ -194,7 +194,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Aspen Hill is a census-designated place and an unincorporated area in Montgomery County, Maryland, United States. It is located 6 miles north of Washington D.C. Its population as of the 2020 census was 51,063.."
+      "fact": "Aspen Hill is a census-designated place and an unincorporated area in Montgomery County, Maryland, United States. It is located 6 miles north of Washington D.C Its population as of the 2020 census was 51,063.."
     },
     {
       "cityName": "Ballenger Creek",
@@ -278,7 +278,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "The city is also part of the Washington\u2013Baltimore combined statistical area, which had a population of 9.97 million in 2020."
+      "fact": "The city is also part of the Washington–Baltimore combined statistical area, which had a population of 9.97 million in 2020."
     },
     {
       "cityName": "Baltimore",
@@ -288,11 +288,32 @@
       "fact": "Baltimore was designated as an independent city by the Constitution of Maryland in 1851."
     },
     {
+      "cityName": "Barclay",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 120 at the 2010 census."
+    },
+    {
       "cityName": "Barnesville",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was incorporated in 1888."
+    },
+    {
+      "cityName": "Barton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cumberland, MD-WV Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Barton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 457 at the 2010 census."
     },
     {
       "cityName": "Baynesville",
@@ -320,7 +341,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The United States Census Bureau defines an urban area in northeast Maryland in which Bel Air is the principal settlement: the Bel Air\u2013Aberdeen urban area had a population of 214647 as of the 2020 census, making it the 180th most populous in the United States."
+      "fact": "The United States Census Bureau defines an urban area in northeast Maryland in which Bel Air is the principal settlement: the Bel Air–Aberdeen urban area had a population of 214647 as of the 2020 census, making it the 180th most populous in the United States."
     },
     {
       "cityName": "Bel Air North",
@@ -379,6 +400,20 @@
       "fact": "Bennsville has experienced the 2006 opening of North Point High School and the straightening of Middletown Road in 2008."
     },
     {
+      "cityName": "Berlin",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,485 at the 2010 census, and has since grown in population."
+    },
+    {
+      "cityName": "Berlin",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Berwyn Heights",
       "state": "MD",
       "source": "Wikipedia",
@@ -421,53 +456,32 @@
       "fact": "Bethlehem is located at the intersection of Maryland routes 331 and 578, northwest of Preston."
     },
     {
+      "cityName": "Betterton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 345 at the 2010 census."
+    },
+    {
       "cityName": "Big Pool",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Also nearby is the Chesapeake and Ohio Canal National Historical Park, which lies near Ft."
-    },
-    {
-      "cityName": "Big Pool",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "To the south of Big Pool lies Fort Frederick State Park, a restored fort used during the French and Indian War."
-    },
-    {
-      "cityName": "Big Pool",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "This pool occurs roughly at the 113 mile mark, and it is on what the canallers called the 14 mile level."
-    },
-    {
-      "cityName": "Big Pool",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "Frederick alongside the Potomac River."
-    },
-    {
-      "cityName": "Big Pool",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 5,
       "fact": "Its population was 82 as of the 2010 census."
     },
     {
       "cityName": "Big Pool",
       "state": "MD",
       "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Big Pool is also the name of a large body of water which is part of the Chesapeake and Ohio Canal."
+      "factNumber": 2,
+      "fact": "It is between Clear Spring, Maryland and Hancock, Maryland along Interstate 70 and is officially a part of the Hagerstown Metropolitan Area."
     },
     {
       "cityName": "Bishopville",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bishopville arose at the site of a mill on and crossing of the Bishopville Prong of the St. Martin's River."
+      "fact": "Bishopville arose at the site of a mill on and crossing of the Bishopville Prong of the Saint Martin's River."
     },
     {
       "cityName": "Bishopville",
@@ -495,6 +509,20 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
+      "fact": "The population was 9,657 at the 2020 census."
+    },
+    {
+      "cityName": "Bladensburg",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Areas in Bladensburg are located within ZIP code 20710."
+    },
+    {
+      "cityName": "Bladensburg",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 3,
       "fact": "Bladensburg is 8.6 miles (13.8 km) from Washington, D.C."
     },
     {
@@ -551,7 +579,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Brandywine is in the southernmost area of Prince George\u2019s County, surrounded by a rural setting."
+      "fact": "Brandywine is in the southernmost area of Prince George’s County, surrounded by a rural setting."
     },
     {
       "cityName": "Brandywine",
@@ -628,7 +656,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Some notable landmarks in the area, including the St. Paul's Schools are technically within Brooklandville, as noted by their mailing addresses."
+      "fact": "Some notable landmarks in the area, including the Saint Paul's Schools are technically within Brooklandville, as noted by their mailing addresses."
     },
     {
       "cityName": "Brooklandville",
@@ -656,7 +684,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The now deceased Richard E. Sullivan had previously served as mayor of the town since 1996 and was recognized at the 2017 Annual Maryland Municipal League Summer Conference as a long-serving mayor of over 25 years."
+      "fact": "The now deceased Richard E Sullivan had previously served as mayor of the town since 1996 and was recognized at the 2017 Annual Maryland Municipal League Summer Conference as a long-serving mayor of over 25 years."
     },
     {
       "cityName": "Brookview",
@@ -684,7 +712,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The construction of Maryland Route 210 (Indian Head Highway) during World War II brought new traffic."
+      "fact": "The construction of Maryland Route 210 (Indian Head Highway) during World War 2 brought new traffic."
     },
     {
       "cityName": "Bryans Road",
@@ -740,7 +768,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Bryantown is associated with the flight in 1865 of President Abraham Lincoln's assassin John Wilkes Booth, and its St. Mary's Catholic Church is the burial place of Doctor Samuel Mudd, who lived 5 miles (8.0 km) to the north, and who in November 1864 had first met Booth at the church."
+      "fact": "Bryantown is associated with the flight in 1865 of President Abraham Lincoln's assassin John Wilkes Booth, and its Saint Mary's Catholic Church is the burial place of Doctor Samuel Mudd, who lived 5 miles (8.0 km) to the north, and who in November 1864 had first met Booth at the church."
     },
     {
       "cityName": "Bryantown",
@@ -859,7 +887,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Callaway is a census designated place in St. Mary's County, Maryland, United States."
+      "fact": "Callaway is a census designated place in Saint Mary's County, Maryland, United States."
     },
     {
       "cityName": "Callaway",
@@ -915,7 +943,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Cabin John Parkway, a short connector between I-495 and the Clara Barton Parkway near the Potomac River along the Maryland\u2013Virginia border, is considered an Interstate spur (I-495X) by the Maryland State Highway Administration (MDSHA)."
+      "fact": "The Cabin John Parkway, a short connector between I-495 and the Clara Barton Parkway near the Potomac River along the Maryland–Virginia border, is considered an Interstate spur (I-495X) by the Maryland State Highway Administration (MDSHA)."
     },
     {
       "cityName": "Capital Heights",
@@ -995,6 +1023,13 @@
       "fact": "The community is a streetcar suburb of Baltimore along the city's western border."
     },
     {
+      "cityName": "Cecilton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 663 at the 2010 census."
+    },
+    {
       "cityName": "Centreville",
       "state": "MD",
       "source": "Wikipedia",
@@ -1020,7 +1055,14 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It hosts the Queen Anne's County Fair each summer and was home to three franchises during the existence of the Eastern Shore Baseball League\u2014the Colts, Red Sox, and Orioles."
+      "fact": "It hosts the Queen Anne's County Fair each summer and was home to three franchises during the existence of the Eastern Shore Baseball League—the Colts, Red Sox, and Orioles."
+    },
+    {
+      "cityName": "Charlestown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,183 at the 2010 census."
     },
     {
       "cityName": "Charlotte Hall",
@@ -1083,7 +1125,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town was originally named by Bohemian colonist Augustine Herman the Village of Bohemia \u2014 or Bohemia Manor \u2014 but the name was changed in 1839 after the Chesapeake and Delaware Canal (C&D Canal) was built in 1829."
+      "fact": "The town was originally named by Bohemian colonist Augustine Herman the Village of Bohemia — or Bohemia Manor — but the name was changed in 1839 after the Chesapeake and Delaware Canal (C&D Canal) was built in 1829."
     },
     {
       "cityName": "Chesapeake Ranch Estates",
@@ -1121,6 +1163,41 @@
       "fact": "For the 2010 census the area was split into the CDPs of Chesapeake Ranch Estates and Drum Point."
     },
     {
+      "cityName": "Chestertown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,532 as of the 2020 census."
+    },
+    {
+      "cityName": "Chestertown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Kent County, the oldest county in Maryland."
+    },
+    {
+      "cityName": "Cheverly",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town was founded in 1918 and incorporated in 1931."
+    },
+    {
+      "cityName": "Cheverly",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Per the 2020 census, the population was 6,170."
+    },
+    {
+      "cityName": "Cheverly",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Cheverly borders the communities of Tuxedo, Chapel Oaks, Landover, Landover Hills, Villa Heights, and Bladensburg."
+    },
+    {
       "cityName": "Chevy Chase",
       "state": "MD",
       "source": "Wikipedia",
@@ -1132,7 +1209,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It has historic associations with a 1388 chevauch\u00e9e, a French word describing a border raid, fought by Lord Percy of England and Earl Douglas of Scotland over hunting grounds, or a \"chace\", in the Cheviot Hills of Northumberland and Otterburn."
+      "fact": "It has historic associations with a 1388 chevauchée, a French word describing a border raid, fought by Lord Percy of England and Earl Douglas of Scotland over hunting grounds, or a \"chace\", in the Cheviot Hills of Northumberland and Otterburn."
     },
     {
       "cityName": "Chevy Chase",
@@ -1240,6 +1317,13 @@
       "fact": "Old Trinity Church is located here."
     },
     {
+      "cityName": "Church Hill",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 745 at the 2010 census."
+    },
+    {
       "cityName": "Clarksburg",
       "state": "MD",
       "source": "Wikipedia",
@@ -1259,6 +1343,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The community is named for William Clark, a farmer who owned much of the land on which the community now lies and served as a postal stop that opened on the 4th of July 1851."
+    },
+    {
+      "cityName": "Clear Spring",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 358 at the 2010 census."
     },
     {
       "cityName": "Clinton",
@@ -1335,7 +1426,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "As the town developed at the beginning of the 20th century, it assumed a name derived from its proximity to the District of Columbia\u2014the first syllable of Columbia and that of Maryland were combined to form \"Colmar\"."
+      "fact": "As the town developed at the beginning of the 20th century, it assumed a name derived from its proximity to the District of Columbia—the first syllable of Columbia and that of Maryland were combined to form \"Colmar\"."
     },
     {
       "cityName": "Colmar Manor",
@@ -1454,7 +1545,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "On June 29, 1863, J. E. B. Stuart marched 5000 confederate soldiers through Cooksville en route to Westminster."
+      "fact": "On June 29, 1863, J E B Stuart marched 5000 confederate soldiers through Cooksville en route to Westminster."
     },
     {
       "cityName": "Coral Hills",
@@ -1517,7 +1608,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "When the business potential for seafood was discovered, John W. Crisfield decided to bring the Pennsylvania Railroad to Crisfield, and the quiet fishing town grew."
+      "fact": "When the business potential for seafood was discovered, John W Crisfield decided to bring the Pennsylvania Railroad to Crisfield, and the quiet fishing town grew."
     },
     {
       "cityName": "Crisfield",
@@ -1629,7 +1720,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Industry declined after World War II, leading urban, business, and technological development in the state to be concentrated in eastern coastal cities."
+      "fact": "Industry declined after World War 2, leading urban, business, and technological development in the state to be concentrated in eastern coastal cities."
     },
     {
       "cityName": "Cumberland",
@@ -1776,7 +1867,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The nominal, if not geographic, center of Davidsonville is the intersection of Maryland routes 424 (Davidsonville Rd.) and 214 (Central Ave.), located at 38.9229\u00b0N 76.6284\u00b0W / 38.9229; -76.6284."
+      "fact": "The nominal, if not geographic, center of Davidsonville is the intersection of Maryland routes 424 (Davidsonville Rd.) and 214 (Central Ave.), located at 38.9229°N 76.6284°W / 38.9229; -76.6284."
     },
     {
       "cityName": "Deale",
@@ -1793,6 +1884,20 @@
       "fact": "It has a scenic view of Chesapeake Bay and is popular with boaters."
     },
     {
+      "cityName": "Deer Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 399 at the 2010 census."
+    },
+    {
+      "cityName": "Deer Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Pittsburgh Media Market."
+    },
+    {
       "cityName": "Delmar",
       "state": "MD",
       "source": "Wikipedia",
@@ -1805,6 +1910,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "When the population is added to Delmar, Delaware, the town's total population is 4600."
+    },
+    {
+      "cityName": "Denton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Its population was 4,418 as of the 2010 United States census, and it is the county seat of Caroline County."
     },
     {
       "cityName": "Derwood",
@@ -1867,7 +1979,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named after the town of Dundalk (Irish: D\u00fan Dealgan) in County Louth, Ireland."
+      "fact": "It was named after the town of Dundalk (Irish: Dún Dealgan) in County Louth, Ireland."
     },
     {
       "cityName": "Dundalk",
@@ -1875,6 +1987,48 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Dundalk is considered one of the first inner-ring suburbs of Baltimore."
+    },
+    {
+      "cityName": "Eagle Harbor",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 67."
+    },
+    {
+      "cityName": "Eagle Harbor",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The Chalk Point Generating Station, owned by NRG Energy, which was sold to Mirant by the Potomac Electric Power Company (PEPCO) in 2000, is located adjacent to the town."
+    },
+    {
+      "cityName": "East New Market",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 400 at the 2010 census."
+    },
+    {
+      "cityName": "Easton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 17,101 at the 2020 census, with an estimated population of 17,342 in 2022."
+    },
+    {
+      "cityName": "Easton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The primary ZIP Code is 21601, and the secondary is 21606."
+    },
+    {
+      "cityName": "Easton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The primary phone exchange is 822, the auxiliary exchanges are 690, 819, 820, 763, and 770, and the area code is 410."
     },
     {
       "cityName": "Eden",
@@ -1903,6 +2057,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the town population was 1617."
+    },
+    {
+      "cityName": "Eldorado",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Eldorado EL-də-RAY-doh is a town in Dorchester County, Maryland, United States."
+    },
+    {
+      "cityName": "Eldorado",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 45 at the 2020 census, making it the second smallest town in Maryland."
     },
     {
       "cityName": "Elkridge",
@@ -1965,7 +2133,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Ellicott City's historic downtown \u2013 the Ellicott City Historic District \u2013 lies in the valleys of the Tiber and Patapsco rivers."
+      "fact": "Ellicott City's historic downtown – the Ellicott City Historic District – lies in the valleys of the Tiber and Patapsco rivers."
     },
     {
       "cityName": "Ellicott",
@@ -1986,7 +2154,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Ellicott City's historic downtown \u2013 the Ellicott City Historic District \u2013 lies in the valleys of the Tiber and Patapsco rivers."
+      "fact": "Ellicott City's historic downtown – the Ellicott City Historic District – lies in the valleys of the Tiber and Patapsco rivers."
     },
     {
       "cityName": "Ellicott City",
@@ -2000,7 +2168,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Founded in 1785, Emmitsburg is the home of Mount St. Mary's University."
+      "fact": "Founded in 1785, Emmitsburg is the home of Mount Saint Mary's University."
     },
     {
       "cityName": "Emmitsburg",
@@ -2014,7 +2182,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The town has two Catholic pilgrimage sites: the National Shrine Grotto of Our Lady of Lourdes, which is on the campus of Mount St. Mary's, and the Basilica and National Shrine of St. Elizabeth Ann Seton, who was the first native-born United States citizen to be canonized as a saint."
+      "fact": "The town has two Catholic pilgrimage sites: the National Shrine Grotto of Our Lady of Lourdes, which is on the campus of Mount Saint Mary's, and the Basilica and National Shrine of Saint Elizabeth Ann Seton, who was the first native-born United States citizen to be canonized as a saint."
     },
     {
       "cityName": "Emmitsburg",
@@ -2154,7 +2322,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Flintstone is located just 1 mile (1.6 km) south of the Mason\u2013Dixon line, the Maryland/Pennsylvania border."
+      "fact": "Flintstone is located just 1 mile (1.6 km) south of the Mason–Dixon line, the Maryland/Pennsylvania border."
     },
     {
       "cityName": "Flintstone",
@@ -2189,7 +2357,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "St. Ignatius Church was listed on the National Register of Historic Places in 1974."
+      "fact": "Saint Ignatius Church was listed on the National Register of Historic Places in 1974."
     },
     {
       "cityName": "Forest Hill",
@@ -2273,7 +2441,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is the home to the National Security Agency, Central Security Service, United States Cyber Command and the Defense Information Systems Agency, which are located on the U S Army post Fort George G. Meade."
+      "fact": "It is the home to the National Security Agency, Central Security Service, United States Cyber Command and the Defense Information Systems Agency, which are located on the U S Army post Fort George G Meade."
     },
     {
       "cityName": "Fort Washington",
@@ -2360,6 +2528,13 @@
       "fact": "Allentown Road connects Friendly with Andrews Air Force Base."
     },
     {
+      "cityName": "Friendsville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 438 at the 2020 census."
+    },
+    {
       "cityName": "Frostburg",
       "state": "MD",
       "source": "Wikipedia",
@@ -2402,6 +2577,13 @@
       "fact": "The total population was 9002 at the 2010 census."
     },
     {
+      "cityName": "Fruitland",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,534 at the 2020 census Area."
+    },
+    {
       "cityName": "Fullerton",
       "state": "MD",
       "source": "Wikipedia",
@@ -2414,6 +2596,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census it had a population of 2049."
+    },
+    {
+      "cityName": "Funkstown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 904 at the 2010 census."
     },
     {
       "cityName": "Gaithersburg",
@@ -2451,6 +2640,20 @@
       "fact": "Gaithersburg is also the location of the garrison of the United States Army Reserve Legal Command."
     },
     {
+      "cityName": "Galena",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 612 at the 2010 census."
+    },
+    {
+      "cityName": "Galestown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 138 at the 2010 census."
+    },
+    {
       "cityName": "Gamber",
       "state": "MD",
       "source": "Wikipedia",
@@ -2483,7 +2686,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named after a former president of the Baltimore and Ohio Railroad, Robert W. Garrett."
+      "fact": "It was named after a former president of the Baltimore and Ohio Railroad, Robert W Garrett."
     },
     {
       "cityName": "Garrett Park",
@@ -2528,6 +2731,13 @@
       "fact": "It is a suburb of Baltimore."
     },
     {
+      "cityName": "Glen Echo",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 279 at the 2020 census."
+    },
+    {
       "cityName": "Glenarden",
       "state": "MD",
       "source": "Wikipedia",
@@ -2553,14 +2763,14 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "NASA\u2019s Goddard Space Flight Center is partially located in the former CDP."
+      "fact": "NASA’s Goddard Space Flight Center is partially located in the former CDP."
     },
     {
       "cityName": "Goddard",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It was named after the physicist Robert H. Goddard."
+      "fact": "It was named after the physicist Robert H Goddard."
     },
     {
       "cityName": "Goldsboro",
@@ -2575,6 +2785,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "First known as Oldtown, it was renamed in 1870 for the prominent Goldsborough family who owned land in the area."
+    },
+    {
+      "cityName": "Grantsville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 968 as of the 2020 census."
     },
     {
       "cityName": "Great Mills",
@@ -2602,7 +2819,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It had many links to the original Maryland colony in St. Mary's City."
+      "fact": "It had many links to the original Maryland colony in Saint Mary's City."
     },
     {
       "cityName": "Greater Upper Marlboro",
@@ -2630,70 +2847,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The original federally-built core of the city, known locally as Old Greenbelt, was recognized as the Greenbelt Historic District by the Maryland Historical Trust, and is listed on the National Register of Historic Places as a National Historic Landmark District."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "Greenbelt is the first and the largest of the three experimental and controversial New Deal Greenbelt Towns, the others being Greenhills, Ohio, and Greendale, Wisconsin."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Under the authority granted to him by this legislation, President Franklin D. Roosevelt issued an executive order, on May 1, 1935, establishing the United States Resettlement Administration (RA/RRA)."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "The complete Greenbelt plans were reviewed at the White House by President Roosevelt and First Lady Eleanor Roosevelt on April 30, 1936."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Greenbelt is credited as a historic milestone in urban development because it was the initial model for the privately constructed suburban Washington, D.C., planned cities of Reston, Virginia, and Columbia, Maryland."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "Greenbelt was planned and built by the federal government as an all-White town."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 7,
-      "fact": "The cooperative community was conceived in 1935 by Undersecretary of Agriculture Rexford Guy Tugwell, whose perceived collectivist ideology attracted opposition to the Greenbelt Towns project throughout its short duration."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 8,
-      "fact": "The project came into legal existence on April 8, 1935, when Congress passed the Emergency Relief Appropriation Act of 1935."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 9,
-      "fact": "First called Maryland Special Project No."
-    },
-    {
-      "cityName": "Greenbelt",
-      "state": "MD",
-      "source": "Wikipedia",
-      "factNumber": 10,
-      "fact": "1, the project was officially named Greenbelt when the Division of Suburban Resettlement of the Resettlement Administration began construction, on January 13, 1936, about eight miles north of Washington."
+      "fact": "Greenbelt is a city in Prince George's County, Maryland, United States, and a suburb of Washington, D.C At the 2020 census, the population was 24,921."
     },
     {
       "cityName": "Greensboro",
@@ -2791,14 +2945,14 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It makes up the northwesternmost portion of the Washington\u2013Baltimore combined statistical area in the heart of the Great Appalachian Valley."
+      "fact": "It makes up the northwesternmost portion of the Washington–Baltimore combined statistical area in the heart of the Great Appalachian Valley."
     },
     {
       "cityName": "Hagerstown",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "It whitens in weathering and the edgewise conglomerate and wavy laminae become distinctly visible, giving an appearance unique to the Cumberland Valley as seen in the architecture of St. John's Episcopal Church."
+      "fact": "It whitens in weathering and the edgewise conglomerate and wavy laminae become distinctly visible, giving an appearance unique to the Cumberland Valley as seen in the architecture of Saint John's Episcopal Church."
     },
     {
       "cityName": "Hagerstown",
@@ -2878,6 +3032,13 @@
       "fact": "Halfway is a major suburb in the Hagerstown-Martinsburg, MD-WV, Metropolitan Statistical Area."
     },
     {
+      "cityName": "Hampstead",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,323 at the 2010 census."
+    },
+    {
       "cityName": "Hampton",
       "state": "MD",
       "source": "Wikipedia",
@@ -2917,14 +3078,14 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The north\u2013south distance from the Pennsylvania state line to the West Virginia state line is only 1.8 miles (2.9 km) at Hancock."
+      "fact": "The north–south distance from the Pennsylvania state line to the West Virginia state line is only 1.8 miles (2.9 km) at Hancock."
     },
     {
       "cityName": "Hanover",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The community is approximately at the intersection of Maryland State Highway 100 and the Baltimore\u2013Washington Parkway."
+      "fact": "The community is approximately at the intersection of Maryland State Highway 100 and the Baltimore–Washington Parkway."
     },
     {
       "cityName": "Hanover",
@@ -2945,7 +3106,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named after the port city of Le Havre, France, which in full was once Le Havre de Gr\u00e2ce (French, \"Harbor of Grace\")."
+      "fact": "It is named after the port city of Le Havre, France, which in full was once Le Havre de Grâce (French, \"Harbor of Grace\")."
     },
     {
       "cityName": "Havre de Grace",
@@ -3015,7 +3176,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The community is more or less a halfway point between the northern border of Baltimore City and the Mason\u2013Dixon line."
+      "fact": "The community is more or less a halfway point between the northern border of Baltimore City and the Mason–Dixon line."
     },
     {
       "cityName": "Hereford",
@@ -3106,7 +3267,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Daffin House and St. Paul's Episcopal Church were listed on the National Register of Historic Places in 1975."
+      "fact": "Daffin House and Saint Paul's Episcopal Church were listed on the National Register of Historic Places in 1975."
     },
     {
       "cityName": "Hollywood",
@@ -3198,6 +3359,13 @@
       "source": "Wikipedia",
       "factNumber": 5,
       "fact": "State-operated commuter buses and private vanpools carry residents to Washington."
+    },
+    {
+      "cityName": "Hurlock",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,092 at the 2010 census."
     },
     {
       "cityName": "Hyattstown",
@@ -3389,6 +3557,13 @@
       "fact": "Its site is located within the boundaries of present-day Joppatowne."
     },
     {
+      "cityName": "Keedysville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,152 at the 2010 census."
+    },
+    {
       "cityName": "Kemp Mill",
       "state": "MD",
       "source": "Wikipedia",
@@ -3431,6 +3606,20 @@
       "fact": "The neighborhood has over 1693 houses."
     },
     {
+      "cityName": "Kensington",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,122 at the 2020 United States census."
+    },
+    {
+      "cityName": "Kensington",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Greater Kensington encompasses the entire 20895 ZIP code, with a population of 19,753 in 2020."
+    },
+    {
       "cityName": "Kettering",
       "state": "MD",
       "source": "Wikipedia",
@@ -3445,11 +3634,32 @@
       "fact": "Watkins Regional Park in Kettering offers a large playground, a colorful carousel, miniature golf, a miniature train ride, and various animals."
     },
     {
+      "cityName": "Kitzmiller",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 321 at the 2010 census."
+    },
+    {
       "cityName": "Knoxville",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The Robert Clagett Farm and Magnolia Plantation are listed on the National Register of Historic Places."
+    },
+    {
+      "cityName": "La Plata",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,159 at the 2020 census."
+    },
+    {
+      "cityName": "La Plata",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Charles County."
     },
     {
       "cityName": "Lake Arbor",
@@ -3478,6 +3688,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Landover borders the communities of New Carrollton, Landover Hills, Glenarden, Lanham, Ardmore, Kentland, Cheverly, Chapel Oaks, Fairmount Heights, Carmody Hills, Pepper Mill Village, Walker Mill, and Largo."
+    },
+    {
+      "cityName": "Landover Hills",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Per the 2020 census, the population was 1,815."
+    },
+    {
+      "cityName": "Landover Hills",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has a neighborhood named Defense Heights."
     },
     {
       "cityName": "Langley Park",
@@ -3676,6 +3900,13 @@
       "fact": "\"Bill's Place\", a restaurant and store, is located adjacent to the canal."
     },
     {
+      "cityName": "Loch Lynn Heights",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 493 at the 2020 census."
+    },
+    {
       "cityName": "Loch Raven",
       "state": "MD",
       "source": "Wikipedia",
@@ -3702,6 +3933,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Per the 2020 census, the population was 25511."
+    },
+    {
+      "cityName": "Lonaconing",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cumberland, MD-WV Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Lonaconing",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,214 at the 2010 census."
     },
     {
       "cityName": "Londontowne",
@@ -3743,7 +3988,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "State Representatives: State Representative Robert A. Costa (Maryland House of Delegates District 33B) (see Map of District 33B); Md State Senator Edward R. Reilly."
+      "fact": "State Representatives: State Representative Robert A Costa (Maryland House of Delegates District 33B) (see Map of District 33B); Md State Senator Edward R Reilly."
     },
     {
       "cityName": "Luke",
@@ -3841,7 +4086,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Marbury is located at 38\u00b034\u203231\u2033N 77\u00b009\u203221\u2033W (38.575278, -77.155833)"
+      "fact": "Marbury is located at 38°34′31″N 77°09′21″W (38.575278, -77.155833)"
     },
     {
       "cityName": "Mardela Springs",
@@ -3925,7 +4170,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is part of a larger community, colloquially referred to as Chevy Chase, that includes several adjoining settlements in Montgomery County and one neighborhood of Washington, D.C."
+      "fact": "The population was 946 at the 2020 Census."
     },
     {
       "cityName": "Marydel",
@@ -4051,7 +4296,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The community is served by the St. Mary's County Public Schools, including Chopticon High School."
+      "fact": "The community is served by the Saint Mary's County Public Schools, including Chopticon High School."
     },
     {
       "cityName": "Mechanicsville",
@@ -4163,7 +4408,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Also listed on the National Register are the Corbett Historic District and St. James Church."
+      "fact": "Also listed on the National Register are the Corbett Historic District and Saint James Church."
     },
     {
       "cityName": "Monkton",
@@ -4306,11 +4551,32 @@
       "fact": "It is included in the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
     },
     {
+      "cityName": "Mountain Lake Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,147 as of the 2020 census."
+    },
+    {
+      "cityName": "Myersville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,748 at the 2020 census."
+    },
+    {
       "cityName": "National Harbor",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The developer, Peterson Companies, says National Harbor draws 12 million visitors annually, as of 2025."
+    },
+    {
+      "cityName": "New Carrollton",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "According to the 2020 census, the population was 13,715."
     },
     {
       "cityName": "New Market",
@@ -4331,7 +4597,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Newburg has two stores, a lodge hall, and a fire department, as well as Piccowaxen Middle School and Doctor Thomas L. Higdon Elementary, both serving the entire Cobb Neck peninsula (i.e."
+      "fact": "Newburg has two stores, a lodge hall, and a fire department, as well as Piccowaxen Middle School and Doctor Thomas L Higdon Elementary, both serving the entire Cobb Neck peninsula (i.e."
     },
     {
       "cityName": "Newburg",
@@ -4436,7 +4702,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town is part of a larger community, colloquially referred to as Chevy Chase, that includes several adjoining settlements in Montgomery County and one neighborhood of Washington, D.C."
+      "fact": "The population was 682 at the 2020 census, up from 519 in 2010."
     },
     {
       "cityName": "North East",
@@ -4562,7 +4828,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Numerous events take place within the town during the shoulder-season, including Sunfest, Springfest, Bike Week, Cruisin' Weekend, Winterfest of Lights, and Reach the Beach, which take place on the Boardwalk and the Roland E. Powell Convention Center."
+      "fact": "Numerous events take place within the town during the shoulder-season, including Sunfest, Springfest, Bike Week, Cruisin' Weekend, Winterfest of Lights, and Reach the Beach, which take place on the Boardwalk and the Roland E Powell Convention Center."
     },
     {
       "cityName": "Ocean City",
@@ -4625,7 +4891,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "This is because of its proximity to Fort George G. Meade, which contains NSA headquarters, U S Cyber Command (established 2009), and the Defense Information Systems Agency (moved to Fort Meade in 2011)."
+      "fact": "This is because of its proximity to Fort George G Meade, which contains NSA headquarters, U S Cyber Command (established 2009), and the Defense Information Systems Agency (moved to Fort Meade in 2011)."
     },
     {
       "cityName": "Olney",
@@ -4691,6 +4957,13 @@
       "fact": "In 2008, CNNMoney.com named Owings Mills number 49 of the \"100 Best Places to Live and Launch\"."
     },
     {
+      "cityName": "Oxford",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 651 at the 2010 census."
+    },
+    {
       "cityName": "Oxon Hill",
       "state": "MD",
       "source": "Wikipedia",
@@ -4737,7 +5010,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It borders southern York County, Pennsylvania, which forms part of the Mason\u2013Dixon line."
+      "fact": "It borders southern York County, Pennsylvania, which forms part of the Mason–Dixon line."
     },
     {
       "cityName": "Parkton",
@@ -4782,6 +5055,20 @@
       "fact": "It is a suburb of Baltimore."
     },
     {
+      "cityName": "Perryville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,361 at the 2010 census."
+    },
+    {
+      "cityName": "Perryville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located near an exit for Interstate 95, on the north side of the outlet of the Susquehanna River."
+    },
+    {
       "cityName": "Pikesville",
       "state": "MD",
       "source": "Wikipedia",
@@ -4807,7 +5094,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for Doctor Hillary R. Pitts, president of the Worcester & Pocomoke Railroad ca 1868-1870."
+      "fact": "It was named for Doctor Hillary R Pitts, president of the Worcester & Pocomoke Railroad ca 1868-1870."
     },
     {
       "cityName": "Pittsville",
@@ -4880,6 +5167,20 @@
       "fact": "Residents overwhelmingly voted to formally change the name to \"The Town of Poolesville\" in the November 2010 general election."
     },
     {
+      "cityName": "Port Deposit",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the east bank of the Susquehanna River near its discharge into the Chesapeake Bay."
+    },
+    {
+      "cityName": "Port Deposit",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 653 at the 2010 census."
+    },
+    {
       "cityName": "Port Tobacco",
       "state": "MD",
       "source": "Wikipedia",
@@ -4908,6 +5209,13 @@
       "fact": "As of the 2020 census, it had a population of 47018."
     },
     {
+      "cityName": "Preston",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 719 at the 2010 census."
+    },
+    {
       "cityName": "Prince Frederick",
       "state": "MD",
       "source": "Wikipedia",
@@ -4933,7 +5241,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It is included in the Salisbury, Maryland\u2013Delaware Metropolitan Statistical Area."
+      "fact": "It is included in the Salisbury, Maryland–Delaware Metropolitan Statistical Area."
     },
     {
       "cityName": "Pumphrey",
@@ -4941,6 +5249,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It was split between the Linthicum and Brooklyn Park CDPs for the 2010 census."
+    },
+    {
+      "cityName": "Queen Anne",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 222 at the 2010 census."
+    },
+    {
+      "cityName": "Queenstown",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 664 at the 2010 census."
     },
     {
       "cityName": "Randallstown",
@@ -4961,7 +5283,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "At that time, Randallstown was a tollgate crossroads on the Liberty Turnpike, a major east\u2013west thoroughfare."
+      "fact": "At that time, Randallstown was a tollgate crossroads on the Liberty Turnpike, a major east–west thoroughfare."
     },
     {
       "cityName": "Randallstown",
@@ -5024,7 +5346,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "Also listed are the Montrose Mansion and Chapel and St. Michael's Church."
+      "fact": "Also listed are the Montrose Mansion and Chapel and Saint Michael's Church."
     },
     {
       "cityName": "Reisterstown",
@@ -5062,11 +5384,53 @@
       "fact": "It is near the southernmost tip of the western shore of Maryland, known as Point Lookout, has bodies of water on both sides, and has two popular seafood restaurants."
     },
     {
+      "cityName": "Ridgely",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,639 at the 2010 census."
+    },
+    {
+      "cityName": "Rising Sun",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,781 at the 2010 census."
+    },
+    {
+      "cityName": "Riverdale Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Riverdale Park, formerly known and often referred to as Riverdale, is a semi-urban town in Prince George's County, Maryland, United States, a suburb in the Washington, D.C., metropolitan area."
+    },
+    {
+      "cityName": "Riverdale Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,351 as of the 2020 census."
+    },
+    {
       "cityName": "Robinwood",
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Robinwood is home to Hagerstown Community College."
+    },
+    {
+      "cityName": "Rock Hall",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Rock Hall, is a waterfront town located directly on the National Chesapeake Scenic Byway in Kent County, Maryland, United States."
+    },
+    {
+      "cityName": "Rock Hall",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,310 at the 2010 census."
     },
     {
       "cityName": "Rockville",
@@ -5220,7 +5584,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Saint Michaels derives its name from the Episcopal parish \u2014 itself named after Michael the Archangel \u2014 established there in 1677."
+      "fact": "Saint Michaels derives its name from the Episcopal parish — itself named after Michael the Archangel — established there in 1677."
     },
     {
       "cityName": "Saint Michaels",
@@ -5297,7 +5661,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Two state highways pass through the community \u2014 Maryland routes 704 (now called Martin Luther King Junior Highway and previously named George Palmer Highway in honor of banker and community leader George Palmer) and 214 (Central Avenue)."
+      "fact": "Two state highways pass through the community — Maryland routes 704 (now called Martin Luther King Junior Highway and previously named George Palmer Highway in honor of banker and community leader George Palmer) and 214 (Central Avenue)."
     },
     {
       "cityName": "Seat Pleasant",
@@ -5325,7 +5689,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "During the American Civil War, the Battle of Antietam\u2014referred to as the Battle of Sharpsburg by the South\u2014was fought on what is now Antietam National Battlefield, in the vicinity of Antietam Creek."
+      "fact": "During the American Civil War, the Battle of Antietam—referred to as the Battle of Sharpsburg by the South—was fought on what is now Antietam National Battlefield, in the vicinity of Antietam Creek."
     },
     {
       "cityName": "Sharpsburg",
@@ -5389,6 +5753,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Smithsburg is close to the former Fort Ritchie army base and just west of the presidential retreat Camp David."
+    },
+    {
+      "cityName": "Snow Hill",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,156 at the 2020 census."
+    },
+    {
+      "cityName": "Snow Hill",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Salisbury, Maryland-Delaware Metropolitan Statistical Area."
     },
     {
       "cityName": "Somerset",
@@ -5626,7 +6004,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "The Joseph D. Lyons House was listed in 1998."
+      "fact": "The Joseph D Lyons House was listed in 1998."
     },
     {
       "cityName": "Sykesville",
@@ -5895,6 +6273,13 @@
       "fact": "Much of the town was added to the National Register of Historic Places as the Union Bridge Historic District in 1994."
     },
     {
+      "cityName": "University Park",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,454 at the 2020 census."
+    },
+    {
       "cityName": "Upper Marlboro",
       "state": "MD",
       "source": "Wikipedia",
@@ -5907,6 +6292,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It lies at the I-270/MD 80 interchange, approximately 7.5 miles (12.1 km) south-east of Frederick and about 37 miles (60 km) north-west of Washington, D C Urbana started to develop circa 1999 and, as of the 2010 census, had a population of 9175."
+    },
+    {
+      "cityName": "Vienna",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 271 at the 2010 census."
     },
     {
       "cityName": "Waldorf",
@@ -5937,6 +6329,13 @@
       "fact": "Per the 2020 census, the population was 12187."
     },
     {
+      "cityName": "Walkersville",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,800 at the 2010 census."
+    },
+    {
       "cityName": "Washington Grove",
       "state": "MD",
       "source": "Wikipedia",
@@ -5958,6 +6357,20 @@
       "fact": "Frederick Road (Maryland Route 144) is a main thoroughfare."
     },
     {
+      "cityName": "Westernport",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Cumberland micropolitan area."
+    },
+    {
+      "cityName": "Westernport",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,888 at the 2010 census."
+    },
+    {
       "cityName": "Westminster",
       "state": "MD",
       "source": "Wikipedia",
@@ -5976,7 +6389,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Wheaton takes its name from Frank Wheaton (1833\u20131903), a career officer in the United States Army and volunteer from Rhode Island in the Union Army who rose to the rank of major-general while serving before, during, and after the Civil War."
+      "fact": "Wheaton takes its name from Frank Wheaton (1833–1903), a career officer in the United States Army and volunteer from Rhode Island in the Union Army who rose to the rank of major-general while serving before, during, and after the Civil War."
     },
     {
       "cityName": "Wheaton",
@@ -6060,7 +6473,7 @@
       "state": "MD",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Plans to complete an east\u2013west connector road in the area were mired in controversy because of alleged adverse effects on the environment."
+      "fact": "Plans to complete an east–west connector road in the area were mired in controversy because of alleged adverse effects on the environment."
     },
     {
       "cityName": "Willards",
@@ -6110,6 +6523,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Woodlawn is the name of some places in the U S state of Maryland: Woodlawn, Baltimore County, Maryland Woodlawn, Cecil County, Maryland Woodlawn, Prince George's County, Maryland Woodlawn (Columbia, Maryland)"
+    },
+    {
+      "cityName": "Woodsboro",
+      "state": "MD",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,092 at the 2020 census."
     },
     {
       "cityName": "Woodstock",

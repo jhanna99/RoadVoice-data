@@ -1,6 +1,13 @@
 {
   "facts": [
     {
+      "cityName": "Aberdeen",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 8,516 at the 2020 census, and an estimated 9,305 in 2022."
+    },
+    {
       "cityName": "Advance",
       "state": "NC",
       "source": "Wikipedia",
@@ -34,6 +41,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The etymology of the word Ahoskie, which was originally spelled \"Ahotsky\", was from the Wyanoke Indians, who entered the Hertford County area at the beginning of European settlement."
+    },
+    {
+      "cityName": "Alamance",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burlington, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Alamance",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 988 at the 2020 census."
+    },
+    {
+      "cityName": "Albemarle",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,432 in the 2020 census."
     },
     {
       "cityName": "Alliance",
@@ -92,11 +120,39 @@
       "fact": "Anderson Creek is served by the Harnett County Sheriff's department for law enforcement and Anderson Creek Emergency Services for fire and emergency services."
     },
     {
+      "cityName": "Andrews",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,667 at the 2020 census."
+    },
+    {
       "cityName": "Angier",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Angier is a part of the greater Raleigh\u2013Durham\u2013Cary Combined Statistical Area (CSA) as defined by the United States Census Bureau."
+      "fact": "Angier is a part of the greater Raleigh–Durham–Cary Combined Statistical Area (CSA) as defined by the United States Census Bureau."
+    },
+    {
+      "cityName": "Ansonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 440 at the 2020 census."
+    },
+    {
+      "cityName": "Ansonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town has an area of 1.5 square miles (3.8 km2), all land."
+    },
+    {
+      "cityName": "Ansonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is on the northern edge of Anson County, about a mile west of the Pee Dee River."
     },
     {
       "cityName": "Apex",
@@ -183,6 +239,13 @@
       "fact": "Located 15 miles southwest of Greensboro, it is part of the Greensboro-High Point Metropolitan Statistical Area of the Piedmont Triad metro region."
     },
     {
+      "cityName": "Archer Lodge",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,797 at the 2020 census."
+    },
+    {
       "cityName": "Arden",
       "state": "NC",
       "source": "Wikipedia",
@@ -253,6 +316,13 @@
       "fact": "It is the most populous city in Western North Carolina and the state's 11th-most populous city with a population of 94,589 at the 2020 census. The four-county Asheville metropolitan area has an estimated 422,000 residents.."
     },
     {
+      "cityName": "Askewville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 184 at the 2020 census."
+    },
+    {
       "cityName": "Atkinson",
       "state": "NC",
       "source": "Wikipedia",
@@ -267,6 +337,20 @@
       "fact": "It is one of the five communities located on Bogue Banks."
     },
     {
+      "cityName": "Aulander",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 763 at the 2020 census."
+    },
+    {
+      "cityName": "Aurora",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 455 at the 2020 census."
+    },
+    {
       "cityName": "Autryville",
       "state": "NC",
       "source": "Wikipedia",
@@ -279,6 +363,55 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, it had a population of 832."
+    },
+    {
+      "cityName": "Ayden",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,977 at the 2020 census."
+    },
+    {
+      "cityName": "Ayden",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Greenville Metropolitan Area of North Carolina's Inner Banks region."
+    },
+    {
+      "cityName": "Badin",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the town had a total population of 2,024."
+    },
+    {
+      "cityName": "Bailey",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Bailey",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 566 at the 2020 census."
+    },
+    {
+      "cityName": "Bakersville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 450 at the 2020 census."
+    },
+    {
+      "cityName": "Bakersville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Mitchell County."
     },
     {
       "cityName": "Bald Head Island",
@@ -355,7 +488,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Banner Elk is home to Lees\u2013McRae College."
+      "fact": "Banner Elk is home to Lees–McRae College."
     },
     {
       "cityName": "Barco",
@@ -428,6 +561,13 @@
       "fact": "Bayboro received the most rain of any American town during Hurricane Irene in 2011, at 15.74 inches."
     },
     {
+      "cityName": "Bear Grass",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 89 at the 2020 census, up from 73 in 2010."
+    },
+    {
       "cityName": "Beaufort",
       "state": "NC",
       "source": "Wikipedia",
@@ -489,6 +629,48 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Belhaven is located in North Carolina's Inner Banks region."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 15,010 at the 2020 census."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The area was once known as Garibaldi Station, namely after the railroad stop created in the early 1870s."
+    },
+    {
+      "cityName": "Belmont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "This was named after John Garibaldi, the engineer who oversaw the construction of the railroad and construction of the first water tower in town."
+    },
+    {
+      "cityName": "Belville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,406 at the 2020 census."
+    },
+    {
+      "cityName": "Belville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wilmington, NC metropolitan area."
+    },
+    {
+      "cityName": "Belwood",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 950 at the 2010 census."
     },
     {
       "cityName": "Benson",
@@ -610,11 +792,39 @@
       "fact": "The community lies within the Limestone Creek Township."
     },
     {
+      "cityName": "Biltmore Forest",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,409 as of 2020."
+    },
+    {
+      "cityName": "Biltmore Forest",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Asheville Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Biltmore Forest",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Biltmore Forest is the second-wealthiest town in North Carolina by per capita income at $85,044."
+    },
+    {
       "cityName": "Biscoe",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is named after Henry Biscoe, an important customer of the local lumber business."
+    },
+    {
+      "cityName": "Black Creek",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 769 at the 2010 census."
     },
     {
       "cityName": "Black Mountain",
@@ -624,11 +834,46 @@
       "fact": "The town is named for the old train stop at the Black Mountain Depot and is located at the southern end of the Black Mountain range of the Blue Ridge Mountains in the Southern Appalachians."
     },
     {
+      "cityName": "Bladenboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,648."
+    },
+    {
+      "cityName": "Blowing Rock",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,376 at the 2020 census."
+    },
+    {
+      "cityName": "Boardman",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 166 at the 2020 census."
+    },
+    {
       "cityName": "Boger City",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Boger City was an independent town before 1986, when it was annexed by Lincolnton."
+    },
+    {
+      "cityName": "Bogue",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 684 in 2010."
+    },
+    {
+      "cityName": "Boiling Spring Lakes",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 5,943 at the 2020 census, up from 5,372 in 2010."
     },
     {
       "cityName": "Boiling Springs",
@@ -642,7 +887,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is home to Gardner\u2013Webb University."
+      "fact": "It is home to Gardner–Webb University."
     },
     {
       "cityName": "Boiling Springs",
@@ -650,6 +895,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "As of the 2010 census, the town's population was 4647."
+    },
+    {
+      "cityName": "Bolivia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 149 at the 2020 census."
+    },
+    {
+      "cityName": "Bolton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 519 at the 2020 census."
     },
     {
       "cityName": "Boone",
@@ -664,6 +923,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town is named for famous American pioneer and explorer Daniel Boone, and every summer from 1952 has hosted an outdoor amphitheatre drama, Horn in the West, portraying the British settlement of the area during the American Revolutionary War and featuring the contributions of its namesake."
+    },
+    {
+      "cityName": "Boonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,185 at the 2020 census."
+    },
+    {
+      "cityName": "Bostic",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 355 at the 2020 census."
     },
     {
       "cityName": "Brevard",
@@ -722,6 +995,20 @@
       "fact": "It is 8 miles (13 km) south of Chapel Hill and 9 miles (14 km) north of Pittsboro, the Chatham county seat."
     },
     {
+      "cityName": "Bridgeton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 454 at the 2010 census."
+    },
+    {
+      "cityName": "Bridgeton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern, North Carolina Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Broadway",
       "state": "NC",
       "source": "Wikipedia",
@@ -750,6 +1037,13 @@
       "fact": "The town has 4.56 miles of roadage."
     },
     {
+      "cityName": "Brunswick",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 973 at the 2020 census."
+    },
+    {
       "cityName": "Bryson City",
       "state": "NC",
       "source": "Wikipedia",
@@ -761,7 +1055,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Bryson City (Cherokee: \u13e3\u13b5\u13cd\u13d9\u13c2, romanized: Tsahlsdoni) is a town in Swain County, North Carolina, United States, and its county seat."
+      "fact": "Bryson City (Cherokee: ᏣᎵᏍᏙᏂ, romanized: Tsahlsdoni) is a town in Swain County, North Carolina, United States, and its county seat."
     },
     {
       "cityName": "Bryson City",
@@ -785,6 +1079,13 @@
       "fact": "It is the home of Campbell University."
     },
     {
+      "cityName": "Bunn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 327 at the 2020 census."
+    },
+    {
       "cityName": "Burgaw",
       "state": "NC",
       "source": "Wikipedia",
@@ -796,20 +1097,13 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Burlington is a city in Alamance and Guilford counties in the U.S."
+      "fact": "It is the principal city of the Burlington, NC Metropolitan Statistical Area, which encompasses all of Alamance County, in which most of the city is located, and is a part of the Greensboro–Winston-Salem–High Point, NC Combined Statistical Area."
     },
     {
       "cityName": "Burlington",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "It is the principal city of the Burlington, NC Metropolitan Statistical Area, which encompasses all of Alamance County, in which most of the city is located, and is a part of the Greensboro\u2013Winston-Salem\u2013High Point, NC Combined Statistical Area."
-    },
-    {
-      "cityName": "Burlington",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 3,
       "fact": "The population was 57,303 at the 2020 census, which makes Burlington the 18th-most populous city in North Carolina."
     },
     {
@@ -862,6 +1156,20 @@
       "fact": "Buxton is part of District 4, along with Avon, Frisco, Hatteras, Rodanthe, Waves and Salvo."
     },
     {
+      "cityName": "Cajah's Mountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,823 at the 2010 census."
+    },
+    {
+      "cityName": "Cajah's Mountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Calabash",
       "state": "NC",
       "source": "Wikipedia",
@@ -874,6 +1182,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, the population of the town was 2011."
+    },
+    {
+      "cityName": "Calypso",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 327."
     },
     {
       "cityName": "Camden",
@@ -904,6 +1219,13 @@
       "fact": "It currently has two traffic lights, and is centered at the intersection of U S Highway 158 and North Carolina Highway 343."
     },
     {
+      "cityName": "Cameron",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 244 at the 2020 census, down from 285 in 2010."
+    },
+    {
       "cityName": "Camp Lejeune",
       "state": "NC",
       "source": "Wikipedia",
@@ -922,7 +1244,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Marine Corps Base Camp Lejeune ( l\u0259-ZHURN or l\u0259-ZHOON) is a 246-square-mile (640 km2) United States military training facility in Jacksonville, North Carolina."
+      "fact": "Marine Corps Base Camp Lejeune ( lə-ZHURN or lə-ZHOON) is a 246-square-mile (640 km2) United States military training facility in Jacksonville, North Carolina."
     },
     {
       "cityName": "Camp Lejeune",
@@ -1048,14 +1370,14 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The town, which is part of the Raleigh-Durham-Chapel Hill combined statistical area, was named after North Carolina industrialist Julian S. Carr."
+      "fact": "The town, which is part of the Raleigh-Durham-Chapel Hill combined statistical area, was named after North Carolina industrialist Julian S Carr."
     },
     {
       "cityName": "Carrboro",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "It was the first municipality in North Carolina to elect an openly gay mayor (Michael R. Nelson in 1995) and the first municipality in the state to grant domestic-partner benefits to same-sex couples."
+      "fact": "It was the first municipality in North Carolina to elect an openly gay mayor (Michael R Nelson in 1995) and the first municipality in the state to grant domestic-partner benefits to same-sex couples."
     },
     {
       "cityName": "Carrboro",
@@ -1076,7 +1398,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Cary is a town in Wake, Chatham, and Durham counties in the U.S. state of North Carolina and is part of the Raleigh-Cary, NC Metropolitan Statistical Area."
+      "fact": "Cary is a town in Wake, Chatham, and Durham counties in the US state of North Carolina and is part of the Raleigh-Cary, NC Metropolitan Statistical Area."
     },
     {
       "cityName": "Cary",
@@ -1084,6 +1406,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "According to the 2020 census, its population was 174,721, making it the seventh-most populous municipality in North Carolina, and the 146th-most populous in the United States. In 2023, the town's population had increased to 180,010.."
+    },
+    {
+      "cityName": "Casar",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 297 at the 2010 census."
     },
     {
       "cityName": "Cashiers",
@@ -1105,6 +1434,27 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The village is at the crossroads of U S Route 64 (US 64) and North Carolina Highway 107 (NC 107), which connects to Highlands, Rosman, Sylva, and Walhalla."
+    },
+    {
+      "cityName": "Castalia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Castalia, is a town in Nash County, North Carolina, United States."
+    },
+    {
+      "cityName": "Castalia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Castalia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 268 at the 2010 census."
     },
     {
       "cityName": "Castle Hayne",
@@ -1184,6 +1534,27 @@
       "fact": "Several state lawmakers pushed for construction to resume, with one legislator receiving campaign contributions from the project's developers in 2022."
     },
     {
+      "cityName": "Cedar Rock",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 300 at the 2010 census."
+    },
+    {
+      "cityName": "Cerro Gordo",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 131 at the 2020 census."
+    },
+    {
+      "cityName": "Chadbourn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,574 at the 2020 census."
+    },
+    {
       "cityName": "Chapel Hill",
       "state": "NC",
       "source": "Wikipedia",
@@ -1258,7 +1629,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Charlotte is home to the NASCAR Hall of Fame, Carowinds amusement park, and the U.S. National Whitewater Center."
+      "fact": "Charlotte is home to the NASCAR Hall of Fame, Carowinds amusement park, and the U.S National Whitewater Center."
     },
     {
       "cityName": "Charlotte",
@@ -1328,7 +1699,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Marine Corps Air Station Cherry Point or MCAS Cherry Point (*34.9009\u00b0N 76.8807\u00b0W / 34.9009; -76.8807) (ICAO: KNKT, FAA LID: NKT) is a United States Marine Corps airfield located in Havelock, North Carolina, United States, in the eastern part of the state."
+      "fact": "Marine Corps Air Station Cherry Point or MCAS Cherry Point (*34.9009°N 76.8807°W / 34.9009; -76.8807) (ICAO: KNKT, FAA LID: NKT) is a United States Marine Corps airfield located in Havelock, North Carolina, United States, in the eastern part of the state."
     },
     {
       "cityName": "Cherry Point",
@@ -1387,6 +1758,27 @@
       "fact": "The town is a part of the Washington Area located in North Carolina's Coastal Plains region."
     },
     {
+      "cityName": "Claremont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Claremont had a population of 1,692."
+    },
+    {
+      "cityName": "Claremont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Clarkton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 614 at the 2020 census."
+    },
+    {
       "cityName": "Clayton",
       "state": "NC",
       "source": "Wikipedia",
@@ -1420,6 +1812,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The population was 21,177 at the 2020 census, with an estimated population of 21,517 in 2021."
+    },
+    {
+      "cityName": "Cleveland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 871 at the 2010 census."
     },
     {
       "cityName": "Cliffside",
@@ -1457,6 +1856,62 @@
       "fact": "The 2010 census recorded the population at 1223 people."
     },
     {
+      "cityName": "Coats",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,155 at the 2020 census."
+    },
+    {
+      "cityName": "Coats",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Coats is a part of the Anderson Creek Micropolitan Area, which is a part of the greater Raleigh–Durham–Cary Combined Statistical Area (CSA) as defined by the United States Census Bureau."
+    },
+    {
+      "cityName": "Cofield",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 413 at the 2010 census."
+    },
+    {
+      "cityName": "Colerain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 204 at the 2010 census."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 610 at the 2020 census."
+    },
+    {
+      "cityName": "Columbia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Tyrrell County."
+    },
+    {
+      "cityName": "Columbus",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,060 at the 2020 census."
+    },
+    {
+      "cityName": "Como",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 91 at the 2010 census."
+    },
+    {
       "cityName": "Concord",
       "state": "NC",
       "source": "Wikipedia",
@@ -1476,6 +1931,69 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Located near the center of Cabarrus County in the Piedmont region, it is 20 miles (32 km) northeast of Uptown Charlotte."
+    },
+    {
+      "cityName": "Conetoe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Conetoe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 294 at the 2010 census."
+    },
+    {
+      "cityName": "Connelly Springs",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,669 at the 2010 census."
+    },
+    {
+      "cityName": "Connelly Springs",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Conover",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 8,421 as of the 2020 census."
+    },
+    {
+      "cityName": "Conover",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area and Charlotte Metropolitan Area."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 836 at the 2010 census."
+    },
+    {
+      "cityName": "Conway",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke Rapids, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Cooleemee",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 940 at the 2020 census."
     },
     {
       "cityName": "Cornelius",
@@ -1555,6 +2073,20 @@
       "fact": "Over fifty thousand people come to see these wild horses every week in the summer months."
     },
     {
+      "cityName": "Cove City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 378 at the 2020 US census."
+    },
+    {
+      "cityName": "Cove City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern micropolitan area."
+    },
+    {
       "cityName": "Cramerton",
       "state": "NC",
       "source": "Wikipedia",
@@ -1567,6 +2099,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "It is a suburb of Charlotte and located east of Gastonia."
+    },
+    {
+      "cityName": "Creedmoor",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Creedmoor had a population of 4,866."
+    },
+    {
+      "cityName": "Creswell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 207 at the 2020 census."
+    },
+    {
+      "cityName": "Crossnore",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 143 at the 2020 census."
     },
     {
       "cityName": "Crouse",
@@ -1650,7 +2203,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for George M. Dallas, Vice President of the United States under James K. Polk."
+      "fact": "It was named for George M Dallas, Vice President of the United States under James K Polk."
     },
     {
       "cityName": "Dana",
@@ -1769,7 +2322,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Known as \u201cDry Pond\u201d until 1873, it was renamed \u201cDenver\u201d (after the capital of the then territory of Colorado) as a marketing and growth strategy directed towards the emerging railroad industry."
+      "fact": "Known as “Dry Pond” until 1873, it was renamed “Denver” (after the capital of the then territory of Colorado) as a marketing and growth strategy directed towards the emerging railroad industry."
     },
     {
       "cityName": "Denver",
@@ -1783,7 +2336,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The name change was championed by D. Matt Thompson, a local principal."
+      "fact": "The name change was championed by D Matt Thompson, a local principal."
     },
     {
       "cityName": "Denver",
@@ -1791,6 +2344,20 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The town was incorporated as such from 1877 until 1971, when the town lost its charter and was reincorporated back into Lincoln County."
+    },
+    {
+      "cityName": "Dillsboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 213 at the 2020 census down from 232 at the 2010 census."
+    },
+    {
+      "cityName": "Dobbins Heights",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 866 at the 2010 census."
     },
     {
       "cityName": "Dobson",
@@ -1819,6 +2386,48 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "The main crops in the area are corn, tobacco and soy beans."
+    },
+    {
+      "cityName": "Dortches",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, NC Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Dortches",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,082 in 2020."
+    },
+    {
+      "cityName": "Dover",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 401 at the 2010 Census."
+    },
+    {
+      "cityName": "Dover",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Drexel",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,858 at the 2010 census."
+    },
+    {
+      "cityName": "Drexel",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
     },
     {
       "cityName": "Dublin",
@@ -1863,11 +2472,32 @@
       "fact": "Dudley is included in the Goldsboro, North Carolina Metropolitan Statistical Area."
     },
     {
+      "cityName": "Dunn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Dunn is the most populous city of Harnett County, North Carolina, United States."
+    },
+    {
+      "cityName": "Dunn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 8,446 at the 2020 census."
+    },
+    {
+      "cityName": "Dunn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is, along with Harnett County, part of the Anderson Creek, NC Micropolitan Statistical Area, which is also included in the Raleigh-Durham-Cary, NC Combined Statistical Area."
+    },
+    {
       "cityName": "Durham",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Durham is a city in the U.S. state of North Carolina. The county seat of Durham County, small portions of the city limits extend into Orange County and Wake County."
+      "fact": "Durham is a city in the US state of North Carolina. The county seat of Durham County, small portions of the city limits extend into Orange County and Wake County."
     },
     {
       "cityName": "Durham",
@@ -1881,7 +2511,35 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The four-county Durham\u2013Chapel Hill metropolitan area has an estimated 620,000 residents, while the greater Research Triangle area has a population of over 2.37 million people.."
+      "fact": "The four-county Durham–Chapel Hill metropolitan area has an estimated 620,000 residents, while the greater Research Triangle area has a population of over 2.37 million people.."
+    },
+    {
+      "cityName": "Earl",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 260 at the 2010 census."
+    },
+    {
+      "cityName": "East Arcadia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 418 at the 2020 census."
+    },
+    {
+      "cityName": "East Bend",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population is 634 at the 2020 census."
+    },
+    {
+      "cityName": "East Bend",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a Piedmont Triad community."
     },
     {
       "cityName": "East Spencer",
@@ -2094,6 +2752,13 @@
       "fact": "While Elizabeth City still retains extensive waterfront property, it is linked to neighboring counties and cities by contemporary highways and bridges to support other transportation."
     },
     {
+      "cityName": "Elizabethtown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,296 at the 2020 census."
+    },
+    {
       "cityName": "Elk Park",
       "state": "NC",
       "source": "Wikipedia",
@@ -2106,6 +2771,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Elkin shares its name with the surrounding township of Elkin Township."
+    },
+    {
+      "cityName": "Ellenboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 723 at the 2020 census."
+    },
+    {
+      "cityName": "Ellerbe",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,054 at the 2010 census."
     },
     {
       "cityName": "Elm City",
@@ -2213,18 +2892,60 @@
       "fact": "It is included in the Goldsboro, North Carolina Metropolitan Statistical Area."
     },
     {
+      "cityName": "Everetts",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 150 at the 2020 census."
+    },
+    {
+      "cityName": "Fair Bluff",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 709 at the 2020 census."
+    },
+    {
+      "cityName": "Fairmont",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,191 at the 2020 census."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,463 at the 2020 census."
+    },
+    {
+      "cityName": "Fairview",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Fairview has one elementary school, one service station, a volunteer fire department, a small chain dollar store, and a community park."
+    },
+    {
+      "cityName": "Faison",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 784."
+    },
+    {
       "cityName": "Faith",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Faith Fourth achieved national visibility in 1992, when President George H. W. Bush not only made a speech praising small town virtues, but also participated in the traditional Fourth of July softball game."
+      "fact": "The Faith Fourth achieved national visibility in 1992, when President George H W Bush not only made a speech praising small town virtues, but also participated in the traditional Fourth of July softball game."
     },
     {
       "cityName": "Faith",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Since 1946, the town has hosted a Fourth of July celebration that has become notably large for a town of its population \u2013 running for several days and drawing visitors from many states."
+      "fact": "Since 1946, the town has hosted a Fourth of July celebration that has become notably large for a town of its population – running for several days and drawing visitors from many states."
     },
     {
       "cityName": "Faith",
@@ -2232,6 +2953,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "Faith is a town in Rowan County, North Carolina, United States, incorporated in 1903."
+    },
+    {
+      "cityName": "Falcon",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 258 at the 2010 census."
+    },
+    {
+      "cityName": "Falkland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 47 at the 2020 census, making it the least populous town in Pitt County."
+    },
+    {
+      "cityName": "Falkland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Greenville Metropolitan Area located in North Carolina's Inner Banks region."
+    },
+    {
+      "cityName": "Fallston",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 607 at the 2010 census."
     },
     {
       "cityName": "Farmville",
@@ -2283,11 +3032,39 @@
       "fact": "As of the 2020 census, it had a population of 208501, It is the 6th-most populous city in North Carolina."
     },
     {
+      "cityName": "Flat Rock",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,114 at the 2010 census."
+    },
+    {
+      "cityName": "Flat Rock",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Asheville Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Fletcher",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Fletcher is adjacent to Asheville Regional Airport, which serves western North Carolina."
+    },
+    {
+      "cityName": "Forest City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Forest City, formerly known as \"Burnt Chimney\", is a town in Rutherford County, North Carolina, United States."
+    },
+    {
+      "cityName": "Forest City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 7,377 as of the 2020 census, making it the most populous municipality in the county."
     },
     {
       "cityName": "Forest Hills",
@@ -2308,7 +3085,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In February 2025, the U S Army changed the name of the installation back to \"Fort Bragg\", but in honor of World War II paratrooper Roland L. Bragg instead of the Confederate general."
+      "fact": "In February 2025, the U S Army changed the name of the installation back to \"Fort Bragg\", but in honor of World War 2 paratrooper Roland L Bragg instead of the Confederate general."
     },
     {
       "cityName": "Fort Bragg",
@@ -2357,7 +3134,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "In February 2025, the U S Army changed the name of the installation back to \"Fort Bragg\", but in honor of World War II paratrooper Roland L. Bragg instead of the Confederate general."
+      "fact": "In February 2025, the U S Army changed the name of the installation back to \"Fort Bragg\", but in honor of World War 2 paratrooper Roland L Bragg instead of the Confederate general."
     },
     {
       "cityName": "Fort Liberty",
@@ -2395,11 +3172,39 @@
       "fact": "In 2023, the U S Department of Defense renamed the installation \"Fort Liberty\" due to controversy surrounding memorials to Confederate generals."
     },
     {
+      "cityName": "Fountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 389 at the 2024 census."
+    },
+    {
+      "cityName": "Fountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Greenville Metropolitan Area located in North Carolina's Inner Banks region."
+    },
+    {
       "cityName": "Four Oaks",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census it had a population of 1921, up from 1424 in 2000."
+    },
+    {
+      "cityName": "Foxfire",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Foxfire, officially Foxfire Village, is a village in Moore County, North Carolina, United States."
+    },
+    {
+      "cityName": "Foxfire",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,288 at the 2020 census, up from 902 in 2010."
     },
     {
       "cityName": "Franklin",
@@ -2421,6 +3226,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town and the surrounding area is rich in gems and minerals, and is known locally as the \"Gem Capital of The World.\""
+    },
+    {
+      "cityName": "Franklinton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,456 at the 2020 census."
+    },
+    {
+      "cityName": "Franklinville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,164 at the 2010 census."
     },
     {
       "cityName": "Fremont",
@@ -2514,11 +3333,60 @@
       "fact": "Economically, the town initially grew due to tobacco trade and agriculture, but has seen recent population growth and real estate development due to its proximity to Research Triangle Park."
     },
     {
+      "cityName": "Gamewell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,051 at the 2010 census."
+    },
+    {
+      "cityName": "Gamewell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Garland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 595 at the 2020 census."
+    },
+    {
       "cityName": "Garner",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Garner was incorporated in 2020."
+    },
+    {
+      "cityName": "Garysburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,057 at the 2010 census."
+    },
+    {
+      "cityName": "Garysburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke Rapids, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Gaston",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,152 at the 2010 census."
+    },
+    {
+      "cityName": "Gaston",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke Rapids, North Carolina Micropolitan Statistical Area."
     },
     {
       "cityName": "Gastonia",
@@ -2556,6 +3424,20 @@
       "fact": "Gates is located on North Carolina Highway 37, 7 miles (11 km) north of Gatesville."
     },
     {
+      "cityName": "Gatesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 321 at the 2010 census."
+    },
+    {
+      "cityName": "Gatesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Gates County."
+    },
+    {
       "cityName": "Germanton",
       "state": "NC",
       "source": "Wikipedia",
@@ -2577,6 +3459,13 @@
       "fact": "Before the creation of Forsyth County, Germanton was centrally located within the Stokes County limits."
     },
     {
+      "cityName": "Gibson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 540 at the 2010 census."
+    },
+    {
       "cityName": "Gibsonville",
       "state": "NC",
       "source": "Wikipedia",
@@ -2596,6 +3485,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Glade Valley is an unincorporated community located in Alleghany County, North Carolina, United States along U S Highway 21 between Cherry Lane and Sparta (Powell 1968, p."
+    },
+    {
+      "cityName": "Glen Alpine",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,517 at the 2010 census."
+    },
+    {
+      "cityName": "Glen Alpine",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
     },
     {
       "cityName": "Glendale Springs",
@@ -2624,6 +3527,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2010 census, the year-round population was 110."
+    },
+    {
+      "cityName": "Godwin",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 139 at the 2010 census."
     },
     {
       "cityName": "Gold Hill",
@@ -2701,6 +3611,27 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Weeping Radish was shown on Diners, Drive-Ins and Dives."
+    },
+    {
+      "cityName": "Granite Falls",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,722 at the 2010 census."
+    },
+    {
+      "cityName": "Granite Falls",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Granite Quarry",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,984 at the 2020 census."
     },
     {
       "cityName": "Grantsboro",
@@ -2812,7 +3743,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Greenville\u2019s estimated 2025 population is 96184."
+      "fact": "Greenville’s estimated 2025 population is 96184."
     },
     {
       "cityName": "Greenville",
@@ -2850,6 +3781,27 @@
       "fact": "The Pitt County portion of the town is a part of the Greenville Metropolitan Statistical Area located in North Carolina's Inner Banks region."
     },
     {
+      "cityName": "Grimesland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 386."
+    },
+    {
+      "cityName": "Grimesland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Greenville Metropolitan Area located in North Carolina's Inner Banks."
+    },
+    {
+      "cityName": "Grover",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 708 at the 2010 census."
+    },
+    {
       "cityName": "Halifax",
       "state": "NC",
       "source": "Wikipedia",
@@ -2871,6 +3823,20 @@
       "fact": "As of the 2010 census it had a population of 465."
     },
     {
+      "cityName": "Hamilton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 306 at the 2020 census."
+    },
+    {
+      "cityName": "Hamlet",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,042 at the 2020 census."
+    },
+    {
       "cityName": "Hampstead",
       "state": "NC",
       "source": "Wikipedia",
@@ -2882,7 +3848,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Hamptonville is named for Henry Hampton (1750\u20131832), a colonel in the Revolutionary Army."
+      "fact": "Hamptonville is named for Henry Hampton (1750–1832), a colonel in the Revolutionary Army."
     },
     {
       "cityName": "Hamptonville",
@@ -2997,6 +3963,13 @@
       "fact": "At the previous census in 2010, the population was 202."
     },
     {
+      "cityName": "Harrellsville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 106 at the 2010 census."
+    },
+    {
       "cityName": "Harrisburg",
       "state": "NC",
       "source": "Wikipedia",
@@ -3009,6 +3982,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "In the 2020 census, the population was 18967."
+    },
+    {
+      "cityName": "Hassell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 49 at the 2020 census, down from 84 in 2010."
     },
     {
       "cityName": "Hatteras",
@@ -3046,11 +4026,53 @@
       "fact": "The city is home to Marine Corps Air Station Cherry Point, the world's largest Marine Corps air station, and home to the 2nd Marine Aircraft Wing."
     },
     {
+      "cityName": "Haw River",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burlington, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Haw River",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 census, the population was 2,252."
+    },
+    {
+      "cityName": "Hayesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 311 at the 2010 census."
+    },
+    {
+      "cityName": "Hayesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Clay County."
+    },
+    {
       "cityName": "Hays",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "North Wilkes High School, one of Wilkes County's four public high schools, is located in Hays."
+    },
+    {
+      "cityName": "Hemby Bridge",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,615 at the 2020 census."
+    },
+    {
+      "cityName": "Henderson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 15,060 at the 2020 census."
     },
     {
       "cityName": "Hendersonville",
@@ -3099,42 +4121,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "In 2023, Travel and Leisure rated Hickory as the most beautiful and affordable place to live in the U.S."
-    },
-    {
-      "cityName": "Hickory",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 2,
       "fact": "The 25th most populous city in the state, it is located approximately 60 miles (97 km) northwest of Charlotte."
-    },
-    {
-      "cityName": "Hickory",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "Hickory's population in the 2022 United States Census Bureau estimate was 44084."
-    },
-    {
-      "cityName": "Hickory",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "In 2014, Reader's Digest named the Hickory metro area as the 10th best place to live and raise a family in the United States."
-    },
-    {
-      "cityName": "Hickory",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Forbes ranked the Hickory-Lenoir-Morganton MSA the third best MSA in the country for business cost in the same year."
-    },
-    {
-      "cityName": "Hickory",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 6,
-      "fact": "The Hickory MSA was described by Smart Growth America in 2014 as being the country's most sprawling metro area."
     },
     {
       "cityName": "High Point",
@@ -3207,6 +4194,20 @@
       "fact": "The permanent population was 1014 at the 2020 census."
     },
     {
+      "cityName": "Hildebran",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,023 at the 2010 census."
+    },
+    {
+      "cityName": "Hildebran",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory-Lenoir-Morganton Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Hillsboro",
       "state": "NC",
       "source": "Wikipedia",
@@ -3219,6 +4220,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "Its name was unofficially shortened to \"Hillsboro\" during the 19th century."
+    },
+    {
+      "cityName": "Hillsborough",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The town of Hillsborough is the county seat of Orange County, North Carolina, United States, and is located along the Eno River."
+    },
+    {
+      "cityName": "Hillsborough",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 6,087 in 2010, but it grew rapidly to 9,660 by 2020."
     },
     {
       "cityName": "Hobgood",
@@ -3260,7 +4275,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Hollister\u2019s housing patterns, local services, and transportation services all contribute to our understanding of the demographic trends and community development."
+      "fact": "Hollister’s housing patterns, local services, and transportation services all contribute to our understanding of the demographic trends and community development."
     },
     {
       "cityName": "Hollister",
@@ -3326,6 +4341,13 @@
       "fact": "As of the 2020 census, the town population was 41239, a 67% increase from 2010."
     },
     {
+      "cityName": "Holly Springs",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, the town population was 41,239, a 67% increase from 2010."
+    },
+    {
       "cityName": "Hookerton",
       "state": "NC",
       "source": "Wikipedia",
@@ -3366,6 +4388,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "In 2024, the population estimate was 20280."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,776 at the 2010 census."
+    },
+    {
+      "cityName": "Hudson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
     },
     {
       "cityName": "Huntersville",
@@ -3417,6 +4453,20 @@
       "fact": "Daniel Floyd has been mayor since 2020."
     },
     {
+      "cityName": "Jackson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 513 at the 2010 census."
+    },
+    {
+      "cityName": "Jackson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Northampton County."
+    },
+    {
       "cityName": "Jacksonville",
       "state": "NC",
       "source": "Wikipedia",
@@ -3450,6 +4500,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is a suburb of the nearby cities of Greensboro and High Point."
+    },
+    {
+      "cityName": "Jamesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 424 at the 2020 census, down from 491 in 2010."
+    },
+    {
+      "cityName": "Jefferson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 1,622."
     },
     {
       "cityName": "Jonesville",
@@ -3515,6 +4579,13 @@
       "fact": "The city of Kannapolis was incorporated in 1984."
     },
     {
+      "cityName": "Kelford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 251 at the 2010 census."
+    },
+    {
       "cityName": "Kenansville",
       "state": "NC",
       "source": "Wikipedia",
@@ -3540,7 +4611,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It was named for John R. Kenly, Northern Division Superintendent of the Atlantic Coast Line Railroad, who later became president of the railroad in 1913."
+      "fact": "It was named for John R Kenly, Northern Division Superintendent of the Atlantic Coast Line Railroad, who later became president of the railroad in 1913."
     },
     {
       "cityName": "Kernersville",
@@ -3585,6 +4656,20 @@
       "fact": "Kitty Hawk, approximately 4 miles (6.4 km) north, was the nearest settlement at the time and is popularly noted as the site of the first flight."
     },
     {
+      "cityName": "King",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 7,096 at the 2020 census."
+    },
+    {
+      "cityName": "King",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "King is part of the Piedmont Triad metropolitan area, located 15 miles (24 km) northwest of Winston-Salem."
+    },
+    {
       "cityName": "Kings Grant",
       "state": "NC",
       "source": "Wikipedia",
@@ -3613,6 +4698,27 @@
       "fact": "Most of the city is in Cleveland County, with a small eastern portion in Gaston County."
     },
     {
+      "cityName": "Kings Mountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Most of the city is in Cleveland County, with a small eastern portion in Gaston County."
+    },
+    {
+      "cityName": "Kings Mountain",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Kings Mountain had a population of 11,142."
+    },
+    {
+      "cityName": "Kingstown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 681 at the 2010 census."
+    },
+    {
       "cityName": "Kinston",
       "state": "NC",
       "source": "Wikipedia",
@@ -3632,6 +4738,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "This marks the second time in 21 years the city has won the title."
+    },
+    {
+      "cityName": "Kittrell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Kittrell is a town in Vance County, North Carolina, United States."
     },
     {
       "cityName": "Kitty Hawk",
@@ -3830,6 +4943,27 @@
       "fact": "The full-time population was 67 at the 2000 census and dropped to 45 in 2010."
     },
     {
+      "cityName": "Lake Waccamaw",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,296 at the 2020 census."
+    },
+    {
+      "cityName": "Lake Waccamaw",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Originally home to Native Americans, Europeans later colonized Lake Waccamaw in the 18th century."
+    },
+    {
+      "cityName": "Lake Waccamaw",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The Europeans built naval stores and the discovery of turpentine oil led to the Wilmington-Manchester railroad track being created."
+    },
+    {
       "cityName": "Lakeview",
       "state": "NC",
       "source": "Wikipedia",
@@ -3837,11 +4971,32 @@
       "fact": "Lakeview may refer to the following places in the U S state of North Carolina: Lakeview, Alamance County, North Carolina Lakeview, Davidson County, North Carolina Lakeview, Moore County, North Carolina"
     },
     {
+      "cityName": "Landis",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, its population was 3,109."
+    },
+    {
+      "cityName": "Landis",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located just north of Kannapolis and south of China Grove."
+    },
+    {
       "cityName": "Lansing",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Lansing is a popular destination among retirees and tourists from Florida, as well as those from the lower elevations of the Carolinas and Georgia."
+    },
+    {
+      "cityName": "Lattimore",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 488 at the 2010 census."
     },
     {
       "cityName": "Laurel Park",
@@ -3855,7 +5010,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Located in south central North Carolina near the South Carolina border, Laurinburg is southwest of Fayetteville and was home to St. Andrews University."
+      "fact": "Located in south central North Carolina near the South Carolina border, Laurinburg is southwest of Fayetteville and was home to Saint Andrews University."
     },
     {
       "cityName": "Lawndale",
@@ -3963,6 +5118,20 @@
       "fact": "It is the location of Perdue Farms, one of the largest chicken-producing companies in North Carolina."
     },
     {
+      "cityName": "Lewisville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 13,388 at the 2020 census, up from 12,639 in 2010."
+    },
+    {
+      "cityName": "Lewisville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is a Piedmont Triad community."
+    },
+    {
       "cityName": "Lexington",
       "state": "NC",
       "source": "Wikipedia",
@@ -4005,6 +5174,20 @@
       "fact": "Lexington, Thomasville, and the rural areas surrounding them are slowly developing as residential bedroom communities for nearby cities such as Winston-Salem, Greensboro, High Point and, to a lesser extent, Charlotte and its northeastern suburbs."
     },
     {
+      "cityName": "Liberty",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Liberty is a town in Randolph County, North Carolina, United States."
+    },
+    {
+      "cityName": "Lilesville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 395 at the 2020 census."
+    },
+    {
       "cityName": "Lillington",
       "state": "NC",
       "source": "Wikipedia",
@@ -4017,6 +5200,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Lincolnton is northwest of Charlotte, on the South Fork of the Catawba River."
+    },
+    {
+      "cityName": "Linden",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 130 at the 2010 census, and the mayor was Frances Collier."
     },
     {
       "cityName": "Linville",
@@ -4080,6 +5270,20 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "Public High Schools that have districts that are in Linwood are Central Davidson High School and West Davidson High School."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 674 at the 2010 census."
+    },
+    {
+      "cityName": "Littleton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke Rapids, North Carolina Micropolitan Statistical Area."
     },
     {
       "cityName": "Locust",
@@ -4159,6 +5363,27 @@
       "fact": "As of the 2020 census, the town population was 3064."
     },
     {
+      "cityName": "Love Valley",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 90 at the 2010 census."
+    },
+    {
+      "cityName": "Lowell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Lowell had a population of 3,654."
+    },
+    {
+      "cityName": "Lucama",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,036 at the 2020 census."
+    },
+    {
       "cityName": "Lumber Bridge",
       "state": "NC",
       "source": "Wikipedia",
@@ -4184,7 +5409,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Most of the town's growth took place after World War II."
+      "fact": "Most of the town's growth took place after World War 2."
     },
     {
       "cityName": "Lumberton",
@@ -4222,6 +5447,13 @@
       "fact": "As of 2020, its population was 19025."
     },
     {
+      "cityName": "Macclesfield",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is sited on the River Bollin and the edge of the Cheshire Plain, with Macclesfield Forest to its east; the town lies 16 miles (26 km) south of Manchester and 38 miles (61 km) east of Chester."
+    },
+    {
       "cityName": "Macon",
       "state": "NC",
       "source": "Wikipedia",
@@ -4236,6 +5468,20 @@
       "fact": "As of the 2010 census, the town had a total population of 119."
     },
     {
+      "cityName": "Madison",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the town had a total population of 2,132."
+    },
+    {
+      "cityName": "Madison",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Madison is part of the Greensboro-High Point Metropolitan Statistical Area of the Piedmont Triad metro region."
+    },
+    {
       "cityName": "Maggie Valley",
       "state": "NC",
       "source": "Wikipedia",
@@ -4248,6 +5494,13 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The community gets its name from Maggie Mae Setzer; her father John \"Uncle Jack\" Sidney Setzer founded the area's first post office and named it after one of his daughters."
+    },
+    {
+      "cityName": "Magnolia",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 831."
     },
     {
       "cityName": "Maiden",
@@ -4303,7 +5556,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 5,
-      "fact": "The following year the community was renamed Mason in honor of O. F. Mason, a local doctor."
+      "fact": "The following year the community was renamed Mason in honor of O F Mason, a local doctor."
     },
     {
       "cityName": "Manson",
@@ -4313,11 +5566,32 @@
       "fact": "The locale was incorporated in 1874, but it later grew inactive in municipal activities."
     },
     {
+      "cityName": "Manteo",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,602 at the 2020 census."
+    },
+    {
+      "cityName": "Manteo",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Dare County."
+    },
+    {
       "cityName": "Marble",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census it had a population of 321."
+    },
+    {
+      "cityName": "Marietta",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 111."
     },
     {
       "cityName": "Marion",
@@ -4346,6 +5620,20 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The town is in western North Carolina, north of Asheville, and is served by Interstate 26."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 777 at the 2020 census, down from 872 in 2010."
+    },
+    {
+      "cityName": "Marshall",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Madison County."
     },
     {
       "cityName": "Marshville",
@@ -4388,6 +5676,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is a suburb of Charlotte."
+    },
+    {
+      "cityName": "Maxton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,110 at the 2020 census."
+    },
+    {
+      "cityName": "Mayodan",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is a manufacturing site for Sturm, Ruger & Co., Bridgestone Aircraft Tire, and formerly General Tobacco until its closure in 2010."
+    },
+    {
+      "cityName": "Mayodan",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Washington Mills Company, later Tultex, operated a textile mill in Mayodan until 1999."
     },
     {
       "cityName": "Maysville",
@@ -4450,7 +5759,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 6,
-      "fact": "The bulk of the city is in Alamance County, which comprises the Burlington, NC Metropolitan Statistical Area, itself a component of the Greensboro\u2013Winston-Salem\u2013High Point, NC Combined Statistical Area."
+      "fact": "The bulk of the city is in Alamance County, which comprises the Burlington, NC Metropolitan Statistical Area, itself a component of the Greensboro–Winston-Salem–High Point, NC Combined Statistical Area."
     },
     {
       "cityName": "Mebane",
@@ -4458,6 +5767,27 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "Two slivers in the eastern portion of the city are in Orange County, which is part of the Durham-Chapel Hill, NC Metropolitan Statistical Area, itself a component of the Raleigh-Durham-Cary, NC Combined Statistical Area."
+    },
+    {
+      "cityName": "Mesic",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 220 at the 2010 census."
+    },
+    {
+      "cityName": "Mesic",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Micro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 458 as of the 2020 census, up from 441 in the 2010 census."
     },
     {
       "cityName": "Middleburg",
@@ -4520,7 +5850,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Rev. Joshua D. Jones House was added to the National Register of Historic Places in 1991."
+      "fact": "The Reverend Joshua D Jones House was added to the National Register of Historic Places in 1991."
     },
     {
       "cityName": "Mill Spring",
@@ -4534,7 +5864,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 4,
-      "fact": "Mill Spring was the hometown of Bryant H. Womack, recipient of the Medal of Honor for actions during the Korean War."
+      "fact": "Mill Spring was the hometown of Bryant H Womack, recipient of the Medal of Honor for actions during the Korean War."
     },
     {
       "cityName": "Mill Spring",
@@ -4577,6 +5907,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "It was incorporated into a town in June 2003."
+    },
+    {
+      "cityName": "Milton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 166 at the 2010 census."
+    },
+    {
+      "cityName": "Milton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is adjacent to the Virginia International Raceway, just across the state line in Virginia."
     },
     {
       "cityName": "Minnesott Beach",
@@ -4649,6 +5993,20 @@
       "fact": "Route 64 heads east to Lexington, and west towards Statesville and Taylorsville."
     },
     {
+      "cityName": "Momeyer",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Momeyer",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 277 in 2020."
+    },
+    {
       "cityName": "Moncure",
       "state": "NC",
       "source": "Wikipedia",
@@ -4705,6 +6063,13 @@
       "fact": "The town is best known for Montreat Conference Center and Montreat College, and for having been the home of the evangelist Billy Graham and his wife Ruth Bell Graham."
     },
     {
+      "cityName": "Mooresboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 311 at the 2010 census."
+    },
+    {
       "cityName": "Mooresville",
       "state": "NC",
       "source": "Wikipedia",
@@ -4715,8 +6080,22 @@
       "cityName": "Mooresville",
       "state": "NC",
       "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 50,193 at the 2020 census, making it the most populous municipality in Iredell County."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The population was 50,193 at the 2020 census, making it the most populous municipality in Iredell County."
+    },
+    {
+      "cityName": "Mooresville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located approximately 25 miles (40 km) north of Charlotte."
     },
     {
       "cityName": "Mooresville",
@@ -4831,6 +6210,41 @@
       "fact": "Mount Airy is located within the Piedmont Triad metropolitan region."
     },
     {
+      "cityName": "Mount Holly",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The city is situated just west of the Catawba River, north of Interstate 85, south of North Carolina State Highway 16."
+    },
+    {
+      "cityName": "Mount Holly",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 17,703 at the 2020 census, up from 13,656 in 2010."
+    },
+    {
+      "cityName": "Mount Olive",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 4,198."
+    },
+    {
+      "cityName": "Mount Olive",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is included in the Goldsboro, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Mount Olive",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "Olive Pickle Company and the University of Mount Olive."
+    },
+    {
       "cityName": "Mount Pleasant",
       "state": "NC",
       "source": "Wikipedia",
@@ -4864,6 +6278,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The town is home to Chowan University."
+    },
+    {
+      "cityName": "Murphy",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is situated at the confluence of the Hiwassee and Valley rivers."
+    },
+    {
+      "cityName": "Murphy",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the westernmost county seat in the state of North Carolina, approximately 360 miles (580 km) from the state capital in Raleigh."
+    },
+    {
+      "cityName": "Murphy",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population of Murphy was 1,608 at the 2020 census."
     },
     {
       "cityName": "Murraysville",
@@ -4919,7 +6354,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Positioned just north of the North Carolina\u2013South Carolina border, Nakina was historically renowned for its high-quality flue-cured tobacco production until the 1990s."
+      "fact": "Positioned just north of the North Carolina–South Carolina border, Nakina was historically renowned for its high-quality flue-cured tobacco production until the 1990s."
     },
     {
       "cityName": "Nakina",
@@ -4933,7 +6368,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town was founded in 1780 and features Victorian and Queen Anne\u2013style homes."
+      "fact": "The town was founded in 1780 and features Victorian and Queen Anne–style homes."
     },
     {
       "cityName": "Navassa",
@@ -4968,7 +6403,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "The historic districts contain many of the city's 2000 crape myrtles\u2014its official flower\u2014and developed gardens."
+      "fact": "The historic districts contain many of the city's 2000 crape myrtles—its official flower—and developed gardens."
     },
     {
       "cityName": "New Bern",
@@ -5017,7 +6452,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 10,
-      "fact": "After the American Revolution (1775\u20131783), New Bern became wealthy and quickly developed a rich cultural life."
+      "fact": "After the American Revolution (1775–1783), New Bern became wealthy and quickly developed a rich cultural life."
     },
     {
       "cityName": "New London",
@@ -5034,6 +6469,13 @@
       "fact": "It was the site of a gold mine, which was active during periods of the mid-1800s and early 1900s."
     },
     {
+      "cityName": "Newport",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,364 at the 2020 census."
+    },
+    {
       "cityName": "Newton",
       "state": "NC",
       "source": "Wikipedia",
@@ -5045,7 +6487,28 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Newton is part of the Hickory\u2013Lenoir\u2013Morganton Metropolitan Statistical Area."
+      "fact": "Newton is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Newton Grove",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 585 at the 2020 census."
+    },
+    {
+      "cityName": "Norlina",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,118 at the 2010 census."
+    },
+    {
+      "cityName": "Norman",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 138 at the 2010 census."
     },
     {
       "cityName": "North Topsail Beach",
@@ -5065,6 +6528,20 @@
       "cityName": "North Wilkesboro",
       "state": "NC",
       "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,131 at the 2020 US Census."
+    },
+    {
+      "cityName": "North Wilkesboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "North Wilkesboro is the birthplace and original home of Lowe's Home Improvement, which continues to have a major presence in the community."
+    },
+    {
+      "cityName": "North Wilkesboro",
+      "state": "NC",
+      "source": "Wikipedia",
       "factNumber": 2,
       "fact": "North Wilkesboro is the birthplace and original home of Lowe's Home Improvement, which continues to have a major presence in the community."
     },
@@ -5074,6 +6551,34 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town is also known as one of the birthplaces of the sport of stock-car racing, and the North Wilkesboro Speedway was the first NASCAR-sanctioned track."
+    },
+    {
+      "cityName": "North Wilkesboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is also known as one of the birthplaces of the sport of stock-car racing, and the North Wilkesboro Speedway was the first NASCAR-sanctioned track."
+    },
+    {
+      "cityName": "Northwest",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "As of the 2020 census, Northwest had a population of 703."
+    },
+    {
+      "cityName": "Northwest",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wilmington, NC Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Norwood",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,379 at the 2010 census."
     },
     {
       "cityName": "Oak City",
@@ -5125,6 +6630,13 @@
       "fact": "As of 2018, the population had risen to an estimated 6977."
     },
     {
+      "cityName": "Oakboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,859 at the 2010 census."
+    },
+    {
       "cityName": "Ocean Isle Beach",
       "state": "NC",
       "source": "Wikipedia",
@@ -5160,6 +6672,13 @@
       "fact": "Ogden was first listed as a CDP at the 1980 United States Census."
     },
     {
+      "cityName": "Old Fort",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 811 in the 2020 US census, down from 908 in 2010."
+    },
+    {
       "cityName": "Oriental",
       "state": "NC",
       "source": "Wikipedia",
@@ -5174,11 +6693,67 @@
       "fact": "Oriental is also known as \"The Sailing Capital of North Carolina\" The population was 880, according to the 2020 census."
     },
     {
+      "cityName": "Orrum",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 59 at the 2020 census."
+    },
+    {
+      "cityName": "Ossipee",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Ossipee is one of the newer municipalities in the state, as it was incorporated officially on December 9, 2002."
+    },
+    {
+      "cityName": "Ossipee",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was part of the Altamahaw-Ossipee census-designated place until its incorporation."
+    },
+    {
+      "cityName": "Ossipee",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town had a 2020 population of 536."
+    },
+    {
+      "cityName": "Oxford",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the county seat of Granville County."
+    },
+    {
       "cityName": "Parkton",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Parkton is a town in Robeson County, North Carolina, United States."
+    },
+    {
+      "cityName": "Parmele",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 243 at the 2020 census."
+    },
+    {
+      "cityName": "Patterson Springs",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 622 at the 2010 census."
+    },
+    {
+      "cityName": "Peachland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 390 at the 2020 census."
     },
     {
       "cityName": "Peletier",
@@ -5192,35 +6767,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Pelham is located along Pelham Loop Road near the eastern terminus of NC 700 at US 29 (future Interstate 785)."
-    },
-    {
-      "cityName": "Pelham",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 2,
-      "fact": "The community was named in honor of Confederate Col."
-    },
-    {
-      "cityName": "Pelham",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "John Pelham, known as \"the Gallant Pelham\" for his notable bravery."
-    },
-    {
-      "cityName": "Pelham",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 4,
-      "fact": "His parents, Doctor Atkinson and Martha Pelham (n\u00e9e McGehee), had previously resided in neighboring Person County before relocating to Alabama, where he was born."
-    },
-    {
-      "cityName": "Pelham",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 5,
-      "fact": "Nearby communities, independent cities, and municipalities include Danville, Eden, Ruffin, Yanceyville, Purley, Reidsville and Casville."
+      "fact": "Pelham is located along Pelham Loop Road near the eastern terminus of NC 700 at US 29."
     },
     {
       "cityName": "Pembroke",
@@ -5277,6 +6824,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Pine Level, North Carolina may refer to: Pine Level, Columbus County, North Carolina, Columbus County Pine Level, Johnston County, North Carolina"
+    },
+    {
+      "cityName": "Pinebluff",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,473 at the 2020 census, up from 1,337 in 2010."
     },
     {
       "cityName": "Pinehurst",
@@ -5349,11 +6903,32 @@
       "fact": "Contributing factors included the quality of local amenities, as well as the strong medical and golf tourism industries."
     },
     {
+      "cityName": "Pinetops",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pinetops",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,374 at the 2010 census."
+    },
+    {
       "cityName": "Pineville",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, Pineville had a population of 10602, up from 7479 in 2010."
+    },
+    {
+      "cityName": "Pink Hill",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 451 at the 2020 census."
     },
     {
       "cityName": "Pinnacle",
@@ -5465,7 +7040,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The town is named after its founder, Leonidas L. Polk."
+      "fact": "The town is named after its founder, Leonidas L Polk."
     },
     {
       "cityName": "Polkton",
@@ -5473,6 +7048,34 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2020 census, the town population was 2250, down from 3375 in 2010."
+    },
+    {
+      "cityName": "Polkville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 545 at the 2010 census."
+    },
+    {
+      "cityName": "Pollocksville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 268 at the 2020 census."
+    },
+    {
+      "cityName": "Pollocksville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Pollocksville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It is situated on US 17 and Highway 58."
     },
     {
       "cityName": "Powellsville",
@@ -5550,6 +7153,13 @@
       "source": "Wikipedia",
       "factNumber": 7,
       "fact": "The city of Rocky Mount is 16 miles (26 km) to the west."
+    },
+    {
+      "cityName": "Proctorville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 121 at the 2020 census."
     },
     {
       "cityName": "Prospect Hill",
@@ -5633,7 +7243,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 7,
-      "fact": "The Raleigh\u2013Cary metropolitan statistical area alone has an estimated population of 1.51 million."
+      "fact": "The Raleigh–Cary metropolitan statistical area alone has an estimated population of 1.51 million."
     },
     {
       "cityName": "Raleigh",
@@ -5657,6 +7267,13 @@
       "fact": "The city was originally laid out in a grid pattern with the North Carolina State Capitol at the center, in Union Square."
     },
     {
+      "cityName": "Ramseur",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,692 at the 2010 census."
+    },
+    {
       "cityName": "Randleman",
       "state": "NC",
       "source": "Wikipedia",
@@ -5671,11 +7288,67 @@
       "fact": "As of the 2020 census, the town population was 4511, up from 3434 in 2010."
     },
     {
+      "cityName": "Raynham",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 60 at the 2020 census."
+    },
+    {
+      "cityName": "Red Cross",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The International Red Cross and Red Crescent Movement is a humanitarian movement with approximately 16 million volunteers, members, and staff worldwide."
+    },
+    {
+      "cityName": "Red Cross",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It was founded to protect human life and health, to ensure respect for all human beings, and to prevent and alleviate human suffering."
+    },
+    {
+      "cityName": "Red Springs",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,087 at the 2020 census."
+    },
+    {
+      "cityName": "Reidsville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the city had a total population of 14,583."
+    },
+    {
+      "cityName": "Reidsville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Reidsville is included in the Greensboro–High Point Metropolitan Statistical Area of the Piedmont Triad."
+    },
+    {
       "cityName": "Rennert",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "More than one-third of the population are Native American, primarily members of the Lumbee people, who are based in Robeson County,"
+    },
+    {
+      "cityName": "Rhodhiss",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,070 at the 2010 census, up from 366 in 2000."
+    },
+    {
+      "cityName": "Rhodhiss",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
     },
     {
       "cityName": "Rich Square",
@@ -5734,6 +7407,27 @@
       "fact": "It is the location of a saw mill and a paper mill."
     },
     {
+      "cityName": "Roanoke Rapids",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 15,229 at the 2020 census and is the largest community in Halifax County."
+    },
+    {
+      "cityName": "Roanoke Rapids",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the principal city of the Roanoke Rapids Micropolitan Statistical Area, and is also an anchor city of the Rocky Mount-Wilson-Roanoke Rapids CSA, with a total population of 297,726 as of 2018."
+    },
+    {
+      "cityName": "Robbins",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,168 at the 2020 census."
+    },
+    {
       "cityName": "Robersonville",
       "state": "NC",
       "source": "Wikipedia",
@@ -5781,6 +7475,13 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The city is currently experiencing an economic boom, with new businesses opening in the downtown area."
+    },
+    {
+      "cityName": "Rockwell",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,302 at the 2020 census."
     },
     {
       "cityName": "Rocky Mount",
@@ -5881,6 +7582,13 @@
       "fact": "Rose Hill claims to be the home of the world's largest frying pan."
     },
     {
+      "cityName": "Roseboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,163 at the 2020 census."
+    },
+    {
       "cityName": "Rosman",
       "state": "NC",
       "source": "Wikipedia",
@@ -5895,18 +7603,25 @@
       "fact": "The Pisgah Astronomical Research Institute is located approximately six miles north of Rosman, near Balsam Grove."
     },
     {
+      "cityName": "Rowland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 885 at the 2020 census."
+    },
+    {
       "cityName": "Roxboro",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The city is 30 miles (48 km) north of Durham and is a part of the four-county Durham\u2013Chapel Hill Metropolitan Statistical Area, which has a population of 649903 as of the 2020 Census."
+      "fact": "The city is 30 miles (48 km) north of Durham and is a part of the four-county Durham–Chapel Hill Metropolitan Statistical Area, which has a population of 649903 as of the 2020 Census."
     },
     {
       "cityName": "Roxboro",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "The Durham\u2013Chapel Hill MSA is a part of the larger Raleigh\u2013Durham\u2013Cary Combined Statistical Area, which has a population of 2043867 as of the 2020 Census."
+      "fact": "The Durham–Chapel Hill MSA is a part of the larger Raleigh–Durham–Cary Combined Statistical Area, which has a population of 2043867 as of the 2020 Census."
     },
     {
       "cityName": "Roxobel",
@@ -5970,6 +7685,48 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "There are two exclaves of the town in Caldwell County."
+    },
+    {
+      "cityName": "Rutherfordton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,640 at the 2020 census."
+    },
+    {
+      "cityName": "Saint Helena",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The island is around 1,950 km (1,210 mi) west of the coast of southwestern Angola, and 4,000 km (2,500 mi) east of the major seaport city of Rio de Janeiro, Brazil in South America."
+    },
+    {
+      "cityName": "Saint Helena",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is one of the three constituent parts of Saint Helena, Ascension and Tristan da Cunha, a British overseas territory."
+    },
+    {
+      "cityName": "Saint Pauls",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Pauls is a town in Robeson County, North Carolina, United States."
+    },
+    {
+      "cityName": "Saint Pauls",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,045 at the 2020 census."
+    },
+    {
+      "cityName": "Salemburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 457 at the 2020 census."
     },
     {
       "cityName": "Salisbury",
@@ -6077,6 +7834,20 @@
       "fact": "Salvo is part of District 4, along with Avon, Buxton, Frisco, Hatteras, Rodanthe and Waves."
     },
     {
+      "cityName": "Sandy Creek",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 260 at the 2010 census."
+    },
+    {
+      "cityName": "Sandy Creek",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wilmington, NC Metropolitan Statistical Area."
+    },
+    {
       "cityName": "Sandy Ridge",
       "state": "NC",
       "source": "Wikipedia",
@@ -6133,6 +7904,13 @@
       "fact": "Sapphire is 8.5 miles (13.7 km) east of Cashiers."
     },
     {
+      "cityName": "Saratoga",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 408 at the 2010 census."
+    },
+    {
       "cityName": "Sawmills",
       "state": "NC",
       "source": "Wikipedia",
@@ -6159,6 +7937,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "According to the 2010 census, the town population was 2059."
+    },
+    {
+      "cityName": "Seaboard",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Seaboard is a town in Northampton County, North Carolina, United States, created as a company town by the Seaboard and Roanoke Railroad, approximately 10 miles northeast of Weldon in the mid-1840s as a place for railroad employees to live."
     },
     {
       "cityName": "Seagrove",
@@ -6207,7 +7992,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "The Everitt P. Stevens House, located in Selma, was the site of the last Grand Review of the Confederate Army held on April 6, 1865, after its defeat at the Battle of Bentonville."
+      "fact": "The Everitt P Stevens House, located in Selma, was the site of the last Grand Review of the Confederate Army held on April 6, 1865, after its defeat at the Battle of Bentonville."
     },
     {
       "cityName": "Selma",
@@ -6315,6 +8100,27 @@
       "fact": "It is included in the Goldsboro, North Carolina Metropolitan Statistical Area."
     },
     {
+      "cityName": "Severn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The River Severn is the longest river in Great Britain, with a length of 220 miles (354 km)."
+    },
+    {
+      "cityName": "Severn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is also the river with the most voluminous flow of water by far in all of England and Wales, with an average flow rate of 107 m3/s (3,800 cu ft/s) at Apperley, Gloucestershire."
+    },
+    {
+      "cityName": "Severn",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "It rises in the Cambrian Mountains in mid Wales, at an altitude of 610 m (2,000 ft), on the Plynlimon massif, which lies close to the Ceredigion/Powys border near Llanidloes."
+    },
+    {
       "cityName": "Shallotte",
       "state": "NC",
       "source": "Wikipedia",
@@ -6341,6 +8147,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the town's population was 7702."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 390 at the 2020 census."
+    },
+    {
+      "cityName": "Simpson",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The village is a part of the Greenville Metropolitan Area."
     },
     {
       "cityName": "Skyland",
@@ -6476,6 +8296,13 @@
       "fact": "Its population was 15545 as of the 2020 census, up from 12334 in 2010."
     },
     {
+      "cityName": "Southern Shores",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located on the Outer Banks and the population was 3,107 at the 2020 census."
+    },
+    {
       "cityName": "Southport",
       "state": "NC",
       "source": "Wikipedia",
@@ -6502,6 +8329,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2020 census, the population of the town was 1834."
+    },
+    {
+      "cityName": "Speed",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Speed",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 80 at the 2010 census."
     },
     {
       "cityName": "Spencer",
@@ -6532,6 +8373,27 @@
       "fact": "According to the 2020 census, the population was listed as zero, down from 37 at the 2010 census."
     },
     {
+      "cityName": "Spindale",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,225 at the 2020 census."
+    },
+    {
+      "cityName": "Spring Hope",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Rocky Mount, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Spring Hope",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 1,320 at the 2010 census."
+    },
+    {
       "cityName": "Spring Lake",
       "state": "NC",
       "source": "Wikipedia",
@@ -6546,11 +8408,46 @@
       "fact": "It is one of the only places in the world where high-purity quartz can be found."
     },
     {
+      "cityName": "Staley",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 393 at the 2010 census."
+    },
+    {
+      "cityName": "Stallings",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 16,112 at the 2020 census, up from 13,831 in 2010."
+    },
+    {
+      "cityName": "Stanfield",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,486 at the 2010 census."
+    },
+    {
+      "cityName": "Stanley",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,556 at the 2010 census."
+    },
+    {
       "cityName": "Stantonsburg",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named for James Stanton V. The population was 784 at the 2010 census."
+      "fact": "It is named for James Stanton 5 The population was 784 at the 2010 census."
+    },
+    {
+      "cityName": "Star",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 806 at the 2020 census, down from 876 in 2010."
     },
     {
       "cityName": "State Road",
@@ -6600,6 +8497,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Belews Lake is located nearby, and North Carolina Highway 68 and North Carolina Highway 65 both intersect U S Route 158 near the town's center."
+    },
+    {
+      "cityName": "Stoneville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Stoneville is part of the Greensboro–High Point metropolitan area of the Piedmont Triad."
+    },
+    {
+      "cityName": "Stoneville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "At the 2020 United States census, the town had a population of 1,308."
+    },
+    {
+      "cityName": "Stovall",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 418 as of the 2010 census."
     },
     {
       "cityName": "Sugar Grove",
@@ -6665,6 +8583,20 @@
       "fact": "Sunbury is located at the junction of U S Route 158 and North Carolina Highway 32, 10 miles (16 km) east-northeast of Gatesville, the Gates County seat."
     },
     {
+      "cityName": "Sunset Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,175 at the 2020 census, up from 3,572 in 2010 and 1,824 in 2000."
+    },
+    {
+      "cityName": "Sunset Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wilmington, NC Metropolitan Statistical Area and the southernmost beach in the state."
+    },
+    {
       "cityName": "Supply",
       "state": "NC",
       "source": "Wikipedia",
@@ -6700,6 +8632,34 @@
       "fact": "The community is named for the Swannanoa River, which flows through the settlement."
     },
     {
+      "cityName": "Swansboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is located along the Crystal Coast."
+    },
+    {
+      "cityName": "Swansboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 3,744 at the 2020 census."
+    },
+    {
+      "cityName": "Swepsonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Burlington, North Carolina Metropolitan Statistical Area."
+    },
+    {
+      "cityName": "Swepsonville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population at the 2020 census was 2,445."
+    },
+    {
       "cityName": "Sylva",
       "state": "NC",
       "source": "Wikipedia",
@@ -6712,6 +8672,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "As of the 2010 census, the town had a total population of 2588."
+    },
+    {
+      "cityName": "Tabor City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is the southernmost town in the county."
+    },
+    {
+      "cityName": "Tabor City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located just north of the North Carolina/South Carolina line, about 39 miles (63 km) north of Myrtle Beach, South Carolina, and is just north of Loris, South Carolina."
+    },
+    {
+      "cityName": "Tabor City",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The population was 2,511 as of the 2010 census."
     },
     {
       "cityName": "Tar Heel",
@@ -6802,7 +8783,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Taylorsville is part of the Hickory\u2013Lenoir\u2013Morganton Metropolitan Statistical Area."
+      "fact": "Taylorsville is part of the Hickory–Lenoir–Morganton Metropolitan Statistical Area."
     },
     {
       "cityName": "Taylortown",
@@ -6810,6 +8791,13 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "It is bordered by nearby Pinehurst."
+    },
+    {
+      "cityName": "Teachey",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 448."
     },
     {
       "cityName": "Thomasville",
@@ -6865,7 +8853,35 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Townsville is near the John H. Kerr Reservoir and Virginia state line."
+      "fact": "Townsville is near the John H Kerr Reservoir and Virginia state line."
+    },
+    {
+      "cityName": "Trent Woods",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,155 in 2010."
+    },
+    {
+      "cityName": "Trent Woods",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the New Bern, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 238 in 2020 census."
+    },
+    {
+      "cityName": "Trenton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is the county seat of Jones County."
     },
     {
       "cityName": "Trinity",
@@ -6900,7 +8916,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "A short story by Charles W. Chesnutt, \"The Sheriff's Children\", is set in Troy."
+      "fact": "A short story by Charles W Chesnutt, \"The Sheriff's Children\", is set in Troy."
     },
     {
       "cityName": "Tryon",
@@ -6935,7 +8951,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Tuckasegee (Cherokee: \u13db\u13a7\u13cf\u13a9, romanized: Dvkasigi), named after the historic Cherokee town of that name located near here, is an unincorporated community in Jackson County, North Carolina, United States."
+      "fact": "Tuckasegee (Cherokee: ᏛᎧᏏᎩ, romanized: Dvkasigi), named after the historic Cherokee town of that name located near here, is an unincorporated community in Jackson County, North Carolina, United States."
     },
     {
       "cityName": "Tuckasegee",
@@ -6987,6 +9003,13 @@
       "fact": "The community is located along Hudlow Road, east of U S Route 221 and 8.2 miles (13.2 km) north of Rutherfordton."
     },
     {
+      "cityName": "Unionville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 6,643 at the 2020 census."
+    },
+    {
       "cityName": "Valdese",
       "state": "NC",
       "source": "Wikipedia",
@@ -7019,7 +9042,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Originally called Swift Creek, residents renamed the town for Zebulon B. Vance after he visited there during his 1876 campaign for governor."
+      "fact": "Originally called Swift Creek, residents renamed the town for Zebulon B Vance after he visited there during his 1876 campaign for governor."
     },
     {
       "cityName": "Vandemere",
@@ -7027,6 +9050,20 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "As of the 2010 census, the town population was 254."
+    },
+    {
+      "cityName": "Varnamtown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 541 at the 2010 census."
+    },
+    {
+      "cityName": "Varnamtown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Wilmington, NC Metropolitan Statistical Area."
     },
     {
       "cityName": "Vass",
@@ -7064,6 +9101,20 @@
       "fact": "The community is located at Linville Creek, along U S Route 321 and U S Route 421, 5.6 miles (9.0 km) west-northwest of Boone."
     },
     {
+      "cityName": "Waco",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 321 at the 2010 census."
+    },
+    {
+      "cityName": "Wade",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 556 at the 2010 census."
+    },
+    {
       "cityName": "Wadesboro",
       "state": "NC",
       "source": "Wikipedia",
@@ -7092,6 +9143,20 @@
       "fact": "Located almost entirely in Wake County, it lies just north of the state capital, Raleigh."
     },
     {
+      "cityName": "Walkertown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is part of the Piedmont Triad."
+    },
+    {
+      "cityName": "Walkertown",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 5,695 at the 2020 census."
+    },
+    {
       "cityName": "Wallace",
       "state": "NC",
       "source": "Wikipedia",
@@ -7103,7 +9168,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Later in 1899, the town fathers decided to adopt the new name, Wallace, to honor Stephen D. Wallace, an official of the Atlantic Coast Line Railroad."
+      "fact": "Later in 1899, the town fathers decided to adopt the new name, Wallace, to honor Stephen D Wallace, an official of the Atlantic Coast Line Railroad."
     },
     {
       "cityName": "Wallace",
@@ -7162,6 +9227,13 @@
       "fact": "As of the 2020 census it had a population of 3051."
     },
     {
+      "cityName": "Walnut Cove",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,536 at the 2020 census."
+    },
+    {
       "cityName": "Walnut Creek",
       "state": "NC",
       "source": "Wikipedia",
@@ -7174,6 +9246,27 @@
       "source": "Wikipedia",
       "factNumber": 2,
       "fact": "The village is built around the Walnut Creek Country Club."
+    },
+    {
+      "cityName": "Walstonburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 193 at the 2020 census."
+    },
+    {
+      "cityName": "Walstonburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is located north of Snow Hill on North Carolina Highway 91."
+    },
+    {
+      "cityName": "Walstonburg",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town is part of the Greenville Metropolitan Area."
     },
     {
       "cityName": "Wanchese",
@@ -7232,25 +9325,25 @@
       "fact": "It became one of the wealthiest towns in the state from 1840 to 1860, being a trading center of an area of rich tobacco and cotton plantations."
     },
     {
+      "cityName": "Warsaw",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "At the 2020 census, the population was 2,733."
+    },
+    {
       "cityName": "Washington",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "James Bonner, Washington is the first city named after George Washington, the first president of the United States."
+      "fact": "The population was 9,875 at the 2020 census."
     },
     {
       "cityName": "Washington",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 2,
-      "fact": "Established in 1776 on land donated by Col."
-    },
-    {
-      "cityName": "Washington",
-      "state": "NC",
-      "source": "Wikipedia",
-      "factNumber": 3,
-      "fact": "It is commonly known as \"Original Washington\" or \"Little Washington\" to distinguish it from Washington, D C The closest major city is Greenville, approximately 20 miles (32 km) to the west."
+      "fact": "It is commonly known as \"Original Washington\" or \"Little Washington\" to distinguish it from Washington, D.C The closest major city is Greenville, approximately 20 miles (32 km) to the west."
     },
     {
       "cityName": "Washington Park",
@@ -7316,6 +9409,20 @@
       "fact": "As of the 2020 census, Waynesville had a population of 10140."
     },
     {
+      "cityName": "Weaverville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 4,567 at the 2020 census."
+    },
+    {
+      "cityName": "Weaverville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Asheville metropolitan area."
+    },
+    {
       "cityName": "Webster",
       "state": "NC",
       "source": "Wikipedia",
@@ -7358,6 +9465,20 @@
       "fact": "Neighboring communities and municipalities include Midway, Arcadia, and Lexington."
     },
     {
+      "cityName": "Weldon",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 1,655 at the 2010 census."
+    },
+    {
+      "cityName": "Weldon",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Roanoke Rapids, North Carolina Micropolitan Statistical Area."
+    },
+    {
       "cityName": "Wendell",
       "state": "NC",
       "source": "Wikipedia",
@@ -7365,11 +9486,18 @@
       "fact": "It is a satellite town of Raleigh, the state capital."
     },
     {
+      "cityName": "Wesley Chapel",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 8,681 at the 2020 census and was estimated to be 8,883 in 2021."
+    },
+    {
       "cityName": "West End",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "It is named for when it was the western terminus of a railroad from Aberdeen, from about 1890\u20131898."
+      "fact": "It is named for when it was the western terminus of a railroad from Aberdeen, from about 1890–1898."
     },
     {
       "cityName": "West End",
@@ -7435,6 +9563,27 @@
       "fact": "It has white sand and pristine clear water originated from a combination of rainfall and subterranean springs."
     },
     {
+      "cityName": "Whiteville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Whiteville is the county seat of and the most populous city in Columbus County, North Carolina, United States."
+    },
+    {
+      "cityName": "Whiteville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "As of the 2020 census, Whiteville had a population of 4,766."
+    },
+    {
+      "cityName": "Whitsett",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 584 at the 2020 census."
+    },
+    {
       "cityName": "Whittier",
       "state": "NC",
       "source": "Wikipedia",
@@ -7454,6 +9603,20 @@
       "source": "Wikipedia",
       "factNumber": 3,
       "fact": "The town of Whittier has its own Post Office, located at 22 Main Street."
+    },
+    {
+      "cityName": "Wilkesboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,687 at the 2020 census."
+    },
+    {
+      "cityName": "Wilkesboro",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is located along the south bank of the Yadkin River, directly opposite the town of North Wilkesboro."
     },
     {
       "cityName": "Willard",
@@ -7586,7 +9749,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 9,
-      "fact": "Once a center of tobacco cultivation, the city was widely known as \"The World\u2019s Greatest Tobacco Market\" in the 19th century."
+      "fact": "Once a center of tobacco cultivation, the city was widely known as \"The World’s Greatest Tobacco Market\" in the 19th century."
     },
     {
       "cityName": "Wilson's Mills",
@@ -7608,6 +9771,27 @@
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "Windsor is located in North Carolina's Inner Banks region."
+    },
+    {
+      "cityName": "Winfall",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 554 at the 2020 census."
+    },
+    {
+      "cityName": "Winfall",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "It is part of the Elizabeth City, North Carolina Micropolitan Statistical Area."
+    },
+    {
+      "cityName": "Wingate",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 3,491 at the 2010 census."
     },
     {
       "cityName": "Winnabow",
@@ -7649,7 +9833,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Winston-Salem is called the \"Twin City\" for its dual heritage, and the \"Camel City\" as a reference to the city's historic involvement in the tobacco industry related to locally based R. J. Reynolds' Camel cigarettes."
+      "fact": "Winston-Salem is called the \"Twin City\" for its dual heritage, and the \"Camel City\" as a reference to the city's historic involvement in the tobacco industry related to locally based R J Reynolds' Camel cigarettes."
     },
     {
       "cityName": "Winston Salem",
@@ -7677,7 +9861,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
-      "fact": "Winston-Salem is called the \"Twin City\" for its dual heritage, and the \"Camel City\" as a reference to the city's historic involvement in the tobacco industry related to locally based R. J. Reynolds' Camel cigarettes."
+      "fact": "Winston-Salem is called the \"Twin City\" for its dual heritage, and the \"Camel City\" as a reference to the city's historic involvement in the tobacco industry related to locally based R J Reynolds' Camel cigarettes."
     },
     {
       "cityName": "Winston-Salem",
@@ -7699,6 +9883,34 @@
       "source": "Wikipedia",
       "factNumber": 4,
       "fact": "Many North Carolinians refer to the city as \"Winston\" in informal speech."
+    },
+    {
+      "cityName": "Winterville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 10,462 as of the 2020 census."
+    },
+    {
+      "cityName": "Winterville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The town is a part of the Greenville Metropolitan Area."
+    },
+    {
+      "cityName": "Winton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "It is governed by the Town Council which consists of a Mayor and five Council members."
+    },
+    {
+      "cityName": "Winton",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 769 at the 2010 census."
     },
     {
       "cityName": "Woodfin",
@@ -7715,11 +9927,53 @@
       "fact": "The town was incorporated in 1971, although the community itself dates back to at least the mid-19th century."
     },
     {
+      "cityName": "Woodland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "A woodland is, in the broad sense, land covered with woody plants, or in a narrow sense, synonymous with wood, a low-density forest forming open habitats with plenty of sunlight and limited shade."
+    },
+    {
+      "cityName": "Woodland",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "Some savannas may also be woodlands, such as savanna woodland, where trees and shrubs form a light canopy."
+    },
+    {
       "cityName": "Woodleaf",
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 1,
       "fact": "The community is located on North Carolina Highway 801, 9.5 miles (15.3 km) northwest of Salisbury."
+    },
+    {
+      "cityName": "Wrightsville Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "Wrightsville Beach is just east of Wilmington and is part of the Wilmington metropolitan area."
+    },
+    {
+      "cityName": "Wrightsville Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 2,
+      "fact": "The population was 2,473 at the 2020 census."
+    },
+    {
+      "cityName": "Wrightsville Beach",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 3,
+      "fact": "The town consists of a 4.6-mile (7 km) long beach island, an interior island called Harbor Island."
+    },
+    {
+      "cityName": "Yadkinville",
+      "state": "NC",
+      "source": "Wikipedia",
+      "factNumber": 1,
+      "fact": "The population was 2,997 at the 2020 census."
     },
     {
       "cityName": "Yanceyville",
@@ -7740,7 +9994,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 3,
-      "fact": "Cultural and recreational attractions include Maud F. Gatewood Municipal Park, the Caswell Community Arboretum, and the annual Bright Leaf Hoedown festival."
+      "fact": "Cultural and recreational attractions include Maud F Gatewood Municipal Park, the Caswell Community Arboretum, and the annual Bright Leaf Hoedown festival."
     },
     {
       "cityName": "Yanceyville",
@@ -7775,7 +10029,7 @@
       "state": "NC",
       "source": "Wikipedia",
       "factNumber": 8,
-      "fact": "Yanceyville\u2019s location in the Piedmont Triad combines a rural setting with proximity to Greensboro, Danville, Virginia, and the Research Triangle."
+      "fact": "Yanceyville’s location in the Piedmont Triad combines a rural setting with proximity to Greensboro, Danville, Virginia, and the Research Triangle."
     },
     {
       "cityName": "Zebulon",

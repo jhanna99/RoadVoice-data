@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated": "2026-02-16T03:46:52.991Z",
+  "generated": "2026-02-16T03:50:03.878Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -2491,6 +2491,30 @@
       "locationCount": 237,
       "fileSize": 26476,
       "checksum": "bf95e55d8332f8c2eafde60b1f689c51"
+    },
+    "urban_air": {
+      "displayName": "Urban Air",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 242,
+      "fileSize": 27601,
+      "checksum": "a8d4a28b45cd9264a5b5bd274cd4cfc0"
+    },
+    "round1": {
+      "displayName": "Round1",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 66,
+      "fileSize": 9310,
+      "checksum": "f6d2d73580ac6fa199f5af1d12550a0e"
+    },
+    "ifly": {
+      "displayName": "iFLY",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 42,
+      "fileSize": 4757,
+      "checksum": "fb7d4d5d00e24118731dff4703052e67"
     }
   }
 }

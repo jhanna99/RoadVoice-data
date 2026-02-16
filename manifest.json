@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated": "2026-02-16T03:39:35.293Z",
+  "generated": "2026-02-16T03:46:52.991Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -429,7 +429,7 @@
       "checksum": "48ab0d45f6b62726df2f3519a50fb1d8"
     },
     "caffe_nero": {
-      "displayName": "Caff\u00e8 Nero",
+      "displayName": "Caffè Nero",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 42,
@@ -2467,6 +2467,30 @@
       "locationCount": 295,
       "fileSize": 41545,
       "checksum": "e71aabcb71a6e4b91355121cef53e9ae"
+    },
+    "wingstop": {
+      "displayName": "Wingstop",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 2354,
+      "fileSize": 269451,
+      "checksum": "0effb313784e9b674f6713f271403b74"
+    },
+    "noodles_and_company": {
+      "displayName": "Noodles & Company",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 402,
+      "fileSize": 44551,
+      "checksum": "dc272cd8c723f187220f7696cfb6fdc2"
+    },
+    "jasons_deli": {
+      "displayName": "Jason's Deli",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 237,
+      "fileSize": 26476,
+      "checksum": "bf95e55d8332f8c2eafde60b1f689c51"
     }
   }
 }

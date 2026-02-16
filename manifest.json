@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated": "2026-02-16T03:01:46.675Z",
+  "generated": "2026-02-16T03:39:35.293Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -429,7 +429,7 @@
       "checksum": "48ab0d45f6b62726df2f3519a50fb1d8"
     },
     "caffe_nero": {
-      "displayName": "Caffè Nero",
+      "displayName": "Caff\u00e8 Nero",
       "category": "coffee",
       "useLocationName": false,
       "locationCount": 42,
@@ -2419,6 +2419,54 @@
       "locationCount": 4013,
       "fileSize": 443484,
       "checksum": "54dc196e21bb4312155d533129de5921"
+    },
+    "tropical_smoothie": {
+      "displayName": "Tropical Smoothie Cafe",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1672,
+      "fileSize": 189373,
+      "checksum": "24492743278181118b3f53698412de0d"
+    },
+    "steak_n_shake": {
+      "displayName": "Steak 'n Shake",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 386,
+      "fileSize": 43620,
+      "checksum": "d50779dde258bfa2c4b9ddd660f4317e"
+    },
+    "habit_burger": {
+      "displayName": "The Habit Burger Grill",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 396,
+      "fileSize": 46078,
+      "checksum": "ab7c571d79d849ca671e8be138db0a33"
+    },
+    "buca_di_beppo": {
+      "displayName": "Buca di Beppo",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 48,
+      "fileSize": 6484,
+      "checksum": "b25bda396fcd3b7a42fa004043bc5318"
+    },
+    "pret_a_manger": {
+      "displayName": "Pret A Manger",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 65,
+      "fileSize": 7842,
+      "checksum": "a131ee9503f213849b0437cc3c4fd5a0"
+    },
+    "mary_browns": {
+      "displayName": "Mary Brown's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 295,
+      "fileSize": 41545,
+      "checksum": "e71aabcb71a6e4b91355121cef53e9ae"
     }
   }
 }

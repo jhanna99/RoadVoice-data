@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated": "2026-02-15T22:28:22.000Z",
+  "generated": "2026-02-16T03:01:46.675Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -2411,6 +2411,14 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "8fdb55b23c3d12bf670d0c66e192a8dd"
+    },
+    "chipotle": {
+      "displayName": "Chipotle",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 4013,
+      "fileSize": 443484,
+      "checksum": "54dc196e21bb4312155d533129de5921"
     }
   }
 }

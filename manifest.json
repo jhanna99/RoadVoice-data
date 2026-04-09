@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated": "2026-02-15T22:28:22.000Z",
+  "generated": "2026-02-16T03:50:03.878Z",
   "atpBuildDate": "2026-01-05",
   "repoUrl": "https://raw.githubusercontent.com/jhanna99/RoadVoice-data/main",
   "brands": {
@@ -2411,6 +2411,110 @@
       "locationCount": 132,
       "fileSize": 13859,
       "checksum": "8fdb55b23c3d12bf670d0c66e192a8dd"
+    },
+    "chipotle": {
+      "displayName": "Chipotle",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 4013,
+      "fileSize": 443484,
+      "checksum": "54dc196e21bb4312155d533129de5921"
+    },
+    "tropical_smoothie": {
+      "displayName": "Tropical Smoothie Cafe",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 1672,
+      "fileSize": 189373,
+      "checksum": "24492743278181118b3f53698412de0d"
+    },
+    "steak_n_shake": {
+      "displayName": "Steak 'n Shake",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 386,
+      "fileSize": 43620,
+      "checksum": "d50779dde258bfa2c4b9ddd660f4317e"
+    },
+    "habit_burger": {
+      "displayName": "The Habit Burger Grill",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 396,
+      "fileSize": 46078,
+      "checksum": "ab7c571d79d849ca671e8be138db0a33"
+    },
+    "buca_di_beppo": {
+      "displayName": "Buca di Beppo",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 48,
+      "fileSize": 6484,
+      "checksum": "b25bda396fcd3b7a42fa004043bc5318"
+    },
+    "pret_a_manger": {
+      "displayName": "Pret A Manger",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 65,
+      "fileSize": 7842,
+      "checksum": "a131ee9503f213849b0437cc3c4fd5a0"
+    },
+    "mary_browns": {
+      "displayName": "Mary Brown's",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 295,
+      "fileSize": 41545,
+      "checksum": "e71aabcb71a6e4b91355121cef53e9ae"
+    },
+    "wingstop": {
+      "displayName": "Wingstop",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 2354,
+      "fileSize": 269451,
+      "checksum": "0effb313784e9b674f6713f271403b74"
+    },
+    "noodles_and_company": {
+      "displayName": "Noodles & Company",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 402,
+      "fileSize": 44551,
+      "checksum": "dc272cd8c723f187220f7696cfb6fdc2"
+    },
+    "jasons_deli": {
+      "displayName": "Jason's Deli",
+      "category": "restaurant",
+      "useLocationName": false,
+      "locationCount": 237,
+      "fileSize": 26476,
+      "checksum": "bf95e55d8332f8c2eafde60b1f689c51"
+    },
+    "urban_air": {
+      "displayName": "Urban Air",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 242,
+      "fileSize": 27601,
+      "checksum": "a8d4a28b45cd9264a5b5bd274cd4cfc0"
+    },
+    "round1": {
+      "displayName": "Round1",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 66,
+      "fileSize": 9310,
+      "checksum": "f6d2d73580ac6fa199f5af1d12550a0e"
+    },
+    "ifly": {
+      "displayName": "iFLY",
+      "category": "entertainment",
+      "useLocationName": false,
+      "locationCount": 42,
+      "fileSize": 4757,
+      "checksum": "fb7d4d5d00e24118731dff4703052e67"
     }
   }
 }

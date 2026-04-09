@@ -1521,9 +1521,9 @@ try {
         const brand = f.properties.brand || '';
         if (brand !== filterBrand) return false;
       }
-      // Only US locations (or empty country which usually means US)
+      // Only US and Canadian locations (or empty country which usually means US)
       const country = getProperty(f.properties, 'addr:country', 'country');
-      if (country !== 'US' && country !== '') return false;
+      if (country !== 'US' && country !== 'CA' && country !== '') return false;
 
       // Filter out known test data entries
       let city = getProperty(f.properties, 'addr:city', 'city');
